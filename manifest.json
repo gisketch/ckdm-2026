@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27f",
+    "version": "v2026.04.27g",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -20,6 +20,20 @@
       "sha512": null,
       "size": 98641,
       "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "bettergrassify",
+      "source": "modrinth",
+      "projectId": "m5T5xmUy",
+      "versionId": "Rt96zVC1",
+      "repoPath": null,
+      "filename": "BetterGrassify-1.7.0+neoforge.1.21.1.jar",
+      "sha1": "7cf1376b4cb66721cf4795d55eb5a88123591bae",
+      "sha512": null,
+      "size": 155305,
+      "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/Rt96zVC1/BetterGrassify-1.7.0%2Bneoforge.1.21.1.jar",
       "optional": false,
       "side": "client"
     },
@@ -48,6 +62,34 @@
       "sha512": null,
       "size": 756460,
       "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "easy-anvils",
+      "source": "modrinth",
+      "projectId": "OZBR5JT5",
+      "versionId": "fSQSKhdF",
+      "repoPath": null,
+      "filename": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "sha1": "376c02e44dfcb44b79a494b1dba87b2ffb24277f",
+      "sha512": null,
+      "size": 152297,
+      "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/fSQSKhdF/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "easy-magic",
+      "source": "modrinth",
+      "projectId": "9hx3AbJM",
+      "versionId": "MxbfrOEv",
+      "repoPath": null,
+      "filename": "EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
+      "sha1": "bbd1d7afd2b803f6c8055b5342d581ea542e132e",
+      "sha512": null,
+      "size": 143992,
+      "url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/MxbfrOEv/EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
       "optional": false,
       "side": "both"
     },
@@ -178,6 +220,20 @@
       "side": "both"
     },
     {
+      "id": "travelers-titles",
+      "source": "modrinth",
+      "projectId": "JtifUr64",
+      "versionId": "2y01mBUy",
+      "repoPath": null,
+      "filename": "TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "166cba4d367c6dd103d1d5dcab7a31174bec799e",
+      "sha512": null,
+      "size": 235345,
+      "url": "https://cdn.modrinth.com/data/JtifUr64/versions/2y01mBUy/TravelersTitles-1.21.1-NeoForge-5.1.3.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "visual-workbench",
       "source": "modrinth",
       "projectId": "kfqD1JRw",
@@ -188,6 +244,20 @@
       "sha512": null,
       "size": 81945,
       "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/Jy5V5FNj/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "yungs-api",
+      "source": "modrinth",
+      "projectId": "Ua7DFN59",
+      "versionId": "ZB22DE9q",
+      "repoPath": null,
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+      "sha1": "e1c394779fb9e038e4f7a1b4558d0432607d263b",
+      "sha512": null,
+      "size": 388678,
+      "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "optional": false,
       "side": "both"
     },
@@ -318,6 +388,20 @@
       "side": "both"
     },
     {
+      "id": "betterdays",
+      "source": "modrinth",
+      "projectId": "tPLE214j",
+      "versionId": "Ho93yCC3",
+      "repoPath": null,
+      "filename": "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "sha1": "0beeb796055f8abdebb9304fe26b655068a52a9c",
+      "sha512": null,
+      "size": 585998,
+      "url": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "carry-on",
       "source": "modrinth",
       "projectId": "joEfVgkn",
@@ -328,6 +412,20 @@
       "sha512": null,
       "size": 357489,
       "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "carry-on-extend",
+      "source": "modrinth",
+      "projectId": "JbqjOoQj",
+      "versionId": "OdksqY6s",
+      "repoPath": null,
+      "filename": "carryonextend-architectury-neoforge-1.5.1.jar",
+      "sha1": "086bf0cd9a5b1ca26f2cc7b49a470636fa3d47e5",
+      "sha512": null,
+      "size": 58600,
+      "url": "https://cdn.modrinth.com/data/JbqjOoQj/versions/OdksqY6s/carryonextend-architectury-neoforge-1.5.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -370,6 +468,20 @@
       "sha512": null,
       "size": 1222255,
       "url": "https://cdn.modrinth.com/data/qekxLrOP/versions/Q1cwyIE1/cobbledex-rei-emi-jei-neoforge-1.50.22.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "collective",
+      "source": "modrinth",
+      "projectId": "e0M1UDsY",
+      "versionId": "QS3LpoNt",
+      "repoPath": null,
+      "filename": "collective-1.21.1-8.20.jar",
+      "sha1": "843bd92e270196c1b52eabc7ac54b0b6c521e395",
+      "sha512": null,
+      "size": 942780,
+      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/QS3LpoNt/collective-1.21.1-8.20.jar",
       "optional": false,
       "side": "both"
     },
@@ -528,6 +640,20 @@
       "side": "both"
     },
     {
+      "id": "death-backup",
+      "source": "modrinth",
+      "projectId": "Ot5JFxuv",
+      "versionId": "wYJBZoFd",
+      "repoPath": null,
+      "filename": "deathbackup-1.21.1-3.5.jar",
+      "sha1": "ecf804fb90115f3a6718d101872ce359b75c1799",
+      "sha512": null,
+      "size": 52454,
+      "url": "https://cdn.modrinth.com/data/Ot5JFxuv/versions/wYJBZoFd/deathbackup-1.21.1-3.5.jar",
+      "optional": false,
+      "side": "server"
+    },
+    {
       "id": "distraction-free-recipes",
       "source": "modrinth",
       "projectId": "gbJLUhZP",
@@ -540,6 +666,20 @@
       "url": "https://cdn.modrinth.com/data/gbJLUhZP/versions/H0rFJIiC/distraction_free_recipes-neoforge-1.2.1-1.21.1.jar",
       "optional": false,
       "side": "client"
+    },
+    {
+      "id": "do-a-barrel-roll",
+      "source": "modrinth",
+      "projectId": "6FtRfnLg",
+      "versionId": "Zj604q5O",
+      "repoPath": null,
+      "filename": "do_a_barrel_roll-neoforge-3.7.3+1.21.jar",
+      "sha1": "6a3cc7dc17fb701087a9705b06d75d9bb5f09065",
+      "sha512": null,
+      "size": 465787,
+      "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "drippy-loading-screen",
@@ -710,15 +850,15 @@
       "side": "server"
     },
     {
-      "id": "mods-gisketchs-command-palette-1-0-0",
+      "id": "mods-gisketch-s-command-palette-1-0-0",
       "source": "repo",
       "projectId": null,
       "versionId": null,
-      "repoPath": "mods/gisketchs_command_palette-1.0.0.jar",
-      "filename": "gisketchs_command_palette-1.0.0.jar",
-      "sha1": "bdcfea46c15bf011d9b639b0a6cf812457e3c579",
+      "repoPath": "mods/gisketch_s_command_palette-1.0.0.jar",
+      "filename": "gisketch_s_command_palette-1.0.0.jar",
+      "sha1": "9ab03887db538547e943af899e6ca27936f12f57",
       "sha512": null,
-      "size": 77555,
+      "size": 84508,
       "url": "",
       "optional": false,
       "side": "client"
@@ -1356,6 +1496,20 @@
   ],
   "resourcepacks": [
     {
+      "id": "resourcepacks-biome-edition-traveler-s-titles-by-imevolution-v1-3",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Biome Edition Traveler's Titles by ImEvolutiON V1.3.zip",
+      "filename": "Biome Edition Traveler's Titles by ImEvolutiON V1.3.zip",
+      "sha1": "8190cc7a0a457481b96c6b2cdc6d7b0b114b7a95",
+      "sha512": null,
+      "size": 9246637,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "resourcepacks-ckdmrefined",
       "source": "repo",
       "projectId": null,
@@ -1547,6 +1701,20 @@
       "sha1": "c69c4af8d7d57bfb4eec4d0f977075646c30cbd2",
       "sha512": null,
       "size": 6081138,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-visual-titles-1-3",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Visual Titles 1.3.zip",
+      "filename": "Visual Titles 1.3.zip",
+      "sha1": "80a1efaf621d7b376b0ce8e5fab7462ed10b9ce3",
+      "sha512": null,
+      "size": 444982,
       "url": "",
       "optional": false,
       "side": "client"
