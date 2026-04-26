@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.26b",
+    "version": "v2026.04.26c",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -36,6 +36,20 @@
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
       "optional": false,
       "side": "client"
+    },
+    {
+      "id": "architectury-api",
+      "source": "modrinth",
+      "projectId": "lhGA9TYQ",
+      "versionId": "ZxYGwlk0",
+      "repoPath": null,
+      "filename": "architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "sha512": null,
+      "size": 584004,
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "create",
@@ -80,6 +94,20 @@
       "side": "client"
     },
     {
+      "id": "fancymenu",
+      "source": "modrinth",
+      "projectId": "Wq5SjeWM",
+      "versionId": "iNWXxME7",
+      "repoPath": null,
+      "filename": "fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "sha1": "061a2c1ae0563d9d433928c243c58ee9b45f630f",
+      "sha512": null,
+      "size": 4297501,
+      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/iNWXxME7/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "ferrite-core",
       "source": "modrinth",
       "projectId": "uXXizFIs",
@@ -92,6 +120,20 @@
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "mods-gisketchs-command-palette-1-0-0",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/gisketchs_command_palette-1.0.0.jar",
+      "filename": "gisketchs_command_palette-1.0.0.jar",
+      "sha1": "bdcfea46c15bf011d9b639b0a6cf812457e3c579",
+      "sha512": null,
+      "size": 77555,
+      "url": "",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "iris",
@@ -108,6 +150,20 @@
       "side": "client"
     },
     {
+      "id": "konkrete",
+      "source": "modrinth",
+      "projectId": "J81TRJWm",
+      "versionId": "stJDU839",
+      "repoPath": null,
+      "filename": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+      "sha512": null,
+      "size": 618842,
+      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "kotlin-for-forge",
       "source": "modrinth",
       "projectId": "ordsPcFz",
@@ -122,6 +178,20 @@
       "side": "both"
     },
     {
+      "id": "melody",
+      "source": "modrinth",
+      "projectId": "CVT4pFB2",
+      "versionId": "efcdRVZP",
+      "repoPath": null,
+      "filename": "melody_neoforge_1.0.10_MC_1.21.jar",
+      "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+      "sha512": null,
+      "size": 36096,
+      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "modernfix",
       "source": "modrinth",
       "projectId": "nmDcB62a",
@@ -132,6 +202,20 @@
       "sha512": null,
       "size": 562031,
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QbebWhuK/modernfix-neoforge-5.27.3%2Bmc1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "owo-lib",
+      "source": "modrinth",
+      "projectId": "ccKDOlHs",
+      "versionId": "NMCHU6DZ",
+      "repoPath": null,
+      "filename": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+      "sha512": null,
+      "size": 1221583,
+      "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
       "optional": false,
       "side": "both"
     },
@@ -150,6 +234,35 @@
       "side": "client"
     }
   ],
-  "resourcepacks": [],
+  "resourcepacks": [
+    {
+      "id": "resourcepacks-ckdmrefined",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/CKDMRefined.zip",
+      "filename": "CKDMRefined.zip",
+      "sha1": "8ae4a0ada7845798883328c0030c65597b0ebdd2",
+      "sha512": null,
+      "size": 43884,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-chowkingdomgui421",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/ChowkingdomGUI421.zip",
+      "filename": "ChowkingdomGUI421.zip",
+      "sha1": "de0dfce4320ead1e82e04592a93dbd324e398d43",
+      "sha512": null,
+      "size": 15098510,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    }
+  ],
   "shaderpacks": []
 }
