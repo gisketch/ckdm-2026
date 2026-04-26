@@ -1,8 +1,5 @@
 type = customizablemenus
 
-de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
-}
-
 net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
@@ -19,9 +16,6 @@ net.irisshaders.iris.gui.screen.ShaderPackScreen {
 }
 
 net.minecraft.client.gui.screens.options.OptionsScreen {
-}
-
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 }
 
 net.minecraft.client.gui.screens.options.SoundOptionsScreen {
@@ -58,5 +52,8 @@ net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
 net.minecraft.client.gui.screens.TitleScreen {
+}
+
+dev.gisketch.commandpalette.ui.CommandPaletteScreen {
 }
 

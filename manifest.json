@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27a",
+    "version": "v2026.04.27b",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -52,6 +52,34 @@
       "side": "client"
     },
     {
+      "id": "overflowing-bars",
+      "source": "modrinth",
+      "projectId": "XD7XOrAF",
+      "versionId": "PYRrjTaY",
+      "repoPath": null,
+      "filename": "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "a9dea4b9ef893fc955512ff2dee75c9c82e09a52",
+      "sha512": null,
+      "size": 78482,
+      "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/PYRrjTaY/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "puzzles-lib",
+      "source": "modrinth",
+      "projectId": "QAGBst4M",
+      "versionId": "EgWWSAhJ",
+      "repoPath": null,
+      "filename": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "sha1": "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2",
+      "sha512": null,
+      "size": 1080389,
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "accessories",
       "source": "modrinth",
       "projectId": "jtmvUHXj",
@@ -62,6 +90,20 @@
       "sha512": null,
       "size": 1078697,
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "appleskin",
+      "source": "modrinth",
+      "projectId": "EsAfCjCV",
+      "versionId": "uAKA6Laj",
+      "repoPath": null,
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+      "sha512": null,
+      "size": 75804,
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
       "optional": false,
       "side": "both"
     },
@@ -132,6 +174,20 @@
       "sha512": null,
       "size": 579386,
       "url": "https://cdn.modrinth.com/data/pduQXSbl/versions/W4aVC4kv/azurelibarmor-neo-1.21.1-3.1.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "balm",
+      "source": "modrinth",
+      "projectId": "MBAkmtvl",
+      "versionId": "XC1JUHmA",
+      "repoPath": null,
+      "filename": "balm-neoforge-1.21.1-21.0.57.jar",
+      "sha1": "471e60cbd2ce9753315e763772a8c55fccf843b8",
+      "sha512": null,
+      "size": 701108,
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/XC1JUHmA/balm-neoforge-1.21.1-21.0.57.jar",
       "optional": false,
       "side": "both"
     },
@@ -822,6 +878,20 @@
       "side": "server"
     },
     {
+      "id": "trashslot",
+      "source": "modrinth",
+      "projectId": "vRYk0bv7",
+      "versionId": "xyqrX19y",
+      "repoPath": null,
+      "filename": "trashslot-neoforge-1.21.1-21.1.4.jar",
+      "sha1": "20aff6abd9db6c662e8e8c98fe98d87208338ca6",
+      "sha512": null,
+      "size": 123189,
+      "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/xyqrX19y/trashslot-neoforge-1.21.1-21.1.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "txnilib",
       "source": "modrinth",
       "projectId": "vBbPDuOs",
@@ -922,6 +992,20 @@
       "side": "client"
     },
     {
+      "id": "resourcepacks-overflowing-unique-dark",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Overflowing Unique Dark.zip",
+      "filename": "Overflowing Unique Dark.zip",
+      "sha1": "582c111d24d09ecf0662e7ed1eb47aefa1c85d09",
+      "sha512": null,
+      "size": 6122,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "resourcepacks-pa-fa-compat-v1",
       "source": "repo",
       "projectId": null,
@@ -945,6 +1029,48 @@
       "sha1": "1a82b5fbbd0f5f0cd3f3eb5aa6f57b991f00ff97",
       "sha512": null,
       "size": 63546,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-trashslot---ud-refined",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/TrashSlot - UD Refined.zip",
+      "filename": "TrashSlot - UD Refined.zip",
+      "sha1": "3dfa06fef059f17c05a706269d795f8c2f5be5fe",
+      "sha512": null,
+      "size": 6677,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-ud---hotbar-add-on-1-20-2-26-x",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/UD - Hotbar add-on 1.20.2-26.x.zip",
+      "filename": "UD - Hotbar add-on 1.20.2-26.x.zip",
+      "sha1": "4b75e17f8876182dc99f4ec142d9c8b2b04b3249",
+      "sha512": null,
+      "size": 14866,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-ud-refined---lite---1-20-2-26-x",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/UD Refined - Lite - 1.20.2-26.x.zip",
+      "filename": "UD Refined - Lite - 1.20.2-26.x.zip",
+      "sha1": "c69c4af8d7d57bfb4eec4d0f977075646c30cbd2",
+      "sha512": null,
+      "size": 6081138,
       "url": "",
       "optional": false,
       "side": "client"
