@@ -3,12 +3,26 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27c",
+    "version": "v2026.04.27d",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
   },
   "mods": [
+    {
+      "id": "better-advancements",
+      "source": "modrinth",
+      "projectId": "Q2OqKxDG",
+      "versionId": "FjTYILOi",
+      "repoPath": null,
+      "filename": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "sha1": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2",
+      "sha512": null,
+      "size": 98641,
+      "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+      "optional": false,
+      "side": "client"
+    },
     {
       "id": "cobblemon",
       "source": "modrinth",
@@ -118,6 +132,20 @@
       "sha512": null,
       "size": 4932632,
       "url": "https://cdn.modrinth.com/data/zAIE84Ch/versions/INuI60Al/Quick%20Skin%20-%20NeoForge%20-%201.21.1-2.6.2.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "visual-workbench",
+      "source": "modrinth",
+      "projectId": "kfqD1JRw",
+      "versionId": "Jy5V5FNj",
+      "repoPath": null,
+      "filename": "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+      "sha1": "74941456944461f39b10504ec9aed8c1e0fb7276",
+      "sha512": null,
+      "size": 81945,
+      "url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/Jy5V5FNj/VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
       "optional": false,
       "side": "both"
     },
@@ -248,6 +276,20 @@
       "side": "both"
     },
     {
+      "id": "carry-on",
+      "source": "modrinth",
+      "projectId": "joEfVgkn",
+      "versionId": "cgZi7nC7",
+      "repoPath": null,
+      "filename": "carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "sha1": "774bf57a199784c35e74f2d619d6001c87185a11",
+      "sha512": null,
+      "size": 357489,
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "chat-heads",
       "source": "modrinth",
       "projectId": "Wb5oqrBJ",
@@ -302,6 +344,34 @@
       "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FT7t1n1a/combat_roll-neoforge-2.0.6%2B1.21.1.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "connector",
+      "source": "modrinth",
+      "projectId": "u58R1TMW",
+      "versionId": "1i8teo7m",
+      "repoPath": null,
+      "filename": "connector-2.0.0-beta.14+1.21.1-full.jar",
+      "sha1": "930067497b5c1249e51b3e33620ab4e72dc92f4c",
+      "sha512": null,
+      "size": 4526785,
+      "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "continuity",
+      "source": "modrinth",
+      "projectId": "1IjD5062",
+      "versionId": "eXGUs5sy",
+      "repoPath": null,
+      "filename": "continuity-3.0.0+1.21.neoforge.jar",
+      "sha1": "0aecd2d043ac25299254623fafdd9129ab2ba9c2",
+      "sha512": null,
+      "size": 1014626,
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "copycats",
@@ -416,6 +486,20 @@
       "side": "client"
     },
     {
+      "id": "drippy-loading-screen",
+      "source": "modrinth",
+      "projectId": "v3CYg2V9",
+      "versionId": "2BfDBRBV",
+      "repoPath": null,
+      "filename": "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+      "sha1": "907f43294b63cd845bf2fdad1ea5fe5c52552508",
+      "sha512": null,
+      "size": 172759,
+      "url": "https://cdn.modrinth.com/data/v3CYg2V9/versions/2BfDBRBV/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "dynamic-fps",
       "source": "modrinth",
       "projectId": "LQ3K71Q1",
@@ -426,6 +510,20 @@
       "sha512": null,
       "size": 220193,
       "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "dynamiccrosshair",
+      "source": "modrinth",
+      "projectId": "ZcR9weSm",
+      "versionId": "RShcBQz5",
+      "repoPath": null,
+      "filename": "dynamiccrosshair-9.11+1.21.1-neoforge.jar",
+      "sha1": "d35cddd8145a68029305b119af571ebf36e9cda5",
+      "sha512": null,
+      "size": 514029,
+      "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/RShcBQz5/dynamiccrosshair-9.11%2B1.21.1-neoforge.jar",
       "optional": false,
       "side": "client"
     },
@@ -668,6 +766,20 @@
       "side": "both"
     },
     {
+      "id": "not-enough-animations",
+      "source": "modrinth",
+      "projectId": "MPCX6s5C",
+      "versionId": "FqqXQToo",
+      "repoPath": null,
+      "filename": "notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+      "sha1": "a7713e65d5c5bbda51ef396275869db3f5d675a6",
+      "sha512": null,
+      "size": 1933309,
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/FqqXQToo/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "owo-lib",
       "source": "modrinth",
       "projectId": "ccKDOlHs",
@@ -696,6 +808,20 @@
       "side": "both"
     },
     {
+      "id": "particular-reforged",
+      "source": "modrinth",
+      "projectId": "pYFUU6cq",
+      "versionId": "QmW99EbW",
+      "repoPath": null,
+      "filename": "particular-1.21.1-NeoForge-1.1.7.jar",
+      "sha1": "39d2fa3c396bf75a00078922dd6c2a7bf9f63f46",
+      "sha512": null,
+      "size": 221535,
+      "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/QmW99EbW/particular-1.21.1-NeoForge-1.1.7.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "playeranimator",
       "source": "modrinth",
       "projectId": "gedNE4y2",
@@ -706,6 +832,20 @@
       "sha512": null,
       "size": 203149,
       "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "polymorph",
+      "source": "modrinth",
+      "projectId": "tagwiZkJ",
+      "versionId": "VEburL70",
+      "repoPath": null,
+      "filename": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+      "sha512": null,
+      "size": 174972,
+      "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -960,6 +1100,20 @@
       "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "visuality-forge",
+      "source": "modrinth",
+      "projectId": "z13R7Et1",
+      "versionId": "ZBidwV02",
+      "repoPath": null,
+      "filename": "visuality-forge-2.1.0.jar",
+      "sha1": "b400034ca8affe8f30b21935ae4ef74b1cf2fa29",
+      "sha512": null,
+      "size": 115765,
+      "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/ZBidwV02/visuality-forge-2.1.0.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "wizards",
