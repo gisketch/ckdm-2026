@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.28d",
+    "version": "v2026.04.28e",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -918,6 +918,48 @@
       "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "coroutil",
+      "source": "modrinth",
+      "projectId": "rLLJ1OZM",
+      "versionId": "H2YXCYUY",
+      "repoPath": null,
+      "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha1": "b044c51d00d60b5645a0c0890812935cd933555f",
+      "sha512": null,
+      "size": 63981,
+      "url": "https://cdn.modrinth.com/data/rLLJ1OZM/versions/H2YXCYUY/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "corpse",
+      "source": "modrinth",
+      "projectId": "WrpuIfhw",
+      "versionId": "Zwf8nv8y",
+      "repoPath": null,
+      "filename": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha1": "a735362c4e5ef705956f1fcbac01fb9f1aae5b8e",
+      "sha512": null,
+      "size": 253694,
+      "url": "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "corpse-x-curios-api-compat",
+      "source": "modrinth",
+      "projectId": "pJGcKPh1",
+      "versionId": "Ix4uAd2i",
+      "repoPath": null,
+      "filename": "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "sha1": "821d83bb4414e93721563e9ed7670976bc2afab1",
+      "sha512": null,
+      "size": 23659,
+      "url": "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+      "optional": false,
+      "side": "server"
     },
     {
       "id": "create",
@@ -2260,6 +2302,20 @@
       "sha512": null,
       "size": 185509,
       "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/L5jTlkf7/wakes-1.21.1-NeoForge-1.0.5.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "what-are-they-up-to",
+      "source": "modrinth",
+      "projectId": "AtB5mHky",
+      "versionId": "uWr2aTW9",
+      "repoPath": null,
+      "filename": "watut-neoforge-1.21.0-1.2.7.jar",
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "sha512": null,
+      "size": 432269,
+      "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
       "optional": false,
       "side": "both"
     },
