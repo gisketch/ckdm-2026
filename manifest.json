@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.28h",
+    "version": "v2026.04.28i",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -398,6 +398,20 @@
       "sha512": null,
       "size": 933248,
       "url": "https://cdn.modrinth.com/data/31TqAmXC/versions/NTKPm1J1/Mod%20Menu%20%28NeoForge%20Edition%29%201.21.1-1.0.2.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "mossylib",
+      "source": "modrinth",
+      "projectId": "ffLDUGbm",
+      "versionId": "eXqQAiDq",
+      "repoPath": null,
+      "filename": "MossyLib-1.1.0+1.21.1+neoforge.jar",
+      "sha1": "ce2e56fbb98f7bc9c937a95ab3789d5b2c07c948",
+      "sha512": null,
+      "size": 178015,
+      "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/eXqQAiDq/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar",
       "optional": false,
       "side": "client"
     },
@@ -2222,6 +2236,20 @@
       "side": "client"
     },
     {
+      "id": "countereds-smooth-f5",
+      "source": "modrinth",
+      "projectId": "eSO2d8oJ",
+      "versionId": "Kit9aSj3",
+      "repoPath": null,
+      "filename": "smooth_f5-neoforge-1.0.1.jar",
+      "sha1": "613f0a5c32dc723926a61f565e2040fd7b33f976",
+      "sha512": null,
+      "size": 6849,
+      "url": "https://cdn.modrinth.com/data/eSO2d8oJ/versions/Kit9aSj3/smooth_f5-neoforge-1.0.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "smooth-gui",
       "source": "modrinth",
       "projectId": "j6yrZogB",
@@ -2246,20 +2274,6 @@
       "sha512": null,
       "size": 62900,
       "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/tnvwgXE6/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
-      "optional": false,
-      "side": "client"
-    },
-    {
-      "id": "mods-smooththirdpersoncamera-1-0-1-mc1-21-1-21-10",
-      "source": "repo",
-      "projectId": null,
-      "versionId": null,
-      "repoPath": "mods/smooththirdpersoncamera-1.0.1+mc1.21-1.21.10.jar",
-      "filename": "smooththirdpersoncamera-1.0.1+mc1.21-1.21.10.jar",
-      "sha1": "dd2f8b5ae909f682b7ff3614e4c52200e4fa6f1d",
-      "sha512": null,
-      "size": 855446,
-      "url": "",
       "optional": false,
       "side": "client"
     },
@@ -2849,6 +2863,20 @@
       "sha1": "2e3919b05a894e744f34c601877d6d0618cea70a",
       "sha512": null,
       "size": 219931,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-nature-x---12-2--1-21-1",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Nature X - 12.2 [1.21.1].zip",
+      "filename": "Nature X - 12.2 [1.21.1].zip",
+      "sha1": "d26216e5cb9118bd036652b893daf3572d0782de",
+      "sha512": null,
+      "size": 1802203,
       "url": "",
       "optional": false,
       "side": "client"
