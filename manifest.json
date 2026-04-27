@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.28e",
+    "version": "v2026.04.28f",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -722,6 +722,20 @@
       "url": "https://cdn.modrinth.com/data/pduQXSbl/versions/W4aVC4kv/azurelibarmor-neo-1.21.1-3.1.4.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "baguettelib",
+      "source": "modrinth",
+      "projectId": "OfKzpbRU",
+      "versionId": "guIAbyuH",
+      "repoPath": null,
+      "filename": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha1": "e01709c880b0602b7a306201a25866e76c44f5c0",
+      "sha512": null,
+      "size": 74380,
+      "url": "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "optional": false,
+      "side": "server"
     },
     {
       "id": "balm",
@@ -1578,6 +1592,20 @@
       "side": "both"
     },
     {
+      "id": "lithosphere",
+      "source": "modrinth",
+      "projectId": "iv9jp2k9",
+      "versionId": "wqHGyD4G",
+      "repoPath": null,
+      "filename": "lithosphere-1.7.jar",
+      "sha1": "a77a7fb21336f7dc16de8ee51986de7ee1c7fc81",
+      "sha512": null,
+      "size": 527182,
+      "url": "https://cdn.modrinth.com/data/iv9jp2k9/versions/wqHGyD4G/lithosphere-1.7.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "melody",
       "source": "modrinth",
       "projectId": "CVT4pFB2",
@@ -2180,6 +2208,20 @@
       "side": "both"
     },
     {
+      "id": "still-life",
+      "source": "modrinth",
+      "projectId": "fK6aflho",
+      "versionId": "Jerfht2T",
+      "repoPath": null,
+      "filename": "still-life-0.1.1.jar",
+      "sha1": "7e066d72ebc4e78f42f49ea9bd899b89b8fc5105",
+      "sha512": null,
+      "size": 4714182,
+      "url": "https://cdn.modrinth.com/data/fK6aflho/versions/Jerfht2T/still-life-0.1.1.jar",
+      "optional": false,
+      "side": "server"
+    },
+    {
       "id": "structure-pool-api",
       "source": "modrinth",
       "projectId": "LrYZi08Q",
@@ -2401,6 +2443,20 @@
       "sha1": "5561c4b460d96e52f22d9d6ae6df1ae4f6c1f242",
       "sha512": null,
       "size": 15052,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-better-leaves-9-5",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Better-Leaves-9.5.zip",
+      "filename": "Better-Leaves-9.5.zip",
+      "sha1": "78b7e6cbb1661716423429d2c46ab08266cdf1f8",
+      "sha512": null,
+      "size": 1923769,
       "url": "",
       "optional": false,
       "side": "client"
@@ -2739,6 +2795,34 @@
       "sha1": "f0268b7b44ab6d80a3833f6352a6cd9f6d641f74",
       "sha512": null,
       "size": 539744,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "shaderpacks-eclipse-shader-unstable",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "shaderpacks/Eclipse-Shader-Unstable.zip",
+      "filename": "Eclipse-Shader-Unstable.zip",
+      "sha1": "e167b911d6b2c0e3fb71778613a2e146b58b4232",
+      "sha512": null,
+      "size": 47119146,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "shaderpacks-eclipse-gisketch-fix",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "shaderpacks/eclipse-gisketch-fix.zip",
+      "filename": "eclipse-gisketch-fix.zip",
+      "sha1": "a5f5158e238f1e86d26d5c0cd4a62414fc0f86fd",
+      "sha512": null,
+      "size": 47115243,
       "url": "",
       "optional": false,
       "side": "client"
