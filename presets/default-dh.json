@@ -1,0 +1,61 @@
+{
+  "id": "default-dh",
+  "label": "DEFAULT DH",
+  "description": "Default pack settings but with Distant Horizons as the LOD setting and Complementary as the Shader setting.",
+  "options": {
+    "video": {
+      "ao": "true",
+      "biomeBlendRadius": "2",
+      "bobView": "true",
+      "enableVsync": "false",
+      "entityDistanceScaling": "1.0",
+      "entityShadows": "false",
+      "fov": "0.25",
+      "fullscreen": "false",
+      "gamma": "0.93",
+      "graphicsMode": "1",
+      "guiScale": "2",
+      "maxFps": "260",
+      "mipmapLevels": "4",
+      "particles": "0",
+      "renderDistance": "8",
+      "simulationDistance": "8"
+    },
+    "keybinds": {},
+    "other": {}
+  },
+  "shader": {
+    "shaderPack": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6",
+    "iris": {},
+    "preset": {}
+  },
+  "files": [
+    {
+      "relPath": "config/DistantHorizons.toml"
+    },
+    {
+      "relPath": "config/iris.properties"
+    },
+    {
+      "relPath": "config/sodium-extra-options.json"
+    },
+    {
+      "relPath": "config/sodium-extra.properties"
+    },
+    {
+      "relPath": "config/sodium-mixins.properties"
+    },
+    {
+      "relPath": "config/sodium-options.json"
+    },
+    {
+      "relPath": "config/sodiumdynamiclights-client.toml"
+    },
+    {
+      "relPath": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+    }
+  ],
+  "disabledMods": [
+    "voxy-0.2.14-alpha-c54de232.jar"
+  ]
+}

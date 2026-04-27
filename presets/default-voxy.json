@@ -1,0 +1,61 @@
+{
+  "id": "default-voxy",
+  "label": "DEFAULT VOXY",
+  "description": "Default pack settings but with Voxy as the LOD setting and Photon as the Shader setting.",
+  "options": {
+    "video": {
+      "ao": "true",
+      "biomeBlendRadius": "2",
+      "bobView": "true",
+      "enableVsync": "false",
+      "entityDistanceScaling": "1.0",
+      "entityShadows": "false",
+      "fov": "0.25",
+      "fullscreen": "false",
+      "gamma": "0.93",
+      "graphicsMode": "1",
+      "guiScale": "2",
+      "maxFps": "260",
+      "mipmapLevels": "4",
+      "particles": "0",
+      "renderDistance": "8",
+      "simulationDistance": "8"
+    },
+    "keybinds": {},
+    "other": {}
+  },
+  "shader": {
+    "shaderPack": "photon_v1.3b.zip",
+    "iris": {},
+    "preset": {}
+  },
+  "files": [
+    {
+      "relPath": "config/iris.properties"
+    },
+    {
+      "relPath": "config/sodium-extra-options.json"
+    },
+    {
+      "relPath": "config/sodium-extra.properties"
+    },
+    {
+      "relPath": "config/sodium-mixins.properties"
+    },
+    {
+      "relPath": "config/sodium-options.json"
+    },
+    {
+      "relPath": "config/sodiumdynamiclights-client.toml"
+    },
+    {
+      "relPath": "config/voxy-config.json"
+    },
+    {
+      "relPath": "shaderpacks/photon_v1.3b.zip.txt"
+    }
+  ],
+  "disabledMods": [
+    "DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar"
+  ]
+}
