@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27q",
+    "version": "v2026.04.27r",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -2347,6 +2347,20 @@
       "sha1": "b560f646a124d5204b1fb7321fec373b9c346fa5",
       "sha512": null,
       "size": 522970,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "shaderpacks-complementaryreimagined-r5-8-dev8",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "shaderpacks/ComplementaryReimagined_r5.8_dev8.zip",
+      "filename": "ComplementaryReimagined_r5.8_dev8.zip",
+      "sha1": "f0268b7b44ab6d80a3833f6352a6cd9f6d641f74",
+      "sha512": null,
+      "size": 539744,
       "url": "",
       "optional": false,
       "side": "client"
