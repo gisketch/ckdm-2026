@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.28b",
+    "version": "v2026.04.28c",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -2513,6 +2513,20 @@
       "sha1": "80a1efaf621d7b376b0ce8e5fab7462ed10b9ce3",
       "sha512": null,
       "size": 444982,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-geofont-mc-v2-1-3",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/geofont-mc-v2.1.3.zip",
+      "filename": "geofont-mc-v2.1.3.zip",
+      "sha1": "385ef9c6654cb66d0e26b06349a815f6231c8ae5",
+      "sha512": null,
+      "size": 143967,
       "url": "",
       "optional": false,
       "side": "client"
