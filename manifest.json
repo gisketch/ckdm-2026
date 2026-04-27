@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27r",
+    "version": "v2026.04.27s",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -92,6 +92,20 @@
       "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KkaaQtTD/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
       "optional": true,
       "side": "both"
+    },
+    {
+      "id": "do-a-flip",
+      "source": "modrinth",
+      "projectId": "S23ik8wV",
+      "versionId": "E7IoNaQ3",
+      "repoPath": null,
+      "filename": "DoAFlip-neoforge-1.21.1-4.1.0.jar",
+      "sha1": "0a79c1d04b1d326bbe8b9a6f4380773745e7c519",
+      "sha512": null,
+      "size": 16959,
+      "url": "https://cdn.modrinth.com/data/S23ik8wV/versions/E7IoNaQ3/DoAFlip-neoforge-1.21.1-4.1.0.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "easy-anvils",
@@ -454,6 +468,34 @@
       "sha512": null,
       "size": 159206,
       "url": "https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "shoulder-surfing-reloaded",
+      "source": "modrinth",
+      "projectId": "kepjj2sy",
+      "versionId": "N8sgtkZi",
+      "repoPath": null,
+      "filename": "ShoulderSurfing-NeoForge-1.21.1-4.22.7.jar",
+      "sha1": "5285ff4d2d37aa25c7f9ad43c7824f3f40ebae93",
+      "sha512": null,
+      "size": 271436,
+      "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/N8sgtkZi/ShoulderSurfing-NeoForge-1.21.1-4.22.7.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "subtle-effects",
+      "source": "modrinth",
+      "projectId": "4q8UOK1d",
+      "versionId": "bTFc0rVM",
+      "repoPath": null,
+      "filename": "SubtleEffects-neoforge-1.21.1-1.14.2.jar",
+      "sha1": "17ca3115321d8e3c2b68f5037085eaeb01163213",
+      "sha512": null,
+      "size": 3306325,
+      "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/bTFc0rVM/SubtleEffects-neoforge-1.21.1-1.14.2.jar",
       "optional": false,
       "side": "both"
     },
@@ -1018,6 +1060,20 @@
       "side": "client"
     },
     {
+      "id": "particle-interactions",
+      "source": "modrinth",
+      "projectId": "xFCYuAs8",
+      "versionId": "Js4y2r4d",
+      "repoPath": null,
+      "filename": "eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar",
+      "sha1": "5d851a305cd25dc98593ebe2612c9855b685de97",
+      "sha512": null,
+      "size": 322743,
+      "url": "https://cdn.modrinth.com/data/xFCYuAs8/versions/Js4y2r4d/eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "emi",
       "source": "modrinth",
       "projectId": "fRiHVvU7",
@@ -1074,6 +1130,20 @@
       "side": "client"
     },
     {
+      "id": "epic-fight",
+      "source": "modrinth",
+      "projectId": "vu3NZ5Ma",
+      "versionId": "dSV7xWi5",
+      "repoPath": null,
+      "filename": "epic-fight-21.16.4-mc1.21.1-neoforge.jar",
+      "sha1": "34710c9c4462f2418f27ecc916d8e4a0dad8e892",
+      "sha512": null,
+      "size": 8493578,
+      "url": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/dSV7xWi5/epic-fight-21.16.4-mc1.21.1-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "expanded-delight",
       "source": "modrinth",
       "projectId": "e9V6wFcR",
@@ -1126,6 +1196,20 @@
       "sha512": null,
       "size": 5569793,
       "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "fzzy-config",
+      "source": "modrinth",
+      "projectId": "hYykXjDp",
+      "versionId": "MAPG6cXE",
+      "repoPath": null,
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+      "sha512": null,
+      "size": 2369895,
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
       "optional": false,
       "side": "both"
     },
