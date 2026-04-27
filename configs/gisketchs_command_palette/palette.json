@@ -3,7 +3,7 @@
   "paletteSize": "small",
   "pinned": [
     "gisketchs_command_palette:key/screenshot",
-    "gisketchs_command_palette:key/sneak"
+    "gisketchs_command_palette:key/gui/xaero_new_waypoint"
   ],
   "hidden": [],
   "aliases": {},
@@ -15,9 +15,14 @@
     "gisketchs_command_palette:options": {},
     "gisketchs_command_palette:mods": {},
     "gisketchs_command_palette:controls": {},
-    "gisketchs_command_palette:open_palette": {}
+    "gisketchs_command_palette:open_palette": {},
+    "gisketchs_command_palette:key/sneak": {},
+    "gisketchs_command_palette:key/gui/xaero_new_waypoint": {
+      "iconItem": "minecraft:filled_map"
+    }
   },
   "recent": [
+    "gisketchs_command_palette:key/gui/xaero_new_waypoint",
     "gisketchs_command_palette:key/sneak",
     "gisketchs_command_palette:key/screenshot",
     "gisketchs_command_palette:edit_palette"

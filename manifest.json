@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.28c",
+    "version": "v2026.04.28d",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -78,6 +78,20 @@
       "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/S1TrAn8c/Cobblemon-neoforge-1.7.3%2B1.21.1.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "controlling",
+      "source": "modrinth",
+      "projectId": "xv94TkTM",
+      "versionId": "FaNppCJJ",
+      "repoPath": null,
+      "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+      "sha512": null,
+      "size": 77555,
+      "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "create-dragons-plus",
@@ -498,6 +512,20 @@
       "url": "https://cdn.modrinth.com/data/zAIE84Ch/versions/INuI60Al/Quick%20Skin%20-%20NeoForge%20-%201.21.1-2.6.2.4.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "searchables",
+      "source": "modrinth",
+      "projectId": "fuuu3xnx",
+      "versionId": "iEE85X0w",
+      "repoPath": null,
+      "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+      "sha512": null,
+      "size": 77326,
+      "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "serene-seasons",
@@ -2250,6 +2278,34 @@
       "side": "both"
     },
     {
+      "id": "xaeros-minimap",
+      "source": "modrinth",
+      "projectId": "1bokaNcj",
+      "versionId": "CatMvRfN",
+      "repoPath": null,
+      "filename": "xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "sha1": "d4828332dd831455429156b6cfa24aa9bd99dd77",
+      "sha512": null,
+      "size": 2137784,
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "xaeros-world-map",
+      "source": "modrinth",
+      "projectId": "NcUtCpym",
+      "versionId": "arbQPyvf",
+      "repoPath": null,
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "sha1": "c6f596bb6bc7d734100b7dbc8a57f69a5fb549a3",
+      "sha512": null,
+      "size": 1386001,
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "yacl",
       "source": "modrinth",
       "projectId": "1eAoo2KR",
@@ -2359,6 +2415,20 @@
       "sha1": "51d06ef9f22b9716c99d911a8aa1cb5b0c7ed318",
       "sha512": null,
       "size": 613558,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-e19-cobblemon-minimap-icons",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
+      "filename": "E19 Cobblemon Minimap Icons.zip",
+      "sha1": "1aefc7a313b3c6f719d2fa53916afff18cd0792f",
+      "sha512": null,
+      "size": 19398814,
       "url": "",
       "optional": false,
       "side": "client"
