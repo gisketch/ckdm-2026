@@ -33,7 +33,7 @@
 	#Offset on y-axis from screen border.
 	# Default: 4
 	# Range: > 0
-	offset_y = 4
+	offset_y = 64
 	#Percentage of relative screen height entries are allowed to fill at max.
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
@@ -41,7 +41,7 @@
 	#Scale of entries. A lower scale will make room for more rows to show. Works together with "GUI Scale" option in "Video Settings".
 	# Default: 4
 	# Range: 1 ~ 24
-	scale = 4
+	scale = 6
 
 [general]
 	#Prevent items from being added to the pick-up log when in creative mode.

@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27s",
+    "version": "v2026.04.28a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -48,6 +48,20 @@
       "sha512": null,
       "size": 5924051,
       "url": "https://cdn.modrinth.com/data/lO3s8hjs/versions/GiR8tHNc/BridgingMod-2.6.2%2B1.21.1.neoforge-release.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "cameraoverhaul",
+      "source": "modrinth",
+      "projectId": "m0oRwcZx",
+      "versionId": "zTY9SqFy",
+      "repoPath": null,
+      "filename": "CameraOverhaul-v2.0.6-neoforge+mc[1.21.0-1.21.1].jar",
+      "sha1": "3e65db2d22cdd974de1eb6b286943b7cf0f330a5",
+      "sha512": null,
+      "size": 142785,
+      "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/zTY9SqFy/CameraOverhaul-v2.0.6-neoforge%2Bmc%5B1.21.0-1.21.1%5D.jar",
       "optional": false,
       "side": "client"
     },
@@ -388,6 +402,34 @@
       "side": "client"
     },
     {
+      "id": "parcool",
+      "source": "modrinth",
+      "projectId": "Fsvx2bdR",
+      "versionId": "ZgAHzqRi",
+      "repoPath": null,
+      "filename": "ParCool-1.21.1-3.4.3.3-NF.jar",
+      "sha1": "d0ce92c2583875977919de722923abf18985c738",
+      "sha512": null,
+      "size": 1146864,
+      "url": "https://cdn.modrinth.com/data/Fsvx2bdR/versions/ZgAHzqRi/ParCool-1.21.1-3.4.3.3-NF.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "parcool+-compatibility-addon-neoforge-edition",
+      "source": "modrinth",
+      "projectId": "YpPfINZw",
+      "versionId": "zSCsEKfr",
+      "repoPath": null,
+      "filename": "ParCool-CompatibilityAddon-1.21.1-3.4.3.1-1.1.jar",
+      "sha1": "4f2232b04b4af124b9ae146b55a6a0f461183425",
+      "sha512": null,
+      "size": 16611,
+      "url": "https://cdn.modrinth.com/data/YpPfINZw/versions/zSCsEKfr/ParCool-CompatibilityAddon-1.21.1-3.4.3.1-1.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "perception",
       "source": "modrinth",
       "projectId": "P8STLvzB",
@@ -694,6 +736,20 @@
       "url": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "mods-cardinal-components-api-6-1-3",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/cardinal-components-api-6.1.3.jar",
+      "filename": "cardinal-components-api-6.1.3.jar",
+      "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882",
+      "sha512": null,
+      "size": 229645,
+      "url": "",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "carry-on",
@@ -1130,6 +1186,20 @@
       "side": "client"
     },
     {
+      "id": "official-epic-x-parcool",
+      "source": "modrinth",
+      "projectId": "NfOLe8St",
+      "versionId": "Uq0vPJIE",
+      "repoPath": null,
+      "filename": "epic x parcool-neoforge-21.0.0-1.21.1.jar",
+      "sha1": "c2f2fb69d26d45d27ab92bb0d1aee8ac29e24d13",
+      "sha512": null,
+      "size": 387088,
+      "url": "https://cdn.modrinth.com/data/NfOLe8St/versions/Uq0vPJIE/epic%20x%20parcool-neoforge-21.0.0-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "epic-fight",
       "source": "modrinth",
       "projectId": "vu3NZ5Ma",
@@ -1140,6 +1210,34 @@
       "sha512": null,
       "size": 8493578,
       "url": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/dSV7xWi5/epic-fight-21.16.4-mc1.21.1-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "mods-epicfight-punchy-compat-1-0-0",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/epicfight_punchy_compat-1.0.0.jar",
+      "filename": "epicfight_punchy_compat-1.0.0.jar",
+      "sha1": "6a9c7f9688785cda6928f7db6f6ee8719c2e436d",
+      "sha512": null,
+      "size": 6070,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "epic-fight-smart-items-addon",
+      "source": "modrinth",
+      "projectId": "9A9xjuMu",
+      "versionId": "2o3Pwm9Z",
+      "repoPath": null,
+      "filename": "epicfightsmartitems-1.2.0.jar",
+      "sha1": "631443bc8181bd03b2b2e7b9c6a0dfa411752b88",
+      "sha512": null,
+      "size": 10253,
+      "url": "https://cdn.modrinth.com/data/9A9xjuMu/versions/2o3Pwm9Z/epicfightsmartitems-1.2.0.jar",
       "optional": false,
       "side": "both"
     },
@@ -1424,6 +1522,20 @@
       "side": "client"
     },
     {
+      "id": "mods-minecells-2-0-3",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/minecells-2.0.3.jar",
+      "filename": "minecells-2.0.3.jar",
+      "sha1": "7097fa480a2211b5bef821fddabdb00697a45bc6",
+      "sha512": null,
+      "size": 5494122,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "modernfix",
       "source": "modrinth",
       "projectId": "nmDcB62a",
@@ -1492,6 +1604,20 @@
       "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "orthocamera-(unofficial-neoforge-port)",
+      "source": "modrinth",
+      "projectId": "twW3MtGA",
+      "versionId": "UKZjnSlD",
+      "repoPath": null,
+      "filename": "orthocamera-1.21.1-0.2.0.jar",
+      "sha1": "960b21ae5ff5547b16d0553956de1ba4d229ab0c",
+      "sha512": null,
+      "size": 32303,
+      "url": "https://cdn.modrinth.com/data/twW3MtGA/versions/UKZjnSlD/orthocamera-1.21.1-0.2.0.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "owo-lib",
@@ -1770,6 +1896,34 @@
       "sha512": null,
       "size": 1974380,
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "smart-particles",
+      "source": "modrinth",
+      "projectId": "l8rWP4Tc",
+      "versionId": "bsUPkcRL",
+      "repoPath": null,
+      "filename": "smart_particles-21.8.10.jar",
+      "sha1": "f6f017e9d3f36f871781a1647937527bdc8a2fad",
+      "sha512": null,
+      "size": 50773,
+      "url": "https://cdn.modrinth.com/data/l8rWP4Tc/versions/bsUPkcRL/smart_particles-21.8.10.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "smart-completion",
+      "source": "modrinth",
+      "projectId": "Go1Kxy32",
+      "versionId": "sq7UZs6c",
+      "repoPath": null,
+      "filename": "smartcompletion-1.21-neoforge-2.1.0.jar",
+      "sha1": "33e042e99335f9cbf6d387f097467d69c533ef12",
+      "sha512": null,
+      "size": 118182,
+      "url": "https://cdn.modrinth.com/data/Go1Kxy32/versions/sq7UZs6c/smartcompletion-1.21-neoforge-2.1.0.jar",
       "optional": false,
       "side": "client"
     },
