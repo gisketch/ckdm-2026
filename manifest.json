@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27o",
+    "version": "v2026.04.27p",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -34,6 +34,20 @@
       "sha512": null,
       "size": 155305,
       "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/Rt96zVC1/BetterGrassify-1.7.0%2Bneoforge.1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "bridging-mod",
+      "source": "modrinth",
+      "projectId": "lO3s8hjs",
+      "versionId": "GiR8tHNc",
+      "repoPath": null,
+      "filename": "BridgingMod-2.6.2+1.21.1.neoforge-release.jar",
+      "sha1": "18c4fdadf7d1b4632ae0e0914e4075847306b52f",
+      "sha512": null,
+      "size": 5924051,
+      "url": "https://cdn.modrinth.com/data/lO3s8hjs/versions/GiR8tHNc/BridgingMod-2.6.2%2B1.21.1.neoforge-release.jar",
       "optional": false,
       "side": "client"
     },
@@ -136,6 +150,20 @@
       "side": "both"
     },
     {
+      "id": "glitchcore",
+      "source": "modrinth",
+      "projectId": "s3dmwKy5",
+      "versionId": "8wmCpbQ2",
+      "repoPath": null,
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "sha1": "b95318c14ef20bd24886480d7640a5eca6aa6cec",
+      "sha512": null,
+      "size": 90918,
+      "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/8wmCpbQ2/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "item-highlighter",
       "source": "modrinth",
       "projectId": "cVNW5lr6",
@@ -234,6 +262,20 @@
       "side": "both"
     },
     {
+      "id": "kotlin-lang-forge",
+      "source": "modrinth",
+      "projectId": "1vrSzlao",
+      "versionId": "kOS8xw7G",
+      "repoPath": null,
+      "filename": "KotlinLangForge-2.11.2-k2.3.21-3.0+neoforge.jar",
+      "sha1": "1239a6553a7a29a3cacd25e6ae630a4ddaf6ead1",
+      "sha512": null,
+      "size": 7840229,
+      "url": "https://cdn.modrinth.com/data/1vrSzlao/versions/kOS8xw7G/KotlinLangForge-2.11.2-k2.3.21-3.0%2Bneoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "legendary-tooltips",
       "source": "modrinth",
       "projectId": "atHH8NyV",
@@ -276,6 +318,34 @@
       "side": "client"
     },
     {
+      "id": "serene-seasons-plus",
+      "source": "modrinth",
+      "projectId": "4Al4H3t9",
+      "versionId": "QiOlBGcz",
+      "repoPath": null,
+      "filename": "NeoForge-Version-Serene Seasons Plus-1.21.1-4.2.3.jar",
+      "sha1": "f38f2b2448cc35e7e26992313423778b80962e8e",
+      "sha512": null,
+      "size": 373902,
+      "url": "https://cdn.modrinth.com/data/4Al4H3t9/versions/QiOlBGcz/NeoForge-Version-Serene%20Seasons%20Plus-1.21.1-4.2.3.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "notenoughrecipebook",
+      "source": "modrinth",
+      "projectId": "bQh7xzFq",
+      "versionId": "8SBaRv1t",
+      "repoPath": null,
+      "filename": "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+      "sha1": "e0c36cd85d3d31cc2afb1bfc6b885f505245252f",
+      "sha512": null,
+      "size": 23830,
+      "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "octo-lib",
       "source": "modrinth",
       "projectId": "RH2KUdKJ",
@@ -300,6 +370,20 @@
       "sha512": null,
       "size": 78482,
       "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/PYRrjTaY/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "perception",
+      "source": "modrinth",
+      "projectId": "P8STLvzB",
+      "versionId": "W5IQteYO",
+      "repoPath": null,
+      "filename": "Perception-NEOFORGE-0.2.1+1.21.1.jar",
+      "sha1": "ea6d1403c8bc5cdda2727c1a90b29284c0ed653a",
+      "sha512": null,
+      "size": 78664,
+      "url": "https://cdn.modrinth.com/data/P8STLvzB/versions/W5IQteYO/Perception-NEOFORGE-0.2.1%2B1.21.1.jar",
       "optional": false,
       "side": "client"
     },
@@ -360,6 +444,20 @@
       "side": "both"
     },
     {
+      "id": "serene-seasons",
+      "source": "modrinth",
+      "projectId": "e0bNACJD",
+      "versionId": "SPj5bJoM",
+      "repoPath": null,
+      "filename": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "sha1": "127e4a3e699dafebc512e1fa7983f245b49cb420",
+      "sha512": null,
+      "size": 159206,
+      "url": "https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "travelers-titles",
       "source": "modrinth",
       "projectId": "JtifUr64",
@@ -400,6 +498,20 @@
       "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "a-good-place",
+      "source": "modrinth",
+      "projectId": "BwPeriwJ",
+      "versionId": "vERjAa36",
+      "repoPath": null,
+      "filename": "a_good_place-1.21-1.2.6-neoforge.jar",
+      "sha1": "3b5d2739f0c2428ad5145ba89d29a2f93b9747b5",
+      "sha512": null,
+      "size": 103243,
+      "url": "https://cdn.modrinth.com/data/BwPeriwJ/versions/vERjAa36/a_good_place-1.21-1.2.6-neoforge.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "accessories",
@@ -738,6 +850,20 @@
       "side": "both"
     },
     {
+      "id": "createbetterfps",
+      "source": "modrinth",
+      "projectId": "lMYIHZNH",
+      "versionId": "QWqEdWHy",
+      "repoPath": null,
+      "filename": "createbetterfps-1.21.1-1.1.4.jar",
+      "sha1": "c594e20659b73a67bd0b0c2de45b29b78a2eb160",
+      "sha512": null,
+      "size": 26547,
+      "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "create-deco",
       "source": "modrinth",
       "projectId": "sMvUb4Rb",
@@ -820,6 +946,20 @@
       "url": "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "draggable-lists",
+      "source": "modrinth",
+      "projectId": "aLcHfalx",
+      "versionId": "kgy0Eg0q",
+      "repoPath": null,
+      "filename": "draggable_lists-mc1.20.6-1.0.8-build.44.jar",
+      "sha1": "5df77b42f028285321f9277fe72e4d2b407f5433",
+      "sha512": null,
+      "size": 97906,
+      "url": "https://cdn.modrinth.com/data/aLcHfalx/versions/kgy0Eg0q/draggable_lists-mc1.20.6-1.0.8-build.44.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "drippy-loading-screen",
@@ -990,6 +1130,20 @@
       "side": "both"
     },
     {
+      "id": "gabous-libs",
+      "source": "modrinth",
+      "projectId": "N8aGZtvj",
+      "versionId": "LsfPosIY",
+      "repoPath": null,
+      "filename": "gaboulibs-neoforge-1.4.jar",
+      "sha1": "05be02b0f8d28473eeab05aea2a39c327d0c4bf4",
+      "sha512": null,
+      "size": 23578,
+      "url": "https://cdn.modrinth.com/data/N8aGZtvj/versions/LsfPosIY/gaboulibs-neoforge-1.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "gazebos",
       "source": "modrinth",
       "projectId": "XIpMGI6r",
@@ -1014,6 +1168,20 @@
       "sha512": null,
       "size": 84508,
       "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "iris-flw-compat",
+      "source": "modrinth",
+      "projectId": "ndHYMY2K",
+      "versionId": "qKBN6hPf",
+      "repoPath": null,
+      "filename": "iris-flywheel-compat-NeoForge-2.3.0.jar",
+      "sha1": "4da26fbf0c245c13ed644941ed735fe56380a1ee",
+      "sha512": null,
+      "size": 891909,
+      "url": "https://cdn.modrinth.com/data/ndHYMY2K/versions/qKBN6hPf/iris-flywheel-compat-NeoForge-2.3.0.jar",
       "optional": false,
       "side": "client"
     },
@@ -1168,6 +1336,20 @@
       "sha512": null,
       "size": 562031,
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/QbebWhuK/modernfix-neoforge-5.27.3%2Bmc1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "modernnetworking",
+      "source": "modrinth",
+      "projectId": "yMou0v20",
+      "versionId": "yLdPC5Ye",
+      "repoPath": null,
+      "filename": "modernnetworking-neoforge-1.2.8+1.21.1.jar",
+      "sha1": "a5820dd0ab818e4517edf602c098a5e726e85f24",
+      "sha512": null,
+      "size": 409902,
+      "url": "https://cdn.modrinth.com/data/yMou0v20/versions/yLdPC5Ye/modernnetworking-neoforge-1.2.8%2B1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -1410,6 +1592,34 @@
       "side": "both"
     },
     {
+      "id": "seamless",
+      "source": "modrinth",
+      "projectId": "rhyHyQke",
+      "versionId": "vtqXlAWL",
+      "repoPath": null,
+      "filename": "seamless-2.3.2-neoforge-1.21.1.jar",
+      "sha1": "eeecf2f95003175003d9a7fa1a12924c9d010855",
+      "sha512": null,
+      "size": 661650,
+      "url": "https://cdn.modrinth.com/data/rhyHyQke/versions/vtqXlAWL/seamless-2.3.2-neoforge-1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "seasonhud",
+      "source": "modrinth",
+      "projectId": "VNjUn3NA",
+      "versionId": "Qja976fJ",
+      "repoPath": null,
+      "filename": "seasonhud-neoforge-1.21.1-2.0.4.jar",
+      "sha1": "5b5cb37a530ca86251476b5b5b342edd56b02140",
+      "sha512": null,
+      "size": 224159,
+      "url": "https://cdn.modrinth.com/data/VNjUn3NA/versions/Qja976fJ/seasonhud-neoforge-1.21.1-2.0.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "shield-api",
       "source": "modrinth",
       "projectId": "y9clIFY4",
@@ -1462,6 +1672,20 @@
       "sha512": null,
       "size": 1974380,
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "smooth-swapping",
+      "source": "modrinth",
+      "projectId": "ydZic5r4",
+      "versionId": "tnvwgXE6",
+      "repoPath": null,
+      "filename": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "sha1": "00338f16b360d6b24b53fc8f92b76256729aee75",
+      "sha512": null,
+      "size": 62900,
+      "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/tnvwgXE6/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
       "optional": false,
       "side": "client"
     },
@@ -1634,6 +1858,34 @@
       "side": "server"
     },
     {
+      "id": "swingthrough",
+      "source": "modrinth",
+      "projectId": "JyKlunuD",
+      "versionId": "ELQQ49mK",
+      "repoPath": null,
+      "filename": "swingthrough-1.0.5+1.21.jar",
+      "sha1": "26c5eee723332dd309879f176eadcc2871fbc2c5",
+      "sha512": null,
+      "size": 23523,
+      "url": "https://cdn.modrinth.com/data/JyKlunuD/versions/ELQQ49mK/swingthrough-1.0.5%2B1.21.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "talk-balloons",
+      "source": "modrinth",
+      "projectId": "l3tS9WUS",
+      "versionId": "WsqNPEpi",
+      "repoPath": null,
+      "filename": "talk_balloons-neoforge-1.4.1+1.21.1.jar",
+      "sha1": "0139be01c6e292ed8dcbb733f0b98887da687bc0",
+      "sha512": null,
+      "size": 263985,
+      "url": "https://cdn.modrinth.com/data/l3tS9WUS/versions/WsqNPEpi/talk_balloons-neoforge-1.4.1%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "trashslot",
       "source": "modrinth",
       "projectId": "vRYk0bv7",
@@ -1732,6 +1984,20 @@
       "side": "both"
     },
     {
+      "id": "yacl",
+      "source": "modrinth",
+      "projectId": "1eAoo2KR",
+      "versionId": "7TVdVtxF",
+      "repoPath": null,
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+      "sha512": null,
+      "size": 1118651,
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "zume",
       "source": "modrinth",
       "projectId": "o6qsdrrQ",
@@ -1747,6 +2013,20 @@
     }
   ],
   "resourcepacks": [
+    {
+      "id": "resourcepacks-a-good-place-sample-pack",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/A Good Place Sample Pack.zip",
+      "filename": "A Good Place Sample Pack.zip",
+      "sha1": "5561c4b460d96e52f22d9d6ae6df1ae4f6c1f242",
+      "sha512": null,
+      "size": 15052,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
     {
       "id": "resourcepacks-biome-edition-traveler-s-titles-by-imevolution-v1-3",
       "source": "repo",
