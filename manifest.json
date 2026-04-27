@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.28g",
+    "version": "v2026.04.28h",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -304,6 +304,20 @@
       "side": "client"
     },
     {
+      "id": "inventory-particles",
+      "source": "modrinth",
+      "projectId": "XYnKrsxH",
+      "versionId": "WvKZcWyP",
+      "repoPath": null,
+      "filename": "InventoryParticles-1.5.0+1.21.1+neoforge.jar",
+      "sha1": "586bab5e85458126568d788b57f7883b550461f4",
+      "sha512": null,
+      "size": 1489097,
+      "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/WvKZcWyP/InventoryParticles-1.5.0%2B1.21.1%2Bneoforge.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "item-borders",
       "source": "modrinth",
       "projectId": "b1fMg6sH",
@@ -512,6 +526,20 @@
       "url": "https://cdn.modrinth.com/data/ZX66K16c/versions/5NZounJc/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "pf-neoforge",
+      "source": "modrinth",
+      "projectId": "JIEwmDVI",
+      "versionId": "f3SxKzof",
+      "repoPath": null,
+      "filename": "PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "sha1": "71bd6de2b01441d92be1e109879b76b7750bd787",
+      "sha512": null,
+      "size": 7096988,
+      "url": "https://cdn.modrinth.com/data/JIEwmDVI/versions/f3SxKzof/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "prism-lib",
@@ -1928,6 +1956,20 @@
       "side": "both"
     },
     {
+      "id": "polytone",
+      "source": "modrinth",
+      "projectId": "3qAYkBMB",
+      "versionId": "KxrIyizz",
+      "repoPath": null,
+      "filename": "polytone-1.21-3.6.6-neoforge.jar",
+      "sha1": "d7ba20109abe0a2151e2b39c7fac44b2ac5a5870",
+      "sha512": null,
+      "size": 861174,
+      "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/KxrIyizz/polytone-1.21-3.6.6-neoforge.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "skills",
       "source": "modrinth",
       "projectId": "hqQqvaa4",
@@ -2204,6 +2246,20 @@
       "sha512": null,
       "size": 62900,
       "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/tnvwgXE6/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "mods-smooththirdpersoncamera-1-0-1-mc1-21-1-21-10",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/smooththirdpersoncamera-1.0.1+mc1.21-1.21.10.jar",
+      "filename": "smooththirdpersoncamera-1.0.1+mc1.21-1.21.10.jar",
+      "sha1": "dd2f8b5ae909f682b7ff3614e4c52200e4fa6f1d",
+      "sha512": null,
+      "size": 855446,
+      "url": "",
       "optional": false,
       "side": "client"
     },
@@ -2630,6 +2686,20 @@
       "side": "client"
     },
     {
+      "id": "resourcepacks-bushy-pink-petals--wildflowers---leaf-litter",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Bushy pink petals, wildflowers & leaf litter.zip",
+      "filename": "Bushy pink petals, wildflowers & leaf litter.zip",
+      "sha1": "325537283de095a0f180f23d5045addc0fdf8fe4",
+      "sha512": null,
+      "size": 373017,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "resourcepacks-ckdmrefined",
       "source": "repo",
       "projectId": null,
@@ -2695,6 +2765,34 @@
       "sha1": "1aefc7a313b3c6f719d2fa53916afff18cd0792f",
       "sha512": null,
       "size": 19398814,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-fancy-crops-v1-3",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Fancy Crops v1.3.zip",
+      "filename": "Fancy Crops v1.3.zip",
+      "sha1": "788e5169eb064b696b2e20d4c5d998cceb387a2e",
+      "sha512": null,
+      "size": 92779,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-fire-rekindled",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/Fire_Rekindled.zip",
+      "filename": "Fire_Rekindled.zip",
+      "sha1": "c90d3fb0641dc1e79b4da4d4e3324ea7bb3fd700",
+      "sha512": null,
+      "size": 2170058,
       "url": "",
       "optional": false,
       "side": "client"
@@ -2863,6 +2961,20 @@
       "sha1": "385ef9c6654cb66d0e26b06349a815f6231c8ae5",
       "sha512": null,
       "size": 143967,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-rainbows-foliage-polytone-edition-v1-7",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/rainbows-foliage-polytone-edition-v1.7.zip",
+      "filename": "rainbows-foliage-polytone-edition-v1.7.zip",
+      "sha1": "983dbf097567ba87053378fe4fd65687c393a28d",
+      "sha512": null,
+      "size": 932983,
       "url": "",
       "optional": false,
       "side": "client"

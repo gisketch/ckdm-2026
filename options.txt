@@ -49,8 +49,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","mod/punchy:resourcepacks/punchy","file/HyperPunchy-v2.5+.zip","file/Modded Swords x Punchy! 1.21.1 v1.3.zip","file/Punchy! – Cobblemon Integration.zip","fabric","file/UD Refined - Lite - 1.20.2-26.x.zip","file/TrashSlot - UD Refined.zip","file/Overflowing Unique Dark.zip","file/JadeBetterDark.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip","file/UD - Hotbar add-on 1.20.2-26.x.zip","file/CreateSophBackpacks.zip","file/CreateSophStorage.zip","file/Visual Titles 1.3.zip","minecraft:supporteatinganimation","mod/seamless:resourcepacks/default_seamless","file/geofont-mc-v2.1.3.zip","file/E19 Cobblemon Minimap Icons.zip","file/Better-Leaves-9.5.zip"]
-incompatibleResourcePacks:["file/JadeBetterDark.zip","file/CreateSophStorage.zip"]
+resourcePacks:["vanilla","mod_resources","mod/punchy:resourcepacks/punchy","file/HyperPunchy-v2.5+.zip","file/Modded Swords x Punchy! 1.21.1 v1.3.zip","file/Punchy! – Cobblemon Integration.zip","fabric","file/UD Refined - Lite - 1.20.2-26.x.zip","file/TrashSlot - UD Refined.zip","file/Overflowing Unique Dark.zip","file/JadeBetterDark.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip","file/UD - Hotbar add-on 1.20.2-26.x.zip","file/CreateSophBackpacks.zip","file/CreateSophStorage.zip","file/Visual Titles 1.3.zip","minecraft:supporteatinganimation","mod/seamless:resourcepacks/default_seamless","file/geofont-mc-v2.1.3.zip","file/E19 Cobblemon Minimap Icons.zip","file/Better-Leaves-9.5.zip","moonlight:merged_pack","file/Bushy pink petals, wildflowers \u0026 leaf litter.zip","file/Fancy Crops v1.3.zip","file/Fire_Rekindled.zip","file/rainbows-foliage-polytone-edition-v1.7.zip","file/§eEating Animations More Compat.zip","betterbeds:fancyconnectedbeds"]
+incompatibleResourcePacks:["file/JadeBetterDark.zip","file/CreateSophStorage.zip","file/§eEating Animations More Compat.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -331,6 +331,7 @@ key_key.parcool.openSetting:key.keyboard.p:ALT
 key_key.parcool.QuickTurn:key.keyboard.unknown
 key_key.parcool.Flipping:key.keyboard.unknown
 key_key.parcool.HangDown:key.mouse.right
+key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
