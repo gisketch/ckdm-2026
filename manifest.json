@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27p",
+    "version": "v2026.04.27q",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -1172,6 +1172,20 @@
       "side": "client"
     },
     {
+      "id": "immersive-hotbar",
+      "source": "modrinth",
+      "projectId": "hsPB5xMD",
+      "versionId": "qJHPvUyX",
+      "repoPath": null,
+      "filename": "immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
+      "sha1": "4f4a939b4dfc3664add2659e5981390c1ba199fc",
+      "sha512": null,
+      "size": 220747,
+      "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/qJHPvUyX/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "iris-flw-compat",
       "source": "modrinth",
       "projectId": "ndHYMY2K",
@@ -1676,6 +1690,20 @@
       "side": "client"
     },
     {
+      "id": "smooth-gui",
+      "source": "modrinth",
+      "projectId": "j6yrZogB",
+      "versionId": "WVSpzVhZ",
+      "repoPath": null,
+      "filename": "smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "7f92bfc79f754b68855770610ad79a3934703c25",
+      "sha512": null,
+      "size": 176633,
+      "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/WVSpzVhZ/smoothgui-neoforge-1.21.1-1.1.0.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "smooth-swapping",
       "source": "modrinth",
       "projectId": "ydZic5r4",
@@ -2107,6 +2135,20 @@
       "sha1": "244f180a03bdcbe4333e3535cadf4e83762d0c47",
       "sha512": null,
       "size": 1193703,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-hyperpunchy-v2-5--zip",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/HyperPunchy-v2.5+.zip.rpo",
+      "filename": "HyperPunchy-v2.5+.zip.rpo",
+      "sha1": "8e7d880d4fcf9f3a3646455f362e10101b0f708c",
+      "sha512": null,
+      "size": 43,
       "url": "",
       "optional": false,
       "side": "client"
