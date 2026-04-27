@@ -1,0 +1,56 @@
+{
+  "id": "low",
+  "label": "Low",
+  "description": "For low-end setups with low-end shader settings.",
+  "options": {
+    "video": {
+      "ao": "true",
+      "biomeBlendRadius": "2",
+      "bobView": "true",
+      "enableVsync": "false",
+      "entityDistanceScaling": "1.0",
+      "entityShadows": "false",
+      "fov": "0.25",
+      "fullscreen": "false",
+      "gamma": "0.93",
+      "graphicsMode": "0",
+      "guiScale": "2",
+      "maxFps": "260",
+      "mipmapLevels": "4",
+      "particles": "0",
+      "renderDistance": "6",
+      "simulationDistance": "6"
+    },
+    "keybinds": {},
+    "other": {}
+  },
+  "shader": {
+    "shaderPack": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6",
+    "iris": {},
+    "preset": {}
+  },
+  "files": [
+    {
+      "relPath": "config/iris.properties"
+    },
+    {
+      "relPath": "config/sodium-extra-options.json"
+    },
+    {
+      "relPath": "config/sodium-extra.properties"
+    },
+    {
+      "relPath": "config/sodium-options.json"
+    },
+    {
+      "relPath": "config/sodiumdynamiclights-client.toml"
+    },
+    {
+      "relPath": "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+    }
+  ],
+  "disabledMods": [
+    "DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+    "voxy-0.2.14-alpha-c54de232.jar"
+  ]
+}
