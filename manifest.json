@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.27j",
+    "version": "v2026.04.27k",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -76,7 +76,7 @@
       "sha512": null,
       "size": 30019727,
       "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/KkaaQtTD/DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
-      "optional": false,
+      "optional": true,
       "side": "both"
     },
     {
@@ -1214,6 +1214,20 @@
       "side": "both"
     },
     {
+      "id": "reeses-sodium-options",
+      "source": "modrinth",
+      "projectId": "Bh37bMuy",
+      "versionId": "xAiCe6w8",
+      "repoPath": null,
+      "filename": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6",
+      "sha512": null,
+      "size": 78451,
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "respackopts",
       "source": "modrinth",
       "projectId": "TiF5QWZY",
@@ -1326,6 +1340,20 @@
       "side": "client"
     },
     {
+      "id": "sodium-extra",
+      "source": "modrinth",
+      "projectId": "PtjYWJkn",
+      "versionId": "pFmw1eci",
+      "repoPath": null,
+      "filename": "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
+      "sha1": "7473bb42753902c639294821af13e9cd9ee735da",
+      "sha512": null,
+      "size": 367047,
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "sodium",
       "source": "modrinth",
       "projectId": "AANobbMI",
@@ -1336,6 +1364,34 @@
       "sha512": null,
       "size": 1162994,
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "sodium-dynamic-lights",
+      "source": "modrinth",
+      "projectId": "PxQSWIcD",
+      "versionId": "XI0WLXdn",
+      "repoPath": null,
+      "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+      "sha512": null,
+      "size": 299353,
+      "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "sodium-options-api",
+      "source": "modrinth",
+      "projectId": "Es5v4eyq",
+      "versionId": "lrsX3TMS",
+      "repoPath": null,
+      "filename": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
+      "sha512": null,
+      "size": 309122,
+      "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
       "optional": false,
       "side": "client"
     },

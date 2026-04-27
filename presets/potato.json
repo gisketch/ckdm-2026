@@ -1,0 +1,58 @@
+{
+  "id": "potato",
+  "label": "Potato",
+  "description": "Low video settings. No shaders. Built for low-end PCs.",
+  "options": {
+    "video": {
+      "ao": "true",
+      "biomeBlendRadius": "2",
+      "bobView": "true",
+      "enableVsync": "false",
+      "entityDistanceScaling": "1.0",
+      "entityShadows": "false",
+      "fov": "0.25",
+      "fullscreen": "false",
+      "gamma": "0.93",
+      "graphicsMode": "0",
+      "guiScale": "2",
+      "mipmapLevels": "4",
+      "particles": "0",
+      "renderDistance": "6",
+      "simulationDistance": "6"
+    },
+    "keybinds": {},
+    "other": {}
+  },
+  "shader": {
+    "shaderPack": "photon_v1.3b.zip",
+    "iris": {},
+    "preset": {}
+  },
+  "files": [
+    {
+      "relPath": "config/iris.properties"
+    },
+    {
+      "relPath": "config/sodium-extra-options.json"
+    },
+    {
+      "relPath": "config/sodium-extra.properties"
+    },
+    {
+      "relPath": "config/sodium-mixins.properties"
+    },
+    {
+      "relPath": "config/sodium-options.json"
+    },
+    {
+      "relPath": "config/sodiumdynamiclights-client.toml"
+    },
+    {
+      "relPath": "shaderpacks/photon_v1.3b.zip.txt"
+    }
+  ],
+  "disabledMods": [
+    "DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+    "voxy-0.2.14-alpha-c54de232.jar"
+  ]
+}
