@@ -1,0 +1,40 @@
+{
+  "enabled": false,
+  "webhook_url": "",
+  "webhook_username": "Chow Kingdom",
+  "avatar_url": "",
+  "player_chat_identity": true,
+  "debug_avatar_resolution": true,
+  "player_avatar_urls": {},
+  "minecraft_avatar_url_template": "https://mc-heads.net/avatar/{uuid}/128",
+  "quick_skin_avatar_url_template": "",
+  "quick_skin_avatar_server": {
+    "enabled": false,
+    "bind_host": "0.0.0.0",
+    "port": 8765,
+    "public_base_url": ""
+  },
+  "relay_chat": true,
+  "relay_join_leave": false,
+  "relay_deaths": true,
+  "relay_battlepass_completions": true,
+  "relay_status": true,
+  "status_interval_seconds": 300,
+  "formatting": {
+    "chat_message": "{message}",
+    "chat_fallback_message": "**{player}**: {message}",
+    "join_title": "Player Joined",
+    "join_description": "{player} joined. {online}/{max} players online",
+    "join_color": "#57F287",
+    "leave_title": "Player Left",
+    "leave_description": "{player} left. {online}/{max} players online",
+    "leave_color": "#ED4245",
+    "death_title": "Player Died",
+    "death_description": "{death_message}",
+    "death_color": "#ED4245",
+    "battlepass_title": "[[{battlepass}]] {scope} Mission Complete",
+    "battlepass_description": "{player} completed \"{mission}\" {scope_lower} mission. {player_raw} now has {xp} XP.",
+    "battlepass_color": "#FEE75C",
+    "status_message": "Server status: {online}/{max} players online | TPS {tps}"
+  }
+}

@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.30f",
+    "version": "v2026.04.30g",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -134,6 +134,20 @@
       "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
       "optional": false,
       "side": "client"
+    },
+    {
+      "id": "cosmetic-megas",
+      "source": "modrinth",
+      "projectId": "qY5iPZRU",
+      "versionId": "ck5iJ3G2",
+      "repoPath": null,
+      "filename": "Cosmetic Megas [v1.2-mod].jar",
+      "sha1": "368c5a2ba8e0e6adcfbb7597987b16dd70f66718",
+      "sha512": null,
+      "size": 2257120,
+      "url": "https://cdn.modrinth.com/data/qY5iPZRU/versions/ck5iJ3G2/Cosmetic%20Megas%20%5Bv1.2-mod%5D.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "create-dragons-plus",
@@ -1718,6 +1732,20 @@
       "side": "client"
     },
     {
+      "id": "mods-gisketchs-chowkingdom-mod-1-0-0",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/gisketchs_chowkingdom_mod-1.0.0.jar",
+      "filename": "gisketchs_chowkingdom_mod-1.0.0.jar",
+      "sha1": "dbf9d3b1122c8d9e6a35c774f14341c795451c3e",
+      "sha512": null,
+      "size": 823202,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "gnetum",
       "source": "modrinth",
       "projectId": "7MoE34WK",
@@ -1996,6 +2024,20 @@
       "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/vnC2WTix/loot_journal-neoforge-1.21.1-4.0.1.jar",
       "optional": false,
       "side": "client"
+    },
+    {
+      "id": "cobblemon-mega-showdown",
+      "source": "modrinth",
+      "projectId": "SszvX85I",
+      "versionId": "bOTrftup",
+      "repoPath": null,
+      "filename": "mega_showdown-neoforge-1.8.2+1.7.3+1.21.1-hotfix.jar",
+      "sha1": "a153dadc24433c3285256ac2cc2edbef4f6696b8",
+      "sha512": null,
+      "size": 17146214,
+      "url": "https://cdn.modrinth.com/data/SszvX85I/versions/bOTrftup/mega_showdown-neoforge-1.8.2%2B1.7.3%2B1.21.1-hotfix.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "melody",
