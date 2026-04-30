@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.30g",
+    "version": "v2026.04.30h",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -862,6 +862,20 @@
       "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/rGPw090r/artifacts-neoforge-13.2.1.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "athena-ctm",
+      "source": "modrinth",
+      "projectId": "b1ZV3DIJ",
+      "versionId": "ZtIfQlxH",
+      "repoPath": null,
+      "filename": "athena-neoforge-1.21-4.0.4.jar",
+      "sha1": "f8118e131399c8eb21c1efe0c00a0cb25b4f4b19",
+      "sha512": null,
+      "size": 98664,
+      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/ZtIfQlxH/athena-neoforge-1.21-4.0.4.jar",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "azurelib-armor",
