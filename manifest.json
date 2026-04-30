@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.30a",
+    "version": "v2026.04.30b",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -528,20 +528,6 @@
       "side": "client"
     },
     {
-      "id": "pick-up-notifier",
-      "source": "modrinth",
-      "projectId": "ZX66K16c",
-      "versionId": "5NZounJc",
-      "repoPath": null,
-      "filename": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
-      "sha1": "90d3fe207c95a3a5d849ebf8d70ffa885694e30f",
-      "sha512": null,
-      "size": 97094,
-      "url": "https://cdn.modrinth.com/data/ZX66K16c/versions/5NZounJc/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
-      "optional": false,
-      "side": "both"
-    },
-    {
       "id": "pf-neoforge",
       "source": "modrinth",
       "projectId": "JIEwmDVI",
@@ -1000,6 +986,48 @@
       "sha512": null,
       "size": 1222255,
       "url": "https://cdn.modrinth.com/data/qekxLrOP/versions/Q1cwyIE1/cobbledex-rei-emi-jei-neoforge-1.50.22.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "cobblemon-charged",
+      "source": "modrinth",
+      "projectId": "3fLEEra5",
+      "versionId": "jVLARC2a",
+      "repoPath": null,
+      "filename": "cobblemoncharged-neoforge-1.2.0.jar",
+      "sha1": "f117da55328ee2a7c20c3a6e3b40228dbcbece0b",
+      "sha512": null,
+      "size": 81219,
+      "url": "https://cdn.modrinth.com/data/3fLEEra5/versions/jVLARC2a/cobblemoncharged-neoforge-1.2.0.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "cobblemonraiddens",
+      "source": "modrinth",
+      "projectId": "GebWh45l",
+      "versionId": "YQv0cdCX",
+      "repoPath": null,
+      "filename": "cobblemonraiddens-neoforge-0.10.1+1.21.1.jar",
+      "sha1": "c8a59998f39284b936dbd7da5ef08be88a732579",
+      "sha512": null,
+      "size": 2692216,
+      "url": "https://cdn.modrinth.com/data/GebWh45l/versions/YQv0cdCX/cobblemonraiddens-neoforge-0.10.1%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "cobblesafari",
+      "source": "modrinth",
+      "projectId": "zj3GsKts",
+      "versionId": "Bs3VqH24",
+      "repoPath": null,
+      "filename": "cobblesafari-neoforge-1.21.1-0.2.1.jar",
+      "sha1": "2dfa83797a257eedf830460939bfccae486fcc08",
+      "sha512": null,
+      "size": 13584810,
+      "url": "https://cdn.modrinth.com/data/zj3GsKts/versions/Bs3VqH24/cobblesafari-neoforge-1.21.1-0.2.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -1494,6 +1522,20 @@
       "side": "both"
     },
     {
+      "id": "pandas-falling-trees",
+      "source": "modrinth",
+      "projectId": "i2kUe4lq",
+      "versionId": "26ZXBAbi",
+      "repoPath": null,
+      "filename": "fallingtrees-neoforge-1.21.1-0.14.0.jar",
+      "sha1": "070260f182d10bdc23de5e8e9297bec0231e2bec",
+      "sha512": null,
+      "size": 4086627,
+      "url": "https://cdn.modrinth.com/data/i2kUe4lq/versions/26ZXBAbi/fallingtrees-neoforge-1.21.1-0.14.0.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "fancymenu",
       "source": "modrinth",
       "projectId": "Wq5SjeWM",
@@ -1532,6 +1574,20 @@
       "sha512": null,
       "size": 121559,
       "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "cobblemon-firework-capsules",
+      "source": "modrinth",
+      "projectId": "zBOfzARU",
+      "versionId": "X6tDdBcR",
+      "repoPath": null,
+      "filename": "fireworkcapsules-neoforge-2.1.3+1.21.1.jar",
+      "sha1": "2138ff1af5412c1fc32ce834f6f0d97b7bf14bde",
+      "sha512": null,
+      "size": 343470,
+      "url": "https://cdn.modrinth.com/data/zBOfzARU/versions/X6tDdBcR/fireworkcapsules-neoforge-2.1.3%2B1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -1604,6 +1660,20 @@
       "url": "https://cdn.modrinth.com/data/XIpMGI6r/versions/WqZjDLZg/gazebo-neoforge-2.1.0%2B1.21.1.jar",
       "optional": false,
       "side": "server"
+    },
+    {
+      "id": "geckolib",
+      "source": "modrinth",
+      "projectId": "8BmcQJ2H",
+      "versionId": "gFmrC8Ru",
+      "repoPath": null,
+      "filename": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce",
+      "sha512": null,
+      "size": 622582,
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "mods-gisketch-s-command-palette-1-0-0",
@@ -1872,6 +1942,20 @@
       "side": "client"
     },
     {
+      "id": "loot-journal",
+      "source": "modrinth",
+      "projectId": "OJ6ZYz5L",
+      "versionId": "vnC2WTix",
+      "repoPath": null,
+      "filename": "loot_journal-neoforge-1.21.1-4.0.1.jar",
+      "sha1": "d788686590699cd605490c8eea35aeded899edc9",
+      "sha512": null,
+      "size": 38231,
+      "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/vnC2WTix/loot_journal-neoforge-1.21.1-4.0.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "melody",
       "source": "modrinth",
       "projectId": "CVT4pFB2",
@@ -2022,6 +2106,20 @@
       "sha512": null,
       "size": 2474189,
       "url": "https://cdn.modrinth.com/data/FxXkHaLe/versions/hHVG6WsO/paladins-neoforge-2.7.1%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "pandalib",
+      "source": "modrinth",
+      "projectId": "mEEGbEIu",
+      "versionId": "RyUlB24m",
+      "repoPath": null,
+      "filename": "pandalib-neoforge-1.21.1-0.6.0.jar",
+      "sha1": "af13ba0a3e417e4218a57c835d184ad5c331c1c2",
+      "sha512": null,
+      "size": 7903071,
+      "url": "https://cdn.modrinth.com/data/mEEGbEIu/versions/RyUlB24m/pandalib-neoforge-1.21.1-0.6.0.jar",
       "optional": false,
       "side": "both"
     },
@@ -2891,6 +2989,20 @@
       "sha1": "de0dfce4320ead1e82e04592a93dbd324e398d43",
       "sha512": null,
       "size": 15098510,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "resourcepacks-cobblemotion-v1-5",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "resourcepacks/CobbleMotion_v1.5.zip",
+      "filename": "CobbleMotion_v1.5.zip",
+      "sha1": "d5fdbe1ebae9a9a425ee564019b31402e733de3d",
+      "sha512": null,
+      "size": 2785442,
       "url": "",
       "optional": false,
       "side": "client"
