@@ -52,6 +52,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "cobblesafari": {
+    "incubator": true,
+    "dungeon_portal": true,
+    "base_pc": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -82,6 +87,9 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "quality_food": {
+    "quality": true
   },
   "corpse": {
     "corpse": true
