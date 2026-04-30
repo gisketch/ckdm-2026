@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.30c",
+    "version": "v2026.04.30d",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -20,7 +20,7 @@
       "sha512": null,
       "size": 1252080,
       "url": "https://cdn.modrinth.com/data/c3onkd5k/versions/TzVHV1wo/AsyncParticles-21.1.0a-beta.1%2B1.21.1.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -90,7 +90,7 @@
       "sha512": null,
       "size": 142785,
       "url": "https://cdn.modrinth.com/data/m0oRwcZx/versions/zTY9SqFy/CameraOverhaul-v2.0.6-neoforge%2Bmc%5B1.21.0-1.21.1%5D.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -132,7 +132,7 @@
       "sha512": null,
       "size": 77555,
       "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -174,7 +174,7 @@
       "sha512": null,
       "size": 16959,
       "url": "https://cdn.modrinth.com/data/S23ik8wV/versions/E7IoNaQ3/DoAFlip-neoforge-1.21.1-4.1.0.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -314,7 +314,7 @@
       "sha512": null,
       "size": 1489097,
       "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/WvKZcWyP/InventoryParticles-1.5.0%2B1.21.1%2Bneoforge.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -412,7 +412,7 @@
       "sha512": null,
       "size": 178015,
       "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/eXqQAiDq/MossyLib-1.1.0%2B1.21.1%2Bneoforge.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -538,7 +538,7 @@
       "sha512": null,
       "size": 7096988,
       "url": "https://cdn.modrinth.com/data/JIEwmDVI/versions/f3SxKzof/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -594,7 +594,7 @@
       "sha512": null,
       "size": 77326,
       "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -622,7 +622,7 @@
       "sha512": null,
       "size": 271436,
       "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/N8sgtkZi/ShoulderSurfing-NeoForge-1.21.1-4.22.7.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -706,7 +706,7 @@
       "sha512": null,
       "size": 471965,
       "url": "https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -860,7 +860,7 @@
       "sha512": null,
       "size": 65708,
       "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/aAzXjG13/betterbeds-1.4.0.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -1602,7 +1602,7 @@
       "sha512": null,
       "size": 532912,
       "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/h2GrA0Ku/fusion-1.2.12-neoforge-mc1.21.1.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -1686,7 +1686,7 @@
       "sha512": null,
       "size": 108000,
       "url": "https://cdn.modrinth.com/data/7MoE34WK/versions/Sd6QGfdR/gnetum-3.3.2.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -1756,7 +1756,7 @@
       "sha512": null,
       "size": 220747,
       "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/qJHPvUyX/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -1924,7 +1924,7 @@
       "sha512": null,
       "size": 23770,
       "url": "https://cdn.modrinth.com/data/bnO15g6H/versions/pvzDBir7/loadsupport-neoforge-1.21.1-1.2.1.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -1938,7 +1938,7 @@
       "sha512": null,
       "size": 38231,
       "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/vnC2WTix/loot_journal-neoforge-1.21.1-4.0.1.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2064,7 +2064,7 @@
       "sha512": null,
       "size": 32303,
       "url": "https://cdn.modrinth.com/data/twW3MtGA/versions/UKZjnSlD/orthocamera-1.21.1-0.2.0.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2162,7 +2162,7 @@
       "sha512": null,
       "size": 861174,
       "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/KxrIyizz/polytone-1.21-3.6.6-neoforge.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2428,7 +2428,7 @@
       "sha512": null,
       "size": 50773,
       "url": "https://cdn.modrinth.com/data/l8rWP4Tc/versions/bsUPkcRL/smart_particles-21.8.10.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2442,7 +2442,7 @@
       "sha512": null,
       "size": 118182,
       "url": "https://cdn.modrinth.com/data/Go1Kxy32/versions/sq7UZs6c/smartcompletion-1.21-neoforge-2.1.0.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2456,7 +2456,7 @@
       "sha512": null,
       "size": 6849,
       "url": "https://cdn.modrinth.com/data/eSO2d8oJ/versions/Kit9aSj3/smooth_f5-neoforge-1.0.1.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2470,7 +2470,7 @@
       "sha512": null,
       "size": 176633,
       "url": "https://cdn.modrinth.com/data/j6yrZogB/versions/WVSpzVhZ/smoothgui-neoforge-1.21.1-1.1.0.jar",
-      "optional": true,
+      "optional": false,
       "side": "client"
     },
     {
@@ -2610,6 +2610,20 @@
       "sha512": null,
       "size": 133451,
       "url": "https://cdn.modrinth.com/data/MJ0hdevs/versions/cxMKWFFD/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "spark",
+      "source": "modrinth",
+      "projectId": "l6YH9Als",
+      "versionId": "v5qtqRQi",
+      "repoPath": null,
+      "filename": "spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+      "sha512": null,
+      "size": 3642581,
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
       "optional": false,
       "side": "both"
     },
