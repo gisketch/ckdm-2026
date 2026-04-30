@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.04.30e",
+    "version": "v2026.04.30f",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -442,6 +442,20 @@
       "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "optional": true,
       "side": "client"
+    },
+    {
+      "id": "necronomicon",
+      "source": "modrinth",
+      "projectId": "P1Kv5EAO",
+      "versionId": "4iO8Tbfj",
+      "repoPath": null,
+      "filename": "Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "sha1": "4d81055810e07a94b68d16ab20ec298ad0d597a0",
+      "sha512": null,
+      "size": 29865,
+      "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/4iO8Tbfj/Necronomicon-NeoForge-1.6.0%2B1.21.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "serene-seasons-plus",
@@ -1928,6 +1942,20 @@
       "side": "both"
     },
     {
+      "id": "lionfish-api",
+      "source": "modrinth",
+      "projectId": "FoVacERa",
+      "versionId": "FaK9Vh36",
+      "repoPath": null,
+      "filename": "lionfishapi-2.7-fix-fix.jar",
+      "sha1": "af90b807eed100e899b9afa13bb75e7d45294ba3",
+      "sha512": null,
+      "size": 141535,
+      "url": "https://cdn.modrinth.com/data/FoVacERa/versions/FaK9Vh36/lionfishapi-2.7-fix-fix.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "lithosphere",
       "source": "modrinth",
       "projectId": "iv9jp2k9",
@@ -2078,6 +2106,34 @@
       "sha512": null,
       "size": 117108,
       "url": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "opacpvp",
+      "source": "modrinth",
+      "projectId": "xcparckV",
+      "versionId": "6AhVNkOg",
+      "repoPath": null,
+      "filename": "opacpvp-neoforge-1.0.1-1.21.1.jar",
+      "sha1": "b5edf5f6633e693be24548bb6d8e5f4e56db71ea",
+      "sha512": null,
+      "size": 8749,
+      "url": "https://cdn.modrinth.com/data/xcparckV/versions/6AhVNkOg/opacpvp-neoforge-1.0.1-1.21.1.jar",
+      "optional": false,
+      "side": "server"
+    },
+    {
+      "id": "open-parties-and-claims",
+      "source": "modrinth",
+      "projectId": "gF3BGWvG",
+      "versionId": "b16WHzyv",
+      "repoPath": null,
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
+      "sha1": "fa16d80d0805eb4c2998bbe0e4eec5185f53c21d",
+      "sha512": null,
+      "size": 1577086,
+      "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/b16WHzyv/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
       "optional": false,
       "side": "both"
     },
@@ -2330,20 +2386,6 @@
       "sha512": null,
       "size": 658045,
       "url": "https://cdn.modrinth.com/data/GnU07giL/versions/y32QSEHL/reliquified_artifacts-1.21.1-1.0.4.jar",
-      "optional": false,
-      "side": "both"
-    },
-    {
-      "id": "reliquified-l-ender-s-cataclysm",
-      "source": "modrinth",
-      "projectId": "rBEndPUc",
-      "versionId": "ZHAIRSeF",
-      "repoPath": null,
-      "filename": "reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
-      "sha1": "be89d697455f04a1531ed81b45bcc038354430c8",
-      "sha512": null,
-      "size": 376851,
-      "url": "https://cdn.modrinth.com/data/rBEndPUc/versions/ZHAIRSeF/reliquified_lenders_cataclysm-1.21.1-0.1.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -2752,6 +2794,34 @@
       "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/kdWVYKdx/structure_pool_api-neoforge-1.2.1%2B1.21.1.jar",
       "optional": false,
       "side": "server"
+    },
+    {
+      "id": "supplementaries",
+      "source": "modrinth",
+      "projectId": "fFEIiSDQ",
+      "versionId": "NuQNqCLy",
+      "repoPath": null,
+      "filename": "supplementaries-1.21-3.5.34-neoforge.jar",
+      "sha1": "9fa5889f7669d1f5f20e658f96cbf31a17c52171",
+      "sha512": null,
+      "size": 13366044,
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/NuQNqCLy/supplementaries-1.21-3.5.34-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "supplementaries-squared",
+      "source": "modrinth",
+      "projectId": "dCCkNFwE",
+      "versionId": "6LgMCeqW",
+      "repoPath": null,
+      "filename": "suppsquared-1.21-1.2.17-neoforge.jar",
+      "sha1": "a0832a81277149fc38b7f0858122e1c451affa56",
+      "sha512": null,
+      "size": 774220,
+      "url": "https://cdn.modrinth.com/data/dCCkNFwE/versions/6LgMCeqW/suppsquared-1.21-1.2.17-neoforge.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "swingthrough",
