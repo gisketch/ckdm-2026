@@ -1,0 +1,10 @@
+{
+  "id": "high",
+  "label": "HIGH",
+  "description": "8 GB / heavy packs",
+  "minMemoryMb": 4096,
+  "maxMemoryMb": 8192,
+  "extraJvmArgs": "-XX:+UseZGC -XX:+ZGenerational -XX:+UseStringDeduplication -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -Dfile.encoding=UTF-8",
+  "autoJava": false,
+  "memoryRange": null
+}

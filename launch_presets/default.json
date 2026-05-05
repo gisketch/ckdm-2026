@@ -1,0 +1,14 @@
+{
+  "id": "default",
+  "label": "DEFAULT",
+  "description": "8 GB / current default",
+  "minMemoryMb": 512,
+  "maxMemoryMb": 8192,
+  "extraJvmArgs": "-XX:+UseZGC -XX:+ZGenerational -XX:+UseStringDeduplication -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -Dfile.encoding=UTF-8",
+  "autoJava": false,
+  "memoryRange": {
+    "minMb": 2048,
+    "maxMb": 16384,
+    "stepMb": 256
+  }
+}

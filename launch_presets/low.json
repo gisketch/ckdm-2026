@@ -1,0 +1,10 @@
+{
+  "id": "low",
+  "label": "LOW",
+  "description": "4 GB / safe baseline",
+  "minMemoryMb": 2048,
+  "maxMemoryMb": 4096,
+  "extraJvmArgs": "-XX:+UseZGC -XX:+ZGenerational -XX:+UseStringDeduplication -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -Dfile.encoding=UTF-8",
+  "autoJava": false,
+  "memoryRange": null
+}
