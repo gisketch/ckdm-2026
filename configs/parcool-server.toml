@@ -1,6 +1,6 @@
 [Limitations]
 	#Whether these limitations will be imposed to players
-	limitation_imposed = false
+	limitation_imposed = true
 
 	[Limitations.Action_Permissions]
 		permit_BreakfallReady = true
@@ -33,7 +33,7 @@
 
 	[Limitations.Stamina]
 		#Allowed Values: NONE, PARCOOL, HUNGER, PARAGLIDER, EPIC_FIGHT
-		forced_stamina = "NONE"
+	forced_stamina = "PARAGLIDER"
 		#Permission of infinite stamina
 		allow_infinite_stamina = true
 		#Limitation of max stamina value
@@ -75,7 +75,7 @@
 			stamina_consumption_of_Dive = 0
 			# Default: 80
 			# Range: 0 ~ 10000
-			stamina_consumption_of_Dodge = 80
+	stamina_consumption_of_Dodge = 320
 			# Default: 2
 			# Range: 0 ~ 10000
 			stamina_consumption_of_FastRun = 2
