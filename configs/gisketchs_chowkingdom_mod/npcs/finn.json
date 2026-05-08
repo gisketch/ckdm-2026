@@ -1,0 +1,44 @@
+{
+  "id": "finn",
+  "name": "Finn",
+  "title": "The Adventurer",
+  "skin": "gisketchs_chowkingdom_mod:npc/finn",
+  "body_type": "normal",
+  "job": "adventurer",
+  "store": "cosmetics",
+  "personality": {
+    "llm_prompt": "Finn is brave, friendly, direct, and hungry for adventure. He wants a home near players and talks like an energetic hero.",
+    "traits": [
+      "brave",
+      "friendly",
+      "reckless"
+    ],
+    "speech_style": "energetic hero",
+    "catchphrases": [
+      "Mathematical!",
+      "Adventure time!"
+    ]
+  },
+  "housing": {
+    "can_move_in": true,
+    "requires_bed": true
+  },
+  "gifts": {
+    "loved": [
+      "minecraft:diamond_sword",
+      "#minecraft:swords"
+    ],
+    "liked": [
+      "minecraft:cooked_beef",
+      "minecraft:iron_sword"
+    ],
+    "disliked": [
+      "minecraft:rotten_flesh"
+    ]
+  },
+  "work_target_blocks": [
+    "minecraft:campfire",
+    "minecraft:crafting_table",
+    "minecraft:barrel"
+  ]
+}
