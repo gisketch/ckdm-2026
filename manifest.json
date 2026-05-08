@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.08d",
+    "version": "v2026.05.09a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -146,6 +146,20 @@
       "sha512": null,
       "size": 2257120,
       "url": "https://cdn.modrinth.com/data/qY5iPZRU/versions/ck5iJ3G2/Cosmetic%20Megas%20%5Bv1.2-mod%5D.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "cosmeticarmours",
+      "source": "modrinth",
+      "projectId": "H3JIzTFR",
+      "versionId": "u30xtl3a",
+      "repoPath": null,
+      "filename": "CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge.jar",
+      "sha1": "433e6df6026eaa1fef791e8c4efc982c444ec046",
+      "sha512": null,
+      "size": 17478086,
+      "url": "https://cdn.modrinth.com/data/H3JIzTFR/versions/u30xtl3a/CosmeticArmours%20-%201.5.3.1%20-%201.21.1%20-%20NeoForge.jar",
       "optional": false,
       "side": "both"
     },
@@ -570,6 +584,20 @@
       "side": "both"
     },
     {
+      "id": "patchouli",
+      "source": "modrinth",
+      "projectId": "nU0bVIaL",
+      "versionId": "BIogJv2D",
+      "repoPath": null,
+      "filename": "Patchouli-1.21.1-93-NEOFORGE.jar",
+      "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+      "sha512": null,
+      "size": 646777,
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "perception",
       "source": "modrinth",
       "projectId": "P8STLvzB",
@@ -766,6 +794,20 @@
       "side": "client"
     },
     {
+      "id": "accents",
+      "source": "modrinth",
+      "projectId": "fALx4O2Q",
+      "versionId": "U2ctIYRI",
+      "repoPath": null,
+      "filename": "accents-neoforge-1.21.1-2.0.2.jar",
+      "sha1": "bc4a8337a07a938a1bb45b4a7146c509b157837c",
+      "sha512": null,
+      "size": 670149,
+      "url": "https://cdn.modrinth.com/data/fALx4O2Q/versions/U2ctIYRI/accents-neoforge-1.21.1-2.0.2.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "accessories",
       "source": "modrinth",
       "projectId": "jtmvUHXj",
@@ -776,6 +818,20 @@
       "sha512": null,
       "size": 1078697,
       "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "animal-hats-yeah",
+      "source": "modrinth",
+      "projectId": "gL68b8ME",
+      "versionId": "mHsEo1Tg",
+      "repoPath": null,
+      "filename": "animalhatmod-1.1.1-neoforge-1.21.1.jar",
+      "sha1": "26eef3e36bd3af25e5122dec2e9b918e26270c4e",
+      "sha512": null,
+      "size": 393070,
+      "url": "https://cdn.modrinth.com/data/gL68b8ME/versions/mHsEo1Tg/animalhatmod-1.1.1-neoforge-1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -1602,6 +1658,20 @@
       "sha512": null,
       "size": 4297501,
       "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/iNWXxME7/fancymenu_neoforge_3.8.1_MC_1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "fantasy_armor",
+      "source": "modrinth",
+      "projectId": "oVmpjYQ5",
+      "versionId": "Ibkb2q3C",
+      "repoPath": null,
+      "filename": "fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+      "sha1": "2b103680ca80a1d617dcae74630c4df8e93d3c55",
+      "sha512": null,
+      "size": 537069,
+      "url": "https://cdn.modrinth.com/data/oVmpjYQ5/versions/Ibkb2q3C/fantasy_armor-neoforge-1.2.4-1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -2498,6 +2568,62 @@
       "sha512": null,
       "size": 224159,
       "url": "https://cdn.modrinth.com/data/VNjUn3NA/versions/Qja976fJ/seasonhud-neoforge-1.21.1-2.0.4.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "selfexpression",
+      "source": "modrinth",
+      "projectId": "yv3OK08E",
+      "versionId": "rkbv62gk",
+      "repoPath": null,
+      "filename": "selfexpression-2.22a-neoforge-1.21.1.jar",
+      "sha1": "f0dd7e65512daec9ddea0fa54f02c48b4f2d3842",
+      "sha512": null,
+      "size": 6806565,
+      "url": "https://cdn.modrinth.com/data/yv3OK08E/versions/rkbv62gk/selfexpression-2.22a-neoforge-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "selfexpression-new-edge",
+      "source": "modrinth",
+      "projectId": "HQ1C1y22",
+      "versionId": "hVBarD8e",
+      "repoPath": null,
+      "filename": "selfexpression_new_edge-1.0-neoforge-1.21.1.jar",
+      "sha1": "0a0cae2926da1acc0cf8b6a025933c003011492d",
+      "sha512": null,
+      "size": 243725,
+      "url": "https://cdn.modrinth.com/data/HQ1C1y22/versions/hVBarD8e/selfexpression_new_edge-1.0-neoforge-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "selfexpression-romashka-edition",
+      "source": "modrinth",
+      "projectId": "KlDsa1p2",
+      "versionId": "qJQJalTa",
+      "repoPath": null,
+      "filename": "selfexpression_romashka_edition-0.0.4-neoforge-1.21.1.jar",
+      "sha1": "c5747aea0cf30b1e2ac727cb7db92f1786e3a009",
+      "sha512": null,
+      "size": 276804,
+      "url": "https://cdn.modrinth.com/data/KlDsa1p2/versions/qJQJalTa/selfexpression_romashka_edition-0.0.4-neoforge-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "selfexpression-slim",
+      "source": "modrinth",
+      "projectId": "QVhoLdVI",
+      "versionId": "nJAQTba3",
+      "repoPath": null,
+      "filename": "selfexpression_slim-1.5-neoforge-1.21.1.jar",
+      "sha1": "ee1f4de5e66902cc13f75903d906fc0a41d2f93e",
+      "sha512": null,
+      "size": 1305972,
+      "url": "https://cdn.modrinth.com/data/QVhoLdVI/versions/nJAQTba3/selfexpression_slim-1.5-neoforge-1.21.1.jar",
       "optional": false,
       "side": "both"
     },

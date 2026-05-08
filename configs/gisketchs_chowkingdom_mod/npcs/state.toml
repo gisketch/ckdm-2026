@@ -1,0 +1,61 @@
+# Chow Kingdom config: state.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: globalEvents.
+globalEvents = [
+  { timestamp = 1778247139462, type = "npc_death", text = "Finn died" },
+]
+# Config value: globalMemories.
+globalMemories = []
+# Config value: townCenterRadius.
+townCenterRadius = 12
+# Config value: activeCamperId.
+activeCamperId = ""
+# Config value: camperCooldownUntilTick.
+camperCooldownUntilTick = -1
+
+# Config value: npcs.
+[npcs]
+
+# Config value: npcs.finn.
+[npcs.finn]
+# Config value: npcs.finn.entityUuid.
+entityUuid = ""
+# Config value: npcs.finn.contractGiven.
+contractGiven = false
+# Config value: npcs.finn.lastHurtAt.
+lastHurtAt = 0
+# Config value: npcs.finn.lastHurtPlayerUuid.
+lastHurtPlayerUuid = ""
+# Config value: npcs.finn.lastHurtPlayerName.
+lastHurtPlayerName = ""
+# Config value: npcs.finn.hurtStreak.
+hurtStreak = 0
+# Config value: npcs.finn.hurtHistory.
+hurtHistory = []
+# Config value: npcs.finn.dead.
+dead = true
+# Config value: npcs.finn.respawnDay.
+respawnDay = 70583
+# Config value: npcs.finn.camperReturnReason.
+camperReturnReason = ""
+
+# Config value: npcs.finn.conversations.
+[npcs.finn.conversations]
+
+# Config value: npcs.finn.giftLimits.
+[npcs.finn.giftLimits]
+
+# Config value: npcs.finn.outgoingGifts.
+[npcs.finn.outgoingGifts]
+
+# Config value: npcs.finn.greetings.
+[npcs.finn.greetings]
+
+# Config value: npcs.finn.friendships.
+[npcs.finn.friendships]
+
+# Config value: playerQuests.
+[playerQuests]
+
+# Config value: playerMemories.
+[playerMemories]

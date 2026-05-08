@@ -1,4 +1,4 @@
 # Chow Kingdom config: tracked_missions.toml. Edit while the game is stopped, then run reload commands or restart.
 
 # Config value: tracked.
-tracked = ["cozy|daily:daily_cook_gold_quality_food", "cozy|daily:daily_eat_diamond_quality_food", "cozy|daily:daily_ship_gold_quality_food"]
+tracked = ["cozy|permanent:permanent_monster_slayer", "cozy|permanent:permanent_crop_keeper"]
