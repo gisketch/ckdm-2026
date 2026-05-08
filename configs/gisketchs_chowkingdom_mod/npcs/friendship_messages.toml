@@ -1,0 +1,350 @@
+{
+  "interact": {
+    "hatred": [
+      "Make it quick, {player}.",
+      "I am listening, but not gladly.",
+      "Make it quick, {player}.",
+      "I am listening, but not gladly.",
+      "Make it quick, {player}.",
+      "I am listening, but not gladly."
+    ],
+    "enemy": [
+      "What do you need, {player}?",
+      "Say it plainly.",
+      "What do you need, {player}?",
+      "Say it plainly.",
+      "What do you need, {player}?",
+      "Say it plainly."
+    ],
+    "dislike": [
+      "Hello, {player}.",
+      "I can talk for a moment.",
+      "Hello, {player}.",
+      "I can talk for a moment.",
+      "Hello, {player}.",
+      "I can talk for a moment."
+    ],
+    "neutral": [
+      "Hello, {player}.",
+      "What do you need?",
+      "Hello, {player}.",
+      "What do you need?",
+      "Hello, {player}.",
+      "What do you need?"
+    ],
+    "okay": [
+      "Good to see you, {player}.",
+      "How can I help?",
+      "Good to see you, {player}.",
+      "How can I help?",
+      "Good to see you, {player}.",
+      "How can I help?"
+    ],
+    "good_friends": [
+      "There you are, {player}.",
+      "You can always talk to me.",
+      "There you are, {player}.",
+      "You can always talk to me.",
+      "There you are, {player}.",
+      "You can always talk to me."
+    ],
+    "best_friends": [
+      "I was waiting for you, {player}.",
+      "I always have time for you.",
+      "I was waiting for you, {player}.",
+      "I always have time for you.",
+      "I was waiting for you, {player}.",
+      "I always have time for you."
+    ]
+  },
+  "gift": {
+    "hatred": [
+      "I will take it.",
+      "This does not fix everything.",
+      "I will take it.",
+      "This does not fix everything.",
+      "I will take it.",
+      "This does not fix everything."
+    ],
+    "enemy": [
+      "Thanks, I suppose.",
+      "This helps.",
+      "Thanks, I suppose.",
+      "This helps.",
+      "Thanks, I suppose.",
+      "This helps."
+    ],
+    "dislike": [
+      "Thanks for {item}.",
+      "I appreciate it.",
+      "Thanks for {item}.",
+      "I appreciate it.",
+      "Thanks for {item}.",
+      "I appreciate it."
+    ],
+    "neutral": [
+      "Thank you for {item}.",
+      "That is thoughtful.",
+      "Thank you for {item}.",
+      "That is thoughtful.",
+      "Thank you for {item}.",
+      "That is thoughtful."
+    ],
+    "okay": [
+      "This is a great gift.",
+      "Thanks, {player}.",
+      "This is a great gift.",
+      "Thanks, {player}.",
+      "This is a great gift.",
+      "Thanks, {player}."
+    ],
+    "good_friends": [
+      "You know me well.",
+      "This means a lot.",
+      "You know me well.",
+      "This means a lot.",
+      "You know me well.",
+      "This means a lot."
+    ],
+    "best_friends": [
+      "Best gift from my best friend.",
+      "I will treasure this.",
+      "Best gift from my best friend.",
+      "I will treasure this.",
+      "Best gift from my best friend.",
+      "I will treasure this."
+    ]
+  },
+  "hurt": {
+    "hatred": [
+      "Back off!",
+      "Do not touch me again.",
+      "Back off!",
+      "Do not touch me again.",
+      "Back off!",
+      "Do not touch me again."
+    ],
+    "enemy": [
+      "Watch it, {player}.",
+      "Do not do that again.",
+      "Watch it, {player}.",
+      "Do not do that again.",
+      "Watch it, {player}.",
+      "Do not do that again."
+    ],
+    "dislike": [
+      "Hey, careful.",
+      "That hurt.",
+      "Hey, careful.",
+      "That hurt.",
+      "Hey, careful.",
+      "That hurt."
+    ],
+    "neutral": [
+      "Hey, watch it!",
+      "Careful, {player}.",
+      "Hey, watch it!",
+      "Careful, {player}.",
+      "Hey, watch it!",
+      "Careful, {player}."
+    ],
+    "okay": [
+      "Careful, friend.",
+      "Ow. Watch it.",
+      "Careful, friend.",
+      "Ow. Watch it.",
+      "Careful, friend.",
+      "Ow. Watch it."
+    ],
+    "good_friends": [
+      "Friend, that hurt.",
+      "Save that for enemies.",
+      "Friend, that hurt.",
+      "Save that for enemies.",
+      "Friend, that hurt.",
+      "Save that for enemies."
+    ],
+    "best_friends": [
+      "Best friend, careful!",
+      "I forgive you. Ow.",
+      "Best friend, careful!",
+      "I forgive you. Ow.",
+      "Best friend, careful!",
+      "I forgive you. Ow."
+    ]
+  },
+  "wake": {
+    "hatred": [
+      "Why are you waking me?",
+      "This better matter.",
+      "Why are you waking me?",
+      "This better matter.",
+      "Why are you waking me?",
+      "This better matter."
+    ],
+    "enemy": [
+      "I am awake. What do you need?",
+      "Make it quick.",
+      "I am awake. What do you need?",
+      "Make it quick.",
+      "I am awake. What do you need?",
+      "Make it quick."
+    ],
+    "dislike": [
+      "Mmph. What is it?",
+      "I was sleeping.",
+      "Mmph. What is it?",
+      "I was sleeping.",
+      "Mmph. What is it?",
+      "I was sleeping."
+    ],
+    "neutral": [
+      "Mmph... {player}?",
+      "Is everything okay?",
+      "Mmph... {player}?",
+      "Is everything okay?",
+      "Mmph... {player}?",
+      "Is everything okay?"
+    ],
+    "okay": [
+      "For you, I can wake up.",
+      "Everything alright?",
+      "For you, I can wake up.",
+      "Everything alright?",
+      "For you, I can wake up.",
+      "Everything alright?"
+    ],
+    "good_friends": [
+      "If you woke me, it must matter.",
+      "I trust you. What do we need?",
+      "If you woke me, it must matter.",
+      "I trust you. What do we need?",
+      "If you woke me, it must matter.",
+      "I trust you. What do we need?"
+    ],
+    "best_friends": [
+      "For you, always.",
+      "I am awake because it is you.",
+      "For you, always.",
+      "I am awake because it is you.",
+      "For you, always.",
+      "I am awake because it is you."
+    ]
+  },
+  "greeting": {
+    "hatred": [
+      "I see you.",
+      "Keep your distance.",
+      "I see you.",
+      "Keep your distance.",
+      "I see you.",
+      "Keep your distance."
+    ],
+    "enemy": [
+      "Careful, {player}.",
+      "That is close enough.",
+      "Careful, {player}.",
+      "That is close enough.",
+      "Careful, {player}.",
+      "That is close enough."
+    ],
+    "dislike": [
+      "Hi, {player}.",
+      "Need something?",
+      "Hi, {player}.",
+      "Need something?",
+      "Hi, {player}.",
+      "Need something?"
+    ],
+    "neutral": [
+      "Hi, {player}!",
+      "Hello there.",
+      "Hi, {player}!",
+      "Hello there.",
+      "Hi, {player}!",
+      "Hello there."
+    ],
+    "okay": [
+      "Good to see you, {player}.",
+      "Hey, friend.",
+      "Good to see you, {player}.",
+      "Hey, friend.",
+      "Good to see you, {player}.",
+      "Hey, friend."
+    ],
+    "good_friends": [
+      "There you are, {player}!",
+      "Welcome back, friend.",
+      "There you are, {player}!",
+      "Welcome back, friend.",
+      "There you are, {player}!",
+      "Welcome back, friend."
+    ],
+    "best_friends": [
+      "Best friend!",
+      "Today is better with you here.",
+      "Best friend!",
+      "Today is better with you here.",
+      "Best friend!",
+      "Today is better with you here."
+    ]
+  },
+  "first_daily_chat": {
+    "hatred": [
+      "First talk today. Make it brief.",
+      "Say what you need.",
+      "First talk today. Make it brief.",
+      "Say what you need.",
+      "First talk today. Make it brief.",
+      "Say what you need."
+    ],
+    "enemy": [
+      "First words today. Go ahead.",
+      "Fresh day, cautious start.",
+      "First words today. Go ahead.",
+      "Fresh day, cautious start.",
+      "First words today. Go ahead.",
+      "Fresh day, cautious start."
+    ],
+    "dislike": [
+      "Morning, {player}.",
+      "Maybe today goes smoother.",
+      "Morning, {player}.",
+      "Maybe today goes smoother.",
+      "Morning, {player}.",
+      "Maybe today goes smoother."
+    ],
+    "neutral": [
+      "Good to see you today.",
+      "First check-in of the day.",
+      "Good to see you today.",
+      "First check-in of the day.",
+      "Good to see you today.",
+      "First check-in of the day."
+    ],
+    "okay": [
+      "Good morning, {player}.",
+      "Nice way to start the day.",
+      "Good morning, {player}.",
+      "Nice way to start the day.",
+      "Good morning, {player}.",
+      "Nice way to start the day."
+    ],
+    "good_friends": [
+      "Favorite daily check-in.",
+      "I hoped I would see you today.",
+      "Favorite daily check-in.",
+      "I hoped I would see you today.",
+      "Favorite daily check-in.",
+      "I hoped I would see you today."
+    ],
+    "best_friends": [
+      "Best friend first thing today.",
+      "Perfect start to the day.",
+      "Best friend first thing today.",
+      "Perfect start to the day.",
+      "Best friend first thing today.",
+      "Perfect start to the day."
+    ]
+  }
+}

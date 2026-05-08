@@ -1,0 +1,67 @@
+{
+  "greetings": {
+    "radius": 5.0,
+    "cooldown_seconds": 60,
+    "balloon_duration_seconds": 5
+  },
+  "llm": {
+    "enabled": false,
+    "active_preset": "current",
+    "provider": "openai_compatible",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "api_key": "",
+    "presets": [
+      {
+        "name": "current",
+        "provider": "openai_compatible",
+        "base_url": "https://api.deepseek.com",
+        "model": "deepseek-chat",
+        "api_key": ""
+      }
+    ],
+    "cooldown_seconds": 4,
+    "max_reply_chars": 280,
+    "max_recent_turns": 8,
+    "request_timeout_seconds": 20,
+    "rate_limited_message": "Give me a second to gather my thoughts.",
+    "error_message": "Sorry, my thoughts wandered for a second. What were we talking about?",
+    "fallback_message": "Sorry, my thoughts wandered for a second. What were we talking about?"
+  },
+  "llm_message_usage": {
+    "interact": true,
+    "gift": false,
+    "hurt": false,
+    "wake": false,
+    "greeting": false,
+    "first_daily_chat": false,
+    "shop": false,
+    "shop_single": false,
+    "shop_normal": false,
+    "shop_bulk": false,
+    "camper_needs_house": false,
+    "camper_lost_house": false,
+    "assigned_house": false
+  },
+  "campers": {
+    "cooldown_min_hours": 24,
+    "cooldown_max_hours": 48,
+    "needs_house_llm_prompt": "The player found you waiting at camp without a home. Ask for a bed or small house and mention the rent contract.",
+    "lost_house_llm_prompt": "Your assigned bed or home was removed. Tell the player you lost your bed and need a new one.",
+    "assigned_house_llm_prompt": "The player assigned you a bed as your new home. Thank them warmly and say you will settle in."
+  },
+  "npc_interactions": {
+    "enabled": true,
+    "radius": 7.0,
+    "duration_seconds": 12,
+    "cooldown_min_hours": 2,
+    "cooldown_max_hours": 4,
+    "balloon_refresh_seconds": 6,
+    "messages": [
+      "Talking with {other}...",
+      "Catching up with {other}.",
+      "Comparing notes with {other}.",
+      "Small town meeting with {other}."
+    ]
+  }
+}

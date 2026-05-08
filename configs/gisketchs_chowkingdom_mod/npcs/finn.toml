@@ -1,0 +1,45 @@
+# Chow Kingdom config: finn.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "finn"
+# Config value: name.
+name = "Finn"
+# Config value: title.
+title = "The Adventurer"
+# Config value: skin.
+skin = "gisketchs_chowkingdom_mod:npc/finn"
+# Config value: body_type.
+body_type = "normal"
+# Config value: job.
+job = "adventurer"
+# Config value: store.
+store = "cosmetics"
+# Config value: work_target_blocks.
+work_target_blocks = ["minecraft:campfire", "minecraft:crafting_table", "minecraft:barrel"]
+
+# Config value: personality.
+[personality]
+# Config value: personality.llm_prompt.
+llm_prompt = "Finn is brave, friendly, direct, and hungry for adventure. He wants a home near players and talks like an energetic hero."
+# Config value: personality.traits.
+traits = ["brave", "friendly", "reckless"]
+# Config value: personality.speech_style.
+speech_style = "energetic hero"
+# Config value: personality.catchphrases.
+catchphrases = ["Mathematical!", "Adventure time!"]
+
+# Config value: housing.
+[housing]
+# Config value: housing.can_move_in.
+can_move_in = true
+# Config value: housing.requires_bed.
+requires_bed = true
+
+# Config value: gifts.
+[gifts]
+# Config value: gifts.loved.
+loved = ["minecraft:diamond_sword", "#minecraft:swords"]
+# Config value: gifts.liked.
+liked = ["minecraft:cooked_beef", "minecraft:iron_sword"]
+# Config value: gifts.disliked.
+disliked = ["minecraft:rotten_flesh"]

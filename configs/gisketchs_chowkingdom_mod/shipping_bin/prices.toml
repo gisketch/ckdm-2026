@@ -1,0 +1,23 @@
+# Chow Kingdom config: prices.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: payout_hour.
+payout_hour = 5
+# Config value: payout_minute.
+payout_minute = 0
+# Config value: entries.
+entries = [
+  { item = "minecraft:wheat", price_amount = 100 },
+  { item = "minecraft:carrot", price_amount = 75 },
+  { tag = "minecraft:crops", price_amount = 50 },
+]
+
+# Config value: quality_food.
+[quality_food]
+# Config value: quality_food.enabled.
+enabled = true
+# Config value: quality_food.iron_quality.
+iron_quality = 1.1
+# Config value: quality_food.gold_quality.
+gold_quality = 1.25
+# Config value: quality_food.diamond_quality.
+diamond_quality = 1.5

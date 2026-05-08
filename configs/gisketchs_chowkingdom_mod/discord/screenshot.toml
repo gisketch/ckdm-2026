@@ -1,0 +1,16 @@
+# Chow Kingdom config: screenshot.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: enabled.
+enabled = true
+# Config value: webhook_url.
+webhook_url = ""
+# Config value: webhook_username.
+webhook_username = "Chow Kingdom Screenshots"
+# Config value: avatar_url.
+avatar_url = ""
+# Config value: hide_gui.
+hide_gui = true
+# Config value: keep_local_copy.
+keep_local_copy = true
+# Config value: message.
+message = "Screenshot from {player}{mention}"
