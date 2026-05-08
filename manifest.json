@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.09b",
+    "version": "v2026.05.09c",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -1562,62 +1562,6 @@
       "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/LrKSuU8e/entityculling-neoforge-1.10.1-mc1.21.1.jar",
       "optional": true,
       "side": "client"
-    },
-    {
-      "id": "official-epic-x-parcool",
-      "source": "modrinth",
-      "projectId": "NfOLe8St",
-      "versionId": "Uq0vPJIE",
-      "repoPath": null,
-      "filename": "epic x parcool-neoforge-21.0.0-1.21.1.jar",
-      "sha1": "c2f2fb69d26d45d27ab92bb0d1aee8ac29e24d13",
-      "sha512": null,
-      "size": 387088,
-      "url": "https://cdn.modrinth.com/data/NfOLe8St/versions/Uq0vPJIE/epic%20x%20parcool-neoforge-21.0.0-1.21.1.jar",
-      "optional": false,
-      "side": "both"
-    },
-    {
-      "id": "epic-fight",
-      "source": "modrinth",
-      "projectId": "vu3NZ5Ma",
-      "versionId": "dSV7xWi5",
-      "repoPath": null,
-      "filename": "epic-fight-21.16.4-mc1.21.1-neoforge.jar",
-      "sha1": "34710c9c4462f2418f27ecc916d8e4a0dad8e892",
-      "sha512": null,
-      "size": 8493578,
-      "url": "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/dSV7xWi5/epic-fight-21.16.4-mc1.21.1-neoforge.jar",
-      "optional": false,
-      "side": "both"
-    },
-    {
-      "id": "mods-epicfight-punchy-compat-1-0-0",
-      "source": "repo",
-      "projectId": null,
-      "versionId": null,
-      "repoPath": "mods/epicfight_punchy_compat-1.0.0.jar",
-      "filename": "epicfight_punchy_compat-1.0.0.jar",
-      "sha1": "6a9c7f9688785cda6928f7db6f6ee8719c2e436d",
-      "sha512": null,
-      "size": 6070,
-      "url": "",
-      "optional": true,
-      "side": "client"
-    },
-    {
-      "id": "epic-fight-smart-items-addon",
-      "source": "modrinth",
-      "projectId": "9A9xjuMu",
-      "versionId": "2o3Pwm9Z",
-      "repoPath": null,
-      "filename": "epicfightsmartitems-1.2.0.jar",
-      "sha1": "631443bc8181bd03b2b2e7b9c6a0dfa411752b88",
-      "sha512": null,
-      "size": 10253,
-      "url": "https://cdn.modrinth.com/data/9A9xjuMu/versions/2o3Pwm9Z/epicfightsmartitems-1.2.0.jar",
-      "optional": false,
-      "side": "both"
     },
     {
       "id": "expanded-delight",
