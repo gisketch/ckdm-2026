@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.09c",
+    "version": "v2026.05.10a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -654,6 +654,20 @@
       "side": "both"
     },
     {
+      "id": "quark",
+      "source": "modrinth",
+      "projectId": "qnQsVE2z",
+      "versionId": "dGSYpGOo",
+      "repoPath": null,
+      "filename": "Quark-4.1-479.jar",
+      "sha1": "709d2f873dd1afc98cda59b133b53e5e797a2d19",
+      "sha512": null,
+      "size": 15598989,
+      "url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/dGSYpGOo/Quark-4.1-479.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "quick-skin",
       "source": "modrinth",
       "projectId": "zAIE84Ch",
@@ -706,6 +720,20 @@
       "sha512": null,
       "size": 271436,
       "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/N8sgtkZi/ShoulderSurfing-NeoForge-1.21.1-4.22.7.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "simply-tooltips",
+      "source": "modrinth",
+      "projectId": "6avVoBVB",
+      "versionId": "Ic73EcJ6",
+      "repoPath": null,
+      "filename": "SimplyTooltips-neoforge-0.1.3.jar",
+      "sha1": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746",
+      "sha512": null,
+      "size": 5320037,
+      "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Ic73EcJ6/SimplyTooltips-neoforge-0.1.3.jar",
       "optional": false,
       "side": "client"
     },
@@ -878,6 +906,20 @@
       "side": "both"
     },
     {
+      "id": "archers-expansion",
+      "source": "modrinth",
+      "projectId": "1BHIIm4m",
+      "versionId": "k4HKgkwr",
+      "repoPath": null,
+      "filename": "archers_expansion-neoforge-1.5.1+1.21.1.jar",
+      "sha1": "14dd4ca727211ae6fce13de963602748e00807d1",
+      "sha512": null,
+      "size": 763468,
+      "url": "https://cdn.modrinth.com/data/1BHIIm4m/versions/k4HKgkwr/archers_expansion-neoforge-1.5.1%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "architectury-api",
       "source": "modrinth",
       "projectId": "lhGA9TYQ",
@@ -990,6 +1032,34 @@
       "side": "both"
     },
     {
+      "id": "bard-more-rpg-classes",
+      "source": "modrinth",
+      "projectId": "kL7Bjgmw",
+      "versionId": "V38S7981",
+      "repoPath": null,
+      "filename": "bards_rpg-neoforge-0.1.2-1.21.1.jar",
+      "sha1": "8d60e1a011a89f926517b5f3b7a5a8436ffc456b",
+      "sha512": null,
+      "size": 1529883,
+      "url": "https://cdn.modrinth.com/data/kL7Bjgmw/versions/V38S7981/bards_rpg-neoforge-0.1.2-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "berserker-rpg-class",
+      "source": "modrinth",
+      "projectId": "8hqOZzxM",
+      "versionId": "vjKwYR4P",
+      "repoPath": null,
+      "filename": "berserker_rpg-neoforge-2.6.0+1.21.1.jar",
+      "sha1": "b5a99e5afc453eb2042e8dbff7388318f83cd941",
+      "sha512": null,
+      "size": 562527,
+      "url": "https://cdn.modrinth.com/data/8hqOZzxM/versions/vjKwYR4P/berserker_rpg-neoforge-2.6.0%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "better-beds",
       "source": "modrinth",
       "projectId": "kKwy3HU9",
@@ -1028,6 +1098,48 @@
       "sha512": null,
       "size": 585998,
       "url": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "biolith",
+      "source": "modrinth",
+      "projectId": "iGEl6Crx",
+      "versionId": "1ZfKhpFg",
+      "repoPath": null,
+      "filename": "biolith-neoforge-3.0.11.jar",
+      "sha1": "049799f0622e990216cc4f25c8d9fe5d199ec2ea",
+      "sha512": null,
+      "size": 215781,
+      "url": "https://cdn.modrinth.com/data/iGEl6Crx/versions/1ZfKhpFg/biolith-neoforge-3.0.11.jar",
+      "optional": false,
+      "side": "server"
+    },
+    {
+      "id": "bossesrise",
+      "source": "modrinth",
+      "projectId": "q2bV1Tm1",
+      "versionId": "FQB6F9rj",
+      "repoPath": null,
+      "filename": "block_factorys_bosses-2.1.1-neo-1.21.1.jar",
+      "sha1": "4ad805284253ec9f4a1b35ac7fe1a94c2c82ffb7",
+      "sha512": null,
+      "size": 24312264,
+      "url": "https://cdn.modrinth.com/data/q2bV1Tm1/versions/FQB6F9rj/block_factorys_bosses-2.1.1-neo-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "c2me-neoforge",
+      "source": "modrinth",
+      "projectId": "COlSi5iR",
+      "versionId": "9iPiN34N",
+      "repoPath": null,
+      "filename": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
+      "sha1": "c858c8becfb5205eb12aaf0420eb82c307c2e6a7",
+      "sha512": null,
+      "size": 4508649,
+      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/9iPiN34N/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.91.jar",
       "optional": false,
       "side": "both"
     },
@@ -1128,6 +1240,20 @@
       "url": "https://cdn.modrinth.com/data/qekxLrOP/versions/Q1cwyIE1/cobbledex-rei-emi-jei-neoforge-1.50.22.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "mods-cobblemon-items",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/cobblemon_items.txt",
+      "filename": "cobblemon_items.txt",
+      "sha1": "86265a686b1185d9d10c752f4b51c30355e3695e",
+      "sha512": null,
+      "size": 20970,
+      "url": "",
+      "optional": false,
+      "side": "client"
     },
     {
       "id": "cobblemon-charged",
@@ -1508,6 +1634,20 @@
       "side": "client"
     },
     {
+      "id": "elemental-wizards-rpg",
+      "source": "modrinth",
+      "projectId": "PeZ4h4i0",
+      "versionId": "I33wTDbt",
+      "repoPath": null,
+      "filename": "elemental_wizards_rpg-neoforge-2.6.7+1.21.1.jar",
+      "sha1": "e8a3c34b9059f8af4437f5f303d6fc93ab763c95",
+      "sha512": null,
+      "size": 1391757,
+      "url": "https://cdn.modrinth.com/data/PeZ4h4i0/versions/I33wTDbt/elemental_wizards_rpg-neoforge-2.6.7%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "emi",
       "source": "modrinth",
       "projectId": "fRiHVvU7",
@@ -1620,6 +1760,20 @@
       "side": "both"
     },
     {
+      "id": "mods-fape-compat-0-5",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/fape_compat-0.5.jar",
+      "filename": "fape_compat-0.5.jar",
+      "sha1": "348abdeeff93aa3167e78be8b802bd7d66a0bee5",
+      "sha512": null,
+      "size": 299997,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "fast-paintings",
       "source": "modrinth",
       "projectId": "z3TzcquW",
@@ -1630,6 +1784,34 @@
       "sha512": null,
       "size": 155810,
       "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/PQ155hbf/fastpaintings-1.21-1.3.0-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "qliphoth-awakening",
+      "source": "modrinth",
+      "projectId": "7fqQYwaC",
+      "versionId": "mubOR5lN",
+      "repoPath": null,
+      "filename": "fdbosses-3.1.0.3-1.21.1.jar",
+      "sha1": "3f4f903838cc2080ffd6b3a4baebc5c172f585dd",
+      "sha512": null,
+      "size": 25643812,
+      "url": "https://cdn.modrinth.com/data/7fqQYwaC/versions/mubOR5lN/fdbosses-3.1.0.3-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "fdlib",
+      "source": "modrinth",
+      "projectId": "LcmGQfK2",
+      "versionId": "bZKs2lFt",
+      "repoPath": null,
+      "filename": "fdlib-1.0.8-1.21.1.jar",
+      "sha1": "40d41190d8e811b0a874806eedb98b767d091656",
+      "sha512": null,
+      "size": 973073,
+      "url": "https://cdn.modrinth.com/data/LcmGQfK2/versions/bZKs2lFt/fdlib-1.0.8-1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -1658,6 +1840,20 @@
       "sha512": null,
       "size": 343470,
       "url": "https://cdn.modrinth.com/data/zBOfzARU/versions/X6tDdBcR/fireworkcapsules-neoforge-2.1.3%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "forcemaster-rpg-class",
+      "source": "modrinth",
+      "projectId": "K3yHebFL",
+      "versionId": "cgEFs1KH",
+      "repoPath": null,
+      "filename": "forcemaster_rpg-neoforge-2.6.0+1.21.1.jar",
+      "sha1": "47bdb71a82428a0d56d171f6ec4776b6022e3312",
+      "sha512": null,
+      "size": 667501,
+      "url": "https://cdn.modrinth.com/data/K3yHebFL/versions/cgEFs1KH/forcemaster_rpg-neoforge-2.6.0%2B1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -1802,6 +1998,20 @@
       "side": "client"
     },
     {
+      "id": "idas",
+      "source": "modrinth",
+      "projectId": "Z8OZShAU",
+      "versionId": "6Vwdcz9e",
+      "repoPath": null,
+      "filename": "idas-1.13.4+1.21.1-neoforge.jar",
+      "sha1": "5a5d1244a583bc283fe86aed87939a25c68f7d04",
+      "sha512": null,
+      "size": 14393333,
+      "url": "https://cdn.modrinth.com/data/Z8OZShAU/versions/6Vwdcz9e/idas-1.13.4%2B1.21.1-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "immersive-furniture",
       "source": "modrinth",
       "projectId": "SvN6UGeF",
@@ -1870,6 +2080,20 @@
       "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/qJHPvUyX/immersivehotbar-1.1.1-neoforge-1.21-1.21.1.jar",
       "optional": false,
       "side": "client"
+    },
+    {
+      "id": "integrated-api",
+      "source": "modrinth",
+      "projectId": "V6fKbpBN",
+      "versionId": "X16u6myK",
+      "repoPath": null,
+      "filename": "integrated_api-1.7.3+1.21.1-neoforge.jar",
+      "sha1": "2f47b37951b2a4b6eb3c3dcd7eb9a819e0ca93a6",
+      "sha512": null,
+      "size": 478796,
+      "url": "https://cdn.modrinth.com/data/V6fKbpBN/versions/X16u6myK/integrated_api-1.7.3%2B1.21.1-neoforge.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "iris-flw-compat",
@@ -2026,6 +2250,20 @@
       "side": "both"
     },
     {
+      "id": "lithostitched",
+      "source": "modrinth",
+      "projectId": "XaDC71GB",
+      "versionId": "3yrFEAmj",
+      "repoPath": null,
+      "filename": "lithostitched-1.7.3-neoforge-21.1.jar",
+      "sha1": "d4ec9689721502154dbd587642de142261688316",
+      "sha512": null,
+      "size": 821956,
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/3yrFEAmj/lithostitched-1.7.3-neoforge-21.1.jar",
+      "optional": false,
+      "side": "server"
+    },
+    {
       "id": "loadsupport",
       "source": "modrinth",
       "projectId": "bnO15g6H",
@@ -2050,6 +2288,20 @@
       "sha512": null,
       "size": 38231,
       "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/vnC2WTix/loot_journal-neoforge-1.21.1-4.0.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "mods-malfu-combat-animation-3-1-1-21-1",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/malfu-combat-animation-3.1-1.21.1+.jar",
+      "filename": "malfu-combat-animation-3.1-1.21.1+.jar",
+      "sha1": "b4eff54a415a0395cdc59d63a06fd556451cd806",
+      "sha512": null,
+      "size": 3645192,
+      "url": "",
       "optional": false,
       "side": "client"
     },
@@ -2138,6 +2390,20 @@
       "side": "both"
     },
     {
+      "id": "more-rpg-library",
+      "source": "modrinth",
+      "projectId": "Wkc3lwHo",
+      "versionId": "xQUUhWwH",
+      "repoPath": null,
+      "filename": "more_rpg_library-neoforge-2.5.29+1.21.1.jar",
+      "sha1": "732e3a315ac872a0eb24a31ae66dabede78f7d48",
+      "sha512": null,
+      "size": 1983725,
+      "url": "https://cdn.modrinth.com/data/Wkc3lwHo/versions/xQUUhWwH/more_rpg_library-neoforge-2.5.29%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "mousetweaks-x-accessories-fix",
       "source": "modrinth",
       "projectId": "bFBJU91s",
@@ -2150,6 +2416,20 @@
       "url": "https://cdn.modrinth.com/data/bFBJU91s/versions/NF6alSLv/mousetweaks-x-accessories-fix-1.3.0.jar",
       "optional": true,
       "side": "client"
+    },
+    {
+      "id": "more-rpg-classes-skill-tree",
+      "source": "modrinth",
+      "projectId": "3OYmNUDq",
+      "versionId": "8Znki8F6",
+      "repoPath": null,
+      "filename": "mrpgc_skill_tree-neoforge-1.1.2+1.21.1.jar",
+      "sha1": "dec48a939d8310e3917c685d600b8408a18e44c0",
+      "sha512": null,
+      "size": 1302004,
+      "url": "https://cdn.modrinth.com/data/3OYmNUDq/versions/8Znki8F6/mrpgc_skill_tree-neoforge-1.1.2%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
     },
     {
       "id": "not-enough-animations",
@@ -2204,6 +2484,20 @@
       "sha512": null,
       "size": 1577086,
       "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/b16WHzyv/open-parties-and-claims-neoforge-1.21.1-0.26.2.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "oritech",
+      "source": "modrinth",
+      "projectId": "4sYI62kA",
+      "versionId": "DFvNRIVi",
+      "repoPath": null,
+      "filename": "oritech-neoforge-1.21.1-1.2.6.jar",
+      "sha1": "f5b5b6713c221ac976c9174104d07e7b3b29b8dc",
+      "sha512": null,
+      "size": 10676212,
+      "url": "https://cdn.modrinth.com/data/4sYI62kA/versions/DFvNRIVi/oritech-neoforge-1.21.1-1.2.6.jar",
       "optional": false,
       "side": "both"
     },
@@ -2432,6 +2726,20 @@
       "side": "client"
     },
     {
+      "id": "regions-unexplored",
+      "source": "modrinth",
+      "projectId": "Tkikq67H",
+      "versionId": "anPXgVIF",
+      "repoPath": null,
+      "filename": "regions-unexplored-0.6+beta4-neoforge-21.1.jar",
+      "sha1": "66b009aee6545da64232835a24f1a9a765736720",
+      "sha512": null,
+      "size": 6154310,
+      "url": "https://cdn.modrinth.com/data/Tkikq67H/versions/anPXgVIF/regions-unexplored-0.6%2Bbeta4-neoforge-21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "relics-mod",
       "source": "modrinth",
       "projectId": "OCJRPujW",
@@ -2600,6 +2908,20 @@
       "side": "both"
     },
     {
+      "id": "shield-n-parry",
+      "source": "modrinth",
+      "projectId": "6rqDqhrb",
+      "versionId": "wnXXkWYH",
+      "repoPath": null,
+      "filename": "shieldnparry-1.0.0.jar",
+      "sha1": "1a9a884b51221ec36d97cdcd273ac1be2aa54a8e",
+      "sha512": null,
+      "size": 5341190,
+      "url": "https://cdn.modrinth.com/data/6rqDqhrb/versions/wnXXkWYH/shieldnparry-1.0.0.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "simple-hats",
       "source": "modrinth",
       "projectId": "iSkQCp6b",
@@ -2610,6 +2932,48 @@
       "sha512": null,
       "size": 1400084,
       "url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/eJfr27xY/simplehats-neoforge-1.21.1-0.4.0.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "simplycataclysm",
+      "source": "modrinth",
+      "projectId": "iAWmQpER",
+      "versionId": "JcufHZkm",
+      "repoPath": null,
+      "filename": "simplycataclysm-1.0.2+1.21.1+neoforge.jar",
+      "sha1": "a2aa0f82ae3a9be2f43a4d47b3cb2201dd4e1469",
+      "sha512": null,
+      "size": 272904,
+      "url": "https://cdn.modrinth.com/data/iAWmQpER/versions/JcufHZkm/simplycataclysm-1.0.2%2B1.21.1%2Bneoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "simplymore",
+      "source": "modrinth",
+      "projectId": "zhpyD8Y0",
+      "versionId": "naW264bf",
+      "repoPath": null,
+      "filename": "simplymore-neoforge-1.2.2+1.21.1.jar",
+      "sha1": "b78306262809bbadbeeee92c314447f118ac5a1f",
+      "sha512": null,
+      "size": 1621297,
+      "url": "https://cdn.modrinth.com/data/zhpyD8Y0/versions/naW264bf/simplymore-neoforge-1.2.2%2B1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "simply-swords",
+      "source": "modrinth",
+      "projectId": "bK3Ubu9p",
+      "versionId": "eREhvVpQ",
+      "repoPath": null,
+      "filename": "simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "sha1": "7dd9bdbc601f8d8a8e5bbe2d2db5343321ee2fb4",
+      "sha512": null,
+      "size": 12617777,
+      "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/eREhvVpQ/simplyswords-neoforge-1.63.0-1.21.1.jar",
       "optional": false,
       "side": "both"
     },
@@ -2639,6 +3003,20 @@
       "size": 1974380,
       "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "optional": true,
+      "side": "client"
+    },
+    {
+      "id": "mods-sky-archipelago-1-2-2",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/sky_archipelago-1.2.2.jar",
+      "filename": "sky_archipelago-1.2.2.jar",
+      "sha1": "88951cddc560f48b15c71a1955a4f133bb4ca45f",
+      "sha512": null,
+      "size": 371650,
+      "url": "",
+      "optional": false,
       "side": "client"
     },
     {
@@ -3044,6 +3422,20 @@
       "sha512": null,
       "size": 432269,
       "url": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "witcher-rpg-class",
+      "source": "modrinth",
+      "projectId": "4eW1c7Gj",
+      "versionId": "kNwJCFSQ",
+      "repoPath": null,
+      "filename": "witcher-class-mod-neoforge-2.8.0+1.21.1.jar",
+      "sha1": "9abf0dbd4c28a5683657a8a61d4ab41d0d5655f2",
+      "sha512": null,
+      "size": 1586543,
+      "url": "https://cdn.modrinth.com/data/4eW1c7Gj/versions/kNwJCFSQ/witcher-class-mod-neoforge-2.8.0%2B1.21.1.jar",
       "optional": false,
       "side": "both"
     },
