@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.11b",
+    "version": "v2026.05.11c",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -734,6 +734,20 @@
       "sha512": null,
       "size": 271436,
       "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/N8sgtkZi/ShoulderSurfing-NeoForge-1.21.1-4.22.7.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "simply-tooltips",
+      "source": "modrinth",
+      "projectId": "6avVoBVB",
+      "versionId": "Ic73EcJ6",
+      "repoPath": null,
+      "filename": "SimplyTooltips-neoforge-0.1.3.jar",
+      "sha1": "2bbc2c8b5eb0fcc7ece66e336639a4fd554fd746",
+      "sha512": null,
+      "size": 5320037,
+      "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Ic73EcJ6/SimplyTooltips-neoforge-0.1.3.jar",
       "optional": false,
       "side": "client"
     },
