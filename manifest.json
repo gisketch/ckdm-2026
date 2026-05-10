@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.10b",
+    "version": "v2026.05.11a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -594,6 +594,20 @@
       "sha512": null,
       "size": 646777,
       "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "pehkui",
+      "source": "modrinth",
+      "projectId": "t5W7Jfwy",
+      "versionId": "nKHizsl6",
+      "repoPath": null,
+      "filename": "Pehkui-3.8.3+1.21-neoforge.jar",
+      "sha1": "4ae35b04b0fca7b170417a12d6da6a693281574b",
+      "sha512": null,
+      "size": 507568,
+      "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar",
       "optional": false,
       "side": "both"
     },
@@ -1326,6 +1340,20 @@
       "side": "both"
     },
     {
+      "id": "mods-combat-tags",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/combat_tags.json",
+      "filename": "combat_tags.json",
+      "sha1": "fdf83b2fd0149258f6e24b92d36bd449f91c8137",
+      "sha512": null,
+      "size": 92136,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "reconnectible-chains",
       "source": "modrinth",
       "projectId": "5pzBXDS3",
@@ -1990,9 +2018,9 @@
       "versionId": null,
       "repoPath": "mods/gisketchs_chowkingdom_mod-1.0.0.jar",
       "filename": "gisketchs_chowkingdom_mod-1.0.0.jar",
-      "sha1": "a27b6ce88a1a95d43341629baadee67dfcda33d3",
+      "sha1": "cf501745738cfd1fb74942cf34bdea43eb080eaa",
       "sha512": null,
-      "size": 13609106,
+      "size": 15124185,
       "url": "",
       "optional": false,
       "side": "client"

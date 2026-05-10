@@ -1,0 +1,3899 @@
+{
+  "c": {
+    "#c:buckets/dye": {
+      "count": 16,
+      "sample": [
+        "#c:buckets/dye/white",
+        "#c:buckets/dye/orange",
+        "#c:buckets/dye/magenta"
+      ]
+    },
+    "#c:buckets/dragon_breath": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:dragon_breath_bucket"
+      ]
+    },
+    "#c:buckets/dye/pink": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:pink_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/red": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:red_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/cyan": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:cyan_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/light_gray": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:light_gray_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/gray": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:gray_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/green": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:green_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/lime": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:lime_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/magenta": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:magenta_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/black": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:black_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/yellow": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:yellow_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/white": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:white_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/brown": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:brown_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/light_blue": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:light_blue_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/purple": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:purple_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/orange": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:orange_dye_bucket"
+      ]
+    },
+    "#c:buckets/dye/blue": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:blue_dye_bucket"
+      ]
+    },
+    "#c:dyed/pink": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:pink_dye_bucket"
+      ]
+    },
+    "#c:dyed/red": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:red_dye_bucket"
+      ]
+    },
+    "#c:dyed/cyan": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:cyan_dye_bucket"
+      ]
+    },
+    "#c:dyed/light_gray": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:light_gray_dye_bucket"
+      ]
+    },
+    "#c:dyed/gray": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:gray_dye_bucket"
+      ]
+    },
+    "#c:dyed/green": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:green_dye_bucket"
+      ]
+    },
+    "#c:dyed/lime": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:lime_dye_bucket"
+      ]
+    },
+    "#c:dyed/magenta": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:magenta_dye_bucket"
+      ]
+    },
+    "#c:dyed/black": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:black_dye_bucket"
+      ]
+    },
+    "#c:dyed/yellow": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:yellow_dye_bucket"
+      ]
+    },
+    "#c:dyed/white": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:white_dye_bucket"
+      ]
+    },
+    "#c:dyed/brown": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:brown_dye_bucket"
+      ]
+    },
+    "#c:dyed/light_blue": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:light_blue_dye_bucket"
+      ]
+    },
+    "#c:dyed/purple": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:purple_dye_bucket"
+      ]
+    },
+    "#c:dyed/orange": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:orange_dye_bucket"
+      ]
+    },
+    "#c:dyed/blue": {
+      "count": 1,
+      "sample": [
+        "create_dragons_plus:blue_dye_bucket"
+      ]
+    },
+    "#c:armor/boots": {
+      "count": 1,
+      "sample": [
+        "cataclysm:ignitium_boots"
+      ]
+    },
+    "#c:armor/chestplates": {
+      "count": 2,
+      "sample": [
+        "cataclysm:ignitium_chestplate",
+        "cataclysm:ignitium_elytra_chestplate"
+      ]
+    },
+    "#c:armor/helmets": {
+      "count": 2,
+      "sample": [
+        "cataclysm:monstrous_helm",
+        "cataclysm:ignitium_helmet"
+      ]
+    },
+    "#c:armor/leggings": {
+      "count": 1,
+      "sample": [
+        "cataclysm:ignitium_leggings"
+      ]
+    },
+    "#c:tools/axes": {
+      "count": 3,
+      "sample": [
+        "cataclysm:meat_shredder",
+        "cataclysm:soul_render",
+        "cataclysm:black_steel_axe"
+      ]
+    },
+    "#c:tools/bows": {
+      "count": 1,
+      "sample": [
+        "cataclysm:cursed_bow"
+      ]
+    },
+    "#c:tools/pickaxes": {
+      "count": 4,
+      "sample": [
+        "cataclysm:infernal_forge",
+        "cataclysm:void_forge",
+        "cataclysm:brontes"
+      ]
+    },
+    "#c:tools/swords": {
+      "count": 2,
+      "sample": [
+        "cataclysm:the_incinerator",
+        "cataclysm:athame"
+      ]
+    },
+    "#c:tools/tridents": {
+      "count": 2,
+      "sample": [
+        "cataclysm:coral_spear",
+        "cataclysm:coral_bardiche"
+      ]
+    },
+    "#c:tools/ranged_weapon": {
+      "count": 1,
+      "sample": [
+        "block_factorys_bosses:kraken_trident"
+      ]
+    },
+    "#c:tools/spear": {
+      "count": 1,
+      "sample": [
+        "block_factorys_bosses:kraken_trident"
+      ]
+    },
+    "#c:tools/shield": {
+      "count": 3,
+      "sample": [
+        "block_factorys_bosses:dragon_guard_shield",
+        "block_factorys_bosses:enhanced_shield",
+        "block_factorys_bosses:ice_gauntlet"
+      ]
+    },
+    "#c:tools/melee_weapon": {
+      "count": 20,
+      "sample": [
+        {
+          "id": "#simplyswords:adamantite",
+          "required": false
+        },
+        {
+          "id": "#simplyswords:aquarium",
+          "required": false
+        },
+        {
+          "id": "#simplyswords:banglum",
+          "required": false
+        }
+      ]
+    },
+    "#c:flours/wheat": {
+      "count": 1,
+      "sample": [
+        "create:wheat_flour"
+      ]
+    },
+    "#c:ingots/brass": {
+      "count": 1,
+      "sample": [
+        "create:brass_ingot"
+      ]
+    },
+    "#c:ingots/zinc": {
+      "count": 1,
+      "sample": [
+        "create:zinc_ingot"
+      ]
+    },
+    "#c:tools/wrench": {
+      "count": 1,
+      "sample": [
+        "oritech:wrench"
+      ]
+    },
+    "#c:ores/zinc": {
+      "count": 2,
+      "sample": [
+        "create:zinc_ore",
+        "create:deepslate_zinc_ore"
+      ]
+    },
+    "#c:glass_panes/colorless": {
+      "count": 4,
+      "sample": [
+        "create:tiled_glass_pane",
+        "create:framed_glass_pane",
+        "create:horizontal_framed_glass_pane"
+      ]
+    },
+    "#c:buckets/chocolate": {
+      "count": 1,
+      "sample": [
+        "create:chocolate_bucket"
+      ]
+    },
+    "#c:buckets/honey": {
+      "count": 1,
+      "sample": [
+        "create:honey_bucket"
+      ]
+    },
+    "#c:nuggets/brass": {
+      "count": 1,
+      "sample": [
+        "create:brass_nugget"
+      ]
+    },
+    "#c:nuggets/copper": {
+      "count": 1,
+      "sample": [
+        "oritech:copper_nugget"
+      ]
+    },
+    "#c:nuggets/zinc": {
+      "count": 1,
+      "sample": [
+        "create:zinc_nugget"
+      ]
+    },
+    "#c:storage_blocks/cardboard": {
+      "count": 1,
+      "sample": [
+        "create:cardboard_block"
+      ]
+    },
+    "#c:storage_blocks/brass": {
+      "count": 1,
+      "sample": [
+        "create:brass_block"
+      ]
+    },
+    "#c:storage_blocks/andesite_alloy": {
+      "count": 1,
+      "sample": [
+        "create:andesite_alloy_block"
+      ]
+    },
+    "#c:storage_blocks/zinc": {
+      "count": 1,
+      "sample": [
+        "create:zinc_block"
+      ]
+    },
+    "#c:storage_blocks/raw_zinc": {
+      "count": 1,
+      "sample": [
+        "create:raw_zinc_block"
+      ]
+    },
+    "#c:foods/dough/wheat": {
+      "count": 1,
+      "sample": [
+        "create:dough"
+      ]
+    },
+    "#c:foods/chocolate": {
+      "count": 1,
+      "sample": [
+        "create:bar_of_chocolate"
+      ]
+    },
+    "#c:foods/dough": {
+      "count": 1,
+      "sample": [
+        "create:dough"
+      ]
+    },
+    "#c:foods/fruit": {
+      "count": 1,
+      "sample": [
+        "oritech:banana"
+      ]
+    },
+    "#c:foods/berry": {
+      "count": 1,
+      "sample": [
+        "create:chocolate_glazed_berries"
+      ]
+    },
+    "#c:drinks/tea": {
+      "count": 1,
+      "sample": [
+        "create:builders_tea"
+      ]
+    },
+    "#c:ores_in_ground/deepslate": {
+      "count": 1,
+      "sample": [
+        "create:deepslate_zinc_ore"
+      ]
+    },
+    "#c:ores_in_ground/stone": {
+      "count": 1,
+      "sample": [
+        "create:zinc_ore"
+      ]
+    },
+    "#c:raw_materials/zinc": {
+      "count": 1,
+      "sample": [
+        "create:raw_zinc"
+      ]
+    },
+    "#c:dusts/obsidian": {
+      "count": 1,
+      "sample": [
+        "create:powdered_obsidian"
+      ]
+    },
+    "#c:glass_blocks/colorless": {
+      "count": 4,
+      "sample": [
+        "create:tiled_glass",
+        "create:framed_glass",
+        "create:horizontal_framed_glass"
+      ]
+    },
+    "#c:plates/cardboard": {
+      "count": 1,
+      "sample": [
+        "create:cardboard"
+      ]
+    },
+    "#c:plates/iron": {
+      "count": 1,
+      "sample": [
+        "create:iron_sheet"
+      ]
+    },
+    "#c:plates/obsidian": {
+      "count": 1,
+      "sample": [
+        "create:sturdy_sheet"
+      ]
+    },
+    "#c:plates/brass": {
+      "count": 1,
+      "sample": [
+        "create:brass_sheet"
+      ]
+    },
+    "#c:plates/copper": {
+      "count": 1,
+      "sample": [
+        "create:copper_sheet"
+      ]
+    },
+    "#c:plates/gold": {
+      "count": 1,
+      "sample": [
+        "create:golden_sheet"
+      ]
+    },
+    "#c:nuggets/electrum": {
+      "count": 1,
+      "sample": [
+        "createaddition:electrum_nugget"
+      ]
+    },
+    "#c:foods/edible_when_placed": {
+      "count": 2,
+      "sample": [
+        "createaddition:chocolate_cake",
+        "createaddition:honey_cake"
+      ]
+    },
+    "#c:rods/electrum": {
+      "count": 1,
+      "sample": [
+        "createaddition:electrum_rod"
+      ]
+    },
+    "#c:rods/brass": {
+      "count": 1,
+      "sample": [
+        "createaddition:brass_rod"
+      ]
+    },
+    "#c:rods/gold": {
+      "count": 1,
+      "sample": [
+        "createaddition:gold_rod"
+      ]
+    },
+    "#c:rods/iron": {
+      "count": 1,
+      "sample": [
+        "createaddition:iron_rod"
+      ]
+    },
+    "#c:rods/copper": {
+      "count": 1,
+      "sample": [
+        "createaddition:copper_rod"
+      ]
+    },
+    "#c:rods/all_metal": {
+      "count": 5,
+      "sample": [
+        "createaddition:gold_rod",
+        "createaddition:iron_rod",
+        "createaddition:electrum_rod"
+      ]
+    },
+    "#c:wires/electrum": {
+      "count": 1,
+      "sample": [
+        "createaddition:electrum_wire"
+      ]
+    },
+    "#c:wires/gold": {
+      "count": 1,
+      "sample": [
+        "createaddition:gold_wire"
+      ]
+    },
+    "#c:wires/iron": {
+      "count": 1,
+      "sample": [
+        "createaddition:iron_wire"
+      ]
+    },
+    "#c:wires/copper": {
+      "count": 1,
+      "sample": [
+        "createaddition:copper_wire"
+      ]
+    },
+    "#c:wires/all_metal": {
+      "count": 4,
+      "sample": [
+        "createaddition:gold_wire",
+        "createaddition:iron_wire",
+        "createaddition:electrum_wire"
+      ]
+    },
+    "#c:fuels/bio": {
+      "count": 2,
+      "sample": [
+        "oritech:biomass",
+        {
+          "id": "techreborn:plantball",
+          "required": false
+        }
+      ]
+    },
+    "#c:dusts/diamond": {
+      "count": 1,
+      "sample": [
+        "createaddition:diamond_grit"
+      ]
+    },
+    "#c:storage_blocks/electrum": {
+      "count": 1,
+      "sample": [
+        "oritech:electrum_block"
+      ]
+    },
+    "#c:storage_blocks/biomass": {
+      "count": 1,
+      "sample": [
+        "oritech:biomass_block"
+      ]
+    },
+    "#c:storage_blocks/bio": {
+      "count": 1,
+      "sample": [
+        "createaddition:biomass_pellet_block"
+      ]
+    },
+    "#c:plates/zinc": {
+      "count": 1,
+      "sample": [
+        "createdeco:zinc_sheet"
+      ]
+    },
+    "#c:plates/electrum": {
+      "count": 1,
+      "sample": [
+        "createaddition:electrum_sheet"
+      ]
+    },
+    "#c:blocks/electrum": {
+      "count": 1,
+      "sample": [
+        "createaddition:electrum_block"
+      ]
+    },
+    "#c:ingots/electrum": {
+      "count": 1,
+      "sample": [
+        "oritech:electrum_ingot"
+      ]
+    },
+    "#c:ingots/andesite_alloy": {
+      "count": 1,
+      "sample": [
+        "create:andesite_alloy"
+      ]
+    },
+    "#c:ingots/industrial_iron": {
+      "count": 1,
+      "sample": [
+        "createdeco:industrial_iron_ingot"
+      ]
+    },
+    "#c:storage_blocks/industrial_iron": {
+      "count": 1,
+      "sample": [
+        "create:industrial_iron_block"
+      ]
+    },
+    "#c:nuggets/netherite": {
+      "count": 1,
+      "sample": [
+        "createdeco:netherite_nugget"
+      ]
+    },
+    "#c:nuggets/industrial_iron": {
+      "count": 1,
+      "sample": [
+        "createdeco:industrial_iron_nugget"
+      ]
+    },
+    "#c:plates/andesite_alloy": {
+      "count": 1,
+      "sample": [
+        "createdeco:andesite_sheet"
+      ]
+    },
+    "#c:plates/industrial_iron": {
+      "count": 1,
+      "sample": [
+        "createdeco:industrial_iron_sheet"
+      ]
+    },
+    "#c:clumps/copper": {
+      "count": 2,
+      "sample": [
+        "oritech:copper_clump",
+        {
+          "id": "create:crushed_raw_copper",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/gold": {
+      "count": 2,
+      "sample": [
+        "oritech:gold_clump",
+        {
+          "id": "create:crushed_raw_gold",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/iron": {
+      "count": 2,
+      "sample": [
+        "oritech:iron_clump",
+        {
+          "id": "create:crushed_raw_iron",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/nickel": {
+      "count": 2,
+      "sample": [
+        "oritech:nickel_clump",
+        {
+          "id": "create:crushed_raw_nickel",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/osmium": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "create:crushed_raw_osmium",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/platinum": {
+      "count": 2,
+      "sample": [
+        "oritech:platinum_clump",
+        {
+          "id": "create:crushed_raw_platinum",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/uranium": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "create:crushed_raw_uranium",
+          "required": false
+        }
+      ]
+    },
+    "#c:clumps/zinc": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "create:crushed_raw_zinc",
+          "required": false
+        }
+      ]
+    },
+    "#c:crops/soul_flower": {
+      "count": 1,
+      "sample": [
+        "oritech:wither_crop_block"
+      ]
+    },
+    "#c:dusts/adamant": {
+      "count": 1,
+      "sample": [
+        "oritech:adamant_dust"
+      ]
+    },
+    "#c:dusts/biosteel": {
+      "count": 1,
+      "sample": [
+        "oritech:biosteel_dust"
+      ]
+    },
+    "#c:dusts/coal": {
+      "count": 1,
+      "sample": [
+        "oritech:coal_dust"
+      ]
+    },
+    "#c:dusts/copper": {
+      "count": 1,
+      "sample": [
+        "oritech:copper_dust"
+      ]
+    },
+    "#c:dusts/duratium": {
+      "count": 1,
+      "sample": [
+        "oritech:duratium_dust"
+      ]
+    },
+    "#c:dusts/electrum": {
+      "count": 1,
+      "sample": [
+        "oritech:electrum_dust"
+      ]
+    },
+    "#c:dusts/energite": {
+      "count": 1,
+      "sample": [
+        "oritech:energite_dust"
+      ]
+    },
+    "#c:dusts/gold": {
+      "count": 1,
+      "sample": [
+        "oritech:gold_dust"
+      ]
+    },
+    "#c:dusts/iron": {
+      "count": 1,
+      "sample": [
+        "oritech:iron_dust"
+      ]
+    },
+    "#c:dusts/nickel": {
+      "count": 2,
+      "sample": [
+        "oritech:nickel_dust",
+        "oritech:nickel_dust"
+      ]
+    },
+    "#c:dusts/platinum": {
+      "count": 2,
+      "sample": [
+        "oritech:platinum_dust",
+        "oritech:platinum_dust"
+      ]
+    },
+    "#c:dusts/plutonium": {
+      "count": 1,
+      "sample": [
+        "oritech:plutonium_dust"
+      ]
+    },
+    "#c:dusts/quartz": {
+      "count": 1,
+      "sample": [
+        "oritech:quartz_dust"
+      ]
+    },
+    "#c:dusts/steel": {
+      "count": 1,
+      "sample": [
+        "oritech:steel_dust"
+      ]
+    },
+    "#c:dusts/uranium": {
+      "count": 1,
+      "sample": [
+        "oritech:uranium_dust"
+      ]
+    },
+    "#c:fuels/block/bio": {
+      "count": 1,
+      "sample": [
+        "oritech:biomass_block"
+      ]
+    },
+    "#c:gems/fluxite": {
+      "count": 1,
+      "sample": [
+        "oritech:fluxite"
+      ]
+    },
+    "#c:ingots/adamant": {
+      "count": 1,
+      "sample": [
+        "oritech:adamant_ingot"
+      ]
+    },
+    "#c:ingots/biosteel": {
+      "count": 1,
+      "sample": [
+        "oritech:biosteel_ingot"
+      ]
+    },
+    "#c:ingots/duratium": {
+      "count": 1,
+      "sample": [
+        "oritech:duratium_ingot"
+      ]
+    },
+    "#c:ingots/energite": {
+      "count": 1,
+      "sample": [
+        "oritech:energite_ingot"
+      ]
+    },
+    "#c:ingots/nickel": {
+      "count": 2,
+      "sample": [
+        "oritech:nickel_ingot",
+        "oritech:nickel_ingot"
+      ]
+    },
+    "#c:ingots/platinum": {
+      "count": 2,
+      "sample": [
+        "oritech:platinum_ingot",
+        "oritech:platinum_ingot"
+      ]
+    },
+    "#c:ingots/prometheum": {
+      "count": 1,
+      "sample": [
+        "oritech:prometheum_ingot"
+      ]
+    },
+    "#c:ingots/steel": {
+      "count": 3,
+      "sample": [
+        "oritech:steel_ingot",
+        "oritech:steel_ingot",
+        "oritech:biosteel_ingot"
+      ]
+    },
+    "#c:nuggets/nickel": {
+      "count": 1,
+      "sample": [
+        "oritech:nickel_nugget"
+      ]
+    },
+    "#c:nuggets/platinum": {
+      "count": 1,
+      "sample": [
+        "oritech:platinum_nugget"
+      ]
+    },
+    "#c:ores/nickel": {
+      "count": 2,
+      "sample": [
+        "oritech:nickel_ore",
+        "oritech:deepslate_nickel_ore"
+      ]
+    },
+    "#c:ores/platinum": {
+      "count": 2,
+      "sample": [
+        "oritech:deepslate_platinum_ore",
+        "oritech:endstone_platinum_ore"
+      ]
+    },
+    "#c:ores/uranium": {
+      "count": 3,
+      "sample": [
+        "oritech:deepslate_uranium_ore",
+        {
+          "id": "immersiveengineering:ore_uranium",
+          "required": false
+        },
+        {
+          "id": "immersiveengineering:deepslate_ore_uranium",
+          "required": false
+        }
+      ]
+    },
+    "#c:plates/plastic": {
+      "count": 1,
+      "sample": [
+        "oritech:plastic_sheet"
+      ]
+    },
+    "#c:raw_materials/dyes/black": {
+      "count": 2,
+      "sample": [
+        "minecraft:ink_sac",
+        "minecraft:wither_rose"
+      ]
+    },
+    "#c:raw_materials/dyes/blue": {
+      "count": 2,
+      "sample": [
+        "minecraft:lapis_lazuli",
+        "minecraft:cornflower"
+      ]
+    },
+    "#c:raw_materials/dyes/cyan": {
+      "count": 1,
+      "sample": [
+        "minecraft:pitcher_plant"
+      ]
+    },
+    "#c:raw_materials/dyes/light_gray": {
+      "count": 3,
+      "sample": [
+        "minecraft:azure_bluet",
+        "minecraft:oxeye_daisy",
+        "minecraft:white_tulip"
+      ]
+    },
+    "#c:raw_materials/dyes/magenta": {
+      "count": 2,
+      "sample": [
+        "minecraft:allium",
+        "minecraft:lilac"
+      ]
+    },
+    "#c:raw_materials/dyes/orange": {
+      "count": 2,
+      "sample": [
+        "minecraft:orange_tulip",
+        "minecraft:torchflower"
+      ]
+    },
+    "#c:raw_materials/dyes/pink": {
+      "count": 3,
+      "sample": [
+        "minecraft:pink_tulip",
+        "minecraft:peony",
+        "minecraft:pink_petals"
+      ]
+    },
+    "#c:raw_materials/dyes/red": {
+      "count": 3,
+      "sample": [
+        "minecraft:poppy",
+        "minecraft:red_tulip",
+        "minecraft:rose_bush"
+      ]
+    },
+    "#c:raw_materials/dyes/white": {
+      "count": 1,
+      "sample": [
+        "minecraft:bone_meal"
+      ]
+    },
+    "#c:raw_materials/dyes/yellow": {
+      "count": 2,
+      "sample": [
+        "minecraft:dandelion",
+        "minecraft:sunflower"
+      ]
+    },
+    "#c:raw_materials/nickel": {
+      "count": 1,
+      "sample": [
+        "oritech:raw_nickel"
+      ]
+    },
+    "#c:raw_materials/platinum": {
+      "count": 1,
+      "sample": [
+        "oritech:raw_platinum"
+      ]
+    },
+    "#c:raw_materials/uranium": {
+      "count": 1,
+      "sample": [
+        "oritech:raw_uranium"
+      ]
+    },
+    "#c:storage_blocks/adamant": {
+      "count": 1,
+      "sample": [
+        "oritech:adamant_block"
+      ]
+    },
+    "#c:storage_blocks/biosteel": {
+      "count": 1,
+      "sample": [
+        "oritech:biosteel_block"
+      ]
+    },
+    "#c:storage_blocks/duratium": {
+      "count": 1,
+      "sample": [
+        "oritech:duratium_block"
+      ]
+    },
+    "#c:storage_blocks/energite": {
+      "count": 1,
+      "sample": [
+        "oritech:energite_block"
+      ]
+    },
+    "#c:storage_blocks/fluxite": {
+      "count": 1,
+      "sample": [
+        "oritech:fluxite_block"
+      ]
+    },
+    "#c:storage_blocks/nickel": {
+      "count": 1,
+      "sample": [
+        "oritech:nickel_block"
+      ]
+    },
+    "#c:storage_blocks/plastic": {
+      "count": 1,
+      "sample": [
+        "oritech:plastic_block"
+      ]
+    },
+    "#c:storage_blocks/platinum": {
+      "count": 1,
+      "sample": [
+        "oritech:platinum_block"
+      ]
+    },
+    "#c:storage_blocks/raw_nickel": {
+      "count": 1,
+      "sample": [
+        "oritech:raw_nickel_block"
+      ]
+    },
+    "#c:storage_blocks/raw_platinum": {
+      "count": 1,
+      "sample": [
+        "oritech:raw_platinum_block"
+      ]
+    },
+    "#c:storage_blocks/raw_uranium": {
+      "count": 1,
+      "sample": [
+        "oritech:raw_uranium_block"
+      ]
+    },
+    "#c:storage_blocks/silicon": {
+      "count": 1,
+      "sample": [
+        "oritech:silicon_block"
+      ]
+    },
+    "#c:storage_blocks/steel": {
+      "count": 1,
+      "sample": [
+        "oritech:steel_block"
+      ]
+    },
+    "#c:storage_blocks/uranium_dust": {
+      "count": 1,
+      "sample": [
+        "oritech:uranium_dust_block"
+      ]
+    }
+  },
+  "minecraft": {
+    "#minecraft:enchantable/durability": {
+      "count": 20,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/healing_staff"
+      ]
+    },
+    "#minecraft:enchantable/trident": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "#simplyswords:spears"
+        }
+      ]
+    },
+    "#minecraft:enchantable/sharp_weapon": {
+      "count": 11,
+      "sample": [
+        "#rpg_series:weapon_type/sword",
+        "#rpg_series:weapon_type/spear",
+        "#rpg_series:weapon_type/claymore"
+      ]
+    },
+    "#minecraft:enchantable/bow": {
+      "count": 2,
+      "sample": [
+        "#rpg_series:weapon_type/short_bow",
+        "#rpg_series:weapon_type/long_bow"
+      ]
+    },
+    "#minecraft:enchantable/leg_armor": {
+      "count": 1,
+      "sample": [
+        "oritech:exo_leggings"
+      ]
+    },
+    "#minecraft:enchantable/chest_armor": {
+      "count": 5,
+      "sample": [
+        "oritech:jetpack",
+        "oritech:jetpack_elytra",
+        "oritech:jetpack_exo_elytra"
+      ]
+    },
+    "#minecraft:enchantable/head_armor": {
+      "count": 1,
+      "sample": [
+        "oritech:exo_helmet"
+      ]
+    },
+    "#minecraft:enchantable/foot_armor": {
+      "count": 1,
+      "sample": [
+        "oritech:exo_boots"
+      ]
+    },
+    "#minecraft:enchantable/mace": {
+      "count": 1,
+      "sample": [
+        "oritech:electric_mace"
+      ]
+    },
+    "#minecraft:enchantable/fire_aspect": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "#simplyswords:swords"
+        }
+      ]
+    },
+    "#minecraft:enchantable/sword": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "#simplyswords:swords"
+        }
+      ]
+    },
+    "#minecraft:enchantable/weapon": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "#simplyswords:swords"
+        }
+      ]
+    },
+    "#minecraft:enchantable/crossbow": {
+      "count": 2,
+      "sample": [
+        "#rpg_series:weapon_type/rapid_crossbow",
+        "#rpg_series:weapon_type/heavy_crossbow"
+      ]
+    }
+  },
+  "trinkets": {
+    "#trinkets:legs/belt": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/belt"
+      ]
+    },
+    "#trinkets:chest/back": {
+      "count": 1,
+      "sample": [
+        "#accents:trinkets/back"
+      ]
+    },
+    "#trinkets:chest/necklace": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/necklace"
+      ]
+    },
+    "#trinkets:feet/shoes": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/feet"
+      ]
+    },
+    "#trinkets:hand/glove": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/hands"
+      ]
+    },
+    "#trinkets:head/hat": {
+      "count": 2,
+      "sample": [
+        "#artifacts:slot/head",
+        "#artifacts:slot/face"
+      ]
+    },
+    "#trinkets:offhand/glove": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/hands"
+      ]
+    },
+    "#trinkets:calendar/calendarslot": {
+      "count": 2,
+      "sample": [
+        {
+          "id": "sereneseasons:calendar",
+          "required": false
+        },
+        {
+          "id": "eclipticseasons:calendar",
+          "required": false
+        }
+      ]
+    },
+    "#trinkets:legs/key": {
+      "count": 2,
+      "sample": [
+        "supplementaries:key",
+        {
+          "id": "suppsquared:heavy_key",
+          "required": false
+        }
+      ]
+    },
+    "#trinkets:legs/quiver": {
+      "count": 1,
+      "sample": [
+        "supplementaries:quiver"
+      ]
+    }
+  },
+  "rpg_series": {
+    "#rpg_series:armor_type/archery": {
+      "count": 4,
+      "sample": [
+        {
+          "id": "armory_rpgs:strider_armor_head",
+          "required": false
+        },
+        {
+          "id": "armory_rpgs:strider_armor_chest",
+          "required": false
+        },
+        {
+          "id": "armory_rpgs:strider_armor_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/aether": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "wizards:aether_wizard_staff",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/golden_weapon": {
+      "count": 4,
+      "sample": [
+        {
+          "id": "rogues:golden_dagger",
+          "required": false
+        },
+        {
+          "id": "rogues:golden_sickle",
+          "required": false
+        },
+        {
+          "id": "rogues:golden_double_axe",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_0_weapons": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "wizards:wand_novice",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_1_armors": {
+      "count": 4,
+      "sample": [
+        {
+          "id": "wizards:wizard_robe_head",
+          "required": false
+        },
+        {
+          "id": "wizards:wizard_robe_chest",
+          "required": false
+        },
+        {
+          "id": "wizards:wizard_robe_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_1_weapons": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "wizards:staff_wizard",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_2_armors": {
+      "count": 12,
+      "sample": [
+        {
+          "id": "wizards:arcane_robe_head",
+          "required": false
+        },
+        {
+          "id": "wizards:arcane_robe_chest",
+          "required": false
+        },
+        {
+          "id": "wizards:arcane_robe_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_2_weapons": {
+      "count": 6,
+      "sample": [
+        {
+          "id": "wizards:wand_arcane",
+          "required": false
+        },
+        {
+          "id": "wizards:wand_fire",
+          "required": false
+        },
+        {
+          "id": "wizards:wand_frost",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_3_armors": {
+      "count": 12,
+      "sample": [
+        {
+          "id": "wizards:netherite_arcane_robe_head",
+          "required": false
+        },
+        {
+          "id": "wizards:netherite_arcane_robe_chest",
+          "required": false
+        },
+        {
+          "id": "wizards:netherite_arcane_robe_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_3_weapons": {
+      "count": 6,
+      "sample": [
+        {
+          "id": "wizards:wand_netherite_arcane",
+          "required": false
+        },
+        {
+          "id": "wizards:wand_netherite_fire",
+          "required": false
+        },
+        {
+          "id": "wizards:wand_netherite_frost",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_4_weapons": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "wizards:staff_ruby_fire",
+          "required": false
+        },
+        {
+          "id": "wizards:staff_crystal_arcane",
+          "required": false
+        },
+        {
+          "id": "wizards:staff_smaragdant_frost",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/heavy_crossbow": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "arsenal:unique_heavy_crossbow_1",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_heavy_crossbow_2",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_heavy_crossbow_sw",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/long_bow": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "arsenal:unique_longbow_1",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_longbow_2",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_longbow_sw",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/rapid_crossbow": {
+      "count": 8,
+      "sample": [
+        {
+          "id": "bards_rpg:harp_crossbow",
+          "required": false
+        },
+        {
+          "id": "bards_rpg:diamond_harp_crossbow",
+          "required": false
+        },
+        {
+          "id": "bards_rpg:netherite_harp_crossbow",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/short_bow": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "archers:mechanic_shortbow",
+          "required": false
+        },
+        {
+          "id": "archers:netherite_shortbow",
+          "required": false
+        },
+        {
+          "id": "archers:crystal_shortbow",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/spear": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "arsenal:unique_spear_1",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_spear_2",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_spear_sw",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:armor_type/magic": {
+      "count": 28,
+      "sample": [
+        {
+          "id": "wizards:wizard_robe_head",
+          "required": false
+        },
+        {
+          "id": "wizards:wizard_robe_chest",
+          "required": false
+        },
+        {
+          "id": "wizards:wizard_robe_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:armor_type/melee": {
+      "count": 40,
+      "sample": [
+        {
+          "id": "witcher_rpg:feline_head",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:feline_chest",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:feline_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_5_armors": {
+      "count": 2,
+      "sample": [
+        {
+          "id": "witcher_rpg:grandmaster_diagram",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:dimeritium_ingot",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/crystal": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "forcemaster_rpg:unique_knuckle_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/divine": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "forcemaster_rpg:unique_knuckle_0",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/elven": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "bards_rpg:unique_lyre_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/evil": {
+      "count": 8,
+      "sample": [
+        {
+          "id": "arsenal:unique_staff_damage_4",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_dagger_2",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_double_axe_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/fiery": {
+      "count": 6,
+      "sample": [
+        {
+          "id": "arsenal:unique_claymore_1",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_staff_damage_3",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_sickle_2",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/frosty": {
+      "count": 2,
+      "sample": [
+        {
+          "id": "arsenal:unique_staff_damage_6",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_dagger_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/generic": {
+      "count": 6,
+      "sample": [
+        {
+          "id": "arsenal:unique_staff_damage_1",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_staff_damage_5",
+          "required": false
+        },
+        {
+          "id": "arsenal:unique_spear_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_5_weapons": {
+      "count": 2,
+      "sample": [
+        {
+          "id": "forcemaster_rpg:unique_knuckle_0",
+          "required": false
+        },
+        {
+          "id": "forcemaster_rpg:unique_knuckle_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/claymore": {
+      "count": 8,
+      "sample": [
+        {
+          "id": "paladins:stone_claymore",
+          "required": false
+        },
+        {
+          "id": "paladins:iron_claymore",
+          "required": false
+        },
+        {
+          "id": "paladins:golden_claymore",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/dagger": {
+      "count": 8,
+      "sample": [
+        {
+          "id": "rogues:flint_dagger",
+          "required": false
+        },
+        {
+          "id": "rogues:iron_dagger",
+          "required": false
+        },
+        {
+          "id": "rogues:golden_dagger",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/damage_staff": {
+      "count": 11,
+      "sample": [
+        {
+          "id": "wizards:staff_wizard",
+          "required": false
+        },
+        {
+          "id": "wizards:staff_arcane",
+          "required": false
+        },
+        {
+          "id": "wizards:staff_fire",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/double_axe": {
+      "count": 8,
+      "sample": [
+        {
+          "id": "rogues:stone_double_axe",
+          "required": false
+        },
+        {
+          "id": "rogues:iron_double_axe",
+          "required": false
+        },
+        {
+          "id": "rogues:golden_double_axe",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/glaive": {
+      "count": 7,
+      "sample": [
+        {
+          "id": "rogues:iron_glaive",
+          "required": false
+        },
+        {
+          "id": "rogues:golden_glaive",
+          "required": false
+        },
+        {
+          "id": "rogues:diamond_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/hammer": {
+      "count": 9,
+      "sample": [
+        {
+          "id": "paladins:wooden_great_hammer",
+          "required": false
+        },
+        {
+          "id": "paladins:stone_great_hammer",
+          "required": false
+        },
+        {
+          "id": "paladins:iron_great_hammer",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/healing_staff": {
+      "count": 5,
+      "sample": [
+        {
+          "id": "paladins:holy_staff",
+          "required": false
+        },
+        {
+          "id": "paladins:diamond_holy_staff",
+          "required": false
+        },
+        {
+          "id": "paladins:netherite_holy_staff",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/mace": {
+      "count": 7,
+      "sample": [
+        {
+          "id": "paladins:iron_mace",
+          "required": false
+        },
+        {
+          "id": "paladins:golden_mace",
+          "required": false
+        },
+        {
+          "id": "paladins:diamond_mace",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/shield": {
+      "count": 7,
+      "sample": [
+        {
+          "id": "paladins:iron_kite_shield",
+          "required": false
+        },
+        {
+          "id": "paladins:golden_kite_shield",
+          "required": false
+        },
+        {
+          "id": "paladins:diamond_kite_shield",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/sickle": {
+      "count": 7,
+      "sample": [
+        {
+          "id": "rogues:iron_sickle",
+          "required": false
+        },
+        {
+          "id": "rogues:golden_sickle",
+          "required": false
+        },
+        {
+          "id": "rogues:diamond_sickle",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/sword": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "berserker_rpg:unique_sword_1",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_theme/golden": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "witcher_rpg:golden_witcher_sword",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:archetype/melee_damage_weapon": {
+      "count": 8,
+      "sample": [
+        "#rpg_series:weapon_type/claymore",
+        "#rpg_series:weapon_type/mace",
+        "#rpg_series:weapon_type/hammer"
+      ]
+    },
+    "#rpg_series:weapon_type/damage_wand": {
+      "count": 7,
+      "sample": [
+        {
+          "id": "wizards:wand_novice",
+          "required": false
+        },
+        {
+          "id": "wizards:wand_arcane",
+          "required": false
+        },
+        {
+          "id": "wizards:wand_fire",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:archetype/magic_damage_weapon": {
+      "count": 4,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/spell_blade"
+      ]
+    },
+    "#rpg_series:loot_tier/tier_0_accessories": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "jewelry:iron_ring",
+          "required": false
+        },
+        {
+          "id": "jewelry:gold_ring",
+          "required": false
+        },
+        {
+          "id": "jewelry:copper_ring",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_1_accessories": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "jewelry:diamond_ring",
+          "required": false
+        },
+        {
+          "id": "jewelry:emerald_necklace",
+          "required": false
+        },
+        {
+          "id": "jewelry:diamond_necklace",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_2_accessories": {
+      "count": 12,
+      "sample": [
+        {
+          "id": "jewelry:ruby_necklace",
+          "required": false
+        },
+        {
+          "id": "jewelry:citrine_necklace",
+          "required": false
+        },
+        {
+          "id": "jewelry:jade_necklace",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_3_accessories": {
+      "count": 12,
+      "sample": [
+        {
+          "id": "jewelry:netherite_jade_ring",
+          "required": false
+        },
+        {
+          "id": "jewelry:netherite_sapphire_necklace",
+          "required": false
+        },
+        {
+          "id": "jewelry:netherite_tanzanite_ring",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:loot_tier/tier_4_accessories": {
+      "count": 20,
+      "sample": [
+        {
+          "id": "jewelry:unique_arcane_ring",
+          "required": false
+        },
+        {
+          "id": "jewelry:unique_healing_ring",
+          "required": false
+        },
+        {
+          "id": "jewelry:unique_crit_necklace",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/healing_wand": {
+      "count": 4,
+      "sample": [
+        {
+          "id": "paladins:acolyte_wand",
+          "required": false
+        },
+        {
+          "id": "paladins:holy_wand",
+          "required": false
+        },
+        {
+          "id": "paladins:diamond_holy_wand",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:archetype/defense_weapon": {
+      "count": 1,
+      "sample": [
+        "#rpg_series:weapon_type/shield"
+      ]
+    },
+    "#rpg_series:archetype/healing_weapon": {
+      "count": 2,
+      "sample": [
+        "#rpg_series:weapon_type/healing_staff",
+        "#rpg_series:weapon_type/healing_wand"
+      ]
+    },
+    "#rpg_series:archetype/ranged_damage_weapon": {
+      "count": 4,
+      "sample": [
+        "#rpg_series:weapon_type/short_bow",
+        "#rpg_series:weapon_type/long_bow",
+        "#rpg_series:weapon_type/rapid_crossbow"
+      ]
+    },
+    "#rpg_series:loot_tier/tier_10_armors": {
+      "count": 80,
+      "sample": [
+        {
+          "id": "witcher_rpg:griffin_head",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:griffin_chest",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:griffin_legs",
+          "required": false
+        }
+      ]
+    },
+    "#rpg_series:weapon_type/spell_blade": {
+      "count": 19,
+      "sample": [
+        {
+          "id": "witcher_rpg:iron_witcher_sword",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:golden_witcher_sword",
+          "required": false
+        },
+        {
+          "id": "witcher_rpg:diamond_witcher_sword",
+          "required": false
+        }
+      ]
+    }
+  },
+  "artifacts": {
+    "#artifacts:slot/all": {
+      "count": 1,
+      "sample": [
+        "artifacts:whoopee_cushion"
+      ]
+    },
+    "#artifacts:slot/belt": {
+      "count": 1,
+      "sample": [
+        "artifacts:helium_flamingo"
+      ]
+    },
+    "#artifacts:slot/face": {
+      "count": 2,
+      "sample": [
+        "artifacts:snorkel",
+        "artifacts:night_vision_goggles"
+      ]
+    },
+    "#artifacts:slot/feet": {
+      "count": 9,
+      "sample": [
+        "artifacts:aqua_dashers",
+        "artifacts:bunny_hoppers",
+        "artifacts:kitty_slippers"
+      ]
+    },
+    "#artifacts:slot/hands": {
+      "count": 8,
+      "sample": [
+        "artifacts:digging_claws",
+        "artifacts:feral_claws",
+        "artifacts:fire_gauntlet"
+      ]
+    },
+    "#artifacts:slot/head": {
+      "count": 1,
+      "sample": [
+        "artifacts:whoopee_cushion"
+      ]
+    },
+    "#artifacts:slot/necklace": {
+      "count": 9,
+      "sample": [
+        "artifacts:lucky_scarf",
+        "artifacts:scarf_of_invisibility",
+        "artifacts:cross_necklace"
+      ]
+    },
+    "#artifacts:slot/charm": {
+      "count": 7,
+      "sample": [
+        "artifacts:obsidian_skull",
+        "artifacts:cloud_in_a_bottle",
+        "artifacts:warp_drive"
+      ]
+    }
+  },
+  "data": {
+    "#data:item/head/face": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/face"
+      ]
+    },
+    "#data:item/head/hat": {
+      "count": 1,
+      "sample": [
+        "#artifacts:slot/head"
+      ]
+    },
+    "#data:item/curio": {
+      "count": 7,
+      "sample": [
+        "#artifacts:slot/all",
+        "#artifacts:slot/head",
+        "#artifacts:slot/face"
+      ]
+    },
+    "#data:item/all": {
+      "count": 7,
+      "sample": [
+        "#artifacts:slot/all",
+        "#artifacts:slot/head",
+        "#artifacts:slot/face"
+      ]
+    }
+  },
+  "spell_engine": {
+    "#spell_engine:enchantable/spell_infinity": {
+      "count": 11,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/healing_staff"
+      ]
+    }
+  },
+  "spell_power": {
+    "#spell_power:enchantable/critical_chance": {
+      "count": 6,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/healing_staff"
+      ]
+    },
+    "#spell_power:enchantable/critical_damage": {
+      "count": 6,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/healing_staff"
+      ]
+    },
+    "#spell_power:enchantable/haste": {
+      "count": 6,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/healing_staff"
+      ]
+    },
+    "#spell_power:enchantable/spell_power_generic": {
+      "count": 11,
+      "sample": [
+        "#rpg_series:weapon_type/damage_staff",
+        "#rpg_series:weapon_type/damage_wand",
+        "#rpg_series:weapon_type/healing_staff"
+      ]
+    },
+    "#spell_power:enchantable/spell_power_energize": {
+      "count": 1,
+      "sample": [
+        "#spell_power:enchantable/spell_power_specialized"
+      ]
+    },
+    "#spell_power:enchantable/spell_power_soulfrost": {
+      "count": 1,
+      "sample": [
+        "#spell_power:enchantable/spell_power_specialized"
+      ]
+    },
+    "#spell_power:enchantable/spell_power_specialized": {
+      "count": 1,
+      "sample": [
+        "#minecraft:enchantable/armor"
+      ]
+    },
+    "#spell_power:enchantable/spell_power_sunfire": {
+      "count": 1,
+      "sample": [
+        "#spell_power:enchantable/spell_power_specialized"
+      ]
+    }
+  },
+  "create": {
+    "#create:stone_types/ochrum": {
+      "count": 15,
+      "sample": [
+        "create:cut_ochrum",
+        "create:cut_ochrum_stairs",
+        "create:cut_ochrum_wall"
+      ]
+    },
+    "#create:stone_types/veridium": {
+      "count": 15,
+      "sample": [
+        "create:cut_veridium",
+        "create:cut_veridium_stairs",
+        "create:cut_veridium_wall"
+      ]
+    },
+    "#create:stone_types/dripstone": {
+      "count": 15,
+      "sample": [
+        "create:cut_dripstone",
+        "create:cut_dripstone_stairs",
+        "create:cut_dripstone_wall"
+      ]
+    },
+    "#create:stone_types/diorite": {
+      "count": 15,
+      "sample": [
+        "create:cut_diorite",
+        "create:cut_diorite_stairs",
+        "create:cut_diorite_wall"
+      ]
+    },
+    "#create:stone_types/calcite": {
+      "count": 15,
+      "sample": [
+        "create:cut_calcite",
+        "create:cut_calcite_stairs",
+        "create:cut_calcite_wall"
+      ]
+    },
+    "#create:stone_types/deepslate": {
+      "count": 15,
+      "sample": [
+        "create:cut_deepslate",
+        "create:cut_deepslate_stairs",
+        "create:cut_deepslate_wall"
+      ]
+    },
+    "#create:stone_types/crimsite": {
+      "count": 15,
+      "sample": [
+        "create:cut_crimsite",
+        "create:cut_crimsite_stairs",
+        "create:cut_crimsite_wall"
+      ]
+    },
+    "#create:stone_types/scoria": {
+      "count": 15,
+      "sample": [
+        "create:cut_scoria",
+        "create:cut_scoria_stairs",
+        "create:cut_scoria_wall"
+      ]
+    },
+    "#create:stone_types/andesite": {
+      "count": 15,
+      "sample": [
+        "create:cut_andesite",
+        "create:cut_andesite_stairs",
+        "create:cut_andesite_wall"
+      ]
+    },
+    "#create:stone_types/asurine": {
+      "count": 15,
+      "sample": [
+        "create:cut_asurine",
+        "create:cut_asurine_stairs",
+        "create:cut_asurine_wall"
+      ]
+    },
+    "#create:stone_types/granite": {
+      "count": 15,
+      "sample": [
+        "create:cut_granite",
+        "create:cut_granite_stairs",
+        "create:cut_granite_wall"
+      ]
+    },
+    "#create:stone_types/limestone": {
+      "count": 15,
+      "sample": [
+        "create:cut_limestone",
+        "create:cut_limestone_stairs",
+        "create:cut_limestone_wall"
+      ]
+    },
+    "#create:stone_types/scorchia": {
+      "count": 15,
+      "sample": [
+        "create:cut_scorchia",
+        "create:cut_scorchia_stairs",
+        "create:cut_scorchia_wall"
+      ]
+    },
+    "#create:stone_types/galosphere/lumiere": {
+      "count": 10,
+      "sample": [
+        {
+          "id": "galosphere:lumiere_block",
+          "required": false
+        },
+        {
+          "id": "galosphere:lumiere_stairs",
+          "required": false
+        },
+        {
+          "id": "galosphere:lumiere_slab",
+          "required": false
+        }
+      ]
+    },
+    "#create:stone_types/galosphere/allurite": {
+      "count": 10,
+      "sample": [
+        {
+          "id": "galosphere:allurite_block",
+          "required": false
+        },
+        {
+          "id": "galosphere:allurite_stairs",
+          "required": false
+        },
+        {
+          "id": "galosphere:allurite_slab",
+          "required": false
+        }
+      ]
+    },
+    "#create:stone_types/galosphere/amethyst": {
+      "count": 10,
+      "sample": [
+        {
+          "id": "galosphere:amethyst_block",
+          "required": false
+        },
+        {
+          "id": "galosphere:amethyst_stairs",
+          "required": false
+        },
+        {
+          "id": "galosphere:amethyst_slab",
+          "required": false
+        }
+      ]
+    },
+    "#create:stone_types/tuff": {
+      "count": 15,
+      "sample": [
+        "create:cut_tuff",
+        "create:cut_tuff_stairs",
+        "create:cut_tuff_wall"
+      ]
+    },
+    "#create:upgrade_aquatic/coral": {
+      "count": 10,
+      "sample": [
+        {
+          "id": "upgrade_aquatic:acan_coral",
+          "required": false
+        },
+        {
+          "id": "upgrade_aquatic:finger_coral",
+          "required": false
+        },
+        {
+          "id": "upgrade_aquatic:star_coral",
+          "required": false
+        }
+      ]
+    }
+  },
+  "minecells": {
+    "#minecells:bows/accepting_flame": {
+      "count": 6,
+      "sample": [
+        "minecells:multiple_nocks_bow",
+        "minecells:bow_and_endless_quiver",
+        "minecells:marksmans_bow"
+      ]
+    },
+    "#minecells:bows/accepting_infinity": {
+      "count": 4,
+      "sample": [
+        "minecells:multiple_nocks_bow",
+        "minecells:marksmans_bow",
+        "minecells:infantry_bow"
+      ]
+    },
+    "#minecells:bows/accepting_power": {
+      "count": 7,
+      "sample": [
+        "minecells:multiple_nocks_bow",
+        "minecells:bow_and_endless_quiver",
+        "minecells:marksmans_bow"
+      ]
+    },
+    "#minecells:bows/accepting_punch": {
+      "count": 7,
+      "sample": [
+        "minecells:multiple_nocks_bow",
+        "minecells:bow_and_endless_quiver",
+        "minecells:marksmans_bow"
+      ]
+    },
+    "#minecells:bows/accepting_quick_charge": {
+      "count": 7,
+      "sample": [
+        "minecells:multiple_nocks_bow",
+        "minecells:bow_and_endless_quiver",
+        "minecells:marksmans_bow"
+      ]
+    }
+  },
+  "oritech": {
+    "#oritech:recyclable/biomass": {
+      "count": 9,
+      "sample": [
+        "minecraft:saddle",
+        "minecraft:leather",
+        "minecraft:leather_boots"
+      ]
+    },
+    "#oritech:recyclable/copper_dust": {
+      "count": 64,
+      "sample": [
+        "minecraft:chiseled_copper",
+        "minecraft:exposed_chiseled_copper",
+        "minecraft:weathered_chiseled_copper"
+      ]
+    },
+    "#oritech:recyclable/diamond": {
+      "count": 10,
+      "sample": [
+        "minecraft:diamond_axe",
+        "minecraft:diamond_boots",
+        "minecraft:diamond_chestplate"
+      ]
+    },
+    "#oritech:recyclable/gold_dust": {
+      "count": 12,
+      "sample": [
+        "minecraft:bell",
+        "minecraft:clock",
+        "minecraft:golden_axe"
+      ]
+    },
+    "#oritech:recyclable/gravel": {
+      "count": 29,
+      "sample": [
+        "minecraft:stone_axe",
+        "minecraft:stone_button",
+        "minecraft:stone_hoe"
+      ]
+    },
+    "#oritech:recyclable/iron_dust": {
+      "count": 18,
+      "sample": [
+        "minecraft:bucket",
+        "minecraft:cauldron",
+        "minecraft:compass"
+      ]
+    },
+    "#oritech:recyclable/netherite_scrap": {
+      "count": 8,
+      "sample": [
+        "minecraft:netherite_axe",
+        "minecraft:netherite_boots",
+        "minecraft:netherite_chestplate"
+      ]
+    },
+    "#oritech:recyclable/quartz_dust_2": {
+      "count": 2,
+      "sample": [
+        "minecraft:quartz_slab",
+        "minecraft:smooth_quartz_slab"
+      ]
+    },
+    "#oritech:recyclable/quartz_dust_4": {
+      "count": 7,
+      "sample": [
+        "minecraft:quartz_block",
+        "minecraft:chiseled_quartz_block",
+        "minecraft:smooth_quartz"
+      ]
+    },
+    "#oritech:recyclable/redstone_dust": {
+      "count": 4,
+      "sample": [
+        "minecraft:repeater",
+        "minecraft:comparator",
+        "minecraft:redstone_torch"
+      ]
+    },
+    "#oritech:recyclable/red_sand": {
+      "count": 3,
+      "sample": [
+        "minecraft:red_sandstone_stairs",
+        "minecraft:red_sandstone_wall",
+        "minecraft:smooth_red_sandstone_stairs"
+      ]
+    },
+    "#oritech:recyclable/sand": {
+      "count": 4,
+      "sample": [
+        "minecraft:sandstone_stairs",
+        "minecraft:sandstone_wall",
+        "minecraft:gravel"
+      ]
+    },
+    "#oritech:recyclable/small_copper_dust": {
+      "count": 1,
+      "sample": [
+        "minecraft:lightning_rod"
+      ]
+    },
+    "#oritech:recyclable/small_gold_dust": {
+      "count": 2,
+      "sample": [
+        "minecraft:light_weighted_pressure_plate",
+        "minecraft:powered_rail"
+      ]
+    },
+    "#oritech:recyclable/small_iron_dust": {
+      "count": 8,
+      "sample": [
+        "minecraft:activator_rail",
+        "minecraft:chain",
+        "minecraft:detector_rail"
+      ]
+    },
+    "#oritech:recyclable/string": {
+      "count": 3,
+      "sample": [
+        {
+          "id": "#minecraft:wool_carpets",
+          "required": false
+        },
+        {
+          "id": "#minecraft:banners",
+          "required": false
+        },
+        "minecraft:painting"
+      ]
+    }
+  },
+  "runes": {
+    "#runes:rune_crafting/base/stone": {
+      "count": 1,
+      "sample": [
+        "#minecraft:stone_tool_materials"
+      ]
+    },
+    "#runes:rune_crafting/reagent/arcane_medium": {
+      "count": 3,
+      "sample": [
+        "minecraft:ender_pearl",
+        "minecraft:amethyst_block",
+        "minecraft:amethyst_cluster"
+      ]
+    },
+    "#runes:rune_crafting/reagent/arcane_small": {
+      "count": 1,
+      "sample": [
+        "minecraft:amethyst_shard"
+      ]
+    },
+    "#runes:rune_crafting/reagent/fire_medium": {
+      "count": 1,
+      "sample": [
+        "minecraft:blaze_powder"
+      ]
+    },
+    "#runes:rune_crafting/reagent/fire_small": {
+      "count": 3,
+      "sample": [
+        "minecraft:gunpowder",
+        "minecraft:coal",
+        "minecraft:charcoal"
+      ]
+    },
+    "#runes:rune_crafting/reagent/frost_medium": {
+      "count": 3,
+      "sample": [
+        "minecraft:ice",
+        "minecraft:packed_ice",
+        "minecraft:blue_ice"
+      ]
+    },
+    "#runes:rune_crafting/reagent/frost_small": {
+      "count": 1,
+      "sample": [
+        "minecraft:snowball"
+      ]
+    },
+    "#runes:rune_crafting/reagent/healing_medium": {
+      "count": 2,
+      "sample": [
+        "minecraft:honeycomb",
+        "minecraft:gold_ingot"
+      ]
+    },
+    "#runes:rune_crafting/reagent/healing_small": {
+      "count": 1,
+      "sample": [
+        "minecraft:gold_nugget"
+      ]
+    }
+  },
+  "mythicmetals": {
+    "#mythicmetals:abilities/auto_repair": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "#simplyswords:prometheum",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:abilities/bonus_looting": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "#simplyswords:tools/carmot",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/adamantite": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/aquarium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/banglum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/banglum/banglum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/banglum/banglum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/banglum/banglum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/bronze": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/bronze/bronze_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/bronze/bronze_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/bronze/bronze_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/carmot": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/carmot/carmot_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/carmot/carmot_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/carmot/carmot_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/celestium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/celestium/celestium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/celestium/celestium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/celestium/celestium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/copper": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/copper/copper_longsword",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/durasteel": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/kyber": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/kyber/kyber_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/kyber/kyber_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/kyber/kyber_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/metallurgium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/mythril": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/mythril/mythril_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/mythril/mythril_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/mythril/mythril_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/orichalcum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/osmium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/osmium/osmium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/osmium/osmium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/osmium/osmium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/palladium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/palladium/palladium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/palladium/palladium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/palladium/palladium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/prometheum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/quadrillum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/runite": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/runite/runite_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/runite/runite_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/runite/runite_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/star_platinum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/steel": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/steel/steel_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/steel/steel_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/steel/steel_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:equipment/stormyx": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:tools/prometheum_tools": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#mythicmetals:tools/tools": {
+      "count": 20,
+      "sample": [
+        {
+          "id": "#simplyswords:adamantite",
+          "required": false
+        },
+        {
+          "id": "#simplyswords:aquarium",
+          "required": false
+        },
+        {
+          "id": "#simplyswords:banglum",
+          "required": false
+        }
+      ]
+    }
+  },
+  "simplymore": {
+    "#simplymore:compat/carmot_tools": {
+      "count": 10,
+      "sample": [
+        {
+          "id": "simplymore:carmot_great_katana",
+          "required": false
+        },
+        {
+          "id": "simplymore:carmot_grandsword",
+          "required": false
+        },
+        {
+          "id": "simplymore:carmot_backhand_blade",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:compat/prometheum_tools": {
+      "count": 10,
+      "sample": [
+        {
+          "id": "simplymore:prometheum_great_katana",
+          "required": false
+        },
+        {
+          "id": "simplymore:prometheum_grandsword",
+          "required": false
+        },
+        {
+          "id": "simplymore:prometheum_backhand_blade",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:tooltip/diamond": {
+      "count": 10,
+      "sample": [
+        "simplymore:diamond_great_katana",
+        "simplymore:diamond_grandsword",
+        "simplymore:diamond_backhand_blade"
+      ]
+    },
+    "#simplymore:tooltip/gold": {
+      "count": 10,
+      "sample": [
+        "simplymore:gold_great_katana",
+        "simplymore:gold_grandsword",
+        "simplymore:gold_backhand_blade"
+      ]
+    },
+    "#simplymore:tooltip/iron": {
+      "count": 10,
+      "sample": [
+        "simplymore:iron_great_katana",
+        "simplymore:iron_grandsword",
+        "simplymore:iron_backhand_blade"
+      ]
+    },
+    "#simplymore:tooltip/netherite": {
+      "count": 10,
+      "sample": [
+        "simplymore:netherite_great_katana",
+        "simplymore:netherite_grandsword",
+        "simplymore:netherite_backhand_blade"
+      ]
+    },
+    "#simplymore:tooltip/runic": {
+      "count": 10,
+      "sample": [
+        "simplymore:runic_great_katana",
+        "simplymore:runic_grandsword",
+        "simplymore:runic_backhand_blade"
+      ]
+    },
+    "#simplymore:weapon_types/all": {
+      "count": 25,
+      "sample": [
+        "#simplymore:weapon_types/backhand_blades",
+        "#simplymore:weapon_types/chakrams",
+        "#simplymore:weapon_types/claymores"
+      ]
+    },
+    "#simplymore:weapon_types/backhand_blades": {
+      "count": 36,
+      "sample": [
+        {
+          "id": "simplyswords:emberlash",
+          "required": false
+        },
+        {
+          "id": "simplymore:boas_fang",
+          "required": false
+        },
+        {
+          "id": "simplymore:smouldering_ruin",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/chakrams": {
+      "count": 37,
+      "sample": [
+        {
+          "id": "simplyswords:mjolnir",
+          "required": false
+        },
+        {
+          "id": "simplyswords:tempest",
+          "required": false
+        },
+        {
+          "id": "simplymore:vipers_call",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/claymores": {
+      "count": 43,
+      "sample": [
+        {
+          "id": "simplymore:blade_of_the_grotesque",
+          "required": false
+        },
+        {
+          "id": "simplyswords:watcher_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:brimstone_claymore",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/cutlasses": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:black_pearl",
+          "required": false
+        },
+        {
+          "id": "simplyswords:wraithfang",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_cutlass",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/daggers": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:the_vessel_breach",
+          "required": false
+        },
+        {
+          "id": "simplymore:culterex",
+          "required": false
+        },
+        {
+          "id": "simplymore:wooden_dagger",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/deer_horns": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:tidebreaker",
+          "required": false
+        },
+        {
+          "id": "simplymore:brassturn",
+          "required": false
+        },
+        {
+          "id": "simplymore:wooden_deer_horns",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/glaives": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:soul_foreseer",
+          "required": false
+        },
+        {
+          "id": "simplyswords:flamewind",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/grandswords": {
+      "count": 37,
+      "sample": [
+        {
+          "id": "simplymore:grandfrost",
+          "required": false
+        },
+        {
+          "id": "simplyswords:enigma",
+          "required": false
+        },
+        {
+          "id": "simplyswords:ribboncleaver",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/great_katanas": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:great_slither",
+          "required": false
+        },
+        {
+          "id": "simplymore:lustrous_moxie",
+          "required": false
+        },
+        {
+          "id": "simplymore:wooden_great_katana",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/great_spears": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:perforiscus",
+          "required": false
+        },
+        {
+          "id": "simplymore:serpentine_valour",
+          "required": false
+        },
+        {
+          "id": "simplymore:wooden_great_spear",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/greataxes": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:earthshatter",
+          "required": false
+        },
+        {
+          "id": "simplyswords:soulpyre",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_greataxe",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/greathammers": {
+      "count": 36,
+      "sample": [
+        {
+          "id": "simplyswords:hearthflame",
+          "required": false
+        },
+        {
+          "id": "simplyswords:soulkeeper",
+          "required": false
+        },
+        {
+          "id": "simplyswords:hiveheart",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/halberds": {
+      "count": 36,
+      "sample": [
+        {
+          "id": "simplyswords:icewhisper",
+          "required": false
+        },
+        {
+          "id": "simplyswords:arcanethyst",
+          "required": false
+        },
+        {
+          "id": "simplyswords:thunderbrand",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/katanas": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:revvengine",
+          "required": false
+        },
+        {
+          "id": "simplyswords:whisperwind",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_katana",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/khopeshs": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:timekeeper",
+          "required": false
+        },
+        {
+          "id": "simplymore:myrmedge",
+          "required": false
+        },
+        {
+          "id": "simplymore:wooden_khopesh",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/lances": {
+      "count": 36,
+      "sample": [
+        {
+          "id": "simplymore:glimmerstep",
+          "required": false
+        },
+        {
+          "id": "simplymore:jester_penetrate",
+          "required": false
+        },
+        {
+          "id": "simplymore:exedrill",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/longswords": {
+      "count": 43,
+      "sample": [
+        {
+          "id": "simplymore:matterbane",
+          "required": false
+        },
+        {
+          "id": "simplyswords:decaying_relic",
+          "required": false
+        },
+        {
+          "id": "simplyswords:stormbringer",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/pernachs": {
+      "count": 40,
+      "sample": [
+        {
+          "id": "simplymore:the_pan",
+          "required": false
+        },
+        {
+          "id": "simplymore:cindergorge",
+          "required": false
+        },
+        {
+          "id": "simplymore:ruptured_idol",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/quarterstaffs": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplymore:stasis",
+          "required": false
+        },
+        {
+          "id": "simplymore:ruyi_jingu_bang",
+          "required": false
+        },
+        {
+          "id": "simplymore:wooden_quarterstaff",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/rapiers": {
+      "count": 35,
+      "sample": [
+        {
+          "id": "simplyswords:bramblethorn",
+          "required": false
+        },
+        {
+          "id": "simplyswords:shadowsting",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_rapier",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/sais": {
+      "count": 34,
+      "sample": [
+        {
+          "id": "simplyswords:soulstealer",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_sai",
+          "required": false
+        },
+        {
+          "id": "sticknstone:stone_sai",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/scythes": {
+      "count": 36,
+      "sample": [
+        {
+          "id": "simplyswords:magiscythe",
+          "required": false
+        },
+        {
+          "id": "simplyswords:soulrender",
+          "required": false
+        },
+        {
+          "id": "simplymore:the_blood_harvester",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/spears": {
+      "count": 36,
+      "sample": [
+        {
+          "id": "simplyswords:wickpiercer",
+          "required": false
+        },
+        {
+          "id": "simplyswords:magispear",
+          "required": false
+        },
+        {
+          "id": "simplyswords:sword_on_a_stick",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/twinblades": {
+      "count": 37,
+      "sample": [
+        {
+          "id": "simplyswords:storms_edge",
+          "required": false
+        },
+        {
+          "id": "simplyswords:magiblade",
+          "required": false
+        },
+        {
+          "id": "simplyswords:stars_edge",
+          "required": false
+        }
+      ]
+    },
+    "#simplymore:weapon_types/warglaives": {
+      "count": 34,
+      "sample": [
+        {
+          "id": "simplyswords:watching_warglaive",
+          "required": false
+        },
+        {
+          "id": "sticknstone:wooden_warglaive",
+          "required": false
+        },
+        {
+          "id": "sticknstone:stone_warglaive",
+          "required": false
+        }
+      ]
+    }
+  },
+  "simplyswords": {
+    "#simplyswords:tools/adamantite": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/adamantite/adamantite_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/aquarium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/aquarium/aquarium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/banglum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/banglum/banglum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/banglum/banglum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/banglum/banglum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/bronze": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/bronze/bronze_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/bronze/bronze_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/bronze/bronze_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/carmot": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/carmot/carmot_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/carmot/carmot_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/carmot/carmot_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/celestium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/celestium/celestium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/celestium/celestium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/celestium/celestium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/copper": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/copper/copper_longsword",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/durasteel": {
+      "count": 1,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/durasteel/durasteel_greathammer",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/kyber": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/kyber/kyber_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/kyber/kyber_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/kyber/kyber_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/metallurgium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/metallurgium/metallurgium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/mythril": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/mythril/mythril_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/mythril/mythril_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/mythril/mythril_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/orichalcum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/orichalcum/orichalcum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/osmium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/osmium/osmium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/osmium/osmium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/osmium/osmium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/palladium": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/palladium/palladium_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/palladium/palladium_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/palladium/palladium_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/prometheum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/prometheum/prometheum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/quadrillum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/quadrillum/quadrillum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/runite": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/runite/runite_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/runite/runite_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/runite/runite_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/star_platinum": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/star_platinum/star_platinum_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/steel": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/steel/steel_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/steel/steel_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/steel/steel_glaive",
+          "required": false
+        }
+      ]
+    },
+    "#simplyswords:tools/stormyx": {
+      "count": 15,
+      "sample": [
+        {
+          "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_claymore",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_cutlass",
+          "required": false
+        },
+        {
+          "id": "simplyswords:mythicmetals_compat/stormyx/stormyx_glaive",
+          "required": false
+        }
+      ]
+    }
+  },
+  "witcher_rpg": {
+    "#witcher_rpg:enchantable/sign_intensity": {
+      "count": 1,
+      "sample": [
+        "#witcher_rpg:witcher_armor"
+      ]
+    }
+  }
+}
