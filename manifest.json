@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.11d",
+    "version": "v2026.05.11e",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -1564,6 +1564,20 @@
       "side": "both"
     },
     {
+      "id": "cubes-without-borders",
+      "source": "modrinth",
+      "projectId": "ETlrkaYF",
+      "versionId": "epixUL1j",
+      "repoPath": null,
+      "filename": "cwb-neoforge-3.0.0+mc1.21.jar",
+      "sha1": "6fe849c4a488107572c9af9d7d8329d93376f343",
+      "sha512": null,
+      "size": 81843,
+      "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "death-backup",
       "source": "modrinth",
       "projectId": "Ot5JFxuv",
@@ -2032,9 +2046,9 @@
       "versionId": null,
       "repoPath": "mods/gisketchs_chowkingdom_mod-1.0.0.jar",
       "filename": "gisketchs_chowkingdom_mod-1.0.0.jar",
-      "sha1": "cf501745738cfd1fb74942cf34bdea43eb080eaa",
+      "sha1": "7a0635992bc221c1c29de17081393ceb75c6b94f",
       "sha512": null,
-      "size": 15124185,
+      "size": 15430171,
       "url": "",
       "optional": false,
       "side": "client"

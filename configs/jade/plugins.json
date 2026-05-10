@@ -57,9 +57,6 @@
     "dungeon_portal": true,
     "base_pc": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -77,8 +74,8 @@
     "entity": true,
     "entity_variant": true
   },
-  "supplementaries": {
-    "hat_stand": true
+  "oritech": {
+    "machine_core_controller": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -94,11 +91,17 @@
   "quality_food": {
     "quality": true
   },
-  "corpse": {
-    "corpse": true
-  },
   "balm": {
     "jade": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "corpse": {
+    "corpse": true
   },
   "gisketchs_chowkingdom_mod": {
     "npc_friendship": true,
