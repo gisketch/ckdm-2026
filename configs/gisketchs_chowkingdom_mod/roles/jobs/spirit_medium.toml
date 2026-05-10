@@ -1,0 +1,132 @@
+{
+  "id": "spirit_medium",
+  "display_name": "Spirit Medium",
+  "icon": "textures/gui/jobs/spirit_medium.png",
+  "description": "Listens at old paths and quiet places for Ghost Pokemon.",
+  "perks": [
+    {
+      "type": "cobblemon_catch_rate",
+      "pokemon_type": "ghost",
+      "multiplier": 1.05,
+      "bonus_percent_by_level": [
+        0.05,
+        0.1,
+        0.18,
+        0.28,
+        0.4
+      ],
+      "weapon_tags": [],
+      "armor_tags": [],
+      "weapon_patterns": [],
+      "weapon_exclude_patterns": [],
+      "armor_patterns": [],
+      "armor_exclude_patterns": [],
+      "wrong_weapon_damage_multiplier": 1.0,
+      "wrong_weapon_cooldown_ticks": 0,
+      "wrong_weapon_attack_speed_multiplier": 1.0,
+      "wrong_armor_disables_sprint": false,
+      "starting_items": [],
+      "reward_pool": []
+    },
+    {
+      "type": "mount_speed",
+      "pokemon_type": "ghost",
+      "multiplier": 1.0,
+      "bonus_percent_by_level": [
+        0.03,
+        0.05,
+        0.09,
+        0.14,
+        0.2
+      ],
+      "weapon_tags": [],
+      "armor_tags": [],
+      "weapon_patterns": [],
+      "weapon_exclude_patterns": [],
+      "armor_patterns": [],
+      "armor_exclude_patterns": [],
+      "wrong_weapon_damage_multiplier": 1.0,
+      "wrong_weapon_cooldown_ticks": 0,
+      "wrong_weapon_attack_speed_multiplier": 1.0,
+      "wrong_armor_disables_sprint": false,
+      "starting_items": [],
+      "reward_pool": []
+    },
+    {
+      "type": "soul_speed_lite",
+      "multiplier": 1.0,
+      "bonus_percent_by_level": [
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5
+      ],
+      "weapon_tags": [],
+      "armor_tags": [],
+      "weapon_patterns": [],
+      "weapon_exclude_patterns": [],
+      "armor_patterns": [],
+      "armor_exclude_patterns": [],
+      "wrong_weapon_damage_multiplier": 1.0,
+      "wrong_weapon_cooldown_ticks": 0,
+      "wrong_weapon_attack_speed_multiplier": 1.0,
+      "wrong_armor_disables_sprint": false,
+      "starting_items": [],
+      "reward_pool": []
+    },
+    {
+      "type": "ethereal_step_lite",
+      "multiplier": 1.0,
+      "bonus_percent_by_level": [],
+      "weapon_tags": [],
+      "armor_tags": [],
+      "weapon_patterns": [],
+      "weapon_exclude_patterns": [],
+      "armor_patterns": [],
+      "armor_exclude_patterns": [],
+      "wrong_weapon_damage_multiplier": 1.0,
+      "wrong_weapon_cooldown_ticks": 0,
+      "wrong_weapon_attack_speed_multiplier": 1.0,
+      "wrong_armor_disables_sprint": false,
+      "starting_items": [],
+      "reward_pool": []
+    },
+    {
+      "type": "spirit_sight",
+      "multiplier": 1.0,
+      "bonus_percent_by_level": [],
+      "weapon_tags": [],
+      "armor_tags": [],
+      "weapon_patterns": [],
+      "weapon_exclude_patterns": [],
+      "armor_patterns": [],
+      "armor_exclude_patterns": [],
+      "wrong_weapon_damage_multiplier": 1.0,
+      "wrong_weapon_cooldown_ticks": 0,
+      "wrong_weapon_attack_speed_multiplier": 1.0,
+      "wrong_armor_disables_sprint": false,
+      "starting_items": [],
+      "reward_pool": []
+    },
+    {
+      "type": "grave_whisper",
+      "multiplier": 1.0,
+      "bonus_percent_by_level": [
+        0.05
+      ],
+      "weapon_tags": [],
+      "armor_tags": [],
+      "weapon_patterns": [],
+      "weapon_exclude_patterns": [],
+      "armor_patterns": [],
+      "armor_exclude_patterns": [],
+      "wrong_weapon_damage_multiplier": 1.0,
+      "wrong_weapon_cooldown_ticks": 0,
+      "wrong_weapon_attack_speed_multiplier": 1.0,
+      "wrong_armor_disables_sprint": false,
+      "starting_items": [],
+      "reward_pool": []
+    }
+  ]
+}

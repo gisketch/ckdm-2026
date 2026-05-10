@@ -20,6 +20,14 @@ epicFightGuardSkillCost = 90.0
 epicFightBlockCost = 150.0
 # Config value: epicFightParryCost.
 epicFightParryCost = 260.0
+# Config value: shieldNParryAttemptCost.
+shieldNParryAttemptCost = 180.0
+# Config value: shieldNParrySuccessGain.
+shieldNParrySuccessGain = 240.0
+# Config value: combatRollCost.
+combatRollCost = 320.0
+# Config value: wrongWeaponAttackMinCostPercent.
+wrongWeaponAttackMinCostPercent = 0.33
 # Config value: staminaDrainTicks.
 staminaDrainTicks = 8
 # Config value: paragliderRecoveryDelayTicksAfterSpend.

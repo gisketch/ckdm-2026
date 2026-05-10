@@ -1,0 +1,8 @@
+# Chow Kingdom config: recipe_disabler.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: disabled_recipes.
+disabled_recipes = ["minecraft:paper"]
+# Config value: cosmeticize.
+cosmeticize = []
+# Config value: loot_table_destroyer.
+loot_table_destroyer = []

@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.11c",
+    "version": "v2026.05.11d",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -2460,20 +2460,6 @@
       "side": "client"
     },
     {
-      "id": "more-rpg-classes-skill-tree",
-      "source": "modrinth",
-      "projectId": "3OYmNUDq",
-      "versionId": "8Znki8F6",
-      "repoPath": null,
-      "filename": "mrpgc_skill_tree-neoforge-1.1.2+1.21.1.jar",
-      "sha1": "dec48a939d8310e3917c685d600b8408a18e44c0",
-      "sha512": null,
-      "size": 1302004,
-      "url": "https://cdn.modrinth.com/data/3OYmNUDq/versions/8Znki8F6/mrpgc_skill_tree-neoforge-1.1.2%2B1.21.1.jar",
-      "optional": false,
-      "side": "both"
-    },
-    {
       "id": "not-enough-animations",
       "source": "modrinth",
       "projectId": "MPCX6s5C",
@@ -2654,20 +2640,6 @@
       "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/KxrIyizz/polytone-1.21-3.6.6-neoforge.jar",
       "optional": false,
       "side": "client"
-    },
-    {
-      "id": "skills",
-      "source": "modrinth",
-      "projectId": "hqQqvaa4",
-      "versionId": "LQmgtb7L",
-      "repoPath": null,
-      "filename": "puffish_skills-0.17.3-1.21-neoforge.jar",
-      "sha1": "4e6119010eaad3a571f70b7198422bb1b9d92589",
-      "sha512": null,
-      "size": 617167,
-      "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/LQmgtb7L/puffish_skills-0.17.3-1.21-neoforge.jar",
-      "optional": false,
-      "side": "both"
     },
     {
       "id": "punchy-fpa",
@@ -3016,20 +2988,6 @@
       "sha512": null,
       "size": 12617777,
       "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/eREhvVpQ/simplyswords-neoforge-1.63.0-1.21.1.jar",
-      "optional": false,
-      "side": "both"
-    },
-    {
-      "id": "skill-tree",
-      "source": "modrinth",
-      "projectId": "PjDhruSC",
-      "versionId": "wwvXxexd",
-      "repoPath": null,
-      "filename": "skill_tree-neoforge-1.4.4+1.21.1.jar",
-      "sha1": "8472747ccda2311f8bdbd2e0c603579edaf14931",
-      "sha512": null,
-      "size": 2517200,
-      "url": "https://cdn.modrinth.com/data/PjDhruSC/versions/wwvXxexd/skill_tree-neoforge-1.4.4%2B1.21.1.jar",
       "optional": false,
       "side": "both"
     },
