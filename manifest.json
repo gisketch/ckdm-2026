@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.16a",
+    "version": "v2026.05.16b",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -776,6 +776,20 @@
       "sha512": null,
       "size": 3306325,
       "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/bTFc0rVM/SubtleEffects-neoforge-1.21.1-1.14.2.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "terrablender",
+      "source": "modrinth",
+      "projectId": "kkmrDlKT",
+      "versionId": "6e8GCrLb",
+      "repoPath": null,
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
+      "sha512": null,
+      "size": 120365,
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "optional": false,
       "side": "both"
     },
