@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.16c",
+    "version": "v2026.05.16d",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -2596,6 +2596,20 @@
       "sha512": null,
       "size": 5494122,
       "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "mob-player-animator-neo",
+      "source": "modrinth",
+      "projectId": "PCU8g6be",
+      "versionId": "JrxzuIUx",
+      "repoPath": null,
+      "filename": "mobplayeranimator-neoforge-1.21.1-1.4.0.jar",
+      "sha1": "6d185e1549c8469b09f7f356a2df1cd5b98dd7b5",
+      "sha512": null,
+      "size": 87805,
+      "url": "https://cdn.modrinth.com/data/PCU8g6be/versions/JrxzuIUx/mobplayeranimator-neoforge-1.21.1-1.4.0.jar",
       "optional": false,
       "side": "client"
     },
