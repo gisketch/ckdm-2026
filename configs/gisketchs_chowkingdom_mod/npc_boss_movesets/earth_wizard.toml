@@ -1,0 +1,172 @@
+# Chow Kingdom config: earth_wizard.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "earth_wizard"
+# Config value: display_name.
+display_name = "Earth Wizard"
+# Config value: health.
+health = 88.0
+# Config value: damage.
+damage = 3.2
+# Config value: attack_start_distance.
+attack_start_distance = 10.0
+# Config value: offense_chain_min.
+offense_chain_min = 1
+# Config value: offense_chain_random.
+offense_chain_random = 0
+# Config value: offense_chain_recovery_ticks.
+offense_chain_recovery_ticks = 10
+# Config value: approach_animation_id.
+approach_animation_id = "more_rpg_classes:two_handed_ground_channeling"
+# Config value: approach_animation_source.
+approach_animation_source = "playerlike"
+# Config value: strafe_animation_id.
+strafe_animation_id = "more_rpg_classes:two_handed_ground_channeling"
+# Config value: strafe_animation_source.
+strafe_animation_source = "playerlike"
+# Config value: guard_animation_id.
+guard_animation_id = "more_rpg_classes:two_handed_ground_channeling"
+# Config value: guard_animation_source.
+guard_animation_source = "playerlike"
+# Config value: parry_animation_id.
+parry_animation_id = "forcemaster_rpg:stonehand_cast"
+# Config value: parry_animation_source.
+parry_animation_source = "playerlike"
+# Config value: hurt_animation_id.
+hurt_animation_id = "spell_engine:dodge"
+# Config value: hurt_animation_source.
+hurt_animation_source = "playerlike"
+# Config value: recovery_animation_id.
+recovery_animation_id = "more_rpg_classes:two_handed_ground_channeling"
+# Config value: recovery_animation_source.
+recovery_animation_source = "playerlike"
+# Config value: guard_react_ticks.
+guard_react_ticks = 6
+# Config value: guard_counter_ticks.
+guard_counter_ticks = 12
+# Config value: guard_roll_animation_id.
+guard_roll_animation_id = "combat_roll:roll"
+# Config value: guard_roll_animation_source.
+guard_roll_animation_source = "playerlike"
+# Config value: guard_roll_ticks.
+guard_roll_ticks = 14
+# Config value: guard_roll_iframe_ticks.
+guard_roll_iframe_ticks = 14
+# Config value: guard_roll_distance.
+guard_roll_distance = 3.0
+# Config value: guard_roll_weight.
+guard_roll_weight = 0
+# Config value: guard_dodge_animation_id.
+guard_dodge_animation_id = "spell_engine:dodge"
+# Config value: guard_dodge_animation_source.
+guard_dodge_animation_source = "playerlike"
+# Config value: guard_dodge_ticks.
+guard_dodge_ticks = 10
+# Config value: guard_dodge_iframe_ticks.
+guard_dodge_iframe_ticks = 8
+# Config value: guard_dodge_distance.
+guard_dodge_distance = 2.0
+# Config value: guard_dodge_direction.
+guard_dodge_direction = "side"
+# Config value: guard_dodge_weight.
+guard_dodge_weight = 1
+# Config value: guard_parry_weight.
+guard_parry_weight = 3
+# Config value: hover_height.
+hover_height = 0.0
+# Config value: guard_min_ticks.
+guard_min_ticks = 60
+# Config value: guard_random_ticks.
+guard_random_ticks = 60
+# Config value: guard_taunt_min_ticks.
+guard_taunt_min_ticks = 40
+# Config value: guard_taunt_random_ticks.
+guard_taunt_random_ticks = 40
+# Config value: recovery_hits_allowed.
+recovery_hits_allowed = 4
+# Config value: attack_phase_damage_multiplier.
+attack_phase_damage_multiplier = 0.65
+# Config value: attack_windup_damage_multiplier.
+attack_windup_damage_multiplier = 0.0
+# Config value: attack_active_damage_multiplier.
+attack_active_damage_multiplier = 0.25
+# Config value: attack_late_damage_multiplier.
+attack_late_damage_multiplier = 0.5
+# Config value: attack_windup_pressure_multiplier.
+attack_windup_pressure_multiplier = 1.5
+# Config value: attack_active_pressure_multiplier.
+attack_active_pressure_multiplier = 1.25
+# Config value: anti_spam_pressure_threshold.
+anti_spam_pressure_threshold = 3.25
+# Config value: anti_spam_reactive_guard_cooldown_ticks.
+anti_spam_reactive_guard_cooldown_ticks = 70
+# Config value: movement_style.
+movement_style = "hybrid"
+# Config value: combat_range_min.
+combat_range_min = 2.8
+# Config value: combat_range_max.
+combat_range_max = 9.0
+# Config value: footwork_aggression.
+footwork_aggression = 1.0
+# Config value: footwork_strafe_weight.
+footwork_strafe_weight = 4
+# Config value: footwork_retreat_weight.
+footwork_retreat_weight = 2
+# Config value: footwork_advance_weight.
+footwork_advance_weight = 5
+# Config value: damage_lockout_ticks.
+damage_lockout_ticks = 4
+# Config value: parry_spell_id.
+parry_spell_id = "forcemaster_rpg:stonehand"
+# Config value: parry_particle.
+parry_particle = "more_rpg_classes:stone_particle"
+# Config value: parry_sound_id.
+parry_sound_id = "forcemaster_rpg:stonehand_cast"
+# Config value: parry_damage.
+parry_damage = 0.8
+# Config value: parry_knockback.
+parry_knockback = 1.1
+# Config value: phases.
+phases = [
+  { id = "rooted_stance", display_name = "Rooted Stance", starts_at_health_ratio = 1.0, damage_multiplier = 1.0, speed_multiplier = 0.96, offense_chain_min = 1, offense_chain_random = 0, offense_chain_recovery_ticks = 10, transition_fallback = "", transition_llm_prompt = "", music_id = "cataclysm:enderguardian_music_1", music_volume = 0.5, music_pitch = 1.0, music_repeat_ticks = 3000 },
+  { id = "seismic_mastery", display_name = "Seismic Mastery", starts_at_health_ratio = 0.5, damage_multiplier = 1.18, speed_multiplier = 1.1, offense_chain_min = 2, offense_chain_random = 1, offense_chain_recovery_ticks = 8, transition_fallback = "Plant your feet. The whole ground is listening now.", transition_llm_prompt = "The duel has reached half health and you are entering a stronger earthbending second phase. Reply as Toph with one short blunt battle line about stance, stone, or feeling the player through the ground.", music_id = "cataclysm:maledictus_music", music_volume = 0.56, music_pitch = 1.0, music_repeat_ticks = 3000 },
+]
+# Config value: moves.
+moves = [
+  { id = "stone_throw", kind = "projectile", animation_id = "spell_engine:one_handed_throw_charge", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_throw_release_instant", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_stone_throw", duration_ticks = 21, hit_ticks = [12], cooldown_ticks = 24, recovery_ticks = 16, damage = 2.0, range = 10.5, arc_degrees = 80.0, area_radius = 0.0, knockback = 0.55, weight = 7, min_distance = 3.5, max_distance = 10.5, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 0.68, projectile_inaccuracy = 0.0, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "more_rpg_classes:stone_particle", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.7, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact1", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "side_stone_throw", kind = "projectile", animation_id = "spell_engine:one_handed_projectile_side_charge", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_projectile_side_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_stone_throw", duration_ticks = 23, hit_ticks = [13], cooldown_ticks = 28, recovery_ticks = 16, damage = 1.9, range = 10.5, arc_degrees = 80.0, area_radius = 0.0, knockback = 0.45, weight = 5, min_distance = 3.0, max_distance = 10.5, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 0.64, projectile_inaccuracy = 0.0, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "more_rpg_classes:stone_particle", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.65, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact1", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "stone_spear", kind = "projectile", animation_id = "forcemaster_rpg:straight_punch", animation_source = "playerlike", release_animation_id = "more_rpg_classes:two_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_stone_spear", duration_ticks = 27, hit_ticks = [15], cooldown_ticks = 42, recovery_ticks = 22, damage = 3.0, range = 11.0, arc_degrees = 80.0, area_radius = 0.0, knockback = 0.95, weight = 4, min_distance = 4.0, max_distance = 11.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 0.56, projectile_inaccuracy = 0.0, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "more_rpg_classes:stone_particle", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.9, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_explosion", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "minecraft:block.pointed_dripstone.land", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "impale", kind = "area", animation_id = "more_rpg_classes:one_hand_groundsmash", animation_source = "playerlike", release_animation_id = "more_rpg_classes:two_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_impale", duration_ticks = 29, hit_ticks = [16], cooldown_ticks = 54, recovery_ticks = 22, damage = 2.4, range = 3.4, arc_degrees = 360.0, area_radius = 3.4, knockback = 0.25, weight = 4, min_distance = 0.0, max_distance = 4.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.4, status_effect_id = "minecraft:slowness", status_effect_ticks = 50, status_effect_amplifier = 1, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact2", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "earthquake", kind = "area", animation_id = "more_rpg_classes:two_handed_ground_release", animation_source = "playerlike", release_animation_id = "spell_engine:dual_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_earthquake", duration_ticks = 34, hit_ticks = [18], cooldown_ticks = 70, recovery_ticks = 27, damage = 2.6, range = 5.8, arc_degrees = 360.0, area_radius = 5.8, knockback = 1.15, weight = 3, min_distance = 0.0, max_distance = 5.9, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact2", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "ground_ripple", kind = "area", animation_id = "spell_engine:dual_handed_ground_release", animation_source = "playerlike", release_animation_id = "more_rpg_classes:two_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_earthquake", duration_ticks = 26, hit_ticks = [13], cooldown_ticks = 50, recovery_ticks = 20, damage = 1.7, range = 4.8, arc_degrees = 360.0, area_radius = 4.8, knockback = 0.75, weight = 4, min_distance = 0.0, max_distance = 5.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_particle", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact1", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "drip_circle", kind = "area", animation_id = "more_rpg_classes:two_handed_jump_release", animation_source = "playerlike", release_animation_id = "more_rpg_classes:two_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:improved_terra_drip_circle", duration_ticks = 36, hit_ticks = [20], cooldown_ticks = 78, recovery_ticks = 26, damage = 1.8, range = 4.4, arc_degrees = 360.0, area_radius = 4.4, knockback = 0.55, weight = 4, min_distance = 0.0, max_distance = 4.9, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 3.8, hazard_ticks = 70, hazard_interval_ticks = 16, hazard_damage = 0.45, hazard_particle = "more_rpg_classes:stone_particle", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact2", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 1, max_phase_index = 99 },
+  { id = "stone_pillars", kind = "area", animation_id = "witcher_rpg:sign_cast_ground", animation_source = "playerlike", release_animation_id = "more_rpg_classes:two_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_drip_circle", duration_ticks = 32, hit_ticks = [18], cooldown_ticks = 66, recovery_ticks = 24, damage = 2.2, range = 4.2, arc_degrees = 360.0, area_radius = 4.2, knockback = 0.85, weight = 4, min_distance = 0.0, max_distance = 4.8, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact2", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 1, max_phase_index = 99 },
+  { id = "shattering_stone", kind = "projectile", animation_id = "spell_engine:one_handed_projectile_side_charge", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_projectile_side_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_shattering_stone", duration_ticks = 31, hit_ticks = [17], cooldown_ticks = 58, recovery_ticks = 22, damage = 1.25, range = 10.5, arc_degrees = 80.0, area_radius = 0.0, knockback = 0.45, weight = 4, min_distance = 4.0, max_distance = 10.5, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 0.62, projectile_inaccuracy = 0.0, projectile_count = 3, projectile_spread_degrees = 12.0, projectile_particle = "more_rpg_classes:stone_particle", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.65, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_explosion", support_particle = "", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "more_rpg_classes:earth_magic_cast1", impact_sound_id = "more_rpg_classes:earth_magic_impact1", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 1, max_phase_index = 99 },
+  { id = "burstcrack", kind = "area", animation_id = "forcemaster_rpg:burstcrack_cast", animation_source = "playerlike", release_animation_id = "forcemaster_rpg:burstcrack_release", release_animation_source = "playerlike", spell_id = "forcemaster_rpg:burstcrack", duration_ticks = 28, hit_ticks = [16], cooldown_ticks = 56, recovery_ticks = 22, damage = 2.2, range = 3.6, arc_degrees = 360.0, area_radius = 3.6, knockback = 1.0, weight = 3, min_distance = 0.0, max_distance = 4.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "forcemaster_rpg:ground_punch", support_particle = "", cast_sound_id = "forcemaster_rpg:burstcrack_cast", release_sound_id = "forcemaster_rpg:burstcrack_release", impact_sound_id = "more_rpg_classes:earth_magic_impact2", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "stone_jab", kind = "area", animation_id = "forcemaster_rpg:one_handed_knuckle_attack_2", animation_source = "playerlike", release_animation_id = "forcemaster_rpg:one_handed_knuckle_attack_4", release_animation_source = "playerlike", spell_id = "forcemaster_rpg:stonehand", duration_ticks = 20, hit_ticks = [10], cooldown_ticks = 38, recovery_ticks = 16, damage = 1.6, range = 2.8, arc_degrees = 360.0, area_radius = 2.8, knockback = 0.8, weight = 3, min_distance = 0.0, max_distance = 3.1, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "more_rpg_classes:stone_explosion", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "more_rpg_classes:stone_particle", support_particle = "", cast_sound_id = "forcemaster_rpg:stonehand_cast", release_sound_id = "forcemaster_rpg:stonehand_cast", impact_sound_id = "more_rpg_classes:earth_magic_impact1", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "stone_flesh", kind = "support", animation_id = "more_rpg_classes:sky_cast_one_handed", animation_source = "playerlike", release_animation_id = "more_rpg_classes:two_handed_ground_release", release_animation_source = "playerlike", spell_id = "elemental_wizards_rpg:terra_stone_flesh", duration_ticks = 28, hit_ticks = [16], cooldown_ticks = 96, recovery_ticks = 20, damage = 0.0, range = 9.0, arc_degrees = 360.0, area_radius = 0.0, knockback = 0.35, weight = 2, min_distance = 0.0, max_distance = 9.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "more_rpg_classes:stone_particle", release_particle = "", support_particle = "elemental_wizards_rpg:stone_flesh", cast_sound_id = "more_rpg_classes:earth_magic_cast1", release_sound_id = "elemental_wizards_rpg:stone_flesh", impact_sound_id = "elemental_wizards_rpg:stone_flesh", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 5.0, absorption_ticks = 110, min_phase_index = 0, max_phase_index = 99 },
+  { id = "rooted_step", kind = "dodge", animation_id = "spell_engine:dodge", animation_source = "playerlike", release_animation_id = "spell_engine:dodge", release_animation_source = "playerlike", spell_id = "", duration_ticks = 10, hit_ticks = [], cooldown_ticks = 54, recovery_ticks = 0, damage = 0.0, range = 2.8, arc_degrees = 95.0, area_radius = 0.0, knockback = 0.35, weight = 1, min_distance = 0.0, max_distance = 14.0, roll_distance = 1.9, roll_direction = "side", iframe_start_tick = 0, iframe_end_tick = 10, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "", release_particle = "", support_particle = "more_rpg_classes:stone_particle", cast_sound_id = "", release_sound_id = "", impact_sound_id = "", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+]
+
+# Config value: balloons.
+[balloons]
+# Config value: balloons.chase.
+chase = ["Keep moving, {player}."]
+# Config value: balloons.attack.
+attack = ["Here it comes."]
+# Config value: balloons.recovery.
+recovery = ["Your turn. Make it count."]
+# Config value: balloons.taunt.
+taunt = ["Take the bait, {player}."]
+# Config value: balloons.guard_react.
+guard_react = ["Too eager."]
+# Config value: balloons.parry.
+parry = ["Parried."]
+# Config value: balloons.hit_player.
+hit_player = ["Solid hit."]
+# Config value: balloons.took_damage.
+took_damage = ["Good hit."]
+# Config value: balloons.victory.
+victory = ["I win this round. You are healed."]
+# Config value: balloons.defeat.
+defeat = ["I yield. Good fight."]

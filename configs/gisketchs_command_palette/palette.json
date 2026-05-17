@@ -2,8 +2,16 @@
   "schemaVersion": 1,
   "paletteSize": "small",
   "pinned": [
-    "gisketchs_command_palette:key/screenshot",
-    "gisketchs_command_palette:key/gui/xaero_new_waypoint"
+    "gisketchs_command_palette:key/gisketchs_chowkingdom_mod/battlepass/open",
+    "gisketchs_command_palette:key/gisketchs_chowkingdom_mod/discord_screenshot/send",
+    "gisketchs_command_palette:key/gui/xaero_new_waypoint",
+    "gisketchs_command_palette:key/gui/xaero_minimap_settings",
+    "gisketchs_command_palette:controls",
+    "gisketchs_command_palette:options",
+    "gisketchs_command_palette:key/iris/keybind/shaderpackselection",
+    "gisketchs_command_palette:key/corpse/death_history",
+    "gisketchs_command_palette:key/accessories/key/open_accessories_screen",
+    "gisketchs_command_palette:key/desc/seasonhud/keybind/options"
   ],
   "hidden": [],
   "aliases": {},
@@ -19,6 +27,27 @@
     "gisketchs_command_palette:key/sneak": {},
     "gisketchs_command_palette:key/gui/xaero_new_waypoint": {
       "iconItem": "minecraft:filled_map"
+    },
+    "gisketchs_command_palette:key/gisketchs_chowkingdom_mod/battlepass/open": {
+      "iconItem": "minecraft:book"
+    },
+    "gisketchs_command_palette:key/gisketchs_chowkingdom_mod/discord_screenshot/send": {
+      "iconItem": "minecraft:camera"
+    },
+    "gisketchs_command_palette:key/gui/xaero_minimap_settings": {
+      "iconItem": "minecraft:map"
+    },
+    "gisketchs_command_palette:key/iris/keybind/shaderpackselection": {
+      "iconItem": "minecraft:amethyst_shard"
+    },
+    "gisketchs_command_palette:key/corpse/death_history": {
+      "iconItem": "minecraft:skeleton_skull"
+    },
+    "gisketchs_command_palette:key/accessories/key/open_accessories_screen": {
+      "iconItem": "minecraft:chest"
+    },
+    "gisketchs_command_palette:key/desc/seasonhud/keybind/options": {
+      "iconItem": "minecraft:clock"
     }
   },
   "recent": [

@@ -1,0 +1,169 @@
+# Chow Kingdom config: fire_wizard.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "fire_wizard"
+# Config value: display_name.
+display_name = "Fire Wizard"
+# Config value: health.
+health = 84.0
+# Config value: damage.
+damage = 3.3
+# Config value: attack_start_distance.
+attack_start_distance = 11.0
+# Config value: offense_chain_min.
+offense_chain_min = 1
+# Config value: offense_chain_random.
+offense_chain_random = 1
+# Config value: offense_chain_recovery_ticks.
+offense_chain_recovery_ticks = 6
+# Config value: approach_animation_id.
+approach_animation_id = ""
+# Config value: approach_animation_source.
+approach_animation_source = "natural"
+# Config value: strafe_animation_id.
+strafe_animation_id = ""
+# Config value: strafe_animation_source.
+strafe_animation_source = "natural"
+# Config value: guard_animation_id.
+guard_animation_id = ""
+# Config value: guard_animation_source.
+guard_animation_source = "natural"
+# Config value: parry_animation_id.
+parry_animation_id = "spell_engine:one_handed_area_release"
+# Config value: parry_animation_source.
+parry_animation_source = "playerlike"
+# Config value: hurt_animation_id.
+hurt_animation_id = "spell_engine:dodge"
+# Config value: hurt_animation_source.
+hurt_animation_source = "playerlike"
+# Config value: recovery_animation_id.
+recovery_animation_id = ""
+# Config value: recovery_animation_source.
+recovery_animation_source = "natural"
+# Config value: guard_react_ticks.
+guard_react_ticks = 6
+# Config value: guard_counter_ticks.
+guard_counter_ticks = 12
+# Config value: guard_roll_animation_id.
+guard_roll_animation_id = "combat_roll:roll"
+# Config value: guard_roll_animation_source.
+guard_roll_animation_source = "playerlike"
+# Config value: guard_roll_ticks.
+guard_roll_ticks = 14
+# Config value: guard_roll_iframe_ticks.
+guard_roll_iframe_ticks = 14
+# Config value: guard_roll_distance.
+guard_roll_distance = 3.0
+# Config value: guard_roll_weight.
+guard_roll_weight = 2
+# Config value: guard_dodge_animation_id.
+guard_dodge_animation_id = "spell_engine:dodge"
+# Config value: guard_dodge_animation_source.
+guard_dodge_animation_source = "playerlike"
+# Config value: guard_dodge_ticks.
+guard_dodge_ticks = 12
+# Config value: guard_dodge_iframe_ticks.
+guard_dodge_iframe_ticks = 10
+# Config value: guard_dodge_distance.
+guard_dodge_distance = 2.5
+# Config value: guard_dodge_direction.
+guard_dodge_direction = "side"
+# Config value: guard_dodge_weight.
+guard_dodge_weight = 1
+# Config value: guard_parry_weight.
+guard_parry_weight = 1
+# Config value: hover_height.
+hover_height = 0.0
+# Config value: guard_min_ticks.
+guard_min_ticks = 60
+# Config value: guard_random_ticks.
+guard_random_ticks = 60
+# Config value: guard_taunt_min_ticks.
+guard_taunt_min_ticks = 40
+# Config value: guard_taunt_random_ticks.
+guard_taunt_random_ticks = 40
+# Config value: recovery_hits_allowed.
+recovery_hits_allowed = 3
+# Config value: attack_phase_damage_multiplier.
+attack_phase_damage_multiplier = 0.65
+# Config value: attack_windup_damage_multiplier.
+attack_windup_damage_multiplier = 0.0
+# Config value: attack_active_damage_multiplier.
+attack_active_damage_multiplier = 0.25
+# Config value: attack_late_damage_multiplier.
+attack_late_damage_multiplier = 0.5
+# Config value: attack_windup_pressure_multiplier.
+attack_windup_pressure_multiplier = 1.5
+# Config value: attack_active_pressure_multiplier.
+attack_active_pressure_multiplier = 1.25
+# Config value: anti_spam_pressure_threshold.
+anti_spam_pressure_threshold = 3.25
+# Config value: anti_spam_reactive_guard_cooldown_ticks.
+anti_spam_reactive_guard_cooldown_ticks = 70
+# Config value: movement_style.
+movement_style = "hybrid"
+# Config value: combat_range_min.
+combat_range_min = 2.8
+# Config value: combat_range_max.
+combat_range_max = 9.0
+# Config value: footwork_aggression.
+footwork_aggression = 1.0
+# Config value: footwork_strafe_weight.
+footwork_strafe_weight = 4
+# Config value: footwork_retreat_weight.
+footwork_retreat_weight = 2
+# Config value: footwork_advance_weight.
+footwork_advance_weight = 5
+# Config value: damage_lockout_ticks.
+damage_lockout_ticks = 4
+# Config value: parry_spell_id.
+parry_spell_id = "wizards:fire_scorch"
+# Config value: parry_particle.
+parry_particle = "spell_engine:fire_explosion"
+# Config value: parry_sound_id.
+parry_sound_id = "spell_engine:generic_fire_release"
+# Config value: parry_damage.
+parry_damage = 0.9
+# Config value: parry_knockback.
+parry_knockback = 1.0
+# Config value: phases.
+phases = [
+  { id = "controlled_flame", display_name = "Controlled Flame", starts_at_health_ratio = 1.0, damage_multiplier = 1.0, speed_multiplier = 1.12, offense_chain_min = 1, offense_chain_random = 1, offense_chain_recovery_ticks = 6, transition_fallback = "", transition_llm_prompt = "", music_id = "cataclysm:enderguardian_music_1", music_volume = 0.52, music_pitch = 1.0, music_repeat_ticks = 3000 },
+  { id = "dragon_flame", display_name = "Dragon Flame", starts_at_health_ratio = 0.5, damage_multiplier = 1.16, speed_multiplier = 1.28, offense_chain_min = 2, offense_chain_random = 1, offense_chain_recovery_ticks = 5, transition_fallback = "Enough. Breathe first, then strike.", transition_llm_prompt = "The duel has reached half health and you are entering a faster, stronger Fire Wizard second phase. Reply as Zuko with one short serious battle line about breath, control, or true fire.", music_id = "cataclysm:maledictus_music", music_volume = 0.58, music_pitch = 1.0, music_repeat_ticks = 3000 },
+]
+# Config value: moves.
+moves = [
+  { id = "fire_jab", kind = "area", animation_id = "bettercombat:one_handed_punch", animation_source = "playerlike", release_animation_id = "bettercombat:one_handed_punch", release_animation_source = "playerlike", spell_id = "wizards:fire_scorch", duration_ticks = 16, hit_ticks = [7], cooldown_ticks = 18, recovery_ticks = 12, damage = 1.6, range = 2.7, arc_degrees = 120.0, area_radius = 2.7, knockback = 0.75, weight = 6, min_distance = 0.0, max_distance = 3.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "spell_engine:flame_medium_a", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 50, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_spark", support_particle = "", cast_sound_id = "", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "fire_blast", kind = "projectile", animation_id = "spell_engine:one_handed_projectile_side_charge", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_projectile_side_release", release_animation_source = "playerlike", spell_id = "wizards:fire_blast", duration_ticks = 20, hit_ticks = [11], cooldown_ticks = 22, recovery_ticks = 14, damage = 2.0, range = 11.0, arc_degrees = 80.0, area_radius = 0.0, knockback = 0.55, weight = 7, min_distance = 3.0, max_distance = 11.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 0.72, projectile_inaccuracy = 0.0, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "spell_engine:flame_spark", impact_particle = "spell_engine:fire_explosion", impact_radius = 0.9, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 60, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_spark", support_particle = "", cast_sound_id = "spell_engine:generic_fire_casting", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "fireball", kind = "projectile", animation_id = "spell_engine:one_handed_projectile_charge", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_projectile_release", release_animation_source = "playerlike", spell_id = "wizards:fireball", duration_ticks = 27, hit_ticks = [16], cooldown_ticks = 42, recovery_ticks = 20, damage = 3.0, range = 11.5, arc_degrees = 80.0, area_radius = 0.0, knockback = 0.9, weight = 4, min_distance = 4.0, max_distance = 11.5, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 0.56, projectile_inaccuracy = 0.0, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "spell_engine:flame_spark", impact_particle = "spell_engine:fire_explosion", impact_radius = 1.55, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 90, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_medium_a", support_particle = "", cast_sound_id = "spell_engine:generic_fire_casting", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "fire_scorch", kind = "area", animation_id = "forcemaster_rpg:straight_punch", animation_source = "playerlike", release_animation_id = "forcemaster_rpg:straight_punch", release_animation_source = "playerlike", spell_id = "wizards:fire_scorch", duration_ticks = 22, hit_ticks = [11], cooldown_ticks = 34, recovery_ticks = 16, damage = 2.1, range = 4.0, arc_degrees = 105.0, area_radius = 4.0, knockback = 0.55, weight = 5, min_distance = 0.0, max_distance = 4.6, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "spell_engine:flame_medium_a", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 80, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_spark", support_particle = "", cast_sound_id = "", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "flame_sweep", kind = "area", animation_id = "spell_engine:one_handed_area_release", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_area_release", release_animation_source = "playerlike", spell_id = "wizards:fire_scorch", duration_ticks = 24, hit_ticks = [12], cooldown_ticks = 36, recovery_ticks = 16, damage = 1.8, range = 3.8, arc_degrees = 180.0, area_radius = 3.8, knockback = 0.7, weight = 4, min_distance = 0.0, max_distance = 4.1, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "spell_engine:flame_medium_a", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 60, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_spark", support_particle = "", cast_sound_id = "", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "dragon_breath", kind = "beam", animation_id = "spell_engine:two_handed_channeling", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_projectile_release", release_animation_source = "playerlike", spell_id = "wizards:fire_breath", duration_ticks = 36, hit_ticks = [15, 20, 25, 30], cooldown_ticks = 68, recovery_ticks = 20, damage = 0.75, range = 9.5, arc_degrees = 70.0, area_radius = 0.0, knockback = 0.25, weight = 4, min_distance = 2.5, max_distance = 9.5, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "magic", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "spell_engine:flame_spark", impact_particle = "spell_engine:fire_explosion", impact_radius = 0.85, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 80, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_medium_a", support_particle = "", cast_sound_id = "spell_engine:generic_fire_casting", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 1, max_phase_index = 99 },
+  { id = "fire_wall", kind = "area", animation_id = "spell_engine:one_handed_area_release_ground_left_to_right", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_area_release_ground_left_to_right", release_animation_source = "playerlike", spell_id = "wizards:fire_wall", duration_ticks = 30, hit_ticks = [16], cooldown_ticks = 76, recovery_ticks = 20, damage = 1.3, range = 4.6, arc_degrees = 360.0, area_radius = 4.6, knockback = 0.35, weight = 4, min_distance = 2.0, max_distance = 5.2, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "spell_engine:flame_medium_a", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 80, hazard_radius = 3.4, hazard_ticks = 90, hazard_interval_ticks = 14, hazard_damage = 0.55, hazard_particle = "spell_engine:flame_medium_a", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_spark", support_particle = "", cast_sound_id = "", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "spell_engine:generic_fire_impact", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 1, max_phase_index = 99 },
+  { id = "fire_meteor", kind = "area", animation_id = "spell_engine:one_handed_sky_charge", animation_source = "playerlike", release_animation_id = "spell_engine:one_handed_sky_charge", release_animation_source = "playerlike", spell_id = "wizards:fire_meteor", duration_ticks = 38, hit_ticks = [25], cooldown_ticks = 92, recovery_ticks = 26, damage = 3.4, range = 5.2, arc_degrees = 360.0, area_radius = 5.2, knockback = 1.15, weight = 3, min_distance = 3.0, max_distance = 6.0, roll_distance = 0.0, roll_direction = "back", iframe_start_tick = 0, iframe_end_tick = 0, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "spell_engine:fire_explosion", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 110, hazard_radius = 2.8, hazard_ticks = 50, hazard_interval_ticks = 16, hazard_damage = 0.45, hazard_particle = "minecraft:lava", cast_particle = "spell_engine:flame_spark", release_particle = "spell_engine:flame_spark", support_particle = "", cast_sound_id = "", release_sound_id = "spell_engine:generic_fire_release", impact_sound_id = "minecraft:entity.generic.explode", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 1, max_phase_index = 99 },
+  { id = "flame_roll", kind = "roll", animation_id = "combat_roll:roll", animation_source = "playerlike", release_animation_id = "combat_roll:roll", release_animation_source = "playerlike", spell_id = "wizards:fire_scorch", duration_ticks = 13, hit_ticks = [], cooldown_ticks = 34, recovery_ticks = 0, damage = 0.0, range = 2.8, arc_degrees = 95.0, area_radius = 0.0, knockback = 0.35, weight = 3, min_distance = 0.0, max_distance = 3.5, roll_distance = 3.2, roll_direction = "side", iframe_start_tick = 0, iframe_end_tick = 13, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "", release_particle = "", support_particle = "spell_engine:flame_spark", cast_sound_id = "", release_sound_id = "", impact_sound_id = "", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+  { id = "flame_step", kind = "dodge", animation_id = "spell_engine:dodge", animation_source = "playerlike", release_animation_id = "spell_engine:dodge", release_animation_source = "playerlike", spell_id = "wizards:fire_scorch", duration_ticks = 10, hit_ticks = [], cooldown_ticks = 38, recovery_ticks = 0, damage = 0.0, range = 2.8, arc_degrees = 95.0, area_radius = 0.0, knockback = 0.35, weight = 2, min_distance = 0.0, max_distance = 14.0, roll_distance = 2.5, roll_direction = "side", iframe_start_tick = 0, iframe_end_tick = 10, projectile_type = "arrow", projectile_speed = 2.2, projectile_inaccuracy = 0.5, projectile_count = 1, projectile_spread_degrees = 0.0, projectile_particle = "", impact_particle = "", impact_radius = 0.4, status_effect_id = "", status_effect_ticks = 0, status_effect_amplifier = 0, fire_ticks = 0, hazard_radius = 0.0, hazard_ticks = 0, hazard_interval_ticks = 10, hazard_damage = 0.0, hazard_particle = "", cast_particle = "", release_particle = "", support_particle = "spell_engine:flame_spark", cast_sound_id = "", release_sound_id = "", impact_sound_id = "", self_heal_amount = 0.0, self_heal_cap_health_ratio = 1.0, self_heal_max_uses_per_phase = 0, absorption_amount = 0.0, absorption_ticks = 0, min_phase_index = 0, max_phase_index = 99 },
+]
+
+# Config value: balloons.
+[balloons]
+# Config value: balloons.chase.
+chase = ["Keep moving, {player}."]
+# Config value: balloons.attack.
+attack = ["Here it comes."]
+# Config value: balloons.recovery.
+recovery = ["Your turn. Make it count."]
+# Config value: balloons.taunt.
+taunt = ["Take the bait, {player}."]
+# Config value: balloons.guard_react.
+guard_react = ["Too eager."]
+# Config value: balloons.parry.
+parry = ["Parried."]
+# Config value: balloons.hit_player.
+hit_player = ["Solid hit."]
+# Config value: balloons.took_damage.
+took_damage = ["Good hit."]
+# Config value: balloons.victory.
+victory = ["I win this round. You are healed."]
+# Config value: balloons.defeat.
+defeat = ["I yield. Good fight."]
