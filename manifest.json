@@ -3,12 +3,26 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.17a",
+    "version": "v2026.05.17b",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
   },
   "mods": [
+    {
+      "id": "amplified-nether",
+      "source": "modrinth",
+      "projectId": "wXiGiyGX",
+      "versionId": "rp2A0tDf",
+      "repoPath": null,
+      "filename": "Amplified_Nether_26.1_v1.2.14.jar",
+      "sha1": "cf78213066fbe4a121d8ad1320386b09a69eaa9a",
+      "sha512": null,
+      "size": 108425,
+      "url": "https://cdn.modrinth.com/data/wXiGiyGX/versions/rp2A0tDf/Amplified_Nether_26.1_v1.2.14.jar",
+      "optional": false,
+      "side": "server"
+    },
     {
       "id": "asyncparticles",
       "source": "modrinth",
@@ -540,6 +554,20 @@
       "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/8SBaRv1t/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar",
       "optional": false,
       "side": "both"
+    },
+    {
+      "id": "nullscape",
+      "source": "modrinth",
+      "projectId": "LPjGiSO4",
+      "versionId": "3fv8O3xX",
+      "repoPath": null,
+      "filename": "Nullscape_1.21.x_v1.2.14.jar",
+      "sha1": "ae8e1cbd5de6cf6f450bb44cd69cd284dad690dd",
+      "sha512": null,
+      "size": 355748,
+      "url": "https://cdn.modrinth.com/data/LPjGiSO4/versions/3fv8O3xX/Nullscape_1.21.x_v1.2.14.jar",
+      "optional": false,
+      "side": "server"
     },
     {
       "id": "octo-lib",
@@ -2628,6 +2656,20 @@
       "side": "client"
     },
     {
+      "id": "mods-mobplayeranimator-neoforge-1-21-1-1-4-0-ckdm",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "mods/mobplayeranimator-neoforge-1.21.1-1.4.0-ckdm.jar",
+      "filename": "mobplayeranimator-neoforge-1.21.1-1.4.0-ckdm.jar",
+      "sha1": "e3ac0eb28318b2cfbcdb16b95c9dd9106f9e1d59",
+      "sha512": null,
+      "size": 89066,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "mob-player-animator-neo",
       "source": "modrinth",
       "projectId": "PCU8g6be",
@@ -2638,7 +2680,7 @@
       "sha512": null,
       "size": 87805,
       "url": "https://cdn.modrinth.com/data/PCU8g6be/versions/JrxzuIUx/mobplayeranimator-neoforge-1.21.1-1.4.0.jar",
-      "optional": false,
+      "optional": true,
       "side": "client"
     },
     {
