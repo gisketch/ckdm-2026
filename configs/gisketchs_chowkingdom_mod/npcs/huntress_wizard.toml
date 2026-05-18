@@ -153,3 +153,18 @@ neutral = ["That is a lot of growing.", "Ambitious. Dangerous. Fine."]
 okay = ["Stocking a whole field? Good.", "The roots will be busy."]
 good_friends = ["You are planning something green and unreasonable.", "I approve. Quietly."]
 best_friends = ["I knew you had a forest-sized problem.", "Take them. Make somewhere worth returning to."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png {quest_text}"]
+pool = [
+  { id = "huntress_wizard_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Walk the green paths and listen for what the forest wants left alone.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "huntress_wizard_catch_grass_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Grass Pokemon", quest_text = "Catch Grass Pokemon for wild magic field notes.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "grass" }, weight = 14 },
+  { id = "huntress_wizard_catch_bug_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Bug Pokemon", quest_text = "Catch Bug Pokemon and respect the small weird things.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "bug" }, weight = 12 },
+  { id = "huntress_wizard_harvest_crops", category = "task", event = "minecraft:crop_harvested", event_desc = "Harvest {goal} Crops", quest_text = "Harvest crops without acting like the field owes you everything.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 24, weight = 12 },
+  { id = "huntress_wizard_wild_crop_harvest", category = "task", event = "farmersdelight:wild_crop_harvested", event_desc = "Harvest {goal} Wild Crops", quest_text = "Forage wild crops and leave the place able to grow back.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 5, weight = 10 },
+  { id = "huntress_wizard_craft_arrows", category = "task", event = "minecraft:item_crafted", event_desc = "Craft {goal} Arrows", quest_text = "Craft arrows with forest patience, not battlefield noise.", pass_id = "cozy", xp = 60, chowcoins = 30, goal = 32, filters = { item = "minecraft:arrow" }, weight = 12 },
+  { id = "huntress_wizard_food_mixed_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Mixed Salad And Bring It Back", quest_text = "Prepare a mixed salad after I ask; wild food should still be kind.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:mixed_salad", fetch_count = 1, filters = { item = "farmersdelight:mixed_salad" }, weight = 10 },
+  { id = "huntress_wizard_quiz_forest_instinct_and_seed_witch_work", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Huntress Wizard's forest quiz without overexplaining.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "forest instinct and seed witch work", weight = 10 },
+]

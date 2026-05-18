@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 0.98
 weight = 0.82
 main_pokemon = "cobblemon:lapras"
-store = "cosmetics"
+store = ""
 class = "water_wizard"
 hurt_messages = ["Hey! I am trying to help.", "That hurt, {player}. Please be careful.", "Do not make me freeze your boots to the floor."]
 wake_messages = ["I'm awake. Is someone hurt?", "What happened? Are you okay?", "If this is an emergency, tell me quickly."]
@@ -159,7 +159,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png {player}, someone needs help.", "@quest_log.png I have a task that could protect the town."]
 pool = [
-  { id = "katara_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear monsters before they hurt anyone.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Thank you. People are safer now.", "@quest_log.png You protected them. That matters."] },
-  { id = "katara_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Check the roads for injured travelers.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Good. The roads were checked.", "@quest_log.png Thank you for making sure no one was left behind."] },
-  { id = "katara_fetch_melon", category = "fetch", event_desc = "Bring {goal} Glistering Melon Slices", quest_text = "Bring healing ingredients for the clinic.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:glistering_melon_slice", fetch_count = 3, complete_messages = ["@quest_log.png Perfect. These will help with healing.", "@quest_log.png Thank you. The supplies are ready now."] },
+  { id = "katara_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Visit the roads and watch where people might need help.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "katara_catch_water_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Water Pokemon", quest_text = "Catch Water Pokemon and study living water with care.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "water" }, weight = 14 },
+  { id = "katara_food_fish_stew", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Fish Stew And Bring It Back", quest_text = "Cook fish stew after I ask; warm food heals more than pride.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:fish_stew", fetch_count = 1, filters = { item = "farmersdelight:fish_stew" }, weight = 10 },
+  { id = "katara_fetch_kelp", category = "fetch", event_desc = "Bring {goal} Kelp", quest_text = "Bring kelp for healing wraps and water practice.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:kelp", fetch_count = 12, weight = 14 },
+  { id = "katara_timed_drowned", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Drowned In {seconds}s", quest_text = "Clear drowned from the waterline before someone gets hurt.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 3, time_window_seconds = 30, filters = { entity = "minecraft:drowned" }, weight = 12 },
+  { id = "katara_catch_fish", category = "task", event = "minecraft:fish_caught", event_desc = "Catch {goal} Fish", quest_text = "Catch fish for a proper healing meal.", pass_id = "cozy", xp = 60, chowcoins = 30, goal = 3, weight = 10 },
+  { id = "katara_meal_eaten", category = "task", event = "farmersdelight:meal_eaten", event_desc = "Eat {goal} Farmer's Delight Meals", quest_text = "Eat real meals today. Healing starts with not collapsing.", pass_id = "cozy", xp = 45, chowcoins = 25, goal = 2, weight = 8 },
+  { id = "katara_quiz_healing_water_and_care_under_pressure", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Katara's healing quiz with patience.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "healing water and care under pressure", weight = 10 },
 ]

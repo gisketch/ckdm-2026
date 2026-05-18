@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.08
 weight = 1.02
 main_pokemon = "cobblemon:houndoom"
-store = "cosmetics"
+store = ""
 class = "berserker"
 hurt_messages = ["Ow. I've had worse from Father, but still.", "Careful, mate. I do hit back.", "Bit enthusiastic there, aren't you, {player}?"]
 wake_messages = ["Already back from the dead? No, just awake.", "If this is an escape attempt, I'm listening.", "Right. Awake. What's trying to kill us?"]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png Got a run for you, {player}.", "@quest_log.png Bad odds. Interested?"]
 pool = [
-  { id = "zagreus_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear a path through hostile territory.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Nice work. That path is less murderous now.", "@quest_log.png Monsters down. Excellent run."] },
-  { id = "zagreus_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Scout a possible escape route.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Route checked. Still dangerous, obviously.", "@quest_log.png Good scouting. I like our odds slightly more."] },
-  { id = "zagreus_fetch_gold", category = "fetch", event_desc = "Bring {goal} Gold Ingots", quest_text = "Bring gold for repairs and questionable escape supplies.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:gold_ingot", fetch_count = 3, complete_messages = ["@quest_log.png Gold secured. Charon would approve.", "@quest_log.png Perfect. Repairs, supplies, maybe bribes."] },
+  { id = "zagreus_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Scout a possible escape route.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "zagreus_catch_fire_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Fire Pokemon", quest_text = "Catch Fire Pokemon and try not to make Father proud.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "fire" }, weight = 14 },
+  { id = "zagreus_catch_ghost_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Ghost Pokemon", quest_text = "Catch Ghost Pokemon. I know, familiar crowd.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "ghost" }, weight = 12 },
+  { id = "zagreus_timed_blazes", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Blazes In {seconds}s", quest_text = "Drop a blaze rush before the heat gets smug.", pass_id = "combat", xp = 130, chowcoins = 100, goal = 3, time_window_seconds = 30, filters = { entity = "minecraft:blaze", dimension = "minecraft:the_nether" }, weight = 4 },
+  { id = "zagreus_fetch_blaze_rods", category = "fetch", event_desc = "Bring {goal} Blaze Rods", quest_text = "Bring blaze rods from somewhere unpleasant. Naturally.", pass_id = "cozy", xp = 120, chowcoins = 75, fetch_item = "minecraft:blaze_rod", fetch_count = 2, weight = 4 },
+  { id = "zagreus_food_nether_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Nether Salad And Bring It Back", quest_text = "Prepare nether salad after I ask; terrible name, useful practice.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:nether_salad", fetch_count = 1, filters = { item = "farmersdelight:nether_salad" }, weight = 8 },
+  { id = "zagreus_timed_skeletons", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Skeletons In {seconds}s", quest_text = "Clear skeletons before they start feeling like home.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 4, time_window_seconds = 25, filters = { entity = "minecraft:skeleton", dimension = "minecraft:overworld" }, weight = 12 },
+  { id = "zagreus_quiz_underworld_escape_and_controlled_fury", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Zagreus's underworld quiz before the next escape attempt.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "underworld escape and controlled fury", weight = 10 },
 ]

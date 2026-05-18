@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 0.95
 weight = 0.78
 main_pokemon = "cobblemon:altaria"
-store = "cosmetics"
+store = ""
 class = "bard"
 hurt_messages = ["Ehe! That stung a little, {player}.", "Ow! Even the wind does not strike without reason.", "Careful, traveler. My lyre is not a shield."]
 wake_messages = ["Mmm... five more centuries...", "Oh! Is it time for a song already?", "I was dreaming of dandelion wine. Now I am just disappointed."]
@@ -160,7 +160,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png The wind has a task for you, {player}.", "@quest_log.png A bard needs a hero. Or at least someone heroic-adjacent."]
 pool = [
-  { id = "venti_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear the roads so songs can travel without interruption.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png The roads shall sing again! Well done, {player}.", "@quest_log.png Ehe! Monsters defeated and the wind can breathe. A fine ballad-worthy victory!"] },
-  { id = "venti_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Wander the kingdom and bring back stories for a new song.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Ah, you walked far! I can already hear the melody forming.", "@quest_log.png Every block you traveled is a note in the ballad to come. Thank you!"] },
-  { id = "venti_fetch_apples", category = "fetch", event_desc = "Bring {goal} Apples", quest_text = "Bring apples for inspiration. And snacks. Mostly snacks.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:apple", fetch_count = 6, complete_messages = ["@quest_log.png Apples! The crisp crunch of a quest complete!", "@quest_log.png These apples will fuel many songs and at least one nap."] },
+  { id = "venti_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Wander the kingdom and bring back stories for a new song.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "venti_travel_flying_pokemon", category = "task", event = "cobblemon:pokemon_mount_flying_traveled", event_desc = "Travel {goal} Blocks On Flying Pokemon", quest_text = "Fly above town and let the route become a melody.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 2000, filters = { mode = "pokemon_flying" }, weight = 10 },
+  { id = "venti_catch_flying_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Flying Pokemon", quest_text = "Catch Flying Pokemon for a sky-song chorus.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "flying" }, weight = 14 },
+  { id = "venti_fetch_apples", category = "fetch", event_desc = "Bring {goal} Apples", quest_text = "Bring apples. Songs sound better with snacks.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:apple", fetch_count = 8, weight = 14 },
+  { id = "venti_fetch_note_block", category = "fetch", event_desc = "Bring {goal} Note Block", quest_text = "Bring a note block for a very necessary interruption.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:note_block", fetch_count = 1, weight = 12 },
+  { id = "venti_food_fruit_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Fruit Salad And Bring It Back", quest_text = "Prepare fruit salad after I ask; audiences forgive more with snacks.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:fruit_salad", fetch_count = 1, filters = { item = "farmersdelight:fruit_salad" }, weight = 10 },
+  { id = "venti_meal_eaten", category = "task", event = "farmersdelight:meal_eaten", event_desc = "Eat {goal} Farmer's Delight Meals", quest_text = "Eat proper meals before calling it artistic suffering.", pass_id = "cozy", xp = 45, chowcoins = 25, goal = 2, weight = 8 },
+  { id = "venti_quiz_bard_songs_wind_and_tavern_trouble", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Venti's bard quiz before he turns it into a song.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "bard songs wind and tavern trouble", weight = 10 },
 ]

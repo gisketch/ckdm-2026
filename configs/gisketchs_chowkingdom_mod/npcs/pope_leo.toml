@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.02
 weight = 0.9
 main_pokemon = "cobblemon:popplio"
-store = "cosmetics"
+store = ""
 class = "priest"
 hurt_messages = ["Peace, {player}. Let us not answer confusion with harm.", "Careful. Mercy requires steady hands.", "I forgive the blow. Now choose better."]
 wake_messages = ["I am awake. Who needs prayer or care?", "Speak, child. Is someone in need?", "A shepherd sleeps lightly when the town is troubled."]
@@ -159,7 +159,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png {player}, someone needs help.", "@quest_log.png There is service to do."]
 pool = [
-  { id = "pope_leo_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Protect the road so the vulnerable can pass safely.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Good. Protection is mercy in armor.", "@quest_log.png The road is safer now. Thank you."] },
-  { id = "pope_leo_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Visit the roads and look for anyone alone or hurt.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png You checked the road. That matters.", "@quest_log.png No one should be forgotten. Well done."] },
-  { id = "pope_leo_fetch_bread", category = "fetch", event_desc = "Bring {goal} Bread", quest_text = "Bring bread for travelers who arrive hungry.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:bread", fetch_count = 6, complete_messages = ["@quest_log.png Bread becomes peace when shared.", "@quest_log.png Thank you. This will feed someone today."] },
+  { id = "pope_leo_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Visit the roads and look for anyone alone or hurt.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "pope_leo_catch_normal_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Normal Pokemon", quest_text = "Catch Normal Pokemon for gentle companion records.", pass_id = "cozy", xp = 75, chowcoins = 45, goal = 3, filters = { type = "normal" }, weight = 12 },
+  { id = "pope_leo_fetch_bread", category = "fetch", event_desc = "Bring {goal} Bread", quest_text = "Bring bread for someone who should not have to ask twice.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:bread", fetch_count = 6, weight = 14 },
+  { id = "pope_leo_villager_trade", category = "task", event = "minecraft:villager_traded", event_desc = "Trade With Villagers {goal} Times", quest_text = "Trade with villagers and keep the town's needs visible.", pass_id = "cozy", xp = 70, chowcoins = 40, goal = 4, weight = 10 },
+  { id = "pope_leo_animal_breed", category = "task", event = "minecraft:animal_bred", event_desc = "Breed {goal} Animals", quest_text = "Help the animals safely. Care is practical work.", pass_id = "cozy", xp = 70, chowcoins = 40, goal = 2, weight = 10 },
+  { id = "pope_leo_food_vegetable_soup", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Vegetable Soup And Bring It Back", quest_text = "Cook vegetable soup after I ask, then bring the warm bowl back.", pass_id = "cozy", xp = 85, chowcoins = 60, goal = 1, fetch_item = "farmersdelight:vegetable_soup", fetch_count = 1, filters = { item = "farmersdelight:vegetable_soup" }, weight = 10 },
+  { id = "pope_leo_meal_eaten", category = "task", event = "farmersdelight:meal_eaten", event_desc = "Eat {goal} Farmer's Delight Meals", quest_text = "Eat properly before you try to help everyone else.", pass_id = "cozy", xp = 45, chowcoins = 25, goal = 2, weight = 8 },
+  { id = "pope_leo_quiz_mercy_service_and_community_care", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Pope Leo's question about mercy that becomes action.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "mercy service and community care", weight = 10 },
 ]

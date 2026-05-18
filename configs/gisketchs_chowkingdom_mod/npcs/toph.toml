@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 0.9
 weight = 0.82
 main_pokemon = "cobblemon:onix"
-store = "cosmetics"
+store = ""
 class = "earth_wizard"
 hurt_messages = ["Hey! I felt that coming and it was still rude.", "Careful, {player}. The ground is on my side.", "Try that again and your boots are taking root."]
 wake_messages = ["I'm awake. The floor tattled on you.", "What, did the rocks need me?", "If this is about dirt, I already know."]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png Hey {player}, I have work for someone with feet.", "@quest_log.png Quest. Try not to wobble."]
 pool = [
-  { id = "toph_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear the road. Their stomping is annoying.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Good. The ground is quieter.", "@quest_log.png Not bad. You hit with weight."] },
-  { id = "toph_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Walk the roads and listen through your feet.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Good. Your feet learned something.", "@quest_log.png The road told you plenty, didn't it?"] },
-  { id = "toph_fetch_deepslate", category = "fetch", event_desc = "Bring {goal} Deepslate", quest_text = "Bring deep stone for real earth training.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:deepslate", fetch_count = 16, complete_messages = ["@quest_log.png Now that's stone.", "@quest_log.png Heavy, honest, useful. Good."] },
+  { id = "toph_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Walk the roads and listen through your feet.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "toph_catch_ground_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Ground Pokemon", quest_text = "Catch Ground Pokemon and pay attention to what the dirt says.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "ground" }, weight = 14 },
+  { id = "toph_catch_rock_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Rock Pokemon", quest_text = "Catch Rock Pokemon. Try not to be weird about rocks. That's my job.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "rock" }, weight = 12 },
+  { id = "toph_craft_stone_bricks", category = "task", event = "minecraft:item_crafted", event_desc = "Craft {goal} Stone Bricks", quest_text = "Craft stone bricks until the lines stop wobbling.", pass_id = "cozy", xp = 55, chowcoins = 25, goal = 16, filters = { item = "minecraft:stone_bricks" }, weight = 14 },
+  { id = "toph_smelt_iron", category = "task", event = "minecraft:item_smelted", event_desc = "Smelt {goal} Iron Ingots", quest_text = "Smelt iron and listen for the metal under the noise.", pass_id = "cozy", xp = 60, chowcoins = 40, goal = 8, filters = { item = "minecraft:iron_ingot" }, weight = 14 },
+  { id = "toph_fetch_deepslate", category = "fetch", event_desc = "Bring {goal} Deepslate", quest_text = "Bring deepslate for proper earth practice.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:deepslate", fetch_count = 16, weight = 12 },
+  { id = "toph_food_mushroom_rice", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Mushroom Rice And Bring It Back", quest_text = "Prepare mushroom rice after I ask; it smells honest enough.", pass_id = "cozy", xp = 85, chowcoins = 60, goal = 1, fetch_item = "farmersdelight:mushroom_rice", fetch_count = 1, filters = { item = "farmersdelight:mushroom_rice" }, weight = 10 },
+  { id = "toph_quiz_earthbending_metalbending_and_terrain_sens", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Toph's earth quiz. She will know if you are guessing.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "earthbending metalbending and terrain sense", weight = 10 },
 ]

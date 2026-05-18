@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 0.92
 weight = 0.78
 main_pokemon = "cobblemon:altaria"
-store = "cosmetics"
+store = ""
 class = "wind_wizard"
 hurt_messages = ["Hey! Let's not do that.", "Careful, {player}. Air is for movement, not cheap shots.", "I would rather talk than fight."]
 wake_messages = ["I'm up! Is it adventure time or danger time?", "Whoa. What happened?", "Okay, okay, I'm awake."]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png {player}, want to help without making things worse?", "@quest_log.png The wind found a quest."]
 pool = [
-  { id = "aang_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear monsters from the road quickly, but keep your heart light.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Good! The road can breathe again.", "@quest_log.png Nice work. Fast, but not cruel."] },
-  { id = "aang_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Travel the kingdom and listen to how the air changes.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png You heard it, right? Every place has a different wind.", "@quest_log.png Great travel. Your feet got lighter."] },
-  { id = "aang_fetch_feathers", category = "fetch", event_desc = "Bring {goal} Feathers", quest_text = "Bring feathers for air control practice.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:feather", fetch_count = 12, complete_messages = ["@quest_log.png Perfect. Light enough to teach control.", "@quest_log.png The feathers listened to the air. Good."] },
+  { id = "aang_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Travel the kingdom and listen to how the air changes.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "aang_travel_flying_pokemon", category = "task", event = "cobblemon:pokemon_mount_flying_traveled", event_desc = "Travel {goal} Blocks On Flying Pokemon", quest_text = "Fly high with a Pokemon and read the sky currents above town.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 2000, filters = { mode = "pokemon_flying" }, weight = 12 },
+  { id = "aang_catch_flying_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Flying Pokemon", quest_text = "Catch Flying Pokemon and learn from wings without trapping the lesson.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "flying" }, weight = 14 },
+  { id = "aang_fetch_feathers", category = "fetch", event_desc = "Bring {goal} Feathers", quest_text = "Bring feathers for air control practice.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:feather", fetch_count = 12, weight = 14 },
+  { id = "aang_craft_paper", category = "task", event = "minecraft:item_crafted", event_desc = "Craft {goal} Paper", quest_text = "Craft paper for wind maps and little notes nobody has to fight over.", pass_id = "cozy", xp = 55, chowcoins = 25, goal = 8, filters = { item = "minecraft:paper" }, weight = 12 },
+  { id = "aang_food_mixed_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Mixed Salad And Bring It Back", quest_text = "Prepare a fresh mixed salad after I ask; light food keeps light feet.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:mixed_salad", fetch_count = 1, filters = { item = "farmersdelight:mixed_salad" }, weight = 10 },
+  { id = "aang_timed_zombies", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Zombies In {seconds}s", quest_text = "Clear a quick zombie wave from the road, fast and without anger.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 3, time_window_seconds = 25, filters = { entity = "minecraft:zombie" }, weight = 12 },
+  { id = "aang_quiz_air_nomad_restraint_and_mercy", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Aang's question about restraint, freedom, and choosing another way.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "air nomad restraint and mercy", weight = 10 },
 ]

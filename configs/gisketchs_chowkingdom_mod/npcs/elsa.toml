@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.04
 weight = 0.82
 main_pokemon = "cobblemon:glaceon"
-store = "cosmetics"
+store = ""
 class = "frost_wizard"
 hurt_messages = ["Please be careful. Fear makes ice sharper.", "That was unwise, {player}.", "I would rather not freeze the floor beneath you."]
 wake_messages = ["I'm awake. Is everyone safe?", "What happened?", "If there is danger, tell me calmly."]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png {player}, I need calm hands.", "@quest_log.png There is work before the storm grows."]
 pool = [
-  { id = "elsa_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear the snow road before fear spreads.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png The road is quiet again.", "@quest_log.png Good. You kept control."] },
-  { id = "elsa_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Walk the winter paths and check for stranded travelers.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Thank you. No one should freeze alone.", "@quest_log.png The paths are known now."] },
-  { id = "elsa_fetch_blue_ice", category = "fetch", event_desc = "Bring {goal} Blue Ice", quest_text = "Bring blue ice for controlled frost practice.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:blue_ice", fetch_count = 4, complete_messages = ["@quest_log.png Clear and strong. This will work.", "@quest_log.png Beautiful. The ice is stable."] },
+  { id = "elsa_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Walk the snow roads and practice calm steps.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "elsa_catch_ice_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Ice Pokemon", quest_text = "Catch Ice Pokemon and study cold that does not need fear.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "ice" }, weight = 14 },
+  { id = "elsa_craft_snow_blocks", category = "task", event = "minecraft:item_crafted", event_desc = "Craft {goal} Snow Blocks", quest_text = "Craft snow blocks for control drills.", pass_id = "cozy", xp = 55, chowcoins = 25, goal = 8, filters = { item = "minecraft:snow_block" }, weight = 14 },
+  { id = "elsa_fetch_blue_ice", category = "fetch", event_desc = "Bring {goal} Blue Ice", quest_text = "Bring blue ice for a focused frost exercise.", pass_id = "cozy", xp = 70, chowcoins = 50, fetch_item = "minecraft:blue_ice", fetch_count = 4, weight = 12 },
+  { id = "elsa_smelt_glass", category = "task", event = "minecraft:item_smelted", event_desc = "Smelt {goal} Glass", quest_text = "Smelt glass for crystal-clear practice panes.", pass_id = "cozy", xp = 55, chowcoins = 30, goal = 16, filters = { item = "minecraft:glass" }, weight = 12 },
+  { id = "elsa_food_melon_popsicle", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Melon Popsicles And Bring It Back", quest_text = "Prepare melon popsicles after I ask; some cold should make people smile.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 2, fetch_item = "farmersdelight:melon_popsicle", fetch_count = 2, filters = { item = "farmersdelight:melon_popsicle" }, weight = 10 },
+  { id = "elsa_timed_strays", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Strays In {seconds}s", quest_text = "Quiet a stray frost volley before it reaches town.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 3, time_window_seconds = 30, filters = { entity = "minecraft:stray" }, weight = 12 },
+  { id = "elsa_quiz_frost_restraint_and_calm_control", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Elsa's quiz about control before power.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "frost restraint and calm control", weight = 10 },
 ]

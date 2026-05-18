@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.06
 weight = 0.96
 main_pokemon = "cobblemon:talonflame"
-store = "cosmetics"
+store = ""
 class = "rogue"
 hurt_messages = ["Careful, amico. My patience has limits.", "That was not a wise strike, {player}.", "If this is training, announce it first."]
 wake_messages = ["I was resting, not unaware.", "Speak softly. Night keeps many ears.", "You wake me for a reason, yes?"]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png A quiet task needs steady hands, {player}.", "@quest_log.png I have work for someone discreet."]
 pool = [
-  { id = "ezio_hunt_undead", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear threats from the roads without endangering the town.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Good. The roads breathe easier.", "@quest_log.png Clean work, {player}. The town will sleep better."] },
-  { id = "ezio_travel_rooftops", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Scout the alleys, roofs, and paths around the kingdom.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Your map grows honest.", "@quest_log.png Good scouting. Knowledge is the first blade."] },
-  { id = "ezio_fetch_arrows", category = "fetch", event_desc = "Bring {goal} Arrows", quest_text = "Bring arrows for Brotherhood training drills.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:arrow", fetch_count = 12, complete_messages = ["@quest_log.png Good. Training can continue.", "@quest_log.png These will teach patience before aim."] },
+  { id = "ezio_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Move across the rooftops and roads without wasting motion.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "ezio_catch_dark_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Dark Pokemon", quest_text = "Catch Dark Pokemon and study quiet movement.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "dark" }, weight = 14 },
+  { id = "ezio_craft_arrows", category = "task", event = "minecraft:item_crafted", event_desc = "Craft {goal} Arrows", quest_text = "Craft arrows for the hidden stockpile.", pass_id = "cozy", xp = 60, chowcoins = 30, goal = 32, filters = { item = "minecraft:arrow" }, weight = 14 },
+  { id = "ezio_villager_intel", category = "task", event = "minecraft:villager_traded", event_desc = "Trade With Villagers {goal} Times", quest_text = "Gather intel through honest trades and quiet ears.", pass_id = "cozy", xp = 70, chowcoins = 40, goal = 5, weight = 10 },
+  { id = "ezio_timed_skeletons", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Skeletons In {seconds}s", quest_text = "Drop skeleton sentries before they warn the next road.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 3, time_window_seconds = 20, filters = { entity = "minecraft:skeleton", dimension = "minecraft:overworld" }, weight = 12 },
+  { id = "ezio_fetch_string", category = "fetch", event_desc = "Bring {goal} String", quest_text = "Bring string for lines, bindings, and better plans.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:string", fetch_count = 12, weight = 12 },
+  { id = "ezio_food_bacon_sandwich", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Bacon Sandwich And Bring It Back", quest_text = "Prepare a bacon sandwich after I ask; a long watch needs real food.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:bacon_sandwich", fetch_count = 1, filters = { item = "farmersdelight:bacon_sandwich" }, weight = 10 },
+  { id = "ezio_quiz_creed_discipline_and_stealth_judgment", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Ezio's question about patience, rooftops, and restraint.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "creed discipline and stealth judgment", weight = 10 },
 ]

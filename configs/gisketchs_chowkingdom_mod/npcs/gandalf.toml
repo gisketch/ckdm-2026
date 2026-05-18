@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.14
 weight = 0.98
 main_pokemon = "cobblemon:alakazam"
-store = "cosmetics"
+store = ""
 class = "wizard"
 hurt_messages = ["Do not take me for some conjurer of cheap tricks.", "Careful, {player}. I am not an enemy.", "A foolish blow. See that it remains the last."]
 wake_messages = ["I was not sleeping so deeply as you hoped.", "Speak, then. Time is shorter than it seems.", "If danger is near, say so plainly."]
@@ -159,7 +159,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png A task waits, {player}.", "@quest_log.png Come. We must not ignore this."]
 pool = [
-  { id = "gandalf_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Drive back creatures of the dark before they threaten the town.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Well done. Darkness has been checked for now.", "@quest_log.png Courage served the town today."] },
-  { id = "gandalf_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Scout the roads and listen for signs of trouble.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png The road is better known. That is no small thing.", "@quest_log.png Good. Knowledge is a lantern in dark country."] },
-  { id = "gandalf_fetch_books", category = "fetch", event_desc = "Bring {goal} Books", quest_text = "Bring books for study and counsel.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:book", fetch_count = 4, complete_messages = ["@quest_log.png Books are never a poor harvest.", "@quest_log.png Excellent. Wisdom often begins on humble pages."] },
+  { id = "gandalf_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Walk the road and notice what hurrying would miss.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "gandalf_catch_psychic_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Psychic Pokemon", quest_text = "Catch Psychic Pokemon for a lesson in quiet power.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "psychic" }, weight = 14 },
+  { id = "gandalf_smelt_glass", category = "task", event = "minecraft:item_smelted", event_desc = "Smelt {goal} Glass", quest_text = "Smelt glass for lanterns, windows, and wiser visibility.", pass_id = "cozy", xp = 55, chowcoins = 30, goal = 16, filters = { item = "minecraft:glass" }, weight = 12 },
+  { id = "gandalf_fetch_amethyst", category = "fetch", event_desc = "Bring {goal} Amethyst Shards", quest_text = "Bring amethyst shards for arcane focus work.", pass_id = "cozy", xp = 60, chowcoins = 40, fetch_item = "minecraft:amethyst_shard", fetch_count = 6, weight = 12 },
+  { id = "gandalf_timed_skeletons", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Skeletons In {seconds}s", quest_text = "Break a skeleton line before it thinks itself an army.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 4, time_window_seconds = 25, filters = { entity = "minecraft:skeleton", dimension = "minecraft:overworld" }, weight = 12 },
+  { id = "gandalf_food_mushroom_rice", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Mushroom Rice And Bring It Back", quest_text = "Prepare mushroom rice after I ask; simple meals steady long roads.", pass_id = "cozy", xp = 85, chowcoins = 60, goal = 1, fetch_item = "farmersdelight:mushroom_rice", fetch_count = 1, filters = { item = "farmersdelight:mushroom_rice" }, weight = 10 },
+  { id = "gandalf_fetch_books", category = "fetch", event_desc = "Bring {goal} Books", quest_text = "Bring books before somebody mistakes guessing for wisdom.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:book", fetch_count = 3, weight = 10 },
+  { id = "gandalf_quiz_wizard_lore_and_wise_timing", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Gandalf's question about wisdom, timing, and trouble.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "wizard lore and wise timing", weight = 10 },
 ]

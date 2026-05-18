@@ -111,6 +111,13 @@ lost_house_llm_prompt = "Your assigned bed or home was removed. Tell the player 
 # Config value: campers.assigned_house_llm_prompt.
 assigned_house_llm_prompt = "The player assigned you a bed as your new home. Thank them warmly, say you will settle in, and keep it to 1-2 short sentences."
 
+# Config value: quests.
+[quests]
+# Config value: quests.max_daily_quests.
+max_daily_quests = 5
+# Config value: quests.reset_uses_meetup_start.
+reset_uses_meetup_start = true
+
 # Config value: work.
 [work]
 # Config value: work.application_llm_prompt.

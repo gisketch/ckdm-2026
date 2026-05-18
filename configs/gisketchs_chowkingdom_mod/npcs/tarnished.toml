@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.1
 weight = 1.08
 main_pokemon = "cobblemon:corviknight"
-store = "cosmetics"
+store = ""
 class = "paladin"
 hurt_messages = ["Thy blow lands. Let it not become habit.", "Careful, {player}. Even grace has limits.", "Wouldst thou test steel, name it training."]
 wake_messages = ["Grace wakes me. Or perhaps thy noise.", "Speak, traveler. What calls us?", "Rest was brief. Duty remains."]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png A trial awaits, {player}.", "@quest_log.png Grace points toward danger."]
 pool = [
-  { id = "tarnished_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Drive back monsters that threaten the innocent.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Well fought. The innocent breathe easier.", "@quest_log.png The dark recedes, if only for a time."] },
-  { id = "tarnished_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Walk the pilgrim road and mark safe passage.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png The road is known. Thy steps had purpose.", "@quest_log.png Good. Safe passage begins with one pilgrim's path."] },
-  { id = "tarnished_fetch_gold", category = "fetch", event_desc = "Bring {goal} Gold Ingots", quest_text = "Bring gold for sacred repairs and warding marks.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:gold_ingot", fetch_count = 4, complete_messages = ["@quest_log.png The offering is enough. The wards shall hold.", "@quest_log.png Gold received. Grace willing, it will protect this place."] },
+  { id = "tarnished_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Walk the pilgrim road and mark safe passage.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "tarnished_catch_steel_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Steel Pokemon", quest_text = "Catch Steel Pokemon and consider what endurance costs.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "steel" }, weight = 14 },
+  { id = "tarnished_timed_skeletons", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Skeletons In {seconds}s", quest_text = "Break skeletons before the road feels abandoned.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 4, time_window_seconds = 25, filters = { entity = "minecraft:skeleton", dimension = "minecraft:overworld" }, weight = 12 },
+  { id = "tarnished_smelt_iron", category = "task", event = "minecraft:item_smelted", event_desc = "Smelt {goal} Iron Ingots", quest_text = "Smelt iron for repairs worthy of a vow.", pass_id = "cozy", xp = 60, chowcoins = 40, goal = 8, filters = { item = "minecraft:iron_ingot" }, weight = 12 },
+  { id = "tarnished_fetch_gold_ingots", category = "fetch", event_desc = "Bring {goal} Gold Ingots", quest_text = "Bring gold ingots for a grave-bright offering.", pass_id = "cozy", xp = 60, chowcoins = 40, fetch_item = "minecraft:gold_ingot", fetch_count = 6, weight = 10 },
+  { id = "tarnished_fetch_blaze_rods", category = "fetch", event_desc = "Bring {goal} Blaze Rods", quest_text = "Bring blaze rods if thy courage can return with them.", pass_id = "cozy", xp = 110, chowcoins = 75, fetch_item = "minecraft:blaze_rod", fetch_count = 2, weight = 4 },
+  { id = "tarnished_food_steak_and_potatoes", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Steak And Potatoes And Bring It Back", quest_text = "Prepare steak and potatoes after I ask; pilgrims need strength, not drama.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:steak_and_potatoes", fetch_count = 1, filters = { item = "farmersdelight:steak_and_potatoes" }, weight = 10 },
+  { id = "tarnished_quiz_paladin_vows_and_graveward_courage", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer the Tarnished's vow quiz without flinching.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "paladin vows and graveward courage", weight = 10 },
 ]

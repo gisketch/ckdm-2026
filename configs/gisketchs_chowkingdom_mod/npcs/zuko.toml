@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.02
 weight = 0.9
 main_pokemon = "cobblemon:charizard"
-store = "cosmetics"
+store = ""
 class = "fire_wizard"
 hurt_messages = ["Control yourself, {player}. Fire without control burns allies.", "Careful. I know what anger does.", "Do not make this a fight you do not mean."]
 wake_messages = ["I'm awake. Is the town in danger?", "What happened?", "If this is training, say so."]
@@ -158,7 +158,12 @@ enabled = true
 offer_radius = 7.0
 offer_balloon_messages = ["@quest_log.png {player}, I have a task.", "@quest_log.png Training job. Stay focused."]
 pool = [
-  { id = "zuko_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear the monsters before they reach town.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Good. Clean work.", "@quest_log.png You protected people. That matters."] },
-  { id = "zuko_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Patrol the road and keep your breath steady.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Patrol complete. Good discipline.", "@quest_log.png You kept moving without rushing. Good."] },
-  { id = "zuko_fetch_blaze", category = "fetch", event_desc = "Bring {goal} Blaze Rods", quest_text = "Bring blaze rods for controlled flame drills.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:blaze_rod", fetch_count = 3, complete_messages = ["@quest_log.png Strong heat. We'll use it carefully.", "@quest_log.png Good. Fire that can be controlled is useful."] },
+  { id = "zuko_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Patrol the road and keep your breath steady.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "zuko_catch_fire_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Fire Pokemon", quest_text = "Catch Fire Pokemon and remember discipline before flame.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "fire" }, weight = 14 },
+  { id = "zuko_timed_blazes", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Blazes In {seconds}s", quest_text = "Face blazes where fire is loud and keep control anyway.", pass_id = "combat", xp = 130, chowcoins = 100, goal = 3, time_window_seconds = 30, filters = { entity = "minecraft:blaze", dimension = "minecraft:the_nether" }, weight = 4 },
+  { id = "zuko_fetch_blaze_rods", category = "fetch", event_desc = "Bring {goal} Blaze Rods", quest_text = "Bring blaze rods. Fire that is earned teaches better.", pass_id = "cozy", xp = 110, chowcoins = 75, fetch_item = "minecraft:blaze_rod", fetch_count = 2, weight = 4 },
+  { id = "zuko_smelt_iron", category = "task", event = "minecraft:item_smelted", event_desc = "Smelt {goal} Iron Ingots", quest_text = "Smelt iron and keep your breath even through the heat.", pass_id = "cozy", xp = 60, chowcoins = 40, goal = 8, filters = { item = "minecraft:iron_ingot" }, weight = 12 },
+  { id = "zuko_food_fried_rice", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Fried Rice And Bring It Back", quest_text = "Cook fried rice after I ask; heat should serve the meal, not your temper.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:fried_rice", fetch_count = 1, filters = { item = "farmersdelight:fried_rice" }, weight = 10 },
+  { id = "zuko_timed_zombies", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Zombies In {seconds}s", quest_text = "Clear zombies from the road without losing focus.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 4, time_window_seconds = 25, filters = { entity = "minecraft:zombie", dimension = "minecraft:overworld" }, weight = 12 },
+  { id = "zuko_quiz_fire_discipline_honor_and_second_chances", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Zuko's fire discipline quiz honestly.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "fire discipline honor and second chances", weight = 10 },
 ]

@@ -10,7 +10,7 @@ fg_floppy = 0.75
 height = 1.08
 weight = 1.02
 main_pokemon = "cobblemon:absol"
-store = "cosmetics"
+store = ""
 class = "witcher"
 hurt_messages = ["Careful. I charge extra for stupidity.", "Bad idea, {player}.", "I've been hit by worse. Still rude."]
 wake_messages = ["Mm. Better be important.", "I was resting, not dead.", "Speak. Quietly."]
@@ -153,3 +153,18 @@ neutral = ["Buying in bulk. Expecting trouble?", "{quantity} {item}. Heavy pack.
 okay = ["Stocking up. Sensible.", "{quantity} {item}. You might survive after all."]
 good_friends = ["That's enough {item} for a proper hunt.", "Good. Overprepare."]
 best_friends = ["Take the lot. I'd rather you come back.", "{quantity} {item}. Don't make me collect them from a corpse."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png {quest_text}"]
+pool = [
+  { id = "geralt_travel_on_foot", category = "task", event = "minecraft:travel_on_foot", event_desc = "Travel {goal} Blocks On Foot", quest_text = "Walk the contract trail and watch what the road refuses to say.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 1000, filters = { mode = "on_foot" }, weight = 16 },
+  { id = "geralt_catch_ghost_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Ghost Pokemon", quest_text = "Catch Ghost Pokemon. Keep your eyes open.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "ghost" }, weight = 14 },
+  { id = "geralt_catch_dark_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Dark Pokemon", quest_text = "Catch Dark Pokemon and do not trust the quiet.", pass_id = "cozy", xp = 80, chowcoins = 50, goal = 3, filters = { type = "dark" }, weight = 12 },
+  { id = "geralt_timed_zombies", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Zombies In {seconds}s", quest_text = "Clear a zombie contract before it spreads.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 4, time_window_seconds = 25, filters = { entity = "minecraft:zombie", dimension = "minecraft:overworld" }, weight = 12 },
+  { id = "geralt_timed_cave_spiders", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Cave Spiders In {seconds}s", quest_text = "Clear a cave spider nest cleanly.", pass_id = "combat", xp = 120, chowcoins = 80, goal = 3, time_window_seconds = 25, filters = { entity = "minecraft:cave_spider" }, weight = 4 },
+  { id = "geralt_food_beef_stew", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Beef Stew And Bring It Back", quest_text = "Cook beef stew after I ask. Contracts go badly hungry.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:beef_stew", fetch_count = 1, filters = { item = "farmersdelight:beef_stew" }, weight = 10 },
+  { id = "geralt_fetch_ender_pearls", category = "fetch", event_desc = "Bring {goal} Ender Pearls", quest_text = "Bring ender pearls. Risky materials, useful work.", pass_id = "cozy", xp = 120, chowcoins = 75, fetch_item = "minecraft:ender_pearl", fetch_count = 2, weight = 4 },
+  { id = "geralt_quiz_witcher_monsters_and_contract_discipline", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Geralt's contract quiz. Short answers preferred.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "witcher monsters and contract discipline", weight = 10 },
+]
