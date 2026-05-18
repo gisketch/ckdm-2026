@@ -1,4 +1,4 @@
 # Chow Kingdom config: tracked_missions.toml. Edit while the game is stopped, then run reload commands or restart.
 
 # Config value: tracked.
-tracked = ["cozy|permanent:permanent_monster_slayer", "cozy|permanent:permanent_crop_keeper"]
+tracked = ["combat|permanent:permanent_pokemon_caught"]

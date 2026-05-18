@@ -1,8 +1,7 @@
 {
   "id": "farmer",
   "display_name": "Farmer",
-  "icon": "minecraft:grass_block",
-  "description": "Tend crops, protect farmland, and coax better harvests from the kingdom soil.",
+  "icon": "minecraft:wheat",
   "perks": [
     {
       "type": "prevent_crop_trample",
@@ -13,7 +12,6 @@
       "armor_patterns": [],
       "wrong_weapon_damage_multiplier": 1.0,
       "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
       "wrong_armor_disables_sprint": false,
       "starting_items": []
     },
@@ -27,7 +25,6 @@
       "armor_patterns": [],
       "wrong_weapon_damage_multiplier": 1.0,
       "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
       "wrong_armor_disables_sprint": false,
       "starting_items": []
     },
@@ -41,7 +38,6 @@
       "armor_patterns": [],
       "wrong_weapon_damage_multiplier": 1.0,
       "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
       "wrong_armor_disables_sprint": false,
       "starting_items": []
     },
@@ -54,7 +50,6 @@
       "armor_patterns": [],
       "wrong_weapon_damage_multiplier": 1.0,
       "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
       "wrong_armor_disables_sprint": false,
       "starting_items": []
     }

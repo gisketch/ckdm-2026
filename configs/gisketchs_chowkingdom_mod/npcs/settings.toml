@@ -1,67 +1,175 @@
-{
-  "greetings": {
-    "radius": 5.0,
-    "cooldown_seconds": 60,
-    "balloon_duration_seconds": 5
-  },
-  "llm": {
-    "enabled": false,
-    "active_preset": "current",
-    "provider": "openai_compatible",
-    "base_url": "https://api.deepseek.com",
-    "model": "deepseek-chat",
-    "api_key": "",
-    "presets": [
-      {
-        "name": "current",
-        "provider": "openai_compatible",
-        "base_url": "https://api.deepseek.com",
-        "model": "deepseek-chat",
-        "api_key": ""
-      }
-    ],
-    "cooldown_seconds": 4,
-    "max_reply_chars": 280,
-    "max_recent_turns": 8,
-    "request_timeout_seconds": 20,
-    "rate_limited_message": "Give me a second to gather my thoughts.",
-    "error_message": "Sorry, my thoughts wandered for a second. What were we talking about?",
-    "fallback_message": "Sorry, my thoughts wandered for a second. What were we talking about?"
-  },
-  "llm_message_usage": {
-    "interact": true,
-    "gift": false,
-    "hurt": false,
-    "wake": false,
-    "greeting": false,
-    "first_daily_chat": false,
-    "shop": false,
-    "shop_single": false,
-    "shop_normal": false,
-    "shop_bulk": false,
-    "camper_needs_house": false,
-    "camper_lost_house": false,
-    "assigned_house": false
-  },
-  "campers": {
-    "cooldown_min_hours": 24,
-    "cooldown_max_hours": 48,
-    "needs_house_llm_prompt": "The player found you waiting at camp without a home. Ask for a bed or small house and mention the rent contract.",
-    "lost_house_llm_prompt": "Your assigned bed or home was removed. Tell the player you lost your bed and need a new one.",
-    "assigned_house_llm_prompt": "The player assigned you a bed as your new home. Thank them warmly and say you will settle in."
-  },
-  "npc_interactions": {
-    "enabled": true,
-    "radius": 7.0,
-    "duration_seconds": 12,
-    "cooldown_min_hours": 2,
-    "cooldown_max_hours": 4,
-    "balloon_refresh_seconds": 6,
-    "messages": [
-      "Talking with {other}...",
-      "Catching up with {other}.",
-      "Comparing notes with {other}.",
-      "Small town meeting with {other}."
-    ]
-  }
-}
+# Chow Kingdom config: settings.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: rendering.
+[rendering]
+# Config value: rendering.playerlike_renderer.
+# Experiment: RCT-style NPC rendering for EMF/ETF player animation packs. Restart client after changing.
+playerlike_renderer = true
+
+
+# Config value: greetings.
+[greetings]
+# Config value: greetings.radius.
+radius = 5.0
+# Config value: greetings.cooldown_seconds.
+cooldown_seconds = 60
+# Config value: greetings.balloon_duration_seconds.
+balloon_duration_seconds = 5
+
+# Config value: llm.
+[llm]
+# Config value: llm.enabled.
+enabled = true
+# Config value: llm.active_preset.
+active_preset = "current"
+# Config value: llm.provider.
+provider = "openai_compatible"
+# Config value: llm.base_url.
+base_url = "https://api.deepseek.com"
+# Config value: llm.model.
+model = "deepseek-v4-flash"
+# Config value: llm.api_key.
+api_key = "sk-92cde0c73a624e85be5a7a5796bd38d2"
+# Config value: llm.presets.
+presets = [
+  { name = "current", provider = "openai_compatible", base_url = "https://api.deepseek.com", model = "deepseek-v4-flash", api_key = "sk-92cde0c73a624e85be5a7a5796bd38d2" },
+  { name = "gemini-3-flash", provider = "gemini", base_url = "https://generativelanguage.googleapis.com", model = "gemini-3-flash-preview", api_key = "AIzaSyCY2orGk88uA958rrcfOAif5daFRXb8uHY" },
+  { name = "gemini-3.1-flash-lite", provider = "gemini", base_url = "https://generativelanguage.googleapis.com", model = "gemini-3.1-flash-lite", api_key = "AIzaSyCY2orGk88uA958rrcfOAif5daFRXb8uHY" },
+]
+# Config value: llm.cooldown_seconds.
+cooldown_seconds = 4
+# Config value: llm.max_reply_chars.
+max_reply_chars = 280
+# Config value: llm.max_recent_turns.
+max_recent_turns = 30
+# Config value: llm.request_timeout_seconds.
+request_timeout_seconds = 20
+# Config value: llm.rate_limited_message.
+rate_limited_message = "Give me a second to gather my thoughts."
+# Config value: llm.error_message.
+error_message = "Sorry, my thoughts wandered for a second. What were we talking about?"
+# Config value: llm.fallback_message.
+fallback_message = "Sorry, my thoughts wandered for a second. What were we talking about?"
+# Config value: llm.llm_streaming.
+llm_streaming = true
+
+# Config value: llm_message_usage.
+[llm_message_usage]
+# Config value: llm_message_usage.interact.
+interact = true
+# Config value: llm_message_usage.gift.
+gift = true
+# Config value: llm_message_usage.hurt.
+hurt = false
+# Config value: llm_message_usage.wake.
+wake = true
+# Config value: llm_message_usage.greeting.
+greeting = false
+# Config value: llm_message_usage.first_daily_chat.
+first_daily_chat = true
+# Config value: llm_message_usage.shop.
+shop = true
+# Config value: llm_message_usage.shop_single.
+shop_single = false
+# Config value: llm_message_usage.shop_normal.
+shop_normal = false
+# Config value: llm_message_usage.shop_bulk.
+shop_bulk = false
+# Config value: llm_message_usage.camper_needs_house.
+camper_needs_house = true
+# Config value: llm_message_usage.camper_lost_house.
+camper_lost_house = true
+# Config value: llm_message_usage.assigned_house.
+assigned_house = true
+# Config value: llm_message_usage.work_application.
+work_application = true
+# Config value: llm_message_usage.work_manage.
+work_manage = true
+# Config value: llm_message_usage.work_move.
+work_move = true
+# Config value: llm_message_usage.work_fire.
+work_fire = true
+# Config value: llm_message_usage.assigned_workplace.
+assigned_workplace = true
+# Config value: llm_message_usage.work_missing_blocks.
+work_missing_blocks = true
+# Config value: llm_message_usage.class_training.
+class_training = true
+
+# Config value: campers.
+[campers]
+# Config value: campers.cooldown_min_hours.
+cooldown_min_hours = 24
+# Config value: campers.cooldown_max_hours.
+cooldown_max_hours = 48
+# Config value: campers.needs_house_llm_prompt.
+needs_house_llm_prompt = "The player found you waiting at camp without a home. Ask for a bed or small house and mention the rent contract."
+# Config value: campers.lost_house_llm_prompt.
+lost_house_llm_prompt = "Your assigned bed or home was removed. Tell the player you lost your bed and need a new one."
+# Config value: campers.assigned_house_llm_prompt.
+assigned_house_llm_prompt = "The player assigned you a bed as your new home. Thank them warmly, say you will settle in, and keep it to 1-2 short sentences."
+
+# Config value: work.
+[work]
+# Config value: work.application_llm_prompt.
+application_llm_prompt = "The player asked you to start working, but you do not have a workplace yet. You just gave them a job application. Tell them to right-click the block you should work around. Keep it warm and short."
+# Config value: work.manage_llm_prompt.
+manage_llm_prompt = "The player opened your workplace options. Your current workplace is {workplace}. Ask if they want to move your workplace or fire you from this post. Keep it in character and short."
+# Config value: work.move_llm_prompt.
+move_llm_prompt = "The player wants to move your workplace. You just gave them a new job application. Tell them to use it on the new work block. Keep it practical and in character."
+# Config value: work.fire_llm_prompt.
+fire_llm_prompt = "The player fired you from your workplace. React in character as unemployed for now, with a little personality, but do not guilt trip them. Keep it to 1-2 short sentences."
+# Config value: work.assigned_workplace_llm_prompt.
+assigned_workplace_llm_prompt = "The player assigned this block as your workplace. Thank them and say you will work around it. Keep it lively, in character, and short."
+# Config value: work.missing_work_blocks_llm_prompt.
+missing_work_blocks_llm_prompt = "The player tried to use your workplace, but required work blocks are missing nearby. Missing: {missing}. Full requirement: {requirements}. Workplace: {workplace}. Action: {action}. Reply in character and tell them what to add before you can work."
+
+# Config value: training.
+[training]
+# Config value: training.success_message.
+success_message = "Training complete. You learned {class}."
+# Config value: training.already_known_message.
+already_known_message = "You already know {class}. Keep training what you have learned."
+# Config value: training.workplace_required_message.
+workplace_required_message = "Set up my workplace first, then we can train {class}."
+# Config value: training.failed_message.
+failed_message = "You are not ready for {class} training yet."
+# Config value: training.unknown_class_message.
+unknown_class_message = "I cannot teach that class right now."
+# Config value: training.change_offer_message.
+change_offer_message = "You do not have a free {classification} license for {class}. You can pay {cost} chowcoins to replace one instead."
+# Config value: training.change_select_message.
+change_select_message = "Choose which {classification} class to replace with {class}."
+# Config value: training.change_success_message.
+change_success_message = "Job change complete. You are now {class}."
+# Config value: training.change_failed_funds_message.
+change_failed_funds_message = "You need {cost} chowcoins to change into {class}."
+# Config value: training.change_invalid_message.
+change_invalid_message = "That job change is no longer available."
+# Config value: training.change_lost_upgrades_warning.
+change_lost_upgrades_warning = "Warning: replacing this class will remove {lost_classes}."
+# Config value: training.workplace_required_llm_prompt.
+workplace_required_llm_prompt = "The player asked {npc} for {class} class training, but {npc} has no assigned workplace yet. Tell the player they need to use Work first and set up the NPC workplace before training can happen."
+# Config value: training.failed_llm_prompt.
+failed_llm_prompt = "The player asked {npc} for {class} class training but cannot train yet. Failed conditions: {conditions}. Player overall level: {overall_level}. Reply as {npc}, in character, and tell the player exactly what they still need."
+# Config value: training.change_offer_llm_prompt.
+change_offer_llm_prompt = "A paid class-change offer is available. The player can press CHANGE, choose one owned {classification} class to replace from: {change_options}, and pay {cost} chowcoins. Reply as {npc}: make {class} sound exciting and worth it, lightly tease the replaceable classes with playful rivalry, but do not insult the player or sound mean."
+# Config value: training.success_llm_prompt.
+success_llm_prompt = "The player completed {class} class training with {npc}. Reply as {npc} with a short in-character congratulations."
+
+# Config value: npc_interactions.
+[npc_interactions]
+# Config value: npc_interactions.enabled.
+enabled = true
+# Config value: npc_interactions.radius.
+radius = 16.0
+# Config value: npc_interactions.duration_seconds.
+duration_seconds = 12
+# Config value: npc_interactions.cooldown_min_hours.
+cooldown_min_hours = 2
+# Config value: npc_interactions.cooldown_max_hours.
+cooldown_max_hours = 4
+# Config value: npc_interactions.balloon_refresh_seconds.
+balloon_refresh_seconds = 6
+# Config value: npc_interactions.messages.
+messages = ["Talking with {other}...", "Catching up with {other}.", "Comparing notes with {other}.", "Small town meeting with {other}."]

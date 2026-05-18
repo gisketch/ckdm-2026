@@ -1,126 +1,20 @@
-{
-  "id": "botanist",
-  "display_name": "Botanist",
-  "icon": "textures/gui/jobs/botanist.png",
-  "description": "Reads leaf, vine, and bloom signs to work with Grass Pokemon.",
-  "perks": [
-    {
-      "type": "cobblemon_catch_rate",
-      "pokemon_type": "grass",
-      "multiplier": 1.05,
-      "bonus_percent_by_level": [],
-      "weapon_tags": [],
-      "armor_tags": [],
-      "weapon_patterns": [],
-      "weapon_exclude_patterns": [],
-      "armor_patterns": [],
-      "armor_exclude_patterns": [],
-      "wrong_weapon_damage_multiplier": 1.0,
-      "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
-      "wrong_armor_disables_sprint": false,
-      "starting_items": [],
-      "reward_pool": []
-    },
-    {
-      "type": "mount_speed",
-      "pokemon_type": "grass",
-      "multiplier": 1.0,
-      "bonus_percent_by_level": [],
-      "weapon_tags": [],
-      "armor_tags": [],
-      "weapon_patterns": [],
-      "weapon_exclude_patterns": [],
-      "armor_patterns": [],
-      "armor_exclude_patterns": [],
-      "wrong_weapon_damage_multiplier": 1.0,
-      "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
-      "wrong_armor_disables_sprint": false,
-      "starting_items": [],
-      "reward_pool": []
-    },
-    {
-      "type": "crop_bonus_drop_chance",
-      "multiplier": 1.0,
-      "bonus_percent_by_level": [
-        0.02,
-        0.04,
-        0.06,
-        0.08,
-        0.1
-      ],
-      "weapon_tags": [],
-      "armor_tags": [],
-      "weapon_patterns": [],
-      "weapon_exclude_patterns": [],
-      "armor_patterns": [],
-      "armor_exclude_patterns": [],
-      "wrong_weapon_damage_multiplier": 1.0,
-      "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
-      "wrong_armor_disables_sprint": false,
-      "starting_items": [],
-      "reward_pool": []
-    },
-    {
-      "type": "quality_harvest_upgrade_chance",
-      "multiplier": 1.0,
-      "bonus_percent_by_level": [
-        0.02,
-        0.04,
-        0.06,
-        0.08,
-        0.1
-      ],
-      "weapon_tags": [],
-      "armor_tags": [],
-      "weapon_patterns": [],
-      "weapon_exclude_patterns": [],
-      "armor_patterns": [],
-      "armor_exclude_patterns": [],
-      "wrong_weapon_damage_multiplier": 1.0,
-      "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
-      "wrong_armor_disables_sprint": false,
-      "starting_items": [],
-      "reward_pool": []
-    },
-    {
-      "type": "gentle_steps",
-      "multiplier": 1.0,
-      "bonus_percent_by_level": [],
-      "weapon_tags": [],
-      "armor_tags": [],
-      "weapon_patterns": [],
-      "weapon_exclude_patterns": [],
-      "armor_patterns": [],
-      "armor_exclude_patterns": [],
-      "wrong_weapon_damage_multiplier": 1.0,
-      "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
-      "wrong_armor_disables_sprint": false,
-      "starting_items": [],
-      "reward_pool": []
-    },
-    {
-      "type": "seasonal_farmer",
-      "multiplier": 1.0,
-      "bonus_percent_by_level": [
-        0.1
-      ],
-      "weapon_tags": [],
-      "armor_tags": [],
-      "weapon_patterns": [],
-      "weapon_exclude_patterns": [],
-      "armor_patterns": [],
-      "armor_exclude_patterns": [],
-      "wrong_weapon_damage_multiplier": 1.0,
-      "wrong_weapon_cooldown_ticks": 0,
-      "wrong_weapon_attack_speed_multiplier": 1.0,
-      "wrong_armor_disables_sprint": false,
-      "starting_items": [],
-      "reward_pool": []
-    }
-  ]
-}
+# Chow Kingdom config: botanist.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "botanist"
+# Config value: display_name.
+display_name = "Botanist"
+# Config value: icon.
+icon = "textures/gui/jobs/botanist.png"
+# Config value: description.
+description = "Works soil, seasons, and living routes to find Grass Pokemon and improve harvests. Best for players who like farming, gentle utility, and steady growth."
+preview_items = ["minecraft:wheat_seeds", "minecraft:grass_block"]
+# Config value: perks.
+perks = [
+  { type = "cobblemon_catch_rate", pokemon_type = "grass" },
+  { type = "mount_speed", pokemon_type = "grass" },
+  { type = "crop_bonus_drop_chance", bonus_percent_by_level = [0.02, 0.04, 0.06, 0.08, 0.10] },
+  { type = "quality_harvest_upgrade_chance", bonus_percent_by_level = [0.02, 0.04, 0.06, 0.08, 0.10] },
+  { type = "gentle_steps" },
+  { type = "seasonal_farmer", bonus_percent_by_level = [0.10] },
+]

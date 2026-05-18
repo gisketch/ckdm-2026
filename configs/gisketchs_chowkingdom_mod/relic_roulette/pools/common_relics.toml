@@ -1,12 +1,13 @@
-# Chow Kingdom config: common_relics.toml. Edit while the game is stopped, then run reload commands or restart.
-
-# Config value: id.
-id = "common_relics"
-# Config value: display_name.
-display_name = "Common Relic"
-# Config value: ticket.
-ticket = "gisketchs_chowkingdom_mod:common_relic_token"
-# Config value: rarity.
-rarity = "common"
-# Config value: pool.
-pool = ["minecraft:iron_ingot", "minecraft:copper_ingot", "minecraft:amethyst_shard", "minecraft:emerald", "minecraft:lapis_lazuli"]
+{
+  "id": "common_relics",
+  "display_name": "Common Relic",
+  "ticket": "gisketchs_chowkingdom_mod:common_relic_token",
+  "rarity": "common",
+  "pool": [
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:amethyst_shard",
+    "minecraft:emerald",
+    "minecraft:lapis_lazuli"
+  ]
+}

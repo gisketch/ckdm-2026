@@ -1,7 +1,16 @@
 # Chow Kingdom config: pending.toml. Edit while the game is stopped, then run reload commands or restart.
 
 # Config value: known_players.
-known_players = ["8623c364-8a64-3173-8314-edce00d91b35"]
+known_players = ["380df991-f603-344c-a090-369bad2a924a", "8623c364-8a64-3173-8314-edce00d91b35"]
 
 # Config value: pending.
 [pending]
+# Config value: pending.380df991-f603-344c-a090-369bad2a924a.
+380df991-f603-344c-a090-369bad2a924a = [
+  { icon_kind = "item", icon = "gisketchs_chowkingdom_mod:shipping_bin", title = "TOP SHIPPING SELLER", content = "ghegi sold 16 items for 80 chowcoins", type = "success", sound = "minecraft:entity.experience_orb.pickup" },
+  { icon_kind = "item", icon = "gisketchs_chowkingdom_mod:shipping_bin", title = "TOP SHIPPING SELLER", content = "ghegi sold 9 items for 45 chowcoins", type = "success", sound = "minecraft:entity.experience_orb.pickup" },
+  { icon_kind = "item", icon = "gisketchs_chowkingdom_mod:shipping_bin", title = "TOP SHIPPING SELLER", content = "ghegi sold 8 items for 40 chowcoins", type = "success", sound = "minecraft:entity.experience_orb.pickup" },
+  { icon_kind = "item", icon = "gisketchs_chowkingdom_mod:shipping_bin", title = "TOP SHIPPING SELLER", content = "ghegi sold 8 items for 40 chowcoins", type = "success", sound = "minecraft:entity.experience_orb.pickup" },
+  { icon_kind = "item", icon = "gisketchs_chowkingdom_mod:shipping_bin", title = "TOP SHIPPING SELLER", content = "ghegi sold 16 items for 80 chowcoins", type = "success", sound = "minecraft:entity.experience_orb.pickup" },
+  { icon_kind = "item", icon = "minecraft:diamond_sword", title = "FINN BOSS CONTRACT", content = "Coniunctivius unlocked.", type = "success", sound = "minecraft:entity.player.levelup" },
+]

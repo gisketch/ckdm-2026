@@ -20,17 +20,15 @@
     }
   ],
   "progression": [
+{
+  "xp": 100,
+  "rewards": [
     {
-      "xp": 100,
-      "rewards": [
-        {
-          "type": "item",
-          "item": "minecraft:iron_ingot",
-          "quantity": 16
-        }
-      ]
-    },
-    {
+      "type": "chowcoin",
+      "quantity": 250
+    }
+  ]
+},    {
       "xp": 200,
       "rewards": [
         {
