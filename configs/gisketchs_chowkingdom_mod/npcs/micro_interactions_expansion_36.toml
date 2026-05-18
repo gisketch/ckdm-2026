@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_36_001"
+topic = "trail_blazing"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The undergrowth ahead is thick. Do we continue marking or loop back?"
+response = "Mark the pass. A clear trail today means swift patrols tomorrow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_002"
+topic = "ranger_marks"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "I spotted faded ranger sigils on a twisted root west of here."
+response = "Renew them. Those marks guide gatherers through fog season."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_003"
+topic = "safe_gathering"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Berry thickets this deep are risky. Should we post a schedule?"
+response = "Post at dawn and dusk only. Midday patrols keep the path safe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_004"
+topic = "root_barrier"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "A fallen oak root wall blocks the old logging trail."
+response = "Work around it. Disturbing deep roots wakes forest spirits."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_005"
+topic = "moss_scout"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Luminous moss near the creek bend might mark a cave."
+response = "Mark it but do not enter. I will send a torch scout later."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_006"
+topic = "brush_clearance"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Bramble growth swallowed the south switchback again."
+response = "Cut a narrow lane. Leave thorns on the outer edge as defense."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_007"
+topic = "path_ward"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Shall I set warding stakes along the hunter trail tonight?"
+response = "Yes, and tie white cords. The light mages will charge them."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_008"
+topic = "canopy_watch"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "I can build a platform in the old elm for canopy watch."
+response = "Use only dead limbs. Living branches must stay for the dryads."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_009"
+topic = "flora_sample"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Found iridescent petals near the moss ring. For the researcher?"
+response = "Press them dry. Bubblegum will want them for cobblemon forage tests."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_010"
+topic = "sap_marker"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The sap blaze on the old pine has faded past recognition."
+response = "Reapply silver sap. Make it visible from the trade loop."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_011"
+topic = "stream_ford"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The stream ford shifted after the storm. Stones are loose."
+response = "Flag the new crossing. Wet boots slow a patrol too much."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_012"
+topic = "arrow_cache"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Shall I stash fletching supplies in the hollow stump?"
+response = "Oilcloth wrap only. Damp shafts ruin a quiver in days."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_013"
+topic = "quiet_approach"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Rustling in the hazel thicket. Deer or something bolder?"
+response = "Wait and listen. A drawn bow announces trouble faster than help."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_014"
+topic = "root_vault"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Old root cellar half-buried under ivy. Any use to the town?"
+response = "Map it for dry storage. Mushroom folk avoid stone-capped holes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_015"
+topic = "trail_split"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The path forks at the bent beech. Left leads to skyland stairs."
+response = "Carve a skyland glyph on the beech. Gatherers need the clue."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_016"
+topic = "poison_ivy"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Three-leaf vine spread across the watering hollow."
+response = "Hang a red ribbon upwind. No one fills flasks there today."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_017"
+topic = "night_mark"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Should we carve glow-marks for the nocturnal patrol?"
+response = "Marceline uses sound, but carve one per league for others."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_018"
+topic = "acorn_crop"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "White oak gave a heavy acorn crop this side of the ridge."
+response = "Spread the word at the seed shop. Winter stock starts now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_019"
+topic = "spider_silk"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Anchor silk strands between the standing stones. Still fresh."
+response = "Do not cut them. Weaver spiders eat pests along the path."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_020"
+topic = "windfall_hide"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Storm-felled birch crossed the east game trail."
+response = "Leave the crown for cover. Cut a crawl-through only."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_021"
+topic = "ember_patrol"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Should dry-season patrols carry a smother sack each?"
+response = "Yes, and report scorch marks to the fire wizard at once."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_022"
+topic = "mist_pocket"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "A cold mist pocket sits in the hollow past sunset."
+response = "Katara said it pulls from the skyland falls. Avoid it then."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_023"
+topic = "burrow_watch"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Fresh digging under the hornbeam roots. Badger clan?"
+response = "Likely. Mark it friendly unless claw marks appear."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_024"
+topic = "vantage_ridge"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The bald ridge gives three leagues of sight. Post a horn?"
+response = "Horn and mirror. Light flash carries faster than sound there."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_025"
+topic = "fungus_ring"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "A full circle of shelf fungus on the old sentinel oak."
+response = "Good omen. Rangers used to call that a dry year promise."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_026"
+topic = "bark_lesson"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Can you read the bark peel on the north cedar?"
+response = "Elk rub from last rut. No danger, but teach the juniors."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_027"
+topic = "resin_torch"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Pine resin seep near the switchback. Harvest for torches?"
+response = "Half now, half sealed. The forest needs some for its wounds."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_028"
+topic = "vole_trail"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Vole tunnels riddled the grassy saddle. Hole risk for carts."
+response = "Flag the perimeter. Foot traffic only until we fill them."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_029"
+topic = "bridge_moss"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The plank bridge over the ravine is slick with moss."
+response = "Scrape it before the midday gatherer shift crosses."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_030"
+topic = "shadow_fall"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Long shadows from the skylands darken the path by noon."
+response = "Adjust patrol hours. Twilight creatures stir earlier here."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_031"
+topic = "clay_seam"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Blue clay seam exposed in the stream bank erosion."
+response = "Take a sample to the earth wizard. Good clay seals pots."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_032"
+topic = "herb_timing"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Silverleaf clusters ready for harvest by the stone bridge."
+response = "Tell the healers. They prefer plucking before noon dew."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_033"
+topic = "quiet_swing"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The rope swing over the pool snapped its main hitch."
+response = "Knot it anew with double bowline. Children use that path."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_034"
+topic = "frost_crack"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Frost crack split the big maple beside the feeder trail."
+response = "Sound it for hollowness. A dead trunk topples in wind."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_035"
+topic = "lichen_guide"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The grey lichen grows thickest facing the trade road."
+response = "True north sign for wanderers. Keep it, teach the pattern."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_036"
+topic = "firebreak"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Shall we rake a thin firebreak along the southern cut?"
+response = "Two spans wide. Call Aang if the wind shifts during work."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_037"
+topic = "hazel_stakes"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Hazel coppice ready for cutting. Good stake wood."
+response = "Cut a bundle for the stockade fence. Leave the stool alive."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_038"
+topic = "corvid_alert"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Crows mobbing something in the far glade. Investigate?"
+response = "Note the spot. Double back with a partner at next bell."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_039"
+topic = "root_ladder"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The exposed root ladder up the bank is crumbling."
+response = "Weave fresh willow withes. That bank serves the long loop."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_040"
+topic = "pollen_drift"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Golden pollen drifting from the skyland blossom isles."
+response = "Cover your mouth. Sweet, but a whole cloud chokes a scout."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_041"
+topic = "wolf_scat"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Wolf scat on the path, still warm. Pack might be near."
+response = "Bang a stick on rocks. Noise keeps them clear of gatherers."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_042"
+topic = "crystal_nodule"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Quartz nodule poking from the clay bank. Cobblemon lure?"
+response = "Pocket it for the pokemon shop. They test resonance."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_043"
+topic = "rain_shelter"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The lean-to behind the boulder caved in its roof."
+response = "Reset the canvas. Sudden rain hits this ridge first."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_044"
+topic = "bloom_alert"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Night-blooming cereus buds on the rocky outcrop."
+response = "Tell the bard Venti. He writes verses for rare blooms."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_045"
+topic = "soft_ground"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The peat patch south of the beaver meadow is soft."
+response = "Lay plank stepping stones. A mired gatherer loses a day."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_046"
+topic = "bee_tree"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Wild hive in the hollow linden. Safe to approach today."
+response = "Tag it for the honey gatherer, not the woodcutter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_047"
+topic = "serpent_stone"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The old serpent stone at the crossroads toppled."
+response = "Hoist it back. It marks the safe night path for travellers."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_048"
+topic = "dew_trap"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "Leaf dew traps along the ridge collect enough to share."
+response = "Stow a spare flask behind the signpost for the thirsty."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_049"
+topic = "fox_den"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "A fox den occupies the old badger set near the cairn."
+response = "Leave a wide berth. Foxes eat voles that strip bark."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_36_050"
+topic = "cairn_check"
+source_tags = ["town", "archer"]
+target_tags = ["town", "mentor"]
+line = "The guide cairn at the forest edge lost two stones."
+response = "Restack it true. Every path starts with a solid marker."
+weight = 1.0

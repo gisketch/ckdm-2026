@@ -1,0 +1,150 @@
+id = "link"
+name = "Link"
+title = "Hero Of Hyrule"
+skin = "gisketchs_chowkingdom_mod:npc/link"
+body_type = "normal"
+body_model = "boy"
+fg_bust_size = 0.6
+fg_bounce = 0.333
+fg_floppy = 0.75
+height = 1.08
+weight = 1.05
+main_pokemon = "cobblemon:lucario"
+store = ""
+class = "warrior"
+hurt_messages = ["Tch... that stung.", "I've had worse.", "Keep going.", "Don't stop now.", "Not done yet.", "I'll hold them off.", "Is that all?", "Stay focused."]
+wake_messages = ["Rise and shine. Weapons ready.", "Time to move.", "Hyrule isn't waiting.", "Another day. Another lesson.", "Let's go.", "You're awake. Good.", "Daylight. Let's train.", "Up. There's work to do."]
+npc_interaction_messages = ["{other} stands firm, a true warrior of the sky.", "{other} carries the weight of a saved kingdom with grace.", "The mentor nods at {other}, seeing a worthy successor."]
+interaction_tags = ["sword_technique", "skyland_survival", "warrior_mentor", "tears_of_the_kingdom"]
+work_blocks = [
+  { id = "minecraft:barrel", count = 3, display_name = "supply barrels" },
+  { id = "minecraft:grindstone", count = 1, display_name = "grindstone" },
+  { id = "minecraft:smithing_table", count = 1, display_name = "smithing table" },
+  { id = "minecraft:campfire", count = 1, display_name = "cooking fire" },
+  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+]
+
+[boss]
+enabled = true
+health = 95.0
+damage = 5.0
+template = "sword_user"
+main_hand = "minecraft:diamond_sword"
+off_hand = "minecraft:shield"
+
+[boss.balloons]
+chase = ["You're fast. I'm faster.", "No rest. Keep moving.", "Don't stop. They won't.", "Stay sharp. I'm behind you.", "Cover the flank. Move.", "Watch your footing. Go.", "Don't look back. Push.", "Keep pace. Breathe later."]
+attack = ["Strike true. One breath.", "Open now. Hit hard.", "Their guard drops. Go.", "Now. Don't hesitate.", "I see the opening. Take it.", "Together. On my signal.", "Commit. No second chance.", "Fast and clean. Move."]
+recovery = ["Breathe. We hold here.", "Shield up. Catch your wind.", "Safe ground. Rest a moment.", "Fix your stance. Slow pulse.", "Check your gear. Then we go.", "You're alive. That's enough.", "Patch up. I've got watch.", "Hear the silence? Good."]
+taunt = ["You call that a stance?", "Sky above, fool below.", "I've fought worse than you.", "That blade is a toy.", "You're not even trying.", "Is that all you've got?", "Show me real steel.", "Bokoblins hit harder."]
+guard_react = ["Block. Now. Again.", "That stung. Stay tight.", "Shield high. Their angle's low.", "Good parry. Now follow up.", "They're testing your guard.", "Don't freeze. Move with impact.", "Hold firm. I've got the side.", "You flinched. Don't next time."]
+parry = ["Perfect. Now punish.", "Caught it. Follow through.", "Clang. They're off balance.", "That's the timing. Again.", "You read it. Good instincts.", "Sword meets steel. Yours won.", "Now break their rhythm.", "That's how a battle flows."]
+hit_player = ["Good hit. Keep pressure.", "That landed. Feel it?", "Solid strike. Don't stop.", "You drew blood. Now finish.", "Nice. They're staggered.", "Keep the chain going.", "That one hurt them. Good.", "Follow that hit. Now."]
+took_damage = ["Tch. Got me. Focus.", "That was my fault. Adjust.", "Stinging but fine. Move.", "They're faster than I thought.", "Don't mind me. Hold line.", "Flanking. Watch your back.", "A scratch. I'm still up.", "Rally. I need a moment."]
+victory = ["Hah. Clean fight.", "That's done. Breathe easy.", "We earned this rest.", "Good work. Stay humble.", "Another day. You held.", "Quiet now. Let wind speak.", "Victory tastes like fresh air.", "Now we patch up and prep."]
+defeat = ["I've fallen before. Get up.", "Not today. We'll rise again.", "Learn from this. Tomorrow.", "That sting will teach you.", "Down but not broken.", "Gather yourself. We retreat.", "They got lucky. We adapt.", "Failure is a lesson. Move."]
+
+[job_definition]
+scan_interval_ticks = 60
+roam_radius = 8
+work_scan_radius = 10
+
+[schedule]
+activities = [
+  { from_hour = 5, to_hour = 8, activity = "home" },
+  { from_hour = 8, to_hour = 14, activity = "work" },
+  { from_hour = 14, to_hour = 16, activity = "home" },
+  { from_hour = 16, to_hour = 20, activity = "meetup" },
+  { from_hour = 20, to_hour = 22, activity = "work" },
+  { from_hour = 22, to_hour = 5, activity = "sleep" },
+]
+
+[personality]
+llm_prompt = "You are Link, the Hero of Hyrule from Tears of the Kingdom after saving Zelda. You are a quiet veteran warrior who has survived the sky islands, the Depths, corrupted monsters, and the long effort to restore Zelda from the Light Dragon. You now mentor CKDM Warriors in practical courage: stance, stamina, shield timing, cooking, building, gliding, and protecting others from the front line. You speak plainly and practically, often in short lines, but you are not fully mute. You never claim to know exact player quest progress, hidden inventory, real-world regions, future story events, or modern slang. Keep replies terse, protective, grounded, and lore-faithful."
+traits = ["quiet", "practical", "protective", "battle-hardened", "resourceful", "loyal", "patient", "observant"]
+speech_style = "laconic warrior, tactical survival advice, short direct lines, quiet emotional weight"
+catchphrases = ["Stay sharp.", "One step at a time.", "Hyrule taught me that.", "Keep your feet planted.", "The sky is not the limit.", "Trust your instincts.", "Watch your surroundings.", "Courage is a choice."]
+
+[housing]
+can_move_in = true
+requires_bed = true
+
+[voice]
+animalese_pitch = "low"
+pitch = 0.82
+volume = 0.34
+radius = 11.0
+
+[chat]
+enabled = true
+call_names = ["link", "hero", "hero of hyrule", "warrior mentor"]
+minecraft_chat = true
+discord_chat = true
+
+[gifts]
+loved = ["minecraft:iron_sword", "minecraft:shield", "minecraft:cooked_beef", "minecraft:golden_apple"]
+liked = ["minecraft:leather", "minecraft:feather", "minecraft:arrow", "minecraft:bone"]
+disliked = ["minecraft:rotten_flesh", "minecraft:spider_eye", "minecraft:poisonous_potato"]
+daily_limit = 1
+reset_hour = 5
+llm_sentiment_prompt = "The player gave you {item}. Link judges gifts by usefulness in battle, survival, cooking, or repair. Decide loved, liked, neutral, or disliked. Reply as JSON only: {\"message\":\"short terse in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+[gifts.reactions]
+loved = ["You nod once, grip tightening on the gift. It will serve well.", "A rare, quiet hum of approval. This is a fine offering.", "You meet the giver's eyes briefly. Respect earned.", "You hold the item up to the light, then secure it on your belt. No words needed."]
+liked = ["You glance at the item and give a small nod.", "Practical. You pocket it without ceremony.", "A faint twitch at the corner of your mouth. Appreciated but not dwelled on.", "You mutter 'Thanks' and immediately look at the horizon."]
+disliked = ["You frown slightly, then shake your head. Useless.", "You drop it on the ground without a word. Take it back.", "A single flat stare. You turn your back.", "You push the item away gently but firmly. No room for weakness."]
+neutral = ["You accept it silently and stow it away. No reaction.", "You look at the item, then at the giver. A blank expression.", "You shrug one shoulder and pocket it. Ambivalent.", "You give a curt nod, already scanning for threats."]
+
+[gifts.outgoing]
+enabled = true
+radius = 8.0
+min_friendship_level = 5
+rare_friendship_level = 9
+follow_seconds = 10
+offer_messages = ["@gift.png For your journey.", "@gift.png Might need this above the clouds.", "@gift.png Stay sharp.", "@gift.png Useful. Take it."]
+fallback_messages = ["Take {quantity} x {item}. Practical.", "For the road: {quantity} x {item}.", "{quantity} x {item}. Use it well.", "Keep this ready: {quantity} x {item}."]
+llm_enabled = true
+llm_prompt = "You are Link gifting {player} {quantity} x {item}. Reply with one short practical survival or combat line."
+pool = []
+extra_pool = [
+  { item = "minecraft:stick", qty = 8, weight = 2 },
+  { item = "minecraft:string", qty = 6, weight = 2 },
+  { item = "minecraft:flint", qty = 4, weight = 2 },
+]
+rare_pool = []
+extra_rare_pool = [
+  { item = "minecraft:diamond", qty = 1, weight = 1 },
+  { item = "minecraft:shield", qty = 1, weight = 1 },
+]
+
+[friendship_messages]
+
+[friendship_messages.interact]
+neutral = ["Hmm. You need something?", "I don't know you well enough yet.", "Keep training. You'll get there.", "Don't rush into fights.", "I'm busy. What is it?", "Another day, another monster.", "Stick to the basics.", "Watch your stamina."]
+okay = ["You're improving. Not bad.", "Getting comfortable with that sword?", "Remember to parry.", "Sky diving cleared your head?", "Cooking helps. I'll share a recipe sometime.", "Don't underestimate small enemies.", "Your form is a little better today.", "I see potential."]
+good_friends = ["Good to see you, friend.", "You've earned that weapon.", "We make a strong team.", "That last fight? You were sharp.", "Reminds me of old times in Hyrule.", "I trust you in a battle.", "You remind me of someone I trained before.", "Glad you're on our side."]
+best_friends = ["You've become a true warrior.", "I'd follow you anywhere.", "Hyrule's spirit lives in you.", "We've been through a lot together.", "When this is over, let's cook something good.", "You're family now.", "I'd trust you with my life.", "Thank you. For everything."]
+
+[friendship_messages.greeting]
+neutral = ["@quest_log.png You're here. Good.", "@quest_log.png Morning. Ready for work?", "@quest_log.png Link. That's me.", "@quest_log.png Don't loiter. Train."]
+good_friends = ["@quest_log.png Hey. Good timing.", "@quest_log.png Ready for another day?", "@quest_log.png I was hoping you'd come by.", "@quest_log.png Let's head out soon."]
+
+[friendship_messages.first_daily_chat]
+neutral = ["Need something?", "I've got patrol duty. Make it quick.", "Seen any new monsters lately?", "Breakfast? Try hearty simmered fruit.", "Repair your gear before nightfall.", "Don't forget to rest."]
+good_friends = ["You look ready. Good.", "I found a new technique last night. Watch.", "The skylands feel calm today.", "I dreamed of Hyrule fields. Strange.", "Got any good ingredients to cook?", "Let's spar after you're settled."]
+
+[camper_messages]
+needs_house_balloon = ["That balloon needs a solid anchor.", "Tie it down or the wind takes it.", "Check the ropes twice.", "I've seen houses fly off. Secure it well.", "Zonaite devices work. Test them first.", "A firm base keeps the house steady."]
+needs_house_dialog = ["Find materials before you build.", "Wood and stone are scarce. Gather wisely.", "Plan your layout on the ground first.", "I can help lift heavy beams.", "A roof keeps out the elements. Don't skip it.", "You'll need a cooking pot. Non-negotiable."]
+lost_house_balloon = ["If the balloon drifts, follow the wind.", "A loose rope. I've seen it before.", "Anchor it higher next time.", "The balloon's gone. We'll craft another.", "That was a good house. Shame.", "Wind can be fierce here. Learn from it."]
+lost_house_dialog = ["The house is gone. We rebuild.", "Don't dwell on it. Start fresh.", "Gather what's left. Salvage what you can.", "I've lost shelter before. You adapt.", "Foundations can be reused. Check the site.", "Take this rope. You'll need it."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png Link catches your eye and gestures toward the wilds. Monsters.", "@quest_log.png He taps a stone pillar twice. Walk with me. Far.", "@quest_log.png He holds up cooked food, then points at the road.", "@quest_log.png He tosses you a map with a circled route. Go. Return."]
+pool = [
+  { id = "link_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Clear monsters before they reach camp.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Adequate.", "@quest_log.png Good. The road is safer."] },
+  { id = "link_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Travel the roads and learn the land under your boots.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png You covered ground.", "@quest_log.png Good pace. Keep that rhythm."] },
+  { id = "link_fetch_cooked_beef", category = "fetch", event_desc = "Bring {goal} Cooked Beef", quest_text = "Bring cooked beef for patrol rations.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:cooked_beef", fetch_count = 4, complete_messages = ["@quest_log.png Good meat. Patrol can move.", "@quest_log.png Practical. Thanks."] },
+]

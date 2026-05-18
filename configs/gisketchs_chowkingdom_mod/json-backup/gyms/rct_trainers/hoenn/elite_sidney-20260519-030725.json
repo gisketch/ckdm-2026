@@ -1,0 +1,22 @@
+{
+  "name": "Elite Four - Sidney",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:absol",
+      "level": 48,
+      "moveset": [
+        "tackle"
+      ]
+    }
+  ]
+}

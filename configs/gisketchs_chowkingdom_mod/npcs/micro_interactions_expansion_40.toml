@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_40_001"
+topic = "skyland_drifter_path"
+source_tags = ["town", "mentor", "wizard"]
+target_tags = ["town", "wind_wizard"]
+line = "Aang, these old trade maps show roads that bend upward into cloud."
+response = "Sky monks walked those. Now they are just wind trails."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_002"
+topic = "frozen_echo_fragment"
+source_tags = ["town", "mentor", "frost_wizard"]
+target_tags = ["town", "mentor", "water_wizard"]
+line = "Katara, I found a frozen echo in the upper isle glacier."
+response = "Let it rest. Some memories should stay in ice."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_003"
+topic = "stone_song_residue"
+source_tags = ["town", "mentor", "earth_wizard"]
+target_tags = ["town", "bard"]
+line = "Toph, the bedrock under town hums in a strange key."
+response = "That is a root note from before the land split. Write it down, Venti."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_004"
+topic = "sword_scar_mountain"
+source_tags = ["town", "warrior"]
+target_tags = ["town", "zelda"]
+line = "Link, that cut on the north peak is not natural at all."
+response = "I know. A blade of light carved it long before my time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_005"
+topic = "embers_old_road"
+source_tags = ["town", "fire_wizard"]
+target_tags = ["town", "witcher"]
+line = "Geralt, I saw burned cobble under the trail to Ember Isle."
+response = "Old convoy fire. Traders ran that route before the sky shifted."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_006"
+topic = "dragon_memory_dream"
+source_tags = ["town", "zelda"]
+target_tags = ["town", "mentor", "arcane_wizard"]
+line = "Invoker, I still dream of scales catching morning light."
+response = "Light Dragon memories fade slowly. That is a gift."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_007"
+topic = "gnarled_air_root"
+source_tags = ["town", "wind_wizard"]
+target_tags = ["town", "mentor", "earth_wizard"]
+line = "Toph, an air root holds a floating garden on the west rim."
+response = "Good. It anchors the isle. Do not trim it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_008"
+topic = "cobblemon_nest_migration"
+source_tags = ["town", "researcher", "bubblegum"]
+target_tags = ["town", "bounty_hunter"]
+line = "Aloy, the skyland Cobblemon nests suddenly shifted higher."
+response = "They feel an air pressure change. Storm is coming."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_009"
+topic = "moonless_hunt_song"
+source_tags = ["town", "nocturnal", "musician", "marceline"]
+target_tags = ["town", "tundra_archer"]
+line = "Traxex, I sang a hunting chant under the new moon."
+response = "I heard it. The tundra beasts paused to listen."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_010"
+topic = "potion_root_swap"
+source_tags = ["town", "mentor", "witch"]
+target_tags = ["town", "mentor", "wizard"]
+line = "Gandalf, I traded glowroot for a sealed phial from Bubblegum."
+response = "Sealed phials hold concentrated sky dew. Use it sparingly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_011"
+topic = "patrol_sky_gap"
+source_tags = ["town", "archer", "huntress_wizard"]
+target_tags = ["town", "warrior"]
+line = "Finn, the gap between east isles widened overnight."
+response = "Bridgewood snapped. I will check the anchor vines."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_012"
+topic = "shop_seed_request"
+source_tags = ["town", "mentor", "earth_wizard"]
+target_tags = ["store_seed"]
+line = "Do you have skybloom seeds? The north ledge needs cover."
+response = "Fresh batch arrived. Two pouches for you, Toph."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_013"
+topic = "berserker_spar_ring"
+source_tags = ["town", "berserker", "zagraeus"]
+target_tags = ["town", "berserker", "marceline"]
+line = "Swing hard, Marceline. The old spar rings still hold."
+response = "Ha. They were forged for titans. I can tell."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_014"
+topic = "old_bell_tone"
+source_tags = ["town", "priest"]
+target_tags = ["town", "bard"]
+line = "Venti, the chapel bell rings an overtone I cannot name."
+response = "That is the skycall harmonic. Pre-splinter tuning."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_015"
+topic = "vi_force_stance"
+source_tags = ["town", "forcemaster"]
+target_tags = ["town", "paladin"]
+line = "Tarnished, your shield stance leaves your right flank open."
+response = "Show me the forcemaster counter. I will adapt."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_016"
+topic = "link_horn_shard"
+source_tags = ["town", "link"]
+target_tags = ["town", "mentor", "wizard"]
+line = "Gandalf, I found a horn shard that glows when I whistle."
+response = "A Loftwing call relic. Very rare. Keep it safe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_017"
+topic = "cosmetic_dye_quest"
+source_tags = ["town", "mentor", "water_wizard"]
+target_tags = ["store_cosmetics"]
+line = "Shoumai, can you blend a dye that mimics deep sky blue?"
+response = "I have cloudberry essence. Come back at dusk, Katara."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_018"
+topic = "rogue_tunnel_map"
+source_tags = ["town", "rogue"]
+target_tags = ["town", "bounty_hunter"]
+line = "Aloy, there is a smuggler tunnel under the old bell tower."
+response = "Mark it on my slate. I will scout it at first light."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_019"
+topic = "cobblemon_scale_study"
+source_tags = ["town", "researcher", "bubblegum"]
+target_tags = ["town", "frost_wizard"]
+line = "Elsa, a Cobblemon scale resists cold beyond normal limits."
+response = "Fascinating. Could it insulate the frost spire windows."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_020"
+topic = "geralt_patrol_herb"
+source_tags = ["town", "witcher"]
+target_tags = ["store_pokemon"]
+line = "Bubblegum, sell me a bitter herb. My silver sword needs coating."
+response = "Try the wild bittercap behind the shop. Fresh stock."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_021"
+topic = "ciri_shortcut_isle"
+source_tags = ["town", "ciri"]
+target_tags = ["town", "wind_wizard"]
+line = "Aang, I blinked through a gap in the middle isle."
+response = "That rift is thinning again. I will tell the mentors."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_022"
+topic = "legolas_grove_anchor"
+source_tags = ["town", "war_archer"]
+target_tags = ["store_seed"]
+line = "The grove anchor tree lost three branches last night."
+response = "I have ironbark saplings. Plant them at the base."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_023"
+topic = "toph_crystal_vein"
+source_tags = ["town", "earth_wizard"]
+target_tags = ["town", "arcane_wizard"]
+line = "Invoker, there is a crystal vein under the forge that hums."
+response = "Resonant quartz. It amplifies arcane focus. Do not mine it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_024"
+topic = "zuko_night_lantern"
+source_tags = ["town", "fire_wizard"]
+target_tags = ["town", "link"]
+line = "Link, I lit lanterns along the sky bridge. Stay visible."
+response = "Thanks. Gloom weather is rolling in from the east."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_025"
+topic = "huntress_trail_snare"
+source_tags = ["town", "archer", "huntress_wizard"]
+target_tags = ["town", "rogue"]
+line = "Ezio, someone reset my trail snares near the mushroom grove."
+response = "Not me. Could be a curious Stantler. I will check."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_026"
+topic = "marceline_sleep_hollow"
+source_tags = ["town", "nocturnal", "marceline"]
+target_tags = ["town", "priest"]
+line = "Pope Leo, do the old catacombs hold any hollow chimes."
+response = "Only echo chambers. You are welcome to play at dusk."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_027"
+topic = "aloy_slate_signal"
+source_tags = ["town", "bounty_hunter"]
+target_tags = ["town", "tundra_archer"]
+line = "Traxex, my slate picked up an old signal from the south rim."
+response = "Ancient tech pinging. We should investigate together."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_028"
+topic = "finn_broken_guardpost"
+source_tags = ["town", "warrior"]
+target_tags = ["town", "paladin"]
+line = "Tarnished, the guardpost on the far isle collapsed."
+response = "I will rally builders. We fix it before the patrol."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_029"
+topic = "gandalf_star_chart"
+source_tags = ["town", "mentor", "wizard"]
+target_tags = ["town", "bard"]
+line = "Venti, the winter stars shift faster than my charts predict."
+response = "The skylands drift, wise one. We rewrite the songs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_030"
+topic = "zelda_tear_bloom"
+source_tags = ["town", "zelda"]
+target_tags = ["town", "researcher", "bubblegum"]
+line = "Bubblegum, a Silent Princess grew on the shattered spire."
+response = "Incredible. That flower responds to sacred light residue."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_031"
+topic = "vi_punch_rock"
+source_tags = ["town", "forcemaster"]
+target_tags = ["town", "earth_wizard"]
+line = "Toph, I punched a floating rock and it sang for a moment."
+response = "You hit its resonance frequency. Try palm strike next."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_032"
+topic = "venti_string_tension"
+source_tags = ["town", "bard"]
+target_tags = ["store_pokemon"]
+line = "Bubblegum, do Cobblemon silk strings hold tuning longer?"
+response = "Yes. Webspinner silk is best. One coil for you."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_033"
+topic = "tarnished_old_banner"
+source_tags = ["town", "paladin"]
+target_tags = ["town", "wind_wizard"]
+line = "Aang, I found a tattered banner in the west ruins."
+response = "Air Nomad pattern. It belongs in the shrine hall."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_034"
+topic = "frost_mote_collect"
+source_tags = ["town", "frost_wizard"]
+target_tags = ["town", "arcane_wizard"]
+line = "Invoker, I trapped a frost mote that spells old letters."
+response = "Frozen script. Bring it to the scriptorium at once."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_035"
+topic = "cobblemon_dust_use"
+source_tags = ["town", "researcher", "bubblegum"]
+target_tags = ["store_cosmetics"]
+line = "Shoumai, Cobblemon shed dust makes excellent shimmer powder."
+response = "I ll test a batch on the new evening palette."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_036"
+topic = "water_tunnel_flow"
+source_tags = ["town", "water_wizard"]
+target_tags = ["town", "bounty_hunter"]
+line = "Aloy, the under-isle water tunnel reversed direction today."
+response = "Something big moved deep below. I will mark it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_037"
+topic = "ciri_elder_runes"
+source_tags = ["town", "ciri"]
+target_tags = ["town", "mentor", "wizard"]
+line = "Gandalf, the spire gate has runes I only half recognize."
+response = "Elder script from before the splinter. I will translate."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_038"
+topic = "link_mount_feather"
+source_tags = ["town", "link"]
+target_tags = ["town", "legolas"]
+line = "Legolas, I found a giant feather near the loftwing perch."
+response = "A young loftwing molted. It will fly soon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_039"
+topic = "legolas_eagle_sight"
+source_tags = ["town", "war_archer"]
+target_tags = ["town", "tundra_archer"]
+line = "Traxex, I saw smoke on the far south isle at dawn."
+response = "Someone lit a signal fire. We report to the others."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_040"
+topic = "zagreus_hearth_tale"
+source_tags = ["town", "berserker", "zagreus"]
+target_tags = ["town", "fire_wizard"]
+line = "Zuko, the hearth fire danced oddly when you sparred nearby."
+response = "Fire responds to passion. Your blade carries a lot."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_041"
+topic = "geralt_oil_brew"
+source_tags = ["town", "witcher"]
+target_tags = ["town", "mentor", "witch"]
+line = "Ciri, I need specter oil. The dusk patrol crossed a wraith."
+response = "I have moonwort and quicksilver. Let us brew it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_042"
+topic = "shoumai_mirror_trade"
+source_tags = ["store_cosmetics"]
+target_tags = ["store_explorer"]
+line = "Do you have polished obsidian mirrors in stock today?"
+response = "Just one left. It shows a faint second reflection."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_043"
+topic = "tundra_scout_report"
+source_tags = ["town", "tundra_archer"]
+target_tags = ["town", "warrior"]
+line = "Finn, the tundra herd moved off the trail before dawn."
+response = "They sense a predator. I will sharpen my blade."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_044"
+topic = "invoker_sigil_test"
+source_tags = ["town", "arcane_wizard"]
+target_tags = ["town", "earth_wizard"]
+line = "Toph, can you feel the sigil I carved on the cliff face?"
+response = "Yeah. It pulses like a second heartbeat. Weird."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_045"
+topic = "pope_leo_blessing"
+source_tags = ["town", "priest"]
+target_tags = ["town", "link"]
+line = "Link, the Master Sword hums louder when I bless this hall."
+response = "It remembers sacred ground. Thank you, your Holiness."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_046"
+topic = "bard_lore_fragment"
+source_tags = ["town", "bard"]
+target_tags = ["town", "zelda"]
+line = "Zelda, a half-remembered song mentions a golden tree."
+response = "The Deku Tree of the sky. I have an old sketch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_047"
+topic = "eloquence_potion_swap"
+source_tags = ["town", "mentor", "witch"]
+target_tags = ["store_cosmetics"]
+line = "Shoumai, trade me brightener drops for a calming tincture."
+response = "Deal. Rosewater brightener for your lavender tincture."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_048"
+topic = "cobblemon_dream_log"
+source_tags = ["town", "researcher", "bubblegum"]
+target_tags = ["town", "nocturnal", "marceline"]
+line = "Marceline, do nocturnal Cobblemon dream louder under a full moon?"
+response = "Definitely. I hear their little minds spinning all night."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_049"
+topic = "katara_heal_water"
+source_tags = ["town", "water_wizard"]
+target_tags = ["town", "mentor", "witch"]
+line = "Ciri, my healing water turned silver when I touched the spire."
+response = "Sacred residue. It might mend deeper wounds now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_40_050"
+topic = "east_road_map_share"
+source_tags = ["town", "rogue"]
+target_tags = ["town", "mentor", "arcane_wizard"]
+line = "Invoker, I mapped the old east caravan route through the mist."
+response = "Excellent. Overlay it with the leyline chart tonight."
+weight = 1.0

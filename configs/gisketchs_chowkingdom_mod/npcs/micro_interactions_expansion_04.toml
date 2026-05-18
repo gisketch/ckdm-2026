@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_04_001"
+topic = "rope_bridge_sway"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang the winds howled across the gorge and shook the bridge mid step."
+response = "Walk low and wide stance. Let the gust pass before taking weight off."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_002"
+topic = "falling_debris_alert"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "warrior"]
+line = "Finn a chunk of island edge crumbled right behind me on patrol."
+response = "Always scan the rim before stepping off. Keep shield facing upward."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_003"
+topic = "wind_check_scout"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang the updraft shifts every few minutes. Hard to scout ahead safely."
+response = "Toss a leaf off the edge first. Itll show the current before you leap."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_004"
+topic = "fog_over_summit"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "rogue"]
+line = "Ezio thick fog rolled in and half the summit markers vanished."
+response = "Plant a small chalk mark on stable stone. Moonlight catches it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_005"
+topic = "bridge_knot_reinforce"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph the eastern rope bridge knot looked frayed after the storm."
+response = "Ill pack extra hemp and a stone anchor tomorrow morning."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_006"
+topic = "scout_flare_signal"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "bounty_hunter"]
+line = "Aloy a scout lit a red flare over the lower terrace at dusk."
+response = "Red means unstable ground. Ill bring a grapple and check it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_007"
+topic = "cracked_pillar_spotted"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "arcane_wizard"]
+line = "Invoker the runic pillar on patrol route three has a crack."
+response = "Avoid its echo. I will ward it until repairs are finished."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_008"
+topic = "floating_debris_path"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "archer"]
+line = "Legolas debris floated into the patrol lane after the high tide."
+response = "Mark the drift with a white ribbon. I will clear it by noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_009"
+topic = "thin_air_rest_spot"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara I needed a break halfway up the thin air loop."
+response = "Theres a small spring behind the crag. Rest and fill your skin."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_010"
+topic = "glide_current_test"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "wind_wizard"]
+line = "Aang a scout rode a glide current and landed in a bramble patch."
+response = "Next time follow the swallows. They avoid the thorn pockets."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_011"
+topic = "night_patrol_silence"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "nocturnal", "musician"]
+line = "Marceline the patrol went dead quiet around midnight up there."
+response = "Good. Quiet sky means no shamblers or unstable stone tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_012"
+topic = "scout_rope_swap"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "warrior"]
+line = "Finn my grapple line frayed on the north ledge patrol."
+response = "Swap it with my spare in the gear crate. Retie double bowline."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_013"
+topic = "echo_ledge_mapping"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "earth_wizard"]
+line = "Toph a scout says a new ledge echoed off canyon wall three."
+response = "Likely a breakaway slab. Step light and mark it for survey."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_014"
+topic = "ice_shelf_warning"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa a frozen shelf on the north patrol trail turned brittle."
+response = "Stay off it. I will recrystallize the base before dusk."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_015"
+topic = "patrol_log_sharing"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "paladin"]
+line = "Tarnished recorded three patrol runs but lost the southern log."
+response = "Ill add my route notes to the guild chest at sunrise."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_016"
+topic = "gravel_slide_check"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "rogue"]
+line = "Ezio small gravel slid near the eastern footbridge approach."
+response = "That slope always weeps after rain. Tap the ground twice."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_017"
+topic = "high_summit_view"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "war_archer"]
+line = "Legolas from patrol ridge four I saw torchlight across the rift."
+response = "Probably a trade flag. Ill scan it with the scope at dawn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_018"
+topic = "sunset_wind_shift"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara winds flipped around sunset and chilled the patrol path."
+response = "That shift pulls moisture. Wear the waxed cloak and rope mitts."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_019"
+topic = "new_vine_growth"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "bounty_hunter"]
+line = "Aloy thick vines grew over the anchor post near patrol two."
+response = "Cut only the outer layer. Deep roots hold the cliff face."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_020"
+topic = "cloud_line_advice"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang low cloud line hid the lower patrol route completely."
+response = "Stay above the cloud deck. Below it triggers rockslide pockets."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_021"
+topic = "patrol_snail_sighting"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "pokemon", "researcher"]
+line = "Bubblegum a tiny shelled creature clung to the patrol ledge."
+response = "Might be a new Cobblemon variant. Sketch it before the rain."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_022"
+topic = "falling_icicle_hazard"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa two scouts dodged falling icicles near overhang seven."
+response = "I will coat the overhang with soft frost. It melts silently."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_023"
+topic = "rope_bridge_tension"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph the south bridge hummed different than yesterday."
+response = "Check the anchor wedges. Tension shift warns of a crack."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_024"
+topic = "scout_supply_cache"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "warrior"]
+line = "Finn someone stashed dried fruit in the patrol cairn."
+response = "Leave a thank you token. Trade cairns boost morale on route."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_025"
+topic = "twilight_route_check"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "zelda"]
+line = "Zelda the patrol route felt charged at twilight. Almost divine."
+response = "Light echoes often hum near sky shrines. I sensed no threat."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_026"
+topic = "patrol_lantern_share"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "link"]
+line = "Link my lantern oil ran low before finishing the twilight loop."
+response = "Take mine. I can follow the stars back through the switchback."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_027"
+topic = "scout_shifting_roots"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "tundra_archer"]
+line = "Traxex tree roots shifted near the western patrol staircase."
+response = "Step over them lightly. Ancient roots hold the sky island core."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_028"
+topic = "wind_choir_echo"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "bard"]
+line = "Venti the wind through the stone spires sounded like a choir."
+response = "Ill bring my lyre tomorrow. Music reveals unstable columns."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_029"
+topic = "patrol_medic_herb"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "witcher"]
+line = "Geralt I found a woundwort cluster on the patrol switchback."
+response = "Press it into a poultice. Keeps patrol scrapes from festering."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_030"
+topic = "glide_landing_spot"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang the landing moss on the lower tier looks trampled."
+response = "Redirect next scouts to the fern patch. It cushions better."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_031"
+topic = "scout_torch_holder"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "forcemaster"]
+line = "Vi a torch bracket snapped on darkstone ledge patrol."
+response = "Ill forge a replacement bracket from sky metal scraps tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_032"
+topic = "rain_wash_marker"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara heavy rain washed away three chalk route markers."
+response = "Switch to charcoal mixed with resin. It endures the mist."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_033"
+topic = "patrol_bird_nest"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "archer"]
+line = "Huntress Wizard found a hawk nest near the patrol lookout."
+response = "Leave a small water bowl. Hawks warn of incoming storms."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_034"
+topic = "floatstone_drift"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "arcane_wizard"]
+line = "Invoker a floatstone drifted into the patrol loop near orb glade."
+response = "I will tether it with a ritual cord. Unstable ore reacts."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_035"
+topic = "ledge_scout_note"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "ciri"]
+line = "Ciri a scout left a note about loose shale on ledge nine."
+response = "Add it to the patrol map. I will test the ledge at midday."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_036"
+topic = "hot_spring_marker"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "witcher", "monster_hunter"]
+line = "Geralt sulfur vents opened near the eastern patrol rest spot."
+response = "Good. Vents mean hot springs. Mark it for winter patrol use."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_037"
+topic = "scout_moon_shadow"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "nocturnal", "marceline"]
+line = "Marceline a scout got spooked by moon shadow on the spire."
+response = "My shadow plays tricks but nothing hunts there. I checked."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_038"
+topic = "patrol_canteen_fill"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa the patrol canteen froze on my belt halfway up route six."
+response = "Add a pinch of sky salt. It lowers the freeze point safely."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_039"
+topic = "scout_cloud_vapor"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "water_wizard"]
+line = "Katara strange vapor rose from a fracture on the patrol route."
+response = "Could be a new spring. Lets sample it before the next shift."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_040"
+topic = "bridge_plank_repair"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph two planks on the eastern bridge sound hollow to me."
+response = "We replace them at dawn. Hollow oak snaps under patrol weight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_041"
+topic = "scout_dust_devil"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "rogue"]
+line = "Ezio a small dust devil spun on the dry patrol terrace."
+response = "Stay low and cover your eyes. It carries sharp grit upward."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_042"
+topic = "sundial_ledge_check"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "link", "tears_of_the_kingdom"]
+line = "Link the sundial ledge shadow hit the patrol marker exactly."
+response = "Sky islands still obey time. Good omen for tomorrows route."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_043"
+topic = "scout_night_glow"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "zelda", "light_magic"]
+line = "Zelda a patrol scout saw soft golden glow near the old shrine."
+response = "Light magic lingers. It wont harm anyone on patrol watch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_044"
+topic = "team_patrol_reminder"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "warrior"]
+line = "Finn reminder pair patrol starts at moonrise. Solo is risky."
+response = "Got it. Ill meet you at the ladder with extra rope and lamp."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_045"
+topic = "scout_wind_chime"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "wind_wizard"]
+line = "Aang someone tied a wooden chime to the patrol post."
+response = "Clever. Chimes sing before heavy gusts. Leave it there."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_046"
+topic = "ledge_lichen_warning"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "bounty_hunter"]
+line = "Aloy orange lichen on patrol ledge four means loose handholds."
+response = "We scrape it and paint red stripes on the route map."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_047"
+topic = "storm_arrow_cache"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "tundra_archer"]
+line = "Traxex I stashed storm arrows near the patrol gate for scouts."
+response = "Ill add six more. Ice arrows slow enemies on slick stone."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_048"
+topic = "scout_nest_guardian"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "monster_hunter", "witcher"]
+line = "Geralt a large bird nested near the patrol beacon. Aggressive."
+response = "Leave a fish offering at the foot. It calms sky raptors fast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_049"
+topic = "patrol_end_log"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["mentor", "bard"]
+line = "Venti finished the full sky patrol loop without any incidents."
+response = "Write it in the guild log. Quiet days keep the town smiling."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_04_050"
+topic = "skyland_gust_stability"
+source_tags = ["skyland_lore", "skyland_survival"]
+target_tags = ["town", "mentor", "wind_wizard"]
+line = "Aang, how do you check if a rope bridge can hold after a gale?"
+response = "Toss a leaf into the wind first. If it spirals, wait an hour."
+weight = 1.0

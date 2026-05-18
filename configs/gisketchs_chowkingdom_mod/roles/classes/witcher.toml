@@ -18,6 +18,7 @@ perks = [
 
 [mentor_quest]
 mentor_npc_id = "geralt"
+mentor_npc_ids = ["geralt", "ciri"]
 title = "White Wolf Contract"
 intro_message = "Geralt tests preparation, monster knowledge, and nerve before Witcher unlock."
 unlock_title = "Silver-Signed Hunter"

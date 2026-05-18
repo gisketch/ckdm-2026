@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_32_001"
+topic = "cooking_bread_dough_kneading"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Still find kneading bread by hand calming after all these patrols."
+response = "Pour a little less water next time. Keeps the crumb tighter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_002"
+topic = "cooking_stew_simmer_control"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Every time I think the stew is done it turns to paste."
+response = "Try a sand timer. Two flips for carrots then add potatoes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_003"
+topic = "cooking_trail_ration_shelf_life"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My trail rations always go stale before I reach the third skyland."
+response = "Wrap them in waxed cloth and double the honey measure."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_004"
+topic = "cooking_firewood_selection"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Which wood gives the cleanest burn for a bakery oven?"
+response = "Dried birch bark strips. No smoke no sap no aftertaste."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_005"
+topic = "cooking_tea_blending_ratio"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "I added glow berry steep to my chamomile and it turned bitter."
+response = "Steep glow berry separately then combine after three minutes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_006"
+topic = "cooking_fish_boning_practice"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "I keep missing the fine bones in sky carp fillets."
+response = "Try running the spine ridge with a flat blade backward."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_007"
+topic = "cooking_sourdough_starter_upkeep"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My sourdough starter smells sharp again. Is it ruined?"
+response = "Stir the dark liquid back in. Feed it twice today."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_008"
+topic = "cooking_herb_drying_rack_position"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Dried basil lost all taste after one day under the sun."
+response = "Hang the rack under the alchemy porch instead for shade."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_009"
+topic = "cooking_skillet_temperature_check"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "How do you know when the skillet is hot enough for flatbread?"
+response = "Flick a drop of water. It should bead and roll immediately."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_010"
+topic = "cooking_onion_caramelizing_patience"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "I never get onions as sweet as the ones at the Skyland lunch."
+response = "Lower the flame and stir only every four minutes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_011"
+topic = "cooking_portable_kettle_cleaning"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "My patrol kettle is black inside and now tea tastes metallic."
+response = "Boil one part vinegar two parts water then scrub with ash."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_012"
+topic = "cooking_broth_clarity_method"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My bone broth always goes cloudy halfway through boiling."
+response = "Never let it hit a rolling boil. Gentle simmer only."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_013"
+topic = "cooking_crust_egg_wash_shine"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "What makes bakery loaf tops shine like that?"
+response = "Thin coat of egg yolk mixed with a splash of milk."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_014"
+topic = "cooking_smoked_meat_wood_pick"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My smoked boar slices taste like bitter soot."
+response = "Swap oak for applewood. Never use green branches."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_015"
+topic = "cooking_vegetable_peel_stock_saver"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "You throw peels into the compost too quickly."
+response = "Simmer carrot and onion peels for an hour for extra broth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_016"
+topic = "cooking_baking_stone_position"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My bread bottom burns before the top browns."
+response = "Move the baking stone one shelf lower next batch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_017"
+topic = "cooking_potato_ricer_mash"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Masher leaves lumps. How does the inn get theirs so smooth?"
+response = "They use a potato ricer while still steaming hot."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_018"
+topic = "cooking_spice_blend_kebab"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Patrol kebab spice always falls off into the fire."
+response = "Mix the spice into a little oil first then brush on."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_019"
+topic = "cooking_egg_white_peak_test"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "I whisk forever and never get stiff peaks for meringue."
+response = "Make sure no yolk gets in and chill the bowl first."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_020"
+topic = "cooking_yeast_proofing_warmth"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My dough never rises in the morning chill."
+response = "Set the bowl near the greenhouse water tank overnight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_021"
+topic = "cooking_soup_cooling_safely"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "How long can potage sit out before it spoils?"
+response = "Set the covered pot in shallow river water to cool fast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_022"
+topic = "cooking_bread_oven_steam_proof"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "For a harder crust I heard you add steam."
+response = "Slide a tray of ice cubes into the bottom rack right after."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_023"
+topic = "cooking_cut_vegetable_uniformity"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Half the stew chunks are mush and half are raw."
+response = "Cut every piece the same thickness or use a mandolin."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_024"
+topic = "cooking_skewer_soaking_ashes"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Wooden skewers caught fire during the last scout camp."
+response = "Soak them in water for an hour and wrap a wet leaf."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_025"
+topic = "cooking_preserving_berries_syrup"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Can I keep sweet berries through winter without freezing?"
+response = "Make thick syrup with equal weight sugar and seal hot."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_026"
+topic = "cooking_ginger_root_peel"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My fingers are sore trying to peel ginger with a knife."
+response = "Use a spoon edge. The skin comes off like paper."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_027"
+topic = "cooking_pizza_stone_moisture"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Pizza sticks to the stone every single time."
+response = "Sprinkle semolina flour instead of regular wheat dusting."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_028"
+topic = "cooking_salt_crust_fish_method"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Is the salt crust fish thing actually worth the salt cost?"
+response = "Seals all moisture inside. Scrape the salt shell off after."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_029"
+topic = "cooking_pumpkin_puree_straining"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My pumpkin puree makes pie filling runny in the center."
+response = "Strain through a muslin cloth for one hour before measuring."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_030"
+topic = "cooking_butter_washing_secret"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Homemade butter goes sour by the third day."
+response = "Wash the butter in ice water until the water runs clear."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_031"
+topic = "cooking_mushroom_drying_slice"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Whole mushrooms molded on the string before they dried."
+response = "Slice them cap to stem about as thick as a copper coin."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_032"
+topic = "cooking_roast_resting_rule"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My roast loses all juice the second I carve it."
+response = "Rest it under loose foil exactly half the cook time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_033"
+topic = "cooking_rice_washing_skyland"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Rice always comes out gummy when I cook it here."
+response = "Rinse in three changes of water until it runs clear."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_034"
+topic = "cooking_omelette_pan_choice"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My omelette tears when I fold it in half."
+response = "Use a smaller pan and lift the edges as it sets."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_035"
+topic = "cooking_jam_setting_test"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "How do I know the jam has boiled long enough?"
+response = "Place a cold plate drop. If it wrinkles it is done."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_036"
+topic = "cooking_lard_rendering_smell"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Rendering fat stinks up the whole kitchen district."
+response = "Add a few bay leaves and keep the window open wide."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_037"
+topic = "cooking_pot_lid_tilt_trick"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My stock reduces too fast and I have to top it up."
+response = "Tilt the lid so steam escapes only on one side."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_038"
+topic = "cooking_heartwood_cutting_board"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Any reason the baker uses a different board for meat?"
+response = "Heartwood board keeps meat juices out of pastry dough."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_039"
+topic = "cooking_honey_crystallized_fix"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My honey jar turned solid in the back of the pantry."
+response = "Place the sealed jar in warm water. Never boil it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_040"
+topic = "cooking_baking_soda_test_fresh"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My cornbread came out flat as a paving stone."
+response = "Drop vinegar onto a pinch of your soda. No fizz means stale."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_041"
+topic = "cooking_citrus_zest_tool_preference"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "I scrape my knuckles trying to zest sky lemon."
+response = "Hold the fruit and pull the rasp across instead of pushing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_042"
+topic = "cooking_parboil_potato_roast"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Roast potatoes never get that glassy crunchy outside like yours."
+response = "Parboil with baking soda then rough them up in the colander."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_043"
+topic = "cooking_marinade_tenderizing_time"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My meat stayed tough even after soaking all morning."
+response = "Use yogurt or buttermilk overnight for a real change."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_044"
+topic = "cooking_pastry_dough_chilling"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Shortcrust shrank in the tin until it was just a biscuit."
+response = "Chill the shaped dough for twenty minutes before blind baking."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_045"
+topic = "cooking_salad_washing_skyland"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Grit in every bite of the mixed greens from the floating farms."
+response = "Soak leaves in water three times and lift them out gently."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_046"
+topic = "cooking_noodle_dough_humidity"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "My noodle dough crumbles before I can roll it."
+response = "Cover it with a damp towel and rest for thirty minutes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_047"
+topic = "cooking_pancake_flip_practice"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "I flip pancakes onto the floor more than the plate."
+response = "Practice with a cold pan and a dry slice of bread first."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_048"
+topic = "cooking_casserole_foil_reflect"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Cheese topping burned while the middle stayed lukewarm."
+response = "Cover with foil shiny side up halfway through."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_049"
+topic = "cooking_kitchen_clean_as_go"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "After a big meal prep the kitchen looks like a battleground."
+response = "Fill a bowl with soapy water before you start. Dip and wipe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_32_050"
+topic = "shared_stew_reminiscence"
+source_tags = ["town"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang, that last storm brought cold winds. Share this stew before your patrol."
+response = "Thank you. This tastes like a skyland campsite after a long glide."
+weight = 1.0

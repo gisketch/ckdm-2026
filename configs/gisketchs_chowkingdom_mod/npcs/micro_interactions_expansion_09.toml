@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_09_001"
+topic = "rooftop_shortcut_advice"
+source_tags = ["rogue"]
+target_tags = ["town"]
+line = "The east chimney route saves two minutes to the market."
+response = "I never noticed that hop. Thanks for the tip."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_002"
+topic = "quiet_footing_praise"
+source_tags = ["rogue"]
+target_tags = ["mentor"]
+line = "Your soft step through the bell tower is unmatched."
+response = "Patience and proper soles, friend."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_003"
+topic = "rooftop_landmark_offer"
+source_tags = ["rogue"]
+target_tags = ["town"]
+line = "The blue gargoyle marks a hidden ledge above the bakery."
+response = "I will look for it on my next errand."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_004"
+topic = "shadow_blend_trick"
+source_tags = ["rogue"]
+target_tags = ["mentor"]
+line = "A wet cloak darkens fabric faster than dye."
+response = "Practical and resourceful. I approve."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_005"
+topic = "wind_hazard_warning"
+source_tags = ["rogue"]
+target_tags = ["wind_wizard"]
+line = "The north ridge gusts could throw a light frame."
+response = "I will stir a milder breeze for the hour."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_006"
+topic = "silent_door_hack"
+source_tags = ["rogue"]
+target_ids = ["toph"]
+line = "Oil your stone pivot without scent. Just a drop."
+response = "Ha, a sneaky trick from a flimsy surface walker."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_007"
+topic = "skyland_ledge_scout"
+source_tags = ["rogue"]
+target_tags = ["skyland_survival"]
+line = "The floating island west has a stable lower shelf."
+response = "Good to know. The upper soil is too loose."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_008"
+topic = "hidden_rampart_path"
+source_tags = ["rogue"]
+target_ids = ["link"]
+line = "A wall crack behind the maple leads to the old cistern."
+response = "I have passed that tree a hundred times."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_009"
+topic = "potion_delivery_route"
+source_tags = ["rogue"]
+target_ids = ["bubblegum"]
+line = "I can move your heat-sensitive samples after midnight."
+response = "Finally a courier who avoids the sun."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_010"
+topic = "nocturnal_overlap"
+source_tags = ["rogue"]
+target_ids = ["marceline"]
+line = "You take the west alleys, I take the east after moonrise."
+response = "Fine. If you hear bass, just keep moving."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_011"
+topic = "bard_distraction_gratitude"
+source_tags = ["rogue"]
+target_ids = ["venti"]
+line = "Your flute near the fountain masked my ledge climb."
+response = "Ehe, glad my practice helped your sneaky ways."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_012"
+topic = "rooftop_bounty_notice"
+source_tags = ["rogue"]
+target_ids = ["aloy"]
+line = "A rare target was spotted on the lower aqueduct."
+response = "Thanks. I will check the stonework for tracks."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_013"
+topic = "witcher_diffuse_route"
+source_tags = ["rogue"]
+target_ids = ["ciri"]
+line = "You slipped that nest alert without a single scream."
+response = "Feline grace is quieter than any sign."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_014"
+topic = "rooftop_archer_escort"
+source_tags = ["rogue"]
+target_tags = ["archer"]
+line = "From the apothecary roof you can cover the whole lane."
+response = "I will keep an arrow ready while you move."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_015"
+topic = "skyland_clue_share"
+source_tags = ["rogue"]
+target_ids = ["zelda"]
+line = "The overgrown sky ruin has fresh tool marks."
+response = "Then someone else searches its dragon lore."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_016"
+topic = "frost_wall_caution"
+source_tags = ["rogue"]
+target_tags = ["frost_wizard"]
+line = "Your ice sheet on the east wall melted too smooth."
+response = "I will add grip crystals to the next batch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_017"
+topic = "wardrobe_requisition"
+source_tags = ["rogue"]
+target_tags = ["store_cosmetics"]
+line = "Do you have a grey hood that stays still in wind?"
+response = "The wool-spider blend holds shape perfectly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_018"
+topic = "seed_pouch_recommendation"
+source_tags = ["rogue"]
+target_tags = ["store_seed"]
+line = "I need a silent snack that does not crumble."
+response = "Dried moonberries. Compact and quiet."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_019"
+topic = "explorer_hook_sale"
+source_tags = ["rogue"]
+target_tags = ["store_explorer"]
+line = "Do you stock a grappling head smaller than a fist?"
+response = "The owl talon model just arrived yesterday."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_020"
+topic = "pokemon_shop_stocking"
+source_tags = ["rogue"]
+target_ids = ["bubblegum"]
+line = "Your Zubat corner could use a dark alcove hide."
+response = "Perfect, I will add a felt canopy this week."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_021"
+topic = "arcane_trap_defuse"
+source_tags = ["rogue"]
+target_tags = ["arcane_wizard"]
+line = "The rune plate on the guild roof can be bypassed."
+response = "Only if you read the fifth glyph in reverse."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_022"
+topic = "monster_hide_recon"
+source_tags = ["rogue"]
+target_tags = ["monster_hunter"]
+line = "A silverfang prowls the old lumber mill at dusk."
+response = "I have been tracking its den for three days."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_023"
+topic = "paladin_patrol_gap"
+source_tags = ["rogue"]
+target_ids = ["tarnished"]
+line = "The graveyard route is unwatched between bells."
+response = "Then I will pray faster during my rounds."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_024"
+topic = "priest_balcony_access"
+source_tags = ["rogue"]
+target_ids = ["pope_leo"]
+line = "The chapel balcony door needs a quieter latch."
+response = "I will ask the smith to forge a brass catch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_025"
+topic = "gangway_rope_replacement"
+source_tags = ["rogue"]
+target_tags = ["town"]
+line = "The rope bridge plank near the well is rotten."
+response = "I will warn the carpenter before someone falls."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_026"
+topic = "dragon_memory_hush"
+source_tags = ["rogue"]
+target_ids = ["zelda"]
+line = "The light tear shrine echoes footsteps like a bell."
+response = "I will drape felt mats beneath the altar."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_027"
+topic = "skyland_survival_route_check"
+source_tags = ["rogue"]
+target_tags = ["skyland_survival"]
+line = "The chain ladder to the lower islet is loose."
+response = "I will secure the anchor pin before nightfall."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_028"
+topic = "leather_silence_recipe"
+source_tags = ["rogue"]
+target_ids = ["huntress_wizard"]
+line = "Your boot wrap technique is better than soft soles."
+response = "Boiled leather cord and a flat weave pattern."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_029"
+topic = "cobblemon_alley_data"
+source_tags = ["rogue"]
+target_tags = ["cobblemon_biology"]
+line = "A wild Purrloin uses the bakery roof every dawn."
+response = "Interesting, its route matches the old sewer map."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_030"
+topic = "lake_shadow_cover"
+source_tags = ["rogue"]
+target_ids = ["katara"]
+line = "The moon bridge casts a blind spot near the reeds."
+response = "I will keep my bending low under its arch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_031"
+topic = "forcemaster_window_trick"
+source_tags = ["rogue"]
+target_ids = ["vi"]
+line = "Your gauntlet can slide a window pane without noise."
+response = "Slow force, no wobble. Learned that the hard way."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_032"
+topic = "frost_wizard_camouflage"
+source_tags = ["rogue"]
+target_ids = ["elsa"]
+line = "A thin mist near the eaves hides movement completely."
+response = "I can shape a cold fog blanket for your route."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_033"
+topic = "witcher_trackless_passage"
+source_tags = ["rogue"]
+target_ids = ["geralt"]
+line = "You crushed the belladonna just enough to mask scent."
+response = "Trial and error with a White Wolf. Stay sharp."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_034"
+topic = "skyland_lore_sighting"
+source_tags = ["rogue"]
+target_ids = ["gandalf"]
+line = "A broken waystone hums on the third floating isle."
+response = "The old inscription speaks of a forgotten fastness."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_035"
+topic = "musician_quiet_hour"
+source_tags = ["rogue"]
+target_ids = ["marceline"]
+line = "Your bass thrum vibrates loose roof tiles nicely."
+response = "Tell me which ones and I will play a softer line."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_036"
+topic = "fire_wizard_lamp_snuff"
+source_tags = ["rogue"]
+target_ids = ["zuko"]
+line = "A tiny snuff of your flame would kill streetlight glare."
+response = "I can bank the wall torches for a few seconds."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_037"
+topic = "assassin_team_breach"
+source_tags = ["rogue"]
+target_ids = ["ezio"]
+line = "The west strongbox room has a false back panel."
+response = "Bene, I will test it with a thin blade."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_038"
+topic = "berserker_rooftop_leap"
+source_tags = ["rogue"]
+target_ids = ["zagreus"]
+line = "Your landing on the granary roof shook the shingles."
+response = "I will aim for the beam, not the clay."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_039"
+topic = "gapleap_chalk_mark"
+source_tags = ["rogue"]
+target_tags = ["town"]
+line = "A chalk arrow behind the inn points to a safe drop."
+response = "Useful, I will add a second mark for wind days."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_040"
+topic = "raingutter_slide_tip"
+source_tags = ["rogue"]
+target_tags = ["mentor"]
+line = "The copper gutter near the forge is faster than rope."
+response = "Mind the rivets. They snag loose cloth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_041"
+topic = "cobblemon_night_activity"
+source_tags = ["rogue"]
+target_ids = ["bubblegum"]
+line = "A wild Hoothoot circles the clock tower exactly at two."
+response = "Adding that data to the nocturnal behavior log."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_042"
+topic = "wind_wizard_current_map"
+source_tags = ["rogue"]
+target_ids = ["aang"]
+line = "The alley air flows different after the new town hall."
+response = "I can redraw the roof currents if you share data."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_043"
+topic = "familiar_route_compromise"
+source_tags = ["rogue"]
+target_ids = ["finn"]
+line = "We can split the high road and meet at the bell."
+response = "Mathematical! I take the left chimney stack."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_044"
+topic = "warrior_rooftop_guard"
+source_tags = ["rogue"]
+target_tags = ["warrior"]
+line = "A lookout on the guildhall ridge sees everything."
+response = "I will post there on the third watch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_045"
+topic = "archer_overwatch_handoff"
+source_ids = ["legolas"]
+target_tags = ["rogue"]
+line = "My eyes marked a shadowpath from the mill to the gate."
+response = "Good. I will test its cover before sunrise."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_046"
+topic = "berserker_drop_practice"
+source_tags = ["rogue"]
+target_ids = ["zagreus"]
+line = "A controlled drop from the hayloft saves a full minute."
+response = "I am tough enough to take the fall either way."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_047"
+topic = "bounty_hunter_signal"
+source_tags = ["rogue"]
+target_ids = ["aloy"]
+line = "I left a cloth scrap near the smuggler tunnel exit."
+response = "I saw it. The weave matches a known bandit group."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_048"
+topic = "war_archer_blindspot"
+source_ids = ["traxex"]
+target_tags = ["rogue"]
+line = "The icicle overhang hides my crouch perfectly."
+response = "Stay clear of the thaw drip, it leaves a trail."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_049"
+topic = "sword_technique_parry_roof"
+source_tags = ["rogue"]
+target_ids = ["link"]
+line = "A rooftop parry needs less wrist, more elbow pivot."
+response = "I will practice on the stable ridge tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_09_050"
+topic = "town_orphan_thanks"
+source_tags = ["rogue"]
+target_tags = ["town"]
+line = "A child left a honey cake on the orphanage sill."
+response = "I saw the little one wave from the attic."
+weight = 1.0

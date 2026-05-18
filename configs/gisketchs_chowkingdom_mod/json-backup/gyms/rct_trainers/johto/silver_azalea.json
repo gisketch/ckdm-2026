@@ -1,0 +1,22 @@
+{
+  "name": "Silver - Azalea",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:totodile",
+      "level": 16,
+      "moveset": [
+        "tackle"
+      ]
+    }
+  ]
+}

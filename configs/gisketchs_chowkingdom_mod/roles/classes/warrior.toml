@@ -18,6 +18,7 @@ perks = [
 
 [mentor_quest]
 mentor_npc_id = "finn"
+mentor_npc_ids = ["finn", "link"]
 title = "Finns Hero Drill"
 intro_message = "Finn makes the player swear to protect town before touching the blade drills."
 unlock_title = "Oathsworn Blade"

@@ -1,0 +1,86 @@
+# Chow Kingdom config: johto.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "johto"
+# Config value: display_name.
+display_name = "Johto League"
+# Config value: generation.
+generation = 2
+# Config value: region.
+region = "Johto"
+# Config value: description.
+description = "The Johto badge record with Silver's rival checks and Lance as the final Skylands circuit wall."
+# Config value: icon.
+icon = "textures/gui/icons/trophy.png"
+# Config value: stadium_area.
+stadium_area = "main_stadium"
+# Config value: active_only.
+active_only = true
+# Config value: starter_mode.
+starter_mode = "story_only"
+# Config value: chowfan_npc_id.
+chowfan_npc_id = "prof_chowfan"
+# Config value: trainers.
+trainers = [
+  { id = "silver", name = "Silver", role = "rival", npc_id = "trainer_silver", badge_id = "", spawn_group = "johto_rivals", main_pokemon = "cobblemon:feraligatr" },
+  { id = "falkner", name = "Falkner", role = "gym_leader", npc_id = "gym_falkner", badge_id = "zephyr_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:pidgeot" },
+  { id = "bugsy", name = "Bugsy", role = "gym_leader", npc_id = "gym_bugsy", badge_id = "hive_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:scizor" },
+  { id = "whitney", name = "Whitney", role = "gym_leader", npc_id = "gym_whitney", badge_id = "plain_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:miltank" },
+  { id = "morty", name = "Morty", role = "gym_leader", npc_id = "gym_morty", badge_id = "fog_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:gengar" },
+  { id = "chuck", name = "Chuck", role = "gym_leader", npc_id = "gym_chuck", badge_id = "storm_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:poliwrath" },
+  { id = "jasmine", name = "Jasmine", role = "gym_leader", npc_id = "gym_jasmine", badge_id = "mineral_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:steelix" },
+  { id = "pryce", name = "Pryce", role = "gym_leader", npc_id = "gym_pryce", badge_id = "glacier_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:piloswine" },
+  { id = "clair", name = "Clair", role = "gym_leader", npc_id = "gym_clair", badge_id = "rising_badge", spawn_group = "johto_gym_leaders", main_pokemon = "cobblemon:kingdra" },
+  { id = "will", name = "Will", role = "elite_four", npc_id = "johto_elite_will", badge_id = "", spawn_group = "johto_elite", main_pokemon = "cobblemon:xatu" },
+  { id = "johto_koga", name = "Koga", role = "elite_four", npc_id = "johto_elite_koga", badge_id = "", spawn_group = "johto_elite", main_pokemon = "cobblemon:crobat" },
+  { id = "johto_bruno", name = "Bruno", role = "elite_four", npc_id = "johto_elite_bruno", badge_id = "", spawn_group = "johto_elite", main_pokemon = "cobblemon:machamp" },
+  { id = "karen", name = "Karen", role = "elite_four", npc_id = "johto_elite_karen", badge_id = "", spawn_group = "johto_elite", main_pokemon = "cobblemon:houndoom" },
+  { id = "johto_lance", name = "Lance", role = "champion", npc_id = "johto_champion_lance", badge_id = "", spawn_group = "johto_champion", main_pokemon = "cobblemon:dragonite" },
+]
+# Config value: sequence.
+sequence = [
+  { id = "silver_new_bark", order = 1, kind = "rival", trainer = "silver", display_name = "Silver - New Bark", badge_id = "", level_cap = 5, team_ref = "rct_trainers/johto/silver_new_bark.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "falkner", order = 2, kind = "gym", trainer = "falkner", display_name = "Falkner", badge_id = "zephyr_badge", level_cap = 9, team_ref = "rct_trainers/johto/falkner.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "silver_azalea", order = 3, kind = "rival", trainer = "silver", display_name = "Silver - Azalea", badge_id = "", level_cap = 16, team_ref = "rct_trainers/johto/silver_azalea.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "bugsy", order = 4, kind = "gym", trainer = "bugsy", display_name = "Bugsy", badge_id = "hive_badge", level_cap = 16, team_ref = "rct_trainers/johto/bugsy.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "whitney", order = 5, kind = "gym", trainer = "whitney", display_name = "Whitney", badge_id = "plain_badge", level_cap = 20, team_ref = "rct_trainers/johto/whitney.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "silver_burned_tower", order = 6, kind = "rival", trainer = "silver", display_name = "Silver - Burned Tower", badge_id = "", level_cap = 22, team_ref = "rct_trainers/johto/silver_burned_tower.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "morty", order = 7, kind = "gym", trainer = "morty", display_name = "Morty", badge_id = "fog_badge", level_cap = 25, team_ref = "rct_trainers/johto/morty.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "chuck", order = 8, kind = "gym", trainer = "chuck", display_name = "Chuck", badge_id = "storm_badge", level_cap = 31, team_ref = "rct_trainers/johto/chuck.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "jasmine", order = 9, kind = "gym", trainer = "jasmine", display_name = "Jasmine", badge_id = "mineral_badge", level_cap = 35, team_ref = "rct_trainers/johto/jasmine.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "pryce", order = 10, kind = "gym", trainer = "pryce", display_name = "Pryce", badge_id = "glacier_badge", level_cap = 34, team_ref = "rct_trainers/johto/pryce.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "clair", order = 11, kind = "gym", trainer = "clair", display_name = "Clair", badge_id = "rising_badge", level_cap = 40, team_ref = "rct_trainers/johto/clair.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "silver_victory_road", order = 12, kind = "rival", trainer = "silver", display_name = "Silver - Victory Road", badge_id = "", level_cap = 42, team_ref = "rct_trainers/johto/silver_victory_road.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_will", order = 13, kind = "elite_four", trainer = "will", display_name = "Elite Four - Will", badge_id = "", level_cap = 45, team_ref = "rct_trainers/johto/elite_will.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_koga", order = 14, kind = "elite_four", trainer = "johto_koga", display_name = "Elite Four - Koga", badge_id = "", level_cap = 47, team_ref = "rct_trainers/johto/elite_koga.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_bruno", order = 15, kind = "elite_four", trainer = "johto_bruno", display_name = "Elite Four - Bruno", badge_id = "", level_cap = 49, team_ref = "rct_trainers/johto/elite_bruno.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_karen", order = 16, kind = "elite_four", trainer = "karen", display_name = "Elite Four - Karen", badge_id = "", level_cap = 51, team_ref = "rct_trainers/johto/elite_karen.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "champion_lance", order = 17, kind = "champion", trainer = "johto_lance", display_name = "Champion Lance", badge_id = "", level_cap = 55, team_ref = "rct_trainers/johto/champion_lance.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+]
+
+# Config value: defaults.
+[defaults]
+# Config value: defaults.daily_attempts_per_npc.
+daily_attempts_per_npc = 3
+# Config value: defaults.attempt_cooldown_minutes.
+attempt_cooldown_minutes = 15
+# Config value: defaults.trainer_respawn_minutes.
+trainer_respawn_minutes = 5
+# Config value: defaults.battle_format.
+battle_format = "GEN_9_SINGLES"
+# Config value: defaults.hard_level_cap.
+hard_level_cap = true
+# Config value: defaults.level_cap_scope.
+level_cap_scope = "whole_party"
+# Config value: defaults.heal_players.
+heal_players = true
+# Config value: defaults.max_item_uses.
+max_item_uses = 2
+# Config value: defaults.rival_branch.
+rival_branch = "default"
+# Config value: defaults.pass_id.
+pass_id = "combat"
+# Config value: defaults.badge_xp.
+badge_xp = 250
+# Config value: defaults.badge_chowcoins.
+badge_chowcoins = 500

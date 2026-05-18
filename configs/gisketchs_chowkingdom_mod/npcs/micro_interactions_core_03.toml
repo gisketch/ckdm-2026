@@ -1,0 +1,1021 @@
+[[exchanges]]
+id = "core_03_001"
+topic = "magic_theory"
+source_ids = ["gandalf"]
+target_ids = ["invoker"]
+line = "The spark of magic is but a thought given will."
+response = "You oversimplify. Will alone cannot shape the arcane weave."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_002"
+topic = "magic_theory"
+source_ids = ["invoker"]
+target_ids = ["gandalf"]
+line = "Recite the seven incantations exactly or fail utterly."
+response = "Precision matters, yet the heart behind the words matters more."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_003"
+topic = "magic_theory"
+source_ids = ["venti"]
+target_ids = ["gandalf"]
+line = "I sing my magic on the wind. No formulas needed."
+response = "A wilder path, but the tune must still obey the song."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_004"
+topic = "magic_theory"
+source_ids = ["gandalf"]
+target_ids = ["pope_leo"]
+line = "The light you call divine is but a deeper magic."
+response = "All light flows from the One. Your magic is a borrowed ray."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_005"
+topic = "magic_theory"
+source_ids = ["pope_leo"]
+target_ids = ["invoker"]
+line = "Your incantations lack humility. Pray before you cast."
+response = "Prayer is a crutch. I trust only the art I mastered."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_006"
+topic = "magic_theory"
+source_ids = ["tarnished"]
+target_ids = ["gandalf"]
+line = "My blade holds no magic, only discipline and faith."
+response = "Faith is a conduit stronger than any staff or rod."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_007"
+topic = "magic_theory"
+source_ids = ["zagreus"]
+target_ids = ["invoker"]
+line = "Down in the House, magic tastes like blood and darkness."
+response = "Chaos magic has its own logic. You survive thus you learn."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_014"
+topic = "magic_theory"
+source_ids = ["gandalf"]
+target_ids = ["zagreus"]
+line = "Your underworld gifts are not curses. They are choices."
+response = "Tell that to the Furies. But I take your meaning, grey one."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_015"
+topic = "magic_theory"
+source_ids = ["invoker"]
+target_ids = ["zagreus"]
+line = "Your flames lack structure. Let me teach you a proper glyph."
+response = "I prefer flames that work. Yours sound too rigid for me."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_016"
+topic = "magic_theory"
+source_ids = ["venti"]
+target_ids = ["invoker"]
+line = "Your orbs spin too fast. Slow them down. Feel the rhythm."
+response = "Rhythm is irrelevant. Speed and precision define victory."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_017"
+topic = "magic_theory"
+source_ids = ["pope_leo"]
+target_ids = ["tarnished"]
+line = "Your oaths channel holy light. That is the purest school."
+response = "I do not see it as school. I see it as duty made weapon."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_018"
+topic = "magic_theory"
+source_ids = ["venti"]
+target_ids = ["pope_leo"]
+line = "Even cathedral choirs steal tunes from the wind."
+response = "Borrow perhaps. But we return them sanctified."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_019"
+topic = "songs"
+source_ids = ["venti"]
+target_ids = ["gandalf"]
+line = "Sing with me! A ballad of old roads and fallen stars."
+response = "I recall that tune from before the Third Age. I will hum along."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_020"
+topic = "songs"
+source_ids = ["gandalf"]
+target_ids = ["venti"]
+line = "That melody carries echoes of the Music of the Ainur."
+response = "Ooh, then I have to learn it properly. Let me try again."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_021"
+topic = "songs"
+source_ids = ["invoker"]
+target_ids = ["venti"]
+line = "Your lutes are toys. A true song is a coded invocation."
+response = "You never danced with the tones. Pity. You miss the joy."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_022"
+topic = "songs"
+source_ids = ["venti"]
+target_ids = ["invoker"]
+line = "Invocation is just a rigid song. Let the notes loose."
+response = "Chaos produces noise. I produce results."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_023"
+topic = "songs"
+source_ids = ["pope_leo"]
+target_ids = ["venti"]
+line = "Our hymnals echo the same eternal harmony you chase."
+response = "Then your choir and my lyre are siblings under the sky."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_024"
+topic = "songs"
+source_ids = ["tarnished"]
+target_ids = ["venti"]
+line = "I only know the dirge of lost comrades on the march."
+response = "Even a dirge can lift spirits if the breath is full."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_025"
+topic = "songs"
+source_ids = ["zagreus"]
+target_ids = ["venti"]
+line = "Orpheus taught me a few underworld tunes. Want to hear?"
+response = "Yes! I bet they are bittersweet. That is the best kind."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_026"
+topic = "songs"
+source_ids = ["gandalf"]
+target_ids = ["zagreus"]
+line = "Music binds the world together. Even your realm echoes it."
+response = "Echoes? No, the Styx hums its own constant low note."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_032"
+topic = "songs"
+source_ids = ["venti"]
+target_ids = ["tarnished"]
+line = "Your whistle carries the weight of a hundred battles."
+response = "Each note is a memory. Some sharp, some soft."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_033"
+topic = "songs"
+source_ids = ["pope_leo"]
+target_ids = ["invoker"]
+line = "The Gregorian chants predate your schools by millennia."
+response = "Antiquity is not accuracy. But I respect the endurance."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_034"
+topic = "songs"
+source_ids = ["zagreus"]
+target_ids = ["pope_leo"]
+line = "Do the dead sing in your heaven? Down here we hum."
+response = "They sing eternally. It is the reward of the faithful."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_035"
+topic = "songs"
+source_ids = ["gandalf"]
+target_ids = ["pope_leo"]
+line = "Eru's music underpins all creation. Your hymns touch it."
+response = "Then we are both servants of the same melody."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_036"
+topic = "bells"
+source_ids = ["pope_leo"]
+target_ids = ["venti"]
+line = "Bell towers call the flock. Even the wind must pause."
+response = "The wind carries the bell's voice farther than stone."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_037"
+topic = "bells"
+source_ids = ["venti"]
+target_ids = ["pope_leo"]
+line = "I can make the bells sing a different tune with a gust."
+response = "Do not mock holy instruments. They mark sacred hours."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_038"
+topic = "bells"
+source_ids = ["gandalf"]
+target_ids = ["pope_leo"]
+line = "I have heard the bells of Numenor toll beneath the sea."
+response = "A haunting sound. Bells remember what people forget."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_039"
+topic = "bells"
+source_ids = ["invoker"]
+target_ids = ["pope_leo"]
+line = "Bells are just percussion. Their resonance can amplify spells."
+response = "Their first purpose is worship, not your arcane experiments."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_040"
+topic = "bells"
+source_ids = ["tarnished"]
+target_ids = ["pope_leo"]
+line = "The bell at the Roundtable calls us to rest."
+response = "And to rise again. Rest is preparation for the next vigil."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_041"
+topic = "bells"
+source_ids = ["zagreus"]
+target_ids = ["pope_leo"]
+line = "Our ferryman Charon rings a bell for passage. It is final."
+response = "A stark contrast. Our bells welcome; yours dismiss."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_048"
+topic = "bells"
+source_ids = ["gandalf"]
+target_ids = ["tarnished"]
+line = "Your watch bell is a small act of devotion to order."
+response = "It keeps the camp honest. A small rhythm of safety."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_049"
+topic = "bells"
+source_ids = ["invoker"]
+target_ids = ["zagreus"]
+line = "If you forge a bell from Stygian iron, it can banish shades."
+response = "That sounds interesting. Would it keep Thanatos away?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_050"
+topic = "bells"
+source_ids = ["venti"]
+target_ids = ["zagreus"]
+line = "Let me hang wind chimes in your Tower. Skeletons love them."
+response = "Only if they play something less mournful than the usual."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_051"
+topic = "duty"
+source_ids = ["tarnished"]
+target_ids = ["gandalf"]
+line = "I swore to mend the Elden Ring. That oath is my breath."
+response = "A heavy burden. Let it bend you, never break you."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_052"
+topic = "duty"
+source_ids = ["gandalf"]
+target_ids = ["tarnished"]
+line = "Do not confuse duty with destiny. One you choose."
+response = "I chose the duty. It became my destiny. Same path."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_053"
+topic = "duty"
+source_ids = ["pope_leo"]
+target_ids = ["tarnished"]
+line = "Your vow echoes the ancient chivalric oaths we recite."
+response = "Then you understand the weight. There is no stepping down."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_054"
+topic = "duty"
+source_ids = ["zagreus"]
+target_ids = ["tarnished"]
+line = "I escape every day. Is that duty or stubbornness?"
+response = "Both. You are duty-bound to prove your own worth."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_055"
+topic = "duty"
+source_ids = ["invoker"]
+target_ids = ["tarnished"]
+line = "Your purpose is singular. That is efficient. I approve."
+response = "Efficiency is not the point. Faith in the mission is."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_056"
+topic = "duty"
+source_ids = ["venti"]
+target_ids = ["tarnished"]
+line = "Must you always be so serious? Duty can have a tune."
+response = "The tune is a march. It keeps us moving forward."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_063"
+topic = "duty"
+source_ids = ["gandalf"]
+target_ids = ["zagreus"]
+line = "Your escape is also a return. Duty has two faces."
+response = "Return? Maybe I go back because leaving is not enough."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_064"
+topic = "duty"
+source_ids = ["pope_leo"]
+target_ids = ["zagreus"]
+line = "You carry the torch for the less lucky souls below."
+response = "That torch is heavy. But I will not drop it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_065"
+topic = "duty"
+source_ids = ["invoker"]
+target_ids = ["gandalf"]
+line = "Order your priorities. Duty is just a list. Complete it."
+response = "Some items on the list require patience, not haste."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_066"
+topic = "duty"
+source_ids = ["tarnished"]
+target_ids = ["pope_leo"]
+line = "I heard your sermons. Duty to the Erdtree mirrors my oath."
+response = "Then we are brothers in purpose though our altars differ."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_067"
+topic = "roads"
+source_ids = ["venti"]
+target_ids = ["gandalf"]
+line = "Where does the road go next? I want to follow the wind."
+response = "It goes where it always has. The question is who travels."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_068"
+topic = "roads"
+source_ids = ["gandalf"]
+target_ids = ["venti"]
+line = "The path is not always visible. Trust the step you take."
+response = "I trust my feet. They have never led me to a dull place."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_069"
+topic = "roads"
+source_ids = ["invoker"]
+target_ids = ["venti"]
+line = "Roads are vectors. Plot the most efficient route always."
+response = "Efficient is boring. The detours are where songs are born."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_070"
+topic = "roads"
+source_ids = ["pope_leo"]
+target_ids = ["venti"]
+line = "Every road is a pilgrimage if you walk it with intent."
+response = "Then I have made many pilgrimages to the nearest tavern."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_071"
+topic = "roads"
+source_ids = ["tarnished"]
+target_ids = ["venti"]
+line = "I have walked the Mistwood so long I forgot the sun."
+response = "Then let me play a song that reminds you of the sky."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_072"
+topic = "roads"
+source_ids = ["zagreus"]
+target_ids = ["venti"]
+line = "The road from the Styx always leads back to the House."
+response = "That sounds like a round trip with no layovers. Rough."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_073"
+topic = "roads"
+source_ids = ["gandalf"]
+target_ids = ["pope_leo"]
+line = "I have walked many roads. The one to Minas Tirith was long."
+response = "All roads that lead to salvation are long and steep."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_074"
+topic = "roads"
+source_ids = ["invoker"]
+target_ids = ["tarnished"]
+line = "The road to the Erdtree is a fixed path. Study its geometry."
+response = "I have memorized every stone. It does not make it easier."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_075"
+topic = "roads"
+source_ids = ["zagreus"]
+target_ids = ["gandalf"]
+line = "You ever get lost in a cave and end up somewhere else entirely?"
+response = "Frequently. Some of my best discoveries came that way."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_082"
+topic = "roads"
+source_ids = ["gandalf"]
+target_ids = ["tarnished"]
+line = "The road you walk is yours alone. Companions help."
+response = "They do. But in the end, the summit is a solo claim."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_083"
+topic = "roads"
+source_ids = ["invoker"]
+target_ids = ["zagreus"]
+line = "Your road is cyclical. That is inefficient. Break the loop."
+response = "I am trying. That is the whole point of escaping."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_084"
+topic = "roads"
+source_ids = ["pope_leo"]
+target_ids = ["invoker"]
+line = "Even the most direct road bends sometimes by divine will."
+response = "Divine will is just an unknown variable. Account for it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_085"
+topic = "second_chances"
+source_ids = ["zagreus"]
+target_ids = ["gandalf"]
+line = "I die every day and get to try again. What is that called?"
+response = "Grace. A rare grace that teaches through failure."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_086"
+topic = "second_chances"
+source_ids = ["gandalf"]
+target_ids = ["zagreus"]
+line = "Gandalf fell and returned. I know something of second try."
+response = "Then we are both stubborn ghosts who refused to stay dead."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_087"
+topic = "second_chances"
+source_ids = ["tarnished"]
+target_ids = ["zagreus"]
+line = "I died and came back too. The guidance of grace pulled me."
+response = "Our deaths are different. Yours seems quieter than mine."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_088"
+topic = "second_chances"
+source_ids = ["pope_leo"]
+target_ids = ["zagreus"]
+line = "Repentance is a second chance for the soul."
+response = "Repentance? I just say sorry to Meg and try not to die."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_089"
+topic = "second_chances"
+source_ids = ["invoker"]
+target_ids = ["zagreus"]
+line = "Your repeated deaths are wasted potential. Learn faster."
+response = "I learn at my own pace. The Styx teaches patience."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_090"
+topic = "second_chances"
+source_ids = ["venti"]
+target_ids = ["zagreus"]
+line = "Every new day is a new verse. Make it a good one."
+response = "I try. Some verses are just repeats of the last failure."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_091"
+topic = "second_chances"
+source_ids = ["gandalf"]
+target_ids = ["tarnished"]
+line = "The grace of the Erdtree is a second chance woven into fate."
+response = "If I fail, I return to the site of grace. Always."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_092"
+topic = "second_chances"
+source_ids = ["pope_leo"]
+target_ids = ["tarnished"]
+line = "You are given as many chances as you have humility to accept."
+response = "My humility is tested every time I meet a demi-god."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_093"
+topic = "second_chances"
+source_ids = ["invoker"]
+target_ids = ["tarnished"]
+line = "Your repeated attempts to claim the Ring are suboptimal."
+response = "Suboptimal is still progress. I do not quit."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_094"
+topic = "second_chances"
+source_ids = ["venti"]
+target_ids = ["tarnished"]
+line = "If you fall, I will write a ballad about how you got up."
+response = "Make it a short one. I plan to get up quickly."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_101"
+topic = "second_chances"
+source_ids = ["tarnished"]
+target_ids = ["gandalf"]
+line = "You fell into shadow and returned wiser. How?"
+response = "I chose not to remain in the dark. That is the whole secret."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_102"
+topic = "second_chances"
+source_ids = ["zagreus"]
+target_ids = ["venti"]
+line = "You ever mess up a performance and have to restart?"
+response = "All the time. I just call it an interlude and try again."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_103"
+topic = "training"
+source_ids = ["tarnished"]
+target_ids = ["gandalf"]
+line = "I train daily with the sword. Yet stars fell still die."
+response = "Train the mind as hard as the arm. That is the real shield."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_104"
+topic = "training"
+source_ids = ["gandalf"]
+target_ids = ["tarnished"]
+line = "A blade's edge is nothing without a steady heart."
+response = "My heart is steady. But my hands still tremble after fog."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_105"
+topic = "training"
+source_ids = ["invoker"]
+target_ids = ["tarnished"]
+line = "Repetition of forms builds muscle memory. Do it one thousand times."
+response = "I have swung this blade ten thousand. It helps little."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_106"
+topic = "training"
+source_ids = ["venti"]
+target_ids = ["tarnished"]
+line = "Box step is good footwork. Try dodging like a dance."
+response = "I will try. Anything that keeps me alive longer helps."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_107"
+topic = "training"
+source_ids = ["pope_leo"]
+target_ids = ["tarnished"]
+line = "Fast before dawn. The body learns humility in the cold."
+response = "I train among the graves. Cold keeps me awake."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_108"
+topic = "training"
+source_ids = ["zagreus"]
+target_ids = ["tarnished"]
+line = "I spar with Skelly in the courtyard. He never stays dead."
+response = "That sounds useful. My sparring partners usually stay dead."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_109"
+topic = "training"
+source_ids = ["gandalf"]
+target_ids = ["zagreus"]
+line = "Your training in the House is unorthodox but effective."
+response = "It has to be. Formal drills get you killed down there."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_110"
+topic = "training"
+source_ids = ["invoker"]
+target_ids = ["zagreus"]
+line = "Your cast sequence is sloppy. Let me teach you a rotation."
+response = "My sequence works for me. Spontaneity beats rigidity."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_111"
+topic = "training"
+source_ids = ["venti"]
+target_ids = ["zagreus"]
+line = "Practice your dash timing with the rhythm of a jig."
+response = "I will give it a shot. If I trip, it is your fault."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_112"
+topic = "training"
+source_ids = ["pope_leo"]
+target_ids = ["zagreus"]
+line = "Each death is a drill. Reflect on what you did wrong."
+response = "I reflect while I am in the Styx. It is a long wait."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_113"
+topic = "training"
+source_ids = ["gandalf"]
+target_ids = ["invoker"]
+line = "Your arcane drills are perfect. But can you adapt to chaos?"
+response = "Chaos is just ordered randomness. I can compute it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_114"
+topic = "training"
+source_ids = ["invoker"]
+target_ids = ["gandalf"]
+line = "Your staff work is sloppy. Hold it at a precise angle."
+response = "The staff is a guide, not a weapon. The mind wields it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_115"
+topic = "training"
+source_ids = ["venti"]
+target_ids = ["pope_leo"]
+line = "Practice your sermons in front of a crowd of sheep."
+response = "I practice before the altar. The silence is my audience."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_122"
+topic = "town_morale"
+source_ids = ["venti"]
+target_ids = ["pope_leo"]
+line = "The farmers are gloomy. A festival would lift their hearts."
+response = "A feast day is due. I will bless the harvest tables."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_123"
+topic = "town_morale"
+source_ids = ["pope_leo"]
+target_ids = ["venti"]
+line = "Morale flows from faith. Remind them of the coming light."
+response = "I can sing about the light while they dance and forget hunger."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_124"
+topic = "town_morale"
+source_ids = ["gandalf"]
+target_ids = ["venti"]
+line = "The people need stories of hope, not just ale."
+response = "Ale helps the stories go down easier, old friend."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_125"
+topic = "town_morale"
+source_ids = ["invoker"]
+target_ids = ["gandalf"]
+line = "Morale is irrational. Data shows rations matter more."
+response = "A full belly and a full heart together build a town."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_126"
+topic = "town_morale"
+source_ids = ["tarnished"]
+target_ids = ["gandalf"]
+line = "I see despair in their eyes. They need a protector."
+response = "Sometimes they need a protector. Sometimes a listening ear."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_127"
+topic = "town_morale"
+source_ids = ["zagreus"]
+target_ids = ["venti"]
+line = "Down in Asphodel, morale is low too. Music helps there."
+response = "Then I will play for both worlds. The Styx can be a venue."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_128"
+topic = "town_morale"
+source_ids = ["pope_leo"]
+target_ids = ["tarnished"]
+line = "Your presence alone stiffens their spine. Keep patrolling."
+response = "I will walk the walls at dusk. A visible guard reassures."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_129"
+topic = "town_morale"
+source_ids = ["gandalf"]
+target_ids = ["pope_leo"]
+line = "A small miracle, a light in the square. That lifts spirits."
+response = "I will pray for a gentle rain. It is simple and good."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_130"
+topic = "town_morale"
+source_ids = ["invoker"]
+target_ids = ["venti"]
+line = "Repair the water pump. That is concrete morale. Not ballads."
+response = "I will sing while you fix the pump. That is both."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_131"
+topic = "town_morale"
+source_ids = ["venti"]
+target_ids = ["zagreus"]
+line = "Come to the town square. I will teach them a drinking song."
+response = "I will bring nectar from the House. It is potent."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_132"
+topic = "town_morale"
+source_ids = ["gandalf"]
+target_ids = ["tarnished"]
+line = "A victory against a small bandit group will embolden them."
+response = "I will ride out at dawn. They will see the banner return."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_139"
+topic = "town_morale"
+source_ids = ["pope_leo"]
+target_ids = ["invoker"]
+line = "Your calculations ignore the soul. The soul needs kindness."
+response = "Kindness is inefficient. But I yield to your expertise."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "core_03_140"
+topic = "town_morale"
+source_ids = ["gandalf"]
+target_ids = ["zagreus"]
+line = "Tell them a tale from the House. It makes their troubles small."
+response = "I can tell them about Theseus. That always gets a laugh."
+weight = 1.0
+

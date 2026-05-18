@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_06_001"
+topic = "stance_low_guard"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Finn, your low stance still drifts wide."
+response = "My shield arm locks when I rush. I'll drill the narrow base again."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_002"
+topic = "shield_angle_breathe"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Keep the rim tilted after your exhale."
+response = "Right. I drop my elbow when I gasp. I'll count breaths between blocks."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_003"
+topic = "sparring_no_head_strikes"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Head strikes are off limits until you pass restraint drills."
+response = "Understood. I'll stay shoulder and shield level."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_004"
+topic = "bash_follow_through"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "You stop the bash halfway. Shove through the phantom."
+response = "I hesitate to avoid hurting a partner. Need to trust the padded gear."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_005"
+topic = "rim_parry_gauntlet"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Catch the blade on the rim, not the boss."
+response = "Gauntlet scraped again. I'll pivot my wrist earlier."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_006"
+topic = "footwork_sand_circle"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Draw a circle in the sand and never leave it."
+response = "That forces tight pivots. My toes are sore already."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_007"
+topic = "breath_chain_strikes"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Three strikes one breath. Exhale only on the third."
+response = "I panic-breathe mid-swing and lose power. I'll chain slower first."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_008"
+topic = "shield_boss_clinch"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "In a clinch the boss becomes your shortest hammer."
+response = "Turn the rim sideways, drive the center. Got it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_009"
+topic = "eye_line_steady"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Your eyes flick to the weapon hand only."
+response = "I'll fix my gaze on the collarbone. The shield sees the blade."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_010"
+topic = "hook_strike_recovery"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Recover the hook strike to guard, never to hip."
+response = "I'm leaving my ribs open. Shield snaps back next rep."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_011"
+topic = "sweep_trap_sequence"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Bash, sweep, shield trap. Slow it to half speed."
+response = "I rushed the trap and bumped your helm. Slower, cleaner."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_012"
+topic = "pivot_retreat_angle"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Retreat at forty-five degrees, never straight back."
+response = "Straight retreat invites a rush. I'll mark the floor with chalk."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_013"
+topic = "shield_swapping_hands"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Trade shield hands for ten breaths. Build your off-side."
+response = "Feels like a lead weight on the left. But the control improves."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_014"
+topic = "reflex_drill_blindfold"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Blindfold on. Raise shield when you hear the scabbard tap."
+response = "I flinched late twice. The ears need as much training as the arms."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_015"
+topic = "exhaustion_form_check"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "When your lungs burn, that's when form matters most."
+response = "I felt my elbow sag. I'll run a lap then repeat the set."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_016"
+topic = "paired_breathing_drills"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Match my exhale with every block. Become a bellows."
+response = "I was holding breath on the riposte. Two-count exhale from now on."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_017"
+topic = "stance_soft_knees"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Locked knees telegraph a lunge before you move."
+response = "Soft bounce. I'll keep a slight bend even during lectures."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_018"
+topic = "shield_edge_conditioning"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Tap the wooden post one hundred times each edge."
+response = "Counting now. The vibration teaches wrist alignment."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_019"
+topic = "partner_yield_drill"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Push into my shield. When I yield, don't stumble."
+response = "I over-committed again. Need to read the give sooner."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_020"
+topic = "buckler_sight_picture"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "A buckler hides your strike, not your eyes."
+response = "I tucked my chin behind it. Keep sight lines open."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_021"
+topic = "shield_wall_solo_form"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Imagine two allies flanking you. Overlap the shadow rims."
+response = "My phantom wall had gaps. I'll redraw the mental line."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_022"
+topic = "pommel_strike_scenario"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "If the blade fails, the pommel is your second voice."
+response = "I always forget the short game. Reverse grip drill again."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_023"
+topic = "charge_pacing_restraint"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "A charge wins ground but loses footing on loose stone."
+response = "I slipped twice in the quarry. Controlled march from now on."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_024"
+topic = "rim_catch_disarm"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Catch the practice blade in the rim notch, twist and step."
+response = "Twisting too early. The catch must stick before I rotate."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_025"
+topic = "posture_shoulders_down"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Shoulders up steals breath and invites a cut."
+response = "Caught myself bunching up. Shake out, reset, breathe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_026"
+topic = "two_on_one_sparring"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Two padded partners, one shield. Survive sixty heartbeats."
+response = "I turtled too soon. Need to angle between threats."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_027"
+topic = "ground_recovery_roll"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "If you fall, roll to the shield side and post."
+response = "I stayed belly-down too long. One motion, up to knee."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_028"
+topic = "feint_recognition_drill"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "I feint high. You read the hip, not the blade."
+response = "Bought the feint three times. My shield drifted too early."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_029"
+topic = "weight_transfer_advance"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Lead with the hip when advancing, not the chin."
+response = "I lean forward and lose my rear anchor. Compact steps only."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_030"
+topic = "heat_gear_discipline"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Drill in full kit until the heat feels normal."
+response = "My gambeson is soaked but my reactions steadied."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_031"
+topic = "moonlight_shadow_spar"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Torchlight only. Trust the shield more than your eyes."
+response = "My ears picked up the scabbard creak before the swing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_032"
+topic = "rim_jab_accuracy"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Jab the padded circle with your rim five times without a miss."
+response = "First two landed wide. I'm overextending the elbow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_033"
+topic = "stagger_recovery_wall"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "When staggered, find a wall with your shield shoulder."
+response = "Turned my back for a split second. Bad habit. Shield first."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_034"
+topic = "buckler_knuckle_guard"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Wrap your knuckles behind the buckler boss."
+response = "My fingers peeked out. I'll choke up on the grip."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_035"
+topic = "splinter_check_ritual"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Check your shield for splinters every dusk."
+response = "Found a crack near the top rim. I'll sand and wrap it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_036"
+topic = "ladder_charge_step"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Advance five rungs up a ladder with shield strapped."
+response = "Kept hitting the rails. Need to angle the shield flat."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_037"
+topic = "whistle_command_shield"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "One whistle: shield wall. Two: open order."
+response = "I froze on the second whistle. Drill until it is reflex."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_038"
+topic = "bind_and_shield_pop"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Bind his blade, pop the shield into his elbow."
+response = "My pop was soft. I'll treat it like a quick exhale jab."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_039"
+topic = "scabbard_shield_pass"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Pass the shield behind your back to free your draw."
+response = "Snagged my belt twice. Higher pass and a hip tilt."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_040"
+topic = "sweat_management_grip"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Chalk the grip hand every third bout."
+response = "Lost hold during a clinch. Chalk pouch on my belt now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_041"
+topic = "bridge_shield_balance"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Cross the narrow plank with shield centered."
+response = "Leaned too far right and almost fell. Core tight, shield level."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_042"
+topic = "thrust_deflection_curve"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Deflect a thrust with the curved face, not the flat."
+response = "Flat catch jars my wrist. Curve redirects it smoother."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_043"
+topic = "rear_shield_carry"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "March three miles with the shield on your back."
+response = "Straps rubbed raw. I'll pad them before the next route march."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_044"
+topic = "partner_blast_shield"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "I'll blast your shield with a sandbag. Don't step back."
+response = "Braced better on the third hit. Bent knees absorbed the shock."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_045"
+topic = "half_sword_shield_trap"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Half-sword the blade, trap their hilt under your rim."
+response = "Needed to shorten my grip sooner. Blades tangled once."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_046"
+topic = "kite_shield_knee_guard"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Drop the kite shield to cover the lead knee in a crouch."
+response = "I left a gap below the rim. Lower the elbow to seal it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_047"
+topic = "sparring_bout_respect"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Tap shields before every bout. It centers the room."
+response = "I forgot twice. The ritual reminds me we build, not break."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_048"
+topic = "rim_light_catch_drill"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Catch the tossed beanbag on your rim without a sound."
+response = "Too loud. I'm stopping the bag instead of guiding it down."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_049"
+topic = "endurance_shield_hold"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Hold the shield at guard until the sand timer empties."
+response = "My deltoid screamed at the last grain. I'll add one minute weekly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_06_050"
+topic = "shield_grip"
+source_tags = ["warrior"]
+target_tags = ["mentor", "warrior"]
+line = "Let me see your shield grip again. Tighter near the boss."
+response = "Like this? I always want the rim free for a quick bash."
+weight = 1.0

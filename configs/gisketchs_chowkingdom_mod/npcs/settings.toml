@@ -39,7 +39,7 @@ presets = [
 # Config value: llm.cooldown_seconds.
 cooldown_seconds = 4
 # Config value: llm.max_reply_chars.
-max_reply_chars = 280
+max_reply_chars = 600
 # Config value: llm.max_recent_turns.
 max_recent_turns = 30
 # Config value: llm.request_timeout_seconds.
@@ -95,6 +95,8 @@ assigned_workplace = true
 work_missing_blocks = true
 # Config value: llm_message_usage.class_training.
 class_training = true
+# Config value: llm_message_usage.gym_dialogue.
+gym_dialogue = true
 
 # Config value: campers.
 [campers]
@@ -173,3 +175,17 @@ cooldown_max_hours = 4
 balloon_refresh_seconds = 6
 # Config value: npc_interactions.messages.
 messages = ["Talking with {other}...", "Catching up with {other}.", "Comparing notes with {other}.", "Small town meeting with {other}."]
+
+# Config value: interaction_director.
+# Picks a deterministic weighted focus for normal right-click NPC greetings before the LLM writes the line.
+[interaction_director]
+# Config value: interaction_director.enabled.
+enabled = true
+# Config value: interaction_director.recent_history_size.
+recent_history_size = 5
+# Config value: interaction_director.topic_cooldown_minutes.
+topic_cooldown_minutes = 15
+# Config value: interaction_director.topics.
+# Optional custom/global topic overrides. Built-in defaults are used when this list is empty.
+topics = []
+

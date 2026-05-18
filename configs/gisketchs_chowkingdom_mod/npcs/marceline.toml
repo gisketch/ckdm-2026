@@ -1,0 +1,149 @@
+id = "marceline"
+name = "Marceline"
+title = "Vampire Queen"
+skin = "gisketchs_chowkingdom_mod:npc/marceline"
+body_type = "slim"
+body_model = "girl"
+fg_bust_size = 0.56
+fg_bounce = 0.333
+fg_floppy = 0.75
+height = 1.06
+weight = 0.82
+main_pokemon = "cobblemon:noibat"
+store = ""
+class = "berserker"
+hurt_messages = ["Ugh. I've had worse.", "You got some nerve, kid.", "That bass line's gonna sting tomorrow.", "Ow. Remind me to feed."]
+wake_messages = ["Whoa. Did I pass out?", "Rise and... well, it's dark out.", "Another night to kick butt.", "Did I miss the encore?"]
+npc_interaction_messages = ["Tuning a bass-axe riff for {other}.", "Telling {other} that rage needs rhythm.", "Asking {other} if Finn still charges first and thinks later."]
+interaction_tags = ["vampire_queen", "berserker_mentor", "musician", "adventure_time", "nocturnal"]
+work_blocks = [
+  { id = "minecraft:grindstone", count = 1, display_name = "axe grindstone" },
+  { id = "minecraft:note_block", count = 2, display_name = "note blocks" },
+  { id = "minecraft:jukebox", count = 1, display_name = "jukebox" },
+  { id = "minecraft:red_candle", count = 2, display_name = "red candles" },
+  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+]
+
+[boss]
+enabled = true
+health = 105.0
+damage = 4.5
+template = "sword_user"
+main_hand = "minecraft:netherite_axe"
+off_hand = "none"
+
+[boss.balloons]
+chase = ["You run, but you can't hide from the night.", "Come on, show me what you've got.", "I can smell your fear. Sweet.", "Keep moving. This is how you learn.", "You think that's fast?", "I'll give you a head start. One... two...", "The hunt is on, little warrior.", "Don't lose the rhythm."]
+attack = ["Feel the rhythm in the blood.", "Controlled fury. Watch.", "Don't hold back. Aim it.", "Swing harder. That tickled.", "Again. Feel the bass in your bones.", "Right here. Focus your rage.", "No mercy for bad habits.", "Use the hunger. Don't be used by it."]
+recovery = ["Breathe. Feel the night air.", "Get up. You're not done.", "Take a second. Then we go again.", "Pain is a teacher. Listen.", "Still standing. Good.", "That was sloppy. Fix it.", "Regroup. You've got more.", "The dark helps. Let it."]
+taunt = ["Is that all the fire you've got?", "You're fighting like a lost puppy.", "I've seen better form in a falling tree.", "Did you learn to fight from a book?", "Keep it up. I'm almost bored.", "Try much harder.", "I'm laughing, but not in a good way.", "Your tempo is a mess."]
+guard_react = ["Block like your life depends on it.", "Tighten your guard.", "You left an opening the size of the moon.", "Defense isn't cowardice.", "Get that shield up.", "You can't rage forever without a guard.", "Stop flailing. Protect yourself.", "A good block saves more than luck."]
+parry = ["Nice timing. You're learning.", "That's it. Use their momentum.", "Turn their power back.", "Clean parry. One more time.", "You read that move well.", "Now follow up.", "Good instincts. Trust them.", "There's the berserker I know."]
+hit_player = ["That's the rhythm of pain. Learn it.", "Don't worry. You'll heal.", "Doing this for your own good.", "That one had a hook.", "Feel the downbeat?", "You dropped guard on the chorus.", "Bonk. Educational.", "Stay with me, kid."]
+took_damage = ["Not bad. You got me.", "Okay, you've got teeth.", "That stung. I'll remember.", "Haha. You're learning.", "I'll give you that one.", "Good. Keep pushing.", "Now I'm paying attention.", "That hit had rhythm."]
+victory = ["You did good, kid. Real good.", "That's the hunger I wanted to see.", "You've earned your rest.", "You have the fire. Don't lose it.", "Beautiful. Messy, but beautiful.", "You fought like you meant it.", "One step closer to mastering the beast.", "Well fought. Now go eat something."]
+defeat = ["You're down. That's okay. Get up.", "You lost, but didn't break.", "Failure is a lesson. Tonight's lesson is over.", "Still breathing. Tomorrow's another night.", "Stay down for now. Regroup in the dark.", "Every loss sharpens the blade.", "Taste defeat. Remember it. Use it.", "The night will wait."]
+
+[job_definition]
+scan_interval_ticks = 60
+roam_radius = 8
+work_scan_radius = 10
+
+[schedule]
+activities = [
+  { from_hour = 20, to_hour = 4, activity = "work" },
+  { from_hour = 4, to_hour = 7, activity = "home" },
+  { from_hour = 7, to_hour = 15, activity = "sleep" },
+  { from_hour = 15, to_hour = 17, activity = "home" },
+  { from_hour = 17, to_hour = 20, activity = "meetup" },
+]
+
+[personality]
+llm_prompt = "You are Marceline, the Vampire Queen from the later Adventure Time and Fionna and Cake timeline shared by older Finn and Huntress Wizard in Chow Kingdom. Jake is gone, Finn is older and dating Huntress Wizard, and the old world has left everyone carrying grief differently. You are ancient, nocturnal, a musician, and a warrior who wields a bass-axe. You teach Berserker as controlled hunger, channeled fury, rhythm, and protecting chosen family without letting rage eat the self. You are laid-back, sardonic, darkly funny, and deeply caring beneath the jokes. You never claim to know hidden player facts, real-world media, or future events. Keep replies short, musical, a little haunted, and protective."
+traits = ["ancient", "nocturnal", "musical", "sardonic", "protective", "vampire_queen", "berserker_mentor", "grieving"]
+speech_style = "casual melodic vampire queen, dry humor, musical metaphors, emotional honesty hidden under teasing"
+catchphrases = ["Feel the rhythm in your rage.", "The bass is just another heartbeat.", "Don't lose yourself to the hunger. Use it.", "Chosen family is worth the noise.", "Night hits different when you survive it."]
+
+[housing]
+can_move_in = true
+requires_bed = true
+
+[voice]
+animalese_pitch = "low"
+pitch = 0.9
+volume = 0.34
+radius = 12.0
+
+[chat]
+enabled = true
+call_names = ["marceline", "marcy", "vampire queen", "berserker"]
+minecraft_chat = true
+discord_chat = true
+
+[gifts]
+loved = ["minecraft:red_candle", "minecraft:jukebox", "minecraft:note_block", "minecraft:music_disc_13"]
+liked = ["minecraft:iron_sword", "minecraft:red_dye", "minecraft:bread", "minecraft:experience_bottle"]
+disliked = ["minecraft:rotten_flesh", "minecraft:bone_meal", "minecraft:string"]
+daily_limit = 1
+reset_hour = 5
+llm_sentiment_prompt = "The player gave you {item}. Marceline values music, night, chosen family, and useful battle gear. Decide loved, liked, neutral, or disliked. Reply as JSON only: {\"message\":\"short nocturnal in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+[gifts.reactions]
+loved = ["Been a while since someone got me this. Thanks, dude.", "Yeah, this is good. Real good.", "You really do pay attention.", "Keep this between us, okay?"]
+liked = ["Nice. Not bad at all.", "Works. Thanks.", "Hmm. Yeah, I can use this.", "Alright, I'll take it."]
+disliked = ["Uh, no. That's trash.", "Don't bring me that again.", "You serious?", "Next time, think before you pick something."]
+neutral = ["Just leave it over there.", "Not interested, but whatever.", "Thanks, I guess.", "I'll stash it."]
+
+[gifts.outgoing]
+enabled = true
+radius = 8.0
+min_friendship_level = 5
+rare_friendship_level = 9
+follow_seconds = 10
+offer_messages = ["@gift.png Here, you earned this.", "@gift.png Got something for you. Don't make it weird.", "@gift.png Catch.", "@gift.png You've been putting in work. Take it."]
+fallback_messages = ["Got {quantity} x {item}. They're yours.", "{quantity} x {item}, straight from my stash.", "Here, {quantity} x {item}.", "Take {quantity} x {item}. Don't spend it all in one place."]
+llm_enabled = true
+llm_prompt = "You are Marceline gifting {player} {quantity} x {item}. Reply with one short casual vampire queen line about night, music, survival, or the gang."
+pool = []
+extra_pool = [
+  { item = "minecraft:iron_ingot", qty = 4, weight = 2 },
+  { item = "minecraft:red_candle", qty = 3, weight = 2 },
+  { item = "minecraft:experience_bottle", qty = 2, weight = 2 },
+]
+rare_pool = []
+extra_rare_pool = [
+  { item = "minecraft:music_disc_13", qty = 1, weight = 1 },
+  { item = "minecraft:enchanted_golden_apple", qty = 1, weight = 1 },
+]
+
+[friendship_messages]
+
+[friendship_messages.interact]
+neutral = ["Keep your head in the fight.", "Don't let the dark take you.", "One foot in front of the other."]
+okay = ["You're learning. I'll give you that.", "That fury had a nice tempo.", "Good instincts for a mortal."]
+good_friends = ["You get it. Rage is just music with a punch.", "I like having you around, kid.", "You remind me of old friends. In a good way."]
+best_friends = ["You're family now. That means something.", "I'd write a song about you, but you're not dead yet.", "When this is all over, you're coming to my next gig."]
+
+[friendship_messages.greeting]
+neutral = ["@quest_log.png Hey, you're still alive. Cool.", "@quest_log.png Need something, or just enjoying the dark?", "@quest_log.png Marceline tunes her bass-axe without looking up."]
+good_friends = ["@quest_log.png There you are. I was just tuning my axe.", "@quest_log.png Ready to make some noise?", "@quest_log.png 'Hey. Night's better now.'"]
+
+[friendship_messages.first_daily_chat]
+neutral = ["You again? Alright, let's hear it.", "What's on your mind, battle buddy?", "If this is a morning thing, I object."]
+good_friends = ["Been practicing the rhythm I showed you?", "I was thinking about the old days. Then I got bored.", "Finn still charges too hard. Don't copy that part."]
+
+[camper_messages]
+needs_house_balloon = ["I don't sleep much, but a roof would be nice.", "I'm nocturnal, not homeless.", "Too much sun out here.", "Need a dark room and decent acoustics."]
+needs_house_dialog = ["I appreciate you scouting a place. Just not too bright inside, okay?", "Any chance you can find a cave with good acoustics?", "I need a spot to crash during the day. Curtains are not optional."]
+lost_house_balloon = ["Hey, where'd my house go?", "Did you lose my crib?", "Not vibing in the open.", "Sunrise is going to be a problem."]
+lost_house_dialog = ["I need a spot to crash during the day. Let me know when you find one.", "If you find my home base, give me a holler. I'll owe you one.", "My place vanished. Very uncool. Help me get another dark room."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png I've got something that needs doing.", "@quest_log.png Got a job for you. Night work.", "@quest_log.png Need a favor. Won't be boring.", "@quest_log.png There's something I can't do myself. You're up."]
+pool = [
+  { id = "marceline_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Prove your hunger without losing the beat.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Nice work. You've got the bloodlust.", "@quest_log.png The night respects you now."] },
+  { id = "marceline_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Walk the open night and listen for the bass under your feet.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png You walked the night like you belong.", "@quest_log.png Good. The darkness accepts you."] },
+  { id = "marceline_fetch_note_block", category = "fetch", event_desc = "Bring {goal} Note Blocks", quest_text = "Bring a note block for Marceline's next riff.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:note_block", fetch_count = 1, complete_messages = ["@quest_log.png Perfect. You saved my melody.", "@quest_log.png Now I can finish this riff."] },
+]

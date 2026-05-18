@@ -1,0 +1,87 @@
+# Chow Kingdom config: hoenn.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "hoenn"
+# Config value: display_name.
+display_name = "Hoenn League"
+# Config value: generation.
+generation = 3
+# Config value: region.
+region = "Hoenn"
+# Config value: description.
+description = "The Hoenn badge record with May, Wally, Wallace, and Steven adapted for the CKDM Skylands stadium."
+# Config value: icon.
+icon = "textures/gui/icons/trophy.png"
+# Config value: stadium_area.
+stadium_area = "main_stadium"
+# Config value: active_only.
+active_only = true
+# Config value: starter_mode.
+starter_mode = "story_only"
+# Config value: chowfan_npc_id.
+chowfan_npc_id = "prof_chowfan"
+# Config value: trainers.
+trainers = [
+  { id = "may", name = "May", role = "rival", npc_id = "trainer_may", badge_id = "", spawn_group = "hoenn_rivals", main_pokemon = "cobblemon:blaziken" },
+  { id = "wally", name = "Wally", role = "rival", npc_id = "trainer_wally", badge_id = "", spawn_group = "hoenn_rivals", main_pokemon = "cobblemon:gardevoir" },
+  { id = "roxanne", name = "Roxanne", role = "gym_leader", npc_id = "gym_roxanne", badge_id = "stone_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:nosepass" },
+  { id = "brawly", name = "Brawly", role = "gym_leader", npc_id = "gym_brawly", badge_id = "knuckle_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:hariyama" },
+  { id = "wattson", name = "Wattson", role = "gym_leader", npc_id = "gym_wattson", badge_id = "dynamo_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:manectric" },
+  { id = "flannery", name = "Flannery", role = "gym_leader", npc_id = "gym_flannery", badge_id = "heat_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:torkoal" },
+  { id = "norman", name = "Norman", role = "gym_leader", npc_id = "gym_norman", badge_id = "balance_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:slaking" },
+  { id = "winona", name = "Winona", role = "gym_leader", npc_id = "gym_winona", badge_id = "feather_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:altaria" },
+  { id = "tate_liza", name = "Tate & Liza", role = "gym_leader", npc_id = "gym_tate_liza", badge_id = "mind_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:lunatone" },
+  { id = "wallace", name = "Wallace", role = "gym_leader", npc_id = "gym_wallace", badge_id = "rain_badge", spawn_group = "hoenn_gym_leaders", main_pokemon = "cobblemon:milotic" },
+  { id = "sidney", name = "Sidney", role = "elite_four", npc_id = "hoenn_elite_sidney", badge_id = "", spawn_group = "hoenn_elite", main_pokemon = "cobblemon:absol" },
+  { id = "phoebe", name = "Phoebe", role = "elite_four", npc_id = "hoenn_elite_phoebe", badge_id = "", spawn_group = "hoenn_elite", main_pokemon = "cobblemon:dusclops" },
+  { id = "glacia", name = "Glacia", role = "elite_four", npc_id = "hoenn_elite_glacia", badge_id = "", spawn_group = "hoenn_elite", main_pokemon = "cobblemon:walrein" },
+  { id = "drake", name = "Drake", role = "elite_four", npc_id = "hoenn_elite_drake", badge_id = "", spawn_group = "hoenn_elite", main_pokemon = "cobblemon:salamence" },
+  { id = "steven", name = "Steven", role = "champion", npc_id = "hoenn_champion_steven", badge_id = "", spawn_group = "hoenn_champion", main_pokemon = "cobblemon:metagross" },
+]
+# Config value: sequence.
+sequence = [
+  { id = "may_route_103", order = 1, kind = "rival", trainer = "may", display_name = "May - Route 103", badge_id = "", level_cap = 5, team_ref = "rct_trainers/hoenn/may_route_103.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "roxanne", order = 2, kind = "gym", trainer = "roxanne", display_name = "Roxanne", badge_id = "stone_badge", level_cap = 15, team_ref = "rct_trainers/hoenn/roxanne.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "brawly", order = 3, kind = "gym", trainer = "brawly", display_name = "Brawly", badge_id = "knuckle_badge", level_cap = 19, team_ref = "rct_trainers/hoenn/brawly.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "may_route_110", order = 4, kind = "rival", trainer = "may", display_name = "May - Route 110", badge_id = "", level_cap = 20, team_ref = "rct_trainers/hoenn/may_route_110.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "wattson", order = 5, kind = "gym", trainer = "wattson", display_name = "Wattson", badge_id = "dynamo_badge", level_cap = 24, team_ref = "rct_trainers/hoenn/wattson.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "wally_mauville", order = 6, kind = "rival", trainer = "wally", display_name = "Wally - Mauville", badge_id = "", level_cap = 26, team_ref = "rct_trainers/hoenn/wally_mauville.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "flannery", order = 7, kind = "gym", trainer = "flannery", display_name = "Flannery", badge_id = "heat_badge", level_cap = 29, team_ref = "rct_trainers/hoenn/flannery.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "norman", order = 8, kind = "gym", trainer = "norman", display_name = "Norman", badge_id = "balance_badge", level_cap = 31, team_ref = "rct_trainers/hoenn/norman.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "winona", order = 9, kind = "gym", trainer = "winona", display_name = "Winona", badge_id = "feather_badge", level_cap = 33, team_ref = "rct_trainers/hoenn/winona.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "tate_liza", order = 10, kind = "gym", trainer = "tate_liza", display_name = "Tate & Liza", badge_id = "mind_badge", level_cap = 42, team_ref = "rct_trainers/hoenn/tate_liza.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "wallace", order = 11, kind = "gym", trainer = "wallace", display_name = "Wallace", badge_id = "rain_badge", level_cap = 43, team_ref = "rct_trainers/hoenn/wallace.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "wally_victory_road", order = 12, kind = "rival", trainer = "wally", display_name = "Wally - Victory Road", badge_id = "", level_cap = 45, team_ref = "rct_trainers/hoenn/wally_victory_road.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_sidney", order = 13, kind = "elite_four", trainer = "sidney", display_name = "Elite Four - Sidney", badge_id = "", level_cap = 48, team_ref = "rct_trainers/hoenn/elite_sidney.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_phoebe", order = 14, kind = "elite_four", trainer = "phoebe", display_name = "Elite Four - Phoebe", badge_id = "", level_cap = 50, team_ref = "rct_trainers/hoenn/elite_phoebe.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_glacia", order = 15, kind = "elite_four", trainer = "glacia", display_name = "Elite Four - Glacia", badge_id = "", level_cap = 52, team_ref = "rct_trainers/hoenn/elite_glacia.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_drake", order = 16, kind = "elite_four", trainer = "drake", display_name = "Elite Four - Drake", badge_id = "", level_cap = 55, team_ref = "rct_trainers/hoenn/elite_drake.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "champion_steven", order = 17, kind = "champion", trainer = "steven", display_name = "Champion Steven", badge_id = "", level_cap = 58, team_ref = "rct_trainers/hoenn/champion_steven.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+]
+
+# Config value: defaults.
+[defaults]
+# Config value: defaults.daily_attempts_per_npc.
+daily_attempts_per_npc = 3
+# Config value: defaults.attempt_cooldown_minutes.
+attempt_cooldown_minutes = 15
+# Config value: defaults.trainer_respawn_minutes.
+trainer_respawn_minutes = 5
+# Config value: defaults.battle_format.
+battle_format = "GEN_9_SINGLES"
+# Config value: defaults.hard_level_cap.
+hard_level_cap = true
+# Config value: defaults.level_cap_scope.
+level_cap_scope = "whole_party"
+# Config value: defaults.heal_players.
+heal_players = true
+# Config value: defaults.max_item_uses.
+max_item_uses = 2
+# Config value: defaults.rival_branch.
+rival_branch = "default"
+# Config value: defaults.pass_id.
+pass_id = "combat"
+# Config value: defaults.badge_xp.
+badge_xp = 250
+# Config value: defaults.badge_chowcoins.
+badge_chowcoins = 500

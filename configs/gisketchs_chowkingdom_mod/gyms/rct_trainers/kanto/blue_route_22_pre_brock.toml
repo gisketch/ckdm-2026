@@ -1,0 +1,26 @@
+# Chow Kingdom config: blue_route_22_pre_brock.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: name.
+name = "Blue - Route 22"
+# Config value: battleFormat.
+battleFormat = "GEN_9_SINGLES"
+# Config value: team.
+team = [
+  { species = "cobblemon:pikachu", level = 9, moveset = ["quickattack", "thundershock"] },
+]
+
+# Config value: ai.
+[ai]
+# Config value: ai.type.
+type = "rct"
+
+# Config value: battleRules.
+[battleRules]
+# Config value: battleRules.maxItemUses.
+maxItemUses = 2
+# Config value: battleRules.healPlayers.
+healPlayers = true
+# Config value: battleRules.adjustPlayerLevels.
+adjustPlayerLevels = false
+# Config value: battleRules.adjustNPCLevels.
+adjustNPCLevels = false

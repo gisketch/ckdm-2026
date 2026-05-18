@@ -1,0 +1,459 @@
+# Chow Kingdom config: gym_lt_surge.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "gym_lt_surge"
+# Config value: name.
+name = "Lt. Surge"
+# Config value: title.
+title = "Gym leader"
+# Config value: skin.
+skin = ""
+# Config value: body_type.
+body_type = "normal"
+# Config value: body_model.
+body_model = "boy"
+# Config value: fg_bust_size.
+fg_bust_size = 0.6
+# Config value: fg_bounce.
+fg_bounce = 0.333
+# Config value: fg_floppy.
+fg_floppy = 0.75
+# Config value: height.
+height = 1.0
+# Config value: weight.
+weight = 1.0
+# Config value: custom_animation.
+custom_animation = false
+# Config value: playerlike_animation.
+playerlike_animation = false
+# Config value: main_pokemon.
+main_pokemon = "cobblemon:raichu"
+# Config value: class.
+class = ""
+# Config value: store.
+store = ""
+# Config value: npc_interaction_messages.
+npc_interaction_messages = ["Comparing battle notes with {other}.", "Talking through matchup reads with {other}.", "Checking tournament records with {other}.", "Debating clean switches with {other}."]
+# Config value: hurt_messages.
+hurt_messages = []
+# Config value: wake_messages.
+wake_messages = []
+# Config value: work_blocks.
+work_blocks = []
+
+# Config value: job_definition.
+[job_definition]
+# Config value: job_definition.scan_interval_ticks.
+scan_interval_ticks = 60
+# Config value: job_definition.roam_radius.
+roam_radius = 7
+# Config value: job_definition.work_scan_radius.
+work_scan_radius = 9
+
+# Config value: schedule.
+[schedule]
+# Config value: schedule.activities.
+activities = [{ from_hour = 0, to_hour = 24, activity = "pokemon_roam" }]
+
+# Config value: personality.
+[personality]
+# Config value: personality.llm_prompt.
+llm_prompt = "Lt. Surge is the electric-type gym leader stationed at the CKDM Skylands stadium for the Kanto record circuit. He is loud, disciplined, military, and all about tempo, pressure, and commitment. He calls the Skylands altitude perfect lightning country for Raichu. Arceus pulled this trainer into CKDM Skylands after sensing future challengers; they are already strong, but CKDM league rules make them choose lower-level roster Pokemon to match each posted cap. Region and route names are record labels, not their current location."
+# Config value: personality.traits.
+traits = ["pokemon trainer", "gym_leader", "electric specialist", "loud", "disciplined", "Arceus-called Skylands league visitor"]
+# Config value: personality.speech_style.
+speech_style = "booming electric commander with short tactical orders"
+# Config value: personality.catchphrases.
+catchphrases = ["Move fast.", "No half-voltage battles."]
+
+# Config value: boss.
+[boss]
+# Config value: boss.enabled.
+enabled = true
+# Config value: boss.health.
+health = 80.0
+# Config value: boss.damage.
+damage = 4.0
+# Config value: boss.template.
+template = "sword_user"
+# Config value: boss.main_hand.
+main_hand = ""
+# Config value: boss.off_hand.
+off_hand = ""
+
+# Config value: boss.balloons.
+[boss.balloons]
+# Config value: boss.balloons.chase.
+chase = []
+# Config value: boss.balloons.attack.
+attack = []
+# Config value: boss.balloons.recovery.
+recovery = []
+# Config value: boss.balloons.taunt.
+taunt = []
+# Config value: boss.balloons.guard_react.
+guard_react = []
+# Config value: boss.balloons.parry.
+parry = []
+# Config value: boss.balloons.hit_player.
+hit_player = []
+# Config value: boss.balloons.took_damage.
+took_damage = []
+# Config value: boss.balloons.victory.
+victory = []
+# Config value: boss.balloons.defeat.
+defeat = []
+
+# Config value: housing.
+[housing]
+# Config value: housing.can_move_in.
+can_move_in = false
+# Config value: housing.requires_bed.
+requires_bed = false
+
+# Config value: gifts.
+[gifts]
+# Config value: gifts.loved.
+loved = []
+# Config value: gifts.liked.
+liked = []
+# Config value: gifts.disliked.
+disliked = []
+# Config value: gifts.daily_limit.
+daily_limit = 1
+# Config value: gifts.reset_hour.
+reset_hour = 5
+# Config value: gifts.llm_sentiment_prompt.
+llm_sentiment_prompt = "The player gave you {item}. Based on your personality, decide whether this gift is loved, liked, neutral, or disliked. Respond as JSON only: {\"message\":\"short in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+# Config value: gifts.reactions.
+[gifts.reactions]
+# Config value: gifts.reactions.loved.
+loved = []
+# Config value: gifts.reactions.liked.
+liked = []
+# Config value: gifts.reactions.disliked.
+disliked = []
+# Config value: gifts.reactions.neutral.
+neutral = []
+
+# Config value: gifts.outgoing.
+[gifts.outgoing]
+# Config value: gifts.outgoing.enabled.
+enabled = true
+# Config value: gifts.outgoing.radius.
+radius = 8.0
+# Config value: gifts.outgoing.min_friendship_level.
+min_friendship_level = 5
+# Config value: gifts.outgoing.rare_friendship_level.
+rare_friendship_level = 9
+# Config value: gifts.outgoing.follow_seconds.
+follow_seconds = 10
+# Config value: gifts.outgoing.offer_messages.
+offer_messages = []
+# Config value: gifts.outgoing.fallback_messages.
+fallback_messages = []
+# Config value: gifts.outgoing.llm_enabled.
+llm_enabled = true
+# Config value: gifts.outgoing.llm_prompt.
+llm_prompt = "You are gifting {player} {quantity} x {item}. Reply as {npc} with a short warm gift message. Arceus pulled this trainer into CKDM Skylands after sensing future challengers; they are already strong, but CKDM league rules make them choose lower-level roster Pokemon to match each posted cap. Region and route names are record labels, not their current location."
+# Config value: gifts.outgoing.pool.
+pool = []
+# Config value: gifts.outgoing.extra_pool.
+extra_pool = []
+# Config value: gifts.outgoing.rare_pool.
+rare_pool = []
+# Config value: gifts.outgoing.extra_rare_pool.
+extra_rare_pool = []
+
+# Config value: missions.
+[missions]
+# Config value: missions.enabled.
+enabled = false
+# Config value: missions.offer_radius.
+offer_radius = 7.0
+# Config value: missions.offer_balloon_messages.
+offer_balloon_messages = []
+# Config value: missions.pool.
+pool = []
+
+# Config value: unique_quests.
+[unique_quests]
+# Config value: unique_quests.enabled.
+enabled = true
+
+# Config value: unique_quests.fetch.
+[unique_quests.fetch]
+# Config value: unique_quests.fetch.pool.
+pool = []
+
+# Config value: unique_quests.kill.
+[unique_quests.kill]
+# Config value: unique_quests.kill.pool.
+pool = []
+
+# Config value: unique_quests.kill.easy_mobs.
+[unique_quests.kill.easy_mobs]
+# Config value: unique_quests.kill.easy_mobs.pool.
+pool = []
+
+# Config value: unique_quests.kill.rare_mobs.
+[unique_quests.kill.rare_mobs]
+# Config value: unique_quests.kill.rare_mobs.pool.
+pool = []
+
+# Config value: unique_quests.timed.
+[unique_quests.timed]
+# Config value: unique_quests.timed.pool.
+pool = []
+
+# Config value: unique_quests.timed.easy_mobs.
+[unique_quests.timed.easy_mobs]
+# Config value: unique_quests.timed.easy_mobs.pool.
+pool = []
+
+# Config value: unique_quests.timed.rare_mobs.
+[unique_quests.timed.rare_mobs]
+# Config value: unique_quests.timed.rare_mobs.pool.
+pool = []
+
+# Config value: unique_quests.travel.
+[unique_quests.travel]
+# Config value: unique_quests.travel.pool.
+pool = []
+
+# Config value: unique_quests.craft.
+[unique_quests.craft]
+# Config value: unique_quests.craft.pool.
+pool = []
+
+# Config value: unique_quests.smelt.
+[unique_quests.smelt]
+# Config value: unique_quests.smelt.pool.
+pool = []
+
+# Config value: unique_quests.eat.
+[unique_quests.eat]
+# Config value: unique_quests.eat.pool.
+pool = []
+
+# Config value: unique_quests.quiz.
+[unique_quests.quiz]
+# Config value: unique_quests.quiz.pool.
+pool = []
+
+# Config value: unique_quests.catch_pokemon.
+[unique_quests.catch_pokemon]
+# Config value: unique_quests.catch_pokemon.pool.
+pool = []
+
+# Config value: unique_quests.quality_food_fetch.
+[unique_quests.quality_food_fetch]
+# Config value: unique_quests.quality_food_fetch.pool.
+pool = []
+
+# Config value: unique_quests.quality_crop_fetch.
+[unique_quests.quality_crop_fetch]
+# Config value: unique_quests.quality_crop_fetch.pool.
+pool = []
+
+# Config value: unique_quests.food_chain_quest.
+[unique_quests.food_chain_quest]
+# Config value: unique_quests.food_chain_quest.pool.
+pool = []
+
+# Config value: voice.
+[voice]
+# Config value: voice.animalese_pitch.
+animalese_pitch = "med"
+# Config value: voice.pitch.
+pitch = 1.0
+# Config value: voice.volume.
+volume = 0.38
+# Config value: voice.radius.
+radius = 12.0
+
+# Config value: chat.
+[chat]
+# Config value: chat.enabled.
+enabled = true
+# Config value: chat.call_names.
+call_names = []
+# Config value: chat.minecraft_chat.
+minecraft_chat = true
+# Config value: chat.discord_chat.
+discord_chat = true
+
+# Config value: friendship_messages.
+[friendship_messages]
+
+# Config value: friendship_messages.interact.
+[friendship_messages.interact]
+# Config value: friendship_messages.interact.hatred.
+hatred = []
+# Config value: friendship_messages.interact.enemy.
+enemy = []
+# Config value: friendship_messages.interact.dislike.
+dislike = []
+# Config value: friendship_messages.interact.neutral.
+neutral = []
+# Config value: friendship_messages.interact.okay.
+okay = []
+# Config value: friendship_messages.interact.good_friends.
+good_friends = []
+# Config value: friendship_messages.interact.best_friends.
+best_friends = []
+
+# Config value: friendship_messages.gift.
+[friendship_messages.gift]
+# Config value: friendship_messages.gift.hatred.
+hatred = []
+# Config value: friendship_messages.gift.enemy.
+enemy = []
+# Config value: friendship_messages.gift.dislike.
+dislike = []
+# Config value: friendship_messages.gift.neutral.
+neutral = []
+# Config value: friendship_messages.gift.okay.
+okay = []
+# Config value: friendship_messages.gift.good_friends.
+good_friends = []
+# Config value: friendship_messages.gift.best_friends.
+best_friends = []
+
+# Config value: friendship_messages.hurt.
+[friendship_messages.hurt]
+# Config value: friendship_messages.hurt.hatred.
+hatred = []
+# Config value: friendship_messages.hurt.enemy.
+enemy = []
+# Config value: friendship_messages.hurt.dislike.
+dislike = []
+# Config value: friendship_messages.hurt.neutral.
+neutral = []
+# Config value: friendship_messages.hurt.okay.
+okay = []
+# Config value: friendship_messages.hurt.good_friends.
+good_friends = []
+# Config value: friendship_messages.hurt.best_friends.
+best_friends = []
+
+# Config value: friendship_messages.wake.
+[friendship_messages.wake]
+# Config value: friendship_messages.wake.hatred.
+hatred = []
+# Config value: friendship_messages.wake.enemy.
+enemy = []
+# Config value: friendship_messages.wake.dislike.
+dislike = []
+# Config value: friendship_messages.wake.neutral.
+neutral = []
+# Config value: friendship_messages.wake.okay.
+okay = []
+# Config value: friendship_messages.wake.good_friends.
+good_friends = []
+# Config value: friendship_messages.wake.best_friends.
+best_friends = []
+
+# Config value: friendship_messages.greeting.
+[friendship_messages.greeting]
+# Config value: friendship_messages.greeting.hatred.
+hatred = []
+# Config value: friendship_messages.greeting.enemy.
+enemy = []
+# Config value: friendship_messages.greeting.dislike.
+dislike = []
+# Config value: friendship_messages.greeting.neutral.
+neutral = []
+# Config value: friendship_messages.greeting.okay.
+okay = []
+# Config value: friendship_messages.greeting.good_friends.
+good_friends = []
+# Config value: friendship_messages.greeting.best_friends.
+best_friends = []
+
+# Config value: friendship_messages.first_daily_chat.
+[friendship_messages.first_daily_chat]
+# Config value: friendship_messages.first_daily_chat.hatred.
+hatred = []
+# Config value: friendship_messages.first_daily_chat.enemy.
+enemy = []
+# Config value: friendship_messages.first_daily_chat.dislike.
+dislike = []
+# Config value: friendship_messages.first_daily_chat.neutral.
+neutral = []
+# Config value: friendship_messages.first_daily_chat.okay.
+okay = []
+# Config value: friendship_messages.first_daily_chat.good_friends.
+good_friends = []
+# Config value: friendship_messages.first_daily_chat.best_friends.
+best_friends = []
+
+# Config value: shop_messages.
+[shop_messages]
+
+# Config value: shop_messages.single.
+[shop_messages.single]
+# Config value: shop_messages.single.hatred.
+hatred = []
+# Config value: shop_messages.single.enemy.
+enemy = []
+# Config value: shop_messages.single.dislike.
+dislike = []
+# Config value: shop_messages.single.neutral.
+neutral = []
+# Config value: shop_messages.single.okay.
+okay = []
+# Config value: shop_messages.single.good_friends.
+good_friends = []
+# Config value: shop_messages.single.best_friends.
+best_friends = []
+
+# Config value: shop_messages.normal.
+[shop_messages.normal]
+# Config value: shop_messages.normal.hatred.
+hatred = []
+# Config value: shop_messages.normal.enemy.
+enemy = []
+# Config value: shop_messages.normal.dislike.
+dislike = []
+# Config value: shop_messages.normal.neutral.
+neutral = []
+# Config value: shop_messages.normal.okay.
+okay = []
+# Config value: shop_messages.normal.good_friends.
+good_friends = []
+# Config value: shop_messages.normal.best_friends.
+best_friends = []
+
+# Config value: shop_messages.bulk.
+[shop_messages.bulk]
+# Config value: shop_messages.bulk.hatred.
+hatred = []
+# Config value: shop_messages.bulk.enemy.
+enemy = []
+# Config value: shop_messages.bulk.dislike.
+dislike = []
+# Config value: shop_messages.bulk.neutral.
+neutral = []
+# Config value: shop_messages.bulk.okay.
+okay = []
+# Config value: shop_messages.bulk.good_friends.
+good_friends = []
+# Config value: shop_messages.bulk.best_friends.
+best_friends = []
+
+# Config value: camper_messages.
+[camper_messages]
+# Config value: camper_messages.needs_house_balloon.
+needs_house_balloon = []
+# Config value: camper_messages.needs_house_dialog.
+needs_house_dialog = []
+# Config value: camper_messages.lost_house_balloon.
+lost_house_balloon = []
+# Config value: camper_messages.lost_house_dialog.
+lost_house_dialog = []
+
+
+
+

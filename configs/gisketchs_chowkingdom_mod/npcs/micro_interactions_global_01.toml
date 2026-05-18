@@ -1,0 +1,2374 @@
+[[exchanges]]
+id = "global_01_001"
+topic = "town life"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Need sharp steel for the coming storm?"
+response = "Aye, grind my blade true, friend."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_002"
+topic = "weather"
+source_tags = ["bard","playful"]
+target_tags = ["town"]
+line = "Rain tonight, I smell it on the wind."
+response = "Then we dance indoors, by the hearth."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_003"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["warrior"]
+line = "Your stance is wide, feet too far apart."
+response = "Show me the guard again, master."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_004"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","quiet"]
+line = "Fresh bread from the stone oven, still hot."
+response = "I'll take two loaves, wrap them in cloth."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_005"
+topic = "monsters"
+source_tags = ["fire","warrior"]
+target_tags = ["fire"]
+line = "Goblins in the eastern pass again."
+response = "Torch oil and steel, we ride at dusk."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_006"
+topic = "beds"
+source_tags = ["town","professor"]
+target_tags = ["arcane","quiet"]
+line = "Rest is necessary for memory recall."
+response = "I'll sleep after I finish this chapter."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_007"
+topic = "patrols"
+source_tags = ["town","warrior"]
+target_tags = ["town","archer"]
+line = "You take the north wall, I'll watch south."
+response = "Keep your eyes on the treeline, sir."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_008"
+topic = "campfires"
+source_tags = ["bard","playful"]
+target_tags = ["warrior","wise"]
+line = "Sing us a tale of the old king's fall."
+response = "That song is too long for one fire."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_009"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town"]
+line = "Bring water from the well before sundown."
+response = "Already drawn two buckets, mother."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_010"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "Mud on the high road, carts get stuck."
+response = "I'll send a crew with planks and rope."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_011"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town"]
+line = "The herald calls a meeting at noon bell."
+response = "I need to finish this crate first."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_012"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Corn tall this year, ears heavy as stone."
+response = "Good, we'll have flour through winter."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_013"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["paladin"]
+line = "Five more laps, shield up, no slouching."
+response = "Yes, sergeant, my arms burn already."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_014"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "West wind carries smoke from the hills."
+response = "Forest fire or camp cookfire? Hard to tell."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_015"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "New shipment of steel ingots arrived."
+response = "Save me three bars, I'll pay double."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_016"
+topic = "town life"
+source_tags = ["town","witcher"]
+target_tags = ["town"]
+line = "Strange tracks near the graveyard wall."
+response = "Could be a ghoul or a stray dog."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_017"
+topic = "monsters"
+source_tags = ["frost","bounty_hunter"]
+target_tags = ["town","paladin"]
+line = "Yeti seen on the glacier, three nights ago."
+response = "We need silver bolts and fire salts."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_018"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The inn's best room smells of damp wool."
+response = "A dry straw pallet under the eaves, then."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_019"
+topic = "training"
+source_tags = ["mentor","playful"]
+target_tags = ["berserker"]
+line = "Control your rage, or the rage controls you."
+response = "Hard lesson, master. I keep trying."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_020"
+topic = "campfires"
+source_tags = ["bard","wise"]
+target_tags = ["town","quiet"]
+line = "I heard a song about the silver tower."
+response = "Sing it softly, the night is listening."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_021"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","archer"]
+line = "Feathers for fletching, hawk and eagle."
+response = "I need a dozen straight eagle shafts."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_022"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Sweep the porch before the mayor visits."
+response = "Already swept and sprinkled vinegar."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_023"
+topic = "roads"
+source_tags = ["earth","warrior"]
+target_tags = ["town","rogue"]
+line = "Bandits dug pits on the old trade road."
+response = "I'll scout ahead and mark the traps."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_024"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "Dancing bears and jugglers at the square."
+response = "I'll bring my lute, we'll make coin."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_025"
+topic = "weather"
+source_tags = ["wind","witcher"]
+target_tags = ["town","wise"]
+line = "Air tastes of iron and old rot today."
+response = "Something died in the woods last night."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_026"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Apples bruised from hail, make cider quick."
+response = "I'll buy the lot at half price, deal?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_027"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["forcemaster"]
+line = "Focus the energy, don't let it scatter."
+response = "I feel the flow, I just can't hold it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_028"
+topic = "monsters"
+source_tags = ["arcane","quiet"]
+target_tags = ["town","warrior"]
+line = "Shadow thing in the cellar ate the cat."
+response = "I'll bring a torch and a silver knife."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_029"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The evening bell marks prayer hour."
+response = "I hear it. One more minute, please."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_030"
+topic = "town life"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","wise"]
+line = "Tax collector comes tomorrow, be ready."
+response = "I'll hide the good stock in the cellar."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_031"
+topic = "patrols"
+source_tags = ["fire","warrior"]
+target_tags = ["fire","paladin"]
+line = "Relieve the west gate guard at midnight."
+response = "I'll bring extra torches, it's pitch dark."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_032"
+topic = "campfires"
+source_tags = ["bard","playful"]
+target_tags = ["town","berserker"]
+line = "Your axe throw broke the stump apart."
+response = "I aimed for the knot. Good enough."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_033"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "Ferryman says the bridge is rotten."
+response = "I'll send lumber for a quick repair."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_034"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The ink has dried in the pot again."
+response = "Add a drop of vinegar, it thins quickly."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_035"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","quiet"]
+line = "Salt from the coast, coarse and white."
+response = "Fill a sack, I'm curing meat tonight."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_036"
+topic = "weather"
+source_tags = ["wind","warcher"]
+target_tags = ["town","quiet"]
+line = "Fog rolling in, can't see ten feet ahead."
+response = "Light the beacon on the tower roof."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_037"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["paladin"]
+line = "A shield is not a wall, it's a weapon."
+response = "I practice the bash, not just the block."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_038"
+topic = "monsters"
+source_tags = ["frost","bounty_hunter"]
+target_tags = ["town","warrior"]
+line = "Wolves with blue eyes, bigger than normal."
+response = "Werewolves or enchanted, bring silver."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_039"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","bard"]
+line = "You kept me up with your lute until dawn."
+response = "Sorry friend, inspiration struck late."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_040"
+topic = "plaza"
+source_tags = ["town","playful"]
+target_tags = ["town","professor"]
+line = "The well has a frog in it again."
+response = "A frog? Or a water spirit? Check closely."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_041"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Sheep need shearing before the rains."
+response = "I'll send my son with sharp shears."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_042"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "Another stranger in the tavern asking questions."
+response = "I'll keep an ear on his conversation."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_043"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "Midday bell is late today. Broken rope?"
+response = "I'll climb the tower and check myself."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_044"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Locks and keys, finest steel pins."
+response = "Show me the pick-resistant models."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_045"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["archer"]
+line = "You release too early. Feel the anchor."
+response = "I'll hold one extra breath every shot."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_046"
+topic = "campfires"
+source_tags = ["water","bard"]
+target_tags = ["town","wise"]
+line = "Cold night. Pour more wine into the pot."
+response = "My turn to stir the mull mix, cheers."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_047"
+topic = "monsters"
+source_tags = ["fire","warrior"]
+target_tags = ["fire","witcher"]
+line = "Basilisk nest under the old mill."
+response = "I'll bait it out with a goat carcass."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_048"
+topic = "roads"
+source_tags = ["earth","quiet"]
+target_tags = ["town","warrior"]
+line = "Landslide on the pass to the mines."
+response = "We need pickaxes and shovels, fast."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_049"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The candles have burned down to nubs."
+response = "Melt the ends together, we have more."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_050"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "North wind tastes of snow and ice."
+response = "Winter comes early this year, stock up."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_051"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "The inn mattress has lumps the size of fists."
+response = "Sleep on the floor then, it's softer."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_052"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Dried meat and hardtack, a week's ration."
+response = "Pack it with salt, I'm marching east."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_053"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["forcemaster"]
+line = "The mind is the weapon. Steel is a tool."
+response = "I try to quiet my thoughts, still hard."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_054"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Check the drainage ditch for tracks."
+response = "Mud prints heading toward the granary."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_055"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "I saw a juggler drop three skulls yesterday."
+response = "Not skulls, painted gourds. Very realistic."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_056"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Chickens stopped laying, maybe a fox."
+response = "I'll set a live trap by the coop door."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_057"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The mayor's son is in the stocks again."
+response = "Petty theft. A night there might teach him."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_058"
+topic = "monsters"
+source_tags = ["water","bounty_hunter"]
+target_tags = ["town","warrior"]
+line = "River serpent sighted near the ford."
+response = "Harpoons and nets, we hunt at low tide."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_059"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "Funeral bell tolls nine times. Who died?"
+response = "Old Lena, in her sleep. Peaceful."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_060"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","archer"]
+line = "New sinew for longbows, cured three weeks."
+response = "I'll take two lengths, price fair?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_061"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["berserker"]
+line = "Breathe through the pain, don't let it stop you."
+response = "Easier said when you're not bleeding."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_062"
+topic = "campfires"
+source_tags = ["wind","bard"]
+target_tags = ["town","wise"]
+line = "The stars are clear tonight. Good omen."
+response = "Or a cold front. Stars mean frost soon."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_063"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "The old bridge creaks, only one cart at time."
+response = "I'll send a carpenter with iron brackets."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_064"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The roof leaks when it rains hard."
+response = "Patch it with tar cloth for now."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_065"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Hailstones the size of acorns yesterday."
+response = "Damaged the barley field, I heard."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_066"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "I dreamed I was a fish in a barrel."
+response = "You eat too much cheese before sleep."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_067"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Beeswax for your bowstring, pure and smooth."
+response = "Rub a thin layer, makes the string last."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_068"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["witcher"]
+line = "Know your prey before the fight starts."
+response = "I spent an hour reading its tracks."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_069"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Smoke on the horizon, east side."
+response = "I'll ride out with a bucket brigade."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_070"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The fountain is clogged with leaves again."
+response = "I'll take my net and scoop them out."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_071"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Hay bales need turning, wet underneath."
+response = "I'll send the stable boy with a pitchfork."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_072"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The herbalist is out of feverfew again."
+response = "Gather wild chamomile, it works too."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_073"
+topic = "monsters"
+source_tags = ["arcane","quiet"]
+target_tags = ["town","warrior"]
+line = "Phantom wails from the church crypt."
+response = "I'll bring a censer and holy water."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_074"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The loud bell cracked. We need the smith."
+response = "I'll fetch him, he owes me a favor."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_075"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Fine leather gloves with hidden blade slits."
+response = "How many coins for that pair?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_076"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["paladin"]
+line = "Shield wall, keep the line, no gaps."
+response = "I locked my arm with the man beside."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_077"
+topic = "campfires"
+source_tags = ["water","bard"]
+target_tags = ["town","wise"]
+line = "Pass the bottle, my throat is dry."
+response = "Last swig. Save some for the road."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_078"
+topic = "roads"
+source_tags = ["earth","quiet"]
+target_tags = ["town","warrior"]
+line = "Muddy ruts deep enough to break a wheel."
+response = "We need gravel, and fast. I'll see the mayor."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_079"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The map is stained with wine again."
+response = "Trace the lines fresh with ink."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_080"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Crows flying inland, storm is coming."
+response = "Secure the livestock. I'll tie the thatch."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_081"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "I woke up with straw in my underwear."
+response = "The inn's pallets need a good beating."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_084"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Footprints near the powder magazine."
+response = "Double the guard and check the fuse."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_085"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The town crier lost his voice shouting."
+response = "I'll play a fanfare to get their attention."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_086"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Pigs broke the fence, now in the garden."
+response = "Chase them out and mend the posts."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_087"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The blacksmith's apprentice ran away."
+response = "He'll be back when he gets hungry."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_088"
+topic = "monsters"
+source_tags = ["water","bounty_hunter"]
+target_tags = ["town","warrior"]
+line = "Kraken tentacles in the fishing nets."
+response = "Cut the nets, better than a capsized boat."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_089"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "Wedding bells ring three times. Who's tying?"
+response = "The baker's daughter and the miller's son."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_090"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Poisons for your arrow tips, very potent."
+response = "Show me the fast-acting kind. Good."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_091"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["forcemaster"]
+line = "Hold the concentration, even if I hit you."
+response = "I flinch, but I'm getting better."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_092"
+topic = "campfires"
+source_tags = ["wind","bard"]
+target_tags = ["town","wise"]
+line = "The fire is low. Who's on wood duty?"
+response = "I'll split another log from the pile."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_093"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "They found a body in the ditch last night."
+response = "Robbery, I bet. Loose lips in the tavern."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_094"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The garden needs weeding before noon."
+response = "I'll do it after I finish the ledger."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_095"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Thunder clouds from the east, no rain yet."
+response = "The lightning starts the fires. Be ready."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_096"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "I shared a bed with three strangers last night."
+response = "A full inn. At least it was warm."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_097"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Leather oil and saddle soap, best quality."
+response = "Rub it in slow, keeps the leather soft."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_098"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["witcher"]
+line = "Use your senses fully, not just your eyes."
+response = "I smelled it before I saw the trap."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_099"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Lanterns need oil for the night watch."
+response = "Fill them from the barrel at the gate."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_100"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The statue has a pigeon living on its head."
+response = "That's terrible luck. Shoo it away."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_101"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The well level dropped a foot this month."
+response = "Drought coming. We'll dig a new one."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_102"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The playwright wants actors for the festival."
+response = "I'd rather be the stage hand."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_103"
+topic = "monsters"
+source_tags = ["arcane","quiet"]
+target_tags = ["town","warrior"]
+line = "Rats with red eyes in the grain silo."
+response = "Feed them poison, or I will burn them."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_104"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The dusk bell rings six short dings."
+response = "Means curfew for children, get indoors."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_105"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Glass vials with corks, various sizes."
+response = "I'll take a dozen small ones for potions."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_106"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["paladin"]
+line = "Hold that pose until your legs shake."
+response = "They already shake. Can I rest?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_107"
+topic = "campfires"
+source_tags = ["water","bard"]
+target_tags = ["town","wise"]
+line = "A riddle, for a sip of wine each."
+response = "I'm terrible at riddles. Tell it slowly."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_108"
+topic = "roads"
+source_tags = ["earth","quiet"]
+target_tags = ["town","warrior"]
+line = "A tree fell across the market road."
+response = "Bring an axe and rope, clear it now."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_109"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The inkwell is empty. I need more."
+response = "Make some from soot and gum arabic."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_110"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Sun dogs on both sides of the sun."
+response = "Means a storm in two days, prepare."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_111"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "The bedbugs left welts on my arm."
+response = "Change the straw, burn the old batch."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_112"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Carrots and onions, fresh from the field."
+response = "I'll take a bundle, soup for tonight."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_114"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Suspicious noise from the old keep ruins."
+response = "I'll scout with a torch and a sword."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_115"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The chess players argue over a move."
+response = "They started fighting with the board."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_116"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "Goats got into the dye shed, colored wool."
+response = "Sell it as festival cloth, higher price."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_117"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The smith is sick, no horseshoes today."
+response = "I'll shoe my own horse, watched him once."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_118"
+topic = "monsters"
+source_tags = ["fire","warrior"]
+target_tags = ["fire","witcher"]
+line = "Imp fire trails in the barn at night."
+response = "Salt circles and cold iron, I know it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_119"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The midnight bell rang twice, false alarm."
+response = "Someone pulled the rope as a joke."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_120"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Smoke bombs and flash powders. Special order."
+response = "I'll prepay half now, rest on delivery."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_121"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["archer"]
+line = "Keep your elbow up, you drop it under stress."
+response = "I drilled that, but the real fight is different."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_122"
+topic = "campfires"
+source_tags = ["wind","bard"]
+target_tags = ["town","wise"]
+line = "Let me tell you about the ice queen."
+response = "Save it. I know that tale by heart."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_123"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "Caravan guards found smashed crates."
+response = "Bandits or animals. Either way, loss."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_124"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The horse needs a new set of shoes."
+response = "I'll lead it to the smith after lunch."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_125"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Frost on the grass this morning."
+response = "Cover the herbs with cloth tonight."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_126"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "I need a new pillow, old one flat as paper."
+response = "Fold your cloak under your head. Works."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_127"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Rope and canvas, heavy duty for tents."
+response = "Cut me twenty yards, ship it to the camp."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_128"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["forcemaster"]
+line = "Do not force the energy. Let it flow."
+response = "I relax, but it feels like falling."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_129"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Guard report: strange lights on the hill."
+response = "Probably a traveler's camp. Still check."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_130"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "Kids chase a hoop with sticks again."
+response = "At least they're not throwing stones."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_131"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The barley turned yellow too early."
+response = "Fungus, I think. Burn the infected stalks."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_132"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The tailor is making a winter coat for me."
+response = "Ask for extra lining, the north wind bites."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_133"
+topic = "monsters"
+source_tags = ["frost","bounty_hunter"]
+target_tags = ["town","warrior"]
+line = "Mammoth tracks near the frozen lake."
+response = "Do not hunt it. It will hunt you."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_134"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The alarm bell sounds three short bursts."
+response = "Fire in the east quarter, grab buckets."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_135"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Marbles and caltrops for distractions."
+response = "I'll scatter them behind me if chased."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_136"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["paladin"]
+line = "You ate too much before practice. Vomit, then continue."
+response = "Ugh. Fine. Don't watch."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_137"
+topic = "campfires"
+source_tags = ["water","bard"]
+target_tags = ["town","wise"]
+line = "Tell me a story of the deep sea."
+response = "Only if you promise not to sleep."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_138"
+topic = "roads"
+source_tags = ["earth","quiet"]
+target_tags = ["town","warrior"]
+line = "Merchant says the mountain pass has snow."
+response = "Turn back. We take the coastal route."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_139"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The dog is muddy again from the creek."
+response = "Brush it outside. It will roll in mud again."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_140"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Swallows flying low, rain before dusk."
+response = "I'll bring the washing in now."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_141"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "The innkeeper charged extra for a blanket."
+response = "Dispute it. Blankets are included."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_142"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Salt pork and dried beans for the road."
+response = "Good. Pack it in oiled cloth."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_143"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["witcher"]
+line = "A witcher must know when to retreat."
+response = "I ran from a Leshen. Smart move."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_144"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "The gate lock is jammed, need oil."
+response = "I'll bring the grease from the armory."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_145"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The juggler uses torches now, risky."
+response = "I love the smell of burning oil."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_146"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The scarecrow fell over, crows in the corn."
+response = "Prop it up, put a hat on it, works."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_147"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The well water tastes of copper today."
+response = "Check the bucket, maybe it's rusting."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_149"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The morning bell sounds flat, needs tuning."
+response = "I'll call the bell maker tomorrow."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_150"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Crowbar with a magnetic tip, useful."
+response = "Plus a lockpick set. How much total?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_151"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["berserker"]
+line = "Your howl is weak. From the gut, not the throat."
+response = "Like this? (loud howl) Better?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_152"
+topic = "campfires"
+source_tags = ["wind","bard"]
+target_tags = ["town","wise"]
+line = "We need more fuel. Night is long."
+response = "I saw dead oak branches an hour east."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_153"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "The signpost points the wrong way again."
+response = "Someone rotated it for a prank. Fix it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_154"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The chimney smoke blows back into the room."
+response = "Sweep the soot, maybe a bird nest."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_155"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Fog this thick is unnatural."
+response = "Wraith mist. Stay indoors until noon."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_156"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "I miss my hammock from the south."
+response = "Tie one between two trees in the yard."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_157"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Dried apples and raisins, sweet ration."
+response = "Good for energy on long marches."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_158"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["archer"]
+line = "Breathe after the release, not before."
+response = "I always hold my breath when aiming."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_159"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Rope on the battlement needs replacing."
+response = "I'll get the new coil from storage."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_160"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The butcher gives free bones to the dogs."
+response = "The dogs love him. He loves them back."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_161"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The pumpkin vines died overnight, wilted."
+response = "Cut them, burn the vines, try again."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_162"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The night watchman fell asleep on duty."
+response = "Put him on day duty for a week."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_163"
+topic = "monsters"
+source_tags = ["water","bounty_hunter"]
+target_tags = ["town","warrior"]
+line = "Sea serpent scales washed up at dawn."
+response = "It is close. Prepare harpoons."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_164"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The bell rope snapped during a pull."
+response = "I'll splice it. Have a spare rope."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_165"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Earring with a hidden pick, very subtle."
+response = "I'll wear it. Best piece I've seen."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_166"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["forcemaster"]
+line = "No magic can replace discipline. Drill again."
+response = "Yes, master. Until my arms fall off."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_167"
+topic = "campfires"
+source_tags = ["water","bard"]
+target_tags = ["town","wise"]
+line = "The wine is sour. Did someone drop herbs in?"
+response = "Yes, rosemary. It is not sour, it is flavored."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_168"
+topic = "roads"
+source_tags = ["earth","quiet"]
+target_tags = ["town","warrior"]
+line = "The bridge over the gorge is missing planks."
+response = "We will make a rope bridge for now."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_169"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The bookbinding glue is too thick."
+response = "Warm it over the fire, stir slowly."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_170"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "The clouds have an oily sheen. Tornado?"
+response = "Maybe. Head to the storm cellar now."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_171"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "A mouse ran across my face in the night."
+response = "Catch it and give it to the cat."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_172"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "New saddles, leather and brass fittings."
+response = "I need one for a warhorse, larger girth."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_173"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["paladin"]
+line = "Your oath is your shield when steel fails."
+response = "I remember my vows. They guide me."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_174"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "The armory is missing a sword."
+response = "Find whose post it was. Ask them."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_175"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The baker threw bread at the thief."
+response = "Stale bread, but it worked."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_176"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The ox has a sore hoof, limping."
+response = "Call the vet. I will cover the cost."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_177"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The water mill stopped turning. No flour."
+response = "Check the wheel for debris or damage."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_178"
+topic = "monsters"
+source_tags = ["frost","bounty_hunter"]
+target_tags = ["town","warrior"]
+line = "Ice wraith froze the entire south pasture."
+response = "Fire mage needed. I know one."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_179"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The bell tolls once for a stillbirth."
+response = "Bless the soul. I will light a candle."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_180"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Nailed boots for climbing walls."
+response = "Do they work on stone, not just wood?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_181"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["berserker"]
+line = "You lost your shield. Now fight without it."
+response = "I will use my left arm to block."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_182"
+topic = "campfires"
+source_tags = ["wind","bard"]
+target_tags = ["town","wise"]
+line = "I will sing a ballad about the fallen king."
+response = "Only if you reach the high notes right."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_183"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "The ferry is stuck on a sandbar."
+response = "Wait for the tide. It will float free."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_184"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The cat knocked over the ink bottle again."
+response = "Scoop up the sand, blot the pages."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_185"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Hail came, broken tiles on the roof."
+response = "I will patch with shale slabs."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_186"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "The snorer next door kept everyone awake."
+response = "Throw a boot at the wall. Works."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_187"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Garlic braids, hang them in the stable."
+response = "Keeps flies away. I will take four."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_188"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["witcher"]
+line = "A monster's lair always has an escape route."
+response = "I found a hidden tunnel behind the altar."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_189"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "The moat is low, exposed mud and trash."
+response = "Open the sluice gate from the river."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_190"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The acrobat fell and hurt her ankle."
+response = "She will heal. I hope she continues."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_191"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The beehive is empty, no honey this fall."
+response = "The bees swarmed. I saw them head west."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_192"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The stranger paid with old coins, out of circulation."
+response = "Silver or copper? Silver is still worth it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_193"
+topic = "monsters"
+source_tags = ["arcane","quiet"]
+target_tags = ["town","warrior"]
+line = "Poltergeist in the inn. Cups floating."
+response = "I will bless the room with salt and iron."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_194"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The noon bell marks the end of silence."
+response = "Time to speak again, good."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_195"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Grappling hook with folding prongs."
+response = "Compact and strong. I will test it."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_196"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["archer"]
+line = "Stand straight, both feet on the line."
+response = "It is harder on wet grass."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_197"
+topic = "campfires"
+source_tags = ["water","bard"]
+target_tags = ["town","wise"]
+line = "The embers glow blue. Not just wood."
+response = "Copper in the fire pit. Old metal."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_198"
+topic = "roads"
+source_tags = ["earth","quiet"]
+target_tags = ["town","warrior"]
+line = "Dust cloud on the horizon. Riders, many."
+response = "Form up, we do not know if friends."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_199"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The chalkboard is grey, needs fresh wash."
+response = "I will mix new chalk paint tonight."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_200"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "The south wind tastes of salt and iron."
+response = "Sea battle or dead whale on the shore."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_201"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "The roof drips into a pot by the bed."
+response = "Constant drip. Hard to sleep."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_202"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "Wax candles, slow burn, no smoke."
+response = "I will buy a box for the long nights."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_203"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["forcemaster"]
+line = "The ball of energy is a feeling, not a shape."
+response = "I try to cup it like water. Hard."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_204"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "Fresh hoof prints near the west wall."
+response = "Riders pass within the hour. Alert."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_205"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The flower seller gave a rose to a child."
+response = "That child will remember it forever."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_206"
+topic = "farms"
+source_tags = ["earth","quiet"]
+target_tags = ["town","shopkeeper"]
+line = "The milk churn is half empty this morning."
+response = "Did the cow get milked late? Check."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_207"
+topic = "town life"
+source_tags = ["town","quiet"]
+target_tags = ["town","wise"]
+line = "The cobbler is moving to the capital."
+response = "That is a loss. His boots were the best."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_208"
+topic = "monsters"
+source_tags = ["fire","warrior"]
+target_tags = ["fire","witcher"]
+line = "Fire salamander under the forge brickwork."
+response = "Smoke it out with bellows and water."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_209"
+topic = "bells"
+source_tags = ["town","priest"]
+target_tags = ["town","quiet"]
+line = "The chapel bell rings happy sounds."
+response = "A wedding is inside. Smile."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_210"
+topic = "shops"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","rogue"]
+line = "Silk rope, stronger than hemp, thin."
+response = "Good for climbing. Price steep, but I buy."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_211"
+topic = "training"
+source_tags = ["mentor","strict"]
+target_tags = ["paladin"]
+line = "No mercy in training. Pain teaches you."
+response = "I will remember this lesson, master."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_212"
+topic = "campfires"
+source_tags = ["wind","bard"]
+target_tags = ["town","wise"]
+line = "The logs popped and sent sparks high."
+response = "Watch your cloak, sparks hole wool."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_213"
+topic = "roads"
+source_tags = ["water","rogue"]
+target_tags = ["town","shopkeeper"]
+line = "The ford is flooded after last night's rain."
+response = "We wait until noon, water will drop."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_214"
+topic = "chores"
+source_tags = ["town","quiet"]
+target_tags = ["town","professor"]
+line = "The firewood pile is low for winter."
+response = "I will split logs all day tomorrow."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_215"
+topic = "weather"
+source_tags = ["wind","archer"]
+target_tags = ["town","quiet"]
+line = "Ice on the pond, thick enough to walk."
+response = "Do not test it. Not yet. Wait a week."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_216"
+topic = "beds"
+source_tags = ["town","quiet"]
+target_tags = ["town","playful"]
+line = "I dreamed I was a king, but lost my crown."
+response = "Dreams reflect your worries today."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_217"
+topic = "market"
+source_tags = ["town","shopkeeper"]
+target_tags = ["town","warrior"]
+line = "New knives, bone handle, good balance."
+response = "I need a skinner. This one, how much?"
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_218"
+topic = "training"
+source_tags = ["mentor","wise"]
+target_tags = ["berserker"]
+line = "Your strength is nothing without control."
+response = "I am learning control, slowly."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_219"
+topic = "patrols"
+source_tags = ["fire","paladin"]
+target_tags = ["fire","warrior"]
+line = "The watchtower ladder has a broken rung."
+response = "I will fix it before sunset."
+weight = 1.0
+
+
+
+[[exchanges]]
+id = "global_01_220"
+topic = "plaza"
+source_tags = ["town","bard"]
+target_tags = ["town","playful"]
+line = "The sun sets orange behind the old keep."
+response = "Beautiful. Let me tune my lute for tonight."
+weight = 1.0
+

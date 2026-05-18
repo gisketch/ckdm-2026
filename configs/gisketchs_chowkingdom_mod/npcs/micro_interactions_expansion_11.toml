@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_11_001"
+topic = "contract_board_handoff"
+source_tags = ["witcher"]
+target_tags = ["town"]
+line = "New notices on the board. Silver coin jobs."
+response = "Read them. No simple pest work I hope."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_002"
+topic = "monster_lair_tracking"
+source_tags = ["witcher", "monster_hunter"]
+target_tags = ["mentor"]
+line = "Three-toed prints lead into the eastern thicket."
+response = "Follow the deeper impressions. Ignore the false trails."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_003"
+topic = "silver_blade_preparation"
+source_tags = ["class_witcher", "monster_hunter"]
+target_tags = ["town"]
+line = "Oiling my silver edge before dusk falls."
+response = "Good. Dull blades make for long evenings."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_004"
+topic = "ghoul_nest_scouting"
+source_tags = ["witcher", "monster_hunter"]
+target_tags = ["town"]
+line = "Found a disturbed barrow south of the old well."
+response = "Mark the site. We clear it together at dawn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_005"
+topic = "ciri_sword_technique"
+source_tags = ["ciri"]
+target_tags = ["mentor", "town"]
+line = "Your pirouette timing grows sharper each week."
+response = "Practice blinks between the strikes. That saves lives."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_006"
+topic = "geralt_contract_advice"
+source_tags = ["geralt"]
+target_tags = ["town", "mentor"]
+line = "Read the notice twice. Take half the coin upfront."
+response = "And always check the alderman for hidden teeth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_007"
+topic = "sword_technique_riposte"
+source_tags = ["witcher", "sword_technique"]
+target_tags = ["mentor"]
+line = "My parry slides. The weight shift feels wrong."
+response = "Plant the back heel. Let the sword pivot, not your arm."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_008"
+topic = "monster_track_identification"
+source_tags = ["monster_hunter"]
+target_tags = ["town", "mentor"]
+line = "Claw marks on the chapel stones. Bear or barghest?"
+response = "Barghest. Bears drag sideways when they scratch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_009"
+topic = "cobblemon_field_behavior"
+source_tags = ["monster_hunter"]
+target_tags = ["pokemon", "researcher"]
+line = "Have you seen nocturnal pokemon near the cairns?"
+response = "Some glow softly. They avoid the plagued ground."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_010"
+topic = "witcher_potion_rationing"
+source_tags = ["witcher", "class_witcher"]
+target_tags = ["town"]
+line = "I have three Swallow vials left for the season."
+response = "Share with none but the gravely wounded."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_011"
+topic = "skyland_lore_ruins"
+source_tags = ["monster_hunter"]
+target_tags = ["skyland_lore", "mentor"]
+line = "The floating ruins hum with old curse tones."
+response = "Wraith songs. Carry dimeritium before you leap."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_012"
+topic = "monster_hunter_patrol_route"
+source_tags = ["monster_hunter", "witcher"]
+target_tags = ["town"]
+line = "Patrol the west fence tonight. Something digs there."
+response = "I will walk the perimeter until moonrise."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_013"
+topic = "cobblemon_biology_claw_marks"
+source_tags = ["bubblegum", "researcher"]
+target_tags = ["monster_hunter"]
+line = "These scratch samples are not from any pokemon breed."
+response = "I know. I tracked the creature for three nights."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_014"
+topic = "contract_board_upkeep"
+source_tags = ["witcher"]
+target_tags = ["store_explorer", "town"]
+line = "The board wood is rotting. Replace the oak planks."
+response = "I will craft fresh ones by midday."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_015"
+topic = "sign_quen_practice"
+source_tags = ["class_witcher", "witcher"]
+target_tags = ["mentor"]
+line = "My Quen sphere flickers under heavy impacts."
+response = "Hold the breath longer. Will the shield into stillness."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_016"
+topic = "sign_igni_fire_control"
+source_tags = ["witcher", "fire_wizard"]
+target_tags = ["mentor"]
+line = "Igni scorched the meadow beyond my intent."
+response = "Imagine a candle. Not a bonfire. Focus narrow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_017"
+topic = "sign_aard_clearing_debris"
+source_tags = ["witcher"]
+target_tags = ["town"]
+line = "Used Aard to clear the landslide on the pass."
+response = "Good. The merchants will reach market tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_018"
+topic = "sign_yrden_trap_placement"
+source_tags = ["witcher", "monster_hunter"]
+target_tags = ["mentor"]
+line = "Yrden glyphs overlap poorly on uneven stone."
+response = "Draw them wider. Slow the fiend, do not cage it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_019"
+topic = "sign_axii_calming_beast"
+source_tags = ["witcher", "class_witcher"]
+target_tags = ["town"]
+line = "Axiied a frightened horse near the bridge."
+response = "Use it gently. Coercion leaves marks on the mind."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_020"
+topic = "eclipse_monster_migration"
+source_tags = ["zuko", "fire_wizard"]
+target_tags = ["monster_hunter"]
+line = "The eclipse last week moved the fiend pack north."
+response = "I noticed. Fresh tracks near the old watchtower."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_021"
+topic = "link_sword_technique_totk"
+source_tags = ["link"]
+target_tags = ["witcher", "sword_technique"]
+line = "Your spin slash recovers faster than mine."
+response = "Yours carries more power. Trade drills at noon?"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_022"
+topic = "zelda_light_magic_detection"
+source_tags = ["zelda", "light_magic"]
+target_tags = ["monster_hunter"]
+line = "I sense corrupted light under the southern shrine."
+response = "Then I bring silver and salt. Stand behind me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_023"
+topic = "toph_earth_wizard_tracking"
+source_tags = ["toph", "earth_wizard"]
+target_tags = ["witcher"]
+line = "I feel digging underneath the clay quarry."
+response = "Burrower type. We need shock traps, not swords."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_024"
+topic = "gandalf_wizard_portent"
+source_tags = ["gandalf", "wizard"]
+target_tags = ["witcher", "monster_hunter"]
+line = "The stars whisper of a hunt beneath the hill."
+response = "I prefer tracks over whispers. But I will go."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_025"
+topic = "marceline_nocturnal_notes"
+source_tags = ["marceline", "nocturnal", "musician"]
+target_tags = ["monster_hunter"]
+line = "Heard a baying song near the cemetery last midnight."
+response = "That is no song. That is a howler on the prowl."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_026"
+topic = "aloy_bounty_hunter_gear"
+source_tags = ["aloy", "bounty_hunter"]
+target_tags = ["witcher"]
+line = "Your bombs use dimeritium powder? Show me the mix."
+response = "Dimeritium, saltpeter, and a dash of devil's puffball."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_027"
+topic = "legolas_war_archer_sentry"
+source_tags = ["legolas", "war_archer"]
+target_tags = ["witcher"]
+line = "I sighted a wounded griffin on the eastern peak."
+response = "Wounded beasts are the most dangerous. Wait for me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_028"
+topic = "traxex_tundra_archer_frost_beast"
+source_tags = ["traxex", "tundra_archer"]
+target_tags = ["witcher", "monster_hunter"]
+line = "A frost-touched wyrm surfaced near the ice lake."
+response = "I will prepare Northern Wind bombs and heated oil."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_029"
+topic = "finn_warrior_sparring"
+source_tags = ["finn", "warrior"]
+target_tags = ["witcher", "sword_technique"]
+line = "I blocked ten of your cuts. Is that a record?"
+response = "You also left your left flank open eleven times."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_030"
+topic = "invoker_arcane_wizard_curse_lift"
+source_tags = ["invoker", "arcane_wizard"]
+target_tags = ["witcher"]
+line = "The shopkeeper's hex is subtle. I need your signs."
+response = "Yrden on the doorframe. Axii on the mirror. Go."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_031"
+topic = "elsa_frost_wizard_cryo_weakness"
+source_tags = ["elsa", "frost_wizard"]
+target_tags = ["witcher"]
+line = "My ice slows the strigae only for moments."
+response = "Moments are enough. Freeze the legs. I strike."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_032"
+topic = "katara_water_wizard_cleanse_wounds"
+source_tags = ["katara", "water_wizard"]
+target_tags = ["witcher"]
+line = "That venom spread quickly. Let my water draw it out."
+response = "Grateful. A witcher's kit can only do so much."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_033"
+topic = "aang_wind_wizard_scout"
+source_tags = ["aang", "wind_wizard"]
+target_tags = ["witcher"]
+line = "I swept the northern ridge on my glider. Clear."
+response = "Then we push through the low valley before noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_034"
+topic = "huntress_wizard_archer_arrows"
+source_tags = ["huntress_wizard", "archer"]
+target_tags = ["witcher"]
+line = "My cursed arrows miss. The specter bends the shafts."
+response = "Silver tips. Plain wood. No enchantments to corrupt."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_035"
+topic = "zagreus_berserker_headstrong"
+source_tags = ["zagreus", "berserker"]
+target_tags = ["witcher"]
+line = "I charged the wyvern alone and lost two ribs."
+response = "Bravery without plan is just loud dying. Rest."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_036"
+topic = "ezio_rogue_shadows_scout"
+source_tags = ["ezio", "rogue"]
+target_tags = ["witcher"]
+line = "The alderman meets cloaked figures at the granary."
+response = "Mark him. I will demand answers after the contract."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_037"
+topic = "pope_leo_priest_bless_weapon"
+source_tags = ["pope_leo", "priest"]
+target_tags = ["witcher"]
+line = "May I bless your blade before the hunt?"
+response = "Steel accepts any help against the spectral kind."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_038"
+topic = "pope_leo_priest_burial_sites"
+source_tags = ["pope_leo", "priest"]
+target_tags = ["witcher", "monster_hunter"]
+line = "Unsanctified graves disturb the parish grounds."
+response = "Noonwraith soil. I will consecrate it after the purge."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_039"
+topic = "tarnished_paladin_shield_wall"
+source_tags = ["tarnished", "paladin"]
+target_tags = ["witcher"]
+line = "Stand behind my shield when the barghest pack charges."
+response = "I accept. Cover my flank while I lay Yrden traps."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_040"
+topic = "vi_forcemaster_heavy_creature"
+source_tags = ["vi", "forcemaster"]
+target_tags = ["witcher"]
+line = "I can restrain the golem's left arm for six seconds."
+response = "Six seconds is all I need to reach its core."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_041"
+topic = "venti_bard_contract_tales"
+source_tags = ["venti", "bard"]
+target_tags = ["witcher"]
+line = "A wandering merchant sang of your griffin contract."
+response = "Then he exaggerated. I did not leap the ravine."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_042"
+topic = "shoumai_cosmetics_disguise"
+source_tags = ["shoumai", "store_cosmetics"]
+target_tags = ["witcher"]
+line = "I mixed a scent paste to mask human odor."
+response = "Useful. The nekkers track by smell more than sight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_043"
+topic = "ciri_elder_blood_trace"
+source_tags = ["ciri"]
+target_tags = ["monster_hunter"]
+line = "I felt a temporal ripple near the dolmen stones."
+response = "Anomaly beasts. They phase. Hit only when solid."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_044"
+topic = "geralt_sword_technique_school"
+source_tags = ["geralt"]
+target_tags = ["witcher", "sword_technique"]
+line = "Remember the half-spin dodge from the school yard."
+response = "Still saves my spine. The young ones prefer rolling."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_045"
+topic = "skyland_survival_roost_danger"
+source_tags = ["link"]
+target_tags = ["witcher", "skyland_survival"]
+line = "An aeromonculus nests on the floating terrace."
+response = "I will climb at first light. Bring ropes and a crossbow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_046"
+topic = "bubblegum_cobblemon_research_field"
+source_tags = ["bubblegum", "cobblemon_biology"]
+target_tags = ["witcher", "monster_hunter"]
+line = "I need ectoplasm samples from post-wraith battle."
+response = "Bring glass vials and thick gloves. I will collect it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_047"
+topic = "store_seed_potion_ingredients"
+source_tags = ["witcher"]
+target_tags = ["store_seed", "town"]
+line = "I require arenaria and wolfsbane. Fresh if possible."
+response = "The greenhouse has both. Leave coin or trade signs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_048"
+topic = "class_witcher_mentor_advice"
+source_tags = ["witcher", "class_witcher"]
+target_tags = ["mentor"]
+line = "What sign halts a pack of drowned dead fastest?"
+response = "Yrden ring. Then Igni the center. Do not hesitate."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_049"
+topic = "expedition_skyland_monster_map"
+source_tags = ["witcher", "monster_hunter"]
+target_tags = ["skyland_lore", "town"]
+line = "I charted lairs across the skyland archipelago."
+response = "Pin it on the contract board. We share the burden."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_11_050"
+topic = "witcher_signs_versus_fire_technique"
+source_tags = ["witcher", "class_witcher"]
+target_tags = ["fire_wizard", "mentor"]
+line = "Your Igni is fierce, but can it cauterize a neck wound mid-fight?"
+response = "Better question: can your signs ward off a draconic fire spirit?"
+weight = 1.0

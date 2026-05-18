@@ -1,0 +1,22 @@
+{
+  "name": "Blue - S.S. Anne",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:wartortle",
+      "level": 24,
+      "moveset": [
+        "tackle"
+      ]
+    }
+  ]
+}

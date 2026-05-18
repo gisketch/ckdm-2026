@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.18a",
+    "version": "v2026.05.19a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -1900,6 +1900,20 @@
       "side": "client"
     },
     {
+      "id": "drippy-early-loading-module",
+      "source": "modrinth",
+      "projectId": "k3TlcLvL",
+      "versionId": "9y5XWVtz",
+      "repoPath": null,
+      "filename": "drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
+      "sha1": "1aa0b076f18e60671c11db2f3d3f8f2c23cd1d04",
+      "sha512": null,
+      "size": 133983,
+      "url": "https://cdn.modrinth.com/data/k3TlcLvL/versions/9y5XWVtz/drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
+      "optional": false,
+      "side": "client"
+    },
+    {
       "id": "drippy-loading-screen",
       "source": "modrinth",
       "projectId": "v3CYg2V9",
@@ -2306,15 +2320,15 @@
       "side": "client"
     },
     {
-      "id": "mods-gisketchs-chowkingdom-mod-1-0-6",
+      "id": "mods-gisketchs-chowkingdom-mod-1-0-7",
       "source": "repo",
       "projectId": null,
       "versionId": null,
-      "repoPath": "mods/gisketchs_chowkingdom_mod-1.0.6.jar",
-      "filename": "gisketchs_chowkingdom_mod-1.0.6.jar",
-      "sha1": "0bb4bf8eb9b4388f83f416bdbec340aa571a5673",
+      "repoPath": "mods/gisketchs_chowkingdom_mod-1.0.7.jar",
+      "filename": "gisketchs_chowkingdom_mod-1.0.7.jar",
+      "sha1": "79dedf87958123263b2fbff37aca63a7d8265249",
       "sha512": null,
-      "size": 16577450,
+      "size": 17170045,
       "url": "",
       "optional": false,
       "side": "client"
@@ -3034,6 +3048,20 @@
       "side": "both"
     },
     {
+      "id": "rctapi",
+      "source": "modrinth",
+      "projectId": "CBfM2yw7",
+      "versionId": "zpphgptV",
+      "repoPath": null,
+      "filename": "rctapi-neoforge-1.21.1-0.15.2-beta.jar",
+      "sha1": "06914d0d3dde9e92d14b5944db4e494527d89df0",
+      "sha512": null,
+      "size": 235207,
+      "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/zpphgptV/rctapi-neoforge-1.21.1-0.15.2-beta.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "redirected",
       "source": "modrinth",
       "projectId": "hhnR8xqU",
@@ -3324,6 +3352,20 @@
       "sha512": null,
       "size": 12617777,
       "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/eREhvVpQ/simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "simply-tents",
+      "source": "modrinth",
+      "projectId": "yWY7WWmg",
+      "versionId": "OxmCGDmI",
+      "repoPath": null,
+      "filename": "simplytents-4.0.1-1.21.1.neo.jar",
+      "sha1": "9fc7f5953605f65a404b4394448dc67e2b2a4502",
+      "sha512": null,
+      "size": 375283,
+      "url": "https://cdn.modrinth.com/data/yWY7WWmg/versions/OxmCGDmI/simplytents-4.0.1-1.21.1.neo.jar",
       "optional": false,
       "side": "both"
     },

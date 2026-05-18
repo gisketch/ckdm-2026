@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_07_001"
+topic = "ward_layering"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I weave two wards at once: one shimmering, one still. The overlap doubles the trap."
+response = "Clever. Use water threads next time. They hold longer against firebreath."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_002"
+topic = "fire_containment"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "My fire ward keeps wild blaze-cats out, but the rune burns out by midnight."
+response = "Add crushed nether quartz to the chalk. It anchors the cycle."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_003"
+topic = "frost_lock"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I froze a phantom inside my warning glyph. It still whispers."
+response = "Let it. A ward with a voice frightens looters more than silence."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_004"
+topic = "earth_pillar_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "Stone pillars set in a star pattern jarred a skyland tremor today."
+response = "Excellent. Next time sink the pillars knee-deep in damp clay."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_005"
+topic = "wind_blockade"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A gale ward turned a charging ravager sideways. It looked confused."
+response = "Wind blockades reward timing. Weave yours in three-second pulses."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_006"
+topic = "arcane_trigger"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I birthed an arcane eye that triggers only when magic is cast nearby."
+response = "Refine the eye to squint. Less mana drain, same alert."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_007"
+topic = "light_sigil"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A sunlight sigil dried a bog patch in minutes. Plants thrived."
+response = "Pair it with a moon sigil for balanced regrowth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_008"
+topic = "water_curtain"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "My water curtain ward washed away a phantom's trail completely."
+response = "Good. Now freeze the curtain edge to make it last longer."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_009"
+topic = "frost_rune_cascade"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "Three frost runes chained flared at once. Overkill for a single crow."
+response = "Link them in sequence, not parallel. Saves half the ether."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_010"
+topic = "air_cushion"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "An air cushion ward broke a falling stone block midair."
+response = "Tether it to a charged feather. It will hover longer."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_011"
+topic = "ember_web"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I stretched a ward of thin ember threads across a cave mouth."
+response = "Thin threads snare small pests. For trolls use braided blaze-wool."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_012"
+topic = "clay_ring"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A damp clay ring around the well kept sneasels out all week."
+response = "Press crushed iron flakes into the clay. It grounds static."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_013"
+topic = "arcane_noise_trap"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "My ward echoes a harp chord when stepped on. Beautiful and loud."
+response = "Tune the chord to a minor third. Less false triggers from wind."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_014"
+topic = "mist_barrier"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A mist barrier confused a pack of zubat until sunrise."
+response = "Mix moonwater into the mist. It clings to wings better."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_015"
+topic = "sunstone_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A sunstone ward bathed my garden through the night. Crops doubled."
+response = "Cap the stone at half glow or the soil dries out."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_016"
+topic = "speaking_gate"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "My gate asks for a riddle answer before unlatching."
+response = "Change the riddle weekly. Intruders share answers fast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_017"
+topic = "frost_mirror"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A frost mirror ward reflected a will-o-wisp back into the bog."
+response = "Polish it with snow salt. Smudged mirrors scatter the beam."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_018"
+topic = "wind_chime_alarm"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "Wind chimes tipped with arcane powder ring only for ill intent."
+response = "Add a pinch of glowstone dust. It lights up the intruder."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_019"
+topic = "stone_memory"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I taught a cobblestone to hum the last spell cast near it."
+response = "Use granite. It holds memory twice as long as cobble."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_020"
+topic = "light_lure"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A lure ward made of bottled dawn drew a stray ponyta home."
+response = "Dim it gradually or the ponyta panics at threshold."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_021"
+topic = "arcane_suture"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I stitched a torn ward with pure arcane thread. It held."
+response = "Excellent field fix. Carry pre-spun thread in waxed linen."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_022"
+topic = "water_mark"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A water mark on the library door slides open only for scholars."
+response = "Bind it to ink, not water. Ink remembers the quill owner."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_023"
+topic = "frost_pin"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A tiny frost pin ward froze a burglar's lockpick solid."
+response = "Keep the pin on the latch plate. Door edges catch frostbite."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_024"
+topic = "dust_devil_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "My dust devil ward swept the training yard clean in seconds."
+response = "Tame the spin radius or it scatters practice dummies."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_025"
+topic = "fire_brand"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A fire brand ward on my staff deters thieves with a hiss."
+response = "Add dried sulfur to the brand. The smell lingers on hands."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_026"
+topic = "earth_dome"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "An earth dome ward sealed a falling debris pocket until help came."
+response = "Line the dome inner wall with moss. It purifies stale air."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_027"
+topic = "arcane_foxfire"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "Foxfire wards along the path lit only for the patrol party."
+response = "Tie them to badge sigils. No badge, no glow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_028"
+topic = "wind_shear_net"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A wind shear net ward caught a diving aerodactyl unharmed."
+response = "Soften the net knots with cloud cotton or it bruises wings."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_029"
+topic = "frozen_threshold"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I froze the threshold of the seed store. Only boots melted it."
+response = "Carve a hairline rune for bare paws. Helpless skiddos stay safe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_030"
+topic = "light_cage"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A cage of hard light held a raging gurdurr till it calmed."
+response = "Tint the light blue. It mimics twilight and soothes quicker."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_031"
+topic = "arcane_echo"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "An arcane echo ward repeats the last shouted warning for hours."
+response = "Give it a cooldown gap or echoes overlap into noise."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_032"
+topic = "steam_curtain"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A steam curtain cooked a slime that slid under the gate."
+response = "Direct the steam downward next time. Slimes leap high."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_033"
+topic = "hardened_air_pane"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I shaped an air pane ward to block crossbow bolts."
+response = "Excellent. Reinforce its corners with woven feathergrass."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_034"
+topic = "frost_glyph_chain"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A chain of frost glyphs froze a rogue stream before the mill."
+response = "Break the chain before morning or the mill wheel cracks."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_035"
+topic = "ward_network_hum"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "All town wards hum in harmony now. We call it the dusk chord."
+response = "Beautiful. Record the chord. A mute ward can be spotted."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_036"
+topic = "moon_puddle_trap"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A moonlit puddle ward swallowed a gremlin ankle-deep."
+response = "Fill the puddle with silver sand next time. It grips faster."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_037"
+topic = "charcoal_binding"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "I bound a firebat to a charcoal stick ward. No more raids."
+response = "Replace the stick every new moon or it crumbles to ash."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_038"
+topic = "living_vine_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "Living vine wards grew over the archery range fence. Arrows stick."
+response = "Train the vines to bow outward. Less arrow loss."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_039"
+topic = "brew_vapor_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A brew vapor ward steeped the alchemy tent in calming mist."
+response = "Use only one herb per vapor. Mixed fumes can backfire."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_040"
+topic = "compass_needle_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A compass needle ward always points to the central plaza."
+response = "Anchor it with lodestone dust or it drifts after storms."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_041"
+topic = "rain_skirt_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A rain skirt ward sheds water five paces from the shop door."
+response = "Taper the skirt arc or wind blows the rain sideways."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_042"
+topic = "ember_stampede"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "Thirty ember hooves thundered past the ward but nothing burned."
+response = "You tuned the heat threshold perfectly. A gold star day."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_043"
+topic = "grudge_rope_ward"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A knotted rope ward tightens only when a grudge-bearer passes."
+response = "Dangerous. Unknot it with forgiveness water every fortnight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_044"
+topic = "starlight_circle"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A starlight circle ward feeds on skyland crystal echoes."
+response = "Magnificent. Set a backup sunstone in case of cloud cover."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_045"
+topic = "ink_veil"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "An ink veil ward blinds ill-wishers who stare too long."
+response = "Charge the ink with squid essence. Freshness matters."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_046"
+topic = "breeze_corridor"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A breeze corridor ward vents forge smoke straight up the cliff."
+response = "Line the corridor with soot-lily leaves. Filters ash."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_047"
+topic = "stillness_basin"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A stillness basin ward stopped a tremor before it cracked the kiln."
+response = "Fine work. Now link it to the forge anvil for wider reach."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_048"
+topic = "candle_sentry"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "A candle ward flickers when a shadow step enters the bakery."
+response = "Dip the wick in glowberry juice. No smoke, cleaner signal."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_049"
+topic = "aura_mirror"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "An aura mirror ward shows a creature's temper before it charges."
+response = "Polish weekly with sand from the creature's own biome."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_07_050"
+topic = "vault_hymn"
+source_tags = ["wizard", "mentor"]
+target_tags = ["mentor"]
+line = "The town vault sings a hymn. Only the friendly hum back."
+response = "Teach the hymn to every mentor. One missed note locks all."
+weight = 1.0

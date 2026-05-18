@@ -18,6 +18,7 @@ perks = [
 
 [mentor_quest]
 mentor_npc_id = "gandalf"
+mentor_npc_ids = ["gandalf", "zelda"]
 title = "Grey Pilgrim Lesson"
 intro_message = "Gandalf tests patience, light, and courage before granting Wizard."
 unlock_title = "Grey Sparkbearer"

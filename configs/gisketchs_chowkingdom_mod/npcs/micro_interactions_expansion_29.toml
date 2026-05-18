@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_29_001"
+topic = "spar_wrap_check"
+source_tags = ["mentor", "earth_wizard"]
+target_tags = ["town", "warrior"]
+line = "Toph: Your stance held for five rounds. Twist left slow. No fractures?"
+response = "Finn: Nope, just sore. Katara already checked my ribs earlier."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_002"
+topic = "bandage_roll_share"
+source_tags = ["mentor", "rogue"]
+target_tags = ["town", "wind_wizard"]
+line = "Ezio: I keep extra linen wraps in the south tower cache. Take two."
+response = "Aang: Thanks. The gusts scraped my palms raw during that last drill."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_003"
+topic = "waterskin_refill"
+source_tags = ["mentor", "water_wizard"]
+target_tags = ["town", "bounty_hunter"]
+line = "Katara: Drink all of it. Your sweat loss was heavy out there."
+response = "Aloy: I know. The skyland sun cooks faster than any desert."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_004"
+topic = "potion_rack_reminder"
+source_tags = ["mentor", "arcane_wizard"]
+target_tags = ["town", "forcemaster"]
+line = "Invoker: Minor mana-burn salve behind the counter. Self-serve."
+response = "Vi: Good. My forearms are starting to tingle. Appreciate it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_005"
+topic = "leather_strap_repair"
+source_tags = ["mentor", "witcher"]
+target_tags = ["town", "monster_hunter"]
+line = "Geralt: Your shoulder buckle is fraying. Swap it before dusk patrol."
+response = "Marceline: I have spare straps. Care to trade for a silver needle?"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_006"
+topic = "shield_dent_check"
+source_tags = ["mentor", "paladin"]
+target_tags = ["town", "warrior", "zelda"]
+line = "Tarnished: The dent near the Triforce crest needs hammering."
+response = "Zelda: I shall take it to the forge after I finish my skyland report."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_007"
+topic = "crossbow_string_wax"
+source_tags = ["mentor", "war_archer"]
+target_tags = ["town", "tundra_archer"]
+line = "Legolas: Cold snap cracks dry string. Wax yours twice tonight."
+response = "Traxex: I have frozen tallow from last week. Works on recurves too."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_008"
+topic = "herb_compress_offer"
+source_tags = ["mentor", "priest"]
+target_tags = ["town", "berserker"]
+line = "Pope Leo: Yarrow poultice for that shin. Apply before swelling starts."
+response = "Zagreus: Hand it over. I am not limping into the mess hall."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_009"
+topic = "boot_sole_inspect"
+source_tags = ["mentor", "rogue"]
+target_tags = ["town", "bounty_hunter"]
+line = "Ezio: Your tread is bald on the inner edge. Was that from cliffside?"
+response = "Aloy: Cliffside and two roof chases. I will see the cobbler tomorrow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_010"
+topic = "tea_blend_restock"
+source_tags = ["mentor", "fire_wizard"]
+target_tags = ["town", "bard"]
+line = "Zuko: Ginseng tin is empty. Make a run to the seed store soon."
+response = "Venti: On my list. I need more mint for my throat anyway."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_011"
+topic = "cloak_tear_patch"
+source_tags = ["mentor", "frost_wizard"]
+target_tags = ["town", "wind_wizard"]
+line = "Elsa: I can freeze-seam that cloak rip. It will hold until stitching."
+response = "Aang: Please do. High wind rips through the smallest holes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_012"
+topic = "arrow_shaft_count"
+source_tags = ["mentor", "war_archer"]
+target_tags = ["town", "archer"]
+line = "Legolas: You dropped two bodkins near the east gate shrubs."
+response = "Huntress Wizard: I already reclaimed them. Good eye, old friend."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_013"
+topic = "bracer_retie"
+source_tags = ["mentor", "earth_wizard"]
+target_tags = ["town", "forcemaster"]
+line = "Toph: Your left bracer is loose. Vibrations will misread through it."
+response = "Vi: Fixing it now. I kept slipping on those tremor waves."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_014"
+topic = "lantern_fluid_check"
+source_tags = ["mentor", "witcher"]
+target_tags = ["town", "nocturnal"]
+line = "Geralt: Dim flame attracts unwanted foglets. Top off the oil."
+response = "Marceline: I hunt better in dark anyway. But I will refill it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_015"
+topic = "saddle_girth_cinch"
+source_tags = ["mentor", "paladin"]
+target_tags = ["town", "warrior", "link"]
+line = "Tarnished: Your mount's girth is sliding left. Tighten before sky jump."
+response = "Link: Noted. She shifted weight when we crossed the cloud bridge."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_016"
+topic = "cobblemon_nest_report"
+source_tags = ["mentor", "researcher"]
+target_tags = ["town", "cobblemon_biology"]
+line = "Bubblegum: No hostile nests near the bell tower. I scanned at dawn."
+response = "Katara: Good. I will alert patrols to keep clear of the hatchlings."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_017"
+topic = "spar_ring_sweep"
+source_tags = ["mentor", "wind_wizard"]
+target_tags = ["town", "fire_wizard"]
+line = "Aang: I lifted the loose gravel off the pit. It should drain now."
+response = "Zuko: Finally. My footing was skating on those wet pebbles."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_018"
+topic = "salve_tin_return"
+source_tags = ["mentor", "water_wizard"]
+target_tags = ["town", "monster_hunter"]
+line = "Katara: Bring back the burn salve tin when your hand heals."
+response = "Marceline: It is practically empty. I will refill it with aloe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_019"
+topic = "quiver_strap_splice"
+source_tags = ["mentor", "tundra_archer"]
+target_tags = ["town", "archer"]
+line = "Traxex: Use sinew thread for strap repair. Cotton rots in mist."
+response = "Huntress Wizard: I have gut-string from last hunt. Show me the knot."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_020"
+topic = "bell_tower_shift"
+source_tags = ["mentor", "bard"]
+target_tags = ["town", "nocturnal"]
+line = "Venti: I will take second watch on the bell tower tonight."
+response = "Marceline: Suits me. I prefer first watch. Sunsets are noisy."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_021"
+topic = "hilt_rebind"
+source_tags = ["mentor", "witcher"]
+target_tags = ["town", "ciri"]
+line = "Geralt: Shark skin wrap is peeling. I have spare at the armory."
+response = "Ciri: I will bind it after bath. Steel tang should not breathe."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_022"
+topic = "skyland_supply_crate"
+source_tags = ["mentor", "skyland_survival"]
+target_tags = ["town", "warrior"]
+line = "Zelda: Crate of dried meat and bandages arrives by dusk glider."
+response = "Finn: Awesome. I will haul it from the landing pad."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_023"
+topic = "dragon_scale_shed"
+source_tags = ["mentor", "dragon_memory"]
+target_tags = ["town", "skyland_lore"]
+line = "Zelda: Light Dragon scales still fall near the eastern islet."
+response = "Aang: I saw one glinting. Shall I gather them for crafting?"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_024"
+topic = "forge_cooldown_timer"
+source_tags = ["mentor", "fire_wizard"]
+target_tags = ["town", "warrior", "link"]
+line = "Zuko: Bellows need a five-count between strokes. You will warp blade."
+response = "Link: I was rushing. Master Sword does not forgive sloppy heat."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_025"
+topic = "water_basin_change"
+source_tags = ["mentor", "water_wizard"]
+target_tags = ["town", "priest"]
+line = "Katara: I replaced the chapel basin water. It froze overnight."
+response = "Pope Leo: Bless you. Frost wizard patrols leave ice in odd places."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_026"
+topic = "spar_partner_swap"
+source_tags = ["mentor", "berserker"]
+target_tags = ["town", "warrior"]
+line = "Zagreus: Swap partners tomorrow. I need speed practice, not strength."
+response = "Finn: Deal. I want to test Tarnished's shield bash anyway."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_027"
+topic = "ointment_jar_label"
+source_tags = ["mentor", "arcane_wizard"]
+target_tags = ["town", "researcher"]
+line = "Invoker: Label your ointments in charcoal. I grabbed wrong jar."
+response = "Bubblegum: I will rewrite them. Mana burn and muscle rub look similar."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_028"
+topic = "patrol_route_overlap"
+source_tags = ["mentor", "bounty_hunter"]
+target_tags = ["town", "rogue"]
+line = "Aloy: Our routes overlap near the old watchtower. Share a signal?"
+response = "Ezio: Three short whistles means clear. Two long means trouble."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_029"
+topic = "seed_store_errand"
+source_tags = ["mentor", "earth_wizard"]
+target_tags = ["town", "bard", "store_seed"]
+line = "Toph: Grab pumpkin seeds from the store. I need them for drills."
+response = "Venti: Pumpkin drills? You throw gourds at students now?"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_030"
+topic = "ice_splint_check"
+source_tags = ["mentor", "frost_wizard"]
+target_tags = ["town", "tundra_archer"]
+line = "Elsa: The ice wrap on your wrist has not melted. Good seal."
+response = "Traxex: Your cold spells make finer splints than any wood."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_031"
+topic = "shop_window_display"
+source_tags = ["mentor", "store_cosmetics"]
+target_tags = ["town", "adventure_time"]
+line = "Shoumai: New scarves match your cape colors. Come see at noon."
+response = "Marceline: I do not do scarves. But I need new fingerless gloves."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_032"
+topic = "pokemon_habitat_log"
+source_tags = ["mentor", "store_pokemon"]
+target_tags = ["town", "cobblemon_biology"]
+line = "Bubblegum: Glowshroom cave hosts three new Cleffa this week."
+response = "Katara: I will note it on the patrol map. No-trainer zone flagged."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_033"
+topic = "sword_technique_tip"
+source_tags = ["mentor", "sword_technique"]
+target_tags = ["town", "ciri"]
+line = "Link: Let your back foot pivot earlier on the reverse slash."
+response = "Ciri: Ah. I have been planting it. That explains the drag."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_034"
+topic = "gandalf_pipeweed_offer"
+source_tags = ["mentor", "wizard"]
+target_tags = ["town", "bard"]
+line = "Gandalf: A pouch of Old Toby for your lute strings. Fair trade?"
+response = "Venti: Toss it over. I have spare gut strings in my satchel."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_035"
+topic = "elbow_guard_donate"
+source_tags = ["mentor", "paladin"]
+target_tags = ["town", "forcemaster"]
+line = "Tarnished: Spare steel elbow guards in my locker. Take them."
+response = "Vi: Thanks. My gauntlets dent easily against stone pillars."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_036"
+topic = "light_magic_residue"
+source_tags = ["mentor", "light_magic"]
+target_tags = ["town", "arcane_wizard"]
+line = "Zelda: Residual light magic clings to the sparring ring wards."
+response = "Invoker: I felt it. It is neutral. Will not disrupt my channels."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_037"
+topic = "class_witcher_oil_share"
+source_tags = ["mentor", "class_witcher"]
+target_tags = ["town", "monster_hunter"]
+line = "Geralt: Specter oil on the bench. Use it before your night route."
+response = "Marceline: I know how to handle specters without oil. But thanks."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_038"
+topic = "archery_target_rehang"
+source_tags = ["mentor", "archer"]
+target_tags = ["town", "war_archer"]
+line = "Huntress Wizard: West range target ropes snapped. Needs fresh cord."
+response = "Legolas: I will rehang them. Your aim punched through the center."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_039"
+topic = "vampire_queen_belt_buckle"
+source_tags = ["mentor", "nocturnal"]
+target_tags = ["town", "store_cosmetics"]
+line = "Marceline: That obsidian buckle in your window. Hold it for me."
+response = "Shoumai: I will set it aside. Matches your bat motif perfectly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_040"
+topic = "tears_of_the_kingdom_relic"
+source_tags = ["mentor", "tears_of_the_kingdom"]
+target_tags = ["town", "skyland_lore"]
+line = "Zelda: A construct bow washed up near the skyland waterfall."
+response = "Link: I will retrieve it. Zonai artifacts belong in the archive."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_041"
+topic = "cold_resist_tea"
+source_tags = ["mentor", "frost_wizard"]
+target_tags = ["town", "water_wizard"]
+line = "Elsa: Ginger tea in the blue kettle. Warms blood after ice drills."
+response = "Katara: I smelled it. Pour me a cup and I will trade seaweed broth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_042"
+topic = "bubblegum_pokedex_entry"
+source_tags = ["mentor", "researcher"]
+target_tags = ["town", "pokemon"]
+line = "Bubblegum: The Pokedex entry for Spheal mentions skyland frost caves."
+response = "Aang: I have seen them drifting near the upper isles. Cute, loud."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_043"
+topic = "brigandine_resew"
+source_tags = ["mentor", "witcher"]
+target_tags = ["town", "zelda"]
+line = "Geralt: Stitch the left flank plate yourself. Learn the pull."
+response = "Zelda: Teach me the knot. I mend cloth but not steel-lined leather."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_044"
+topic = "musician_instrument_case"
+source_tags = ["mentor", "musician"]
+target_tags = ["town", "rogue"]
+line = "Venti: Locking latch on my case snapped. Know a smith?"
+response = "Ezio: The tinker near the seed store fixes clasps cheaply."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_045"
+topic = "skyland_map_update"
+source_tags = ["mentor", "explorer", "store_explorer"]
+target_tags = ["town", "bounty_hunter"]
+line = "Link: New floating islet mapped northeast. Mark it on your chart."
+response = "Aloy: I will add it. Any sign of constructs or only stone?"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_046"
+topic = "gauntlet_buckle_loan"
+source_tags = ["mentor", "warrior"]
+target_tags = ["town", "berserker"]
+line = "Finn: Loan me a buckle? My right gauntlet popped during drill."
+response = "Zagreus: Spare is in my locker. Third shelf, leather pouch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_047"
+topic = "wizard_tower_skylight"
+source_tags = ["mentor", "arcane_wizard"]
+target_tags = ["town", "wind_wizard"]
+line = "Invoker: Tower skylight is stuck open. Can you glide to close it?"
+response = "Aang: On it. I will oil the hinge while I am up there."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_048"
+topic = "cobblemon_food_bowl"
+source_tags = ["mentor", "store_pokemon"]
+target_tags = ["town", "cobblemon_biology"]
+line = "Bubblegum: Refilled the wild-zone food bowls. No territorial scuffles."
+response = "Huntress Wizard: Good. A starving Skiddo is a loud Skiddo."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_049"
+topic = "bandanna_switch_offer"
+source_tags = ["mentor", "fire_wizard"]
+target_tags = ["town", "rogue"]
+line = "Zuko: I have a red bandanna if you need one. Washes well."
+response = "Ezio: Red is too loud. White stays cleaner-looking anyway."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_29_050"
+topic = "gong_replacement_rope"
+source_tags = ["mentor", "priest"]
+target_tags = ["town", "earth_wizard"]
+line = "Pope Leo: The chapel gong rope snapped. Can you sense a stone anchor?"
+response = "Toph: I will feel for a solid boulder. Drill a hole, string it."
+weight = 1.0

@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_23_001"
+topic = "patrol_report"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Saw a rogue golem near the old quarry. Might need backup tomorrow."
+response = "I'll sharpen my arrows. Quarry golems hate piercing shots."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_002"
+topic = "monster_ecology"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time", "researcher"]
+line = "Those skittering marsh fiends drop phosphor dust. Useful for coating weapons?"
+response = "I tested it on arrows. It adds a night-glow trail. Come by the lab."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_003"
+topic = "night_hunt_plan"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Full moon tonight. I'm tracking a shadow lurk pack. Join me."
+response = "Count me in. I hate those things. My axe is ready."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_004"
+topic = "supply_scout"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Spotted blood-myrtle grove on the west slope. Good for healing salves."
+response = "Perfect. I'm low on balms for the next patrol rotation."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_005"
+topic = "warden_boundary"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time", "researcher"]
+line = "The forest warden line shifted again. Something stirs deep."
+response = "Could be a territorial surge. Let me cross-check the spawn map."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_006"
+topic = "road_ambush"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Three bush mimics near the caravan track. I cleared two."
+response = "I'll take the trail tomorrow. Good eyes, Finn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_007"
+topic = "gear_trade"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time", "researcher"]
+line = "Got extra Cobblemon hide scraps. Could the shop use them?"
+response = "Always. Bring them by and I'll credit your account."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_008"
+topic = "strange_song"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time"]
+line = "Hear that hum from the crystal spire? Not natural."
+response = "Probably a prismatic wyrm nesting. I'll check it at dawn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_009"
+topic = "bridge_repair"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "East bridge plank is split again. I've flagged it for town hall."
+response = "Need help hauling timber? I know a sturdy glade."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_010"
+topic = "storm_warning"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Sky turned green over the graveyard flats. Bad omen."
+response = "I'll gear up and do a dusk sweep. Stay sharp."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_011"
+topic = "ancient_mark"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time", "researcher"]
+line = "New runic carving appeared on the old well. Same as last ruin."
+response = "Precursor script again. I'll catalog it for the archive."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_012"
+topic = "hunting_tactic"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "How do you handle thornbeasts without losing arrows?"
+response = "Flank left and aim for the soft belly. They never pivot fast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_013"
+topic = "lantern_share"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Your glow-crystal lantern is failing. Borrow my spare."
+response = "Thanks. I'll return it after the midnight round."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_014"
+topic = "vine_maze"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Walking vines tangled the south grove again. Maze-like."
+response = "I'll bring a machete and clear a path tomorrow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_015"
+topic = "music_echo"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time", "researcher"]
+line = "Played a low chord and the ruins echoed back. Tapped a ley line."
+response = "Amplified resonance? Bring the recording crystal next time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_016"
+topic = "skyland_sighting"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Floating island passed low today. Could see ruins."
+response = "We should climb the beantree and launch a rope soon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_017"
+topic = "trap_check"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Tripwire snapped near the logging camp. Possibly a scout."
+response = "I'll loop the perimeter with warning arrows set."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_018"
+topic = "rare_flower"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time", "researcher"]
+line = "Moonpetals bloomed by the old chapel. You wanted samples."
+response = "Excellent. They're crucial for a new potion base."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_019"
+topic = "camp_upgrade"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Fortified the frontier outpost stockade. Bears won't breach now."
+response = "Good. I'll stash extra rations there this evening."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_020"
+topic = "faint_chime"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time"]
+line = "Heard a faint chime beyond the fog wall. Like bells."
+response = "Could be a lost shrine. Worth a daylight expedition."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_021"
+topic = "torch_resupply"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time", "researcher"]
+line = "Running low on resin torches for night studies."
+response = "I've got pine knots drying. Swing by after noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_022"
+topic = "scout_route"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Crossroads are swarmed with blade-flies. Avoid it."
+response = "Noted. I'll reroute my forest patrol south."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_023"
+topic = "lever_test"
+source_tags = ["adventure_time", "researcher"]
+target_tags = ["adventure_time"]
+line = "Tried the dungeon lever you reported. It opened a crypt wing."
+response = "Fresh loot or fresh trouble? Either way, I'm ready."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_024"
+topic = "dusk_chorus"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time", "researcher"]
+line = "The dusk chorus had six part harmony tonight. Unusual."
+response = "Lunar phase shift affects sonic creatures. Let's chart it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_025"
+topic = "fletching_batch"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Made two dozen hawk-feather arrows. Balanced flight."
+response = "Beauties. I'll trade you half for a whetstone session."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_026"
+topic = "fog_bank"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Heavy fog rolled from the hollow. Magical?"
+response = "Might be a veil-caster relic. I'll scout low ground."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_027"
+topic = "cave_in"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time", "researcher"]
+line = "Old flint quarry collapsed at the second shaft."
+response = "Pity. There was a valuable ore vein there."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_028"
+topic = "bandit_trail"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Found campfire ashes north of the pass. Recent."
+response = "Travelers or raiders? I'll double up patrols tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_029"
+topic = "spark_serum"
+source_tags = ["adventure_time", "researcher"]
+target_tags = ["adventure_time", "nocturnal"]
+line = "Spark serum trial two is stable. Lasts thirty minutes."
+response = "Nice. Test it on a night sweep if you want."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_030"
+topic = "weather_charm"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Hung a wind-charm at the lodge. Should deter hail."
+response = "Good thinking. The garden crops were getting battered."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_031"
+topic = "echo_stone"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time"]
+line = "Echo stone near the bridge recorded a battle cry."
+response = "Play it back. Might be the lost legion wraiths."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_032"
+topic = "beanstalk_growth"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time", "researcher"]
+line = "Skyreach beanstalk sprouted three more shoots."
+response = "At this rate we'll have a ladder by next moon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_033"
+topic = "wolf_pack"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Dire wolf pack shifted den closer to the east wall."
+response = "I'll brush the wall torches and set howl alarms."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_034"
+topic = "harvest_share"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Golden apples from the ridge orchard. Take a sack."
+response = "Thanks! Great for trail stamina."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_035"
+topic = "leviathan_bone"
+source_tags = ["adventure_time", "researcher"]
+target_tags = ["adventure_time", "nocturnal"]
+line = "Leviathan bone dust shows anti-spectral properties."
+response = "Coat a blade for me. I'll test it on wraiths."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_036"
+topic = "sunset_watch"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "West tower watch is vacant tonight. Can you cover?"
+response = "Done. I'll take the crossbow platform."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_037"
+topic = "crypt_sound"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time"]
+line = "Plucked the crypt gate's iron. It hummed. Resonant metal."
+response = "That gate is older than the kingdom. Good catch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_038"
+topic = "feather_cloak"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time", "researcher"]
+line = "Featherweave cloak reduces wind chill by half. Testing done."
+response = "Mass produce these for the winter patrol kit."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_039"
+topic = "smoke_signal"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Saw ridge smoke signals. Three puffs. All-clear."
+response = "Relief. I'll note it in the log."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_040"
+topic = "cobblemon_migration"
+source_tags = ["adventure_time", "researcher"]
+target_tags = ["adventure_time"]
+line = "Small Cobblemon migration southward. Weather shift?"
+response = "Could be. The frost line descended early this season."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_041"
+topic = "moonwell"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time", "researcher"]
+line = "Moonwell water shimmered during my nocturne. Charged."
+response = "Excellent data point. Bring a vial next time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_042"
+topic = "thorn_barrier"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Grew a thorn barrier around the herb garden. Works."
+response = "Glory. Those deer were ravaging the sage."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_043"
+topic = "deep_vein"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "Found a deep iron vein under the crypt. Rich."
+response = "Better mark it before the roof collapses."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_044"
+topic = "flame_trap"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Rigged flame trap near the spider hollow. Triggered twice."
+response = "Burned husks or fresh? Either way, good deterrent."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_045"
+topic = "midnight_bell"
+source_tags = ["adventure_time", "researcher"]
+target_tags = ["adventure_time", "nocturnal"]
+line = "Midnight bell test caused nearby Cobblemon to glow."
+response = "Sonic frequency triggers latent energy? Fascinating."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_046"
+topic = "healing_spring"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time"]
+line = "Cleared the healing spring of tainted roots. Clean now."
+response = "Great work. That spring is vital for recovery runs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_047"
+topic = "gargoyle_perch"
+source_tags = ["adventure_time", "nocturnal"]
+target_tags = ["adventure_time"]
+line = "New gargoyle on the clocktower. Statue or creature?"
+response = "Watch it at midnight. If it moves, ring the bell."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_048"
+topic = "potion_kit"
+source_tags = ["adventure_time", "researcher"]
+target_tags = ["adventure_time"]
+line = "Packed a field potion kit for your patrol. Basic brews."
+response = "Solid. I'll restock the herb pouch after."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_049"
+topic = "tunnel_rumble"
+source_tags = ["adventure_time", "nocturnal", "musician"]
+target_tags = ["adventure_time"]
+line = "Low rumble underground during my bass solo. Not an echo."
+response = "Burrowing beast or geode collapse? Worth mapping."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_23_050"
+topic = "frontier_marker"
+source_tags = ["adventure_time"]
+target_tags = ["adventure_time", "researcher"]
+line = "Placed the final frontier marker. Territory is mapped."
+response = "Excellent. I'll update the town atlas tonight."
+weight = 1.0

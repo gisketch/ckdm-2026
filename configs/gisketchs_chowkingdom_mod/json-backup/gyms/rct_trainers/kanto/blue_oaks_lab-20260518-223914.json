@@ -1,0 +1,22 @@
+{
+  "name": "Blue - Oak's Lab",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:squirtle",
+      "level": 5,
+      "moveset": [
+        "tackle"
+      ]
+    }
+  ]
+}

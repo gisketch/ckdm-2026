@@ -1,0 +1,920 @@
+[[trainer_exchanges]]
+id = "trainer_02_001"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer"]
+target_tags = ["rival"]
+line = "Ready for our battle? I've trained hard."
+response = "I won't go easy on you. Let's go!"
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_002"
+topic = "type_matchup"
+source_tags = ["gym_leader"]
+target_tags = ["pokemon_trainer"]
+line = "Water beats fire. Did you prepare?"
+response = "I brought an Electric type just for you."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_003"
+topic = "badges"
+source_tags = ["professor"]
+target_tags = ["champion"]
+line = "How many badges have you earned so far?"
+response = "Eight. Now I challenge the League."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_004"
+topic = "clean_switches"
+source_tags = ["elite_four"]
+line = "You switched without a penalty. Impressive."
+response = "Strategy is key in every battle."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_005"
+topic = "league_records"
+source_tags = ["champion"]
+target_tags = ["elite_four"]
+line = "Your win streak is legendary in the League."
+response = "I aim for perfection every time."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_006"
+topic = "recovery"
+source_tags = ["gym_leader"]
+target_tags = ["pokemon_trainer"]
+line = "Your Pokemon are tired. Use a Potion first."
+response = "Good advice. I'll heal before battling."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_007"
+topic = "rival_growth"
+source_tags = ["rival"]
+target_tags = ["professor"]
+line = "I lost last time. Now I'm twice as strong."
+response = "Growth comes from defeat. Well said."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_008"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "Only the disciplined earn my badge."
+response = "I respect your gym's strict rules."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_009"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer", "rival"]
+line = "I stocked Full Restores for the long haul."
+response = "Smart. Endurance matters in tournaments."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_010"
+topic = "type_matchup"
+source_tags = ["elite_four"]
+line = "Ground vs. Electric. Know the weakness."
+response = "I'll lead with a Grass type to counter."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_011"
+topic = "badges"
+source_tags = ["professor"]
+line = "Your badge collection is almost complete."
+response = "Just the Earth Badge remains."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_012"
+topic = "clean_switches"
+source_tags = ["champion"]
+target_tags = ["rival"]
+line = "You read my switch and countered perfectly."
+response = "Predicting your moves is my specialty."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_013"
+topic = "league_records"
+source_tags = ["elite_four"]
+line = "Only three trainers have beaten me this season."
+response = "I intend to be the fourth."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_014"
+topic = "recovery"
+source_tags = ["gym_leader"]
+target_tags = ["pokemon_trainer"]
+line = "Your team looks exhausted. Revive them first."
+response = "I'll head to the Pokemon Center now."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_015"
+topic = "rival_growth"
+source_tags = ["rival"]
+line = "I evolved my starter last night."
+response = "Great progress. Your bond is strong."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_016"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+target_tags = ["champion"]
+line = "My gym tests patience and accuracy."
+response = "I trained for hours to meet your standard."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_017"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer"]
+line = "I packed status healers for every condition."
+response = "A prepared trainer never loses cheaply."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_018"
+topic = "type_matchup"
+source_tags = ["elite_four", "gym_leader"]
+line = "Psychic is weak to Bug, Ghost, and Dark."
+response = "I brought a Dark type to this fight."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_019"
+topic = "badges"
+source_tags = ["professor"]
+target_tags = ["champion"]
+line = "Eight badges qualify you for the League."
+response = "I earned every one through tough battles."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_020"
+topic = "clean_switches"
+source_tags = ["rival"]
+line = "You switched without losing momentum."
+response = "I trained to keep pressure constant."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_021"
+topic = "league_records"
+source_tags = ["champion"]
+target_tags = ["elite_four"]
+line = "Your defense rating is the highest recorded."
+response = "I built my team around endurance."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_022"
+topic = "recovery"
+source_tags = ["gym_leader"]
+line = "Use a Full Heal before my status move."
+response = "Consider it done. Ready to battle."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_023"
+topic = "rival_growth"
+source_tags = ["professor"]
+target_tags = ["rival"]
+line = "You've matured since your first capture."
+response = "I learned from every loss along the way."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_024"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+target_tags = ["pokemon_trainer"]
+line = "No items allowed in my gym. Pure skill."
+response = "I accept the challenge. One on one."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_025"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer", "gym_leader"]
+line = "I studied your battle tapes all week."
+response = "Tapes don't capture real-time pressure."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_026"
+topic = "type_matchup"
+source_tags = ["elite_four"]
+target_tags = ["champion"]
+line = "Dragon resists Fire, Water, Grass, Electric."
+response = "I'll use an Ice move to break that."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_027"
+topic = "badges"
+source_tags = ["professor"]
+line = "Which badge was the hardest to obtain?"
+response = "The Fighting gym. His speed was brutal."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_028"
+topic = "clean_switches"
+source_tags = ["champion"]
+line = "You switched into a resisted hit. Flawless."
+response = "I knew the type chart by heart."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_029"
+topic = "league_records"
+source_tags = ["elite_four"]
+line = "You hold the record for fastest sweep."
+response = "My team synergy was at its peak."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_030"
+topic = "recovery"
+source_tags = ["gym_leader"]
+line = "That last attack left your Pokemon weak."
+response = "I'll switch out and heal strategically."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_031"
+topic = "rival_growth"
+source_tags = ["rival"]
+target_tags = ["professor"]
+line = "I finally understand type coverage."
+response = "Knowledge multiplies your team's power."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_032"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "Double battles require perfect coordination."
+response = "My two Pokemon train as one unit."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_033"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer"]
+target_tags = ["elite_four"]
+line = "I adjusted my moveset for your team."
+response = "Adaptation is the mark of a pro."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_034"
+topic = "type_matchup"
+source_tags = ["gym_leader"]
+line = "Rock is weak to Water, Grass, Fighting, Ground."
+response = "I brought a Fighting type to shatter you."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_035"
+topic = "badges"
+source_tags = ["professor"]
+target_tags = ["champion"]
+line = "Your badge case is complete. Congratulations."
+response = "Now the real journey begins."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_036"
+topic = "clean_switches"
+source_tags = ["elite_four"]
+line = "You predicted my switch and punished it."
+response = "I read your pattern from the first round."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_037"
+topic = "league_records"
+source_tags = ["champion"]
+target_tags = ["rival"]
+line = "Your knockout ratio is the best this year."
+response = "I focus on finishing battles quickly."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_038"
+topic = "recovery"
+source_tags = ["pokemon_trainer"]
+target_tags = ["gym_leader"]
+line = "I used a Max Potion between rounds."
+response = "Good. You'll need full health for this."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_039"
+topic = "rival_growth"
+source_tags = ["rival"]
+line = "I caught a rare Pokemon in the Safari Zone."
+response = "Rarity doesn't guarantee strength. Train it."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_040"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+target_tags = ["elite_four"]
+line = "My gym only allows three Pokemon per battle."
+response = "Quality over quantity. I understand."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_041"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer", "professor"]
+line = "I bred a team with perfect IVs."
+response = "Genetics matter, but strategy wins."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_042"
+topic = "type_matchup"
+source_tags = ["elite_four"]
+line = "Ghost moves are super effective on Psychic."
+response = "My Spiritomb is ready to haunt you."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_043"
+topic = "badges"
+source_tags = ["professor"]
+target_tags = ["rival"]
+line = "You only have five badges. Keep going."
+response = "I'll collect the rest soon enough."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_044"
+topic = "clean_switches"
+source_tags = ["champion"]
+line = "You switched during a heavy hit. Brave."
+response = "Sacrifice one to save the team."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_045"
+topic = "league_records"
+source_tags = ["elite_four"]
+line = "Your fastest Elite Four clear is 12 minutes."
+response = "I had perfect type matchups that run."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_047"
+topic = "rival_growth"
+source_tags = ["rival"]
+line = "I finally beat my father in a battle."
+response = "Family rivalries forge the strongest bonds."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_048"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "No switching allowed during battle here."
+response = "I'll rely on my first choice entirely."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_049"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer"]
+target_tags = ["elite_four"]
+line = "I taught my Garchomp a new coverage move."
+response = "Surprise moves can turn the tide."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_050"
+topic = "type_matchup"
+source_tags = ["gym_leader"]
+line = "Flying is weak to Rock, Electric, Ice."
+response = "I brought a Stone Edge user for you."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_051"
+topic = "badges"
+source_tags = ["professor", "champion"]
+line = "Each badge boosts your Pokemon's obedience."
+response = "I noticed the difference after the third."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_052"
+topic = "clean_switches"
+source_tags = ["elite_four"]
+line = "You switched into a wish. Perfect timing."
+response = "I planned that pivot in advance."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_053"
+topic = "league_records"
+source_tags = ["champion"]
+target_tags = ["rival"]
+line = "Your endurance in long battles is unmatched."
+response = "I train my Pokemon for stamina daily."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_054"
+topic = "recovery"
+source_tags = ["pokemon_trainer"]
+line = "I need to visit the Pokemon Center soon."
+response = "Rest is part of training. Go heal."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_055"
+topic = "rival_growth"
+source_tags = ["professor"]
+target_tags = ["rival"]
+line = "Your bond with your Pokemon is visible."
+response = "We trust each other completely now."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_056"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "In this gym, you must use the same type."
+response = "A monotype challenge? I accept."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_057"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer", "gym_leader"]
+line = "I memorized your team's movelist."
+response = "Knowing moves isn't knowing timing."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_058"
+topic = "type_matchup"
+source_tags = ["elite_four"]
+line = "Steel resists many types. Use Fire or Ground."
+response = "My Heatran will melt your defense."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_059"
+topic = "badges"
+source_tags = ["professor"]
+line = "Which gym leader gave you the most trouble?"
+response = "The Psychic gym. His predictions were sharp."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_060"
+topic = "clean_switches"
+source_tags = ["champion"]
+target_tags = ["elite_four"]
+line = "You switched on the same turn I did."
+response = "Great minds think alike in battle."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_061"
+topic = "league_records"
+source_tags = ["elite_four"]
+line = "Your speed record for the League stands."
+response = "I trained specifically for speed runs."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_062"
+topic = "recovery"
+source_tags = ["gym_leader"]
+target_tags = ["pokemon_trainer"]
+line = "Your Pokemon are poisoned. Use an Antidote."
+response = "Right away. I'll cure them all."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_063"
+topic = "rival_growth"
+source_tags = ["rival"]
+line = "I learned to predict your switches."
+response = "Then our next battle will be interesting."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_064"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "Time limit of five minutes per battle."
+response = "Fast and decisive. I like it."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_065"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer"]
+line = "I practiced my entry hazards all night."
+response = "Stealth Rock can decide the match."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_066"
+topic = "type_matchup"
+source_tags = ["elite_four"]
+line = "Ice is weak to Fire, Fighting, Rock, Steel."
+response = "My Blaziken will warm you up."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_067"
+topic = "badges"
+source_tags = ["professor"]
+target_tags = ["champion"]
+line = "Your badge collection is a testament of skill."
+response = "Each one taught me a new lesson."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_068"
+topic = "clean_switches"
+source_tags = ["elite_four"]
+line = "You used U-turn and switched safely."
+response = "Momentum is everything in battle."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_069"
+topic = "league_records"
+source_tags = ["champion"]
+line = "No one has defeated me in six months."
+response = "I'll end that streak today."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_070"
+topic = "recovery"
+source_tags = ["pokemon_trainer"]
+line = "I forgot to heal before the gym battle."
+response = "That mistake will cost you. Be careful."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_071"
+topic = "rival_growth"
+source_tags = ["professor"]
+line = "Your EV training is finally paying off."
+response = "I grinded in the right routes for weeks."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_072"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+target_tags = ["pokemon_trainer"]
+line = "No held items allowed in this gym."
+response = "Pure natural ability will suffice."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_073"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer", "rival"]
+line = "I have three different lead strategies ready."
+response = "Adapting to my lead will be your test."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_074"
+topic = "type_matchup"
+source_tags = ["gym_leader"]
+line = "Bug is weak to Fire, Flying, Rock."
+response = "My Talonflame will incinerate your bugs."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_075"
+topic = "badges"
+source_tags = ["professor"]
+line = "The seventh badge is usually the hardest."
+response = "The Ice gym nearly froze my team solid."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_076"
+topic = "clean_switches"
+source_tags = ["champion"]
+target_tags = ["rival"]
+line = "You switched into a Protect. Mind games."
+response = "I knew you'd attack that turn."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_077"
+topic = "league_records"
+source_tags = ["elite_four"]
+line = "Your accuracy in landing super effective hits is 98%."
+response = "I study type charts every morning."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_078"
+topic = "recovery"
+source_tags = ["gym_leader"]
+line = "Don't forget to use a Full Restore after this."
+response = "I have plenty stocked for the road."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_079"
+topic = "rival_growth"
+source_tags = ["rival"]
+target_tags = ["professor"]
+line = "I raised my Pokemon from eggs."
+response = "Breeding creates the strongest bonds."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_080"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "Only unevolved Pokemon may enter this gym."
+response = "I'll rely on my baby team then."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_081"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer"]
+target_tags = ["champion"]
+line = "I brought a team with perfect synergy."
+response = "Synergy cracks under high pressure."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_082"
+topic = "type_matchup"
+source_tags = ["elite_four"]
+line = "Fairy is weak to Poison and Steel."
+response = "My Metagross handles Fairy types easily."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_083"
+topic = "badges"
+source_tags = ["professor", "gym_leader"]
+line = "Each badge increases your capture rate."
+response = "I noticed the difference in the wild."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_084"
+topic = "clean_switches"
+source_tags = ["elite_four"]
+line = "You switched into a status move. Calculated."
+response = "I have a cleric on the bench ready."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_085"
+topic = "league_records"
+source_tags = ["champion"]
+target_tags = ["elite_four"]
+line = "Your defense stat is the highest in history."
+response = "I maxed out EVs in both defenses."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_086"
+topic = "recovery"
+source_tags = ["pokemon_trainer"]
+line = "I should buy more Full Restores before the League."
+response = "Stock up. You'll need every one."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_087"
+topic = "rival_growth"
+source_tags = ["rival"]
+line = "I can finally use Mega Evolution."
+response = "Then our battle will reach new heights."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_088"
+topic = "gym_discipline"
+source_tags = ["gym_leader"]
+line = "This gym uses a puzzle before the battle."
+response = "I solved it. Now face my team."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_089"
+topic = "battle_prep"
+source_tags = ["pokemon_trainer", "professor"]
+line = "I checked the weather forecast for today."
+response = "Weather teams can dominate if prepared."
+weight = 1.0
+
+
+
+[[trainer_exchanges]]
+id = "trainer_02_090"
+topic = "type_matchup"
+source_tags = ["gym_leader"]
+line = "Normal is weak only to Fighting."
+response = "My Lucario is ready to strike."
+weight = 1.0
+

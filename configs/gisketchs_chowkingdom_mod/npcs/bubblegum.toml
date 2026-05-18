@@ -1,0 +1,170 @@
+id = "bubblegum"
+name = "Princess Bubblegum"
+title = "Cobblemon Researcher"
+skin = "gisketchs_chowkingdom_mod:npc/bubblegum"
+body_type = "slim"
+body_model = "girl"
+fg_bust_size = 0.56
+fg_bounce = 0.333
+fg_floppy = 0.75
+height = 1.0
+weight = 0.86
+main_pokemon = "cobblemon:chansey"
+store = "pokemon"
+hurt_messages = ["That stings a bit.", "Ow. Note to self: dodge faster.", "Okay, that one hurt.", "Please do not test impact data on me."]
+wake_messages = ["Oh, good morning. Or afternoon. Hard to tell here.", "I was in the middle of a thought... never mind.", "You again. Perfect timing, I need a lab assistant.", "Awake. Where did I put the berry samples?"]
+npc_interaction_messages = ["Asking {other} whether Cobblemon react to candy chemistry.", "Explaining sample safety protocols to {other}.", "Comparing Ooo biology and Pokemon evolution with {other}."]
+interaction_tags = ["science", "cobblemon_biology", "shop", "pokemon", "adventure_time", "researcher"]
+work_blocks = [
+  { id = "minecraft:lectern", count = 1, display_name = "lectern" },
+  { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
+  { id = "minecraft:cartography_table", count = 1, display_name = "field map table" },
+  { id = "minecraft:cauldron", count = 1, display_name = "sample cauldron" },
+  { id = "minecraft:barrel", count = 1, display_name = "supply barrel" },
+  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+]
+
+[boss]
+enabled = true
+health = 72.0
+damage = 3.5
+template = "sword_user"
+main_hand = "minecraft:stick"
+off_hand = ""
+
+[boss.balloons]
+chase = ["Field test in progress.", "Your velocity is fascinating.", "Please keep running. The data improves.", "Hypothesis: I can catch you.", "Observe your own panic response.", "Stay in the test area.", "This is not a league battle.", "Science is surprisingly athletic."]
+attack = ["Applied candy physics.", "Controlled impact.", "Data point delivered.", "Please note the angle.", "Sample strike.", "For science.", "This will be peer reviewed.", "Practical demonstration."]
+recovery = ["Recalibrating.", "One moment. Data sorting.", "I can still continue.", "Unexpected variable.", "Good counterexample.", "Resetting stance.", "That result was useful.", "Adjusting hypothesis."]
+taunt = ["Your technique needs review.", "Sloppy methodology.", "That stance is not statistically sound.", "Are you fighting or improvising?", "I expected a stronger thesis.", "Control group would dodge better.", "Please submit a better swing.", "Your form lacks rigor."]
+guard_react = ["Rejected by the method.", "Predictable data.", "Your approach has been falsified.", "I saw that variable coming.", "Experiment failed. Try again.", "A rejected thesis.", "Insufficient force.", "Incorrect angle."]
+parry = ["Momentum redirected.", "Parry protocol success.", "Science deflects.", "Your attack has been factored out.", "Null hypothesis denied.", "Elegant, yes?", "Good try. Poor proof.", "Data says no."]
+hit_player = ["Educational strike.", "Contact registered.", "Teachable moment.", "Please rate your pain.", "Impact study: you.", "A controlled result.", "Field results: contact.", "Now update your stance."]
+took_damage = ["Useful data.", "Good correction.", "Your thesis gains evidence.", "Statistically significant.", "Fascinating.", "The experiment favors you.", "I must revise assumptions.", "That was a strong result."]
+victory = ["Experiment concludes. You are healed.", "Victory logged. Vitals restored.", "I win. Please hydrate.", "Trial complete. You are graded.", "Results archived.", "Professor wins. Subject restored.", "Field test complete.", "Your recovery is part of the protocol."]
+defeat = ["You pass the practical exam.", "I yield. Excellent fieldwork.", "Your thesis is accepted.", "Remarkable. You exceeded the rubric.", "I concede. Write this up.", "Field results favor you.", "A passing grade.", "The data supports your victory."]
+
+[job_definition]
+scan_interval_ticks = 60
+roam_radius = 6
+work_scan_radius = 9
+
+[schedule]
+activities = [
+  { from_hour = 7, to_hour = 12, activity = "work" },
+  { from_hour = 12, to_hour = 13, activity = "home" },
+  { from_hour = 13, to_hour = 15, activity = "work" },
+  { from_hour = 15, to_hour = 20, activity = "pokemon_roam" },
+  { from_hour = 20, to_hour = 23, activity = "work" },
+  { from_hour = 23, to_hour = 7, activity = "sleep" },
+]
+
+[personality]
+llm_prompt = "You are Princess Bubblegum from the later Adventure Time and Fionna and Cake timeline shared by older Finn, Huntress Wizard, and Marceline in Chow Kingdom. Jake is gone, Finn is older, and you remember that grief without making every conversation about it. You were transported into CKDM and became fascinated by Cobblemon biology, capture tools, berries, evolution, and the ethics of studying living creatures. You sell Pokemon supplies through the pokemon store and act as a researcher/shopkeeper only. You have no league, gym, champion, or badge authority. You never claim exact Cobblemon stats, hidden mechanics, player party data, or stock that is not in the store. Keep replies analytical, warm, regal, curious, and concise."
+traits = ["analytical", "curious", "meticulous", "patient", "regal", "scientist", "cobblemon_researcher", "shopkeeper"]
+speech_style = "soft scientific curiosity with warm regal poise, precise observations, ethical research notes"
+catchphrases = ["Fascinating, isn't it?", "Every creature has a story.", "Oh, the data I could gather here.", "Science first. Snacks second.", "Do not confuse cute with simple."]
+
+[housing]
+can_move_in = true
+requires_bed = true
+
+[voice]
+animalese_pitch = "high"
+pitch = 1.04
+volume = 0.34
+radius = 12.0
+
+[chat]
+enabled = true
+call_names = ["bubblegum", "princess bubblegum", "pb", "princess", "researcher"]
+minecraft_chat = true
+discord_chat = true
+
+[gifts]
+loved = ["cobblemon:rare_candy", "cobblemon:ability_capsule", "cobblemon:poke_ball", "minecraft:book"]
+liked = ["cobblemon:oran_berry", "cobblemon:potion", "minecraft:paper", "minecraft:sugar"]
+disliked = ["minecraft:rotten_flesh", "minecraft:poisonous_potato"]
+daily_limit = 1
+reset_hour = 5
+llm_sentiment_prompt = "The player gave you {item}. Princess Bubblegum values Cobblemon research supplies, ethical field tools, candy chemistry, and useful lab materials. Decide loved, liked, neutral, or disliked. Reply as JSON only: {\"message\":\"short analytical in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+[gifts.reactions]
+loved = ["This is extraordinary. I must study its properties immediately.", "Do you know how useful this is? Thank you.", "Excellent taste. This will help my research immensely.", "I love it. This reminds me of home and the lab at once."]
+liked = ["How nice. This is quite useful.", "Thank you. I can always use more of these.", "This will be helpful in the lab.", "A practical gift. I like it."]
+disliked = ["This is not really my area of interest.", "I appreciate the thought, but please keep that away from the samples.", "Maybe someone else needs this more.", "No, thank you. The contamination risk is obvious."]
+neutral = ["Thanks. I'll label it properly.", "A gift. I was not expecting that.", "Alright, that's something.", "Hmm, okay. Thank you."]
+
+[gifts.outgoing]
+enabled = true
+radius = 8.0
+min_friendship_level = 5
+rare_friendship_level = 9
+follow_seconds = 10
+offer_messages = ["@gift.png Here, I thought you might need this.", "@gift.png A little something from the lab.", "@gift.png This could help your Pokemon journey.", "@gift.png I insist you take this field sample."]
+fallback_messages = ["Here's {quantity} x {item} for you.", "Take {quantity} x {item}. I have extras.", "I have {quantity} x {item} if you want it.", "For your fieldwork: {quantity} x {item}."]
+llm_enabled = true
+llm_prompt = "You are Princess Bubblegum gifting {player} {quantity} x {item}. Reply with one short polite scientific line about Pokemon research, fieldwork, or lab safety."
+pool = []
+extra_pool = [
+  { item = "minecraft:sugar", qty = 8, weight = 2 },
+  { item = "minecraft:paper", qty = 8, weight = 2 },
+  { item = "cobblemon:potion", qty = 2, weight = 2 },
+]
+rare_pool = []
+extra_rare_pool = [
+  { item = "cobblemon:rare_candy", qty = 1, weight = 1 },
+  { item = "cobblemon:exp_share", qty = 1, weight = 1 },
+]
+
+[friendship_messages]
+
+[friendship_messages.interact]
+neutral = ["You remind me of Finn when he first started exploring.", "Every Cobblemon has a niche. Learn it, and you'll go far.", "Do not underestimate smaller species. Size is not power."]
+okay = ["Your observational skills are improving.", "I've been cataloging local species. Want to see my field notes?", "That Cobblemon of yours has good instincts."]
+good_friends = ["You have a natural researcher's curiosity. I like that.", "I've started a log just for your team. The data is fascinating.", "Come by anytime. Science waits for no one, but I can spare a moment for a friend."]
+best_friends = ["You are one of the few people here who truly sees the wonder in these creatures.", "If Jake were here, he would have loved watching you train.", "This world is strange, but with friends like you, it feels more like home every day."]
+
+[friendship_messages.greeting]
+neutral = ["@quest_log.png Oh, a new face. Welcome. If you have Cobblemon, I have supplies.", "@quest_log.png Hello there. Need anything for your team?", "@quest_log.png Bubblegum looks up from a berry sample. 'Careful, that one stains.'"]
+good_friends = ["@quest_log.png Back again? Good. I was organizing a new shipment.", "@quest_log.png There you are. I saved a few choice items for you.", "@quest_log.png 'Excellent timing. I need a second observer.'"]
+
+[friendship_messages.first_daily_chat]
+neutral = ["I was cataloging berries. Do you need something?", "Today's research question: why do some Cobblemon trust players so quickly?", "Please do not lick unknown samples."]
+good_friends = ["I was writing observations about your partner's evolution line. Want to hear them?", "Your first visit improves today's data quality.", "I saved the least sticky notes for you."]
+
+[camper_messages]
+needs_house_balloon = ["Every researcher needs a proper lab.", "A field lab would be ideal.", "My samples need walls.", "Science requires shelter and labels."]
+needs_house_dialog = ["A proper camp needs shelter. Set up a house, and I'll bring the science equipment.", "I cannot run a full shop from the open air. Get a house built, and we can talk restock.", "I need a clean workspace for Cobblemon samples. A bed, walls, and a little discipline should do."]
+lost_house_balloon = ["Did the lab drift off?", "My samples are homeless.", "This is poor lab continuity.", "Shelter variable missing."]
+lost_house_dialog = ["Your house vanished? That is unexpected. Check the settlement and assign me a new workspace.", "A shop without a house is like a Pokeball without a latch. Fix your shelter first.", "My lab space is gone. Please help me reestablish a controlled research environment."]
+
+[shop_messages]
+
+[shop_messages.single]
+neutral = ["That will be {total} for {item}. Thanks, {player}.", "One {item}. Here you go.", "Simple transaction. I like it.", "A good field basic: {item}."]
+okay = ["{item}? Good choice. That is {total}.", "I keep these ready for careful trainers.", "Good instincts, {player}. Here's your {item}.", "Enjoy your {item}. Come back with observations."]
+good_friends = ["For you, {player}, I checked this {item} twice.", "I know you'll put this {item} to good use.", "This {item} is from the better shelf.", "Smart pick, assistant."]
+best_friends = ["Anything for my favorite researcher. Here's your {item}.", "I saved this special {item} just for you.", "For you, the cleanest sample.", "Take {item}. Science should be shared."]
+
+[shop_messages.normal]
+neutral = ["That will be {total}. Here are {quantity} {item}.", "{quantity} {item}. Field-ready.", "You want {quantity} {item}? No problem.", "Thanks for supporting research."]
+okay = ["Good choice, {player}. {quantity} {item} coming right up.", "That's {total} for {quantity} {item}.", "You're becoming a regular. I appreciate it.", "Packed and labeled: {quantity} {item}."]
+good_friends = ["You never disappoint, {player}. Here are {quantity} {item}.", "This {item} is top quality.", "For a friend, I checked the stock twice.", "{quantity} {item}. Please record results."]
+best_friends = ["I've set aside the best {item} for you.", "My lab and shop are always open to you, {player}.", "Take {quantity} {item}. Fieldwork matters.", "{quantity} {item}, packed with care."]
+
+[shop_messages.bulk]
+neutral = ["Bulk order? {quantity} {item}, total {total}.", "That's a lot of {item}. Let me count it out.", "Hope you have room for all this {item}.", "Bulk {item}. Sensible prep."]
+okay = ["Stocking up? Smart move, {player}.", "I appreciate prepared trainers.", "That is {total} for the lot.", "Large sample size. Excellent."]
+good_friends = ["Bulk? I can respect serious fieldwork.", "You must have a big project planned.", "I'm glad you came to me for your {item} needs.", "{quantity} {item}. Please bring back data."]
+best_friends = ["Take what you need, {player}.", "My shop is your lab supply annex.", "Fill your bags with {item}. Carefully.", "For you, the best bulk stock."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png I could use your help with research.", "@quest_log.png Got a moment for a small task?", "@quest_log.png I need a field assistant.", "@quest_log.png Help me with my studies?"]
+pool = [
+  { id = "bubblegum_catch_pokemon", category = "task", event = "cobblemon:pokemon_caught", event_desc = "Catch {goal} Pokemon", quest_text = "Catch Pokemon for today's field notes.", pass_id = "cozy", xp = 120, chowcoins = 50, goal = 5, complete_messages = ["@quest_log.png Excellent field data, assistant.", "@quest_log.png Research sample complete. Thank you."] },
+  { id = "bubblegum_send_out_pokemon", category = "task", event = "cobblemon:pokemon_sent_out", event_desc = "Send Out {goal} Pokemon", quest_text = "Show active partner Pokemon for today's behavior notes.", pass_id = "cozy", xp = 100, chowcoins = 40, goal = 10, complete_messages = ["@quest_log.png Excellent partner Pokemon observations.", "@quest_log.png Mission complete. The data is clean."] },
+  { id = "bubblegum_fetch_paper", category = "fetch", event_desc = "Bring {goal} Paper", quest_text = "Bring paper for Cobblemon research notes.", pass_id = "cozy", xp = 70, chowcoins = 25, fetch_item = "minecraft:paper", fetch_count = 8, complete_messages = ["@quest_log.png Paper acquired. Documentation restored.", "@quest_log.png Excellent. These notes will be properly labeled."] },
+]

@@ -20642,3 +20642,647 @@ item = "simplehats:zigzagwitchhat"
 price_amount = 1800
 stock_count = 3
 weight = 2
+
+# CKDM Poke Clothing imported from repo refs/poke-clothing. Wearable cosmetics only; no tailoring station or cloth.
+[[categories]]
+id = "poke_clothing"
+item_types_to_sell = 4
+daily_item_types_to_sell = 4
+
+[[categories.daily_sets]]
+id = "poke_clothing_alola_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_alola_ash_helmet"
+item = "gisketchs_chowkingdom_mod:alola_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_alola_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:alola_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_alola_ash_leggings"
+item = "gisketchs_chowkingdom_mod:alola_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_alola_ash_boots"
+item = "gisketchs_chowkingdom_mod:alola_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_brendan"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brendan_helmet"
+item = "gisketchs_chowkingdom_mod:brendan_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brendan_chestplate"
+item = "gisketchs_chowkingdom_mod:brendan_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brendan_leggings"
+item = "gisketchs_chowkingdom_mod:brendan_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brendan_boots"
+item = "gisketchs_chowkingdom_mod:brendan_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_brock"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brock_chestplate"
+item = "gisketchs_chowkingdom_mod:brock_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brock_leggings"
+item = "gisketchs_chowkingdom_mod:brock_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_brock_boots"
+item = "gisketchs_chowkingdom_mod:brock_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_dawn"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_dawn_helmet"
+item = "gisketchs_chowkingdom_mod:dawn_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_dawn_chestplate"
+item = "gisketchs_chowkingdom_mod:dawn_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_dawn_leggings"
+item = "gisketchs_chowkingdom_mod:dawn_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_dawn_boots"
+item = "gisketchs_chowkingdom_mod:dawn_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_emerald_brendan"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_brendan_helmet"
+item = "gisketchs_chowkingdom_mod:emerald_brendan_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_brendan_chestplate"
+item = "gisketchs_chowkingdom_mod:emerald_brendan_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_brendan_leggings"
+item = "gisketchs_chowkingdom_mod:emerald_brendan_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_brendan_boots"
+item = "gisketchs_chowkingdom_mod:emerald_brendan_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_emerald_may"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_may_helmet"
+item = "gisketchs_chowkingdom_mod:emerald_may_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_may_chestplate"
+item = "gisketchs_chowkingdom_mod:emerald_may_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_may_leggings"
+item = "gisketchs_chowkingdom_mod:emerald_may_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_emerald_may_boots"
+item = "gisketchs_chowkingdom_mod:emerald_may_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_galar_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_galar_ash_helmet"
+item = "gisketchs_chowkingdom_mod:galar_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_galar_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:galar_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_galar_ash_leggings"
+item = "gisketchs_chowkingdom_mod:galar_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_galar_ash_boots"
+item = "gisketchs_chowkingdom_mod:galar_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_hoenn_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_hoenn_ash_helmet"
+item = "gisketchs_chowkingdom_mod:hoenn_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_hoenn_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:hoenn_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_hoenn_ash_leggings"
+item = "gisketchs_chowkingdom_mod:hoenn_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_hoenn_ash_boots"
+item = "gisketchs_chowkingdom_mod:hoenn_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_james"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_james_chestplate"
+item = "gisketchs_chowkingdom_mod:james_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_james_leggings"
+item = "gisketchs_chowkingdom_mod:james_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_james_boots"
+item = "gisketchs_chowkingdom_mod:james_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_jessie"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_jessie_chestplate"
+item = "gisketchs_chowkingdom_mod:jessie_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_jessie_leggings"
+item = "gisketchs_chowkingdom_mod:jessie_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_jessie_boots"
+item = "gisketchs_chowkingdom_mod:jessie_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_kalos_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kalos_ash_helmet"
+item = "gisketchs_chowkingdom_mod:kalos_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kalos_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:kalos_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kalos_ash_leggings"
+item = "gisketchs_chowkingdom_mod:kalos_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kalos_ash_boots"
+item = "gisketchs_chowkingdom_mod:kalos_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_kanto_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kanto_ash_helmet"
+item = "gisketchs_chowkingdom_mod:kanto_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kanto_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:kanto_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kanto_ash_leggings"
+item = "gisketchs_chowkingdom_mod:kanto_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_kanto_ash_boots"
+item = "gisketchs_chowkingdom_mod:kanto_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_may"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_may_helmet"
+item = "gisketchs_chowkingdom_mod:may_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_may_chestplate"
+item = "gisketchs_chowkingdom_mod:may_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_may_leggings"
+item = "gisketchs_chowkingdom_mod:may_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_may_boots"
+item = "gisketchs_chowkingdom_mod:may_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_misty"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_misty_chestplate"
+item = "gisketchs_chowkingdom_mod:misty_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_misty_leggings"
+item = "gisketchs_chowkingdom_mod:misty_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_misty_boots"
+item = "gisketchs_chowkingdom_mod:misty_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_platinum_dawn"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_platinum_dawn_chestplate"
+item = "gisketchs_chowkingdom_mod:platinum_dawn_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_platinum_dawn_leggings"
+item = "gisketchs_chowkingdom_mod:platinum_dawn_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_platinum_dawn_boots"
+item = "gisketchs_chowkingdom_mod:platinum_dawn_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_red"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_red_helmet"
+item = "gisketchs_chowkingdom_mod:red_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_red_chestplate"
+item = "gisketchs_chowkingdom_mod:red_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_red_leggings"
+item = "gisketchs_chowkingdom_mod:red_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_red_boots"
+item = "gisketchs_chowkingdom_mod:red_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_sinnoh_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_sinnoh_ash_helmet"
+item = "gisketchs_chowkingdom_mod:sinnoh_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_sinnoh_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:sinnoh_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_sinnoh_ash_leggings"
+item = "gisketchs_chowkingdom_mod:sinnoh_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_sinnoh_ash_boots"
+item = "gisketchs_chowkingdom_mod:sinnoh_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_team_aqua_grunt"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_aqua_grunt_helmet"
+item = "gisketchs_chowkingdom_mod:team_aqua_grunt_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_aqua_grunt_chestplate"
+item = "gisketchs_chowkingdom_mod:team_aqua_grunt_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_aqua_grunt_leggings"
+item = "gisketchs_chowkingdom_mod:team_aqua_grunt_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_aqua_grunt_boots"
+item = "gisketchs_chowkingdom_mod:team_aqua_grunt_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_team_magma_grunt"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_magma_grunt_helmet"
+item = "gisketchs_chowkingdom_mod:team_magma_grunt_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_magma_grunt_chestplate"
+item = "gisketchs_chowkingdom_mod:team_magma_grunt_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_magma_grunt_leggings"
+item = "gisketchs_chowkingdom_mod:team_magma_grunt_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_magma_grunt_boots"
+item = "gisketchs_chowkingdom_mod:team_magma_grunt_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_team_rocket_grunt"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_rocket_grunt_helmet"
+item = "gisketchs_chowkingdom_mod:team_rocket_grunt_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_rocket_grunt_chestplate"
+item = "gisketchs_chowkingdom_mod:team_rocket_grunt_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_rocket_grunt_leggings"
+item = "gisketchs_chowkingdom_mod:team_rocket_grunt_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_team_rocket_grunt_boots"
+item = "gisketchs_chowkingdom_mod:team_rocket_grunt_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets]]
+id = "poke_clothing_unova_ash"
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_unova_ash_helmet"
+item = "gisketchs_chowkingdom_mod:unova_ash_helmet"
+price_amount = 3500
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_unova_ash_chestplate"
+item = "gisketchs_chowkingdom_mod:unova_ash_chestplate"
+price_amount = 5000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_unova_ash_leggings"
+item = "gisketchs_chowkingdom_mod:unova_ash_leggings"
+price_amount = 4000
+stock_count = 1
+weight = 1
+
+[[categories.daily_sets.items]]
+id = "poke_clothing_unova_ash_boots"
+item = "gisketchs_chowkingdom_mod:unova_ash_boots"
+price_amount = 2500
+stock_count = 1
+weight = 1
+

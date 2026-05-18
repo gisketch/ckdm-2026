@@ -1,0 +1,989 @@
+[[exchanges]]
+id = "newnpc1_001"
+topic = "breeze"
+source_ids = ["aang"]
+target_ids = ["bubblegum"]
+line = "Bubblegum, the wind says your research is going great. Need a breeze?"
+response = "A steady air current could stabilize my incubator. Demonstrate, please?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_002"
+topic = "sky_fight"
+source_ids = ["aang"]
+target_ids = ["ciri"]
+line = "Ciri, when you fight sky monsters, do you ever use wind to throw them off balance?"
+response = "Wind is a tool, but not a crutch. Momentum and steel do the real work."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_003"
+topic = "skylands"
+source_ids = ["aang"]
+target_ids = ["link"]
+line = "Link, those skylands look like a fun gliding paradise. Any tips for a light-footed airbender?"
+response = "Watch for updrafts. Even a Zelda glider needs wind. Stay light."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_004"
+topic = "night_flying"
+source_ids = ["aang"]
+target_ids = ["marceline"]
+line = "Marceline! I bet even vampire bats can't float like me. Wanna race across the night sky?"
+response = "Nice try, airhead. I've been flying since before your great-grandparents were learning to walk."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_005"
+topic = "light_and_sky"
+source_ids = ["aang"]
+target_ids = ["zelda"]
+line = "Zelda, the light you carry reminds me of the spirit world. Any connection?"
+response = "Light and spirit are intertwined, Aang. After my dragon form, I feel the sky differently now."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_006"
+topic = "wild_survival"
+source_ids = ["aloy"]
+target_ids = ["bubblegum"]
+line = "Princess, your Cobblemon interest me. Can they survive in real wilds?"
+response = "They adapt by biome, Aloy. Like your machines, they need careful study."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_007"
+topic = "hunting_tools"
+source_ids = ["aloy"]
+target_ids = ["ciri"]
+line = "Ciri, your witcher signs remind me of Focus. Quick power. Do you ever run out?"
+response = "Signs pull from chaos. If I run out, I still have my blade. Never rely on one thing."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_008"
+topic = "beast_weakness"
+source_ids = ["aloy"]
+target_ids = ["link"]
+line = "Link, you've fought enough mechanical beasts to fill a cauldron. Any weakness I should know?"
+response = "Stop the eye. Always the eye. You know that already."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_009"
+topic = "nocturnal_hunt"
+source_ids = ["aloy"]
+target_ids = ["marceline"]
+line = "You're nocturnal? Good. Less competition for daytime hunting. What do you hunt at night?"
+response = "Mostly boredom, but sometimes ancient monsters hiding in caves. Wanna join?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_010"
+topic = "tracking_light"
+source_ids = ["aloy"]
+target_ids = ["zelda"]
+line = "Zelda, light magic must be handy. Ever used it to track a creature like a Focus pulse?"
+response = "Not quite tracking, but I can illuminate hidden corruption. It helps in the Depths."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_011"
+topic = "monster_sample"
+source_ids = ["bubblegum"]
+target_ids = ["ciri"]
+line = "Ciri, I need a noonwraith sample for cross-study. Could you collect one?"
+response = "I can try, but don't expect intact samples. My silver sword doesn't do biopsies."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_012"
+topic = "ice_lab"
+source_ids = ["bubblegum"]
+target_ids = ["elsa"]
+line = "Elsa, your ice could preserve sensitive reagents. Could you cool my lab?"
+response = "Of course, Princess. Cold storage is one of my specialties. Just don't make me sing."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_013"
+topic = "artifacts"
+source_ids = ["bubblegum"]
+target_ids = ["ezio"]
+line = "Ezio, any link between shadowy Rome figures and my missing artifacts?"
+response = "Artifacts often tempt the Borgia. I'll keep an eye out, but be careful who you trust."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_014"
+topic = "training_break"
+source_ids = ["bubblegum"]
+target_ids = ["finn"]
+line = "Finn, even heroes need a break. Want rare candy for energy?"
+response = "Heh, thanks PB. Just... keeping busy. Lost too many friends. A sweet treat sounds nice."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_015"
+topic = "staff_mystery"
+source_ids = ["bubblegum"]
+target_ids = ["gandalf"]
+line = "Gandalf, is your staff a magical focus or a scientific instrument?"
+response = "Both, dear princess, and neither. Some mysteries should remain whole."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_016"
+topic = "mutations"
+source_ids = ["bubblegum"]
+target_ids = ["geralt"]
+line = "Geralt, could I study your enhanced metabolism for potion research?"
+response = "Have a sturdy lab. Last researcher left me with a headache."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_017"
+topic = "seed_magic"
+source_ids = ["bubblegum"]
+target_ids = ["huntress_wizard"]
+line = "Huntress Wizard, could your forest seeds grow in a controlled lab?"
+response = "Seeds like wild roots. Confine them, they wither. Trust the forest."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_018"
+topic = "arcane_demo"
+source_ids = ["bubblegum"]
+target_ids = ["invoker"]
+line = "Invoker, could you show a resonance vector for my energy crystals?"
+response = "Child, learn astral harmonics before asking for demonstrations."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_019"
+topic = "water_healing"
+source_ids = ["bubblegum"]
+target_ids = ["katara"]
+line = "Katara, water healing could help my medical bay. Teach the basics?"
+response = "Absolutely. Waterbending starts with calm flow and clear intent."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_020"
+topic = "elven_vision"
+source_ids = ["bubblegum"]
+target_ids = ["legolas"]
+line = "Legolas, your precision is remarkable. Do elves have enhanced visual acuity, or is it training?"
+response = "Both. Long eyes, long practice, and a bow that feels like a friend."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_021"
+topic = "sheikah_slate"
+source_ids = ["bubblegum"]
+target_ids = ["link"]
+line = "Link, the Sheikah slate technology is amazing. Ever consider using it to catalog cobblemon?"
+response = "I'll ask Purah. She'd love a new field guide. You might get a Slate if you visit."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc1_022"
+topic = "music_frequency"
+source_ids = ["bubblegum"]
+target_ids = ["marceline"]
+line = "Marceline, your music has a strange frequency that affects my equipment. Is it intentional?"
+response = "Nah, just the axe talking. But if it breaks something, I'll claim artistic expression."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_001"
+topic = "cobblemon_biology"
+source_ids = ["bubblegum"]
+target_ids = ["pope_leo"]
+line = "Cobblemon metabolism is extraordinary. Their trainer bonds alter behavior."
+response = "Creatures bound by trust are a testament to the harmony of creation."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_002"
+topic = "personal_style"
+source_ids = ["bubblegum"]
+target_ids = ["shoumai"]
+line = "Your icy aesthetic reminds me of a crystalline Candy Kingdom experiment."
+response = "Experiment? Sweetie, I'm a style, not a lab project."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_003"
+topic = "resurrection_cycles"
+source_ids = ["bubblegum"]
+target_ids = ["tarnished"]
+line = "I've analyzed your resurrection patterns. They resemble a repeating biological loop."
+response = "Grace restores the faithful. I do not question the Erdtree's design."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_004"
+topic = "sensory_abilities"
+source_ids = ["bubblegum"]
+target_ids = ["toph"]
+line = "I could calibrate seismic sensors to map your earthbending resonance."
+response = "I feel every pebble already. Your sensors would just slow me down."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_005"
+topic = "frostcraft"
+source_ids = ["bubblegum"]
+target_ids = ["traxex"]
+line = "Your arrows maintain perfect temperature stability. A biological or magical cryo-trait?"
+response = "The tundra does not explain. It simply is."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_006"
+topic = "wind_magic"
+source_ids = ["bubblegum"]
+target_ids = ["venti"]
+line = "Your wind melodies seem to influence ambient barometric pressure. Intentional?"
+response = "Ehe, the wind sings what it wants. I just borrow its notes."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_007"
+topic = "gauntlet_technology"
+source_ids = ["bubblegum"]
+target_ids = ["vi"]
+line = "Your gauntlets' kinetic output suggests a hydraulic amplification system."
+response = "Yeah, they hit hard. You want a demonstration?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_008"
+topic = "underworld_revival"
+source_ids = ["bubblegum"]
+target_ids = ["zagreus"]
+line = "Your repeated escapes from the Underworld could inform my revival serum research."
+response = "Trust me, princess, dying repeatedly is not a recommended tonic."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_009"
+topic = "light_essence"
+source_ids = ["bubblegum"]
+target_ids = ["zelda"]
+line = "The light that persists in you... Is it a physical energy or a spiritual essence?"
+response = "Perhaps it is both. Some mornings it feels like the sun remembering me."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_010"
+topic = "fire_control"
+source_ids = ["bubblegum"]
+target_ids = ["zuko"]
+line = "I've studied flame-body temperature regulation. Your breath control seems key."
+response = "Fire without control is just destruction. I learned that the hard way."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_011"
+topic = "monster_containment"
+source_ids = ["ciri"]
+target_ids = ["elsa"]
+line = "Frost can halt a monster's advance if you layer it under their feet."
+response = "I prefer not to harm. But if I must... I'll remember that."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_012"
+topic = "shadow_techniques"
+source_ids = ["ciri"]
+target_ids = ["ezio"]
+line = "You glide through cities like I move between worlds. The shadows answer you."
+response = "The shadows listen, and I listen back. It serves the Brotherhood well."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_013"
+topic = "joyful_combat"
+source_ids = ["ciri"]
+target_ids = ["finn"]
+line = "You swing that sword with joy instead of duty. It works surprisingly well."
+response = "My best friend taught me. I pack his lessons into every hit."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_014"
+topic = "wizardly_weight"
+source_ids = ["ciri"]
+target_ids = ["gandalf"]
+line = "I've seen many wizards. You don't hide behind cantrips. You carry real weight."
+response = "I am a servant of fire and shadow. Weight follows purpose."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_015"
+topic = "friendly_rivalry"
+source_ids = ["ciri"]
+target_ids = ["geralt"]
+line = "You're getting slower, Wolf. Tomorrow's hunt will prove it."
+response = "Hmm. I'll let you carry the griffin head then."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_016"
+topic = "forest_perception"
+source_ids = ["ciri"]
+target_ids = ["huntress_wizard"]
+line = "You scent the wind like a witcher. The forest speaks through you."
+response = "The forest whispers. I just translate."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_017"
+topic = "arcane_priorities"
+source_ids = ["ciri"]
+target_ids = ["invoker"]
+line = "All those incantations and you still need a witcher to find a ghoul."
+response = "My resonance vectors could unmake a continent. Tracking is... menial."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_018"
+topic = "healing_vs_combat"
+source_ids = ["ciri"]
+target_ids = ["katara"]
+line = "You heal wounds I'd cauterize. There's strength in that restraint."
+response = "Healing doesn't mean I can't fight. I just choose when the water rises."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_019"
+topic = "elven_vision"
+source_ids = ["ciri"]
+target_ids = ["legolas"]
+line = "Your eyes see farther than any witcher's potions. Impressive for a mortal."
+response = "Mortal? I am elf-kind. My gaze is older than your kingdoms."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_020"
+topic = "silent_survival"
+source_ids = ["ciri"]
+target_ids = ["link"]
+line = "You move through ruins like a wolf in its den. Silent, ready."
+response = "I learned from the wild. Noise gets you killed."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_021"
+topic = "berserker_control"
+source_ids = ["ciri"]
+target_ids = ["marceline"]
+line = "I've seen vampiric berserkers before. You control the fury, not the other way."
+response = "Yeah, I've had a thousand years to practice. Still a good riff helps."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc2_022"
+topic = "faith_and_monsters"
+source_ids = ["ciri"]
+target_ids = ["pope_leo"]
+line = "Your faith seems... practical for a man of the cloth. You've seen monsters?"
+response = "I've seen the human heart. That is often the greater beast."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_001"
+topic = "witcher_signs_vs_cool_sarcasm"
+source_ids = ["ciri"]
+target_ids = ["shoumai"]
+line = "You joke about frost, but a Witcher's sign can freeze a griffin midair."
+response = "Please, I'm the ice queen. Your little hand wave is cute."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_002"
+topic = "duty_and_the_path_of_the_blade"
+source_ids = ["ciri"]
+target_ids = ["tarnished"]
+line = "You bear your oaths like armor. Does it ever grow heavy, paladin?"
+response = "The weight is my reminder. Grace enough to carry it."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_003"
+topic = "sensing_danger_in_silence"
+source_ids = ["ciri"]
+target_ids = ["toph"]
+line = "You feel the earth more keenly than any monster's heartbeat."
+response = "Yeah, and your sword hums louder than your mouth. Nice edge."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_004"
+topic = "hunting_under_frost"
+source_ids = ["ciri"]
+target_ids = ["traxex"]
+line = "You track like a white wolf, silent and steady."
+response = "Cold preserves the trail. Words waste warmth."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_005"
+topic = "wind_songs_and_witcher_signs"
+source_ids = ["ciri"]
+target_ids = ["venti"]
+line = "Your wind sings, but my signs shape it. Focus could sharpen your melody."
+response = "Ehe, the wind already dances for me! Your hand-waving is so serious."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_006"
+topic = "witcher_steel_vs_street_fists"
+source_ids = ["ciri"]
+target_ids = ["vi"]
+line = "You fight like every brawl is personal. That fire serves you well."
+response = "Yeah? Tell me something I don't know, magic girl."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_007"
+topic = "pushing_through_perils"
+source_ids = ["ciri"]
+target_ids = ["zagreus"]
+line = "You treat battle like a dance with death. I respect that."
+response = "Ha, careful, or I'll ask you to join the next number!"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_008"
+topic = "ancient_souls_and_light"
+source_ids = ["ciri"]
+target_ids = ["zelda"]
+line = "You carry a dragon's memory. My world knows such weight too."
+response = "Then you understand why the sky still feels less distant than loss."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_009"
+topic = "breath_control_under_the_flame"
+source_ids = ["ciri"]
+target_ids = ["zuko"]
+line = "Your fire breathes with you. That discipline mirrors my signs."
+response = "Control is everything. A single wrong breath could burn a kingdom."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_010"
+topic = "frost_and_courage"
+source_ids = ["elsa"]
+target_ids = ["link"]
+line = "You've faced storms without flinching. That is a rare warmth."
+response = "I just keep moving. The cold can follow if it wants."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_011"
+topic = "ice_queen_meets_vampire_queen"
+source_ids = ["elsa"]
+target_ids = ["marceline"]
+line = "The night seems drawn to you, like frost to a windowpane."
+response = "Aw, that's sweet. I usually just say I'm killer company."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_012"
+topic = "light_and_ice_magic"
+source_ids = ["elsa"]
+target_ids = ["zelda"]
+line = "Your light is gentle, yet it holds back shadows as well as my frost."
+response = "Each of us carries a quiet shield. Shall we compare notes?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_013"
+topic = "stealth_and_steel"
+source_ids = ["ezio"]
+target_ids = ["link"]
+line = "You fight with the silence of an assassin. Impressive."
+response = "A quiet blade cuts deeper than any battle cry."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_014"
+topic = "shadows_and_song"
+source_ids = ["ezio"]
+target_ids = ["marceline"]
+line = "You move through shadow like a melody, graceful and deadly."
+response = "Flattery gets you a song request. What's your jam, hood guy?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_015"
+topic = "wisdom_beyond_years"
+source_ids = ["ezio"]
+target_ids = ["zelda"]
+line = "You carry the light of ages. My order would call you a seer."
+response = "I am just a scholar who learned the hard way. What is your creed?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_016"
+topic = "warrior_bonding"
+source_ids = ["finn"]
+target_ids = ["link"]
+line = "Dude, your sword technique is sick! Wanna trade flips later?"
+response = "If your flips are as sharp as your blade, I'm in."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_017"
+topic = "old_friends_jamming"
+source_ids = ["finn"]
+target_ids = ["marceline"]
+line = "Hey Marcy! Still shredding that axe bass under moonlight?"
+response = "Always, Finn. You've got any new adventures to share?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_018"
+topic = "heroic_quests"
+source_ids = ["finn"]
+target_ids = ["zelda"]
+line = "You've got that wise 'been there, won there' vibe. Mad respect, princess."
+response = "And you have the spirit of a hero who never gives up. Thank you."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_019"
+topic = "courage_of_the_silent"
+source_ids = ["gandalf"]
+target_ids = ["link"]
+line = "The courageous heart walks unseen. You remind me of a certain hobbit."
+response = "I'll take that as a compliment. Now where's the danger?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_020"
+topic = "darkness_and_song"
+source_ids = ["gandalf"]
+target_ids = ["marceline"]
+line = "Music in the night can drive away deeper shadows, young queen."
+response = "I've lived in the dark long enough. The bass keeps them back."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_021"
+topic = "wisdom_and_time"
+source_ids = ["gandalf"]
+target_ids = ["zelda"]
+line = "Your soul has endured ages. Such wisdom is rare, even among wizards."
+response = "Time gave me patience. I suspect it gave you a sharp sense of humor."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc3_022"
+topic = "witcher_advice"
+source_ids = ["geralt"]
+target_ids = ["link"]
+line = "Steel for men, silver for monsters. You know which you're holding?"
+response = "I've killed enough of both to know the difference, witcher."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_001"
+topic = "vampiric_scent"
+source_ids = ["geralt"]
+target_ids = ["marceline"]
+line = "You smell of old blood and older music."
+response = "And you smell of silver and bad decisions. What's your point?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_002"
+topic = "light_and_dark"
+source_ids = ["geralt"]
+target_ids = ["zelda"]
+line = "You shine like a noon sun. What do you know of the dark?"
+response = "The same dark that gives stars a sky to shine in."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_003"
+topic = "forest_paths"
+source_ids = ["huntress_wizard"]
+target_ids = ["link"]
+line = "The wild remembers you, hero. Try not to trample the saplings."
+response = "I walk where the path is needed. Nothing more."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_004"
+topic = "night_songs"
+source_ids = ["huntress_wizard"]
+target_ids = ["marceline"]
+line = "The bats tell me a song echoes in the night. Is it yours?"
+response = "Only the good parts. The rest is just hunger."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_005"
+topic = "inner_light"
+source_ids = ["huntress_wizard"]
+target_ids = ["zelda"]
+line = "You glow like a forest after rain. What light do you carry?"
+response = "A light that has waited a very long time to be seen."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_006"
+topic = "arcane_vs_sword"
+source_ids = ["invoker"]
+target_ids = ["link"]
+line = "You swing metal like a child. True power bends reality."
+response = "Reality bends all the time. I just keep swinging."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_007"
+topic = "blood_and_sorcery"
+source_ids = ["invoker"]
+target_ids = ["marceline"]
+line = "A vampire that plays music? How quaint. I've seen centuries of blood and sorcery."
+response = "Then you've lived long enough to know better than to monologue."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_008"
+topic = "wavelength_control"
+source_ids = ["invoker"]
+target_ids = ["zelda"]
+line = "A dragon in mortal form. Your wavelengths are excessive but uncontrolled."
+response = "Control is not the highest virtue, wizard."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_009"
+topic = "water_healing"
+source_ids = ["katara"]
+target_ids = ["link"]
+line = "The rivers remember the hero who walked through them. Are you still healing?"
+response = "Healing... is a slower current."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_010"
+topic = "heartless_healing"
+source_ids = ["katara"]
+target_ids = ["marceline"]
+line = "I've healed many wounds, but never one that stopped a heart entirely."
+response = "Heh. That's okay. I don't have one to stop."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_011"
+topic = "moonlight_brightness"
+source_ids = ["katara"]
+target_ids = ["zelda"]
+line = "Your light feels like the moon on calm water. How do you stay so bright?"
+response = "By remembering the darkness that made me."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_012"
+topic = "silent_warriors"
+source_ids = ["legolas"]
+target_ids = ["link"]
+line = "Your silence speaks of many battles, friend."
+response = "And your bow of many forests."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_013"
+topic = "night_cloak"
+source_ids = ["legolas"]
+target_ids = ["marceline"]
+line = "The night clings to you like a cloak. Do you also walk with the stars?"
+response = "Nah, I just nap in the rafters. The stars don't care."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_014"
+topic = "light_s_refuge"
+source_ids = ["legolas"]
+target_ids = ["zelda"]
+line = "Light-born maiden, your presence quiets even the shadow in my heart."
+response = "Then the shadow may rest here a while, archer."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_015"
+topic = "lone_wolf"
+source_ids = ["link"]
+target_ids = ["marceline"]
+line = "You fight like a wolf with no pack."
+response = "And you fight like a pack with one wolf. Cute."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_016"
+topic = "clean_soul"
+source_ids = ["link"]
+target_ids = ["pope_leo"]
+line = "I've seen too much blood. Can a soul still be clean?"
+response = "The Lord's mercy washes deeper than any wound, child."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_017"
+topic = "snow_and_ice"
+source_ids = ["link"]
+target_ids = ["shoumai"]
+line = "You talk like snow but fight like hail."
+response = "And you're quiet like a thaw. Something you need, hero?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_018"
+topic = "heavy_oaths"
+source_ids = ["link"]
+target_ids = ["tarnished"]
+line = "Your sword feels heavy with oaths."
+response = "Every oath is a weight I chose to bear."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_019"
+topic = "seismic_reading"
+source_ids = ["link"]
+target_ids = ["toph"]
+line = "You see with your feet. What do you read from mine?"
+response = "Unsteady sometimes. But you stand when it matters."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_020"
+topic = "predator_silence"
+source_ids = ["link"]
+target_ids = ["traxex"]
+line = "You hunt in silence like the wind before snow."
+response = "Silence is the best predator, warrior."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_021"
+topic = "wind_songs"
+source_ids = ["link"]
+target_ids = ["venti"]
+line = "Your songs feel like the wind that guided my glider."
+response = "Ah, so you have flown on my breeze before! Want an encore?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc4_022"
+topic = "broken_streets"
+source_ids = ["link"]
+target_ids = ["vi"]
+line = "Your fists tell a story of hard streets."
+response = "Yeah, a story with a lot of broken teeth. What's yours?"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_001"
+topic = "reckless_fighting"
+source_ids = ["link"]
+target_ids = ["zagreus"]
+line = "You fight like you've got nothing to lose."
+response = "Been there. Died there. Still standing. It keeps things interesting."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_002"
+topic = "skyland_peace"
+source_ids = ["link"]
+target_ids = ["zelda"]
+line = "The sky islands feel quieter now."
+response = "The light returns slowly, Link. Patience is its own kind of courage."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_003"
+topic = "fire_control"
+source_ids = ["link"]
+target_ids = ["zuko"]
+line = "Your fire doesn't burn recklessly."
+response = "Control is everything. Without it, you just hurt people."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_004"
+topic = "endless_night"
+source_ids = ["marceline"]
+target_ids = ["pope_leo"]
+line = "Ever feel like your whole existence is a long night?"
+response = "Even the longest night yields to dawn, child. There is mercy in the pattern."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_005"
+topic = "music_rivalry"
+source_ids = ["marceline"]
+target_ids = ["shoumai"]
+line = "You've got that cool ice thing going. Bet you can't rock a bass line though."
+response = "Please. I can drop a beat that shatters glaciers."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_006"
+topic = "death_and_meaning"
+source_ids = ["marceline"]
+target_ids = ["tarnished"]
+line = "So you've died a lot too. Does it ever get... boring?"
+response = "Grace renews with each rise. The fight remains sacred."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_007"
+topic = "seismic_music"
+source_ids = ["marceline"]
+target_ids = ["toph"]
+line = "Can you feel music through the ground? Like bass vibrations?"
+response = "I feel everything. A good beat travels right through the earth."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_008"
+topic = "silent_night"
+source_ids = ["marceline"]
+target_ids = ["traxex"]
+line = "You're quiet like the night. I respect that."
+response = "Night provides cover. Silence kills noise."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_009"
+topic = "duet_potential"
+source_ids = ["marceline"]
+target_ids = ["venti"]
+line = "Wind and strings. You'd make a killer duet partner."
+response = "Ehe~ the vampire queen wants a jam session? I'm in!"
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_010"
+topic = "fists_vs_bass"
+source_ids = ["marceline"]
+target_ids = ["vi"]
+line = "Fists and bass. Reckon which hits harder?"
+response = "Depends on the amp. But my gauntlets never need tuning."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_011"
+topic = "breaking_out"
+source_ids = ["marceline"]
+target_ids = ["zagreus"]
+line = "You break out of the underworld just to fight monsters here?"
+response = "Better than eternal small talk with my father. Much better."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_012"
+topic = "light_and_darkness"
+source_ids = ["marceline"]
+target_ids = ["zelda"]
+line = "You carry a lot of light for someone who's seen so much darkness."
+response = "Light doesn't forget the darkness. It simply refuses to be extinguished."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_013"
+topic = "dangerous_spark"
+source_ids = ["marceline"]
+target_ids = ["zuko"]
+line = "Fire's tricky. One spark can burn the whole house down."
+response = "I learned that the hard way. Now I only burn what needs burning."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_014"
+topic = "serenity_after_change"
+source_ids = ["pope_leo"]
+target_ids = ["zelda"]
+line = "Light and dragonfire. How do you keep serenity after transformation?"
+response = "By remembering the love that called me back to this form."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_015"
+topic = "taking_it_easy"
+source_ids = ["shoumai"]
+target_ids = ["zelda"]
+line = "You're all 'ancient wisdom' and sky light. Do you ever just chill?"
+response = "I do enjoy a quiet evening tea, when the kingdom allows it."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_016"
+topic = "blessing_or_burden"
+source_ids = ["tarnished"]
+target_ids = ["zelda"]
+line = "Thy light rivals the Erdtree's grace. Art thou blessed or burdened?"
+response = "Both. A blessing that became my duty, and a duty I carry with thanks."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_017"
+topic = "grounded_stance"
+source_ids = ["toph"]
+target_ids = ["zelda"]
+line = "Your feet are too light. You'd be easy to knock over."
+response = "I spent much time airborne. I'm learning solid ground again."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_018"
+topic = "dragon_and_cold"
+source_ids = ["traxex"]
+target_ids = ["zelda"]
+line = "The cold never bothered you? Even as a dragon?"
+response = "The sacred light kept me warm. But I still prefer spring winds."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_019"
+topic = "musical_invitation"
+source_ids = ["venti"]
+target_ids = ["zelda"]
+line = "A princess with the soul of a dragon! Care for a duet?"
+response = "I play the lyre, though I'm rather out of practice."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_020"
+topic = "fighting_royalty"
+source_ids = ["vi"]
+target_ids = ["zelda"]
+line = "You don't look like you've been in a scrap. Can you fight?"
+response = "When necessary, yes. I prefer diplomacy, but I am no stranger to combat."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_021"
+topic = "heavy_crown"
+source_ids = ["zagreus"]
+target_ids = ["zelda"]
+line = "Escaping my own kingdom, I know how heavy a crown gets."
+response = "Indeed. But we carry them not for glory, but for those we protect."
+weight = 1.0
+
+[[exchanges]]
+id = "newnpc5_022"
+topic = "fire_and_light"
+source_ids = ["zelda"]
+target_ids = ["zuko"]
+line = "Fire and light are not so different. Both can guide or destroy."
+response = "I used to think fire only destroys. I'm still learning it can warm."
+weight = 1.0

@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_28_001"
+topic = "trail_sign_reading"
+source_tags = ["bounty_hunter"]
+target_tags = ["town"]
+line = "I spotted claw marks on bark near the skyland ridge."
+response = "Could be a stray Corviknight. Check the feather pattern next time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_002"
+topic = "bowstring_weathering"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "My bowstring slackens after one patrol in damp skyland air."
+response = "Wax it with pine resin. I keep a block in my quiver."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_003"
+topic = "frost_arrow_supply"
+source_tags = ["tundra_archer"]
+target_tags = ["town"]
+line = "I need pure ice essence for frost arrows. The shop ran dry."
+response = "Check the cave behind the frozen falls. Raw cryo shards there."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_004"
+topic = "longbow_balance"
+source_tags = ["archer"]
+target_tags = ["mentor"]
+line = "My longbow wobbles on release. I lose my grouping past forty paces."
+response = "Grip lighter with your bow hand. Let the riser float."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_005"
+topic = "skyland_beast_track"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "Three-toed prints near the floating shrine. Heavy, deep impact."
+response = "Sounds like a roaming Copperajah. Do not engage alone."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_006"
+topic = "war_arrow_fletching"
+source_tags = ["war_archer"]
+target_tags = ["town"]
+line = "My war arrows whistle too loud. Prey hears me from fifty blocks."
+response = "Trim the fletching at an angle. Reduces drag and noise."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_007"
+topic = "tundra_camo_pattern"
+source_tags = ["tundra_archer"]
+target_tags = ["mentor"]
+line = "White cloak helps on snow. Dark rocks expose me instantly."
+response = "Add grey patches. Stitch them loose so they flutter like stone."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_008"
+topic = "recurve_vs_longbow"
+source_tags = ["archer"]
+target_tags = ["town"]
+line = "Recurve punch is stronger. But my longbow is quieter in woods."
+response = "Keep both. Longbow for ambush, recurve for open terrain."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_009"
+topic = "bounty_contract_overlap"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "Our contracts might overlap. I seek a rogue Garchomp west."
+response = "I track the same ridge line. Let us coordinate signals."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_010"
+topic = "war_archer_stamina"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "Heavy draw weight exhausts me before the third volley."
+response = "Train with hold-draw drills. Five breaths at full anchor."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_011"
+topic = "tundra_prey_migration"
+source_tags = ["tundra_archer"]
+target_tags = ["town"]
+line = "Snow hares moved higher. Something spooked them from the hollow."
+response = "I saw Liepard tracks there yesterday. Wait a few dawns."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_012"
+topic = "arrowhead_sharpening"
+source_tags = ["archer"]
+target_tags = ["mentor"]
+line = "My broadheads dull after two shots into chitin plates."
+response = "Use obsidian flakes. Sharper than iron on bug shell."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_013"
+topic = "tracking_in_mist"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "Mist rolled thick over the mossy ruins. Lost the trail cold."
+response = "Wait for noon sun to burn it off. Mark the last known print."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_014"
+topic = "war_arrow_penetration"
+source_tags = ["war_archer"]
+target_tags = ["town"]
+line = "My arrows bounce off armored hide. Target barely flinched."
+response = "Switch to bodkin points. They punch through scale gaps."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_015"
+topic = "cold_string_tension"
+source_tags = ["tundra_archer"]
+target_tags = ["mentor"]
+line = "My string contract in deep cold. Arrow flight drops short."
+response = "Warm the bow inside your cloak between shots. Works for me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_016"
+topic = "poison_coating_safety"
+source_tags = ["archer"]
+target_tags = ["town"]
+line = "I want to coat tips with venom but fear a scratch."
+response = "Carry powdered antivenom. Mix it into your water before."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_017"
+topic = "search_grid_method"
+source_tags = ["bounty_hunter"]
+target_tags = ["town"]
+line = "How do you grid-search a floating island without falling?"
+response = "Use the central boulder as origin. Spiral outward with rope."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_018"
+topic = "battlefield_vision"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "I lose targets in the chaos after the first volley lands."
+response = "Focus on a narrow lane. Trust your wingmen for the flanks."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_019"
+topic = "tundra_wind_call"
+source_tags = ["tundra_archer"]
+target_tags = ["mentor"]
+line = "Wind shifts every few seconds here. My aim flies wide."
+response = "Lick your finger. Release when the cold side hits your cheek."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_020"
+topic = "knots_for_archers"
+source_tags = ["archer"]
+target_tags = ["town"]
+line = "My wrist sling loosens mid-draw. Almost dropped the bow once."
+response = "Learn the taut-line hitch. It grips cord and adjusts easy."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_021"
+topic = "night_tracking_torch"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "Torchlight ruins my night vision. I miss subtle trail signs."
+response = "Use a hooded lantern with red glass. Keeps your eyes dark."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_022"
+topic = "volley_arc_calculation"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "My volley arcs inconsistent. Half land short, half overshoot."
+response = "Count heartbeats per distance. Three beats equals forty blocks."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_023"
+topic = "animal_behavior_tell"
+source_tags = ["tundra_archer"]
+target_tags = ["town"]
+line = "Stantler freeze before fleeing. Is that a warning for predators?"
+response = "Yes. They listen for wingbeats. If they bolt, watch the sky."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_024"
+topic = "shaft_straightening"
+source_tags = ["archer"]
+target_tags = ["mentor"]
+line = "My wooden shafts warp after rain. I waste half my stock."
+response = "Store them vertical in dry sand. Straightens as they cure."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_025"
+topic = "scouting_from_above"
+source_tags = ["bounty_hunter"]
+target_tags = ["town"]
+line = "Skyland vantage gives clear sightlines. But the wind gusts hard."
+response = "Crawl to the edge. Prone position lowers your wind profile."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_026"
+topic = "shield_wall_shooting"
+source_tags = ["war_archer"]
+target_tags = ["town"]
+line = "How do I shoot over our paladin's shield wall safely?"
+response = "High arc release. Aim for the back row, let gravity curve."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_027"
+topic = "tundra_bow_material"
+source_tags = ["tundra_archer"]
+target_tags = ["mentor"]
+line = "Horn bows crack in deep frost. I need a better material."
+response = "Try laminated birch with sinew backing. More flex in cold."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_028"
+topic = "silent_draw_trick"
+source_tags = ["archer"]
+target_tags = ["town"]
+line = "My bow creaks on draw. Every beast in the grove scatters."
+response = "Rub beeswax into the limb grooves. Deadens the sound."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_029"
+topic = "double_back_trail"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "Target doubled back on its own trail. Wasted half a day."
+response = "Classic trick. Next time send your partner ahead to loop."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_030"
+topic = "quiver_positioning"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "My hip quiver snags on brush. Shoulder style feels slow."
+response = "Try a back quiver tilted right. Tilt left if you draw left."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_031"
+topic = "lost_in_blizzard"
+source_tags = ["tundra_archer"]
+target_tags = ["town"]
+line = "Blizzard whiteout hit mid-patrol. I lost all landmarks."
+response = "Plant an arrow in the ground. Track its shadow angle next."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_032"
+topic = "draw_length_check"
+source_tags = ["archer"]
+target_tags = ["mentor"]
+line = "My draw length feels inconsistent. Some shots feel overpulled."
+response = "Tie a thread on your string. It should touch your lip every time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_033"
+topic = "poacher_camp_sign"
+source_tags = ["bounty_hunter"]
+target_tags = ["town"]
+line = "Found snare wire and dried blood under a skyland bridge."
+response = "Report it to the guard. I will sweep the east approach."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_034"
+topic = "moving_target_lead"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "I cannot hit a galloping Rapidash. Lead or trail?"
+response = "Lead by one length per ten blocks of distance. Breathe, loose."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_035"
+topic = "tundra_fox_sign"
+source_tags = ["tundra_archer"]
+target_tags = ["mentor"]
+line = "Tiny tracks lead into a burrow. Fennekin or wild Vulpix?"
+response = "Check for ash near the entrance. Vulpix leave warmth residue."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_036"
+topic = "bow_maintenance_kit"
+source_tags = ["archer"]
+target_tags = ["town"]
+line = "What belongs in a field maintenance kit for bows?"
+response = "Wax, spare string, nock pliers, and a small file. That covers it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_037"
+topic = "silent_signal_whistle"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "Need a silent signal for my partner beyond line of sight."
+response = "Use a short bird call. Two notes means stop, three means advance."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_038"
+topic = "siege_arrow_bundle"
+source_tags = ["war_archer"]
+target_tags = ["town"]
+line = "How many arrows do you carry into a prolonged siege?"
+response = "Sixty in the quiver, a hundred bundled on a mule behind."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_039"
+topic = "frostbite_fingers"
+source_tags = ["tundra_archer"]
+target_tags = ["town"]
+line = "My fingertips numb after an hour. I cannot feel the string."
+response = "Fingerless wool gloves with a thin leather tab. Trust me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_040"
+topic = "archer_sun_glare"
+source_tags = ["archer"]
+target_tags = ["mentor"]
+line = "Sun glare from lake water blinds me during dawn patrol."
+response = "Soot under your eyes cuts the reflection. Hunters use it ages."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_041"
+topic = "bounty_board_intel"
+source_tags = ["bounty_hunter"]
+target_tags = ["town"]
+line = "The board says a shiny Scyther haunts the old lumber mill."
+response = "Steel arrows then. Its blades shatter flint like dry twigs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_042"
+topic = "war_archer_fatigue"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "After a long skirmish my shoulder blade aches deep."
+response = "Stretch your rhomboid after battle. Lean into a tree and twist."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_043"
+topic = "tundra_glacier_crack"
+source_tags = ["tundra_archer"]
+target_tags = ["mentor"]
+line = "Glacier cracked underfoot near the ice shrine. Nearly lost me."
+response = "Tap with a bow tip before stepping. Hollow sound means danger."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_044"
+topic = "range_finding_thumb"
+source_tags = ["archer"]
+target_tags = ["town"]
+line = "How do you judge distance without a rangefinder?"
+response = "Thumb jump method. Close one eye, switch, measure the shift."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_045"
+topic = "partner_separation"
+source_tags = ["bounty_hunter"]
+target_tags = ["mentor"]
+line = "My partner and I got separated in thick fog. New protocol?"
+response = "Agree on a rally point before you enter any fog bank."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_046"
+topic = "flaming_arrow_wind"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "Flaming arrow dips in crosswind. Almost lit our own barricade."
+response = "Fire arrows only with the wind at your back. Add more pitch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_047"
+topic = "tundra_badger_dens"
+source_tags = ["tundra_archer"]
+target_tags = ["town"]
+line = "Linoone dug up all my marker cairns west of the pass."
+response = "Switch to stone stacks with a flat cap. They cannot topple those."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_048"
+topic = "ambush_spacing"
+source_tags = ["archer"]
+target_tags = ["mentor"]
+line = "What is the ideal spacing between archers in an ambush line?"
+response = "Five blocks apart. Close enough to focus, far enough to escape."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_049"
+topic = "trophy_collection_rule"
+source_tags = ["bounty_hunter"]
+target_tags = ["town"]
+line = "Do you take trophies from your marks or leave them be?"
+response = "Only a photo for the guild. Trophies attract scavenger packs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_28_050"
+topic = "group_focus_fire"
+source_tags = ["war_archer"]
+target_tags = ["mentor"]
+line = "How do we call focus fire without shouting and alerting prey?"
+response = "Raise one arrow vertical. Everyone follows your target after."
+weight = 1.0

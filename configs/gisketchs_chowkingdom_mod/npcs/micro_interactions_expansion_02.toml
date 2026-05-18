@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_02_001"
+topic = "lamplight_kindling"
+source_tags = ["town", "lamplight"]
+target_tags = ["town", "lamplight"]
+line = "Evening lamplight always lifts my spirit after a long day."
+response = "The glow across these cobbles feels like a steady heartbeat."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_002"
+topic = "stall_shuttering"
+source_tags = ["town", "store_seed"]
+target_tags = ["town", "store_pokemon"]
+line = "Packing up seed sacks before the dew settles again."
+response = "I just locked the pokeball cabinet and swept the counter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_003"
+topic = "guard_handover"
+source_tags = ["town", "warrior"]
+target_tags = ["town", "paladin"]
+line = "The eastern watch is quiet; no skyland squalls tonight."
+response = "I will take the late vigil. Rest your blade, friend."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_004"
+topic = "inn_warmth"
+source_tags = ["town", "bard"]
+target_tags = ["town", "rogue"]
+line = "Hearthfire and hot cider wait inside the creaking inn."
+response = "Smells like spiced apple and old stories. I am ready."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_005"
+topic = "cobblemon_roost_check"
+source_tags = ["town", "researcher"]
+target_tags = ["town", "ranger"]
+line = "Are the research paddocks secure for the night?"
+response = "Latches are firm and the duskull lanterns are lit."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_006"
+topic = "frost_breath_street"
+source_tags = ["town", "frost_wizard"]
+target_tags = ["town", "fire_wizard"]
+line = "This chill burns my fingertips even through gloves."
+response = "I shall warm the corner brazier. Do not waste your flames."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_007"
+topic = "bridge_lamp_relight"
+source_tags = ["town", "wind_wizard"]
+target_tags = ["town", "earth_wizard"]
+line = "The skybridge lamp guttered in a crosswind again."
+response = "I just tamped the stone footing. Light it once more."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_008"
+topic = "night_patrol_prep"
+source_tags = ["town", "berserker"]
+target_tags = ["town", "archer"]
+line = "I will pace the treeline until moonrise, nothing more."
+response = "Keep a whistle handy. Owls carry strange echoes tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_009"
+topic = "adventure_time_supper"
+source_tags = ["town", "adventure_time"]
+target_tags = ["town", "adventure_time"]
+line = "Bubblegum traded berry tarts for smoked fish at dusk."
+response = "The candy tavern is rowdy again. I prefer the garden bench."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_010"
+topic = "creek_wash"
+source_tags = ["town", "water_wizard"]
+target_tags = ["town", "forcemaster"]
+line = "Evening creek is warm enough for a quick splash."
+response = "I already rinsed my wraps. Training dust clings less."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_011"
+topic = "tower_flute"
+source_tags = ["town", "bard"]
+target_tags = ["town", "wind_wizard"]
+line = "I heard your flute drifting from the clocktower ledge."
+response = "The breeze carried the high notes farther than I intended."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_012"
+topic = "seed_stock_recount"
+source_tags = ["town", "researcher"]
+target_tags = ["town", "store_seed"]
+line = "I need glistening moss samples for cobblemon habitat work."
+response = "I saved three pouches from the morning shipment for you."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_013"
+topic = "link_shield_polish"
+source_tags = ["town", "link"]
+target_tags = ["town", "zelda"]
+line = "Hylian steel gleams better under tavern lanterns."
+response = "The scuffs tell our story. I will polish mine at dawn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_014"
+topic = "zelda_sky_chart"
+source_tags = ["town", "zelda"]
+target_tags = ["town", "dragon_memory"]
+line = "The stars align exactly as the old sky tablets described."
+response = "I still remember wings carrying me beneath those patterns."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_015"
+topic = "witcher_potion_shelf"
+source_tags = ["town", "class_witcher"]
+target_tags = ["town", "archer"]
+line = "Oils dry quickly in this crisp air. Need to restock."
+response = "I have lanolin and cave herbs if you need binding agents."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_016"
+topic = "cosmetics_stall_close"
+source_tags = ["town", "store_cosmetics"]
+target_tags = ["town", "store_pokemon"]
+line = "Last customer bought three hair ribbons and vanished."
+response = "At least the pumpkaboo lanterns will keep your stall bright."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_017"
+topic = "skyland_safety_check"
+source_tags = ["town", "skyland_survival"]
+target_tags = ["town", "earth_wizard"]
+line = "The lower skyledge loose stone markers are all upright."
+response = "Good. Those crumbling edges worry me in the damp."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_018"
+topic = "monster_hunter_return"
+source_tags = ["town", "monster_hunter"]
+target_tags = ["town", "warrior"]
+line = "Even the rookies dragged their quarry home before dusk."
+response = "The stew pot has extra venison. Tell them to join us."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_019"
+topic = "nocturnal_shift"
+source_tags = ["town", "nocturnal"]
+target_tags = ["town", "musician"]
+line = "Moonrise soon. I left a fiddle case in the alcove."
+response = "I will tune the gut strings before the bats wake up."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_020"
+topic = "mage_light_spar"
+source_tags = ["town", "arcane_wizard"]
+target_tags = ["town", "fire_wizard"]
+line = "Invoker juggled orbs by the well and startled the goats."
+response = "Reflect his lights into prism shards. That calms him down."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_021"
+topic = "elven_arrow_fletch"
+source_tags = ["town", "war_archer"]
+target_tags = ["town", "tundra_archer"]
+line = "Duck feathers from the millpond dried stiff and straight."
+response = "I have sinew from the cold peak. Let us trade a dozen."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_022"
+topic = "aloy_tracker_chat"
+source_tags = ["town", "bounty_hunter"]
+target_tags = ["town", "rogue"]
+line = "South gate tracks look like kobold scouting runs again."
+response = "I oiled the gate hinges. If they jostle, I will know."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_023"
+topic = "ciri_blink_practice"
+source_tags = ["town", "ciri"]
+target_tags = ["town", "geralt"]
+line = "Short hops across the empty market square did not tire me."
+response = "Keep your silver chain loose. Portals wobble after rain."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_024"
+topic = "geralt_blade_work"
+source_tags = ["town", "geralt"]
+target_tags = ["town", "warrior"]
+line = "Grindstone near the smithy is still warm from daylight use."
+response = "I saved you a whetstone. Your silver edge deserves it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_025"
+topic = "pope_leo_vespers"
+source_tags = ["town", "priest"]
+target_tags = ["town", "paladin"]
+line = "Chapel candles are trimmed. Evening hymn will be soft."
+response = "I will stand vigil at the sanctuary door in silence."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_026"
+topic = "gandalf_pipe_smoke"
+source_tags = ["town", "gandalf"]
+target_tags = ["town", "wind_wizard"]
+line = "Old Toby smoke rings float perfectly still tonight."
+response = "A gentle southern breeze will carry them tomorrow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_027"
+topic = "elsa_frost_lantern"
+source_tags = ["town", "frost_wizard"]
+target_tags = ["town", "store_cosmetics"]
+line = "Ice crystals coat every lamppost finial like sugar."
+response = "The children will trace shapes on them before breakfast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_028"
+topic = "shoumai_wrap_count"
+source_tags = ["town", "store_cosmetics"]
+target_tags = ["town", "store_seed"]
+line = "Silk wraps leftover from spring dye need a new shelf."
+response = "Lay them near the linen seeds. Hues attract early buyers."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_029"
+topic = "tarnished_vigil"
+source_tags = ["town", "paladin"]
+target_tags = ["town", "berserker"]
+line = "Erdtree sapling by the fountain needs no lantern light."
+response = "Its gold gleams anyway. I shall rest my axe beneath it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_030"
+topic = "zagreus_river_dip"
+source_tags = ["town", "berserker"]
+target_tags = ["town", "water_wizard"]
+line = "Cooling my heels by the stepping stones clears my head."
+response = "Soak longer. I kept the current gentle with a soft eddy."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_031"
+topic = "venti_evening_ballad"
+source_tags = ["town", "bard"]
+target_tags = ["town", "musician"]
+line = "A young ranger requested the amber road ballad twice."
+response = "I will add cello drone next time. It anchors the melody."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_032"
+topic = "bubblegum_habitat_log"
+source_tags = ["town", "bubblegum"]
+target_tags = ["town", "pokemon"]
+line = "Munchlax sleeping patterns shift when moonlight hits the moss."
+response = "Jot it in the yellow journal. I will review it with tea."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_033"
+topic = "marceline_bass_check"
+source_tags = ["town", "marceline"]
+target_tags = ["town", "musician"]
+line = "My axe bass strings felt sticky after the afternoon heat."
+response = "Wipe them with lemon oil before the midnight set starts."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_034"
+topic = "finn_sweaty_headband"
+source_tags = ["town", "adventure_time"]
+target_tags = ["town", "store_cosmetics"]
+line = "I wrung out my headband in the horse trough."
+response = "Here is a spare linen scrap. Yours is more tatters now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_035"
+topic = "huntress_wizard_quiver"
+source_tags = ["town", "archer"]
+target_tags = ["town", "monster_hunter"]
+line = "My fletching glue bubbled over the campfire earlier."
+response = "Mix pine resin with charcoal dust. It holds in the damp."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_036"
+topic = "toph_seismic_rest"
+source_tags = ["town", "earth_wizard"]
+target_tags = ["town", "warrior"]
+line = "Evening quiet lets me feel roots stretching beneath the plaza."
+response = "Any odd tremors near the old well? I pulled debris earlier."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_037"
+topic = "katara_evening_heal"
+source_tags = ["town", "water_wizard"]
+target_tags = ["town", "bounty_hunter"]
+line = "Lukewarm basin water is still enough for minor healing."
+response = "My bruised knuckles thank you. Tomorrow I track again."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_038"
+topic = "zuko_ember_pot"
+source_tags = ["town", "fire_wizard"]
+target_tags = ["town", "store_seed"]
+line = "The communal ember pot near the mill needs fresh coals."
+response = "Push a few under the seedling tray overnight, please."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_039"
+topic = "aang_sky_breeze"
+source_tags = ["town", "wind_wizard"]
+target_tags = ["town", "skyland_survival"]
+line = "Wind current above the bluffs is gentle enough for gliding."
+response = "Test the spiral path tomorrow. I will chart updraft spots."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_040"
+topic = "invoker_arcane_hush"
+source_tags = ["town", "arcane_wizard"]
+target_tags = ["town", "priest"]
+line = "Resonance spell fading. The tower bells will not hum tonight."
+response = "Thank you. Silent evening lets the choir rehearse softly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_041"
+topic = "ezio_rooftop_vantage"
+source_tags = ["town", "rogue"]
+target_tags = ["town", "war_archer"]
+line = "Chimney perches are dry. Good view of the south crossroads."
+response = "I will watch the trail while you check the granary gutter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_042"
+topic = "legolas_starlit_string"
+source_tags = ["town", "war_archer"]
+target_tags = ["town", "musician"]
+line = "Bowstring hum matches the evening cricket pitch perfectly."
+response = "Pluck a soft scale near the apiary. Bees love harmony."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_043"
+topic = "traxex_evening_camp"
+source_tags = ["town", "tundra_archer"]
+target_tags = ["town", "frost_wizard"]
+line = "Windbreak hide is stretched tight. I will sleep under stars."
+response = "Snow flurries will hold off. My senses say mild night."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_044"
+topic = "cobblemon_biology_log"
+source_tags = ["town", "cobblemon_biology"]
+target_tags = ["town", "researcher"]
+line = "Flittle flock circles east of town every evening precisely."
+response = "Update the migration chart and pin a feather sample."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_045"
+topic = "vi_iron_vambrace"
+source_tags = ["town", "forcemaster"]
+target_tags = ["town", "warrior"]
+line = "Forgemaster finished my vambrace rivets before sunset."
+response = "Test them on the straw dummies. I will reset the posts."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_046"
+topic = "light_magic_evening"
+source_tags = ["town", "light_magic"]
+target_tags = ["town", "paladin"]
+line = "Sunset beam touched the sacred grove for seven seconds."
+response = "I counted eight heartbeats. Even brief grace is a gift."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_047"
+topic = "sword_technique_shadow"
+source_tags = ["town", "warrior"]
+target_tags = ["town", "link"]
+line = "Practice stances with torch shadows feel sharper at night."
+response = "Agreed. Shadow drills teach footwork lanterns cannot reveal."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_048"
+topic = "tears_kingdom_recall"
+source_tags = ["town", "tears_of_the_kingdom"]
+target_tags = ["town", "zelda"]
+line = "Recall glyphs faintly shimmer on the old archway stones."
+response = "They pulse when memory is near. I will sketch them again."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_049"
+topic = "explorer_flask_share"
+source_tags = ["town", "store_explorer"]
+target_tags = ["town", "bounty_hunter"]
+line = "Corked springwater still cool from the cavern depths."
+response = "Trade you a dried berry leather. Trail food for trail drink."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_02_050"
+topic = "candle_bridge_close"
+source_tags = ["town", "lamplight"]
+target_tags = ["town", "skyland_lore"]
+line = "Last skybridge candle snuffed. Stars take over now."
+response = "Ancient skyland texts say starlight seals gentle wards."
+weight = 1.0

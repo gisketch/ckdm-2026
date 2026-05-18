@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_15_001"
+topic = "berry_stock_shelf_restock"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Fresh Oran and Sitrus berries just arrived from the greenhouse."
+response = "Perfect timing. I was running low on field treats for the rookies."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_002"
+topic = "poke_ball_display_notice"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "The new display holds Heavy Balls near the counter."
+response = "I noticed. Fletchling tried to perch on the top shelf already."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_003"
+topic = "incense_shelf_spacing"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "I moved the Incense shelf away from the honey jars."
+response = "Smart. Last week a Combee followed the scent inside."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_004"
+topic = "evolution_stone_labels"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "All evolution stones now have hand-painted labels."
+response = "Good. A miner almost grabbed a Fire Stone thinking it was citrine."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_005"
+topic = "field_kit_scissor_restock"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Trim scissors for the field kits arrived today."
+response = "I will tell the scouts. Their Furfrou spa day is overdue."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_006"
+topic = "potion_shelf_earthquake_check"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Check the Potion shelf. It rattled during the tremor."
+response = "Already done. Nothing broke, but a Super Potion rolled behind the crate."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_007"
+topic = "roto_bundle_catalog_placement"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Roto Bundle catalogs are by the door now."
+response = "Handy. Travelers grab one before heading to the skylands."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_008"
+topic = "repel_shelf_height"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Max Repel bottles need a lower shelf, too tall for the top."
+response = "I will swap them with the Antidote trays after lunch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_009"
+topic = "berry_pouch_sample_stand"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Berry pouch samples are open by the seed rack."
+response = "Nice. Travelers can test the snap clasp before buying."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_010"
+topic = "field_kit_magnifier_stock"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Magnifying lenses for the field kits are back in stock."
+response = "Bubblegum will be pleased. Her lab assistants need the spare set."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_011"
+topic = "potion_shelf_color_coding"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "I sorted potions by cork color, easier for dim light."
+response = "Clever. Rangers grab them fast before dawn patrols."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_012"
+topic = "poke_doll_shelf_window"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Poke Dolls moved to the window display."
+response = "Makes the shop feel brighter from the market road."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_013"
+topic = "escape_rope_hook_mount"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Escape Ropes hang on wall hooks now, not in bins."
+response = "Good, fewer tangles. Last time a Zubat got caught in the pile."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_014"
+topic = "lure_case_dust_cover"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "I put dust covers on the Lure cases."
+response = "They needed it. Pollen season fills every shelf gap."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_015"
+topic = "rare_candy_cabinet_lock"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Rare Candy stays in the locked cabinet now."
+response = "Wise. We had a Greedent visitor last autumn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_016"
+topic = "pokedex_cradle_display"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "The Pokedex cradle display is powered up again."
+response = "Bubblegum will test the loaner units for fieldwork."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_017"
+topic = "tm_disc_spindle_rack"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "TM discs are on the new spindle rack."
+response = "Easier to flip through than the old drawer stack."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_018"
+topic = "heal_powder_scoop_bin"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Heal Powder scoops match the small paper pouches."
+response = "Neat. No more cloudy dust clouds near the register."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_019"
+topic = "poke_toy_basket_rotate"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "I rotate the Poke Toy basket weekly."
+response = "Good habit. Even old stock finds a new playmate."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_020"
+topic = "vitamin_bottle_row_align"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Protein and Iron bottles need front-row alignment."
+response = "Done. The Calcium display looks crisp now as well."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_021"
+topic = "field_kit_backpack_pegboard"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Field kits hang on pegboard hooks by size."
+response = "Small kit for solo scouts, large for the patrol unit."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_022"
+topic = "apricorn_shell_jar"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Apricorn shells fill the glass jar by the door."
+response = "Good lure for visiting crafters. Toph might want the rock shell."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_023"
+topic = "status_berry_tray_label"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Status berry trays now have picture labels."
+response = "Helpful. Even new travelers can read the icons."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_024"
+topic = "poke_flute_stand_dusting"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Poke Flute stands need dusting after the winds."
+response = "I will wipe them before Venti practices near the shop."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_025"
+topic = "bicycle_voucher_notice"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "A new stack of Bike Vouchers is behind the counter."
+response = "Link asked about one for riding between patrol posts."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_026"
+topic = "berry_seed_rack_sunlight"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Berry seed racks must avoid the noon sun stripe."
+response = "I shifted them left. The Bluk packets were warm."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_027"
+topic = "trade_cable_display_hook"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Link Cables dangle from the circular display hook."
+response = "Looks like a festive wreath. Let us keep it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_028"
+topic = "placeholder_poke_ball_slot"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "One Poke Ball slot is empty for demo handling."
+response = "Good. Newcomers feel the weight before choosing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_029"
+topic = "soothe_bell_velvet_tray"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Soothe Bells rest on a velvet tray now."
+response = "They deserve the quiet display. Shoumai would approve."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_030"
+topic = "protein_powder_jar_seal"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Bulk Protein jars need wax seals every morning."
+response = "I will add it to the opening checklist."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_031"
+topic = "everstone_small_box_label"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Everstones now sit in a small labeled box."
+response = "About time. Travelers mistook them for skipping stones."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_032"
+topic = "sun_stone_shelf_angle"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Sun Stones catch the dawn light on this shelf."
+response = "Intended? It looks like a shrine to morning blessings."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_033"
+topic = "dawn_stone_sun_stone_swap"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Swap Dawn Stones near the window mirror."
+response = "Good. The sparkle draws curious shoppers walking by."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_034"
+topic = "moon_stone_velvet_pouch"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Moon Stones rest inside a dark velvet pouch."
+response = "Marceline might browse those after sunset."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_035"
+topic = "shiny_stone_cabinet_pad"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Shiny Stones have a padded cabinet slot now."
+response = "Good. No scratches like the old metal drawer."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_036"
+topic = "ice_stone_cold_storage"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Ice Stones stay in cold storage near Elsa's imports."
+response = "Fitting. They keep the shelf frosty."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_037"
+topic = "thunder_stone_ground_shelf"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Thunder Stones are grounded on a clay shelf."
+response = "Finn tested the insulation. No static crackle left."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_038"
+topic = "leaf_stone_plant_table"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Leaf Stones sit among potted herbs for humidity."
+response = "Katara waters those herbs. Win-win for the display."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_039"
+topic = "water_stone_soak_bowl"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Water Stones rest in a shallow soak bowl."
+response = "Keeps the glow. Also stops stray Staryu from beaching."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_040"
+topic = "fire_stone_heat_mat"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Fire Stones sit on a heat-safe ceramic mat."
+response = "Zuko saw it and said it reminded him of hearth tiles."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_041"
+topic = "dusk_stone_shadow_shelf"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Dusk Stones on the shadow shelf near the back corner."
+response = "Eerie but fitting. Marceline hums near that aisle."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_042"
+topic = "oval_stone_log_slice_display"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Oval Stones rest on polished log slices."
+response = "Looks like nests. Huntress Wizard paused to admire it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_043"
+topic = "field_guide_stand_rotation"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Field guides rotate monthly near the counter."
+response = "Tarnished read the rock-type volume all afternoon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_044"
+topic = "cobblemon_research_journal_shelf"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Cobblemon journal issues fill the bottom shelf."
+response = "Bubblegum updates them faster than we can file."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_045"
+topic = "berry_blend_table_wipes"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Wet wipes now sit beside the berry blend table."
+response = "Much needed. Sticky hands are a shop hazard."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_046"
+topic = "poke_block_mold_kits"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Poke Block mold kits are bundled with berry scoops."
+response = "Smart upsell. I will mention it to bubblegum's research aide."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_047"
+topic = "field_kit_flashlight_checkout"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Flashlights in field kits charge near the counter."
+response = "Geralt tested one for nocturnal cave scouting."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_048"
+topic = "poke_snack_sample_counter"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Poke Snack samples on the counter tray."
+response = "Even Zagreus grabbed a handful before patrol."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_049"
+topic = "poke_doll_checkout_basket"
+source_tags = ["store_pokemon", "pokemon"]
+target_tags = ["town"]
+line = "Mini Poke Doll basket near the checkout counter."
+response = "Shoumai rearranged the colors by mood yesterday."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_15_050"
+topic = "berry_shelf_restock"
+source_tags = ["store_pokemon"]
+target_tags = ["town"]
+line = "Fresh berries from our greenhouse shelf. No training required to buy field kits."
+response = "Field kits sound perfect for my Cobblemon observation notes, thanks."
+weight = 1.0

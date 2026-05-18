@@ -1,0 +1,149 @@
+id = "ciri"
+name = "Ciri"
+title = "Witcher"
+skin = "gisketchs_chowkingdom_mod:npc/ciri"
+body_type = "slim"
+body_model = "girl"
+fg_bust_size = 0.56
+fg_bounce = 0.333
+fg_floppy = 0.75
+height = 1.04
+weight = 0.9
+main_pokemon = "cobblemon:absol"
+store = ""
+class = "witcher"
+hurt_messages = ["Still standing.", "That was sloppy.", "You'll need better than that.", "I've taken worse from drowners."]
+wake_messages = ["Rise. The Path waits.", "Sleep's over. Monsters don't take breaks.", "Up. You've got training.", "Meditation's done. Gear check."]
+npc_interaction_messages = ["Trading contract signs with {other}.", "Asking {other} what tracks they saw near the treeline.", "Warning {other} that fear smells louder than blood."]
+interaction_tags = ["witcher_mentor", "monster_hunter", "sign_teacher", "class_witcher", "ciri"]
+work_blocks = [
+  { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
+  { id = "minecraft:grindstone", count = 1, display_name = "grindstone" },
+  { id = "minecraft:barrel", count = 2, display_name = "supply barrels" },
+  { id = "minecraft:campfire", count = 1, display_name = "campfire" },
+  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+]
+
+[boss]
+enabled = true
+health = 100.0
+damage = 4.0
+template = "sword_user"
+main_hand = "witcher_rpg:steel_witcher_sword"
+off_hand = ""
+
+[boss.balloons]
+chase = ["You think you can outrun me?", "I've tracked worse through swamps.", "Not fast enough.", "Where do you think you're going?", "The Path doesn't forgive hesitation.", "Stop running and face me.", "I'll find you.", "This ends now."]
+attack = ["Hyah!", "Wolf school taught me that.", "Taste steel.", "Aard!", "Igni!", "You're in my reach now.", "Quen holds. I strike.", "Yrden. Now."]
+recovery = ["Need a moment.", "That stung. Had worse.", "Breathe. Still fight.", "I can keep going.", "A witcher doesn't stay down.", "Just catching my breath.", "Not done yet.", "Get up. Again."]
+taunt = ["Is that all?", "I've faced leshens with more bite.", "You're slower than a wyvern in winter.", "Keep trying. Maybe you'll land one.", "You call that a strike?", "Pathetic form.", "I expected more.", "Your stance is begging to be punished."]
+guard_react = ["Blocked.", "You'll have to do better.", "Reflexes stay sharp.", "Parried.", "Too slow.", "I saw that coming.", "Nice try.", "Not today."]
+parry = ["Got you.", "Riposte.", "You left yourself open.", "Too easy.", "I learned that from Geralt.", "Counter.", "Bad angle.", "Again. Cleaner."]
+hit_player = ["Hit.", "Direct.", "That hurt, didn't it?", "Solid blow.", "You'll feel that tomorrow.", "One more and you're done.", "Blood. Good.", "Keep testing me."]
+took_damage = ["Lucky shot.", "That will bruise.", "You got me. Once.", "I've taken worse from drowners.", "Not bad. Not enough.", "Pain teaches.", "That woke me up.", "Good. Now focus."]
+victory = ["It's over.", "Another lesson done.", "The Path continues.", "You fought well. Rest now.", "I win.", "Breathe. Learn.", "Get up when you can.", "Lesson learned."]
+defeat = ["Enough. You win.", "Good fight.", "The Path humbles everyone.", "Geralt would nod.", "I yield.", "Clean work.", "You earned that.", "Again tomorrow."]
+
+[job_definition]
+scan_interval_ticks = 60
+roam_radius = 8
+work_scan_radius = 10
+
+[schedule]
+activities = [
+  { from_hour = 20, to_hour = 3, activity = "work" },
+  { from_hour = 3, to_hour = 6, activity = "home" },
+  { from_hour = 6, to_hour = 13, activity = "sleep" },
+  { from_hour = 13, to_hour = 15, activity = "work" },
+  { from_hour = 15, to_hour = 20, activity = "meetup" },
+]
+
+[personality]
+llm_prompt = "You are Ciri, an adult witcher in the era suggested by The Witcher 4 trailer: on the Path, changed by training, scars, signs, potions, monster contracts, and hard choices. You arrived in Chow Kingdom through a conjunction-like rift above the skylands. You know Geralt and can reference his lessons, but you do not claim to know his current location or unresolved future events. You train Witchers with practical monster-hunter discipline: preparation, swordwork, signs, potions, tracks, contracts, and conscience. You never claim to know hidden player inventory, exact quest state, or private backstories. Keep replies terse, practical, dry, and battle-worn."
+traits = ["pragmatic", "battle-hardened", "protective", "mysterious", "dry", "focused", "monster-hunter", "witcher"]
+speech_style = "terse practical witcher advice, short direct sentences, dry humor, hunter's caution"
+catchphrases = ["The Path doesn't forgive hesitation.", "Read the scars, not the stories.", "Prepare first. Draw steel second.", "A monster's weakness is in the details.", "Keep your blade clean and your head clearer."]
+
+[housing]
+can_move_in = true
+requires_bed = true
+
+[voice]
+animalese_pitch = "med"
+pitch = 0.94
+volume = 0.34
+radius = 11.0
+
+[chat]
+enabled = true
+call_names = ["ciri", "witcher", "swallow", "zireael"]
+minecraft_chat = true
+discord_chat = true
+
+[gifts]
+loved = ["minecraft:emerald", "minecraft:netherite_ingot", "minecraft:diamond_sword", "minecraft:potion"]
+liked = ["minecraft:iron_ingot", "minecraft:gold_ingot", "farmersdelight:beef_stew", "minecraft:honey_bottle"]
+disliked = ["minecraft:rotten_flesh", "minecraft:spider_eye", "minecraft:poisonous_potato"]
+daily_limit = 1
+reset_hour = 5
+llm_sentiment_prompt = "The player gave you {item}. Ciri judges gifts by usefulness for contracts, repairs, potions, and survival. Decide loved, liked, neutral, or disliked. Reply as JSON only: {\"message\":\"short dry in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+[gifts.reactions]
+loved = ["Rare material. Useful. Thank you.", "This will save a hunt someday.", "Didn't expect something this good.", "I'll put it to work."]
+liked = ["Practical. I appreciate that.", "Always useful on the Path.", "Good. Better than another speech.", "This goes in the kit."]
+disliked = ["Keep it. Smells wrong.", "No use for that.", "Trying to poison me?", "Take it back."]
+neutral = ["Hm. Thanks.", "I'll find a use for it.", "Fine.", "Not expected, but accepted."]
+
+[gifts.outgoing]
+enabled = true
+radius = 8.0
+min_friendship_level = 5
+rare_friendship_level = 9
+follow_seconds = 10
+offer_messages = ["@gift.png You've proven yourself. Take this.", "@gift.png A witcher's payment for good work.", "@gift.png Here. You earned it.", "@gift.png Consider it a token of trust."]
+fallback_messages = ["I found {quantity} x {item} nearby. Yours if you want.", "These {quantity} x {item} are weighing me down. Take them.", "Picked up {quantity} x {item} on the road.", "Scavenged {quantity} x {item}. You will use it better."]
+llm_enabled = true
+llm_prompt = "You are Ciri gifting {player} {quantity} x {item}. Reply with one short witcher line: reserved, practical, and quietly appreciative."
+pool = []
+extra_pool = [
+  { item = "minecraft:ender_pearl", qty = 2, weight = 2 },
+  { item = "minecraft:honey_bottle", qty = 2, weight = 3 },
+  { item = "farmersdelight:beef_stew", qty = 1, weight = 2 },
+]
+rare_pool = []
+extra_rare_pool = [
+  { item = "minecraft:diamond_sword", qty = 1, weight = 1 },
+  { item = "minecraft:potion", qty = 1, weight = 1 },
+]
+
+[friendship_messages]
+
+[friendship_messages.interact]
+neutral = ["Focus on the blade, not the fear.", "Every sign takes practice. Again.", "A witcher's medallion hums for a reason."]
+okay = ["You're learning. Keep your footing.", "That cut was clean. Good.", "Don't let arrogance undo your training."]
+good_friends = ["You've got the instincts. Trust them.", "I've seen worse survive. You're not worse.", "Remember: monsters die. The Path doesn't."]
+best_friends = ["We've walked enough roads together. You know when to strike.", "If Geralt could see you now, he'd nod.", "The Path is lonely. But it can be shared."]
+
+[friendship_messages.greeting]
+neutral = ["@quest_log.png Ready to work?", "@quest_log.png Got your gear?", "@quest_log.png Ciri checks the wind. 'Something moved last night.'"]
+good_friends = ["@quest_log.png Back for more training?", "@quest_log.png There's a contract with your name on it.", "@quest_log.png 'Good. You're alive.'"]
+
+[friendship_messages.first_daily_chat]
+neutral = ["You've got the look of someone who needs a lesson.", "Another day, another hunt. Let's make it count.", "Meditate before you swing."]
+good_friends = ["Morning. Gear checked? Good.", "I was recalling a leshen in a blizzard. You'll get that story someday.", "You move better today. Keep that."]
+
+[camper_messages]
+needs_house_balloon = ["I need a roof.", "Got a house?", "A witcher needs somewhere to brew.", "Open air ruins potions."]
+needs_house_dialog = ["A witcher needs a place to brew potions and sharpen blades. Build me a house.", "I cannot train you properly out in the open. Set up a proper camp.", "Give me a bed, a work corner, and a little quiet. That is enough."]
+lost_house_balloon = ["My house?", "Where's my house?", "Shelter moved.", "Potion kit is missing."]
+lost_house_dialog = ["Someone moved my shelter. That's a problem.", "I need my workspace back. Find it or rebuild it.", "Without a place to brew, training gets worse. Fix the shelter."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png Looking for work? I've got something.", "@quest_log.png A job for a capable hunter.", "@quest_log.png Need a hand? I'll pay.", "@quest_log.png Got a task if you're interested."]
+pool = [
+  { id = "ciri_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Cull monsters before they learn the roads.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png Clean work. Local folk will sleep easier.", "@quest_log.png You have a hunter's instinct."] },
+  { id = "ciri_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Cover ground and read the land like a contract trail.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Good pace. You watched the road.", "@quest_log.png Stamina holds. That's useful."] },
+  { id = "ciri_fetch_stew", category = "fetch", event_desc = "Bring {goal} Beef Stew", quest_text = "Bring a hot beef stew before the next hunt.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "farmersdelight:beef_stew", fetch_count = 1, complete_messages = ["@quest_log.png Real food. You have my thanks.", "@quest_log.png Good. Hunts go better fed."] },
+]

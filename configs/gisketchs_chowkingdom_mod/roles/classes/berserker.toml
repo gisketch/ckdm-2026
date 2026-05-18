@@ -18,6 +18,7 @@ perks = [
 
 [mentor_quest]
 mentor_npc_id = "zagreus"
+mentor_npc_ids = ["zagreus", "marceline"]
 title = "House Of Blood Trial"
 intro_message = "Zagreus teaches controlled fury: burn bright, come back sane."
 unlock_title = "Red Oath Breaker"

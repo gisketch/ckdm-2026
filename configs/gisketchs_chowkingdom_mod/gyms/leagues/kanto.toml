@@ -1,0 +1,80 @@
+# Chow Kingdom config: kanto.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: id.
+id = "kanto"
+# Config value: display_name.
+display_name = "Kanto League"
+# Config value: stadium_area.
+stadium_area = "main_stadium"
+# Config value: active_only.
+active_only = true
+# Config value: starter_mode.
+starter_mode = "story_only"
+# Config value: chowfan_npc_id.
+chowfan_npc_id = "prof_chowfan"
+# Config value: trainers.
+trainers = [
+  { id = "blue", name = "Blue", role = "rival", npc_id = "trainer_blue", badge_id = "", spawn_group = "kanto_rivals", main_pokemon = "cobblemon:blastoise" },
+  { id = "brock", name = "Brock", role = "gym_leader", npc_id = "gym_brock", badge_id = "boulder_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:onix" },
+  { id = "misty", name = "Misty", role = "gym_leader", npc_id = "gym_misty", badge_id = "cascade_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:starmie" },
+  { id = "lt_surge", name = "Lt. Surge", role = "gym_leader", npc_id = "gym_lt_surge", badge_id = "thunder_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:raichu" },
+  { id = "erika", name = "Erika", role = "gym_leader", npc_id = "gym_erika", badge_id = "rainbow_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:vileplume" },
+  { id = "koga", name = "Koga", role = "gym_leader", npc_id = "gym_koga", badge_id = "soul_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:weezing" },
+  { id = "sabrina", name = "Sabrina", role = "gym_leader", npc_id = "gym_sabrina", badge_id = "marsh_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:alakazam" },
+  { id = "blaine", name = "Blaine", role = "gym_leader", npc_id = "gym_blaine", badge_id = "volcano_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:arcanine" },
+  { id = "giovanni", name = "Giovanni", role = "gym_leader", npc_id = "gym_giovanni", badge_id = "earth_badge", spawn_group = "kanto_gym_leaders", main_pokemon = "cobblemon:rhydon" },
+  { id = "lorelei", name = "Lorelei", role = "elite_four", npc_id = "elite_lorelei", badge_id = "", spawn_group = "kanto_elite", main_pokemon = "cobblemon:lapras" },
+  { id = "bruno", name = "Bruno", role = "elite_four", npc_id = "elite_bruno", badge_id = "", spawn_group = "kanto_elite", main_pokemon = "cobblemon:machamp" },
+  { id = "agatha", name = "Agatha", role = "elite_four", npc_id = "elite_agatha", badge_id = "", spawn_group = "kanto_elite", main_pokemon = "cobblemon:gengar" },
+  { id = "lance", name = "Lance", role = "elite_four", npc_id = "elite_lance", badge_id = "", spawn_group = "kanto_elite", main_pokemon = "cobblemon:dragonite" },
+]
+# Config value: sequence.
+sequence = [
+  { id = "blue_oaks_lab", order = 1, kind = "rival", trainer = "blue", display_name = "Blue - Oak's Lab", badge_id = "", level_cap = 5, team_ref = "rct_trainers/kanto/blue_oaks_lab.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blue_route_22_pre_brock", order = 2, kind = "rival", trainer = "blue", display_name = "Blue - Route 22", badge_id = "", level_cap = 9, team_ref = "rct_trainers/kanto/blue_route_22_pre_brock.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "brock", order = 3, kind = "gym", trainer = "brock", display_name = "Brock", badge_id = "boulder_badge", level_cap = 14, team_ref = "rct_trainers/kanto/brock.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blue_nugget_bridge", order = 4, kind = "rival", trainer = "blue", display_name = "Blue - Nugget Bridge", badge_id = "", level_cap = 19, team_ref = "rct_trainers/kanto/blue_nugget_bridge.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "misty", order = 5, kind = "gym", trainer = "misty", display_name = "Misty", badge_id = "cascade_badge", level_cap = 21, team_ref = "rct_trainers/kanto/misty.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blue_ss_anne", order = 6, kind = "rival", trainer = "blue", display_name = "Blue - S.S. Anne", badge_id = "", level_cap = 24, team_ref = "rct_trainers/kanto/blue_ss_anne.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "lt_surge", order = 7, kind = "gym", trainer = "lt_surge", display_name = "Lt. Surge", badge_id = "thunder_badge", level_cap = 24, team_ref = "rct_trainers/kanto/lt_surge.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "erika", order = 8, kind = "gym", trainer = "erika", display_name = "Erika", badge_id = "rainbow_badge", level_cap = 29, team_ref = "rct_trainers/kanto/erika.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blue_pokemon_tower", order = 9, kind = "rival", trainer = "blue", display_name = "Blue - Pokemon Tower", badge_id = "", level_cap = 34, team_ref = "rct_trainers/kanto/blue_pokemon_tower.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blue_silph_co", order = 10, kind = "rival", trainer = "blue", display_name = "Blue - Silph Co.", badge_id = "", level_cap = 40, team_ref = "rct_trainers/kanto/blue_silph_co.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "koga", order = 11, kind = "gym", trainer = "koga", display_name = "Koga", badge_id = "soul_badge", level_cap = 43, team_ref = "rct_trainers/kanto/koga.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "sabrina", order = 12, kind = "gym", trainer = "sabrina", display_name = "Sabrina", badge_id = "marsh_badge", level_cap = 43, team_ref = "rct_trainers/kanto/sabrina.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blaine", order = 13, kind = "gym", trainer = "blaine", display_name = "Blaine", badge_id = "volcano_badge", level_cap = 47, team_ref = "rct_trainers/kanto/blaine.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "blue_route_22_final", order = 14, kind = "rival", trainer = "blue", display_name = "Blue - Route 22 Final", badge_id = "", level_cap = 48, team_ref = "rct_trainers/kanto/blue_route_22_final.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "giovanni", order = 15, kind = "gym", trainer = "giovanni", display_name = "Giovanni", badge_id = "earth_badge", level_cap = 50, team_ref = "rct_trainers/kanto/giovanni.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_lorelei", order = 16, kind = "elite_four", trainer = "lorelei", display_name = "Elite Four - Lorelei", badge_id = "", level_cap = 54, team_ref = "rct_trainers/kanto/elite_lorelei.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_bruno", order = 17, kind = "elite_four", trainer = "bruno", display_name = "Elite Four - Bruno", badge_id = "", level_cap = 56, team_ref = "rct_trainers/kanto/elite_bruno.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_agatha", order = 18, kind = "elite_four", trainer = "agatha", display_name = "Elite Four - Agatha", badge_id = "", level_cap = 58, team_ref = "rct_trainers/kanto/elite_agatha.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "elite_lance", order = 19, kind = "elite_four", trainer = "lance", display_name = "Elite Four - Lance", badge_id = "", level_cap = 60, team_ref = "rct_trainers/kanto/elite_lance.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+  { id = "champion_blue", order = 20, kind = "champion", trainer = "blue", display_name = "Champion Blue", badge_id = "", level_cap = 62, team_ref = "rct_trainers/kanto/champion_blue.json", required = true, global_unlock_next = true, spawn_delay_days = 1, reward_xp = 250, reward_chowcoins = 500 },
+]
+
+# Config value: defaults.
+[defaults]
+# Config value: defaults.daily_attempts_per_npc.
+daily_attempts_per_npc = 3
+# Config value: defaults.attempt_cooldown_minutes.
+attempt_cooldown_minutes = 15
+# Config value: defaults.trainer_respawn_minutes.
+trainer_respawn_minutes = 5
+# Config value: defaults.battle_format.
+battle_format = "GEN_9_SINGLES"
+# Config value: defaults.hard_level_cap.
+hard_level_cap = true
+# Config value: defaults.level_cap_scope.
+level_cap_scope = "whole_party"
+# Config value: defaults.heal_players.
+heal_players = true
+# Config value: defaults.max_item_uses.
+max_item_uses = 2
+# Config value: defaults.rival_branch.
+rival_branch = "default"
+# Config value: defaults.pass_id.
+pass_id = "combat"
+# Config value: defaults.badge_xp.
+badge_xp = 250
+# Config value: defaults.badge_chowcoins.
+badge_chowcoins = 500

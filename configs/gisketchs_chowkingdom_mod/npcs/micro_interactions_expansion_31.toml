@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_31_001"
+topic = "bridge_repair_volunteer"
+source_tags = ["town"]
+target_tags = ["mentor", "warrior"]
+line = "The eastern bridge has loose planks. I could use a strong back for hauling."
+response = "My blade arm is always ready. I will gather the timber before dusk."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_002"
+topic = "wall_patrol_wind_erosion"
+source_tags = ["town"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Wind from the Skylands has eroded the outer wall. The mortar needs fresh mixing."
+response = "I can calm the gusts long enough for your masons to work unhindered."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_003"
+topic = "lantern_lighting_shortage"
+source_tags = ["town"]
+target_tags = ["mentor", "fire_wizard"]
+line = "The street lanterns keep going dark. Our oil supply ran low again."
+response = "I will kindle each one with a stable flame. No oil needed."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_004"
+topic = "smithy_bellows_fatigue"
+source_tags = ["town"]
+target_tags = ["mentor", "forcemaster"]
+line = "Our smithy bellows are torn. The forge cannot reach proper heat today."
+response = "Show me the bellows. I can push air with precision until they are mended."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_005"
+topic = "icy_wall_fissure"
+source_tags = ["town"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Frost heave cracked the north gate arch. The keystone is shifting loose."
+response = "I will bind the crack with enchanted ice. It will hold until summer thaws."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_006"
+topic = "patrol_walkway_moss"
+source_tags = ["town"]
+target_tags = ["mentor", "water_wizard"]
+line = "The patrol walkway is slick with moss. Someone might slip during a night watch."
+response = "I can wash away the moss with a controlled surge. The stone will be clean."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_007"
+topic = "earth_rampart_settling"
+source_tags = ["town"]
+target_tags = ["mentor", "earth_wizard"]
+line = "The southern earthen rampart has settled. We need it reshaped before rain comes."
+response = "Let me speak to the ground. I will lift and pack it firm by noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_008"
+topic = "arcane_brazier_recharge"
+source_tags = ["town"]
+target_tags = ["mentor", "arcane_wizard"]
+line = "The arcane brazier near the lab flickers weakly. Its enchantments are fading."
+response = "I carry spare resonance dust. I will reweave the ward within the hour."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_009"
+topic = "bard_distraction_work"
+source_tags = ["town"]
+target_tags = ["mentor", "bard"]
+line = "The repair crew is exhausted. A song would lift their spirits through the day."
+response = "I know a hammering rhythm that matches their pace. Consider it done."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_010"
+topic = "rogue_gutter_scouting"
+source_tags = ["town"]
+target_tags = ["mentor", "rogue"]
+line = "The gutter channels are clogged above the market. We cannot reach them safely."
+response = "Rooftops are my road. I will clear the blockage before the next downpour."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_011"
+topic = "witcher_monster_nest_wall"
+source_tags = ["town"]
+target_tags = ["mentor", "witcher", "class_witcher"]
+line = "Something burrows beneath the east wall at night. We hear scraping near the foundation."
+response = "I know that sound. A kikimora warren. I will clear it before mortar work begins."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_012"
+topic = "berserker_quarry_run"
+source_tags = ["town"]
+target_tags = ["mentor", "berserker"]
+line = "We need granite blocks from the quarry but the oxen are sick this week."
+response = "Hauling stone is good training. I will drag the first sled myself."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_013"
+topic = "frost_wizard_frozen_scaffold"
+source_tags = ["town"]
+target_tags = ["mentor", "frost_wizard"]
+line = "The scaffolding froze solid overnight. The ropes are too brittle to climb."
+response = "I will fashion temporary ice steps. They will support your workers safely."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_014"
+topic = "warrior_smithy_coal"
+source_tags = ["town"]
+target_tags = ["mentor", "warrior"]
+line = "The smithy ran out of coal mid-repair. Nails for the bridge cannot be forged."
+response = "I know a charcoal burner in the foothills. I will run there and back swiftly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_015"
+topic = "archer_watchtower_beam"
+source_tags = ["town"]
+target_tags = ["mentor", "archer"]
+line = "The watchtower beam is splintered. We need a keen eye to spot replacement timber."
+response = "From the ridge I can sight straight-grained ash. Mark the best one for felling."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_016"
+topic = "bounty_hunter_salvage_route"
+source_tags = ["town"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Iron salvage is stuck on an avalanche slope. The path is too treacherous for our carters."
+response = "Trackless slopes are my hunting ground. I will retrieve the iron before nightfall."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_017"
+topic = "paladin_bless_pillars"
+source_tags = ["town"]
+target_tags = ["mentor", "paladin"]
+line = "The new gate pillars stand bare. A blessing would steady the hearts of our guards."
+response = "Light will rest upon these stones. They will stand against shadow and siege."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_018"
+topic = "priest_soothe_builder_injury"
+source_tags = ["town"]
+target_tags = ["mentor", "priest"]
+line = "A beam fell and bruised two masons. Their pain slows the wall repairs greatly."
+response = "I carry balm and quiet prayers. Let me tend them so the work may resume."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_019"
+topic = "researcher_pokemon_haul"
+source_tags = ["town"]
+target_tags = ["researcher", "pokemon"]
+line = "By the bridge ruins a Cobblemon could haul rubble. Do you have a strong helper?"
+response = "Machoke has rested. Its stamina will clear debris quicker than five men."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_020"
+topic = "store_pokemon_supply_run"
+source_tags = ["town"]
+target_tags = ["store_pokemon"]
+line = "Waterproof wax for the lanterns, please. The last shipment soaked through."
+response = "Fresh tins just arrived by Wingull courier. Take six and mark the ledger."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_021"
+topic = "store_seed_mortar_vine"
+source_tags = ["town"]
+target_tags = ["store_seed"]
+line = "Do you have vine seeds that bind stone? The drystone wall needs living mortar."
+response = "Yes, creepers from the Skyland grove. They root fast and grip tight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_022"
+topic = "store_explorer_winch_rope"
+source_tags = ["town"]
+target_tags = ["store_explorer"]
+line = "The winch rope for the crane snapped. Do you keep braided silkvine cord?"
+response = "Three coils, tested for twice the weight of granite. Spare enough for you."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_023"
+topic = "store_cosmetics_scaffold_cloth"
+source_tags = ["town"]
+target_tags = ["store_cosmetics"]
+line = "Dust-covered repair crews need clean face wraps. The grit gets in their lungs."
+response = "I have woven scarves dyed in town colors. Practical and presentable both."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_024"
+topic = "wind_wizard_skyland_debris"
+source_tags = ["town"]
+target_tags = ["wind_wizard", "skyland_lore"]
+line = "A floating isle fragment threatens to drift above the market. It is unstable."
+response = "I will nudge it east with a steady breeze. It can settle harmlessly beyond."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_025"
+topic = "water_wizard_cistern_crack"
+source_tags = ["town"]
+target_tags = ["water_wizard"]
+line = "The main cistern has a hairline crack. We lose a bucket every hour."
+response = "I sense where the stone weeps. I can guide the mortar from within the water."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_026"
+topic = "earth_wizard_road_repair"
+source_tags = ["town"]
+target_tags = ["earth_wizard"]
+line = "The supply road is rutted deep. Cart axles keep breaking on the way to town."
+response = "I will walk the road and press the earth flat. No wheel shall struggle again."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_027"
+topic = "fire_wizard_glaze_tile"
+source_tags = ["town"]
+target_tags = ["fire_wizard"]
+line = "New kiln tiles for the roof are unglazed. Rain will seep through the clay."
+response = "I can fire-glaze them in place from the scaffold. They will shine and shed water."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_028"
+topic = "link_totk_construction_arm"
+source_tags = ["town"]
+target_tags = ["link", "zelda", "tears_of_the_kingdom"]
+line = "Link, your Zonai arm can lift anvils. Help us reset the forge block."
+response = "Of course. Zelda already marked where the new placement should be."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_029"
+topic = "zelda_totk_light_ward"
+source_tags = ["town"]
+target_tags = ["zelda", "link", "light_magic", "dragon_memory", "tears_of_the_kingdom"]
+line = "Princess, a light ward on the repaired gate would comfort the night watch."
+response = "I remember hope from my time above. I will weave it into the stone."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_030"
+topic = "marceline_nocturnal_guard"
+source_tags = ["town"]
+target_tags = ["marceline", "nocturnal", "musician"]
+line = "Night watch spots keep seeing shadows move. Could you roost near the breach?"
+response = "I am awake anyway. I will perch on the bell tower and sing a warning."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_031"
+topic = "bubblegum_cobblemon_biology_mortar"
+source_tags = ["town"]
+target_tags = ["bubblegum", "researcher", "cobblemon_biology"]
+line = "Princess, can Cobblemon enzymes strengthen our mortar? The wall must last."
+response = "Dewgong fur resin mixed with lime acts as a bonding agent. I have a sample here."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_032"
+topic = "ciri_witcher_breach_detect"
+source_tags = ["town"]
+target_tags = ["ciri", "witcher", "monster_hunter"]
+line = "Something clawed the outer palisade last night. The marks are unlike any bear."
+response = "I see faint elder blood traces. Whatever did this was not entirely natural."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_033"
+topic = "geralt_witcher_blueprint_trap"
+source_tags = ["town"]
+target_tags = ["geralt", "class_witcher", "sword_technique"]
+line = "Boars keep undermining the new fence. Our scarecrows do nothing to deter them."
+response = "Silver wire trip-line along the base. Boars hate the smell. Simple but effective."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_034"
+topic = "gandalf_wizard_light_to_scaffold"
+source_tags = ["town"]
+target_tags = ["wizard"]
+line = "Evening repairs need illumination. Our torches sputter in this mountain wind."
+response = "A small crystal atop your tallest scaffold. I will call starlight down upon it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_035"
+topic = "invoker_arcane_circle_foundation"
+source_tags = ["town"]
+target_tags = ["arcane_wizard"]
+line = "The town hall foundation sits on crossed ley lines. We fear the building will shift."
+response = "I can draw a stabilizing invocation right where the cornerstone will rest."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_036"
+topic = "elsa_frost_apron_fortify"
+source_tags = ["town"]
+target_tags = ["frost_wizard"]
+line = "The log fortification on the north slope is dry and brittle. A spark could ruin it."
+response = "I can sheathe the outer logs in a thin frost shell. It will repel embers."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_037"
+topic = "ezio_rogue_census_needs"
+source_tags = ["town"]
+target_tags = ["rogue"]
+line = "We need an honest count of which roofs leak before the next storm arrives."
+response = "I walk where others fear to tread. I will mark every gap on your map."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_038"
+topic = "aloy_bounty_hunter_wire_trap"
+source_tags = ["town"]
+target_tags = ["bounty_hunter", "monster_hunter"]
+line = "A stealthy monster circles the supply depot. We need a silent alarm wire."
+response = "Tripcaster wire threaded with chime shells. Anything touching it will sing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_039"
+topic = "legolas_war_archer_sightline"
+source_tags = ["town"]
+target_tags = ["war_archer"]
+line = "The new watchtower has a blind spot toward the ravine. We missed it."
+response = "I see it from here. One angled mirror on the cliffside will cover the approach."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_040"
+topic = "traxex_tundra_archer_blizzard_fence"
+source_tags = ["town"]
+target_tags = ["tundra_archer", "skyland_survival"]
+line = "The high pasture fence collapses under every blizzard. We rebuild it twice a moon."
+response = "Angle the posts leeward and tie them with sinew. Wind will press them tighter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_041"
+topic = "venti_bard_work_song"
+source_tags = ["town"]
+target_tags = ["bard"]
+line = "The hammer crew is losing their rhythm. A well-timed ballad would mend that."
+response = "I have a windward shanty that pulls oars and hammers alike. Ehe, listen up!"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_042"
+topic = "vi_forcemaster_gauntlet_mallet"
+source_tags = ["town"]
+target_tags = ["forcemaster"]
+line = "The fence posts need driving but the mallet head split. We are stuck."
+response = "Step aside. These gauntlets can sink a post in three strikes flat."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_043"
+topic = "tarnished_paladin_ruins_brick"
+source_tags = ["town"]
+target_tags = ["paladin"]
+line = "The old waypoint shrine has fallen apart. Good bricks among the rubble, though."
+response = "These stones remember prayer. Reusing them will bless the new guardhouse."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_044"
+topic = "pope_leo_priest_rest_bless"
+source_tags = ["town"]
+target_tags = ["priest"]
+line = "The repair schedule has no day of rest. The masons are beyond weary."
+response = "Even the stones of Jericho heard trumpets of rest. I will proclaim a respite."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_045"
+topic = "zagreus_berserker_rubble_sprint"
+source_tags = ["town"]
+target_tags = ["berserker"]
+line = "Debris blocks the aqueduct channel. Shifting it by hand will take three days."
+response = "Give me a running start. I clear rubble fastest when I do not stop moving."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_046"
+topic = "shoumai_cosmetics_awning_dye"
+source_tags = ["town"]
+target_tags = ["store_cosmetics"]
+line = "The new awnings above the repair tents are stark white. They glare in the sun."
+response = "I have soft ochre dye mixed from clay. It will soothe the eye and block rays."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_047"
+topic = "finn_warrior_roof_tile_lift"
+source_tags = ["town"]
+target_tags = ["warrior", "adventure_time"]
+line = "Clay tiles for the guild roof are too heavy for our single pulley system."
+response = "That is just a workout. I will ladder-chain them up with a team chant."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_048"
+topic = "huntress_wizard_archer_perimeter_sweep"
+source_tags = ["town"]
+target_tags = ["archer", "adventure_time", "monster_hunter"]
+line = "Strange tracks circle the repaired pasture. We need a hunter to read them."
+response = "Forest sign never lies. I will trace the loop and leave a marked boundary."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_049"
+topic = "skyland_survival_windbreak_net"
+source_tags = ["town"]
+target_tags = ["skyland_survival"]
+line = "The Skyland walkway netting tore in the last squall. It is a long fall."
+response = "I have spare cloudvine weave. We can rig a temporary catch before the next gust."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_31_050"
+topic = "mentor_team_brief"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "All mentors, report rebuild status. Which district needs extra hands tomorrow?"
+response = "The bridge crew is ahead, but the guardhouse rafters are still bare. Reshuffle."
+weight = 1.0

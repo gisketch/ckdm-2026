@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_12_001"
+topic = "cobblemon_lantern_blessing"
+source_tags = ["priest"]
+target_tags = ["town"]
+line = "May this lantern light guard your path through tall grass tonight."
+response = "I will keep it burning bright. Thank you for the blessing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_002"
+topic = "daily_field_care"
+source_tags = ["priest"]
+target_tags = ["mentor"]
+line = "Have you checked the clinic supply for fresh potions this morning?"
+response = "Not yet. I will count bandages and brew a new batch at noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_003"
+topic = "paladin_oath_reminder"
+source_tags = ["paladin"]
+target_tags = ["mentor"]
+line = "I renewed my vow at the shrine stone before dawn patrol."
+response = "Good discipline. Carry that light into the outer wilds today."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_004"
+topic = "scout_blessing_ritual"
+source_tags = ["priest"]
+target_tags = ["town"]
+line = "Hold still. I will trace a ward upon your scout satchel now."
+response = "I feel safer already. The skylands echo with strange calls."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_005"
+topic = "bell_tower_morning"
+source_tags = ["paladin"]
+target_tags = ["priest"]
+line = "I rang the dawn bell. The village children came running."
+response = "Let them help polish the old chimes. They learn through wonder."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_006"
+topic = "wounded_patrol_escort"
+source_tags = ["priest"]
+target_tags = ["warrior"]
+line = "Bring your warrior limping back. I have clean linen ready."
+response = "He will grumble but accept your aid. I owe you one."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_007"
+topic = "cobblemon_triage_vow"
+source_tags = ["paladin"]
+target_tags = ["researcher"]
+line = "Any injured cobblemon near your study camp today?"
+response = "A skitty with a scratched paw. Already resting in soft moss."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_008"
+topic = "lantern_supply_run"
+source_tags = ["priest"]
+target_tags = ["store_explorer"]
+line = "Do you stock blessed tallow or slow-burn lantern oil?"
+response = "Only the slow-burn in back. Take two jars for the shrine."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_009"
+topic = "mentor_compassion"
+source_tags = ["paladin"]
+target_tags = ["mentor"]
+line = "Teach me how to speak to frightened villagers after a raid."
+response = "Kneel first. Let them see your eyes before your shield."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_010"
+topic = "blessing_skyland_bridge"
+source_tags = ["priest"]
+target_tags = ["town"]
+line = "I placed a ward stone beneath the eastern skyland bridge."
+response = "The crossing felt warmer. The whole town noticed your work."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_011"
+topic = "vow_renewal_moss"
+source_tags = ["paladin"]
+target_tags = ["earth_wizard"]
+line = "Will you grow soft moss by the oath stone for kneeling?"
+response = "Already done. The stone drinks dew and holds warmth now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_012"
+topic = "midnight_vigil"
+source_tags = ["priest"]
+target_tags = ["nocturnal"]
+line = "Have you seen strange lights in the graveyard after midnight?"
+response = "Only fireflies and your own lantern. I watch from the tower."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_013"
+topic = "field_ration_blessing"
+source_tags = ["paladin"]
+target_tags = ["bounty_hunter"]
+line = "Share your trail bread. I will bless it before you depart."
+response = "Plain bread tastes better with your words. Thank you, friend."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_014"
+topic = "healing_hymn_practice"
+source_tags = ["priest"]
+target_tags = ["bard"]
+line = "Could you hum the old healing hymn while I prepare salves?"
+response = "Gladly. My lyre carries the note that opens the green light."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_015"
+topic = "cobblemon_sanctuary_bless"
+source_tags = ["paladin"]
+target_tags = ["researcher"]
+line = "May I bless your cobblemon sanctuary with a light ward?"
+response = "Please do. The little ones sleep easier under your glow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_016"
+topic = "bell_tower_rain_catch"
+source_tags = ["priest"]
+target_tags = ["water_wizard"]
+line = "The bell tower cistern is low. Can you draw a rain cloud?"
+response = "I will call a gentle shower before evening prayer time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_017"
+topic = "patrol_route_blessing"
+source_tags = ["paladin"]
+target_tags = ["mentor"]
+line = "I marked every patrol signpost with a small blessing charm."
+response = "Smart work. Roving guards will notice and feel watched over."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_018"
+topic = "wounded_cobblemon_care"
+source_tags = ["priest"]
+target_tags = ["researcher"]
+line = "That injured growlithe you found needs a quiet dark room."
+response = "I cleared my study for him. Bring your softest linen roll."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_019"
+topic = "blessed_arrow_request"
+source_tags = ["paladin"]
+target_tags = ["archer"]
+line = "For the next scout mission, may I bless a quiver of arrows?"
+response = "Twenty shafts wait by the range. Add your light to them."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_020"
+topic = "town_lantern_lighting"
+source_tags = ["priest"]
+target_tags = ["town"]
+line = "Time to light the street lanterns. Walk with me tonight."
+response = "I will carry the long taper. You say the evening verse."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_021"
+topic = "oath_shield_repair"
+source_tags = ["paladin"]
+target_tags = ["forcemaster"]
+line = "My oath shield has a crack. Can you mend the metal?"
+response = "Bring it. I will fold light into the steel as it cools."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_022"
+topic = "herb_garden_prayer"
+source_tags = ["priest"]
+target_tags = ["witcher"]
+line = "Your herb garden thrives. May I speak a growth prayer over it?"
+response = "Speak softly. The mandrake spooks easy but drinks your blessing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_023"
+topic = "cobblemon_heal_station"
+source_tags = ["paladin"]
+target_tags = ["researcher"]
+line = "Help me set up a field heal station near the lake camp."
+response = "I will bring clean water and soft cloth. Good thinking."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_024"
+topic = "dawn_vow_echo"
+source_tags = ["priest"]
+target_tags = ["paladin"]
+line = "I heard your dawn vow echo off the mountain. It was clear."
+response = "The echo gives it weight. I meant every word I spoke."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_025"
+topic = "traveler_welcome_fire"
+source_tags = ["paladin"]
+target_tags = ["town"]
+line = "A tired traveler rests by the gate. Light a welcome fire."
+response = "I will share warm soup and a lantern until sundown."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_026"
+topic = "skyland_overlook_vigil"
+source_tags = ["priest"]
+target_tags = ["skyland_survival"]
+line = "I keep an overlook vigil at the southern floating isle edge."
+response = "Your light is a beacon. We steer our gliders by it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_027"
+topic = "mentor_trial_scar"
+source_tags = ["paladin"]
+target_tags = ["mentor"]
+line = "Show me the scar you earned defending the old chapel door."
+response = "This one? A reminder that shields break but vows do not."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_028"
+topic = "cobblemon_egg_warming"
+source_tags = ["priest"]
+target_tags = ["researcher"]
+line = "I kept a prayer candle near the incubator all night long."
+response = "The egg stirred. I think the little one felt your warmth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_029"
+topic = "evening_psalm_town"
+source_tags = ["paladin"]
+target_tags = ["town"]
+line = "At dusk I will sing the old psalm from the bell tower."
+response = "We will gather in the square. Your voice carries hope."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_030"
+topic = "blessed_water_basin"
+source_tags = ["priest"]
+target_tags = ["water_wizard"]
+line = "Fill this basin with fresh spring water for a blessing rite."
+response = "I will cool it with mountain melt. Use it well tonight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_031"
+topic = "armor_blessing_ritual"
+source_tags = ["paladin"]
+target_tags = ["warrior"]
+line = "Kneel. I will bless your breastplate before the next patrol."
+response = "The metal feels lighter already. I will not forget this."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_032"
+topic = "wind_chime_blessing"
+source_tags = ["priest"]
+target_tags = ["wind_wizard"]
+line = "Hung blessed chimes on the eastern gate. Will you test them?"
+response = "A gentle gust will ring them. Each note carries your ward."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_033"
+topic = "cobblemon_vow_stone"
+source_tags = ["paladin"]
+target_tags = ["researcher"]
+line = "I carved a tiny vow rune on the cobblemon resting stone."
+response = "They gather around it now. Your craft is gentle and true."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_034"
+topic = "torch_procession_prep"
+source_tags = ["priest"]
+target_tags = ["town"]
+line = "For the festival we need sixty clean torches dipped in wax."
+response = "I will gather helpers from the market. We start at noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_035"
+topic = "frost_shrine_visit"
+source_tags = ["paladin"]
+target_tags = ["frost_wizard"]
+line = "Is the frozen shrine still accessible through the northern pass?"
+response = "Barely. I keep the path clear with a soft snowfall spell."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_036"
+topic = "healing_tent_setup"
+source_tags = ["priest"]
+target_tags = ["mentor"]
+line = "Show me again how to pitch the healing tent in high wind."
+response = "Anchor east corner first. Let the ridgepole catch the breeze."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_037"
+topic = "blessed_road_marker"
+source_tags = ["paladin"]
+target_tags = ["town"]
+line = "I replaced the faded road marker with a stone bearing light runes."
+response = "Caravans will find the fork now even in thick fog."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_038"
+topic = "cobblemon_blessing_pool"
+source_tags = ["priest"]
+target_tags = ["researcher"]
+line = "I blessed a small pool near the cobblemon research hut."
+response = "Perfect. Thirsty little ones will drink clean and guarded water."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_039"
+topic = "mentor_sacred_text"
+source_tags = ["paladin"]
+target_tags = ["mentor"]
+line = "Which passage do you read before a difficult judgment call?"
+response = "The parable of the cracked bell. It teaches patience, not might."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_040"
+topic = "garden_post_blessing"
+source_tags = ["priest"]
+target_tags = ["witcher"]
+line = "I spoke a ward at each corner post of your protective garden."
+response = "I felt the thorns hum. Your words hold the boundary tight."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_041"
+topic = "glowstone_oath_lamp"
+source_tags = ["paladin"]
+target_tags = ["earth_wizard"]
+line = "Can you shape a glowstone lamp for the oath chamber?"
+response = "Already carving one. It will pulse soft gold, never harsh white."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_042"
+topic = "town_crier_blessing"
+source_tags = ["priest"]
+target_tags = ["town"]
+line = "Bless your voice, town crier. Your news binds the village."
+response = "Thank you. I will ring the bell gently after hard tidings."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_043"
+topic = "scout_sendoff_prayer"
+source_tags = ["paladin"]
+target_tags = ["bounty_hunter"]
+line = "I will speak a sending prayer at the gate before you ride."
+response = "Stay until the prayer ends. I want the full blessing."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_044"
+topic = "cobblemon_dawn_feeding"
+source_tags = ["priest"]
+target_tags = ["researcher"]
+line = "I left blessed berries in a wooden bowl by the tall grass."
+response = "The wild pidgey flock found them at first light. Peaceful feeding."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_045"
+topic = "bell_tower_storm_watch"
+source_tags = ["paladin"]
+target_tags = ["wind_wizard"]
+line = "Storm clouds gather west. Should I ring the warning bell?"
+response = "Wait for three lightning flashes. Then ring it steady and slow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_046"
+topic = "prayer_silk_banner"
+source_tags = ["priest"]
+target_tags = ["store_cosmetics"]
+line = "Do you have undyed silk for a prayer banner I must sew?"
+response = "A whole bolt of cream silk. Take it. Bless it well."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_047"
+topic = "field_oath_exercise"
+source_tags = ["paladin"]
+target_tags = ["mentor"]
+line = "What is the hardest part of keeping a field oath during famine?"
+response = "Giving half your own ration to a stranger who may not live."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_048"
+topic = "waystation_lantern_check"
+source_tags = ["priest"]
+target_tags = ["skyland_survival"]
+line = "Did you check the waystation lantern oil on the floating tier?"
+response = "Refilled all three. Your ward runes still glow beneath the glass."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_049"
+topic = "cobblemon_naming_rite"
+source_tags = ["paladin"]
+target_tags = ["researcher"]
+line = "Will you let me speak a naming rite for the newborn eevee?"
+response = "Yes. Speak gently. The mother watches from the berry bush."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_12_050"
+topic = "final_vespers_together"
+source_tags = ["priest"]
+target_tags = ["paladin"]
+line = "Join me for final vespers. We will bless the town together."
+response = "I will stand at your left, shield low, lantern raised high."
+weight = 1.0

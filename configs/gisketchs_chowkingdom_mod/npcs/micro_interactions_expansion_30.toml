@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_30_001"
+topic = "sparring_challenge"
+source_tags = ["mentor", "warrior"]
+target_tags = ["mentor", "wizard"]
+line = "Your fire magic against my blade, Zuko. First to three hits wins."
+response = "You are on, Finn. But I will not hold back."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_002"
+topic = "wizard_duel_friendly"
+source_tags = ["mentor", "wind_wizard"]
+target_tags = ["mentor", "arc_wizard"]
+line = "Invoker, shall we see whose elements dance better today?"
+response = "Aang, my orbs are ready. May the best caster win."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_003"
+topic = "boulder_lift_contest"
+source_tags = ["mentor", "earth_wizard"]
+target_tags = ["mentor", "forcemaster"]
+line = "Vi, can your gauntlets lift more stone than I can bend?"
+response = "Toph, don't underestimate pure strength."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_004"
+topic = "ice_sculpture_battle"
+source_tags = ["mentor", "water_wizard"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa, let us see who shapes the finest ice sculpture."
+response = "Katara, your fluid style is beautiful. Let's begin."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_005"
+topic = "archery_range_rivalry"
+source_tags = ["mentor", "war_archer"]
+target_tags = ["mentor", "tundra_archer"]
+line = "Traxex, a hundred gold says I outshoot you today."
+response = "Legolas, your eyes are sharp. I accept."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_006"
+topic = "rogue_stealth_test"
+source_tags = ["mentor", "rogue"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Aloy, can your focus track me through the market stalls?"
+response = "Ezio, I have hunted machines. You are just a man."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_007"
+topic = "witcher_sword_drill"
+source_tags = ["mentor", "witcher"]
+target_tags = ["mentor", "warrior"]
+line = "Ciri, show me your pirouette against Finn's hero strikes."
+response = "Geralt, he is faster than a griffin. I love it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_008"
+topic = "bardic_duel"
+source_tags = ["mentor", "bard"]
+target_tags = ["mentor", "musician"]
+line = "Marceline, my lyre against your axe bass. Twilight stage?"
+response = "Venti, hope your winds can keep up with my riffs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_009"
+topic = "paladin_berserker_spar"
+source_tags = ["mentor", "paladin"]
+target_tags = ["mentor", "berserker"]
+line = "Tarnished, test your frenzied flame against my holy guard."
+response = "Zagreus, even the underworld bows to resolve."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_010"
+topic = "fire_water_showdown"
+source_tags = ["mentor", "fire_wizard"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara, let us remind the town why our duel is legendary."
+response = "Zuko, your flames are brighter now. Let us dance."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_011"
+topic = "wind_earth_synergy"
+source_tags = ["mentor", "wind_wizard"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph, we should test if my tornado lifts your stone wall."
+response = "Aang, only if you can handle the dust cloud."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_012"
+topic = "frost_fire_balance"
+source_tags = ["mentor", "frost_wizard"]
+target_tags = ["mentor", "fire_wizard"]
+line = "Zuko, our sparring always turns into a steam bath."
+response = "Elsa, your ice is the perfect training partner."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_013"
+topic = "arcane_wind_contest"
+source_tags = ["mentor", "arc_wizard"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang, your air scooter versus my chaos meteor. Curious."
+response = "Invoker, I bet we knock over fewer stalls today."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_014"
+topic = "war_archer_hunter"
+source_tags = ["mentor", "war_archer"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Aloy, let us compare precision on the moving targets."
+response = "Legolas, I hit machine cores. Apples are easy."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_015"
+topic = "tundra_rogue_speed"
+source_tags = ["mentor", "tundra_archer"]
+target_tags = ["mentor", "rogue"]
+line = "Ezio, can you parkour faster than my frost arrows fly?"
+response = "Traxex, I will be a shadow before you draw."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_016"
+topic = "berserker_vampire_brawl"
+source_tags = ["mentor", "berserker"]
+target_tags = ["mentor", "marceline"]
+line = "Marceline, no claws. Just fists. See who stays standing."
+response = "Zagreus, you regenerate too. This is fair."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_017"
+topic = "priest_wizard_debate"
+source_tags = ["mentor", "priest"]
+target_tags = ["mentor", "wizard"]
+line = "Gandalf, is magic faith or study? Discuss at sunset."
+response = "Pope Leo, perhaps both. Tea at the chapel?"
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_018"
+topic = "witcher_monster_race"
+source_tags = ["mentor", "witcher"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Geralt, first to slay a stray undead wins the pot."
+response = "Aloy, my potions outlast your traps any night."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_019"
+topic = "water_earth_bridge"
+source_tags = ["mentor", "water_wizard"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph, let us build a mud bridge to the south skyland."
+response = "Katara, just keep the water steady for me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_020"
+topic = "link_zelda_spar"
+source_tags = ["mentor", "link"]
+target_tags = ["mentor", "zelda"]
+line = "Zelda, your light magic against my master sword. Ready?"
+response = "Link, I remember every battle. Do not go easy."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_021"
+topic = "ciri_wraith_challenge"
+source_tags = ["mentor", "witcher"]
+target_tags = ["mentor", "ciri"]
+line = "Geralt, one wraith each. Loser buys honey cakes."
+response = "Ciri, you know vesemir trained me for this."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_022"
+topic = "skyland_patrol_race"
+source_tags = ["mentor", "link"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang, glide to the eastern skyland and back. No bending."
+response = "Link, your paraglider has no glider rival."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_023"
+topic = "zelda_researcher_respect"
+source_tags = ["mentor", "zelda"]
+target_tags = ["mentor", "bubblegum"]
+line = "Bubblegum, I would love to study cobblemon bonding with you."
+response = "Zelda, your sacred power data is fascinating."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_024"
+topic = "wizard_familiars_compare"
+source_tags = ["mentor", "arc_wizard"]
+target_tags = ["mentor", "wizard"]
+line = "Gandalf, does your eagle ever challenge my spirits?"
+response = "Invoker, the eagles are friends, not duelists."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_025"
+topic = "forcemaster_power_test"
+source_tags = ["mentor", "forcemaster"]
+target_tags = ["mentor", "berserker"]
+line = "Zagreus, punch my gauntlets. I want to measure it."
+response = "Vi, careful. I do not want to break your tech."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_026"
+topic = "bard_musician_jam"
+source_tags = ["mentor", "bard"]
+target_tags = ["mentor", "musician"]
+line = "Marceline, the tavern needs a lyre and bass duet."
+response = "Venti, you start the melody. I will follow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_027"
+topic = "paladin_monster_patrol"
+source_tags = ["mentor", "paladin"]
+target_tags = ["mentor", "witcher"]
+line = "Geralt, my holy blade and your silver sword. A clean sweep."
+response = "Tarnished, just watch my back near the crypts."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_028"
+topic = "earth_armor_challenge"
+source_tags = ["mentor", "earth_wizard"]
+target_tags = ["mentor", "warrior"]
+line = "Finn, you think your armor can break my rock shell?"
+response = "Toph, I cracked tougher stuff in the fire kingdom."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_029"
+topic = "ice_patrol_prep"
+source_tags = ["mentor", "frost_wizard"]
+target_tags = ["mentor", "war_archer"]
+line = "Legolas, chill arrows against my ice lances. Dawn patrol."
+response = "Elsa, your elemental aim is impressive."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_030"
+topic = "rogue_pickpocket_game"
+source_tags = ["mentor", "rogue"]
+target_tags = ["mentor", "bard"]
+line = "Venti, I will return your coin purse. Count your beads."
+response = "Ezio, I expected you sooner. Here is your tip."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_031"
+topic = "tundra_camp_fire"
+source_tags = ["mentor", "tundra_archer"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Aloy, teach me your campfire trap recipe tonight."
+response = "Traxex, you trade me an arrow fletching secret."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_032"
+topic = "wind_frost_squall"
+source_tags = ["mentor", "wind_wizard"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa, my gust plus your snow equals a fun blizzard."
+response = "Aang, just warn the town first this time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_033"
+topic = "fire_arcane_collab"
+source_tags = ["mentor", "fire_wizard"]
+target_tags = ["mentor", "arc_wizard"]
+line = "Invoker, combine my fireball with your sunstrike."
+response = "Zuko, we could melt the old quarry wall."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_034"
+topic = "water_sword_style"
+source_tags = ["mentor", "water_wizard"]
+target_tags = ["mentor", "link"]
+line = "Link, my water whip technique against your flurry rush."
+response = "Katara, blades of water are tricky. I accept."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_035"
+topic = "witcher_paladin_vow"
+source_tags = ["mentor", "witcher"]
+target_tags = ["mentor", "paladin"]
+line = "Tarnished, if I fall, you finish the contract."
+response = "Ciri, you will not fall. I swear it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_036"
+topic = "bubblegum_zelda_lab"
+source_tags = ["mentor", "bubblegum"]
+target_tags = ["mentor", "zelda"]
+line = "Zelda, my pokemon shop data needs your ancient lens."
+response = "Bubblegum, let us calibrate the sheikah scope."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_037"
+topic = "nocturnal_melody"
+source_tags = ["mentor", "musician"]
+target_tags = ["mentor", "marceline"]
+line = "Venti, play something that wakes the stars with me."
+response = "Marceline, the skyland echoes your voice best."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_038"
+topic = "bounty_berserker_hunt"
+source_tags = ["mentor", "bounty_hunter"]
+target_tags = ["mentor", "berserker"]
+line = "Zagreus, a rogue golem is near. Try to keep up."
+response = "Aloy, I will be the one dragging it back."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_039"
+topic = "priest_rogue_confess"
+source_tags = ["mentor", "priest"]
+target_tags = ["mentor", "rogue"]
+line = "Ezio, even an assassin can unburden his heart."
+response = "Pope Leo, my creed is my confession."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_040"
+topic = "forcemaster_earth_lift"
+source_tags = ["mentor", "forcemaster"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph, you lift with bending. I lift with hextech."
+response = "Vi, let's see who carries more cobble to town."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_041"
+topic = "warrior_archer_combo"
+source_tags = ["mentor", "warrior"]
+target_tags = ["mentor", "war_archer"]
+line = "Legolas, you shoot while I charge. The mobs will scatter."
+response = "Finn, your timing with my volleys is flawless."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_042"
+topic = "wizard_staff_show"
+source_tags = ["mentor", "wizard"]
+target_tags = ["mentor", "fire_wizard"]
+line = "Zuko, my staff versus your dual dao. A friendly bout."
+response = "Gandalf, your staff glows with ancient fire."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_043"
+topic = "link_witcher_crossing"
+source_tags = ["mentor", "link"]
+target_tags = ["mentor", "witcher"]
+line = "Geralt, your signs against my runes. Quiet sparring."
+response = "Link, your champion skills honor your land."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_044"
+topic = "ciri_zelda_hope"
+source_tags = ["mentor", "ciri"]
+target_tags = ["mentor", "zelda"]
+line = "Zelda, you endured the light dragon for ages."
+response = "Ciri, you walked many worlds. Both are hope."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_045"
+topic = "frost_water_skyland"
+source_tags = ["mentor", "frost_wizard"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara, let's sculpt a skyland fountain together."
+response = "Elsa, our bending will make it magical."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_046"
+topic = "earth_warrior_fort"
+source_tags = ["mentor", "earth_wizard"]
+target_tags = ["mentor", "warrior"]
+line = "Finn, help me build a training fort with stone walls."
+response = "Toph, I'll shape the dummies if you lift the rock."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_047"
+topic = "bard_hunter_song"
+source_tags = ["mentor", "bard"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Aloy, let me compose a ballad of your machine hunts."
+response = "Venti, just make it sound heroic, not silly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_048"
+topic = "nocturnal_market_watch"
+source_tags = ["mentor", "marceline"]
+target_tags = ["mentor", "rogue"]
+line = "Ezio, the night market needs two pairs of sharp eyes."
+response = "Marceline, you watch the rooftops. I take alleys."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_049"
+topic = "archer_wind_shot"
+source_tags = ["mentor", "tundra_archer"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang, guide my arrow with your wind. Distant target."
+response = "Traxex, I'll make it curve like a swallow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_30_050"
+topic = "final_respect_salute"
+source_tags = ["mentor"]
+target_tags = ["mentor"]
+line = "Every mentor in this town sharpens the other."
+response = "Rivalry is our bond. Together we protect all."
+weight = 1.0

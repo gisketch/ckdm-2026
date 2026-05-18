@@ -1,0 +1,23 @@
+{
+  "name": "Misty",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 21,
+      "moveset": [
+        "quickattack",
+        "thundershock"
+      ]
+    }
+  ]
+}

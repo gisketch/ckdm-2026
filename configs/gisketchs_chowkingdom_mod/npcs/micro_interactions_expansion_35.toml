@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_35_001"
+topic = "mine_crystal_safety"
+source_tags = ["town", "warrior"]
+target_tags = ["mentor", "wizard"]
+line = "Finn, I keep cracking crystals in the dark. How do you see the fault lines?"
+response = "Tap soft with your pick first. A clear ring means good, dull thud means danger."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_002"
+topic = "torch_placement_depth"
+source_tags = ["town"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph, my torches keep going out past the third bend. Help."
+response = "Feel the breeze on your cheek. If it blows upward, place two torches instead of one."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_003"
+topic = "cave_route_marking"
+source_tags = ["town", "rogue"]
+target_tags = ["mentor", "warrior"]
+line = "Ezio, I lost my chalk marks in the wet drift again."
+response = "Cut shallow x marks with your blade. Water cannot wash stone scars away."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_004"
+topic = "ore_haul_balance"
+source_tags = ["town"]
+target_tags = ["mentor", "forcemaster"]
+line = "Vi, my haul bag keeps tipping me sideways on the climb out."
+response = "Strap a flat cobble to the light side. Counterweights beat stronger arms."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_005"
+topic = "cobblemon_lure_cave"
+source_tags = ["town", "researcher"]
+target_tags = ["mentor", "bubblegum"]
+line = "Princess, do cave Cobblemon prefer bright quartz or redstone dust as bait?"
+response = "Redstone dust mimics glow worm trails. Quartz confuses their magnetic sense."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_006"
+topic = "frozen_shaft_thaw"
+source_tags = ["town"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa, an ice plug blocks the lower adit. Can you thin it slowly?"
+response = "I will whisper melt the surface only. Stand back for the water rush."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_007"
+topic = "silent_cave_patrol"
+source_tags = ["town", "archer"]
+target_tags = ["mentor", "rogue"]
+line = "Huntress, my boots echo too loud in the crystal gallery."
+response = "Wrap leather strips around your soles. Walk heel first on the rubble paths."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_008"
+topic = "skyland_mine_rope"
+source_tags = ["town", "skyland_survival"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang, the rope bridge to the skyland mine snapped last night."
+response = "I can hold an air current under the new planks while you tie them."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_009"
+topic = "witcher_cave_oil"
+source_tags = ["town"]
+target_tags = ["mentor", "class_witcher"]
+line = "Geralt, what oil stops pickaxe rust in the damp shafts?"
+response = "Mix cave fish liver with crushed glow lichen. Rub it on after every shift."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_010"
+topic = "crystal_resonance_check"
+source_tags = ["town", "bard"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Venti, Toph says I can tune crystals by ear. Show me the safe note."
+response = "Pluck the crystal with a copper coin. A true G means the lattice is stable."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_011"
+topic = "priest_blessing_pick"
+source_tags = ["town"]
+target_tags = ["mentor", "priest"]
+line = "Pope Leo, my new pick feels heavy with bad luck. Will you bless it?"
+response = "Lay it on the anvil. I will speak the old miner's prayer over the steel."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_012"
+topic = "paladin_cave_shield"
+source_tags = ["town"]
+target_tags = ["mentor", "paladin"]
+line = "Tarnished, falling gravel keeps bruising my shoulders."
+response = "Hold your shield angled above your head. Let the stones slide, not strike."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_013"
+topic = "tundra_archer_flare"
+source_tags = ["town"]
+target_tags = ["mentor", "tundra_archer"]
+line = "Traxex, my signal arrows vanish in the deep dark ceiling."
+response = "Tie a pinch of phosphorus dust behind the head. It glows for twenty heartbeats."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_014"
+topic = "water_wizard_sump"
+source_tags = ["town"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara, a flooded sump blocks our new drift. Can you push it back?"
+response = "I will bend the pool into the old stope. Work quickly before it seeps back."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_015"
+topic = "fire_wizard_smoke"
+source_tags = ["town"]
+target_tags = ["mentor", "fire_wizard"]
+line = "Zuko, smoke gathers in the dead end after blasting."
+response = "Funnel a thin flame along the ceiling. It pulls the bad air outward."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_016"
+topic = "arcane_scrying_vein"
+source_tags = ["town"]
+target_tags = ["mentor", "arcane_wizard"]
+line = "Invoker, we lost the copper vein at the fault. Can you scry it?"
+response = "Hold this lens over your map. The blue shimmer shows where the lode bends."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_017"
+topic = "monster_hunter_bait"
+source_tags = ["town", "monster_hunter"]
+target_tags = ["mentor", "berserker"]
+line = "Aloy, cave spiders swarm the cart tracks at dusk."
+response = "Drop a sack of dried zubat guano at the fork. They chase it for hours."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_018"
+topic = "nocturnal_cave_shift"
+source_tags = ["town"]
+target_tags = ["mentor", "nocturnal"]
+line = "Marceline, do you see ore colours in total darkness?"
+response = "Yeah, iron smells like cold keys, gold like warm honey. Use your nose."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_019"
+topic = "musician_cadence_haul"
+source_tags = ["town", "musician"]
+target_tags = ["mentor", "bard"]
+line = "Marceline, can you play a hauling rhythm for the tired crew?"
+response = "Sure. I will set a slow four beat on my bass. Match your steps to it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_020"
+topic = "store_seed_resupply"
+source_tags = ["town"]
+target_tags = ["mentor", "store_seed"]
+line = "Gandalf, does the seed shop carry glow berry cuttings for cave vaults?"
+response = "We do. Plant them in damp tuff under a single torch. They climb fast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_021"
+topic = "store_explorer_fuse"
+source_tags = ["town"]
+target_tags = ["mentor", "store_explorer"]
+line = "Gandalf, my blasting fuse burns unevenly in the damp."
+response = "Dip the cord in melted beeswax before you descend. It seals the threads."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_022"
+topic = "store_cosmetics_goggles"
+source_tags = ["town"]
+target_tags = ["mentor", "store_cosmetics"]
+line = "Shoumai, my eyes sting from crystal dust every shift."
+response = "Try these spider silk goggles. I lace them with aloe gel for the redness."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_023"
+topic = "store_pokemon_ball_mine"
+source_tags = ["town", "pokemon"]
+target_tags = ["mentor", "store_pokemon"]
+line = "Bubblegum, do you sell balls reinforced for cave pressure?"
+response = "Yes, the dusk ball variant. The shell flexes instead of cracking at depth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_024"
+topic = "link_sword_flint"
+source_tags = ["town"]
+target_tags = ["mentor", "link"]
+line = "Link, your master sword sparks brighter than my flint. Light my lantern."
+response = "Hold it steady. One stroke on the flat of the blade and it will catch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_025"
+topic = "zelda_light_seal"
+source_tags = ["town"]
+target_tags = ["mentor", "zelda"]
+line = "Zelda, can your light magic seal a cracking tunnel roof for one shift?"
+response = "I can weave a seal that lasts until dawn. Mark the limit with chalk."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_026"
+topic = "ciri_dimension_echo"
+source_tags = ["town"]
+target_tags = ["mentor", "ciri"]
+line = "Ciri, does your blinking sense find air pockets behind the rock face?"
+response = "Sometimes. I feel a hollow pull like a half opened door. Follow my mark."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_027"
+topic = "geralt_silver_sense"
+source_tags = ["town"]
+target_tags = ["mentor", "geralt"]
+line = "Geralt, does your medallion hum near cursed ore veins?"
+response = "It does. If it tugs hard left, that vein holds hexed iron. Map and avoid it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_028"
+topic = "legolas_arrow_anchor"
+source_tags = ["town"]
+target_tags = ["mentor", "war_archer"]
+line = "Legolas, I need an anchor line across the chasm. Can you shoot it?"
+response = "Tie your lightest rope to my shaft. I will plant it deep in the far pillar."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_029"
+topic = "zagreus_dash_cart"
+source_tags = ["town"]
+target_tags = ["mentor", "berserker"]
+line = "Zagreus, the loaded cart jammed on the uphill rail."
+response = "Stand clear. I will dash push it past the kink. Count to three."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_030"
+topic = "gandalf_pipe_light"
+source_tags = ["town"]
+target_tags = ["mentor", "wizard"]
+line = "Gandalf, can your staff light the deep gallery without scorching the beams?"
+response = "A soft glow, nothing more. Blow out your torch and let your eyes adjust."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_031"
+topic = "toph_echo_map"
+source_tags = ["town", "skyland_lore"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Toph, can you stomp map the skyland mine tunnels from above?"
+response = "I can feel the hollows through the floating island's root. Give me quiet."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_032"
+topic = "katara_vein_wash"
+source_tags = ["town"]
+target_tags = ["mentor", "water_wizard"]
+line = "Katara, gravel covers the tin seam. Can you wash it clean?"
+response = "I will sweep a thin sheet of water across. Collect the heavy specks left behind."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_033"
+topic = "elsa_frost_wedge"
+source_tags = ["town"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Elsa, a boulder splits poorly. Can you freeze a wedge crack open?"
+response = "Drip water into the seam. I will freeze it slow until the rock pops."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_034"
+topic = "aang_vent_shaft"
+source_tags = ["town"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Aang, the lower gallery air turns foul by mid shift."
+response = "I will spin a small cyclone in the vent shaft. It pulls fresh air down."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_035"
+topic = "princess_bubblegum_scan"
+source_tags = ["town", "cobblemon_biology"]
+target_tags = ["mentor", "researcher"]
+line = "Princess, your scanner beeps near the basalt columns. What lives there?"
+response = "A colony of roggenrola. Their compressed cores register as iron ore."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_036"
+topic = "finn_torch_belt"
+source_tags = ["town"]
+target_tags = ["mentor", "warrior"]
+line = "Finn, your shoulder torch stays lit when mine snuffs. What is the trick?"
+response = "I wrap the head in thin brass mesh. It blocks the wet draft perfectly."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_037"
+topic = "huntress_flare_path"
+source_tags = ["town", "monster_hunter"]
+target_tags = ["mentor", "archer"]
+line = "Huntress, I lose the exit glow when the mist rolls in."
+response = "Shoot a flare arrow straight up every twenty paces. The haze catches its glow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_038"
+topic = "ezio_chalk_dust"
+source_tags = ["town"]
+target_tags = ["mentor", "rogue"]
+line = "Ezio, my pocket chalk always turns to paste underground."
+response = "Mix your chalk dust with ash, not water. It stays dry in a leather pouch."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_039"
+topic = "vi_charge_push"
+source_tags = ["town"]
+target_tags = ["mentor", "forcemaster"]
+line = "Vi, a loose slab blocks the cart return. Can you force push it?"
+response = "Stand behind me. One focused pulse and the slab shifts left. Pull the cart fast."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_040"
+topic = "aloy_focus_track"
+source_tags = ["town", "bounty_hunter"]
+target_tags = ["mentor", "monster_hunter"]
+line = "Aloy, something steals our torches overnight. Can your focus find tracks?"
+response = "Yes, a faint purple trail leads to a zubat roost. They hoard shiny things."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_041"
+topic = "tarnished_ward_stone"
+source_tags = ["town"]
+target_tags = ["mentor", "paladin"]
+line = "Tarnished, can you ward the entrance against cave wraiths?"
+response = "I will carve a sacred seal on the keystone. They will not cross it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_042"
+topic = "invoker_quas_light"
+source_tags = ["town"]
+target_tags = ["mentor", "arcane_wizard"]
+line = "Invoker, can your quas orb light a whole gallery safely?"
+response = "I will float a cold blue sphere at the apex. No flame, no fume, no fear."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_043"
+topic = "link_bomb_flower"
+source_tags = ["town"]
+target_tags = ["mentor", "link"]
+line = "Link, your bomb flowers are more precise than our blast powder."
+response = "They bloom on a short fuse. Place one in the crack and sprint to cover."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_044"
+topic = "zelda_dragon_memory"
+source_tags = ["town", "dragon_memory"]
+target_tags = ["mentor", "zelda"]
+line = "Zelda, do you recall a mineral that glows like your light magic?"
+response = "Luminous stone. It hums with the same quiet warmth. Deep caves hold it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_045"
+topic = "ciri_blink_scout"
+source_tags = ["town"]
+target_tags = ["mentor", "ciri"]
+line = "Ciri, can you blink ahead and check if the drift is stable?"
+response = "I already looked. Three beams are cracked. Replace them before the next cart."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_046"
+topic = "pope_leo_rest_blessing"
+source_tags = ["town"]
+target_tags = ["mentor", "priest"]
+line = "Pope Leo, the crew is exhausted. Can you speak a rest blessing?"
+response = "Sit on the ore sacks. I will say the verse of the unyielding stone."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_047"
+topic = "gandalf_moria_wisdom"
+source_tags = ["town", "skyland_lore"]
+target_tags = ["mentor", "wizard"]
+line = "Gandalf, have you ever mapped a mine that touches the skylands below?"
+response = "Once, in a lost delve. The floor was thin cloud and the ceiling was old roots."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_048"
+topic = "shoumai_miner_gloves"
+source_tags = ["town"]
+target_tags = ["mentor", "store_cosmetics"]
+line = "Shoumai, my rope hand gets torn raw. Do you sell padded gloves?"
+response = "Yes, double stitched moleskin lined with wool. Try them on by the counter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_049"
+topic = "zagreus_ember_step"
+source_tags = ["town"]
+target_tags = ["mentor", "berserker"]
+line = "Zagreus, the lower tunnel is pitch black past the cave in."
+response = "I will walk ahead. My feet leave burning prints for sixty heartbeats."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_35_050"
+topic = "bubblegum_cave_ecology"
+source_tags = ["town", "cobblemon_biology"]
+target_tags = ["mentor", "researcher"]
+line = "Princess, do cave Cobblemon lose colour if kept away from crystals?"
+response = "Yes, their sheen fades in two cycles. Mine quartz exposure keeps them vivid."
+weight = 1.0

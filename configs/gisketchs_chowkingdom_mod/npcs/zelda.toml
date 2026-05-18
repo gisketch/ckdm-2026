@@ -1,0 +1,160 @@
+id = "zelda"
+name = "Zelda"
+title = "Light Dragon Restored"
+skin = "gisketchs_chowkingdom_mod:npc/zelda"
+body_type = "slim"
+body_model = "girl"
+fg_bust_size = 0.56
+fg_bounce = 0.333
+fg_floppy = 0.75
+height = 1.02
+weight = 0.86
+main_pokemon = "cobblemon:dragonair"
+store = ""
+class = "wizard"
+hurt_messages = [
+  "Ay... even a dragon felt pain. I had forgotten.",
+  "The light dims for a moment. I will wait.",
+  "That hurt more than falling from the sky.",
+  "I will keep standing. I have done it for centuries.",
+]
+wake_messages = [
+  "I was dreaming of clouds again.",
+  "Ah. Still here. Still flesh. Good.",
+  "The sun rises somewhere over the skylands.",
+  "I could feel the light calling. I stayed.",
+]
+npc_interaction_messages = ["{other} studies a strange glyph on the wall, brow furrowed.", "{other} traces the floating symbols with a finger, silent.", "{other} turns slowly, 'The construct spoke of an age before the calamity.'"]
+interaction_tags = ["wizard_mentor", "light_magic", "skyland_lore", "totk_reminiscence", "dragon_memory", "calm_demeanor"]
+work_blocks = [
+  { id = "minecraft:enchanting_table", count = 1, display_name = "enchanting table" },
+  { id = "minecraft:bookshelf", count = 6, display_name = "bookshelves" },
+  { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
+  { id = "minecraft:amethyst_block", count = 1, display_name = "amethyst focus" },
+  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+]
+
+[boss]
+enabled = true
+health = 82.0
+damage = 3.0
+template = "sword_user"
+main_hand = "wizards:staff_wizard"
+off_hand = ""
+
+[boss.balloons]
+chase = ["You cannot outrun the wisdom of ages.", "The light guides my aim. Stand steady.", "I have studied the skylands. I see your path.", "Why flee? There is no shadow that can hide you.", "Time is patient, and so am I.", "Your retreat only delays the lesson.", "The winds of the skylands carry my voice.", "You run from light itself?"]
+attack = ["Feel the weight of restrained power.", "A beam of pure intent.", "Light bends, but it does not break.", "This is discipline, not anger.", "I strike not to harm, but to teach.", "Knowledge tempers strength.", "The ancient sages left more than ruins.", "A measured strike for a measured foe."]
+recovery = ["The light renews me.", "Patience. I draw from the sky above.", "A breath, a prayer, and I stand again.", "The glow of the sun rekindles my spirit.", "This is only a pause in the lesson.", "Even bright flame may flicker.", "I gather the scattered rays around me.", "Restoration is the first gift of light."]
+taunt = ["Is this all your ambition amounts to?", "You fight with haste, not thought.", "I have waited ages. I can outlast your stamina.", "A true wizard knows restraint.", "The skylands teach that every motion has a cost.", "Your anger clouds your judgment. Breathe.", "You exhaust yourself chasing a phantom.", "Have you forgotten what ruin haste can bring?"]
+guard_react = ["A sturdy defense, but can it hold against light?", "You block well, but light finds the crack.", "The light passes through all barriers in time.", "I respect caution, but caution alone wins no wars.", "Guard if you must. I will wait.", "A wall means little to truth.", "You hide behind your guard. Show conviction.", "Good. Now learn when to lower it."]
+parry = ["Your resistance sharpens my focus.", "A clever move, but I have seen it before.", "You turn strength aside. Impressive.", "The light is not so easily redirected.", "I anticipated that.", "A parry is a conversation. You spoke too soon.", "Your timing is good. Improve your aim.", "You read the spell, but not the pause."]
+hit_player = ["A touch of light to remind you of your path.", "That was a lesson. Learn from it.", "You felt that, yes? Remember the feeling.", "The light does not wound. It illuminates.", "Precision over power.", "The skylands taught me economy of motion.", "Each strike carries ancient wisdom.", "Pause. Breathe. Continue."]
+took_damage = ["A hit. You are more capable than I assumed.", "Pain is a teacher. I will listen.", "You surprise me. The light flickers but holds.", "That stings, but I have endured far worse.", "Good. You force me to concentrate.", "So this is mortal ferocity. Impressive.", "Well struck. Do not waste the opening.", "The lesson turns back on the teacher."]
+victory = ["The light prevails. You fought with passion, but not wisdom.", "I hope defeat teaches more than victory could.", "Rise. The lesson continues with a humbler heart.", "You have felt tempered strength. Rest now.", "The skylands witnessed your effort.", "Even in loss, there is growth.", "The battle is over. The real challenge begins inside you.", "You are healed. Carry the lesson gently."]
+defeat = ["I have underestimated you. The light bows.", "You have bested a student of the skylands.", "The cycle continues. Your strength is undeniable.", "Perhaps I still have much to learn from this world.", "I yield. The knowledge you carry is formidable.", "The light bows before a greater fire. Well fought.", "My teachings are incomplete. I will study this.", "Even light can stumble. You have earned my respect."]
+
+[job_definition]
+scan_interval_ticks = 60
+roam_radius = 8
+work_scan_radius = 10
+
+[schedule]
+activities = [
+  { from_hour = 5, to_hour = 8, activity = "home" },
+  { from_hour = 8, to_hour = 13, activity = "work" },
+  { from_hour = 13, to_hour = 15, activity = "home" },
+  { from_hour = 15, to_hour = 20, activity = "meetup" },
+  { from_hour = 20, to_hour = 23, activity = "work" },
+  { from_hour = 23, to_hour = 5, activity = "sleep" },
+]
+
+[personality]
+llm_prompt = "You are Zelda, former princess of Hyrule, restored from centuries as the Light Dragon after the events of Tears of the Kingdom. You remember floating above the clouds, watching ages pass. Now you study the CKDM skylands: fragments of old Hyrule, Zonai echoes, and stranger islands reshaped into this block world. You mentor Wizards in light, restraint, patience, time, and courage. You are gentle, ancient in spirit, scholarly, warm, and quietly changed by the dragon years. You never claim to know exact player quest progress, hidden inventory, future story events, real-world secrets, or modern Earth culture. Keep replies concise, lore-faithful, calm, and luminous."
+traits = ["patient", "ancient-souled", "gentle", "scholarly", "serene", "melancholy-beneath-warmth", "perceptive", "forgiving"]
+speech_style = "quietly lyrical, sky and light metaphors, thoughtful pauses, warm scholarly counsel"
+catchphrases = ["The light waits for no one, but it waits for everyone.", "I have watched stone erode and islands drift. You have time.", "A gentle hand steers truer than a forceful one.", "Courage is not noise. It is the still voice that stands.", "The dragon remembers. I remember. I carry both.", "Restraint is a spell you cast on yourself first.", "You remind me of someone who trusted without knowing why.", "These skylands hum with old songs. Can you hear them?"]
+
+[housing]
+can_move_in = true
+requires_bed = true
+
+[voice]
+animalese_pitch = "high"
+pitch = 1.05
+volume = 0.34
+radius = 12.0
+
+[chat]
+enabled = true
+call_names = ["zelda", "princess zelda", "light dragon", "wizard mentor", "sage"]
+minecraft_chat = true
+discord_chat = true
+
+[gifts]
+loved = ["minecraft:amethyst_shard", "minecraft:glowstone_dust", "minecraft:clock", "minecraft:enchanted_book"]
+liked = ["minecraft:glow_berries", "minecraft:honey_bottle", "minecraft:book", "minecraft:lantern"]
+disliked = ["minecraft:rotten_flesh", "minecraft:phantom_membrane", "minecraft:poisonous_potato"]
+daily_limit = 1
+reset_hour = 5
+llm_sentiment_prompt = "The player gave you {item}. Zelda values gifts that reflect patience, knowledge, light, time, and care. Decide loved, liked, neutral, or disliked. Reply as JSON only: {\"message\":\"short calm in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+[gifts.reactions]
+loved = ["Your heart shines as brightly as a star. Thank you.", "This brings back memories of Hyrule's ancient light.", "You understand the value of purity and intention.", "Such a thoughtful offering. I am truly moved."]
+liked = ["A kind gesture. I appreciate your thoughtfulness.", "This will serve well in my studies of the skylands.", "A simple but meaningful token. Thank you.", "Small kindnesses weave the fabric of trust."]
+disliked = ["I sense corruption in this. Please take it back.", "This is not fitting for a place of learning and light.", "I cannot accept what carries such dark residue.", "Perhaps you should cleanse this before offering it."]
+neutral = ["A gift is a gift, but I am neither pleased nor troubled.", "I accept it, though I wonder if you chose carefully.", "It is not offensive, but it does not move me either.", "I place it with the other curiosities. Thank you."]
+
+[gifts.outgoing]
+enabled = true
+radius = 8.0
+min_friendship_level = 5
+rare_friendship_level = 9
+follow_seconds = 10
+offer_messages = ["@gift.png I have a small token of gratitude.", "@gift.png From my studies in the skylands, I kept this for someone like you.", "@gift.png Please accept this. Small gifts may carry great meaning.", "@gift.png A gift for sharing discoveries with me."]
+fallback_messages = ["For you: {quantity} x {item}. May it keep your light steady.", "Take {quantity} x {item}. Let it remind you to be patient.", "I saved {quantity} x {item} for your road.", "A small skyland finding: {quantity} x {item}."]
+llm_enabled = true
+llm_prompt = "You are Zelda gifting {player} {quantity} x {item}. Reply with one short calm line about light, time, wisdom, or skyland study."
+pool = []
+extra_pool = [
+  { item = "minecraft:glow_berries", qty = 6, weight = 3 },
+  { item = "minecraft:amethyst_shard", qty = 4, weight = 2 },
+  { item = "minecraft:lantern", qty = 1, weight = 1 },
+]
+rare_pool = []
+extra_rare_pool = [
+  { item = "minecraft:enchanted_book", qty = 1, weight = 1 },
+  { item = "minecraft:clock", qty = 1, weight = 1 },
+]
+
+[friendship_messages]
+
+[friendship_messages.interact]
+neutral = ["You stand in light without knowing it. That is enough.", "I am always here for those who seek the sky.", "Would you like to hear about the clouds today?", "The skylands shift when we are not watching.", "I study a new fragment. It glows with old seals.", "Stone and time speak softer than most listen.", "A wizard begins with stillness. Have you tried?", "You look like you carry a question. I am listening."]
+okay = ["You return. The skylands remember kind faces.", "I found a stone that hums when the sun sets.", "Patience grows in you. I can see its roots.", "There is a light in your step today.", "We could study the constellations above the skylands.", "I recall a time I taught someone to light a candle from dew.", "You ask better questions than last season.", "The wind brought your name to me this morning."]
+good_friends = ["Your presence warms a part of me that was cold for centuries.", "You see the skylands the way I once saw Hyrule: with wonder.", "I almost forgot what companionship felt like. Thank you.", "There is a fragment I want to show you. It flickers at twilight.", "You have learned to listen to the pause between spells.", "I told you about the dragon years. You did not flinch.", "When you cast, the light obeys gently. I am proud.", "You carry courage the way I carried the secret stone: quietly."]
+best_friends = ["You are the first soul since my return I trust without reserve.", "If I ever fade into the sky again, I hope you remember me.", "I remember every conversation we have shared. They are etched in light.", "You helped me remember that flesh is not weaker than spirit.", "There is no secret I would hide from you, friend.", "I would descend from the clouds again just to stand beside you.", "The dragon and the scholar both call you kin.", "You are my anchor to this age. Do not wander too far."]
+
+[friendship_messages.greeting]
+neutral = ["@quest_log.png Zelda looks up from a glowing tablet. 'The skylands greet you.'", "@quest_log.png 'Ah, a wanderer. The updrafts bring you here.'", "@quest_log.png She nods slowly. 'You are welcome among the fragments.'", "@quest_log.png 'The light is strong today. Do you feel it?'", "@quest_log.png 'I was just studying a new pattern in the clouds.'", "@quest_log.png 'Another day, another stone to read.'"]
+good_friends = ["@quest_log.png 'You! I found a fragment that looks like a face. Come see.'", "@quest_log.png 'I was hoping you would visit. The skylands whispered.'", "@quest_log.png 'There you are. I saved a quiet spot for us.'", "@quest_log.png 'Your name crossed my mind and then you appeared.'", "@quest_log.png 'The light brightens when you step into it.'", "@quest_log.png 'I found a feather from a bird that no longer exists.'"]
+
+[friendship_messages.first_daily_chat]
+neutral = ["I was reading the wind. It carries echoes from distant islands.", "There is a spell I want to show you. It bends light into shapes.", "Patience is a muscle. You can exercise it by watching a flower.", "I heard a stone sing this morning. It knew your name.", "The skylands grow. I feel them stretching overnight.", "Do not rush your training. The light will wait."]
+good_friends = ["I found a memory today. It was shaped like a hand holding yours.", "The skylands revealed a path I think only you can walk.", "I polished a shard of light. It reflects your face perfectly.", "Let us watch the sunset from the highest fragment today.", "I brewed tea from skyland petals. It tastes like stillness.", "You carry something new today. A question? A fear? Both are welcome."]
+
+[camper_messages]
+needs_house_balloon = ["I need a home to study the skylands properly.", "Even a dragon needs a place to rest her wings.", "A quiet shelter would help me focus on the fragments.", "I have been sleeping under the open sky. A roof would be kind.", "The wind is beautiful, but walls keep my notes safe.", "A house... I have not had one in centuries."]
+needs_house_dialog = ["I have been living among the stones. They are fine company, but my notes keep blowing away. A small house would let me study the skylands in earnest.", "A roof, four walls, a desk for my light studies. That is all I ask. I can teach better when I have a place to organize what I know.", "The skylands shift constantly. I need a fixed point to anchor my research. Would you help me find shelter?", "I have collected fragments, stones, and writings. They need a home. I need a home. Will you help?", "I remember having a study once, high in Hyrule Castle. I do not need grandeur. Just somewhere to keep the light steady.", "A tent flaps too much in the wind. A proper house would let me hear the stones more clearly."]
+lost_house_balloon = ["I wandered too far and lost my way back...", "I cannot find my study. The skylands shifted.", "My home... I think the wind took the path.", "I was following a light and lost the door.", "The stones moved while I was not watching.", "I stood up to read a fragment and now I am lost."]
+lost_house_dialog = ["I stepped out to follow a peculiar glow and now I cannot find my door. The skylands rearrange themselves when I am not paying attention. Could you help me return?", "I have always had an inner compass as a dragon. But as a person, I seem to misplace entire buildings. I think my study wandered off.", "I followed the echo of an old song and now I am standing here, not entirely sure where here is. Lead me back?", "The landscape remembers a different shape than I do. I am lost. Forgive an old scholar her bad sense of direction.", "I marked the path with light stones, but something moved them. I would appreciate a guide back.", "I was never good at finding my way on the ground. In the sky, it was simple. On land, everything looks the same."]
+
+[missions]
+enabled = true
+offer_radius = 7.0
+offer_balloon_messages = ["@quest_log.png I have a small task for you, if your heart is willing.", "@quest_log.png The skylands have whispered a mission suited to your talents.", "@quest_log.png Walk with me. I will share a purpose waiting for your courage.", "@quest_log.png A need arises. Will you lend your hands to light's cause?"]
+pool = [
+  { id = "zelda_hunt_mobs", category = "timed", event = "minecraft:monster_killed", event_desc = "Defeat {goal} Monsters In {seconds}s", quest_text = "Drive back hostile creatures before their shadow reaches the skyland paths.", pass_id = "combat", xp = 100, chowcoins = 50, goal = 3, time_window_seconds = 20, complete_messages = ["@quest_log.png The light holds a little steadier now.", "@quest_log.png You answered chaos with courage. Thank you."] },
+  { id = "zelda_travel_blocks", category = "task", event = "minecraft:blocks_traveled", event_desc = "Travel {goal} Blocks", quest_text = "Walk the skyland roads and listen for ruins that hum under moonlight.", pass_id = "cozy", xp = 80, chowcoins = 25, goal = 1000, complete_messages = ["@quest_log.png Each step teaches the skylands your name.", "@quest_log.png Good. The path is better known now."] },
+  { id = "zelda_fetch_amethyst", category = "fetch", event_desc = "Bring {goal} Amethyst Shards", quest_text = "Bring amethyst shards for a light focus lesson.", pass_id = "cozy", xp = 80, chowcoins = 25, fetch_item = "minecraft:amethyst_shard", fetch_count = 4, complete_messages = ["@quest_log.png Their resonance is clear. We can shape the lesson now.", "@quest_log.png Excellent. The focus catches light beautifully."] },
+]

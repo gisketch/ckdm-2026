@@ -1,0 +1,449 @@
+[[exchanges]]
+id = "expansion_03_001"
+topic = "rain_leaky_roof"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Roof sprang another leak. Storm came faster than the tinkers predicted."
+response = "Soaked three scrolls. I will ask the mason for spare slate."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_002"
+topic = "rain_mud_sinkhole"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "New sinkhole opened by the south well. Mud swallowed a cart."
+response = "Saw it. We need gravel fill and a roped perimeter."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_003"
+topic = "rain_mud_sinkhole"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "Mud near the well is deeper than last season. Cart wheel snapped clean off."
+response = "Groundwater shifted. Tell everyone to draw water at the east pump instead."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_004"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "Skyland bridge swayed hard in the squall. I turned back."
+response = "Good instinct. Use the tunnel stair until the wind calms. No exceptions."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_005"
+topic = "rain_wet_maps"
+source_tags = ["town"]
+target_tags = ["town", "store_explorer"]
+line = "Ruined three maps in my pack. Leather wrap was soaked through."
+response = "I just waxed a fresh batch. Swap yours before the afternoon patrol."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_006"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "Ravine footpath turned to slurry. Roots pulled loose."
+response = "Rope ladder at the old watch stump still holds. Use that detour."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_007"
+topic = "rain_roof_repair"
+source_tags = ["town"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Wind tore shingles off the loft. Rain pooled in my study."
+response = "I can updraft the debris clear, but you must nail new boards first."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_008"
+topic = "rain_wet_maps"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "Contour lines bled on every survey. The gully is invisible now."
+response = "Redraw from the stone cairn benchmarks. Keep the original locked in oilcloth."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_009"
+topic = "rain_mud_field"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Vegetable rows are half underwater. Seedlings drowned overnight."
+response = "I will build raised beds with leftover cedar. Bring shovels at dawn."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_010"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Lightning struck the old pine near the crest. Trail is blocked."
+response = "I marked a deer path around the east boulder. Safer for now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_011"
+topic = "rain_leaky_roof"
+source_tags = ["town"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Rain drips through the ceiling seam above the forge bellows."
+response = "I can press a clay cap into the crack until the storm passes."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_012"
+topic = "rain_mud_sinkhole"
+source_tags = ["town"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Mud swallowed the mooring post. Fence posts are leaning."
+response = "I felt the shift last night. We backfill with crushed stone at low tide."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_013"
+topic = "rain_wet_supplies"
+source_tags = ["town"]
+target_tags = ["store_seed"]
+line = "Grain sacks in the depot are damp. Hear mice already."
+response = "Move the dry stock to my loft. I have cedar bins ready."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_014"
+topic = "rain_wet_supplies"
+source_tags = ["town"]
+target_tags = ["store_explorer"]
+line = "Oilskin tent leaked. Bedroll is sodden and heavy."
+response = "Wring it out over the boiler. I will treat the seams again."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_015"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["mentor", "wind_wizard"]
+line = "Gusts keep snapping branches above the school path."
+response = "I smoothed the air pocket around the shrine walk. Stick to that lane."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_016"
+topic = "rain_mud_clothes"
+source_tags = ["town"]
+target_tags = ["store_cosmetics"]
+line = "Hem is caked in clay up to my knees. Lost a boot in the muck."
+response = "I have spare wraps and a stiff brush. Sit by the drying rack."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_017"
+topic = "rain_roof_repair"
+source_tags = ["town"]
+target_tags = ["mentor", "frost_wizard"]
+line = "Ice melt is pooling in the corner. Roof pitch is too shallow."
+response = "I can lay a frost sheet to redirect melt, then we reframe later."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_018"
+topic = "rain_roof_repair"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Tarp split open over the seed shack. Water soaked the barley."
+response = "I stashed spare canvas behind the stable. Grab six lashings."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_019"
+topic = "rain_storm_lull"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "Wind died for a moment. Is the front passing or stalling?"
+response = "Cloud wall still dark to the north. Fill your canteens now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_020"
+topic = "rain_mud_sinkhole"
+source_tags = ["town"]
+target_tags = ["mentor", "witcher"]
+line = "Sinkhole reeks of sulfur. Something stirred below."
+response = "I smelled it too. Post a sentry with a torch until we probe it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_021"
+topic = "rain_lightning_hazard"
+source_tags = ["town"]
+target_tags = ["mentor", "fire_wizard"]
+line = "Lightning keeps hitting the iron vein ridge. Sparks set the scrub alight."
+response = "I grounded a rod there this morning. Fire risk is halved."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_022"
+topic = "rain_wet_maps"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Ink ran on the patrol map. Waypoints are unreadable."
+response = "I memorize them each dawn. Ask me before your shift."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_023"
+topic = "rain_fog_roll"
+source_tags = ["town"]
+target_tags = ["mentor", "water_wizard"]
+line = "Fog rolled in so thick I lost sight of the beacon."
+response = "I pulled moisture from the air near the dock. Visibility clears at noon."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_024"
+topic = "rain_roof_repair"
+source_tags = ["town"]
+target_tags = ["mentor", "tundra_archer"]
+line = "Drip landed on my bowstring. Serving is swelling."
+response = "Dry string and wax by the hearth. I guard the gap until you finish."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_025"
+topic = "rain_mud_field"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Plow team is stuck axle-deep. Oxen won't budge."
+response = "Bring the block and tackle. I will calm the team."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_026"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["mentor", "warrior"]
+line = "East gully is a chute of mud. Patrol cannot pass."
+response = "Divert through the old quarry lip. I cleared the scree yesterday."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_027"
+topic = "rain_lightning_hazard"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Bell tower took a glancing strike. Clapper warped."
+response = "We ring the iron bar by hand. A repair crew is gathering."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_028"
+topic = "rain_mud_sinkhole"
+source_tags = ["town"]
+target_tags = ["mentor", "archer"]
+line = "New crevice opened behind the archery butts. Half the range is gone."
+response = "I already pegged a hazard line. We shift targets to the high yard."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_029"
+topic = "rain_storm_lull"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Rain stopped but the creek is still rising. Bridge groaning."
+response = "Sandbags are stacked behind the mill. Grab a wheelbarrow."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_030"
+topic = "rain_wet_supplies"
+source_tags = ["town"]
+target_tags = ["store_pokemon"]
+line = "Pokeball leather cases grew mold overnight. Spores everywhere."
+response = "I have anhydrous salve and a dehumidifier crystal. Bring them in."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_031"
+topic = "rain_drainage_ditch"
+source_tags = ["town"]
+target_tags = ["mentor", "earth_wizard"]
+line = "Water backed up behind the smithy. Quenching trough overflowed."
+response = "Relief channel is carved. It empties into the storm gully now."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_032"
+topic = "rain_roof_repair"
+source_tags = ["town"]
+target_tags = ["mentor", "priest"]
+line = "Sanctuary roof lost a purlin. Rain wet the altar cloth."
+response = "I moved the relics to the vestry. The beam can wait for dry wood."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_033"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Coastal path washed out. Sea spray blinds the last switchback."
+response = "Take the hermit's stair. It is steep but above the spray line."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_034"
+topic = "rain_wet_maps"
+source_tags = ["town"]
+target_tags = ["mentor", "forcemaster"]
+line = "Survey tablet is damp and the runes are ghosting."
+response = "Let me press the moisture out. Tell me your route and I redraw."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_035"
+topic = "rain_drainage_ditch"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Culvert under market row is choked with twigs. Street flooding."
+response = "I have a pole hook and a burlap sack. Meet me there."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_036"
+topic = "rain_moss_growth"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Green moss spread across the cobbles overnight. Slick as ice."
+response = "Sprinkle ash from the bakery. It adds grip until the sun returns."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_037"
+topic = "rain_moss_growth"
+source_tags = ["town"]
+target_tags = ["mentor", "poison_expert"]
+line = "Moss on the log bridge is phosphorescent. Safe to cross?"
+response = "No. That glow attracts bog wisps. Rope across instead."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_038"
+topic = "rain_fog_roll"
+source_tags = ["town"]
+target_tags = ["mentor", "bard"]
+line = "Fog muffles all sound. I cannot hear the signal bells."
+response = "I will sing a low tone every hundred paces. Follow my voice."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_039"
+topic = "rain_wet_supplies"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Barrels of dried fish are weeping brine. Hoops rusted."
+response = "We roll them into the ice cellar. Temp drop will buy us time."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_040"
+topic = "rain_mud_field"
+source_tags = ["town"]
+target_tags = ["mentor", "paladin"]
+line = "Crops are flattened. The field looks trampled by something large."
+response = "I saw no monster tracks. It was wind shear and soft soil. Trust me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_041"
+topic = "rain_boating_creek"
+source_tags = ["town"]
+target_tags = ["mentor", "bounty_hunter"]
+line = "Creek is high enough for a skiff. Could shortcut the supply run."
+response = "Current is too fast. Debris hidden under the foam. Wait a tide."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_042"
+topic = "rain_wet_maps"
+source_tags = ["town"]
+target_tags = ["mentor", "war_archer"]
+line = "Patrol map smeared where I marked the new grayling nest."
+response = "I saw the nest yesterday. I will pencil it fresh on your backup."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_043"
+topic = "rain_storm_lull"
+source_tags = ["town"]
+target_tags = ["mentor"]
+line = "Sky is pale green. I have seen this before a twister."
+response = "Evacuate to the root cellar. I will sound the iron gong."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_044"
+topic = "rain_lightning_hazard"
+source_tags = ["town"]
+target_tags = ["town"]
+line = "Lightning split the flagpole. Splinters flew into the inn."
+response = "No one was hurt. I am hauling the pole to the woodshop."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_045"
+topic = "rain_roof_repair"
+source_tags = ["town"]
+target_tags = ["mentor", "adventure_time"]
+line = "Gumball canopy leaked. Pink syrup puddled on my counter."
+response = "I will seal it with a candy weld. Trade me a dry tarp later."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_046"
+topic = "rain_mud_clothes"
+source_tags = ["town"]
+target_tags = ["nocturnal"]
+line = "Mud splashed up to my cloak clasp. I just laundered this."
+response = "Blot it now before it sets. I keep a rag and talc on me."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_047"
+topic = "rain_mud_sinkhole"
+source_tags = ["town"]
+target_tags = ["zelda", "link"]
+line = "Sinkhole under the skyland stair anchor. Stone is fracturing."
+response = "We can brace it with a Zonai plate. I have one stashed."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_048"
+topic = "rain_storm_safe_route"
+source_tags = ["town"]
+target_tags = ["mentor", "monster_hunter"]
+line = "Mudslide buried the ridge pass. I heard a rockfall."
+response = "We skirt the bluff by grapple. Bring rope and leave heavy packs."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_049"
+topic = "rain_fog_roll"
+source_tags = ["town"]
+target_tags = ["ciri", "witcher"]
+line = "Fog clings to the hexagon stones. Smells of elder magic."
+response = "Elder fog. Walk where I walk and do not speak until we clear it."
+weight = 1.0
+
+[[exchanges]]
+id = "expansion_03_050"
+topic = "rain_wet_supplies"
+source_tags = ["town"]
+target_tags = ["bubblegum", "pokemon"]
+line = "Damp crept into the incubator. Egg shells look mottled."
+response = "I brought a warming plate from the lab. Keep them at stable temp."
+weight = 1.0
