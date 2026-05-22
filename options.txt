@@ -15,8 +15,8 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
 gamma:0.93
-graphicsMode:0
-guiScale:4
+graphicsMode:1
+guiScale:2
 maxFps:260
 mipmapLevels:4
 narrator:0
@@ -188,11 +188,11 @@ key_key.sophisticatedcore.transfer_to_inventory:key.keyboard.right.bracket
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.carry.desc:key.keyboard.unknown
 key_key.cataclysm.ability:key.keyboard.v
 key_key.cataclysm.helmet_ability:key.keyboard.c
@@ -403,3 +403,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+fullscreenResolution:1920x1200@120:24

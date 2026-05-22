@@ -19,7 +19,6 @@
       "mipmapLevels": "4",
       "particles": "0",
       "renderDistance": "6",
-      "resourcePacks": "[\"mod/punchy:resourcepacks/punchy\",\"vanilla\",\"fabric\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\",\"mod/seamless:resourcepacks/default_seamless\"]",
       "simulationDistance": "6"
     },
     "keybinds": {},
@@ -27,7 +26,9 @@
   },
   "shader": {
     "shaderPack": "MakeUp-UltraFast-9.5a.zip",
-    "iris": {},
+    "iris": {
+      "shaderPack": "MakeUp-UltraFast-9.5a.zip"
+    },
     "preset": {}
   },
   "files": [
