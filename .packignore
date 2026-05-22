@@ -1,0 +1,11 @@
+# Files listed here are deleted from pack source on publish apply,
+# skipped when copying instance changes into the pack, and not re-added by publish commit.
+
+# Secret-bearing local NPC LLM config. Never publish API keys.
+configs/gisketchs_chowkingdom_mod/npcs/settings.toml
+configs/gisketchs_chowkingdom_mod/json-backup/npcs/settings.json
+
+# Per-player generated settings.
+configs/WildfireGender/*.json
+configs/quickskin_preferences.json
+configs/skin-preferences.json

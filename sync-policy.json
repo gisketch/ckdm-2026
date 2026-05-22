@@ -1,0 +1,33 @@
+{
+  "protectedPaths": [
+    "quickskin/**",
+    "quickskin_cache/**",
+    "config/quickskin_preferences.json",
+    "config/skin-preferences.json",
+    "XaeroWorldMap/**",
+    "XaeroWaypoints/**",
+    "xaero/**",
+    "Distant_Horizons_server_data/**",
+    ".voxy/**",
+    "voxy/**",
+    "config/WildfireGender/*.json",
+    "config/gisketchs_chowkingdom_mod/npcs/settings.toml",
+    "config/gisketchs_chowkingdom_mod/json-backup/npcs/settings.json"
+  ],
+  "seedOnlyPaths": [
+    "config/voicechat/voicechat-client.properties",
+    "config/DistantHorizons.toml",
+    "config/voxy-config.json",
+    "config/WildfireGender/client.toml"
+  ],
+  "jsonPreserveKeys": {
+    "config/quickskin-client.json": [
+      "activeSkinHash",
+      "activeModelType",
+      "activeCapeHash",
+      "playerOwnSkinHash",
+      "enablePlayerOwnSkinSystem",
+      "capeAnimationSpeeds"
+    ]
+  }
+}

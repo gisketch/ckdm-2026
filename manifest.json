@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.22a",
+    "version": "v2026.05.23a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -1098,7 +1098,7 @@
       "sha512": null,
       "size": 471965,
       "url": "https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
-      "optional": false,
+      "optional": true,
       "side": "client"
     },
     {
@@ -1584,9 +1584,9 @@
       "versionId": null,
       "repoPath": "mods/cobblemon_items.txt",
       "filename": "cobblemon_items.txt",
-      "sha1": "86265a686b1185d9d10c752f4b51c30355e3695e",
+      "sha1": "98d5cb736d7222cb66d67887b078bd79c5b79ef2",
       "sha512": null,
-      "size": 20970,
+      "size": 20466,
       "url": "",
       "optional": false,
       "side": "client"
@@ -1654,9 +1654,9 @@
       "versionId": null,
       "repoPath": "mods/combat_tags.json",
       "filename": "combat_tags.json",
-      "sha1": "fdf83b2fd0149258f6e24b92d36bd449f91c8137",
+      "sha1": "d476a33ad353735f2603f52d530a6823cb4d1fa4",
       "sha512": null,
-      "size": 92136,
+      "size": 88238,
       "url": "",
       "optional": false,
       "side": "client"
@@ -1938,7 +1938,7 @@
       "sha512": null,
       "size": 133983,
       "url": "https://cdn.modrinth.com/data/k3TlcLvL/versions/9y5XWVtz/drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
-      "optional": false,
+      "optional": true,
       "side": "client"
     },
     {
@@ -4517,6 +4517,20 @@
       "sha1": "e167b911d6b2c0e3fb71778613a2e146b58b4232",
       "sha512": null,
       "size": 47119146,
+      "url": "",
+      "optional": false,
+      "side": "client"
+    },
+    {
+      "id": "shaderpacks-makeup-ultrafast-9-5a",
+      "source": "repo",
+      "projectId": null,
+      "versionId": null,
+      "repoPath": "shaderpacks/MakeUp-UltraFast-9.5a.zip",
+      "filename": "MakeUp-UltraFast-9.5a.zip",
+      "sha1": "d1d7eadbeb9654725d1829e53c719d003e90f9c2",
+      "sha512": null,
+      "size": 398018,
       "url": "",
       "optional": false,
       "side": "client"
