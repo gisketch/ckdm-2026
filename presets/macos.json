@@ -1,0 +1,45 @@
+{
+  "id": "macos",
+  "label": "macos",
+  "description": "For MAC",
+  "options": {
+    "video": {
+      "ao": "true",
+      "biomeBlendRadius": "2",
+      "bobView": "true",
+      "enableVsync": "false",
+      "entityDistanceScaling": "1.0",
+      "entityShadows": "false",
+      "fov": "0.25",
+      "fullscreen": "true",
+      "gamma": "0.93",
+      "graphicsMode": "0",
+      "guiScale": "4",
+      "maxFps": "260",
+      "mipmapLevels": "4",
+      "particles": "0",
+      "renderDistance": "6",
+      "resourcePacks": "[\"mod/punchy:resourcepacks/punchy\",\"vanilla\",\"fabric\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\",\"mod/seamless:resourcepacks/default_seamless\"]",
+      "simulationDistance": "6"
+    },
+    "keybinds": {},
+    "other": {}
+  },
+  "shader": {
+    "shaderPack": "MakeUp-UltraFast-9.5a.zip",
+    "iris": {},
+    "preset": {}
+  },
+  "files": [
+    {
+      "relPath": "config/iris.properties"
+    }
+  ],
+  "disabledMods": [
+    "DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar",
+    "acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+    "drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
+    "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+    "voxy-0.2.14-alpha-c54de232.jar"
+  ]
+}
