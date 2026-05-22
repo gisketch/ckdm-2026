@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_worker_mason",
+  "name": "Worker Mason",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m gonna let you in on a secret... I snuck my Pok\u00e9mon to work!",
+    "OK, OK, time for work! I\u2019ll work up a thirst with my Pok\u00e9mon!"
+  ]
+}

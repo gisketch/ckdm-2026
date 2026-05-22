@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_brock_0038",
+  "name": "Brock",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "gigalith",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "stealthrock",
+        "stoneedge",
+        "earthquake",
+        "explosion"
+      ],
+      "heldItem": "smooth_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "omastar",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "shellsmash",
+        "meteorbeam",
+        "icebeam",
+        "surf"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandslash",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "stoneedge",
+        "xscissor"
+      ],
+      "heldItem": "soft_sand",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lycanroc",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "accelerock",
+        "stoneedge",
+        "closecombat",
+        "crunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tyranitar",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandstream",
+      "moveset": [
+        "stoneedge",
+        "firepunch",
+        "crunch",
+        "dragondance"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aerodactyl",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unnerve",
+      "moveset": [
+        "stoneedge",
+        "earthquake",
+        "dualwingbeat",
+        "dragondance"
+      ],
+      "heldItem": "mega_showdown:aerodactylite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

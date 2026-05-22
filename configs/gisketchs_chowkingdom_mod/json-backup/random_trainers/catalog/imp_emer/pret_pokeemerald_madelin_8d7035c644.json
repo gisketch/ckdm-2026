@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeemerald_madeline_1",
+  "name": "Parasol Lady Madeline",
+  "title": "Parasol Lady",
+  "gender": "female",
+  "archetype": "parasol_lady",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "parasol_lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:numel",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "ember",
+        "tackle",
+        "magnitude",
+        "sunnyday"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Parasol Lady Madeline is ready for a battle."
+  ]
+}

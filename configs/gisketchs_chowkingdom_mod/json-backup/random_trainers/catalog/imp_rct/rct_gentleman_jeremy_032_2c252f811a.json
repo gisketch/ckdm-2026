@@ -1,0 +1,40 @@
+{
+  "id": "rct_gentleman_jeremy_032d",
+  "name": "Gentleman Jeremy",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:chatot",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "tangledfeet",
+      "moveset": [
+        "hypervoice",
+        "chatter",
+        "confide",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_al"
+name = "Bug Catcher Al"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 12
+maxLevel = 12
+team = [
+  { species = "cobblemon:caterpie", level = 12, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weedle", level = 12, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Al is ready for a battle.", "You’ve come all this way, crossing the web like a bug Pokémon! Allow me to teach you the charms of bug Pokémon!", "Just being in this Gym, I feel like I’ve turned into a bug Pokémon!"]

@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefanf_x_georgia"
+name = "Pokefanf Georgia"
+title = "Pokefanf"
+gender = "any"
+archetype = "pokefanf"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokefanf/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 23
+maxLevel = 28
+team = [
+  { species = "cobblemon:sentret", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sentret", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sentret", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:furret", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sentret", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokefanf Georgia is ready for a battle."]

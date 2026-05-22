@@ -1,0 +1,49 @@
+{
+  "id": "rct_interviewers_oli_roxy_m008",
+  "name": "Interviewers Oli & Roxy",
+  "title": "Interviewers Oli",
+  "gender": "any",
+  "archetype": "interviewers_oli",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "marill",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "slam",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wooper",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "watergun",
+        "raindance",
+        "mudshot",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rct_leader_lt_surge_0033",
+  "name": "Lt. Surge",
+  "title": "Lt.",
+  "gender": "any",
+  "archetype": "lt.",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lt./any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "nuzzle",
+        "uturn"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dracozolt",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "hustle",
+      "moveset": [
+        "boltbeak",
+        "dragonclaw",
+        "crunch",
+        "firefang"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dedenne",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "electricsurge",
+      "moveset": [
+        "risingvoltage",
+        "voltswitch",
+        "dazzlinggleam",
+        "grassknot"
+      ],
+      "heldItem": [
+        "terrain_extender"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:manectric",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "voltswitch",
+        "risingvoltage",
+        "flamethrower",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "mega_showdown:manectite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

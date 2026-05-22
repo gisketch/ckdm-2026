@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_martin"
+name = "Fisherman Martin"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 36
+maxLevel = 42
+team = [
+  { species = "cobblemon:remoraid", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:octillery", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Patience is the key to both fishing and Pokémon.", "I’m too impatient for fishing..."]

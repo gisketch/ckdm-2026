@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_rocker_001",
+  "name": "Rocker Alina",
+  "title": "Rocker",
+  "gender": "any",
+  "archetype": "rocker",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "rocker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:voltorb",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rocker from Vermilion Gym is ready for a battle."
+  ]
+}

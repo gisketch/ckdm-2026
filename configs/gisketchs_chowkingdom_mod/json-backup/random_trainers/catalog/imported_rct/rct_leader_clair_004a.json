@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_clair_004a",
+  "name": "Leader Clair",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "aerodactyl",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "stealthrock",
+        "stoneedge",
+        "earthquake",
+        "taunt"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dracovish",
+      "level": 80,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "strongjaw",
+      "moveset": [
+        "fishiousrend",
+        "psychicfangs",
+        "outrage",
+        "crunch"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "multiscale",
+      "moveset": [
+        "extremespeed",
+        "dragondance",
+        "firepunch",
+        "dualwingbeat"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magearna",
+      "level": 81,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "soulheart",
+      "moveset": [
+        "shiftgear",
+        "fleurcannon",
+        "flashcannon",
+        "aurasphere"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "naganadel",
+      "level": 81,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "beastboost",
+      "moveset": [
+        "nastyplot",
+        "sludgewave",
+        "dracometeor",
+        "flamethrower"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "duraludon",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "heavymetal",
+      "moveset": [
+        "dracometeor",
+        "steelbeam",
+        "thunderbolt",
+        "darkpulse"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "rct_elite_four_lorelei_019a",
+  "name": "Lorelei",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 51,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:dewgong",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "icescales",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "hail",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "skilllink",
+      "moveset": [
+        "spikes",
+        "protect",
+        "hail",
+        "dive"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "owntempo",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "amnesia",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:jynx",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "forewarn",
+      "moveset": [
+        "icepunch",
+        "doubleslap",
+        "lovelykiss",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lapras",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "hydration",
+      "moveset": [
+        "confuseray",
+        "icebeam",
+        "surf",
+        "bodyslam"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

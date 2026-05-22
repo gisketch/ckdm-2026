@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0661_fisherman_kyle",
+  "name": "Fisherman Kyle",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:seaking",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:qwilfish",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Fisherman Kyle is ready for a battle."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeplatinum_ranger_allison_rematch_1",
+  "name": "Ranger Female Allison",
+  "title": "Ranger Female",
+  "gender": "female",
+  "archetype": "ranger_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:azumarill",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:leafeon",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ranger Female Allison is ready for a battle."
+  ]
+}

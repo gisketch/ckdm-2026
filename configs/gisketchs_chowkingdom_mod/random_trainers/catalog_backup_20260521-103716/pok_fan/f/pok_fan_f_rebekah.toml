@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_fan_f_rebekah"
+name = "Pok Fan Rebekah"
+title = "Pok Fan"
+gender = "female"
+archetype = "pok_fan"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_fan/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:bonsly", level = 19, gender = "FEMALE", nature = "impish", ability = "sturdy", moveset = ["faketears", "copycat", "flail", "rockthrow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

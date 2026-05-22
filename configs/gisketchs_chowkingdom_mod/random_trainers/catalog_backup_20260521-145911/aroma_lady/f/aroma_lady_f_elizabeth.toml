@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "aroma_lady_f_elizabeth"
+name = "Aroma Lady Elizabeth"
+title = "Aroma Lady"
+gender = "female"
+archetype = "aroma_lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "aroma_lady/female"
+tier = "high"
+spawnable = true
+height = 0.96
+weight = 0.86
+bustStyle = "standard"
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:roselia", level = 55, gender = "MALE", nature = "calm", ability = "poisonpoint", moveset = ["leechseed", "gigadrain", "toxic", "petalblizzard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Aroma Lady Elizabeth is ready for a battle.", "I love Pokémon that smell sweet. Like this one--get a whiff of this!", "If you plant lots of Berries, you can be surrounded by sweet scents.", "I have trained this team for the road. Challenge me if you are ready."]

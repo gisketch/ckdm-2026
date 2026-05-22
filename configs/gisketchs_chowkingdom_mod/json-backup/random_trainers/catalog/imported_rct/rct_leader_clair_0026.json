@@ -1,0 +1,115 @@
+{
+  "id": "rct_leader_clair_0026",
+  "name": "Clair",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 95,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "dragapult",
+      "level": 95,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "clearbody",
+      "moveset": [
+        "dragondarts",
+        "spiritshackle",
+        "uturn",
+        "dracometeor"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dialga",
+      "level": 96,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "roaroftime",
+        "flamethrower",
+        "flashcannon",
+        "thunderbolt"
+      ],
+      "heldItem": "mega_showdown:adamant_orb life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 97,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "multiscale",
+      "moveset": [
+        "dualwingbeat",
+        "fireblast",
+        "dragonhammer",
+        "dragondance"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flapple",
+      "level": 96,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "ripen",
+      "moveset": [
+        "dragonenergy",
+        "energyball",
+        "suckerpunch",
+        "uturn"
+      ],
+      "heldItem": "eject_pack",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kyurem",
+      "level": 96,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "teravolt",
+      "moveset": [
+        "dragondance",
+        "dragonhammer",
+        "fusionbolt",
+        "icehammer"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": [
+        "black"
+      ]
+    },
+    {
+      "species": "genesect",
+      "level": 97,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "download",
+      "moveset": [
+        "uturn",
+        "extremespeed",
+        "icebeam",
+        "flamethrower"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

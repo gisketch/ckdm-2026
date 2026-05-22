@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokefirered_lady_selphy",
+  "name": "Lady Selphy",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "payday",
+        "bite",
+        "taunt",
+        "torment"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "payday",
+        "scratch",
+        "torment",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lady Selphy is ready for a battle."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_chad"
+name = "School Kid Chad"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 46
+maxLevel = 56
+team = [
+  { species = "cobblemon:mr_mime", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["batonpass", "doubleteam", "lightscreen", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magneton", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gyroball", "mirrorshot", "thunderwave", "magnetbomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let me try something I learned today.", "I have to take so many tests, I don’t have much time for Pokémon. So when I do get to battle, I really concentrate.", "School Kid Male Chad is ready for a battle."]

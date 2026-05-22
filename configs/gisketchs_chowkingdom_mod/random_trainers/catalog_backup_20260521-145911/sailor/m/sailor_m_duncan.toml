@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_duncan"
+name = "Sailor Duncan"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 26
+maxLevel = 28
+team = [
+  { species = "cobblemon:lombre", level = 27, gender = "FEMALE", nature = "lonely", ability = "swiftswim", moveset = ["aurorabeam", "fakeout", "watersport", "bubblebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:simipour", level = 26, gender = "FEMALE", nature = "lax", ability = "gluttony", moveset = ["scald", "leer", "lick", "furyswipes"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:carvanha", level = 28, gender = "MALE", nature = "naive", ability = "roughskin", moveset = ["assurance", "screech", "swagger", "icefang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sailor Duncan is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

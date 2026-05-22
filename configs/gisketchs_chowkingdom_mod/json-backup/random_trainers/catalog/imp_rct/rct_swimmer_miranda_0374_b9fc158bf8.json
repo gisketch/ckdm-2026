@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmer_miranda_0374",
+  "name": "Swimmer Miranda",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:lumineon",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "attract",
+        "raindance",
+        "aquaring",
+        "whirlpool"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

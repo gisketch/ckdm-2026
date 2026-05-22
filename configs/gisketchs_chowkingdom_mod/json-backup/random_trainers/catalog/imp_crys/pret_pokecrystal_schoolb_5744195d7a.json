@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokecrystal_schoolboy_024_chad",
+  "name": "Schoolboy Chad",
+  "title": "Schoolboy",
+  "gender": "male",
+  "archetype": "schoolboy",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "schoolboy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.93,
+  "weight": 0.96,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:mr_mime",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "lightscreen",
+        "reflect",
+        "encore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magneton",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "zapcannon",
+        "thunderwave",
+        "lockon",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Schoolboy Chad is ready for a battle."
+  ]
+}

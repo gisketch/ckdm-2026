@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_dana"
+name = "Lass Dana"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "high"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 51
+maxLevel = 54
+team = [
+  { species = "cobblemon:golduck", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "amnesia", "confusion", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ampharos", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunder", "discharge", "thunderwave", "signalbeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Dana is ready for a battle.", "Hey, are you good at Pokémon? If you’re really good, I want you to teach me some things.", "I know something good! Moomoo Farm’s milk is famous for its taste."]

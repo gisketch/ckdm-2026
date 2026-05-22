@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_sophia_04c3",
+  "name": "Swimmer Sophia",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "mantyke",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hydropump",
+        "aquaring",
+        "supersonic",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mantine",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hydropump",
+        "bounce",
+        "aquaring",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

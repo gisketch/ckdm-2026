@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_shannon"
+name = "Ace Trainer Shannon"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 52
+maxLevel = 56
+team = [
+  { species = "cobblemon:cherrim", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["solarbeam", "magicalleaf", "petaldance", "sunnyday"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:azumarill", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["icebeam", "doubleedge", "aquatail", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dizzypunch", "jumpkick", "quickattack", "bounce"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ace Trainer Female Shannon is ready for a battle.", "Really? So you think you can beat me? I’m an Ace Trainer, you do realize?", "Beaten in battle, but not in spirit. That’s the mark of a real Ace Trainer."]

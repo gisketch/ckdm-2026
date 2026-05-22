@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokecrystal_cooltrainerm_020_darin",
+  "name": "Cooltrainerm Darin",
+  "title": "Cooltrainerm",
+  "gender": "any",
+  "archetype": "cooltrainerm",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "cooltrainerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:dragonair",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "wrap",
+        "surf",
+        "dragonrage",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerm Darin is ready for a battle."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_guitarist_preston_03c9",
+  "name": "Guitarist Preston",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "bite",
+        "voltswitch",
+        "thunderwave",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bibarel",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "simple",
+      "moveset": [
+        "yawn",
+        "thunderbolt",
+        "bulldoze",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

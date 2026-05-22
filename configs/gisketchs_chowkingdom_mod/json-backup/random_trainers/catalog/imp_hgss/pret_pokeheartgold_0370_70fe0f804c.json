@@ -1,0 +1,69 @@
+{
+  "id": "pret_pokeheartgold_0370_swimmer_male_jerome",
+  "name": "Swimmer Male Jerome",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:seadra",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacool",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:goldeen",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimming? I\u2019m lousy at it. I\u2019m just splashing around in these shallow waters.",
+    "I might be bad at swimming, but I love the sea."
+  ]
+}

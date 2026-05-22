@@ -1,0 +1,72 @@
+{
+  "id": "rct_ace_trainer_natasha_04ae",
+  "name": "Ace Trainer Natasha",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:dunsparce",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "serenegrace",
+      "moveset": [
+        "glare",
+        "doubleedge",
+        "coil",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:scyther",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "xscissor",
+        "slash",
+        "wingattack",
+        "furycutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marowak",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "bonemerang",
+        "bonerush",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

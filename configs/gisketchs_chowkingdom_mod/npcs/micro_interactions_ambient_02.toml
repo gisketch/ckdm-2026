@@ -1,0 +1,354 @@
+[[solo_moments]]
+id = "ambient_02_001"
+topic = "town_daily_life"
+source_tags = ["town"]
+activities = ["meetup"]
+line = "Someone swept this corner before the sun got high."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_002"
+topic = "town_daily_life"
+source_tags = ["town"]
+line = "The town sounds different when everyone has somewhere to be."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_003"
+topic = "home"
+source_tags = ["town"]
+activities = ["home"]
+line = "A quiet room makes the whole day easier to sort."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_004"
+topic = "missing_home"
+source_tags = ["town"]
+activities = ["home"]
+line = "I should find a proper home before the next long evening."
+weight = 3.0
+
+[[solo_moments]]
+id = "ambient_02_005"
+topic = "missing_home"
+source_tags = ["mentor"]
+activities = ["home"]
+line = "Even a mentor needs a place to put the spare notes."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_006"
+topic = "work"
+source_tags = ["town"]
+activities = ["work"]
+line = "Work goes smoother when the tools are already in reach."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_007"
+topic = "missing_workplace"
+source_tags = ["town"]
+activities = ["work"]
+line = "A real workplace would make this routine easier."
+weight = 3.0
+
+[[solo_moments]]
+id = "ambient_02_008"
+topic = "missing_workplace"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "Hard to keep stock straight without a steady counter."
+weight = 3.0
+
+[[solo_moments]]
+id = "ambient_02_009"
+topic = "plaza"
+source_tags = ["town"]
+activities = ["meetup"]
+line = "The plaza keeps every small errand from feeling lonely."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_010"
+topic = "plaza"
+source_tags = ["mentor"]
+activities = ["meetup"]
+line = "A public place teaches who listens before they speak."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_011"
+topic = "paths"
+source_tags = ["town"]
+activities = ["meetup"]
+line = "These paths are worn smooth by habits more than boots."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_012"
+topic = "paths"
+source_tags = ["researcher"]
+line = "The shortest path is not always the one people choose."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_013"
+topic = "observed_objects"
+source_tags = ["town"]
+line = "That old bench has heard half the town think out loud."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_02_014"
+topic = "observed_objects"
+source_tags = ["town"]
+line = "The notice board changes faster than the weather some days."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_02_015"
+topic = "observed_objects"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "A tidy crate saves more time than a loud reminder."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_016"
+topic = "observed_objects"
+source_tags = ["researcher"]
+line = "Even a chipped stone can mark a useful pattern."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_017"
+topic = "store_seed"
+source_tags = ["store_seed"]
+activities = ["work"]
+line = "Seed trays need patience before they need praise."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_018"
+topic = "store_seed"
+source_tags = ["store_seed"]
+activities = ["work"]
+line = "Dry soil asks for care long before it cracks."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_019"
+topic = "store_pokemon"
+source_tags = ["store_pokemon"]
+activities = ["work", "pokemon_roam"]
+line = "Every roaming Pokemon has a different idea of space."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_020"
+topic = "store_pokemon"
+source_tags = ["store_pokemon"]
+activities = ["pokemon_roam"]
+line = "Careful watching beats guessing what a Pokemon needs."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_021"
+topic = "store_cosmetics"
+source_tags = ["store_cosmetics"]
+activities = ["work"]
+line = "A clean mirror tells customers more than a polished sign."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_022"
+topic = "store_cosmetics"
+source_tags = ["store_cosmetics"]
+activities = ["work"]
+line = "Color looks different after a walk through the plaza."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_023"
+topic = "shop_stock"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "Good shelves make a busy day feel planned."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_024"
+topic = "shop_stock"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "The best stock is the kind people can find without asking."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_025"
+topic = "research"
+source_tags = ["researcher"]
+activities = ["work"]
+line = "A small note today can save a week of guessing later."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_026"
+topic = "research"
+source_tags = ["researcher"]
+activities = ["pokemon_roam"]
+line = "Movement makes better data than a still shelf."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_027"
+topic = "mentor"
+source_tags = ["mentor"]
+activities = ["work"]
+line = "The first lesson is always learning where to stand."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_028"
+topic = "mentor"
+source_tags = ["mentor"]
+activities = ["meetup"]
+line = "A good question can train a room faster than a speech."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_029"
+topic = "home"
+source_tags = ["shopkeeper"]
+activities = ["home"]
+line = "Home is where the ledger can finally stay closed."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_030"
+topic = "home"
+source_tags = ["researcher"]
+activities = ["home"]
+line = "Notes look different after a quiet meal."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_031"
+topic = "meetup"
+source_tags = ["town"]
+activities = ["meetup"]
+line = "Everyone brings a different pace to the same meeting spot."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_032"
+topic = "meetup"
+source_tags = ["shopkeeper"]
+activities = ["meetup"]
+line = "A quick chat can tell you what the shelves forgot."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_033"
+topic = "meetup"
+source_tags = ["researcher"]
+activities = ["meetup"]
+line = "Public chatter carries more clues than formal reports."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_034"
+topic = "paths"
+source_tags = ["mentor"]
+activities = ["work", "meetup"]
+line = "A steady path teaches balance before any lesson starts."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_035"
+topic = "paths"
+source_tags = ["store_seed"]
+activities = ["work"]
+line = "Mud on the path means someone watered with care."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_036"
+topic = "observed_objects"
+source_tags = ["store_pokemon"]
+activities = ["pokemon_roam"]
+line = "A scratched fence says more than a tidy report."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_037"
+topic = "observed_objects"
+source_tags = ["store_cosmetics"]
+activities = ["work"]
+line = "Sunlight on glass can change a whole display."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_038"
+topic = "town_daily_life"
+source_tags = ["town"]
+activities = ["work"]
+line = "The early errands always leave the neatest tracks."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_039"
+topic = "town_daily_life"
+source_tags = ["town"]
+activities = ["pokemon_roam"]
+line = "A roaming Pokemon turns any quiet path into a small event."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_040"
+topic = "missing_workplace"
+source_tags = ["researcher"]
+activities = ["work"]
+line = "A fixed table would keep these notes from wandering."
+weight = 3.0
+
+[[solo_moments]]
+id = "ambient_02_041"
+topic = "missing_home"
+source_tags = ["shopkeeper"]
+activities = ["home"]
+line = "A steady home would make the morning count easier."
+weight = 3.0
+
+[[solo_moments]]
+id = "ambient_02_042"
+topic = "plaza"
+source_tags = ["store_seed"]
+activities = ["meetup"]
+line = "Planters near the plaza show who remembers to water."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_043"
+topic = "plaza"
+source_tags = ["store_pokemon"]
+activities = ["meetup", "pokemon_roam"]
+line = "Pokemon cross the plaza like they own the schedule."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_044"
+topic = "plaza"
+source_tags = ["store_cosmetics"]
+activities = ["meetup"]
+line = "The plaza shows which colors people choose in daylight."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_02_045"
+topic = "work"
+source_tags = ["mentor"]
+activities = ["work"]
+line = "Routine is just practice with fewer witnesses."
+weight = 2.0

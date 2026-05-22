@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokefirered_painter_celina",
+  "name": "Painter Celina",
+  "title": "Painter",
+  "gender": "any",
+  "archetype": "painter",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "painter/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:smeargle",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "fly",
+        "dig",
+        "dive",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Painter Celina is ready for a battle."
+  ]
+}

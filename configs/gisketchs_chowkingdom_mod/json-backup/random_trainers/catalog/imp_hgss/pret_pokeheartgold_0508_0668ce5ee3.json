@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeheartgold_0508_school_kid_male_mickey",
+  "name": "School Kid Male Mickey",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:mr_mime",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "lightscreen",
+        "reflect",
+        "encore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magneton",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "zapcannon",
+        "thunderwave",
+        "lockon",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "School Kid Male Mickey is ready for a battle."
+  ]
+}

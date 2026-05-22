@@ -1,0 +1,90 @@
+{
+  "id": "pret_pokeemerald_myles",
+  "name": "Pokemon Breeder Myles",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "pokemon_breeder/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:makuhita",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wingull",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tropius",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zigzagoon",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrike",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:numel",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Breeder Myles is ready for a battle."
+  ]
+}

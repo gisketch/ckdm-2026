@@ -1,0 +1,74 @@
+{
+  "id": "rct_commander_saturn_041f",
+  "name": "Commander Saturn",
+  "title": "Commander",
+  "gender": "any",
+  "archetype": "commander",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "commander/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "reflect",
+        "psychic",
+        "raindance"
+      ],
+      "heldItem": [
+        "damp_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzor",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:toxicroak",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "dryskin",
+      "moveset": [
+        "mudslap",
+        "revenge",
+        "toxic",
+        "thief"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

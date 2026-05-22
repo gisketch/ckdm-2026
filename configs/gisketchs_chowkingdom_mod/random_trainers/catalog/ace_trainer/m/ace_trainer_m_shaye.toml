@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_shaye"
+name = "Ace Trainer Shaye"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:jolteon", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["doublekick", "thunderbolt", "quickattack", "sandattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tangela", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["ancientpower", "stunspore", "gigadrain", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tauros", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["takedown", "zenheadbutt", "payback", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m going to Kanto to test my skills.", "Trainers from Johto can battle with Kanto Gym Leaders."]

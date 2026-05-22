@@ -1,0 +1,81 @@
+{
+  "id": "rct_juggler_mason_024e",
+  "name": "Juggler Mason",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "voltorb",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pineco",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "spikes",
+        "bide",
+        "rapidspin",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "voltorb",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pineco",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "sturdy",
+      "moveset": [
+        "spikes",
+        "bide",
+        "rapidspin",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

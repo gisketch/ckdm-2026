@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_janny"
+name = "Ace Trainer Janny"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "very_high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = "standard"
+minLevel = 93
+maxLevel = 95
+team = [
+  { species = "cobblemon:pelipper", level = 95, gender = "FEMALE", nature = "calm", ability = "drizzle", moveset = ["scald", "roost", "uturn", "hurricane"], heldItem = "['damp_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:ferrothorn", level = 93, gender = "FEMALE", nature = "impish", ability = "ironbarbs", moveset = ["powerwhip", "bodypress", "knockoff", "thunderwave"], heldItem = "['rocky_helmet']", shiny = false, aspects = [] },
+  { species = "cobblemon:seismitoad", level = 93, gender = "MALE", nature = "modest", ability = "swiftswim", moveset = ["weatherball", "earthpower", "focusblast", "surf"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:articuno", level = 95, gender = "GENDERLESS", nature = "timid", ability = "competitive", moveset = ["hurricane", "freezingglare", "weatherball", "uturn"], heldItem = "['weakness_policy']", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:barraskewda", level = 93, gender = "MALE", nature = "adamant", ability = "swiftswim", moveset = ["liquidation", "closecombat", "aquajet", "flipturn"], heldItem = "['mega_showdown:waterium_z', 'water_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:raikou", level = 95, gender = "GENDERLESS", nature = "timid", ability = "innerfocus", moveset = ["calmmind", "thunder", "weatherball", "aurasphere"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

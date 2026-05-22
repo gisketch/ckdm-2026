@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "friendly_m_teacher"
+name = "Friendly Teacher"
+title = "Friendly"
+gender = "male"
+archetype = "friendly"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "friendly/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 5
+maxLevel = 100
+team = [
+  { species = "cobblemon:weezing", level = 5, gender = "MALE", nature = "bold", ability = "neutralizinggas", moveset = ["shadowball", "sludgebomb"], heldItem = "['choice_band']", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:pikachu", level = 100, gender = "FEMALE", nature = "jolly", ability = "static", moveset = ["splash"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

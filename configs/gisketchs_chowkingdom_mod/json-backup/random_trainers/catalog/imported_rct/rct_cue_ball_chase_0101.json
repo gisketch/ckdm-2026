@@ -1,0 +1,65 @@
+{
+  "id": "rct_cue_ball_chase_0101",
+  "name": "Cue Ball Chase",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "tentacool",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "liquidooze",
+      "moveset": [
+        "sludge",
+        "bubblebeam",
+        "barrier",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacool",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "liquidooze",
+      "moveset": [
+        "sludge",
+        "bubblebeam",
+        "barrier",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "liquidooze",
+      "moveset": [
+        "acidspray",
+        "sludge",
+        "bubblebeam",
+        "barrier"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

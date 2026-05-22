@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_gs_x_peter"
+name = "Bird Keeper Gs Peter"
+title = "Bird Keeper Gs"
+gender = "any"
+archetype = "bird_keeper_gs"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bird_keeper_gs/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 6
+maxLevel = 8
+team = [
+  { species = "cobblemon:pidgey", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:spearow", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["That Badge! It’s from Violet City! You beat Falkner?", "I should train again at the Gym in Violet City."]

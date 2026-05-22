@@ -1,0 +1,72 @@
+{
+  "id": "rct_pokemon_breeder_albert_04e7",
+  "name": "Pok\u00e9mon Breeder Albert",
+  "title": "Pok\u00e9mon Breeder",
+  "gender": "any",
+  "archetype": "pok_mon_breeder",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_breeder/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:sudowoodo",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "woodhammer",
+        "flail",
+        "rockthrow",
+        "tearfullook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "megadrain",
+        "leechseed",
+        "magicalleaf",
+        "toxicspikes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "electroball",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

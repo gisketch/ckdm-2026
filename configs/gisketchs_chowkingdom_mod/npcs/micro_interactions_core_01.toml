@@ -5,6 +5,8 @@ source_ids = ["finn"]
 target_ids = ["shoumai"]
 line = "Shou Mai! What's for breakfast today? I'm starving!"
 response = "Same as yesterday, Finn. Porridge and bread. Eat up."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -16,6 +18,8 @@ source_ids = ["shoumai"]
 target_ids = ["finn"]
 line = "Finn, you ate three bowls already. Leave some for others."
 response = "But I'm a growing hero! I need energy."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -27,6 +31,8 @@ source_ids = ["aang"]
 target_ids = ["zuko"]
 line = "Zuko, want to join the morning patrol? The air is crisp."
 response = "Fine. But stay alert. We're not sightseeing."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -38,6 +44,8 @@ source_ids = ["zuko"]
 target_ids = ["aang"]
 line = "Aang, you're too relaxed. Keep your guard up."
 response = "I'm always ready. See that bird? No threat."
+source_emote = "threaten"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -49,6 +57,8 @@ source_ids = ["katara"]
 target_ids = ["toph"]
 line = "Toph, can you help me practice earthbending defense?"
 response = "Sure. Try to block this rock. Don't flinch."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -60,6 +70,8 @@ source_ids = ["toph"]
 target_ids = ["katara"]
 line = "Your stance is too wide, Katara. Narrow it up."
 response = "Like this? It feels odd but I trust you."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -71,6 +83,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["shoumai"]
 line = "Shou Mai, the league forms are piling up again."
 response = "I'll handle the tea. You handle the stamps."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -79,13 +93,13 @@ weight = 1.0
 id = "core01_008"
 topic = "town"
 source_ids = ["shoumai"]
+required_spawned_ids = ["finn"]
 target_ids = ["prof_chowfan"]
 line = "Professor, the market road needs repair. Who do we ask?"
 response = "I'll draft a request. Finn can carry the stone."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
-
-
 [[exchanges]]
 id = "core01_009"
 topic = "weather"
@@ -93,6 +107,8 @@ source_ids = ["aang"]
 target_ids = ["katara"]
 line = "Katara, feel that breeze? A storm is coming."
 response = "I sense it too. We should warn everyone."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -104,6 +120,8 @@ source_ids = ["katara"]
 target_ids = ["aang"]
 line = "The clouds are dark over the eastern ridge."
 response = "Let's fly up and check the wind patterns."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -115,6 +133,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["finn"]
 line = "Finn, your sword swing is wild. Focus on form."
 response = "I'll try, Professor. Show me again?"
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -126,6 +146,8 @@ source_ids = ["finn"]
 target_ids = ["prof_chowfan"]
 line = "Why does the league have so many rules?"
 response = "Rules keep order. Without them, chaos wins."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -137,6 +159,8 @@ source_ids = ["shoumai"]
 target_ids = ["toph"]
 line = "Toph, can you move that boulder blocking the well?"
 response = "Easy. Stand back. *thump* Done."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -148,6 +172,8 @@ source_ids = ["toph"]
 target_ids = ["shoumai"]
 line = "That well is old. I can sense cracks underground."
 response = "We'll patch it before winter. Thanks."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -159,6 +185,8 @@ source_ids = ["zuko"]
 target_ids = ["finn"]
 line = "Finn, stay close during patrol. No wandering."
 response = "I won't. Unless I see a cool squirrel."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -170,6 +198,8 @@ source_ids = ["finn"]
 target_ids = ["zuko"]
 line = "Zuko, why do you always frown? Patrol is fun."
 response = "It's not about fun. It's about duty."
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -181,6 +211,8 @@ source_ids = ["aang"]
 target_ids = ["toph"]
 line = "Toph, teach me to sense earth while flying."
 response = "You can't. Need ground contact. But I can try."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -192,6 +224,8 @@ source_ids = ["toph"]
 target_ids = ["aang"]
 line = "Twister, you need to touch dirt more. Land often."
 response = "I'll practice low glides. Thanks."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -203,6 +237,8 @@ source_ids = ["katara"]
 target_ids = ["shoumai"]
 line = "Shou Mai, the orphanage needs blankets."
 response = "I'll ask the weavers. We have wool stock."
+source_emote = "clap"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -214,6 +250,8 @@ source_ids = ["shoumai"]
 target_ids = ["katara"]
 line = "The children love your waterbending shows."
 response = "I'll do one this evening. They'll smile."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -225,6 +263,8 @@ source_ids = ["finn"]
 target_ids = ["aang"]
 line = "Aang, let's explore the old ruins north of town."
 response = "I'm in. Bring snacks and a rope."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -236,6 +276,8 @@ source_ids = ["aang"]
 target_ids = ["finn"]
 line = "We found a hidden chamber. What's inside?"
 response = "Dusty scrolls. Let's take them to the Professor."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -247,6 +289,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["zuko"]
 line = "Zuko, your mission report is thorough. Good work."
 response = "I included all enemy positions. No gaps."
+source_emote = "clap"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -258,6 +302,8 @@ source_ids = ["zuko"]
 target_ids = ["prof_chowfan"]
 line = "The south road is safe now. Bandits fled."
 response = "I'll update the map. Rest tonight."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -269,6 +315,8 @@ source_ids = ["katara"]
 target_ids = ["aang"]
 line = "Aang, remember to breathe when you feel rushed."
 response = "I know. Calm is my element too."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -280,6 +328,8 @@ source_ids = ["aang"]
 target_ids = ["katara"]
 line = "You're a great teacher, Katara. Patient and kind."
 response = "I learned from you. Balance is everything."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -291,6 +341,8 @@ source_ids = ["toph"]
 target_ids = ["shoumai"]
 line = "Shou Mai, the plaza fountain has a leak."
 response = "I'll call the plumber. Can you plug it for now?"
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -302,6 +354,8 @@ source_ids = ["shoumai"]
 target_ids = ["toph"]
 line = "Plugged with earth. It'll hold 'til evening."
 response = "Perfect. We'll have a proper fix tomorrow."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -313,6 +367,8 @@ source_ids = ["finn"]
 target_ids = ["katara"]
 line = "Katara, spotted smoke west of the farm."
 response = "Let's check. Could be a campfire."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -324,6 +380,8 @@ source_ids = ["katara"]
 target_ids = ["finn"]
 line = "It's just a farmer burning brush. All clear."
 response = "Good. My stomach was growling anyway."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -335,6 +393,8 @@ source_ids = ["zuko"]
 target_ids = ["katara"]
 line = "Katara, spar with me. I need fire vs water."
 response = "Ready. Don't hold back. I won't."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -346,6 +406,8 @@ source_ids = ["katara"]
 target_ids = ["zuko"]
 line = "Your fire is hotter today. Good control."
 response = "Your water is sharp. I respect that."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -357,6 +419,8 @@ source_ids = ["aang"]
 target_ids = ["finn"]
 line = "Finn, the kids want a race across the roofs."
 response = "I'm fastest. But you can fly. Cheater."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -368,6 +432,8 @@ source_ids = ["finn"]
 target_ids = ["aang"]
 line = "Let's race on foot. No glider."
 response = "Deal. Meet at the bell tower."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -376,24 +442,24 @@ weight = 1.0
 id = "core01_035"
 topic = "chores"
 source_ids = ["shoumai"]
+required_spawned_ids = ["finn"]
 target_ids = ["prof_chowfan"]
 line = "Professor, the library roof needs patching."
 response = "I'll get the ladder and tar. Finn can help."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
-
-
 [[exchanges]]
 id = "core01_036"
 topic = "chores"
 source_ids = ["prof_chowfan"]
+required_spawned_ids = ["finn"]
 target_ids = ["shoumai"]
 line = "Roof patched. Finn dropped three nails though."
 response = "I'll sweep them up. Safety first."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
-
-
 [[exchanges]]
 id = "core01_037"
 topic = "weather"
@@ -401,6 +467,8 @@ source_ids = ["toph"]
 target_ids = ["aang"]
 line = "I feel a change in the ground. Earthquake?"
 response = "No. Just heavy rain coming. The earth trembles."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -412,6 +480,8 @@ source_ids = ["aang"]
 target_ids = ["toph"]
 line = "You can feel rain through the ground? Amazing."
 response = "Vibrations. Water soaks and shifts soil."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -423,6 +493,8 @@ source_ids = ["zuko"]
 target_ids = ["finn"]
 line = "Finn, your temper is your weakness. Control it."
 response = "I'm trying. It's hard when people tease."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -434,6 +506,8 @@ source_ids = ["finn"]
 target_ids = ["zuko"]
 line = "You were angry once too, right?"
 response = "Yes. I learned to channel it. You can too."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -445,6 +519,8 @@ source_ids = ["toph"]
 target_ids = ["katara"]
 line = "Katara, I sense a cave system beneath the hill."
 response = "Let's map it. Could be a new route."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -456,6 +532,8 @@ source_ids = ["katara"]
 target_ids = ["toph"]
 line = "The cave leads to an underground lake."
 response = "Perfect for your waterbending practice."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -467,6 +545,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["aang"]
 line = "Aang, the league needs an air scout for the border."
 response = "I'll fly there now. Give me the route."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -478,6 +558,8 @@ source_ids = ["aang"]
 target_ids = ["prof_chowfan"]
 line = "Border is calm. No enemy movement seen."
 response = "Excellent. Return safely."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -489,6 +571,8 @@ source_ids = ["zuko"]
 target_ids = ["shoumai"]
 line = "Shou Mai, the market stalls are too crowded."
 response = "We'll reorganize tomorrow. More space."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -500,6 +584,8 @@ source_ids = ["shoumai"]
 target_ids = ["zuko"]
 line = "Thank you for keeping order during rush hour."
 response = "It's part of my duty. No thanks needed."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -511,6 +597,8 @@ source_ids = ["finn"]
 target_ids = ["toph"]
 line = "Toph, there's a suspicious cart near the gate."
 response = "I'll sense if it carries weapons. Hold."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -522,6 +610,8 @@ source_ids = ["toph"]
 target_ids = ["finn"]
 line = "It's just farm tools. Let it pass."
 response = "Sorry. I'm jumpy today."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -533,6 +623,8 @@ source_ids = ["katara"]
 target_ids = ["aang"]
 line = "Aang, let's practice air and water combo moves."
 response = "Spin the water with my air? Sounds fun."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -544,6 +636,8 @@ source_ids = ["aang"]
 target_ids = ["katara"]
 line = "The whirlwind water funnel works! Look."
 response = "Beautiful. Now bring it down gently."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -555,6 +649,8 @@ source_ids = ["shoumai"]
 target_ids = ["katara"]
 line = "Katara, the bakery needs water for dough."
 response = "I'll bend a clean stream to the mixer."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -566,6 +662,8 @@ source_ids = ["katara"]
 target_ids = ["shoumai"]
 line = "Done. The baker is happy. Fresh bread soon."
 response = "You're a blessing to this town."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -577,6 +675,8 @@ source_ids = ["zuko"]
 target_ids = ["finn"]
 line = "The heat is rising. I can feel a dry spell."
 response = "Good for drying clothes. Bad for crops."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -588,6 +688,8 @@ source_ids = ["finn"]
 target_ids = ["zuko"]
 line = "Can you make rain with fire? No."
 response = "Only the sky can. We adapt."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -599,6 +701,8 @@ source_ids = ["toph"]
 target_ids = ["zuko"]
 line = "Zuko, you stand too stiff. Loosen your hips."
 response = "Old habit. I'll work on it."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -610,6 +714,8 @@ source_ids = ["zuko"]
 target_ids = ["toph"]
 line = "You sense lies through the ground. Teach me."
 response = "Stand still. Feel the earth. It never lies."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -621,6 +727,8 @@ source_ids = ["aang"]
 target_ids = ["prof_chowfan"]
 line = "Professor, I found an old map in the ruins."
 response = "Bring it to my office. We'll decode it."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -632,6 +740,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["aang"]
 line = "This map shows a hidden shrine in the forest."
 response = "Let's gather a team and investigate."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -643,6 +753,8 @@ source_ids = ["finn"]
 target_ids = ["prof_chowfan"]
 line = "I finished the patrol logs. Where do I file?"
 response = "Blue drawer, third cabinet. Alphabetical."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -654,6 +766,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["finn"]
 line = "Your handwriting is terrible, Finn. Use print."
 response = "I'll try. Numbers are easier than letters."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -665,6 +779,8 @@ source_ids = ["toph"]
 target_ids = ["aang"]
 line = "Twister, the plaza sundial is crooked."
 response = "I'll fix it. A quick air blast should do."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -676,6 +792,8 @@ source_ids = ["aang"]
 target_ids = ["toph"]
 line = "Sundial is straight now. Thanks for noticing."
 response = "I feel every tilt. It bugged me."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -687,6 +805,8 @@ source_ids = ["katara"]
 target_ids = ["zuko"]
 line = "Zuko, I sense water near the east trail. Odd."
 response = "Could be a hidden spring. Let's check."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -698,6 +818,8 @@ source_ids = ["zuko"]
 target_ids = ["katara"]
 line = "It's a small spring. Fresh and clean."
 response = "We should mark it on the map."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -709,6 +831,8 @@ source_ids = ["finn"]
 target_ids = ["katara"]
 line = "Show me a water blade. I want to learn."
 response = "It takes control. Watch my hand."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -720,6 +844,8 @@ source_ids = ["katara"]
 target_ids = ["finn"]
 line = "Your form is too aggressive. Soften your grip."
 response = "Like holding a cup of tea?"
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -731,6 +857,8 @@ source_ids = ["aang"]
 target_ids = ["shoumai"]
 line = "Shou Mai, the children are playing in the mud."
 response = "Let them. It's good for the soul."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -742,6 +870,8 @@ source_ids = ["shoumai"]
 target_ids = ["aang"]
 line = "They look like happy little sparrows."
 response = "That's the spirit of our town."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -753,6 +883,8 @@ source_ids = ["zuko"]
 target_ids = ["prof_chowfan"]
 line = "Professor, the training dummies need repair."
 response = "I'll order new straw. Can you weld the frames?"
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -764,6 +896,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["zuko"]
 line = "Frames are fixed. Firebending is good for metal."
 response = "Agreed. It's not just for combat."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -775,6 +909,8 @@ source_ids = ["katara"]
 target_ids = ["toph"]
 line = "A storm will hit by midnight. I feel it."
 response = "I'll prepare the shelter. You handle rain."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -786,6 +922,8 @@ source_ids = ["toph"]
 target_ids = ["katara"]
 line = "Shelter is ready. Stone walls reinforced."
 response = "We'll ride it out together."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -797,6 +935,8 @@ source_ids = ["aang"]
 target_ids = ["zuko"]
 line = "Zuko, you've changed. I'm proud of you."
 response = "It took time. You helped me."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -808,6 +948,8 @@ source_ids = ["zuko"]
 target_ids = ["aang"]
 line = "You taught me patience. I won't forget."
 response = "We all learn from each other."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -819,6 +961,8 @@ source_ids = ["finn"]
 target_ids = ["toph"]
 line = "Toph, I heard there's a giant spider cave."
 response = "Giant? Sounds like fun. Let's go."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -830,6 +974,8 @@ source_ids = ["toph"]
 target_ids = ["finn"]
 line = "Cave is empty. Spider moved out."
 response = "Aww. At least we got a good hike."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -841,6 +987,8 @@ source_ids = ["shoumai"]
 target_ids = ["prof_chowfan"]
 line = "The league budget is due. Numbers ready?"
 response = "Almost. Need to account for repair costs."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -852,6 +1000,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["shoumai"]
 line = "I'll audit the food supply logs too."
 response = "Good. We can't run out of rations."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -863,6 +1013,8 @@ source_ids = ["katara"]
 target_ids = ["finn"]
 line = "Finn, stop doing cartwheels near the stalls."
 response = "But I'm practicing my agility!"
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -874,6 +1026,8 @@ source_ids = ["finn"]
 target_ids = ["katara"]
 line = "Fine. I'll move to the field."
 response = "Thank you. Mind the pots."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -885,6 +1039,8 @@ source_ids = ["aang"]
 target_ids = ["zuko"]
 line = "We should patrol the riverbank. Errosion risk."
 response = "Agreed. Natural border needs attention."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -896,6 +1052,8 @@ source_ids = ["zuko"]
 target_ids = ["aang"]
 line = "Riverbank stable. No sign of collapse."
 response = "Good. We'll monitor monthly."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -907,6 +1065,8 @@ source_ids = ["toph"]
 target_ids = ["finn"]
 line = "Finn, dodge this rock. I'll throw soft."
 response = "Whoa! That was not soft!"
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -918,6 +1078,8 @@ source_ids = ["finn"]
 target_ids = ["toph"]
 line = "You have great reflexes. Try blocking."
 response = "Show me how with earth."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -929,6 +1091,8 @@ source_ids = ["shoumai"]
 target_ids = ["zuko"]
 line = "Zuko, the blacksmith needs fire for the forge."
 response = "I'll lend a flame. Quick and hot."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -940,6 +1104,8 @@ source_ids = ["zuko"]
 target_ids = ["shoumai"]
 line = "Forge is running. New tools by dusk."
 response = "Excellent. The farmers will be happy."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -951,6 +1117,8 @@ source_ids = ["aang"]
 target_ids = ["prof_chowfan"]
 line = "The wind patterns show a cold front coming."
 response = "I'll alert the town. Stock firewood."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -962,6 +1130,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["aang"]
 line = "Elder Sifu said the cold will last a week."
 response = "We'll prepare blankets and herbs."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -973,6 +1143,8 @@ source_ids = ["katara"]
 target_ids = ["prof_chowfan"]
 line = "Professor, your lectures inspire many."
 response = "Knowledge is the sharpest blade."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -984,6 +1156,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["katara"]
 line = "And you teach compassion. A rare skill."
 response = "We all have our roles."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -995,6 +1169,8 @@ source_ids = ["aang"]
 target_ids = ["shoumai"]
 line = "Shou Mai, I found a baby sky bison. Orphan."
 response = "Oh no. Can you care for it?"
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1006,6 +1182,8 @@ source_ids = ["shoumai"]
 target_ids = ["aang"]
 line = "We'll raise it together. Name it Smokey."
 response = "Perfect. He follows me everywhere."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1017,6 +1195,8 @@ source_ids = ["toph"]
 target_ids = ["katara"]
 line = "League sent a new banner. It's ugly."
 response = "It's symbolic. Represents unity."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1028,6 +1208,8 @@ source_ids = ["katara"]
 target_ids = ["toph"]
 line = "I'll hang it in the hall anyway."
 response = "Fine. But I'm not saluting it."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1039,6 +1221,8 @@ source_ids = ["finn"]
 target_ids = ["shoumai"]
 line = "I won the arm wrestle contest at the plaza!"
 response = "Yes, you beat three farmers. Impressive."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1050,6 +1234,8 @@ source_ids = ["shoumai"]
 target_ids = ["finn"]
 line = "Don't get cocky. The blacksmith wants a rematch."
 response = "Bring it on! I'm unstoppable."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1061,6 +1247,8 @@ source_ids = ["zuko"]
 target_ids = ["toph"]
 line = "Toph, patrol the west ridge with me tonight."
 response = "Sure. I'll sense any movement in the dark."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1072,6 +1260,8 @@ source_ids = ["toph"]
 target_ids = ["zuko"]
 line = "No one is there. Ridge is quiet."
 response = "Good. We can head back early."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1083,6 +1273,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["aang"]
 line = "Aang, practice your air scooter with weights."
 response = "To improve balance? I'll try."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1094,6 +1286,8 @@ source_ids = ["aang"]
 target_ids = ["prof_chowfan"]
 line = "The weights made me slower but steadier."
 response = "That's the point. Speed will come."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1105,6 +1299,8 @@ source_ids = ["katara"]
 target_ids = ["finn"]
 line = "Finn, the town well needs a new bucket."
 response = "I'll carve one from oak. Be right back."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1116,6 +1312,8 @@ source_ids = ["finn"]
 target_ids = ["katara"]
 line = "Bucket is done. Hangs straight."
 response = "Well done. Now wash up."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1127,6 +1325,8 @@ source_ids = ["toph"]
 target_ids = ["prof_chowfan"]
 line = "Professor, your bookshelf collapsed again."
 response = "Sigh. Too many books. I'll sort them."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1138,6 +1338,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["toph"]
 line = "I'll build a sturdier shelf with metal brackets."
 response = "I'll hold the wood steady. Teamwork."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1149,6 +1351,8 @@ source_ids = ["zuko"]
 target_ids = ["katara"]
 line = "Katara, the fog is thick today. Visibility low."
 response = "I'll bend it away. Clear a path."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1160,6 +1364,8 @@ source_ids = ["katara"]
 target_ids = ["zuko"]
 line = "Fog cleared. The sun is breaking through."
 response = "Good. I dislike blind patrols."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1171,6 +1377,8 @@ source_ids = ["shoumai"]
 target_ids = ["toph"]
 line = "Toph, you have a good heart. Don't hide it."
 response = "Ew. Feelings. But thanks."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1182,6 +1390,8 @@ source_ids = ["toph"]
 target_ids = ["shoumai"]
 line = "Your cooking is the best in town."
 response = "Flattery will get you extra pie."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1193,6 +1403,8 @@ source_ids = ["finn"]
 target_ids = ["aang"]
 line = "Let's climb the tallest peak before sunset."
 response = "Race you there. No cheating."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1204,6 +1416,8 @@ source_ids = ["aang"]
 target_ids = ["finn"]
 line = "You're fast on foot. I barely won."
 response = "You flew the last stretch. Cheater."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1215,6 +1429,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["finn"]
 line = "Finn, deliver this scroll to the outpost."
 response = "On it. Fastest messenger alive."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1226,6 +1442,8 @@ source_ids = ["finn"]
 target_ids = ["prof_chowfan"]
 line = "Scroll delivered. Outpost captain signed."
 response = "Good. Take a break."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1237,6 +1455,8 @@ source_ids = ["aang"]
 target_ids = ["katara"]
 line = "The plaza needs flowers. Let's plant some."
 response = "I'll bring water. You dig holes."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1248,6 +1468,8 @@ source_ids = ["katara"]
 target_ids = ["aang"]
 line = "Sunflowers and daisies. Bright colors."
 response = "They'll bloom in a week."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1259,6 +1481,8 @@ source_ids = ["finn"]
 target_ids = ["katara"]
 line = "I saw a shadow near the old mill."
 response = "Probably a stray dog. We'll check anyway."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1270,6 +1494,8 @@ source_ids = ["katara"]
 target_ids = ["finn"]
 line = "It was a deer. No threat."
 response = "Cute. I wish it stayed."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1281,6 +1507,8 @@ source_ids = ["zuko"]
 target_ids = ["aang"]
 line = "Aang, train your lightning redirection again."
 response = "I remember the move. Show me once more."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1292,6 +1520,8 @@ source_ids = ["aang"]
 target_ids = ["zuko"]
 line = "I got it. Redirected cleanly."
 response = "Perfect. You're ready."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1303,6 +1533,8 @@ source_ids = ["shoumai"]
 target_ids = ["toph"]
 line = "The new sign for the inn is crooked."
 response = "I'll fix it. Just a nudge."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1314,6 +1546,8 @@ source_ids = ["toph"]
 target_ids = ["shoumai"]
 line = "Sign is straight now. Readable from afar."
 response = "Perfect. Thanks."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1325,6 +1559,8 @@ source_ids = ["katara"]
 target_ids = ["aang"]
 line = "Help me carry these water jugs to the clinic."
 response = "I'll take two on my glider."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1336,6 +1572,8 @@ source_ids = ["aang"]
 target_ids = ["katara"]
 line = "Jugs delivered. The healer is grateful."
 response = "Good. Clean water saves lives."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1347,6 +1585,8 @@ source_ids = ["finn"]
 target_ids = ["zuko"]
 line = "A storm is rolling in. Sky turned green."
 response = "We need to secure all loose items."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1358,6 +1598,8 @@ source_ids = ["zuko"]
 target_ids = ["finn"]
 line = "Everything tied down. Ready for the storm."
 response = "I'll light a fire. Stay warm."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1369,6 +1611,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["katara"]
 line = "You have a gift for leadership. Consider teaching."
 response = "I will. The next generation needs guidance."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1380,6 +1624,8 @@ source_ids = ["katara"]
 target_ids = ["prof_chowfan"]
 line = "And you have patience for paperwork."
 response = "Someone has to organize the chaos."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1391,6 +1637,8 @@ source_ids = ["toph"]
 target_ids = ["zuko"]
 line = "There's a underground river beneath the forest."
 response = "Let's explore it. Could be a shortcut."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1402,6 +1650,8 @@ source_ids = ["zuko"]
 target_ids = ["toph"]
 line = "The river leads to a crystal cave."
 response = "Shiny. We'll tell the Professor later."
+source_emote = "lookout"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -1413,6 +1663,8 @@ source_ids = ["aang"]
 target_ids = ["katara"]
 line = "The league wants me to lead a patrol group."
 response = "You'd be great. Fair and calm."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1424,6 +1676,8 @@ source_ids = ["katara"]
 target_ids = ["aang"]
 line = "I'll be your second. Together we're strong."
 response = "Best team ever."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1435,6 +1689,8 @@ source_ids = ["zuko"]
 target_ids = ["finn"]
 line = "Finn, don't climb the statue. It's disrespectful."
 response = "But the view is great from up there."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1446,6 +1702,8 @@ source_ids = ["finn"]
 target_ids = ["zuko"]
 line = "Fine. I'll just look from the ground."
 response = "Good choice."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1457,6 +1715,8 @@ source_ids = ["shoumai"]
 target_ids = ["aang"]
 line = "Aang, can you patrol the east road? I'm busy."
 response = "Sure. I'll take Appa. Fast trip."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1468,6 +1728,8 @@ source_ids = ["aang"]
 target_ids = ["shoumai"]
 line = "East road clear. No bandits."
 response = "Thanks. I owe you tea."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1479,6 +1741,8 @@ source_ids = ["toph"]
 target_ids = ["katara"]
 line = "Katara, try to freeze a moving target."
 response = "Like a stone you throw? I'll try."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1490,6 +1754,8 @@ source_ids = ["katara"]
 target_ids = ["toph"]
 line = "Got it. The stone is frozen midair."
 response = "Impressive. Fast reflexes."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1501,6 +1767,8 @@ source_ids = ["finn"]
 target_ids = ["prof_chowfan"]
 line = "Professor, the library has a new book on dragons."
 response = "Put it on my desk. I'll read tonight."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1512,6 +1780,8 @@ source_ids = ["prof_chowfan"]
 target_ids = ["finn"]
 line = "Dragons are rare now. Interesting lore."
 response = "I want to see a real one someday."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1523,6 +1793,8 @@ source_ids = ["shoumai"]
 target_ids = ["katara"]
 line = "Katara, the rain is flooding the lower fields."
 response = "I'll divert the water to the reservoir."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1534,5 +1806,7 @@ source_ids = ["katara"]
 target_ids = ["shoumai"]
 line = "Fields are safe now. Water stored."
 response = "You saved the harvest. Thank you."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 

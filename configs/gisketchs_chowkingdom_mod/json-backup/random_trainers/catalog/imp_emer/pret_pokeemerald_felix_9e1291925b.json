@@ -1,0 +1,51 @@
+{
+  "id": "pret_pokeemerald_felix",
+  "name": "Cooltrainer Felix",
+  "title": "Cooltrainer",
+  "gender": "any",
+  "archetype": "cooltrainer",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "cooltrainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:medicham",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:claydol",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "skillswap",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainer Felix is ready for a battle."
+  ]
+}

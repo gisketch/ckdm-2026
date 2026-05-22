@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_lass_013_connie",
+  "name": "Lass Connie",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:marill",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Connie is ready for a battle."
+  ]
+}

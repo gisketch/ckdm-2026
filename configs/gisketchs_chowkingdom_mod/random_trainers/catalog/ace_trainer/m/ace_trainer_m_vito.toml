@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_vito"
+name = "Ace Trainer Vito"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:dodrio", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shiftry", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Vito is ready for a battle."]

@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeemerald_george",
+  "name": "Cooltrainer George",
+  "title": "Cooltrainer",
+  "gender": "any",
+  "archetype": "cooltrainer",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "cooltrainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:slakoth",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "slackoff",
+        "counter",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainer George is ready for a battle."
+  ]
+}

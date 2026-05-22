@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_mymo_023e",
+  "name": "Swimmer\u2642 Mymo",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:kingler",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "hypercutter",
+      "moveset": [
+        "metalclaw",
+        "stomp",
+        "slash",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wartortle",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "skullbash",
+        "irondefense",
+        "raindance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

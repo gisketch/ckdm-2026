@@ -1,0 +1,40 @@
+{
+  "id": "rct_jogger_scott_034a",
+  "name": "Jogger Scott",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "jogger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:staravia",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "wingattack",
+        "endeavor",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

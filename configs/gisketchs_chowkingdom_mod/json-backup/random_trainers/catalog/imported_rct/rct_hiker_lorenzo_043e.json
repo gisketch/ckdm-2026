@@ -1,0 +1,33 @@
+{
+  "id": "rct_hiker_lorenzo_043e",
+  "name": "Hiker Lorenzo",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "onix",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "bind",
+        "rockthrow",
+        "smackdown",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

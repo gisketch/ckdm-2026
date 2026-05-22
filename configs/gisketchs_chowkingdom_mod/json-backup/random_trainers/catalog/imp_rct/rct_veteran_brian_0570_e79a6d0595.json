@@ -1,0 +1,72 @@
+{
+  "id": "rct_veteran_brian_0570",
+  "name": "Veteran Brian",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:floatzel",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "crunch",
+        "growl",
+        "tailwhip",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "astonish",
+        "stomp",
+        "crunch",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "knockoff",
+        "dualchop",
+        "seismictoss"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

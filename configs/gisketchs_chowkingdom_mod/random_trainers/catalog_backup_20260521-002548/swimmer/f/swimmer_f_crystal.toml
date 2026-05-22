@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_crystal"
+name = "Swimmer Crystal"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 56
+maxLevel = 59
+team = [
+  { species = "cobblemon:wailmer", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Female Crystal is ready for a battle.", "Your Pokémon doesn’t seem to be tiring at all from carrying you on its back. Let me see how strong it is!", "While floating here, I think about everything and nothing. Like how I should battle next, and what’s for dinner tomorrow, and..."]

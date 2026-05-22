@@ -1,0 +1,113 @@
+{
+  "id": "rct_sinnoh_leader_candice_rematch_05e9",
+  "name": "Sinnoh Leader Candice",
+  "title": "Sinnoh Leader Candice",
+  "gender": "any",
+  "archetype": "sinnoh_leader_candice",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 71,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "abomasnow",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "snowwarning",
+      "moveset": [
+        "blizzard",
+        "gigadrain",
+        "earthquake",
+        "auroraveil"
+      ],
+      "heldItem": "mega_showdown:abomasite assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "snowcloak",
+      "moveset": [
+        "blizzard",
+        "shadowball",
+        "hail",
+        "auroraveil"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "tripleaxel",
+        "nightslash",
+        "brickbreak",
+        "iceshard"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glaceon",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "snowcloak",
+      "moveset": [
+        "blizzard",
+        "shadowball",
+        "signalbeam",
+        "waterpulse"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mamoswine",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "snowcloak",
+      "moveset": [
+        "iciclecrash",
+        "earthquake",
+        "superpower",
+        "stoneedge"
+      ],
+      "heldItem": "salac_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jynx",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "icescales",
+      "moveset": [
+        "blizzard",
+        "psychic",
+        "focusblast",
+        "lovelykiss"
+      ],
+      "heldItem": "wide_lens",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

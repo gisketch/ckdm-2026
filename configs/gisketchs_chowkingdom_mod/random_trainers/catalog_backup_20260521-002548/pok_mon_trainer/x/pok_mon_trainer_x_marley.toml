@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_trainer_x_marley"
+name = "Pok Mon Trainer Marley"
+title = "Pok Mon Trainer"
+gender = "any"
+archetype = "pok_mon_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_trainer/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:arcanine", level = 57, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["burnup", "helpinghand", "leer", "howl"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

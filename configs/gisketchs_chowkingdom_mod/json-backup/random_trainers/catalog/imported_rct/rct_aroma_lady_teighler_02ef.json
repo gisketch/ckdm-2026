@@ -1,0 +1,48 @@
+{
+  "id": "rct_aroma_lady_teighler_02ef",
+  "name": "Aroma Lady Teighler",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "budew",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cherubi",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "morningsun",
+        "tackle",
+        "leafage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

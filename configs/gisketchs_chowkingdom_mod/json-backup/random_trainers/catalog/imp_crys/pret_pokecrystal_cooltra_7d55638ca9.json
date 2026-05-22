@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_cooltrainerf_013_carol",
+  "name": "Cooltrainerf Carol",
+  "title": "Cooltrainerf",
+  "gender": "any",
+  "archetype": "cooltrainerf",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "cooltrainerf/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninetales",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerf Carol is ready for a battle."
+  ]
+}

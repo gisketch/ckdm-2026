@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_dave"
+name = "Youngster Dave"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:nidorino", level = 25, gender = "MALE", nature = "sassy", ability = "poisontouch", moveset = ["doublekick", "poisonsting", "furyattack", "hornattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golett", level = 25, gender = "GENDERLESS", nature = "gentle", ability = "ironfist", moveset = ["shadowpunch", "irondefense", "stompingtantrum", "megapunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Dave is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

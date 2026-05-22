@@ -1,0 +1,49 @@
+{
+  "id": "rct_friendly_thug_0016",
+  "name": "Friendly Thug",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "salamence",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "frustration",
+        "facade",
+        "flamethrower",
+        "roost"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "heavyslam",
+        "rockslide",
+        "dragonclaw",
+        "dragontail"
+      ],
+      "heldItem": "mega_showdown:aggronite iron_ball",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_sandra",
+  "name": "Ace Trainer Female Sandra",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninetales",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When eyes meet... That\u2019s when a battle starts!",
+    "I suddenly remembered what it was like when I had my first battle. I wonder why that would be?"
+  ]
+}

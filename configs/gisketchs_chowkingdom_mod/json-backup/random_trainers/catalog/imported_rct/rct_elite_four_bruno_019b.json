@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_bruno_019b",
+  "name": "Bruno",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "onix",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "rocktomb",
+        "irontail",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmonchan",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "ironfist",
+      "moveset": [
+        "skyuppercut",
+        "machpunch",
+        "rocktomb",
+        "counter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmonlee",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "reckless",
+      "moveset": [
+        "megakick",
+        "foresight",
+        "brickbreak",
+        "facade"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "sturdy",
+      "moveset": [
+        "doubleedge",
+        "earthquake",
+        "irontail",
+        "sandtomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machamp",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "noguard",
+      "moveset": [
+        "crosschop",
+        "bulkup",
+        "scaryface",
+        "rocktomb"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

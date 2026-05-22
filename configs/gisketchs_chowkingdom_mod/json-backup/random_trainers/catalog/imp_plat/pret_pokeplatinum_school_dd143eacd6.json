@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_school_kid_tiera",
+  "name": "School Kid Female Tiera",
+  "title": "School Kid Female",
+  "gender": "female",
+  "archetype": "school_kid_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "school_kid_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.86,
+  "weight": 0.87,
+  "bustStyle": "standard",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lastresort",
+        "superfang",
+        "discharge",
+        "sweetkiss"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Can you make it to the Gym Leader? You sure now?",
+    "Our Gym\u2019s trick walkways are sure to make your head spin!"
+  ]
+}

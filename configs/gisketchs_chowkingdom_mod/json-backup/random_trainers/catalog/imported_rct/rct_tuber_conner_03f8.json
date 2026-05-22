@@ -1,0 +1,33 @@
+{
+  "id": "rct_tuber_conner_03f8",
+  "name": "Tuber Conner",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "remoraid",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "sniper",
+      "moveset": [
+        "focusenergy",
+        "bulletseed",
+        "hydropump",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

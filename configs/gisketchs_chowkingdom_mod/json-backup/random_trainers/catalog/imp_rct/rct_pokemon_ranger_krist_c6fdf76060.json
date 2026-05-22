@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemon_ranger_krista_04bd",
+  "name": "Pok\u00e9mon Ranger Krista",
+  "title": "Pok\u00e9mon Ranger",
+  "gender": "any",
+  "archetype": "pok_mon_ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.14,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:trapinch",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hypercutter",
+      "moveset": [
+        "crunch",
+        "sandtomb",
+        "dig",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vibrava",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "supersonic",
+        "bugbuzz",
+        "earthpower",
+        "dragonbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

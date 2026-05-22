@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tamer_x_vincent"
+name = "Tamer Vincent"
+title = "Tamer"
+gender = "any"
+archetype = "tamer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "tamer/any"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 1
+bustStyle = ""
+minLevel = 80
+maxLevel = 81
+team = [
+  { species = "cobblemon:persian", level = 80, gender = "FEMALE", nature = "serious", ability = "technician", moveset = ["assurance", "captivate", "nightslash", "feint"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 81, gender = "FEMALE", nature = "bashful", ability = "cloudnine", moveset = ["psychup", "nastyplot", "hydropump", "wonderroom"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Tamer Vincent is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

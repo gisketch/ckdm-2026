@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0432_school_kid_male_alan",
+  "name": "School Kid Male Alan",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:tangela",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:yanma",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "School Kid Male Alan is ready for a battle."
+  ]
+}

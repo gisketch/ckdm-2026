@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_josh_005b",
+  "name": "Youngster Josh",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "wooloo",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "fluffy",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "copycat",
+        "guardsplit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rockruff",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "leer",
+        "bite",
+        "howl",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "noibat",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "frisk",
+      "moveset": [
+        "megadrain",
+        "leechlife",
+        "dragonbreath",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

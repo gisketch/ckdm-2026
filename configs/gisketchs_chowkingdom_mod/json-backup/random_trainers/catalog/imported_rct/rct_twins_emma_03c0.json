@@ -1,0 +1,33 @@
+{
+  "id": "rct_twins_emma_03c0",
+  "name": "Twin Emma",
+  "title": "Twins",
+  "gender": "any",
+  "archetype": "twins",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "bonsly",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "faketears",
+        "copycat",
+        "flail",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

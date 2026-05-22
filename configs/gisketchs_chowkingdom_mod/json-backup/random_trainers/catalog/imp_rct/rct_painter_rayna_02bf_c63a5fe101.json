@@ -1,0 +1,40 @@
+{
+  "id": "rct_painter_rayna_02bf",
+  "name": "Painter Rayna",
+  "title": "Painter",
+  "gender": "any",
+  "archetype": "painter",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "painter/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:smeargle",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "technician",
+      "moveset": [
+        "crosschop",
+        "megahorn",
+        "doubleedge",
+        "selfdestruct"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

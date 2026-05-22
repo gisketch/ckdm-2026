@@ -1,0 +1,33 @@
+{
+  "id": "rct_dragon_tamer_patrick_0322",
+  "name": "Dragon Tamer Patrick",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "gible",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "bulldoze",
+        "bite",
+        "dragonclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

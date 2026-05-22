@@ -1,0 +1,56 @@
+{
+  "id": "rct_shadow_grunt_w_marlon_1_05b9",
+  "name": "Shadow Grunt",
+  "title": "Shadow",
+  "gender": "any",
+  "archetype": "shadow",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "shadow/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:sableye",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "nightshade",
+        "fakeout",
+        "willowisp",
+        "torment"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shiftry",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "pickpocket",
+      "moveset": [
+        "leaftornado",
+        "suckerpunch",
+        "extrasensory",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

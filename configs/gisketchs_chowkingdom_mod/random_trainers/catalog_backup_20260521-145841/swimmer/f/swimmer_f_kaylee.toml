@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_kaylee"
+name = "Swimmer Kaylee"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto;Hoenn"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeemerald;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 18
+maxLevel = 20
+team = [
+  { species = "cobblemon:goldeen", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "hornattack", "supersonic", "peck"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "hornattack", "supersonic", "peck"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "hornattack", "supersonic", "peck"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Kaylee is ready for a battle.", "Swimmer Female Kaylee is ready for a battle.", "I’m on my way to the Whirl Islands. I’m going exploring with friends.", "There’s supposed to be a big Pokémon deep beneath the Whirl Islands. I wonder what it could be?"]

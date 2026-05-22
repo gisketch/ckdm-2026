@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_flint_05a0",
+  "name": "Flint",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 73,
+  "team": [
+    {
+      "species": "houndoom",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "unnerve",
+      "moveset": [
+        "flamethrower",
+        "darkpulse",
+        "destinybond",
+        "nastyplot"
+      ],
+      "heldItem": "wise_glasses",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flareon",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "flashfire",
+      "moveset": [
+        "flareblitz",
+        "flail",
+        "willowisp",
+        "quickattack"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flamebody",
+      "moveset": [
+        "flareblitz",
+        "irontail",
+        "poisonjab",
+        "hypnosis"
+      ],
+      "heldItem": "wide_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "infernape",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "firepunch",
+        "thunderpunch",
+        "closecombat",
+        "machpunch"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magmortar",
+      "level": 73,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "fireblast",
+        "thunderbolt",
+        "focusblast",
+        "psychic"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

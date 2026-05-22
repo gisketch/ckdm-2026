@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_quinn"
+name = "Ace Trainer Quinn"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 55
+maxLevel = 56
+team = [
+  { species = "cobblemon:pinsir", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["superpower", "xscissor", "swordsdance", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["discharge", "signalbeam", "surf", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve pumped up my gang till they can’t get pumped no more. They’re going to school your Pokémon!", "I fed my gang Protein, Carbos... You name it, I pumped ’em full of it."]

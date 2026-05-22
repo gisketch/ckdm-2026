@@ -1,0 +1,46 @@
+{
+  "id": "rct_bug_catcher_donald_037e",
+  "name": "Bug Catcher Donald",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "burmy",
+      "level": 12,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "shedskin",
+      "moveset": [
+        "protect",
+        "tackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kricketune",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "furycutter",
+        "growl",
+        "pound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

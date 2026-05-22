@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_dragon_tamer_hayden",
+  "name": "Dragon Tamer Hayden",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:altaria",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My dragon Pok\u00e9mon chose to become powerful here. They sure like it!",
+    "It\u2019s been several years since I left the Dragon\u2019s Den. I\u2019ve got to say, your Pok\u00e9mon are in the top class for toughness."
+  ]
+}

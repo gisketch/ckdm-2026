@@ -1,0 +1,56 @@
+{
+  "id": "rct_juggler_nate_0125",
+  "name": "Juggler Nate",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:skuntank",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "stench",
+      "moveset": [
+        "venomdrench",
+        "suckerpunch",
+        "belch",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

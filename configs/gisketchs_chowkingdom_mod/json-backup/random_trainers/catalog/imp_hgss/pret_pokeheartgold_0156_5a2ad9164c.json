@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0156_black_belt_yoshi",
+  "name": "Black Belt Yoshi",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:hitmonlee",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doublekick",
+        "meditate",
+        "jumpkick",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My Pok\u00e9mon and I are bound together by friendship. Our bond will never be broken!",
+    "You seem to have a strong bond with your Pok\u00e9mon, too!"
+  ]
+}

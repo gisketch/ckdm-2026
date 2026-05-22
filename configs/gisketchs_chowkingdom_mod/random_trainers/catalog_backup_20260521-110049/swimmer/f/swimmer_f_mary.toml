@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_mary"
+name = "Swimmer Mary"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto;Sinnoh"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 30
+maxLevel = 32
+team = [
+  { species = "cobblemon:marill", level = 32, gender = "FEMALE", nature = "bashful", ability = "thickfat", moveset = ["tailwhip", "bubblebeam", "playrough", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 30, gender = "FEMALE", nature = "bold", ability = "drizzle", moveset = ["airslash", "growl", "wingattack", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Mary is ready for a battle.", "Hello, there! Aren’t you going to swim?", "There aren’t many sea routes that you can swim in Sinnoh. It makes me want to take a vacation in the Hoenn region.", "I have trained this team for the road. Challenge me if you are ready."]

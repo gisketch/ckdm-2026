@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_m_brendon"
+name = "Worker Brendon"
+title = "Worker"
+gender = "male"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 29
+maxLevel = 33
+team = [
+  { species = "cobblemon:onix", level = 29, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["curse", "rockslide", "screech", "sandtomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:steelix", level = 33, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["crunch", "thunderfang", "icefang", "rockslide"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey! This is no playground! If you’re gonna play, battle me!", "They were going to close this place up so no one could get in. But, they left it open so people and Pokémon can get together here.", "I have trained this team for the road. Challenge me if you are ready."]

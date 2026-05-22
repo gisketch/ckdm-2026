@@ -1,0 +1,40 @@
+{
+  "id": "rct_engineer_braxton_00dd",
+  "name": "Engineer Braxton",
+  "title": "Engineer",
+  "gender": "any",
+  "archetype": "engineer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "engineer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:yamper",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "pickup",
+      "moveset": [
+        "bite",
+        "roar",
+        "spark",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

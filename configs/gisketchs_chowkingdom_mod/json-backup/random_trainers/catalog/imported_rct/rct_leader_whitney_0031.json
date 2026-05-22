@@ -1,0 +1,97 @@
+{
+  "id": "rct_leader_whitney_0031",
+  "name": "Whitney",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "wigglytuff",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "moveset": [
+        "drainpunch",
+        "firepunch",
+        "lovelykiss",
+        "playrough"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vigoroth",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "vitalspirit",
+      "moveset": [
+        "bulkup",
+        "slackoff",
+        "bodyslam",
+        "knockoff"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "miltank",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "bodypress",
+        "stompingtantrum",
+        "milkdrink"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "indeedee",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "psychicsurge",
+      "moveset": [
+        "psyshock",
+        "hypervoice",
+        "mysticalfire",
+        "drainingkiss"
+      ],
+      "heldItem": "twisted_spoon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drampa",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "berserk",
+      "moveset": [
+        "dragonbreath",
+        "roost",
+        "flamethrower",
+        "thunderbolt"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

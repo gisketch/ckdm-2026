@@ -1,0 +1,69 @@
+{
+  "id": "pret_pokeheartgold_0309_biker_dwayne",
+  "name": "Biker Dwayne",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We\u2019re the Kanto Pok\u00e9mon Federation Trainer group. We\u2019ll drive you under our wheels!",
+    "The Kanto Pok\u00e9mon Federation will never fall!"
+  ]
+}

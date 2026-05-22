@@ -1,0 +1,56 @@
+{
+  "id": "rct_poke_kid_ariel_0444",
+  "name": "Pok\u00e9 Kid Ariel",
+  "title": "Pok\u00e9 Kid",
+  "gender": "any",
+  "archetype": "pok_kid",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_kid/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "thundershock",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nastyplot",
+        "thundershock",
+        "doubleteam",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

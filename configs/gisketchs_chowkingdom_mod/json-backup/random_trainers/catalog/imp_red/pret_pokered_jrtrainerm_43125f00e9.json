@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_jrtrainerm_007",
+  "name": "Jrtrainerm Eli",
+  "title": "Jrtrainerm",
+  "gender": "any",
+  "archetype": "jrtrainerm",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "jrtrainerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:growlithe",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:charmander",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Jrtrainerm from Route 9 is ready for a battle."
+  ]
+}

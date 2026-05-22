@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_beau"
+name = "Camper Beau"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "mid"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:baltoy", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rapidspin", "mudslap", "psybeam", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandshrew", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["poisonsting", "sandattack", "scratch", "dig"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:baltoy", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rapidspin", "mudslap", "psybeam", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Beau is ready for a battle."]

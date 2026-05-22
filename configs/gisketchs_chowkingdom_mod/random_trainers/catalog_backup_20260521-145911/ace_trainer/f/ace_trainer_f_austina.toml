@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_austina"
+name = "Ace Trainer Austina"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = "standard"
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:rhyhorn", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["horndrill", "rockblast", "scaryface", "stomp"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorina", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["doublekick", "furyswipes", "bite", "flatter"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoqueen", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bodyslam", "doublekick", "bite", "growl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorino", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hornattack", "poisonsting", "focusenergy", "leer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoking", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thrash", "doublekick", "poisonsting", "peck"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Austina is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

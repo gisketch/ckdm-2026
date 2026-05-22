@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_berke_018f",
+  "name": "Ace Trainer Berke",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:seel",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "hydration",
+      "moveset": [
+        "takedown",
+        "aurorabeam",
+        "icywind",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "sturdy",
+      "moveset": [
+        "rockblast",
+        "magnitude",
+        "rockthrow",
+        "mudsport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "battlearmor",
+      "moveset": [
+        "guillotine",
+        "stomp",
+        "mudshot",
+        "bubble"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "slam",
+        "sandstorm",
+        "dragonbreath",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "skilllink",
+      "moveset": [
+        "spikecannon",
+        "aurorabeam",
+        "supersonic",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

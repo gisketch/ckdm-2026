@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_cristin"
+name = "Ace Trainer Cristin"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:spinda", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:exploud", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slaking", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Cristin is ready for a battle."]

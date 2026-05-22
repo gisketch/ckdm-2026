@@ -31,11 +31,10 @@ npc_interaction_messages = ["Judging {other}'s life choices. Kindly.", "Discussi
 # Config value: work_blocks.
 work_blocks = [
   { id = "minecraft:loom", count = 1, display_name = "loom" },
-  { id = "minecraft:chest", count = 1, display_name = "wardrobe chest" },
-  { id = "minecraft:barrel", count = 1, display_name = "fabric barrel" },
-  { id = "minecraft:item_frame", count = 2, display_name = "item frames" },
-  { id = "minecraft:blue_ice", count = 2, display_name = "blue ice display blocks" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "cluttered:china_cabinet", count = 1, display_name = "boutique cabinet" },
+  { id = "supplementaries:item_shelf", count = 1, display_name = "cosmetic shelf" },
+  { id = "another_furniture:magenta_lamp", count = 1, display_name = "showroom lamp" },
+  { id = "cluttered:basket_of_flowers", count = 1, display_name = "counter flowers" },
 ]
 
 [boss]
@@ -290,4 +289,5 @@ pool = [
   { id = "shoumai_food_dumplings", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Dumplings And Bring It Back", quest_text = "Cook dumplings after I ask; good style still needs good food.", pass_id = "cozy", xp = 85, chowcoins = 60, goal = 2, fetch_item = "farmersdelight:dumplings", fetch_count = 2, filters = { item = "farmersdelight:dumplings" }, weight = 10 },
   { id = "shoumai_fetch_blue_ice", category = "fetch", event_desc = "Bring {goal} Blue Ice", quest_text = "Bring blue ice for a bright display request.", pass_id = "cozy", xp = 70, chowcoins = 50, fetch_item = "minecraft:blue_ice", fetch_count = 4, weight = 8 },
   { id = "shoumai_quiz_style_gifts_and_shop_etiquette", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Shou Mai's quiz about gifts, style, and manners.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "style gifts and shop etiquette", weight = 10 },
+  { id = "shoumai_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Shou Mai", quest_text = "Shou Mai has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
 ]

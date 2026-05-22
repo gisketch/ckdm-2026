@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_lao"
+name = "Black Belt Lao"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:hitmonchan", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = ["machpunch", "thunderpunch", "icepunch", "firepunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We martial artists fear nothing!", "Fighting-type Pokémon are afraid of Psychic types..."]

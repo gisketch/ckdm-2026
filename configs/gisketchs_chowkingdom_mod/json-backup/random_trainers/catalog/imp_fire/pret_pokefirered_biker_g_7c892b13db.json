@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokefirered_biker_goon_2",
+  "name": "Biker Goon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "haze",
+        "smokescreen",
+        "sludge",
+        "tackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Biker Goon is ready for a battle."
+  ]
+}

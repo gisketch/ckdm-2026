@@ -1,0 +1,78 @@
+{
+  "id": "rct_beauty_lola_010c",
+  "name": "Beauty Lola",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 88,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:cherrim",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flowergift",
+      "moveset": [
+        "petalblizzard",
+        "safeguard",
+        "xscissor",
+        "return"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:venusaur",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "petalblizzard",
+        "safeguard",
+        "earthpower",
+        "weatherball"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:florges",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "naturalcure",
+      "moveset": [
+        "petalblizzard",
+        "moonblast",
+        "safeguard",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

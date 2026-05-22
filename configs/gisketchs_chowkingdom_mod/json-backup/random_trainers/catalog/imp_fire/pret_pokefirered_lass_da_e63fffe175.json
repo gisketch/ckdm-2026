@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokefirered_lass_dalia",
+  "name": "Lass Dalia",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 46,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:hoppip",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hoppip",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Dalia is ready for a battle."
+  ]
+}

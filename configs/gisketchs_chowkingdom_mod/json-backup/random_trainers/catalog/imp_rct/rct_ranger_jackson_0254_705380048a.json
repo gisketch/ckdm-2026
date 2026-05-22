@@ -1,0 +1,72 @@
+{
+  "id": "rct_ranger_jackson_0254",
+  "name": "Ranger Jackson",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.07,
+  "weight": 1.12,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:tangela",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "leafguard",
+      "moveset": [
+        "slam",
+        "megadrain",
+        "bind",
+        "ingrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "chlorophyll",
+      "moveset": [
+        "confusion",
+        "poisonpowder",
+        "barrage",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggutor",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "chlorophyll",
+      "moveset": [
+        "confusion",
+        "eggbomb",
+        "sleeppowder",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

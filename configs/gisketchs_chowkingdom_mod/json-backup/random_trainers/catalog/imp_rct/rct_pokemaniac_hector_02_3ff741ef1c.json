@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemaniac_hector_02cc",
+  "name": "Pok\u00e9maniac Hector",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:rhydon",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "stoneedge",
+        "earthquake",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "earlybird",
+      "moveset": [
+        "endure",
+        "outrage",
+        "suckerpunch",
+        "reversal"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

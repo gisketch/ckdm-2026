@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_jody"
+name = "Swimmer Jody"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:seaking", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Jody is ready for a battle."]

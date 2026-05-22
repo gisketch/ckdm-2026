@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_sid"
+name = "Camper Sid"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "mid"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 40
+maxLevel = 43
+team = [
+  { species = "cobblemon:dugtrio", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:primeape", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwrath", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Sid is ready for a battle.", "Hey, you! Don’t litter!", "Sorry. You weren’t littering. It was my mistake."]

@@ -1,0 +1,33 @@
+{
+  "id": "rct_picnicker_ana_0442",
+  "name": "Picnicker Ana",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "meditite",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "purepower",
+      "moveset": [
+        "pound",
+        "lowkick",
+        "confusion",
+        "forcepalm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

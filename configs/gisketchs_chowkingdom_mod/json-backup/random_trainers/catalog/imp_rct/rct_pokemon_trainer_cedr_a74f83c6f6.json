@@ -1,0 +1,112 @@
+{
+  "id": "rct_pokemon_trainer_cedric_044b",
+  "name": "Pok\u00e9mon Trainer Cedric",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:staravia",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "pluck"
+      ],
+      "heldItem": [
+        "quick_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:buizel",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "brine"
+      ],
+      "heldItem": [
+        "mystic_water"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heracross",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "leer",
+        "aerialace",
+        "brickbreak",
+        "thief"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tailwhip",
+        "agility",
+        "flamewheel",
+        "stomp"
+      ],
+      "heldItem": [
+        "shell_bell"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:grotle",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "razorleaf",
+        "bite",
+        "leechseed",
+        "stealthrock"
+      ],
+      "heldItem": [
+        "big_root"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

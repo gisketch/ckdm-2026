@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_sydney"
+name = "Ace Trainer Sydney"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 47
+maxLevel = 48
+team = [
+  { species = "cobblemon:clefable", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["meteormash", "reflect", "lightscreen", "gravity"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:torterra", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "crunch", "leechseed", "synthesis"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["This total stranger’ll be a good way to see if I have what it takes to own the Pokémon League’s Elite Four!", "It doesn’t appear as if anyone could even try to stand against your might. The Elite Four should just surrender."]

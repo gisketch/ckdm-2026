@@ -1,0 +1,120 @@
+{
+  "id": "pret_pokeheartgold_0487_executive_petrel_petrel",
+  "name": "Executive Petrel Petrel",
+  "title": "Executive Petrel",
+  "gender": "any",
+  "archetype": "executive_petrel",
+  "region": "Johto/Kanto",
+  "category": "unique",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "executive_petrel/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "selfdestruct",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "selfdestruct",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "selfdestruct",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "explosion",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "selfdestruct",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "smog",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What? Am I losing?"
+  ]
+}

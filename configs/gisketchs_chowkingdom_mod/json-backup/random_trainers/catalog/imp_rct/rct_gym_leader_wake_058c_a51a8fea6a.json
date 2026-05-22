@@ -1,0 +1,132 @@
+{
+  "id": "rct_gym_leader_wake_058c",
+  "name": "Wake",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 68,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "cobblemon:politoed",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "drizzle",
+      "moveset": [
+        "surf",
+        "icebeam",
+        "focusblast",
+        "perishsong"
+      ],
+      "heldItem": [
+        "damp_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingdra",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "hydropump",
+        "dragonpulse",
+        "icebeam",
+        "rest"
+      ],
+      "heldItem": [
+        "chesto_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ludicolo",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "energyball",
+        "hydropump",
+        "substitute",
+        "teeterdance"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:huntail",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "crunch",
+        "aquatail",
+        "icefang",
+        "shellsmash"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "aquatail",
+        "stoneedge",
+        "earthquake",
+        "dragondance"
+      ],
+      "heldItem": [
+        "wacan_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floatzel",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "aquatail",
+        "brickbreak",
+        "crunch",
+        "icefang"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

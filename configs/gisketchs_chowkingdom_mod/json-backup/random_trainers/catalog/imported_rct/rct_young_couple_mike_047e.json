@@ -1,0 +1,33 @@
+{
+  "id": "rct_young_couple_mike_047e",
+  "name": "Mike",
+  "title": "Young Couple",
+  "gender": "any",
+  "archetype": "young_couple",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "murkrow",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "peck",
+        "astonish",
+        "gust",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

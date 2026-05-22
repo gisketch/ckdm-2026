@@ -1,0 +1,72 @@
+{
+  "id": "rct_team_rocket_admin_0220",
+  "name": "Team Rocket Admin",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "sniper",
+      "moveset": [
+        "confuseray",
+        "sludgebomb",
+        "aircutter",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "sludgebomb",
+        "thunderbolt",
+        "explosion",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "crunch",
+        "irontail",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

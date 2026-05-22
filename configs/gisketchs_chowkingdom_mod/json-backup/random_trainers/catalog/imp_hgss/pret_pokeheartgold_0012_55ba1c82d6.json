@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0012_team_rocket_grunt",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Quit taking SlowpokeTails? If we listened to you, Team Rocket\u2019s rep would be ruined!",
+    "We need the money, but selling SlowpokeTails? It\u2019s tough being a Team Rocket Grunt!"
+  ]
+}

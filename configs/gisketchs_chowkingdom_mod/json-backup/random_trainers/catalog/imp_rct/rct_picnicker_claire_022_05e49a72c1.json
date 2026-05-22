@@ -1,0 +1,97 @@
+{
+  "id": "rct_picnicker_claire_022c",
+  "name": "Picnicker Claire",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 92,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:alakazam",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "expandingforce",
+        "shadowball",
+        "nastyplot",
+        "focusblast"
+      ],
+      "heldItem": [
+        "mega_showdown:alakazite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:indeedee",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "psychicsurge",
+      "moveset": [
+        "expandingforce",
+        "followme",
+        "fakeout",
+        "hypervoice"
+      ],
+      "heldItem": [
+        "tanga_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "arenatrap",
+      "moveset": [
+        "earthquake",
+        "stompingtantrum",
+        "reversal",
+        "stoneedge"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lucario",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "justified",
+      "moveset": [
+        "crunch",
+        "closecombat",
+        "meteormash",
+        "icepunch"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

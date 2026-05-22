@@ -1,0 +1,99 @@
+{
+  "id": "rct_bird_keeper_jacob_0135",
+  "name": "Bird Keeper Jacob",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cramorant",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "gulpmissile",
+      "moveset": [
+        "surf",
+        "hurricane",
+        "icebeam",
+        "roost"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "decidueye",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "tintedlens",
+      "moveset": [
+        "uturn",
+        "hurricane",
+        "spiritshackle",
+        "leafblade"
+      ],
+      "heldItem": "spell_tag",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "porygon2",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "trace",
+      "moveset": [
+        "thunder",
+        "icebeam",
+        "foulplay",
+        "teleport"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "basculegion",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "adaptability",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "flipturn",
+        "shadowball"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": [
+        "f"
+      ]
+    },
+    {
+      "species": "nidoqueen",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "thunder",
+        "earthpower",
+        "sludgewave",
+        "bubblebeam"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

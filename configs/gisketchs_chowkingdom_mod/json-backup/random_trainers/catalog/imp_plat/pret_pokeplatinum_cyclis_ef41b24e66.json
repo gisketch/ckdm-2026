@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_cyclist_john",
+  "name": "Cyclist Male John",
+  "title": "Cyclist Male",
+  "gender": "male",
+  "archetype": "cyclist_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cyclist_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staravia",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "That Bike you\u2019ve got there...it\u2019s the type that can change gears! You gotta love that! Sure, I\u2019ll give you a battle!",
+    "The 3-speed makes for easy turning, and the 4-speed\u2019s for going fast. I love them both!"
+  ]
+}

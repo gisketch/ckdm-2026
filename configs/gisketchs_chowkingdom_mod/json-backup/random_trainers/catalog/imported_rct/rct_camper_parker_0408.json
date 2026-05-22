@@ -1,0 +1,49 @@
+{
+  "id": "rct_camper_parker_0408",
+  "name": "Camper Parker",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "buizel",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "quickattack",
+        "watergun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shinx",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "thundershock",
+        "charge",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

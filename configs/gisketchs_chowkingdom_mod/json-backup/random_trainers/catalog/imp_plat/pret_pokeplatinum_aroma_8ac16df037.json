@@ -1,0 +1,70 @@
+{
+  "id": "pret_pokeplatinum_aroma_lady_jenna",
+  "name": "Aroma Lady Jenna",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:budew",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "watersport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:budew",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "watersport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:budew",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "watersport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My Grass-type Pok\u00e9mon can dole out special attacks... I won\u2019t let you win easily!",
+    "Oh, that\u2019s right... A hint about the next Trainer... In the middle of three trees. That\u2019s my hint. Good luck."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_jake_04fd",
+  "name": "Ace Trainer Jake",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "staravia",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleteam",
+        "endeavor",
+        "whirlwind",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "girafarig",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "assurance",
+        "stomp",
+        "nastyplot",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

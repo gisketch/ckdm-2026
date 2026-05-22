@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0133_poke_maniac_morgan",
+  "name": "Poke Maniac Morgan",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rhydon",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Do you know Mary? She\u2019s a popular DJ in Johto.",
+    "Mary\u2019s the best! I want to be a DJ, too!"
+  ]
+}

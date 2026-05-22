@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_kai"
+name = "Bird Keeper Kai"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:pidgeotto", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeotto", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeotto", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Birdkeeper from Unused is ready for a battle."]

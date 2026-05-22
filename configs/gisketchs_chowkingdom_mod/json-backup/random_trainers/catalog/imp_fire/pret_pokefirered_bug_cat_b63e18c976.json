@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokefirered_bug_catcher_3",
+  "name": "Bug Catcher Vance",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ekans",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bug Catcher 3 is ready for a battle."
+  ]
+}

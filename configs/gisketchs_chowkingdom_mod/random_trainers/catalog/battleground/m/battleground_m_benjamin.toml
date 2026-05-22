@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battleground_m_benjamin"
+name = "Battleground Benjamin"
+title = "Battleground"
+gender = "male"
+archetype = "battleground"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "battleground/male"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 81
+maxLevel = 84
+team = [
+  { species = "cobblemon:scolipede", level = 81, gender = "FEMALE", nature = "adamant", ability = "speedboost", moveset = ["pinmissile", "poisonjab", "spikes", "protect"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+  { species = "cobblemon:drapion", level = 83, gender = "MALE", nature = "jolly", ability = "superluck", moveset = ["crosspoison", "nightslash", "pinmissile", "earthquake"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+  { species = "cobblemon:volcarona", level = 84, gender = "MALE", nature = "hasty", ability = "flamebody", moveset = ["overheat", "bugbuzz", "flareblitz", "wildcharge"], heldItem = "['mega_showdown:firium_z', 'fire_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:flygon", level = 83, gender = "FEMALE", nature = "naive", ability = "punkrock", moveset = ["earthquake", "clangingscales", "heatwave", "crunch"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:scizor", level = 84, gender = "MALE", nature = "adamant", ability = "technician", moveset = ["bugbite", "bulletpunch", "dualwingbeat", "swordsdance"], heldItem = "['mega_showdown:scizorite', 'life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:rhyperior", level = 82, gender = "FEMALE", nature = "adamant", ability = "solidrock", moveset = ["rockblast", "earthquake", "thunderfang", "counter"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

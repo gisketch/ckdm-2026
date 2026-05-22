@@ -1,0 +1,65 @@
+{
+  "id": "rct_fisherman_barny_00e0",
+  "name": "Fisherman Barny",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "tentacool",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "liquidooze",
+      "moveset": [
+        "waterpulse",
+        "acidspray",
+        "sludge",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arrokuda",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "swiftswim",
+      "moveset": [
+        "furyattack",
+        "bite",
+        "agility",
+        "dive"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mantyke",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "waterabsorb",
+      "moveset": [
+        "wingattack",
+        "headbutt",
+        "waterpulse",
+        "wideguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

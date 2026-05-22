@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_rachael"
+name = "Psychic Rachael"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:psyduck", level = 15, gender = "MALE", nature = "calm", ability = "damp", moveset = ["tailwhip", "confusion", "furyswipes", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["This forest is strange, you know... It seems to fill me with energy...", "Forests are mystifying... They seem to gather such unexplainable energy.", "I have trained this team for the road. Challenge me if you are ready."]

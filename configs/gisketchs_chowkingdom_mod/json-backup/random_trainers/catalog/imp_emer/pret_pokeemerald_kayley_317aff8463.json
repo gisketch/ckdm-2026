@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeemerald_kayley",
+  "name": "Parasol Lady Kayley",
+  "title": "Parasol Lady",
+  "gender": "female",
+  "archetype": "parasol_lady",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "parasol_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:castform",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sunnyday",
+        "weatherball",
+        "flamethrower",
+        "solarbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Parasol Lady Kayley is ready for a battle."
+  ]
+}

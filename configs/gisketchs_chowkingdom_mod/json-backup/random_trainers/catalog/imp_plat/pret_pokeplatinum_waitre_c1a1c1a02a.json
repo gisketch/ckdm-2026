@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_waitress_kati",
+  "name": "Waitress Kati",
+  "title": "Waitress",
+  "gender": "female",
+  "archetype": "waitress",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "waitress/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Welcome! This place is my pride and joy!",
+    "After a match, you should have some Moomoo Milk to quench your thirst! Just chug it right down! Glug glug!"
+  ]
+}

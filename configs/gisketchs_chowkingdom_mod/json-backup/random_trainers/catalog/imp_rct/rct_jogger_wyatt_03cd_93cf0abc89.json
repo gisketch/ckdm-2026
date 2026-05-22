@@ -1,0 +1,40 @@
+{
+  "id": "rct_jogger_wyatt_03cd",
+  "name": "Jogger Wyatt",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "jogger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "tailwhip",
+        "flamecharge",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

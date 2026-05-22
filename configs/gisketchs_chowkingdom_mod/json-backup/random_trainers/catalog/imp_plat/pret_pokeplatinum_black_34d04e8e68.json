@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_black_belt_sean",
+  "name": "Black Belt Sean",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:croagunk",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meditite",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hah! Hah! I\u2019m psyched for this! Here goes!",
+    "I don\u2019t reminisce over yesterday. I don\u2019t think about tomorrow. I only live today to the fullest. That\u2019s my policy!"
+  ]
+}

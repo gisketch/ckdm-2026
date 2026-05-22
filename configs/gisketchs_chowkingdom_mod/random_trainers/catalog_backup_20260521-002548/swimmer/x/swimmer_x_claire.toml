@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_claire"
+name = "Swimmer Claire"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:buizel", level = 31, gender = "FEMALE", nature = "impish", ability = "swiftswim", moveset = ["tailwhip", "bite", "swift", "aquajet"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

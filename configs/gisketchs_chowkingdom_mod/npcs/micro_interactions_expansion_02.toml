@@ -5,6 +5,8 @@ source_tags = ["town", "lamplight"]
 target_tags = ["town", "lamplight"]
 line = "Evening lamplight always lifts my spirit after a long day."
 response = "The glow across these cobbles feels like a steady heartbeat."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["town", "store_seed"]
 target_tags = ["town", "store_pokemon"]
 line = "Packing up seed sacks before the dew settles again."
 response = "I just locked the pokeball cabinet and swept the counter."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["town", "warrior"]
 target_tags = ["town", "paladin"]
 line = "The eastern watch is quiet; no skyland squalls tonight."
 response = "I will take the late vigil. Rest your blade, friend."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["town", "bard"]
 target_tags = ["town", "rogue"]
 line = "Hearthfire and hot cider wait inside the creaking inn."
 response = "Smells like spiced apple and old stories. I am ready."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["town", "researcher"]
 target_tags = ["town", "ranger"]
 line = "Are the research paddocks secure for the night?"
 response = "Latches are firm and the duskull lanterns are lit."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["town", "frost_wizard"]
 target_tags = ["town", "fire_wizard"]
 line = "This chill burns my fingertips even through gloves."
 response = "I shall warm the corner brazier. Do not waste your flames."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["town", "wind_wizard"]
 target_tags = ["town", "earth_wizard"]
 line = "The skybridge lamp guttered in a crosswind again."
 response = "I just tamped the stone footing. Light it once more."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["town", "berserker"]
 target_tags = ["town", "archer"]
 line = "I will pace the treeline until moonrise, nothing more."
 response = "Keep a whistle handy. Owls carry strange echoes tonight."
+source_emote = "clap"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["town", "adventure_time"]
 target_tags = ["town", "adventure_time"]
 line = "Bubblegum traded berry tarts for smoked fish at dusk."
 response = "The candy tavern is rowdy again. I prefer the garden bench."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["town", "water_wizard"]
 target_tags = ["town", "forcemaster"]
 line = "Evening creek is warm enough for a quick splash."
 response = "I already rinsed my wraps. Training dust clings less."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["town", "bard"]
 target_tags = ["town", "wind_wizard"]
 line = "I heard your flute drifting from the clocktower ledge."
 response = "The breeze carried the high notes farther than I intended."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["town", "researcher"]
 target_tags = ["town", "store_seed"]
 line = "I need glistening moss samples for cobblemon habitat work."
 response = "I saved three pouches from the morning shipment for you."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["town", "link"]
 target_tags = ["town", "zelda"]
 line = "Hylian steel gleams better under tavern lanterns."
 response = "The scuffs tell our story. I will polish mine at dawn."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["town", "zelda"]
 target_tags = ["town", "dragon_memory"]
 line = "The stars align exactly as the old sky tablets described."
 response = "I still remember wings carrying me beneath those patterns."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["town", "class_witcher"]
 target_tags = ["town", "archer"]
 line = "Oils dry quickly in this crisp air. Need to restock."
 response = "I have lanolin and cave herbs if you need binding agents."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["town", "store_cosmetics"]
 target_tags = ["town", "store_pokemon"]
 line = "Last customer bought three hair ribbons and vanished."
 response = "At least the pumpkaboo lanterns will keep your stall bright."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["town", "skyland_survival"]
 target_tags = ["town", "earth_wizard"]
 line = "The lower skyledge loose stone markers are all upright."
 response = "Good. Those crumbling edges worry me in the damp."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["town", "monster_hunter"]
 target_tags = ["town", "warrior"]
 line = "Even the rookies dragged their quarry home before dusk."
 response = "The stew pot has extra venison. Tell them to join us."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -167,17 +203,21 @@ source_tags = ["town", "nocturnal"]
 target_tags = ["town", "musician"]
 line = "Moonrise soon. I left a fiddle case in the alcove."
 response = "I will tune the gut strings before the bats wake up."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_02_020"
 topic = "mage_light_spar"
 source_tags = ["town", "arcane_wizard"]
+required_spawned_ids = ["invoker"]
 target_tags = ["town", "fire_wizard"]
 line = "Invoker juggled orbs by the well and startled the goats."
 response = "Reflect his lights into prism shards. That calms him down."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_02_021"
 topic = "elven_arrow_fletch"
@@ -185,6 +225,8 @@ source_tags = ["town", "war_archer"]
 target_tags = ["town", "tundra_archer"]
 line = "Duck feathers from the millpond dried stiff and straight."
 response = "I have sinew from the cold peak. Let us trade a dozen."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["town", "bounty_hunter"]
 target_tags = ["town", "rogue"]
 line = "South gate tracks look like kobold scouting runs again."
 response = "I oiled the gate hinges. If they jostle, I will know."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["town", "ciri"]
 target_tags = ["town", "geralt"]
 line = "Short hops across the empty market square did not tire me."
 response = "Keep your silver chain loose. Portals wobble after rain."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["town", "geralt"]
 target_tags = ["town", "warrior"]
 line = "Grindstone near the smithy is still warm from daylight use."
 response = "I saved you a whetstone. Your silver edge deserves it."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["town", "priest"]
 target_tags = ["town", "paladin"]
 line = "Chapel candles are trimmed. Evening hymn will be soft."
 response = "I will stand vigil at the sanctuary door in silence."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["town", "gandalf"]
 target_tags = ["town", "wind_wizard"]
 line = "Old Toby smoke rings float perfectly still tonight."
 response = "A gentle southern breeze will carry them tomorrow."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["town", "frost_wizard"]
 target_tags = ["town", "store_cosmetics"]
 line = "Ice crystals coat every lamppost finial like sugar."
 response = "The children will trace shapes on them before breakfast."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["town", "store_cosmetics"]
 target_tags = ["town", "store_seed"]
 line = "Silk wraps leftover from spring dye need a new shelf."
 response = "Lay them near the linen seeds. Hues attract early buyers."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["town", "paladin"]
 target_tags = ["town", "berserker"]
 line = "Erdtree sapling by the fountain needs no lantern light."
 response = "Its gold gleams anyway. I shall rest my axe beneath it."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["town", "berserker"]
 target_tags = ["town", "water_wizard"]
 line = "Cooling my heels by the stepping stones clears my head."
 response = "Soak longer. I kept the current gentle with a soft eddy."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["town", "bard"]
 target_tags = ["town", "musician"]
 line = "A young ranger requested the amber road ballad twice."
 response = "I will add cello drone next time. It anchors the melody."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["town", "bubblegum"]
 target_tags = ["town", "pokemon"]
 line = "Munchlax sleeping patterns shift when moonlight hits the moss."
 response = "Jot it in the yellow journal. I will review it with tea."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["town", "marceline"]
 target_tags = ["town", "musician"]
 line = "My axe bass strings felt sticky after the afternoon heat."
 response = "Wipe them with lemon oil before the midnight set starts."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["town", "adventure_time"]
 target_tags = ["town", "store_cosmetics"]
 line = "I wrung out my headband in the horse trough."
 response = "Here is a spare linen scrap. Yours is more tatters now."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "monster_hunter"]
 line = "My fletching glue bubbled over the campfire earlier."
 response = "Mix pine resin with charcoal dust. It holds in the damp."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["town", "earth_wizard"]
 target_tags = ["town", "warrior"]
 line = "Evening quiet lets me feel roots stretching beneath the plaza."
 response = "Any odd tremors near the old well? I pulled debris earlier."
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["town", "water_wizard"]
 target_tags = ["town", "bounty_hunter"]
 line = "Lukewarm basin water is still enough for minor healing."
 response = "My bruised knuckles thank you. Tomorrow I track again."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["town", "fire_wizard"]
 target_tags = ["town", "store_seed"]
 line = "The communal ember pot near the mill needs fresh coals."
 response = "Push a few under the seedling tray overnight, please."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["town", "wind_wizard"]
 target_tags = ["town", "skyland_survival"]
 line = "Wind current above the bluffs is gentle enough for gliding."
 response = "Test the spiral path tomorrow. I will chart updraft spots."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["town", "arcane_wizard"]
 target_tags = ["town", "priest"]
 line = "Resonance spell fading. The tower bells will not hum tonight."
 response = "Thank you. Silent evening lets the choir rehearse softly."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["town", "rogue"]
 target_tags = ["town", "war_archer"]
 line = "Chimney perches are dry. Good view of the south crossroads."
 response = "I will watch the trail while you check the granary gutter."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["town", "war_archer"]
 target_tags = ["town", "musician"]
 line = "Bowstring hum matches the evening cricket pitch perfectly."
 response = "Pluck a soft scale near the apiary. Bees love harmony."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["town", "tundra_archer"]
 target_tags = ["town", "frost_wizard"]
 line = "Windbreak hide is stretched tight. I will sleep under stars."
 response = "Snow flurries will hold off. My senses say mild night."
+source_emote = "wave"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["town", "cobblemon_biology"]
 target_tags = ["town", "researcher"]
 line = "Flittle flock circles east of town every evening precisely."
 response = "Update the migration chart and pin a feather sample."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["town", "forcemaster"]
 target_tags = ["town", "warrior"]
 line = "Forgemaster finished my vambrace rivets before sunset."
 response = "Test them on the straw dummies. I will reset the posts."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["town", "light_magic"]
 target_tags = ["town", "paladin"]
 line = "Sunset beam touched the sacred grove for seven seconds."
 response = "I counted eight heartbeats. Even brief grace is a gift."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["town", "warrior"]
 target_tags = ["town", "link"]
 line = "Practice stances with torch shadows feel sharper at night."
 response = "Agreed. Shadow drills teach footwork lanterns cannot reveal."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["town", "tears_of_the_kingdom"]
 target_tags = ["town", "zelda"]
 line = "Recall glyphs faintly shimmer on the old archway stones."
 response = "They pulse when memory is near. I will sketch them again."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["town", "store_explorer"]
 target_tags = ["town", "bounty_hunter"]
 line = "Corked springwater still cool from the cavern depths."
 response = "Trade you a dried berry leather. Trail food for trail drink."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["town", "lamplight"]
 target_tags = ["town", "skyland_lore"]
 line = "Last skybridge candle snuffed. Stars take over now."
 response = "Ancient skyland texts say starlight seals gentle wards."
+source_emote = "wave"
+target_emote = "speaking"
 weight = 1.0

@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_tuber_jacky",
+  "name": "Tuber Male Jacky",
+  "title": "Tuber Male",
+  "gender": "male",
+  "archetype": "tuber_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "tuber_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:bibarel",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "watergun",
+        "rollout",
+        "hyperfang",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My body isn\u2019t the only thing I work on toughening up here. I also work on my Pok\u00e9mon and my spirit!",
+    "Maybe I\u2019ll do like Wake, I mean, Crasher Wake, and wear the same kind of mask."
+  ]
+}

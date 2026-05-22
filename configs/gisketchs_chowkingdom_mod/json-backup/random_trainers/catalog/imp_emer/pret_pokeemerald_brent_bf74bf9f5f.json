@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_brent",
+  "name": "Bug Maniac Brent",
+  "title": "Bug Maniac",
+  "gender": "any",
+  "archetype": "bug_maniac",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "bug_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:surskit",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bug Maniac Brent is ready for a battle."
+  ]
+}

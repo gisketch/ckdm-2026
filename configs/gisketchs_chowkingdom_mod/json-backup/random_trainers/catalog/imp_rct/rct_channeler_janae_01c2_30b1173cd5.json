@@ -1,0 +1,40 @@
+{
+  "id": "rct_channeler_janae_01c2",
+  "name": "Channeler Janae",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:golett",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "klutz",
+      "moveset": [
+        "megapunch",
+        "magnitude",
+        "dynamicpunch",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

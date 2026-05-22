@@ -1,0 +1,65 @@
+{
+  "id": "rct_shadow_admin_marlon_1_05b8",
+  "name": "Shadow Admin Marlon",
+  "title": "Shadow Admin Marlon",
+  "gender": "any",
+  "archetype": "shadow_admin_marlon",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "duskull",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "shadowsneak",
+        "nightshade",
+        "payback",
+        "destinybond"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cacnea",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "needlearm",
+        "feintattack",
+        "thunderpunch",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swoobat",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "unaware",
+      "moveset": [
+        "confusion",
+        "aircutter",
+        "chargebeam",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

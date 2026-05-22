@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_benny_0297",
+  "name": "Bird Keeper Benny",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "fearow",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "technician",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

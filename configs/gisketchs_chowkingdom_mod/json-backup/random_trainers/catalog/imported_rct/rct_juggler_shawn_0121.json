@@ -1,0 +1,49 @@
+{
+  "id": "rct_juggler_shawn_0121",
+  "name": "Juggler Shawn",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 63,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "magmortar",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "magmaarmor",
+      "moveset": [
+        "sunnyday",
+        "flamethrower",
+        "fireblast",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hypno",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "forewarn",
+      "moveset": [
+        "swagger",
+        "nastyplot",
+        "psyshock",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

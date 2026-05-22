@@ -1,0 +1,134 @@
+{
+  "id": "rct_dumbass_jojo_fan_0042",
+  "name": "Silly Jojo Fan",
+  "title": "Silly Jojo",
+  "gender": "any",
+  "archetype": "silly_jojo",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "silly_jojo/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:aegislash",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "stancechange",
+      "moveset": [
+        "shadowball",
+        "kingsshield",
+        "shadowsneak",
+        "flashcannon"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "ironbarbs",
+      "moveset": [
+        "leechseed",
+        "powerwhip",
+        "thunderwave",
+        "bodypress"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:simisear",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "gluttony",
+      "moveset": [
+        "flamethrower",
+        "hiddenpower",
+        "focusblast",
+        "scorchingsands"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:celebi",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "nastyplot",
+        "gigadrain",
+        "psychic",
+        "earthpower"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "poweruppunch",
+        "bulletpunch",
+        "icepunch",
+        "drainpunch"
+      ],
+      "heldItem": [
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hoopa",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "magician",
+      "moveset": [
+        "hyperspacefury",
+        "drainpunch",
+        "firepunch",
+        "gunkshot"
+      ],
+      "heldItem": [
+        "choice_band"
+      ],
+      "shiny": false,
+      "aspects": [
+        "unbound"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

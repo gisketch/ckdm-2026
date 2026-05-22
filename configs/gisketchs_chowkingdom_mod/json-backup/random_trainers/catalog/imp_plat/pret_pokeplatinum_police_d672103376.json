@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_policeman_caleb",
+  "name": "Policeman Caleb",
+  "title": "Policeman",
+  "gender": "any",
+  "archetype": "policeman",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "policeman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:hoothoot",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Whether there are problems or not, or if crimes have been committed or not, I still go out on patrol.",
+    "Your toughness is too much! I\u2019m in serious trouble!"
+  ]
+}

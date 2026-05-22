@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_burglar_006",
+  "name": "Burglar Basil",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:vulpix",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:growlithe",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Burglar from Cinnabar Gym is ready for a battle."
+  ]
+}

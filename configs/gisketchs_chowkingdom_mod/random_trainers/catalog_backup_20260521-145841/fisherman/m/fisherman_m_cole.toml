@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_cole"
+name = "Fisherman Cole"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 40
+maxLevel = 43
+team = [
+  { species = "cobblemon:gyarados", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:remoraid", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["If I stare at the water’s surface for too long, I begin to forget what I was doing in the first place.", "Oh, right... I was fishing, wasn’t I?"]

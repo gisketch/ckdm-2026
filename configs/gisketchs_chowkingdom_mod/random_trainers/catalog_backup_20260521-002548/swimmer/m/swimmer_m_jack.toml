@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_jack"
+name = "Swimmer Jack"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:starmie", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Jack is ready for a battle."]

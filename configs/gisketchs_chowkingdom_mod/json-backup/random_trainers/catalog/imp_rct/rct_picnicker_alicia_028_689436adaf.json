@@ -1,0 +1,40 @@
+{
+  "id": "rct_picnicker_alicia_0280",
+  "name": "Picnicker Alicia",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:meowth",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "pickup",
+      "moveset": [
+        "furyswipes",
+        "screech",
+        "headbutt",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

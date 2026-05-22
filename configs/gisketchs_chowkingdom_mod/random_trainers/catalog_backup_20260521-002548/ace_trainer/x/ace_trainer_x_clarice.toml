@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_clarice"
+name = "Ace Trainer Clarice"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:lopunny", level = 54, gender = "FEMALE", nature = "calm", ability = "cutecharm", moveset = ["charm", "batonpass", "headbutt", "agility"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 54, gender = "FEMALE", nature = "bold", ability = "drizzle", moveset = ["tailwind", "wingattack", "waterpulse", "mist"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:quagsire", level = 54, gender = "MALE", nature = "impish", ability = "waterabsorb", moveset = ["raindance", "muddywater", "toxic", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

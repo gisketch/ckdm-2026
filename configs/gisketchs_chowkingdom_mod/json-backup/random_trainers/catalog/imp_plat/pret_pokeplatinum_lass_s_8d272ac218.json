@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_lass_sarah",
+  "name": "Lass Sarah",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Oh, a weak-looking Trainer... Do you want to have a go?",
+    "Oh, you\u2019re so mean! I just started training Pok\u00e9mon!"
+  ]
+}

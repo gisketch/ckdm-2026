@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokecrystal_medium_006_rebecca",
+  "name": "Medium Rebecca",
+  "title": "Medium",
+  "gender": "any",
+  "archetype": "medium",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "medium/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:drowzee",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hypno",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Medium Rebecca is ready for a battle."
+  ]
+}

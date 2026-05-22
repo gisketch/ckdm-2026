@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_swimmerf_008_lisa",
+  "name": "Swimmerf Lisa",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "swimmerf/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:jynx",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmerf Lisa is ready for a battle."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "rct_trainer_red_0003",
+  "name": "Trainer Red",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 100,
+  "maxLevel": 100,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 100,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "lightningrod",
+      "moveset": [
+        "fakeout",
+        "volttackle",
+        "closecombat",
+        "knockoff"
+      ],
+      "heldItem": "light_ball",
+      "shiny": false,
+      "aspects": [
+        "libre"
+      ]
+    },
+    {
+      "species": "venusaur",
+      "level": 100,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "gigadrain",
+        "sludgebomb",
+        "earthpower",
+        "sleeppowder"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blastoise",
+      "level": 100,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "shellsmash",
+        "icebeam",
+        "darkpulse",
+        "aurasphere"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 100,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "dragondance",
+        "flareblitz",
+        "earthquake",
+        "dragonclaw"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 100,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "earthquake",
+        "darkestlariat",
+        "firepunch"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mewtwo",
+      "level": 100,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "bulkup",
+        "zenheadbutt",
+        "closecombat",
+        "stoneedge"
+      ],
+      "heldItem": "mega_showdown:mewtwonite_x leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

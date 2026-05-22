@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_crystal_0377",
+  "name": "Swimmer Crystal",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:wingull",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "hydration",
+      "moveset": [
+        "growl",
+        "waterpulse",
+        "agility",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "peck",
+        "hornattack",
+        "flail",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

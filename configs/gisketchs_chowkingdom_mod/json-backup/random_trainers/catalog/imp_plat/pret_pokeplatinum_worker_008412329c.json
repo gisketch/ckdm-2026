@@ -1,0 +1,55 @@
+{
+  "id": "pret_pokeplatinum_worker_gerardo",
+  "name": "Worker Gerardo",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:magnemite",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "supersonic",
+        "magnetbomb",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderwave",
+        "magnetbomb",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pok\u00e9mon and people have worked together for many years. Let us show you an example of that history!",
+    "The way you helped each other... That is what made you prevail!"
+  ]
+}

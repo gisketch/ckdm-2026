@@ -1,0 +1,65 @@
+{
+  "id": "rct_bird_keeper_roger_0136",
+  "name": "Bird Keeper Roger",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "pelipper",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "raindish",
+      "moveset": [
+        "roost",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "corviknight",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "unnerve",
+      "moveset": [
+        "drillpeck",
+        "swagger",
+        "bravebird",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "unfezant",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "superluck",
+      "moveset": [
+        "nightslash",
+        "swagger",
+        "facade",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

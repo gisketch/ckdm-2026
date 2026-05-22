@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "boarder_m_deandre"
+name = "Boarder Deandre"
+title = "Boarder"
+gender = "male"
+archetype = "boarder"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "boarder/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 25
+maxLevel = 26
+team = [
+  { species = "cobblemon:seel", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dewgong", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seel", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey hey, are you shivering? Are you scared to fight me?", "The strongest don’t usually look very strong. I think you fit that description."]

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0637_teacher_hillary",
+  "name": "Teacher Hillary",
+  "title": "Teacher",
+  "gender": "any",
+  "archetype": "teacher",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "teacher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:ambipom",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sunflora",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Teacher Hillary is ready for a battle."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_psychic_elijah",
+  "name": "Psychic Male Elijah",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:abra",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hiddenpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When a Trainer and a Pok\u00e9mon bond as one, a wondrous power is born...",
+    "There still remain many mysteries yet to be solved in this strange world..."
+  ]
+}

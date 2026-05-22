@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_reese"
+name = "Biker Reese"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 55
+maxLevel = 56
+team = [
+  { species = "cobblemon:arbok", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gunkshot", "mudbomb", "gastroacid", "crunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["sludgebomb", "doublehit", "smokescreen", "thunder"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, you! You’re from Johto, huh?", "Don’t get cocky, you Johto punk!", "Biker Reese is ready for a battle."]

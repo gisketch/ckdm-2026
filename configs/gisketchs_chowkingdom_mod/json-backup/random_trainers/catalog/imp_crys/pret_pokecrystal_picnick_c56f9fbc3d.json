@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokecrystal_picnicker_021_erin",
+  "name": "Picnicker Erin",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 34,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doubleteam",
+        "stomp",
+        "firespin",
+        "sunnyday"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "swift",
+        "mudslap",
+        "quickattack",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doubleteam",
+        "stomp",
+        "firespin",
+        "sunnyday"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Picnicker Erin is ready for a battle."
+  ]
+}

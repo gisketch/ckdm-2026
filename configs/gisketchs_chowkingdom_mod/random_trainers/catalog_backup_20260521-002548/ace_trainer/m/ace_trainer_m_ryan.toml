@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_ryan"
+name = "Ace Trainer Ryan"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.03
+bustStyle = ""
+minLevel = 25
+maxLevel = 27
+team = [
+  { species = "cobblemon:pidgeot", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = ["sandattack", "quickattack", "whirlwind", "wingattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electabuzz", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderpunch", "lightscreen", "swift", "screech"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Ryan is ready for a battle.", "What are your thoughts on raising Pokémon?", "I see you’re raising your Pokémon with care. The bond you build will save you in tough situations."]

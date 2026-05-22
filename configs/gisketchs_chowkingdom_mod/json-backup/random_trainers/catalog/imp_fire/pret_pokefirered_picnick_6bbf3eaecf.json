@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokefirered_picnicker_dana",
+  "name": "Picnicker Dana",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:meowth",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:oddish",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgey",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Picnicker Dana is ready for a battle."
+  ]
+}

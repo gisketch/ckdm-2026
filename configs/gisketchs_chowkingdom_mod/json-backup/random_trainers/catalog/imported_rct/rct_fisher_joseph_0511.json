@@ -1,0 +1,33 @@
+{
+  "id": "rct_fisher_joseph_0511",
+  "name": "Fisher Joseph",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "tailwhip",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

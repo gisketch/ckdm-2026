@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_kendal"
+name = "Black Belt Kendal"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:croagunk", level = 35, gender = "MALE", nature = "hardy", ability = "anticipation", moveset = ["mudslap", "revenge", "suckerpunch", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll pound the fear of my fists into you all karate style, punk!", "So, I’m gonna try and shatter steel! I wonder how many more years it would take for me to do that?", "I have trained this team for the road. Challenge me if you are ready."]

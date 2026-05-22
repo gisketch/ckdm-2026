@@ -1,0 +1,33 @@
+{
+  "id": "rct_pokemon_trainer_lucas_04ce",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "chimchar",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "scratch",
+        "leer",
+        "ember",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

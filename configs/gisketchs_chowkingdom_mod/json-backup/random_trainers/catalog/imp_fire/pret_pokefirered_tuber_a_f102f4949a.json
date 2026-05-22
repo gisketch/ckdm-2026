@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokefirered_tuber_alexis",
+  "name": "Tuber Alexis",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "tuber/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:staryu",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staryu",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krabby",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krabby",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Tuber Alexis is ready for a battle."
+  ]
+}

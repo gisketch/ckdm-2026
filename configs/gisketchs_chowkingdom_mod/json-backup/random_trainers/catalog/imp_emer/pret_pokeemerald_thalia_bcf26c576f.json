@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeemerald_thalia_3",
+  "name": "Beauty Thalia",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:luvdisc",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wailmer",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Beauty Thalia is ready for a battle."
+  ]
+}

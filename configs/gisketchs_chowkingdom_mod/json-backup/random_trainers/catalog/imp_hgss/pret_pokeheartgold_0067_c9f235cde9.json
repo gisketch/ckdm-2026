@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0067_bug_catcher_benny",
+  "name": "Bug Catcher Benny",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "cobblemon:weedle",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kakuna",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beedrill",
+      "level": 12,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bug Pok\u00e9mon evolve young. So they get stronger that much faster.",
+    "If you want to meet the Gym Leader, you have to move the web using the switch."
+  ]
+}

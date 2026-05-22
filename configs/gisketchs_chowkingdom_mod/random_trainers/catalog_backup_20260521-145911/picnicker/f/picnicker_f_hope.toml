@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_hope"
+name = "Picnicker Hope"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:flaaffy", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Hope is ready for a battle.", "I have a feeling that I can win. Let’s see if I’m right!", "I heard CLEFAIRY appear at Mt. Moon. But where could they be?"]

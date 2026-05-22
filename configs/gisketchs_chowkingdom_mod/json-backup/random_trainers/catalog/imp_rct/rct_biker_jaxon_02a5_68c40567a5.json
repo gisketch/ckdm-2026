@@ -1,0 +1,56 @@
+{
+  "id": "rct_biker_jaxon_02a5",
+  "name": "Biker Jaxon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:weezing",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "gyroball",
+        "sludgebomb",
+        "explosion",
+        "destinybond"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "stickyhold",
+      "moveset": [
+        "poisonfang",
+        "screech",
+        "gunkshot",
+        "acidarmor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

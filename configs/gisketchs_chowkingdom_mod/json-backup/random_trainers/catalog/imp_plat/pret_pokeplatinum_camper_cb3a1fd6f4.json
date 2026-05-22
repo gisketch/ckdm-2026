@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_camper_zackary_rematch_2",
+  "name": "Camper Zackary",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:ambipom",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Camper Zackary is ready for a battle."
+  ]
+}

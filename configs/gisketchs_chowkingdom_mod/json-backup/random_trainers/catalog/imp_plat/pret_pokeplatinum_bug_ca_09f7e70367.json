@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_bug_catcher_phillip",
+  "name": "Bug Catcher Phillip",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:wurmple",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cascoon",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dustox",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "poisonsting",
+        "confusion",
+        "gust"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Here comes the swarm!",
+    "There\u2019s a Pok\u00e9mon ability named Swarm."
+  ]
+}

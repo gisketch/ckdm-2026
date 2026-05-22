@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "title_defense_m_marlon"
+name = "Title Defense Marlon"
+title = "Title Defense"
+gender = "male"
+archetype = "title_defense"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "title_defense/male"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 78
+maxLevel = 80
+team = [
+  { species = "cobblemon:dusknoir", level = 78, gender = "FEMALE", nature = "adamant", ability = "ironfist", moveset = ["poltergeist", "poweruppunch", "icepunch", "thunderpunch"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 78, gender = "MALE", nature = "adamant", ability = "guts", moveset = ["dynamicpunch", "knockoff", "stoneedge", "bulletpunch"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:krookodile", level = 79, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["highhorsepower", "darkestlariat", "rockslide", "closecombat"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 79, gender = "FEMALE", nature = "jolly", ability = "adaptability", moveset = ["uturn", "poisonjab", "drillrun", "protect"], heldItem = "['mega_showdown:beedrillite', 'life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:nihilego", level = 79, gender = "GENDERLESS", nature = "timid", ability = "beastboost", moveset = ["meteorbeam", "sludgewave", "thunderbolt", "hiddenpower"], heldItem = "['power_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:zapdos", level = 80, gender = "GENDERLESS", nature = "timid", ability = "pressure", moveset = ["heatwave", "thunderbolt", "extrasensory", "roost"], heldItem = "['heavy_duty_boots']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

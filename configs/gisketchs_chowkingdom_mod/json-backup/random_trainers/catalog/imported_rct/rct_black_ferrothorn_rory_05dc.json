@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_ferrothorn_rory_05dc",
+  "name": "Black Ferrothorn Rory",
+  "title": "Black Ferrothorn",
+  "gender": "any",
+  "archetype": "black_ferrothorn",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "weezing",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "sludgebomb",
+        "heatwave",
+        "thunderbolt",
+        "strangesteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "muk",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "gooey",
+      "moveset": [
+        "sludgewave",
+        "sludgebomb",
+        "moonblast",
+        "mudbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

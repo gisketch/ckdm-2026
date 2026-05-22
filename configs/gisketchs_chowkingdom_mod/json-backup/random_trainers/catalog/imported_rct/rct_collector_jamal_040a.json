@@ -1,0 +1,65 @@
+{
+  "id": "rct_collector_jamal_040a",
+  "name": "Collector Jamal",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "buizel",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "watergun",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "watergun",
+        "bite",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

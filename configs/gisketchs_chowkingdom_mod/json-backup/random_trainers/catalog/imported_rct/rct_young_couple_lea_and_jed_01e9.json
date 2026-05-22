@@ -1,0 +1,49 @@
+{
+  "id": "rct_young_couple_lea_and_jed_01e9",
+  "name": "Young Couple Lea & Jed",
+  "title": "Young Couple Lea And",
+  "gender": "any",
+  "archetype": "young_couple_lea_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "rapidash",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "flashfire",
+      "moveset": [
+        "firespin",
+        "takedown",
+        "inferno",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ninetales",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "quickattack",
+        "confuseray",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

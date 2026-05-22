@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_m_conner"
+name = "Tuber Conner"
+title = "Tuber"
+gender = "male"
+archetype = "tuber"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "tuber/male"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.93
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:remoraid", level = 43, gender = "MALE", nature = "docile", ability = "sniper", moveset = ["focusenergy", "bulletseed", "hydropump", "soak"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Look, look! Look at my Pokémon! It’s really cool!", "Pools are OK, but I like the sea because Pokémon live there.", "I have trained this team for the road. Challenge me if you are ready."]

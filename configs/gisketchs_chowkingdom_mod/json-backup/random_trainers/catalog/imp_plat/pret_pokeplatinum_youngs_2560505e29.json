@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_youngster_wayne",
+  "name": "Youngster Wayne",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:staravia",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Did you come to play, too? Wanna play battle with me?",
+    "I\u2019m playing hide-and-seek here. I like some underground tag, too."
+  ]
+}

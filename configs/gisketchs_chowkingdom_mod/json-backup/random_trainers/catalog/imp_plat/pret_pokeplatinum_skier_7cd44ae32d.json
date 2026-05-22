@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_skier_bjorn_rematch_2",
+  "name": "Skier Male Bjorn",
+  "title": "Skier Male",
+  "gender": "male",
+  "archetype": "skier_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:delibird",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weavile",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mamoswine",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Skier Male Bjorn is ready for a battle."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmerm_jack_02af",
+  "name": "Swimmer\u2642 Jack",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:starmie",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "rapidspin",
+        "recover",
+        "psybeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

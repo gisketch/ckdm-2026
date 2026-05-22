@@ -1,0 +1,65 @@
+{
+  "id": "rct_breeder_alize_02c1",
+  "name": "Breeder Alize",
+  "title": "Breeder",
+  "gender": "any",
+  "archetype": "breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "thunderbolt",
+        "agility",
+        "wildcharge",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "magicguard",
+      "moveset": [
+        "softboiled",
+        "moonblast",
+        "gravity",
+        "meteormash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marill",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "hugepower",
+      "moveset": [
+        "raindance",
+        "doubleedge",
+        "superpower",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

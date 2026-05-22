@@ -1,0 +1,113 @@
+{
+  "id": "rct_twins_joy_and_meg_0230",
+  "name": "Twins Joy & Meg",
+  "title": "Twins Joy And",
+  "gender": "any",
+  "archetype": "twins_joy_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "empoleon",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "competitive",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "flashcannon",
+        "grassknot"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "granbull",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "playrough",
+        "flareblitz",
+        "thunderpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "volbeat",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "illuminate",
+      "moveset": [
+        "thunder",
+        "bugbuzz",
+        "waterpulse",
+        "tailglow"
+      ],
+      "heldItem": "mega_showdown:electrium_z electric_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "illumise",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "tintedlens",
+      "moveset": [
+        "playrough",
+        "lunge",
+        "brickbreak",
+        "thunderpunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "minun",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "galvanize",
+      "moveset": [
+        "extremespeed",
+        "knockoff",
+        "facade",
+        "voltswitch"
+      ],
+      "heldItem": "magnet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "plusle",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "transistor",
+      "moveset": [
+        "thunderbolt",
+        "surf",
+        "hiddenpower",
+        "voltswitch"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

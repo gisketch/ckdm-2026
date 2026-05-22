@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_x_joel"
+name = "Biker Joel"
+title = "Biker"
+gender = "any"
+archetype = "biker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "biker/any"
+tier = "mid"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:magmar", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magmar", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Joel is ready for a battle.", "Wow. That’s a cool Bicycle!", "I look cool, but I’m weak, so I’m not really cool. I have to train harder..."]

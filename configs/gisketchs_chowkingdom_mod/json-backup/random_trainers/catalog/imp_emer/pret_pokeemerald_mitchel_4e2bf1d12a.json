@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeemerald_mitchell",
+  "name": "Cooltrainer Mitchell",
+  "title": "Cooltrainer",
+  "gender": "any",
+  "archetype": "cooltrainer",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "cooltrainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:lunatone",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "explosion",
+        "reflect",
+        "lightscreen",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:solrock",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "explosion",
+        "reflect",
+        "lightscreen",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainer Mitchell is ready for a battle."
+  ]
+}

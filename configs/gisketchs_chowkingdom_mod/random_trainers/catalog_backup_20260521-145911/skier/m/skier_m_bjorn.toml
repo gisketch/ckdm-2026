@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_m_bjorn"
+name = "Skier Bjorn"
+title = "Skier"
+gender = "male"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "skier/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:mantine", level = 58, gender = "MALE", nature = "timid", ability = "waterabsorb", moveset = ["psybeam", "roost", "airslash", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sneasel", level = 58, gender = "FEMALE", nature = "jolly", ability = "innerfocus", moveset = ["metalclaw", "icywind", "furyswipes", "honeclaws"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We Skiers feel Mother Nature through the soles of our feet!", "Trainers get an appreciation of life through Pokémon. At least I think so.", "Skier Male Bjorn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

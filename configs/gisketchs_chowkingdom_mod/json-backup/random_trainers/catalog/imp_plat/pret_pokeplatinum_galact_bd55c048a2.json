@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_mt_coronet_tunnel_room_1",
+  "name": "Galactic Grunt Male Grunt",
+  "title": "Galactic Grunt Male",
+  "gender": "male",
+  "archetype": "galactic_grunt_male",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:croagunk",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:stunky",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:croagunk",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I can\u2019t believe you chased me here... OK, let\u2019s see how tough you are.",
+    "Mt. Coronet... I might be just a grunt, but even I can tell it has a weird energy!"
+  ]
+}

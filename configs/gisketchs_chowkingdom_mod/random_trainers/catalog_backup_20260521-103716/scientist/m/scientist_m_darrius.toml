@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_m_darrius"
+name = "Scientist Darrius"
+title = "Scientist"
+gender = "male"
+archetype = "scientist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "scientist/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:porygon2", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "signalbeam", "icebeam", "triattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I won’t let you disrupt our research! This is for Team Galactic!", "Our boss is a scientific genius! He will make the power of mythical Pokémon his own!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_psychic_abigail",
+  "name": "Psychic Female Abigail",
+  "title": "Psychic Female",
+  "gender": "female",
+  "archetype": "psychic_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "psychic_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 23,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:chingling",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drifloon",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kirlia",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "There! Behind you!",
+    "You might be tough, but let down your guard at your own risk!"
+  ]
+}

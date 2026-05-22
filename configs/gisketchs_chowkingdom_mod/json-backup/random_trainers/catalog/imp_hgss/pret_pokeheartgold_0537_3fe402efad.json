@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0537_poke_maniac_harrison",
+  "name": "Poke Maniac Harrison",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:nidoking",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoqueen",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m not losing this time!",
+    "A while back, this karate guy wanted to battle. He was ridiculously good. He just thrashed me silly. He said something about training and went in deeper. I wonder why?"
+  ]
+}

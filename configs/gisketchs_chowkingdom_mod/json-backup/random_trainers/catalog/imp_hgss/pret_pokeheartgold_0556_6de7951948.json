@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0556_bird_keeper_gs_gail",
+  "name": "Bird Keeper Gs Gail",
+  "title": "Bird Keeper Gs",
+  "gender": "any",
+  "archetype": "bird_keeper_gs",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bird_keeper_gs/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:fearow",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:spearow",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "BASABASABASABASABASA!",
+    "Chuun-Chuun? Chunchun!"
+  ]
+}

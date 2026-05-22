@@ -1,0 +1,83 @@
+{
+  "id": "rct_fisherman_tommy_0227",
+  "name": "Fisherman Tommy",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "basculegion",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "waterfall",
+        "phantomforce",
+        "aquajet",
+        "icefang"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "earthquake",
+        "icefang"
+      ],
+      "heldItem": "wacan_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "slowbro",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "scald",
+        "psychic",
+        "calmmind",
+        "slackoff"
+      ],
+      "heldItem": "mega_showdown:slowbronite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "slowbro",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "sludgebomb",
+        "psyshock",
+        "icebeam",
+        "flamethrower"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

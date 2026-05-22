@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cameraman_x_darryl"
+name = "Cameraman Darryl"
+title = "Cameraman"
+gender = "any"
+archetype = "cameraman"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cameraman/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:luxio", level = 21, gender = "MALE", nature = "hardy", ability = "intimidate", moveset = ["leer", "charge", "bite", "spark"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 21, gender = "FEMALE", nature = "sassy", ability = "static", moveset = ["nuzzle", "tailwhip", "growl", "spark"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cameraman Darryl is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

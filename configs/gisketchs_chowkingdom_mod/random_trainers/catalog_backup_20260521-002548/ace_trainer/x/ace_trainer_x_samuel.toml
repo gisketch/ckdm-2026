@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_samuel"
+name = "Ace Trainer Samuel"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 37
+maxLevel = 39
+team = [
+  { species = "cobblemon:sandslash", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["slash", "swift", "sandattack", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandslash", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["slash", "swift", "sandattack", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhyhorn", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["takedown", "rockblast", "furyattack", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorino", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyattack", "hornattack", "poisonsting", "doublekick"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoking", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thrash", "doublekick", "poisonsting", "focusenergy"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Samuel is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

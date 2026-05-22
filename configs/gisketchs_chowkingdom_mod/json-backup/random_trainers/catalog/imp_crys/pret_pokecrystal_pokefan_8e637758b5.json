@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_pokefanf_004_beverly",
+  "name": "Pokefanf Beverly",
+  "title": "Pokefanf",
+  "gender": "any",
+  "archetype": "pokefanf",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "pokefanf/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:granbull",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokefanf Beverly is ready for a battle."
+  ]
+}

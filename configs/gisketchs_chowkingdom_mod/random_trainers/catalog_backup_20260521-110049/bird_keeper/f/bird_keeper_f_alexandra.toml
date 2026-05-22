@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_f_alexandra"
+name = "Bird Keeper Alexandra"
+title = "Bird Keeper"
+gender = "female"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/female"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:hoothoot", level = 19, gender = "FEMALE", nature = "calm", ability = "keeneye", moveset = ["peck", "echoedvoice", "confusion", "airslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Look at these beautiful wings!", "There’s a bird Pokémon that can learn human speech! Did you know that?", "I have trained this team for the road. Challenge me if you are ready."]

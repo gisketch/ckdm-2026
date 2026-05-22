@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_nico"
+name = "Sailor Nico"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:pikachu", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sailor from SS Anne Stern is ready for a battle.", "Sailor from Vermilion Gym is ready for a battle."]

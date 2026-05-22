@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_kevin"
+name = "Ace Trainer Kevin"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 46
+maxLevel = 48
+team = [
+  { species = "cobblemon:rhyhorn", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["takedown", "stoneedge", "horndrill", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charmeleon", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flamethrower", "slash", "scaryface", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wartortle", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hydropump", "icebeam", "bite", "swagger"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Kevin is ready for a battle.", "But after seeing how you battle, I want to see how I’ll fare. How about it? Let me take you on.", "That was a great battle! You and your Pokémon are truly outstanding!"]

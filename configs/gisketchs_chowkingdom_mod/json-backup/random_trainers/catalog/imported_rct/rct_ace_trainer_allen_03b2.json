@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_allen_03b2",
+  "name": "Ace Trainer Allen",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "gastly",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "payback",
+        "hex",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "haunter",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "shadowpunch",
+        "hex",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "meanlook",
+        "nightshade",
+        "hex",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

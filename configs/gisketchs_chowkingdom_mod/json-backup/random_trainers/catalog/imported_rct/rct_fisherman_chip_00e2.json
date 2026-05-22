@@ -1,0 +1,49 @@
+{
+  "id": "rct_fisherman_chip_00e2",
+  "name": "Fisherman Chip",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "tentacruel",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "clearbody",
+      "moveset": [
+        "bubblebeam",
+        "barrier",
+        "poisonjab",
+        "scald"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barraskewda",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "bite",
+        "agility",
+        "dive",
+        "laserfocus"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "passerby_x_boy"
+name = "Passerby Boy"
+title = "Passerby"
+gender = "any"
+archetype = "passerby"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "passerby/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:chikorita", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Passerby Boy is ready for a battle."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_ranger_x_kyler"
+name = "Pok Mon Ranger Kyler"
+title = "Pok Mon Ranger"
+gender = "any"
+archetype = "pok_mon_ranger"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_ranger/any"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.14
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:exeggutor", level = 60, gender = "MALE", nature = "modest", ability = "chlorophyll", moveset = ["worryseed", "leechseed", "leafstorm", "psyshock"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ursaring", level = 60, gender = "MALE", nature = "adamant", ability = "guts", moveset = ["scaryface", "rest", "snore", "thrash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

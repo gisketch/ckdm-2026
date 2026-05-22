@@ -1,0 +1,88 @@
+{
+  "id": "rct_picnicker_alicia_009a",
+  "name": "Picnicker Alicia",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:oddish",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "megadrain",
+        "sludge",
+        "moonlight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "chlorophyll",
+      "moveset": [
+        "poisonpowder",
+        "stunspore",
+        "sludge",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sewaddle",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "stringshot",
+        "bugbite",
+        "razorleaf",
+        "strugglebug"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:morelull",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "effectspore",
+      "moveset": [
+        "megadrain",
+        "sleeppowder",
+        "ingrain",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

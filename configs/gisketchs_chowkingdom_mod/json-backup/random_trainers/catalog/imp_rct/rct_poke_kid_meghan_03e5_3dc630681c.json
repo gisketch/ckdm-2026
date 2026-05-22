@@ -1,0 +1,88 @@
+{
+  "id": "rct_poke_kid_meghan_03e5",
+  "name": "Pok\u00e9 Kid Meghan",
+  "title": "Pok\u00e9 Kid",
+  "gender": "any",
+  "archetype": "pok_kid",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_kid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "spark",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "doubleteam",
+        "spark",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "electroball",
+        "agility",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "nastyplot",
+        "thunderbolt",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

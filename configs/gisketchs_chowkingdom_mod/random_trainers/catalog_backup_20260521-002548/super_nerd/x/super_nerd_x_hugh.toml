@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_x_hugh"
+name = "Super Nerd Hugh"
+title = "Super Nerd"
+gender = "any"
+archetype = "super_nerd"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "super_nerd/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:seadra", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "twister", "surf", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Hugh is ready for a battle.", "Yo! Markus!", "I came to explore Mt. Mortar, but I got separated from my partner... Did you run into a Trainer who uses a SLOWPOKE? That SLOWPOKE is really good at using Strength."]

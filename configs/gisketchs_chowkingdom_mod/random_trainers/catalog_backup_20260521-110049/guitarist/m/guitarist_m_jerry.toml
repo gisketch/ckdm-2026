@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "guitarist_m_jerry"
+name = "Guitarist Jerry"
+title = "Guitarist"
+gender = "male"
+archetype = "guitarist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "guitarist/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:luxio", level = 44, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["leer", "bite", "spark", "irontail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I want to win! That desire I pour into my guitar! I want to win! That passion compels my Pokémon!", "The Trainer’s desire to win! If you don’t lose that, there’s no limit on what you can become!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_lady_kylie_048b",
+  "name": "Lady Kylie",
+  "title": "Lady",
+  "gender": "any",
+  "archetype": "lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "bonsly",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "copycat",
+        "flail",
+        "rockthrow",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pichu",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "nuzzle",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

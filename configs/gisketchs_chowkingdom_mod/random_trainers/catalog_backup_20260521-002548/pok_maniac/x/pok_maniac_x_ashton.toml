@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_maniac_x_ashton"
+name = "Pok Maniac Ashton"
+title = "Pok Maniac"
+gender = "any"
+archetype = "pok_maniac"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_maniac/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:mrmime", level = 32, gender = "FEMALE", nature = "naive", ability = "screencleaner", moveset = ["icywind", "doublekick", "psybeam", "hypnosis"], heldItem = "", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:farfetchd", level = 32, gender = "FEMALE", nature = "hardy", ability = "steadfast", moveset = ["rocksmash", "brutalswing", "detect", "knockoff"], heldItem = "", shiny = false, aspects = ["galarian"] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

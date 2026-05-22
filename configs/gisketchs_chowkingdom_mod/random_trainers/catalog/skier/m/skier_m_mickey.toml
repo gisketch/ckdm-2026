@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_m_mickey"
+name = "Skier Mickey"
+title = "Skier"
+gender = "male"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "skier/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Skier Male Mickey is ready for a battle."]

@@ -2,448 +2,549 @@
 id = "expansion_37_001"
 topic = "river_crossing_safety"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Always check the river depth before wading. A calm surface can hide a swift."
 response = "Villager: I saw a drifloon get swept away near the ferry last week. I will be more careful."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_002"
 topic = "ferry_schedule"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["gandalf", "katara"]
 target_tags = ["mentor"]
 line = "Katara: The east dock ferry runs until moonrise. Do not miss the last barge if you patrol the."
 response = "Gandalf: A timely warning. Even a wizard dislikes swimming in full robes."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_003"
 topic = "fish_population"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Lumineon are spawning near the harbor mouth. Their scales reflect the skyland light."
 response = "Villager: I will bring a net at dawn. My shop needs fresh stock for the seed traders."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_004"
 topic = "dock_repair"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: Katara, the north dock plank snapped. Can your bending hold it steady while I hammer?"
 response = "Katara: Of course. Gather the nails and I will freeze a temporary brace beneath the piling."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_005"
 topic = "boat_inspection"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The patrol skiff leaks near the stern. The caulk washed out during the last storm."
 response = "Katara: I will seal it with a thin ice layer. It should hold until the boatwright arrives."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_006"
 topic = "skyland_runoff"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["gandalf", "katara"]
 target_tags = ["mentor"]
 line = "Katara: Rain from the upper skylands feeds the river. It carries seeds and strange pollen."
 response = "Gandalf: That explains the unusual blooms near the mill. I shall collect samples at dusk."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_007"
 topic = "fishing_etiquette"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Leave the small magikarp. They are not worth the hook and the river needs them."
 response = "Villager: I understand. A healthy river gives more later. I will tell the other fishers."
+source_emote = "shrug"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_008"
 topic = "cargo_barge"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The ore barge is overloaded again. It sits too low in the channel near the bend."
 response = "Katara: I will guide it with a gentle wave. The river responds better to help than force."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_009"
 topic = "flood_watch"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The snowmelt from the northern peaks is early this year. Watch the bank markers."
 response = "Villager: I will move the supply barrels to higher ground. Thank you for the warning."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_010"
 topic = "water_purify"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["gym_jasmine", "katara", "zuko"]
 target_tags = ["mentor"]
 line = "Katara: I bent the silt from the town well. The water should taste clean for the next moon."
 response = "Zuko: Even fire needs clean water for tea. The Jasmine Dragon crew sends thanks."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_011"
 topic = "night_fishing"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: Do the glowing chinchou near the pier disturb your bending at night?"
 response = "Katara: Not at all. Their light helps me see the current lines. They are friendly guides."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_012"
 topic = "river_mapping"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara", "toph"]
 target_tags = ["mentor"]
 line = "Katara: I charted a new sandbar below the second bridge. The patrols need an updated map."
 response = "Toph: Good. I felt the shift last week. The riverbed hums differently now."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_013"
 topic = "crab_catch"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: Krabby are pinching the nets near the reeds. Can you shoo them away with a wave?"
 response = "Katara: I will nudge them downstream. They are just hungry, not hostile."
+source_emote = "head_scratches"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_014"
 topic = "ice_bridge"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The winter ford is too icy. I can freeze a proper bridge until the thaw."
 response = "Villager: The children need a safe crossing for school. That would be a blessing."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_015"
 topic = "drifloon_migration"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["aang", "katara"]
 target_tags = ["mentor"]
 line = "Katara: A flock of drifloon is drifting downriver. They ride the breeze above my waves."
 response = "Aang: I will fly with them for a while. The skylands call to us both today."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_016"
 topic = "harbor_torch"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The harbor brazier went out in the squall. Boats cannot see the dock entrance."
 response = "Katara: I will hold a glowing sphere of water above the mooring post until it is relit."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_017"
 topic = "river_herbs"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["invoker", "katara"]
 target_tags = ["mentor"]
 line = "Katara: Watermint grows thick on the shaded bank near the wizard tower."
 response = "Invoker: I will send an apprentice to harvest. My potions need fresh stock."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_018"
 topic = "anchor_retrieve"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: We lost an anchor in the deep channel. The rope snapped during the squall."
 response = "Katara: I sense it lodged between two rocks. I will lift it with a current."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_019"
 topic = "skyland_debris"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara", "toph"]
 target_tags = ["mentor"]
 line = "Katara: A chunk of skyland stone fell into the river mouth. The shipping lane is blocked."
 response = "Toph: I felt the splash from here. I will shatter the stone if you part the water."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_020"
 topic = "otter_sighting"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: A buizel family moved into the dock pilings. They keep the invasive shellder away."
 response = "Villager: I will leave fish scraps near the far piling. Welcome neighbors deserve a gift."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_021"
 topic = "fog_navigation"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Morning fog hides the channel markers. Listen for my water bells near the bend."
 response = "Villager: That is clever. The sound carries strangely over water. I will follow it."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_022"
 topic = "bilge_clear"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The patrol boat bilge is full. We cannot bail fast enough with buckets."
 response = "Katara: I will draw the water out in one motion. Stand clear of the deck."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_023"
 topic = "cold_water"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["elsa", "katara"]
 target_tags = ["mentor"]
 line = "Katara: The river is colder than usual for this season. The skyland ice sheets must be melting."
 response = "Elsa: I feel it too. My frost reaches deeper into the water table every night."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_024"
 topic = "hatchery_visit"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The fish hatchery needs a water quality check. The fry seem sluggish."
 response = "Katara: I will test the flow and oxygen. A quick stir might save the whole generation."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_025"
 topic = "river_trade"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The trade raft from the southern villages is late. Shall I send a wave signal upstream?"
 response = "Villager: Please do. The seed merchant needs her parcel before the planting moon."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_026"
 topic = "waterwheel"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The mill waterwheel is stuck. A log jammed the paddles near the axle."
 response = "Katara: I will lift the log with a spout. The flour supply depends on that wheel."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_027"
 topic = "rain_call"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["aang", "katara"]
 target_tags = ["mentor"]
 line = "Katara: The river level is dropping. The crops need a gentle rain, not a flood."
 response = "Aang: I will coax a cloud down from the skylands. A soft rain by evening."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_028"
 topic = "net_mending"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The main fishing net is torn. The gyarados season is too close to lose days."
 response = "Katara: I can hold the net open underwater while you stitch. The tension will be even."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_029"
 topic = "spring_thaw"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The ice is breaking up near the bridge. Do not walk across until I clear the floes."
 response = "Villager: I saw a crack this morning and stayed back. Good timing on the warning."
+source_emote = "clap"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_030"
 topic = "harbor_dredge"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The harbor mouth is silting up. The big trading cogs scrape bottom at low tide."
 response = "Katara: I will push the silt into the deep channel at midnight. The harbor must stay open."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_031"
 topic = "river_pearls"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Shellder near the old dam drop pearls sometimes. Small but very lustrous."
 response = "Villager: Shoumai would love those for her shop. I will dive carefully at noon."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_032"
 topic = "current_change"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["gandalf", "katara"]
 target_tags = ["mentor"]
 line = "Katara: The main current shifted overnight. The old ford is now too fast to cross safely."
 response = "Gandalf: The river has a mind of its own. I will reroute the patrol path accordingly."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_033"
 topic = "turtle_rest"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: A tirtouga climbed onto the dock and refuses to move. It is blocking the bait shed."
 response = "Katara: Let it rest. They only come ashore to warm their shells after deepwater dives."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_034"
 topic = "canoe_race"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The festival canoe race needs currents calmed near the finish line. Safety first."
 response = "Villager: The young warriors get too eager. Your help will keep the race fair and dry."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_035"
 topic = "skyland_fall"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara", "zelda"]
 target_tags = ["mentor"]
 line = "Katara: Another skyland fragment fell last night. I will dive to check if it blocked the."
 response = "Zelda: I recall similar stones from my time above. They hum with ancient light energy."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_036"
 topic = "rope_ferry"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The rope ferry is frayed. We need a calm crossing to replace the line safely."
 response = "Katara: I will hold the water still between the posts. Work quickly and double-knot."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_037"
 topic = "monsoon_prep"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The monsoon will swell the river in three days. Sandbags near the lower shops."
 response = "Villager: I will rally the market guild. We saved the seed vault last year with your warning."
+source_emote = "hi"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_038"
 topic = "duckling_rescue"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Ducklett chicks are trapped in a whirlpool near the reeds. I will calm the water."
 response = "Villager: I will scoop them with a basket. Their mother is frantic on the bank."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_039"
 topic = "river_patrol"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["finn", "katara"]
 target_tags = ["mentor"]
 line = "Katara: Finn patrols the north bank and I watch the water. We make a good team."
 response = "Finn: Yeah! Plus you can splash monsters into my sword range. High five from the bank!"
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_040"
 topic = "dock_lantern"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The dock lantern oil is low. Can you guide the last barge in with a glowing wave?"
 response = "Katara: I will shape a phosphorescent swirl. The helmsman will see it from the bend."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_041"
 topic = "water_cress"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Wild watercress near the spring is ready. The taste is sharp and clean this year."
 response = "Villager: I will harvest before the deerling find it. The tavern cook will be thrilled."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_042"
 topic = "bridge_sound"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara", "venti"]
 target_tags = ["mentor"]
 line = "Katara: The old stone bridge sings when the water is high. Frequencies only a wizard hears."
 response = "Venti: Music everywhere, even in stone and current. I will compose a river ballad tonight."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_043"
 topic = "eel_warning"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: An eelektrik is nesting near the swimming beach. Post a warning before someone gets."
 response = "Villager: I will paint a sign immediately. The children swim there after lessons."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_044"
 topic = "skiff_race"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The apprentice skiff race is today. Can you judge the finish from mid-river?"
 response = "Katara: I will raise a water pillar at the line. First prow to touch it wins."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_045"
 topic = "algae_bloom"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: Green algae is spreading near the tannery outflow. I will aerate the water tonight."
 response = "Villager: I will speak to the tanner about diluting his vats. The fish are gasping."
+source_emote = "hi"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_046"
 topic = "moon_tide"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["huntress_wizard", "katara"]
 target_tags = ["mentor"]
 line = "Katara: The full moon pulls the river highest. My bending feels strongest on nights like this."
 response = "Huntress Wizard: The moon also sharpens my arrows. We should patrol together then."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_047"
 topic = "plank_check"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: The ferry ramp planks are warping. Can you soak them evenly so they flatten?"
 response = "Katara: I will mist them slowly. Rapid water would split the grain. Patience is key."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_048"
 topic = "fish_market"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara: The morning catch was abundant. The river gives generously when respected."
 response = "Villager: The market stalls smell of fresh bass and basil. The town eats well tonight."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_049"
 topic = "ring_recovery"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Villager: I dropped my wedding band off the dock. It sank into the silt instantly."
 response = "Katara: I will part the water and sift the silt. Small metal sings clearly to a waterbender."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_37_050"
 topic = "river_song"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["gandalf", "katara"]
 target_tags = ["mentor"]
 line = "Katara: The river has a new song tonight. It hums with something old waking in the skylands."
 response = "Gandalf: I hear it too. The river remembers more than we do. I will watch the stars."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0

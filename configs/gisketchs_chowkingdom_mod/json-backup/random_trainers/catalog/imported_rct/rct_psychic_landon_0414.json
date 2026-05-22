@@ -1,0 +1,33 @@
+{
+  "id": "rct_psychic_landon_0414",
+  "name": "Psychic Landon",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "reflect",
+        "dazzlinggleam",
+        "psychic",
+        "teeterdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

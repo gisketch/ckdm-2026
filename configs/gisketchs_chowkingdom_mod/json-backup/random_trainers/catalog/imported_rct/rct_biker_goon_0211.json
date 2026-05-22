@@ -1,0 +1,69 @@
+{
+  "id": "rct_biker_goon_0211",
+  "name": "Biker Goon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "avalugg",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "rockblast",
+        "iciclespear",
+        "headlongrush",
+        "iceshard"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "braviary",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "sheerforce",
+      "moveset": [
+        "hurricane",
+        "psychic",
+        "heatwave",
+        "esperwing"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "sharpedo",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": [
+        "protect",
+        "liquidation",
+        "crunch",
+        "closecombat"
+      ],
+      "heldItem": "mega_showdown:sharpedonite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

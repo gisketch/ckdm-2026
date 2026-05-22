@@ -1,0 +1,134 @@
+{
+  "id": "rct_pokemon_trainer_lucas_0597",
+  "name": "Pok\u00e9mon Trainer Lucas",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "cobblemon:gliscor",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "poisonheal",
+      "moveset": [
+        "earthquake",
+        "acrobatics",
+        "fling",
+        "roost"
+      ],
+      "heldItem": [
+        "toxic_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cradily",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "stormdrain",
+      "moveset": [
+        "gigadrain",
+        "leechseed",
+        "ingrain",
+        "stockpile"
+      ],
+      "heldItem": [
+        "big_root"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:glaceon",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "icebody",
+      "moveset": [
+        "freezedry",
+        "blizzard",
+        "hail",
+        "waterpulse"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rotom",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "overheat",
+        "thunderbolt",
+        "voltswitch",
+        "hex"
+      ],
+      "heldItem": [
+        "choice_specs"
+      ],
+      "shiny": false,
+      "aspects": [
+        "heat-appliance"
+      ]
+    },
+    {
+      "species": "cobblemon:tauros",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "blizzard",
+        "fireblast",
+        "thunder"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "aquajet",
+        "waterfall",
+        "steelwing",
+        "earthquake"
+      ],
+      "heldItem": [
+        "choice_band"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

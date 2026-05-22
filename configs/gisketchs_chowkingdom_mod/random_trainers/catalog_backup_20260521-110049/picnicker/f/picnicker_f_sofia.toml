@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_sofia"
+name = "Picnicker Sofia"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 34
+maxLevel = 35
+team = [
+  { species = "cobblemon:carbink", level = 35, gender = "GENDERLESS", nature = "hardy", ability = "clearbody", moveset = ["stealthrock", "guardsplit", "ancientpower", "flail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snorunt", level = 34, gender = "MALE", nature = "adamant", ability = "icebody", moveset = ["bite", "icefang", "headbutt", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:swinub", level = 35, gender = "FEMALE", nature = "brave", ability = "snowcloak", moveset = ["icywind", "icefang", "takedown", "mist"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Sofia is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

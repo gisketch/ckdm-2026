@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_m_brendan"
+name = "Trainer Brendan"
+title = "Trainer"
+gender = "male"
+archetype = "trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "trainer/male"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 81
+maxLevel = 82
+team = [
+  { species = "cobblemon:deoxys", level = 81, gender = "GENDERLESS", nature = "naive", ability = "pressure", moveset = ["psychic", "icebeam", "superpower", "extremespeed"], heldItem = "['focus_sash']", shiny = false, aspects = ["attack"] },
+  { species = "cobblemon:jirachi", level = 81, gender = "GENDERLESS", nature = "jolly", ability = "serenegrace", moveset = ["ironhead", "uturn", "thunderpunch", "zenheadbutt"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:landorus", level = 82, gender = "MALE", nature = "timid", ability = "sandforce", moveset = ["earthpower", "rockslide", "sludgewave", "aurasphere"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:zapdos", level = 81, gender = "GENDERLESS", nature = "jolly", ability = "defiant", moveset = ["bravebird", "closecombat", "uturn", "blazekick"], heldItem = "['choice_band']", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:huntail", level = 81, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["shellsmash", "liquidation", "crunch", "icefang"], heldItem = "['white_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:sceptile", level = 82, gender = "FEMALE", nature = "jolly", ability = "overgrow", moveset = ["swordsdance", "scaleshot", "bulletseed", "earthquake"], heldItem = "['mega_showdown:sceptilite', 'expert_belt']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_hugh_022a",
+  "name": "Black Belt Hugh",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "heracross",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "megahorn",
+        "closecombat",
+        "earthquake",
+        "stoneedge"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "medicham",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "hugepower",
+      "moveset": [
+        "closecombat",
+        "zenheadbutt",
+        "fakeout",
+        "icepunch"
+      ],
+      "heldItem": "mega_showdown:medichamite choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tyrantrum",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "dragondance",
+        "headsmash",
+        "dragonclaw",
+        "closecombat"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

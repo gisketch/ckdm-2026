@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokefirered_lass_robin",
+  "name": "Lass Robin",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:jigglypuff",
+      "level": 14,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Robin is ready for a battle."
+  ]
+}

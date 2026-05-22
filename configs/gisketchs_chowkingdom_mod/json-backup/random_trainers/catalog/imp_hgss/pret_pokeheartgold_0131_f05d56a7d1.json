@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0131_poke_maniac_brent",
+  "name": "Poke Maniac Brent",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:nidorina",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidorino",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey! Do you have any rare Pok\u00e9mon?",
+    "I\u2019d be happy just to own a single rare Pok\u00e9mon."
+  ]
+}

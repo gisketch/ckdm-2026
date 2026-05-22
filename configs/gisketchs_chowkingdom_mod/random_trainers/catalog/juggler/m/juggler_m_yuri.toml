@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_yuri"
+name = "Juggler Yuri"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:drowzee", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hypno", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler from Victory Road 2F is ready for a battle."]

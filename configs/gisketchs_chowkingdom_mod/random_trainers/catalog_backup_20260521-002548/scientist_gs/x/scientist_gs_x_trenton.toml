@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_gs_x_trenton"
+name = "Scientist Gs Trenton"
+title = "Scientist Gs"
+gender = "any"
+archetype = "scientist_gs"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "scientist_gs/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:porygon", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["conversion", "conversion2", "recover", "chargebeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Most excellent! This Radio Tower will fulfill our grand design.", "Do you honestly believe you can stop Team Rocket?"]

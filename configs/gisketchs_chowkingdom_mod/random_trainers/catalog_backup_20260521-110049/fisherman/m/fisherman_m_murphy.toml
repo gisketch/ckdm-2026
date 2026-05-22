@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_murphy"
+name = "Fisherman Murphy"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 32
+maxLevel = 38
+team = [
+  { species = "cobblemon:corsola", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:corsola", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:corsola", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:corsola", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Huh? I’ve caught a Trainer instead of a Pokémon!", "It’s said that the Pokémon that escaped were huge. It’s the truth!"]

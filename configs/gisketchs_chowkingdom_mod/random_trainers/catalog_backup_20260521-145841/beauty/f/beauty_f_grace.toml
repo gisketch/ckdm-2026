@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_grace"
+name = "Beauty Grace"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:clefable", level = 58, gender = "MALE", nature = "naughty", ability = "magicguard", moveset = ["doubleslap", "metronome", "teleport", "moonblast"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wigglytuff", level = 58, gender = "MALE", nature = "quiet", ability = "competitive", moveset = ["sing", "disable", "covet", "moonblast"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Grace is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

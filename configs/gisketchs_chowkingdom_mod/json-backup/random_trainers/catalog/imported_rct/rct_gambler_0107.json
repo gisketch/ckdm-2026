@@ -1,0 +1,32 @@
+{
+  "id": "rct_gambler_0107",
+  "name": "Gambler",
+  "title": "Gambler 0107",
+  "gender": "any",
+  "archetype": "gambler_0107",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

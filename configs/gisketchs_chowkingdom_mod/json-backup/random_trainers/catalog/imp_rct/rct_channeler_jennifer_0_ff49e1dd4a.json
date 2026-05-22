@@ -1,0 +1,40 @@
+{
+  "id": "rct_channeler_jennifer_01c5",
+  "name": "Channeler Jennifer",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:chimecho",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "extrasensory",
+        "healbell",
+        "uproar",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_marcy_026b",
+  "name": "Picnicker Marcy",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "paras",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "dryskin",
+      "moveset": [
+        "swordsdance",
+        "leafblade",
+        "crabhammer",
+        "aromatherapy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "paras",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "dryskin",
+      "moveset": [
+        "swordsdance",
+        "leafblade",
+        "crabhammer",
+        "aromatherapy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "parasect",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "dryskin",
+      "moveset": [
+        "leechlife",
+        "swordsdance",
+        "sappyseed",
+        "crabhammer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

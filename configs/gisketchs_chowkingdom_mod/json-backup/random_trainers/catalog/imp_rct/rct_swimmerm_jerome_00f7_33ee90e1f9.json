@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_jerome_00f7",
+  "name": "Swimmer\u2642 Jerome",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:simipour",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "gluttony",
+      "moveset": [
+        "scald",
+        "leer",
+        "lick",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:blastoise",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "torrent",
+      "moveset": [
+        "icebeam",
+        "irondefense",
+        "raindance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

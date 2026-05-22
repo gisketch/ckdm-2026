@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokefirered_swimmer_female_abigail",
+  "name": "Swimmer Female Abigail",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:psyduck",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:psyduck",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmer Female Abigail is ready for a battle."
+  ]
+}

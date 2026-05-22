@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_jerome",
+  "name": "Swimmer Male Jerome",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmer Male Jerome is ready for a battle."
+  ]
+}

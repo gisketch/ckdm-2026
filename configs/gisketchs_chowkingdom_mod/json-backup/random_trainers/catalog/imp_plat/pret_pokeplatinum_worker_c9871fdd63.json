@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_worker_colin",
+  "name": "Worker Colin",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 8,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Fine, all righty then. Just a quick battle on my break!",
+    "I\u2019d better get on back to work... You know, I\u2019d rather be traveling around with Pok\u00e9mon the way you do."
+  ]
+}

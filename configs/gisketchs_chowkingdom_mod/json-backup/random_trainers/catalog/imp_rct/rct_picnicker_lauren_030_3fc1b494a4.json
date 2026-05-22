@@ -1,0 +1,40 @@
+{
+  "id": "rct_picnicker_lauren_0305",
+  "name": "Picnicker Lauren",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "babydolleyes",
+        "quickattack",
+        "spark",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

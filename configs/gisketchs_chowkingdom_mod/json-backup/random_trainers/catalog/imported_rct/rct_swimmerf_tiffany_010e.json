@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmerf_tiffany_010e",
+  "name": "Swimmer♀ Tiffany",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 65,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "lapras",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "hydration",
+      "moveset": [
+        "hydropump",
+        "dragonpulse",
+        "wish",
+        "boomburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

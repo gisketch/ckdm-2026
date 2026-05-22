@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokecrystal_pokemaniac_011_issac",
+  "name": "Pokemaniac Issac",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "pokemaniac/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 12,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "cobblemon:lickitung",
+      "level": 12,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lick",
+        "supersonic",
+        "cut"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemaniac Issac is ready for a battle."
+  ]
+}

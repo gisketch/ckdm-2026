@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battle_girl_f_tylor"
+name = "Battle Girl Tylor"
+title = "Battle Girl"
+gender = "female"
+archetype = "battle_girl"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "battle_girl/female"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.95
+bustStyle = "standard"
+minLevel = 34
+maxLevel = 34
+team = [
+  { species = "cobblemon:medicham", level = 34, gender = "FEMALE", nature = "quirky", ability = "purepower", moveset = ["thunderpunch", "icepunch", "psybeam", "acupressure"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

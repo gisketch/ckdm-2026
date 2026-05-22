@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_mitchell_0344",
+  "name": "Psychic Mitchell",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "haunter",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "meanlook",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "psychocut"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

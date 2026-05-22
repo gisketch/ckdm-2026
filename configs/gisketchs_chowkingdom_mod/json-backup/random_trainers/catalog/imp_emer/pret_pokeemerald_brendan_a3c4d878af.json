@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_brendan_placeholder",
+  "name": "Protag Brendan",
+  "title": "Protag",
+  "gender": "any",
+  "archetype": "protag",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "protag/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:groudon",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Protag Brendan is ready for a battle."
+  ]
+}

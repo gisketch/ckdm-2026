@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_kid_x_angelica"
+name = "Poke Kid Angelica"
+title = "Poke Kid"
+gender = "any"
+archetype = "poke_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "poke_kid/any"
+tier = "low"
+spawnable = true
+height = 0.88
+weight = 0.93
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Poke Kid Angelica is ready for a battle."]

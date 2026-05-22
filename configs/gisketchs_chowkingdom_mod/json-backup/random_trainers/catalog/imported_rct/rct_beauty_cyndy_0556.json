@@ -1,0 +1,33 @@
+{
+  "id": "rct_beauty_cyndy_0556",
+  "name": "Beauty Cyndy",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "purugly",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "aerialace",
+        "bodyslam",
+        "attract",
+        "honeclaws"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_leroy",
+  "name": "Cooltrainer Leroy",
+  "title": "Cooltrainer",
+  "gender": "any",
+  "archetype": "cooltrainer",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "cooltrainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 46,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:mawile",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainer Leroy is ready for a battle."
+  ]
+}

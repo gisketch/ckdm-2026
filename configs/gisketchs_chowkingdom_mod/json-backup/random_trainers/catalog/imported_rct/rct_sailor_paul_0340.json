@@ -1,0 +1,49 @@
+{
+  "id": "rct_sailor_paul_0340",
+  "name": "Sailor Paul",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "waterfall",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "strength"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

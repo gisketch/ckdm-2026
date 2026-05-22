@@ -5,6 +5,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "Fresh tracks heading northeast. Looks like a small pack."
 response = "Good. Let me take point if they get close."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -16,6 +18,8 @@ source_ids = ["geralt"]
 target_ids = ["traxex"]
 line = "Trampled brush and broken twigs. Something dragged a body."
 response = "Follow the blood trail. It is still warm."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -27,6 +31,8 @@ source_ids = ["ezio"]
 target_ids = ["legolas"]
 line = "Two guards by the gate, one on the tower."
 response = "I can take the tower first. Quiet arrow."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -38,6 +44,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "Your bow is well made. What draw weight?"
 response = "Enough to punch through machine armor."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -49,6 +57,8 @@ source_ids = ["ezio"]
 target_ids = ["vi"]
 line = "Stay in the shadows. Do not charge until I signal."
 response = "Fine. But if you get spotted, I'm coming in loud."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -60,6 +70,8 @@ source_ids = ["vi"]
 target_ids = ["geralt"]
 line = "You look like you can handle yourself. Need help?"
 response = "Only if I fall. Stay clear until then."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -71,6 +83,8 @@ source_ids = ["geralt"]
 target_ids = ["traxex"]
 line = "Necrophages feed on corpses. Burn the nest."
 response = "I will cover you while you light the oil."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -82,6 +96,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "Your gear is not rated for deep frost."
 response = "It will hold. I've survived worse than snow."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -93,6 +109,8 @@ source_ids = ["aloy"]
 target_ids = ["ezio"]
 line = "Bandits have been hitting caravans on this pass."
 response = "Let me scout ahead. Watch for ambush points."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -104,6 +122,8 @@ source_ids = ["traxex"]
 target_ids = ["legolas"]
 line = "No movement in the valley. Wind is steady."
 response = "Then we proceed. Keep your eyes open."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -115,6 +135,8 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "Claw marks on the tree trunk. Something large."
 response = "Probably a troll. Avoid eye contact."
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -126,6 +148,8 @@ source_ids = ["vi"]
 target_ids = ["ezio"]
 line = "Two sentries on the wall. Third one is sleeping."
 response = "We take the sleeper first. Then the others."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -137,6 +161,8 @@ source_ids = ["aloy"]
 target_ids = ["legolas"]
 line = "Your arrows have a clean fletch. Do you make them?"
 response = "I do. Every feather tuned for minimum drift."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -148,6 +174,8 @@ source_ids = ["geralt"]
 target_ids = ["vi"]
 line = "Step where I step. No broken twigs."
 response = "I can move quiet. Just don't slow me down."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -159,6 +187,8 @@ source_ids = ["ezio"]
 target_ids = ["traxex"]
 line = "If I fall from the roof, catch me."
 response = "I will not be fast enough. Do not fall."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -170,6 +200,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "A wyvern circles above. It marks us as prey."
 response = "I have a rope and a spear. Draw it low."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -181,6 +213,8 @@ source_ids = ["geralt"]
 target_ids = ["traxex"]
 line = "Your breath fogs less than mine. From the north?"
 response = "The frozen wastes. You learn to breathe shallow."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -192,6 +226,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "Rocks on the road. Could be a trap."
 response = "I'll kick them aside. If it's a trap, I punch back."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -203,6 +239,8 @@ source_ids = ["ezio"]
 target_ids = ["geralt"]
 line = "Three campfires visible. At least a dozen bandits."
 response = "Too many for a direct fight. Use poison."
+source_emote = "shrug"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -214,6 +252,8 @@ source_ids = ["vi"]
 target_ids = ["aloy"]
 line = "Footprints heading toward the river. Small party."
 response = "Probably gathering water. We can cut them off."
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -225,6 +265,8 @@ source_ids = ["legolas"]
 target_ids = ["ezio"]
 line = "The patrol passes every hour. We have a gap."
 response = "Enough time to cross the courtyard unseen."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -236,6 +278,8 @@ source_ids = ["traxex"]
 target_ids = ["geralt"]
 line = "Your crossbow is reliable. But it is slow."
 response = "One shot is all I need. You are a blade."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -247,6 +291,8 @@ source_ids = ["aloy"]
 target_ids = ["legolas"]
 line = "Use the tall grass. Crouch and stay still."
 response = "We elves know this dance. Lead on."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -258,6 +304,8 @@ source_ids = ["vi"]
 target_ids = ["traxex"]
 line = "You hit that shot from two hundred paces. Nice."
 response = "It was average. I will do better next time."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -269,6 +317,8 @@ source_ids = ["geralt"]
 target_ids = ["ezio"]
 line = "A basilisk lair. The stench is unmistakable."
 response = "Then we smoke it out. I have incendiaries."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -280,6 +330,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "Your hands are shaking. Wrap them in fur."
 response = "I'll be fine. Just keep moving."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -291,6 +343,8 @@ source_ids = ["ezio"]
 target_ids = ["legolas"]
 line = "Cart tracks end abruptly. Could be a carriage robbery."
 response = "They must have unhitched the horses. Sneak ahead."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -302,6 +356,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "Ridge to the east gives a clear view of their camp."
 response = "I will climb it. Signal me if they move."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -313,6 +369,8 @@ source_ids = ["geralt"]
 target_ids = ["vi"]
 line = "Blood on the snow. Not human."
 response = "Wolf or bear? We should track it."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -324,6 +382,8 @@ source_ids = ["aloy"]
 target_ids = ["traxex"]
 line = "They switch guards at midnight. Only four awake."
 response = "We strike then. I will take the archer."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -335,6 +395,8 @@ source_ids = ["legolas"]
 target_ids = ["traxex"]
 line = "Your longbow is made of yew. Superior wood."
 response = "It sings in the cold. The string never slackens."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -346,6 +408,8 @@ source_ids = ["ezio"]
 target_ids = ["aloy"]
 line = "Stay behind the columns. Guard has torches."
 response = "I'll stick to the shadows. Move when he turns."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -357,6 +421,8 @@ source_ids = ["vi"]
 target_ids = ["geralt"]
 line = "That monster is huge. You sure you got it?"
 response = "I have dealt with worse. Watch my flank."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -368,6 +434,8 @@ source_ids = ["traxex"]
 target_ids = ["legolas"]
 line = "A pack of ice wolves howls in the gorge."
 response = "They have a den nearby. We burn it."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -379,6 +447,8 @@ source_ids = ["geralt"]
 target_ids = ["aloy"]
 line = "The sun sets in two hours. Temperature drops fast."
 response = "We make camp before dark. I'll gather firewood."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -390,6 +460,8 @@ source_ids = ["legolas"]
 target_ids = ["ezio"]
 line = "A corpse lies on the road. Possibly a merchant."
 response = "Check the body. But watch for traps."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -401,6 +473,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "I count six in the main hall. Two in the back."
 response = "We can take the back first. Then the hall."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -412,6 +486,8 @@ source_ids = ["ezio"]
 target_ids = ["traxex"]
 line = "Two sets of prints converge here. They met."
 response = "One walked away. The other lies ahead."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -423,6 +499,8 @@ source_ids = ["vi"]
 target_ids = ["legolas"]
 line = "Patrol route loops every thirty minutes."
 response = "We have exactly that long to cross the square."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -434,6 +512,8 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "I need better arrows for armored machines."
 response = "Use dimeritium tips. They cut through plate."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -445,6 +525,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "Put out your torch. They will see us from a mile."
 response = "Right. I'll follow your footsteps then."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -456,6 +538,8 @@ source_ids = ["geralt"]
 target_ids = ["aloy"]
 line = "You move fast for someone with heavy gear."
 response = "I stripped armor for speed. Less noise."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -467,6 +551,8 @@ source_ids = ["legolas"]
 target_ids = ["ezio"]
 line = "A drake circles over the mountain peak."
 response = "Not our fight unless it comes down."
+source_emote = "wave"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -478,6 +564,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "Your oil will freeze. Keep it inside your coat."
 response = "Thanks. Never fought in this cold before."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -489,6 +577,8 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "Abandoned cart on the bridge. Could be a lure."
 response = "Smell the air. Decay or smoke?"
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -500,6 +590,8 @@ source_ids = ["ezio"]
 target_ids = ["traxex"]
 line = "The fort has a weak spot in the east wall."
 response = "Good. I can put an arrow through any slit."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -511,6 +603,8 @@ source_ids = ["vi"]
 target_ids = ["aloy"]
 line = "Hoofprints. At least a dozen horses."
 response = "Could be a cavalry patrol. Stay alert."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -522,6 +616,8 @@ source_ids = ["geralt"]
 target_ids = ["legolas"]
 line = "One guard walks the battlement. The rest sleep."
 response = "I will silence him. You cover the door."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -533,6 +629,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "Your bowstring is frayed. Replace it before it snaps."
 response = "I will. Do you have a spare?"
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -544,6 +642,8 @@ source_ids = ["legolas"]
 target_ids = ["vi"]
 line = "Do not walk on the gravel. Use the grass strip."
 response = "Got it. You have good eyes."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -555,6 +655,8 @@ source_ids = ["ezio"]
 target_ids = ["geralt"]
 line = "If they surround me, drop a smoke bomb."
 response = "I carry one. But I prefer you do not get surrounded."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -566,6 +668,8 @@ source_ids = ["aloy"]
 target_ids = ["traxex"]
 line = "A thunderjaw roams the plains. We avoid it."
 response = "Agreed. Not enough arrows to kill that beast."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -577,6 +681,8 @@ source_ids = ["legolas"]
 target_ids = ["geralt"]
 line = "My fingers grow numb. The bow suffers."
 response = "Rub snow on them. Then dry and warm slowly."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -588,6 +694,8 @@ source_ids = ["vi"]
 target_ids = ["ezio"]
 line = "A traveler lies wounded on the roadside."
 response = "Could be a trick. Check his hands for weapons."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -599,6 +707,8 @@ source_ids = ["geralt"]
 target_ids = ["aloy"]
 line = "I sense something in the cave. Bad magic."
 response = "Then I stay out and cover the entrance."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -610,6 +720,8 @@ source_ids = ["traxex"]
 target_ids = ["ezio"]
 line = "Faint footmarks in the dust. One person, limping."
 response = "Hurt or faking. We follow at distance."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -621,6 +733,8 @@ source_ids = ["aloy"]
 target_ids = ["legolas"]
 line = "They have a watchtower with a horn. Alarm risk."
 response = "I will drop the guard before he blows it."
+source_emote = "proud"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -632,6 +746,8 @@ source_ids = ["vi"]
 target_ids = ["traxex"]
 line = "Can you hit a target at this range? It's far."
 response = "Yes. I can hit a coin at a hundred paces."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -643,6 +759,8 @@ source_ids = ["aloy"]
 target_ids = ["ezio"]
 line = "Use the ropes to cross above the courtyard."
 response = "I prefer rooftops. Ropes are too exposed."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -654,6 +772,8 @@ source_ids = ["traxex"]
 target_ids = ["legolas"]
 line = "I have only three arrows left. Make them count."
 response = "Then I will engage in melee first. Save your shots."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -665,6 +785,8 @@ source_ids = ["vi"]
 target_ids = ["aloy"]
 line = "That thing has a laser on its head. How do we fight?"
 response = "Tear off the cannon. I can shoot it off."
+source_emote = "threaten"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -676,6 +798,8 @@ source_ids = ["ezio"]
 target_ids = ["traxex"]
 line = "Blizzard coming. I can smell the ice."
 response = "We find shelter. A cave or a hollow tree."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -687,6 +811,8 @@ source_ids = ["geralt"]
 target_ids = ["vi"]
 line = "Fresh wheel tracks but no horse marks. Sloppy."
 response = "They dragged the cart by hand. Near ambush."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -698,6 +824,8 @@ source_ids = ["legolas"]
 target_ids = ["ezio"]
 line = "The forest is too quiet. Birds have fled."
 response = "Predator nearby. Or a patrol. We wait."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -709,6 +837,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "Drop of blood every ten steps. Not fresh."
 response = "Maybe yesterday. Follow anyway."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -720,6 +850,8 @@ source_ids = ["traxex"]
 target_ids = ["geralt"]
 line = "Three sentries by the gate. Uneven spacing."
 response = "They are new. Watch for mistakes."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -731,6 +863,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "I envy your rapid fire. It takes me longer."
 response = "Years of practice against machines. You are faster."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -742,6 +876,8 @@ source_ids = ["vi"]
 target_ids = ["ezio"]
 line = "I can't climb like you. I will stay on ground."
 response = "Then cause a distraction. Noisemaker at the back."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -753,6 +889,8 @@ source_ids = ["ezio"]
 target_ids = ["traxex"]
 line = "I am going in blind. Be ready to shoot."
 response = "I have a clear view. Move when you are set."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -764,6 +902,8 @@ source_ids = ["geralt"]
 target_ids = ["legolas"]
 line = "A leshen rules these woods. Its roots spread far."
 response = "Then we burn the heart tree. Fire works."
+source_emote = "hands_in_back"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -775,6 +915,8 @@ source_ids = ["aloy"]
 target_ids = ["traxex"]
 line = "Gather dry moss. It lights even when wet."
 response = "I know. I grew up in a frozen mountain."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -786,6 +928,8 @@ source_ids = ["vi"]
 target_ids = ["legolas"]
 line = "Bridge is intact but slippery. Ice on the planks."
 response = "I can cross quickly. Tie rope to me."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -797,6 +941,8 @@ source_ids = ["geralt"]
 target_ids = ["ezio"]
 line = "The village is empty. Signs of struggle."
 response = "Bodies? Or just abandoned?"
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -808,6 +954,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "Cloven hoofprints mixed with boot marks."
 response = "Grazers and bandits. They travel together."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -819,6 +967,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "Patrol is five minutes early. They are alert."
 response = "Then we wait. Let them pass from boredom."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -830,6 +980,8 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "This bow belonged to my mentor. I keep it oiled."
 response = "Cherish it. Good tools are hard to replace."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -841,6 +993,8 @@ source_ids = ["ezio"]
 target_ids = ["legolas"]
 line = "Step on the stones, not the leaves."
 response = "I weigh barely anything. But I follow."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -852,6 +1006,8 @@ source_ids = ["geralt"]
 target_ids = ["vi"]
 line = "If I go down, take my steel sword."
 response = "Don't plan on going down. I got your back."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -863,6 +1019,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "A rockbreaker tunnels below. We are standing on it."
 response = "Run to solid stone. Now."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -874,6 +1032,8 @@ source_ids = ["vi"]
 target_ids = ["geralt"]
 line = "My breath is freezing on this scarf."
 response = "Tuck it under your chin. Less exposed skin."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -885,6 +1045,8 @@ source_ids = ["legolas"]
 target_ids = ["traxex"]
 line = "A broken wagon blocks the narrow pass."
 response = "We go around the cliff. Careful with footing."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -896,6 +1058,8 @@ source_ids = ["ezio"]
 target_ids = ["aloy"]
 line = "The mansion has a secret passage. Listed blueprints."
 response = "I will find the entrance. Look for hidden switches."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -907,6 +1071,8 @@ source_ids = ["vi"]
 target_ids = ["geralt"]
 line = "Dog prints. But larger. Wolf-dog hybrid?"
 response = "Maybe a ghoul. Check the ground for scratches."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -918,6 +1084,8 @@ source_ids = ["aloy"]
 target_ids = ["traxex"]
 line = "They are rotating guards every two hours."
 response = "Plenty of time. We move at the changeover."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -929,6 +1097,8 @@ source_ids = ["geralt"]
 target_ids = ["ezio"]
 line = "Your hidden blade is clever. But short range."
 response = "I get close. That is the point."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -940,6 +1110,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "Crouch low. The moon is bright tonight."
 response = "I will stay behind the rock shadows."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -951,6 +1123,8 @@ source_ids = ["legolas"]
 target_ids = ["vi"]
 line = "You take too many hits. Let me thin them first."
 response = "I like the direct way. But fine, you go first."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -962,6 +1136,8 @@ source_ids = ["aloy"]
 target_ids = ["ezio"]
 line = "The creature spits acid. Dodge sideways."
 response = "I prefer to avoid being in front of it."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -973,6 +1149,8 @@ source_ids = ["geralt"]
 target_ids = ["legolas"]
 line = "My waterskin froze solid. Melt it over the fire."
 response = "I can keep it in my coat for a while."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -984,6 +1162,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "Freshly cut branches on the path. Snare trap."
 response = "I see the tripwire. Step over it."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -995,6 +1175,8 @@ source_ids = ["ezio"]
 target_ids = ["legolas"]
 line = "The camp is larger than expected. Twenty tents."
 response = "We do not attack. We observe and report."
+source_emote = "wave"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -1006,6 +1188,8 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "Two sets of prints. One heavy, one light."
 response = "Heavy is armored. Light is the leader."
+source_emote = "wave"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -1017,6 +1201,8 @@ source_ids = ["vi"]
 target_ids = ["traxex"]
 line = "The dog barks at shadows. Poor guard animal."
 response = "Makes it easy to distract. Throw a stone."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1028,6 +1214,8 @@ source_ids = ["legolas"]
 target_ids = ["ezio"]
 line = "Do you ever miss the bow? It is peaceful."
 response = "I miss the silence. The blade is too close."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1039,6 +1227,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "I will lure them with a mimic call. Stay hidden."
 response = "Make it sound like a deer. That draws them."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1050,6 +1240,8 @@ source_ids = ["geralt"]
 target_ids = ["traxex"]
 line = "I need a moment to cast a sign. Stall them."
 response = "You have ten seconds. Then I start shooting."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1061,6 +1253,8 @@ source_ids = ["ezio"]
 target_ids = ["legolas"]
 line = "A chimera lurks in the ruins. Three heads."
 response = "We separate them. Fire on each head in turn."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1072,6 +1266,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "The blizzard will last until dawn. Sit tight."
 response = "I have enough rations. Share the watch."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1083,6 +1279,8 @@ source_ids = ["vi"]
 target_ids = ["ezio"]
 line = "A merchant gives us a free ride. Suspicious."
 response = "I will check the cart for hidden cargo."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1094,6 +1292,8 @@ source_ids = ["legolas"]
 target_ids = ["geralt"]
 line = "The river bank shows recent use. Crossing spot."
 response = "Ambush point. We cross narrow or swim."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1105,6 +1305,8 @@ source_ids = ["traxex"]
 target_ids = ["ezio"]
 line = "A single set of footprints leading into the swamp."
 response = "No return tracks. Either died or went deep."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1116,6 +1318,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "Two archers on the wall. One shifts nervously."
 response = "That one is a liability. We exploit him."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1127,6 +1331,8 @@ source_ids = ["geralt"]
 target_ids = ["traxex"]
 line = "You shoot faster than most witchers I know."
 response = "I had to. The cold does not wait for a slow draw."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1138,6 +1344,8 @@ source_ids = ["ezio"]
 target_ids = ["vi"]
 line = "Put out the lantern. The glow exposes us."
 response = "How do you see without light?"
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1149,6 +1357,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "If they overwhelm us, fall back to the ruins."
 response = "I know a defensible room. Second floor."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1160,6 +1370,8 @@ source_ids = ["vi"]
 target_ids = ["legolas"]
 line = "A troll stomps near the bridge. He is drunk."
 response = "We sneak past. No fight needed."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -1171,6 +1383,8 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "The sun is weak. We must reach shelter soon."
 response = "There is a hunter's shack half a mile east."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1182,6 +1396,8 @@ source_ids = ["traxex"]
 target_ids = ["legolas"]
 line = "Fallen tree across the path. It is deliberate."
 response = "Ambush ahead. We circle through the woods."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1193,6 +1409,8 @@ source_ids = ["geralt"]
 target_ids = ["vi"]
 line = "The fortress has three entrances. One is secret."
 response = "I can break any door. Point me to the best."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1204,6 +1422,8 @@ source_ids = ["ezio"]
 target_ids = ["aloy"]
 line = "Scorch marks on the ground. A fire trap."
 response = "Recent. Someone triggered it."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1215,6 +1435,8 @@ source_ids = ["vi"]
 target_ids = ["geralt"]
 line = "They have torches along the wall. No dark spots."
 response = "We wait for fog. Or create a diversion."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1226,6 +1448,8 @@ source_ids = ["traxex"]
 target_ids = ["legolas"]
 line = "Your draw is smooth. The string barely vibrates."
 response = "Centuries of practice. You have a good eye."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1237,6 +1461,8 @@ source_ids = ["aloy"]
 target_ids = ["traxex"]
 line = "Move against the wind. Our scent carries."
 response = "I will stay downwind. Use a cloth over the face."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1248,6 +1474,8 @@ source_ids = ["legolas"]
 target_ids = ["ezio"]
 line = "I can hold them off for a minute. Then I am empty."
 response = "One minute is all I need. Then I pull you out."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1259,6 +1487,8 @@ source_ids = ["geralt"]
 target_ids = ["aloy"]
 line = "A cockatrice perches on the spire. Petrifying gaze."
 response = "Mirrors? Or blink reflex? I have a shield."
+source_emote = "clap"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1270,6 +1500,8 @@ source_ids = ["ezio"]
 target_ids = ["vi"]
 line = "The ice is cracking under our weight. Spread out."
 response = "I'll go first. If I fall, pull me out."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1281,6 +1513,8 @@ source_ids = ["aloy"]
 target_ids = ["legolas"]
 line = "A pack of bandits on horseback. Fast approach."
 response = "Into the trees. They cannot follow on horse."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1292,6 +1526,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "Smoke rises from the chimney. Someone is home."
 response = "Quiet approach. I will knock and look innocent."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1303,6 +1539,8 @@ source_ids = ["vi"]
 target_ids = ["ezio"]
 line = "Tire tracks? No, it is a sled runner."
 response = "Sled means they have goods. Worth following."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1314,6 +1552,8 @@ source_ids = ["geralt"]
 target_ids = ["traxex"]
 line = "The guard captain is inspecting the perimeter."
 response = "That is our window. He is distracted."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1325,6 +1565,8 @@ source_ids = ["aloy"]
 target_ids = ["traxex"]
 line = "Do you prefer short or long draw for hunting?"
 response = "Short. Quick follow-up when the first misses."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1336,6 +1578,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "The crunch of snow betrays our step. Tread softly."
 response = "Walk on the packed trail. Fresh snow is loud."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1347,6 +1591,8 @@ source_ids = ["vi"]
 target_ids = ["ezio"]
 line = "I covered your escape. Thanks for the signal."
 response = "You are reliable. That is rare."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1358,6 +1604,8 @@ source_ids = ["traxex"]
 target_ids = ["geralt"]
 line = "A siren swims in the lake. Song is hypnotic."
 response = "Block your ears with wax. I have some."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1369,6 +1617,8 @@ source_ids = ["aloy"]
 target_ids = ["legolas"]
 line = "The frost has crystallized on your eyelashes."
 response = "It is pretty. But it blinds the sight."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1380,6 +1630,8 @@ source_ids = ["ezio"]
 target_ids = ["traxex"]
 line = "A drunkard lies on the road. Might be a decoy."
 response = "I will circle around. You check him from cover."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1391,6 +1643,8 @@ source_ids = ["geralt"]
 target_ids = ["legolas"]
 line = "The bandits are well organized. Military discipline."
 response = "Deserters. They know tactics. We must be clever."
+source_emote = "hands_in_back"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1402,6 +1656,8 @@ source_ids = ["aloy"]
 target_ids = ["vi"]
 line = "Machine tracks. A herd of grazers passed here."
 response = "We can hunt one for parts. Carefully."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1413,6 +1669,8 @@ source_ids = ["traxex"]
 target_ids = ["legolas"]
 line = "The watchtower has a bell. Alarm radius is far."
 response = "I will disable the bell rope from a distance."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1424,6 +1682,8 @@ source_ids = ["vi"]
 target_ids = ["aloy"]
 line = "Show me that trick where you ricochet an arrow."
 response = "Hit a flat stone at the right angle. Hard to master."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1435,6 +1695,8 @@ source_ids = ["geralt"]
 target_ids = ["ezio"]
 line = "I can cast a quen shield. It muffles noise."
 response = "Use it. Then we move as one."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1446,6 +1708,8 @@ source_ids = ["traxex"]
 target_ids = ["vi"]
 line = "You are bleeding. Let me bandage that quickly."
 response = "It is a scratch. Keep your eyes on the woods."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1457,6 +1721,8 @@ source_ids = ["legolas"]
 target_ids = ["aloy"]
 line = "A barghest prowls the cemetery at night."
 response = "Silver and fire. I have both."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1468,6 +1734,8 @@ source_ids = ["vi"]
 target_ids = ["traxex"]
 line = "How do you survive in a tundra with that light coat?"
 response = "The coat is lined with mammoth wool. I am warm."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1479,6 +1747,8 @@ source_ids = ["legolas"]
 target_ids = ["geralt"]
 line = "A carriage wreck. The horses are dead."
 response = "Check for survivors. But be quick."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1490,6 +1760,8 @@ source_ids = ["ezio"]
 target_ids = ["vi"]
 line = "The tower has a secondary entrance at the base."
 response = "I can break the lock. You cover the door."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1501,6 +1773,8 @@ source_ids = ["traxex"]
 target_ids = ["aloy"]
 line = "Blood trail ends at a burrow. It went underground."
 response = "We dig it out or wait. I prefer digging."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1512,6 +1786,8 @@ source_ids = ["vi"]
 target_ids = ["geralt"]
 line = "The patrol just passed. We have ten minutes."
 response = "Enough to cross the field. Move now."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1523,6 +1799,8 @@ source_ids = ["ezio"]
 target_ids = ["legolas"]
 line = "Your arrows whistle. That betrays your position."
 response = "I will wax the fletching. Silent flight."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1534,5 +1812,7 @@ source_ids = ["aloy"]
 target_ids = ["geralt"]
 line = "The camp is asleep. We take the leader first."
 response = "I will be the shadow. You be the blade."
+source_emote = "hands_in_back"
+target_emote = "hi"
 weight = 1.0
 

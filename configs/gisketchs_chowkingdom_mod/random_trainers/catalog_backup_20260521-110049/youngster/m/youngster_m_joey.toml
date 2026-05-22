@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_joey"
+name = "Youngster Joey"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Johto/Kanto;Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeemerald;pret_pokefirered;pret_pokeheartgold;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:raticate", level = 18, gender = "FEMALE", nature = "lax", ability = "runaway", moveset = ["bite", "focusenergy", "hyperfang", "pursuit"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raticate", level = 18, gender = "FEMALE", nature = "adamant", ability = "gluttony", moveset = ["quickattack", "focusenergy", "hyperfang", "pursuit"], heldItem = "", shiny = false, aspects = ["alolan"] },
+]
+dialogue = ["Youngster Joey is ready for a battle.", "I just lost, so I’m trying to find more Pokémon. Wait! You look weak! Come on, let’s battle!", "I knew it--if you don’t have many Pokémon, battles are harder! I need to catch more Pokémon!", "I have trained this team for the road. Challenge me if you are ready."]

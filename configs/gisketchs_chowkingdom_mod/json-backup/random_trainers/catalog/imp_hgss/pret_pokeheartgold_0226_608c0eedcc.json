@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeheartgold_0226_team_rocket_mickey",
+  "name": "Team Rocket Mickey",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Team Rocket Mickey is ready for a battle."
+  ]
+}

@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_flint"
+name = "Rct Trainer Flint"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 78
+maxLevel = 83
+team = [
+  { species = "cobblemon:ninetales", level = 78, gender = "FEMALE", nature = "timid", ability = "drought", moveset = ["flamethrower", "solarbeam", "hypnosis", "nastyplot"], heldItem = "['heat_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:houndoom", level = 78, gender = "MALE", nature = "modest", ability = "unnerve", moveset = ["flamethrower", "darkpulse", "destinybond", "nastyplot"], heldItem = "['wise_glasses']", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 79, gender = "MALE", nature = "jolly", ability = "flamebody", moveset = ["flareblitz", "irontail", "poisonjab", "hypnosis"], heldItem = "['wide_lens']", shiny = false, aspects = [] },
+  { species = "cobblemon:infernape", level = 81, gender = "MALE", nature = "jolly", ability = "ironfist", moveset = ["firepunch", "thunderpunch", "closecombat", "machpunch"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:arcanine", level = 81, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["flareblitz", "playrough", "closecombat", "extremespeed"], heldItem = "['shuca_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:magmortar", level = 83, gender = "FEMALE", nature = "modest", ability = "flamebody", moveset = ["fireblast", "thunderbolt", "focusblast", "psychic"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

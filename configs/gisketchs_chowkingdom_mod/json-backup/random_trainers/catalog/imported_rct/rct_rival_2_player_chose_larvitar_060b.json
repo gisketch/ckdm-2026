@@ -1,0 +1,48 @@
+{
+  "id": "rct_rival_2_player_chose_larvitar_060b",
+  "name": "Rival Wayne",
+  "title": "Rival 2 Player Chose",
+  "gender": "any",
+  "archetype": "rival_2_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "swinub",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "iceshard",
+        "powdersnow",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beldum",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "tackle",
+        "flash",
+        "ironhead"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

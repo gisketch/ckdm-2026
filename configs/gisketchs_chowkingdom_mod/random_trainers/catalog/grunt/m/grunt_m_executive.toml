@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "grunt_m_executive"
+name = "Grunt Executive"
+title = "Grunt"
+gender = "male"
+archetype = "grunt"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "grunt/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1
+bustStyle = ""
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:golbat", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gruntm Executive is ready for a battle."]

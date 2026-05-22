@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_lass_008_shannon",
+  "name": "Lass Shannon",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 29,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:paras",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:paras",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:parasect",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Shannon is ready for a battle."
+  ]
+}

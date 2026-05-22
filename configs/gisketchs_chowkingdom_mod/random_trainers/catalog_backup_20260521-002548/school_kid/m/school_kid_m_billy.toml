@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_billy"
+name = "School Kid Billy"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 50
+maxLevel = 55
+team = [
+  { species = "cobblemon:mr_mime", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["trickroom", "psychic", "substitute"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:parasect", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["spore", "gigadrain", "xscissor", "slash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwrath", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["wakeupslap", "bellydrum", "dynamicpunch", "hypnosis"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ditto", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = ["transform"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I love gym class the best!", "If Pokémon were a subject at school, I’d be the best!", "School Kid Male Billy is ready for a battle."]

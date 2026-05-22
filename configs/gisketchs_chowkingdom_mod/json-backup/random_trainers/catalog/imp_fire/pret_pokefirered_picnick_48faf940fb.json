@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokefirered_picnicker_becky_4",
+  "name": "Picnicker Becky",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:raichu",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Picnicker Becky is ready for a battle."
+  ]
+}

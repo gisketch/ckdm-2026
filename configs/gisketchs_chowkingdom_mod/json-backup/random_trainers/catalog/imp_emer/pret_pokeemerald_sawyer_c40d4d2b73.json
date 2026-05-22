@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeemerald_sawyer_5",
+  "name": "Hiker Sawyer",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:camerupt",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golem",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker Sawyer is ready for a battle."
+  ]
+}

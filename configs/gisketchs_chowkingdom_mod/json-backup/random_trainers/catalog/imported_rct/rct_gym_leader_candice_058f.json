@@ -1,0 +1,113 @@
+{
+  "id": "rct_gym_leader_candice_058f",
+  "name": "Candice",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "abomasnow",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "snowwarning",
+      "moveset": [
+        "woodhammer",
+        "icepunch",
+        "earthquake",
+        "auroraveil"
+      ],
+      "heldItem": "icy_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jynx",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "dryskin",
+      "moveset": [
+        "blizzard",
+        "focusblast",
+        "sweetkiss",
+        "lovelykiss"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mamoswine",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "snowcloak",
+      "moveset": [
+        "iceshard",
+        "earthquake",
+        "stoneedge",
+        "doubleteam"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "snowcloak",
+      "moveset": [
+        "blizzard",
+        "shadowball",
+        "doubleteam",
+        "auroraveil"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glaceon",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "icebody",
+      "moveset": [
+        "blizzard",
+        "freezedry",
+        "babydolleyes",
+        "doubleteam"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "iceshard",
+        "nightslash",
+        "brickbreak",
+        "xscissor"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

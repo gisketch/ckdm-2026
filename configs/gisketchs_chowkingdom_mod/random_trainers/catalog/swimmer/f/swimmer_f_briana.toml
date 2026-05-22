@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_briana"
+name = "Swimmer Briana"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 46
+maxLevel = 46
+team = [
+  { species = "cobblemon:seaking", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "aquaring", "supersonic", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "aquaring", "supersonic", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Briana is ready for a battle.", "Don’t get nervous watching my magnificent swimming!", "Swimming is very good for both beauty and health! Just look at Misty, you’ll see."]

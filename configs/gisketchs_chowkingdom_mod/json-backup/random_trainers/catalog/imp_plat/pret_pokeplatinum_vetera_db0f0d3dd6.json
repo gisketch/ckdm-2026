@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_veteran_armando_rematch",
+  "name": "Veteran Armando",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 59,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "cobblemon:ninjask",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "batonpass",
+        "xscissor",
+        "swordsdance",
+        "silverwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:absol",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychocut",
+        "taunt",
+        "nightslash",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slaking",
+      "level": 62,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "counter",
+        "gigaimpact",
+        "shadowclaw",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Veteran Armando is ready for a battle."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_cue_ball_koji_00f9",
+  "name": "Cue Ball Koji",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "kingler",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "liquidation",
+        "meteormash",
+        "closecombat",
+        "aquajet"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dracozolt",
+      "level": 92,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "sandrush",
+      "moveset": [
+        "boltbeak",
+        "dragonclaw",
+        "earthquake",
+        "fireblast"
+      ],
+      "heldItem": "magnet",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

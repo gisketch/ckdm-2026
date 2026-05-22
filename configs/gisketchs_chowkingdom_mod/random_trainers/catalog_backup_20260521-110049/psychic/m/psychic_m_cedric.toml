@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_cedric"
+name = "Psychic Cedric"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:wobbuffet", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["destinybond", "safeguard", "counter", "mirrorcoat"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Cedric is ready for a battle."]

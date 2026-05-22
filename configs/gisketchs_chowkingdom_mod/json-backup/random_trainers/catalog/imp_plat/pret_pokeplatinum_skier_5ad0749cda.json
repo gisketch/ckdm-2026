@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_skier_bradley",
+  "name": "Skier Male Bradley",
+  "title": "Skier Male",
+  "gender": "male",
+  "archetype": "skier_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:snorunt",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swinub",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snover",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m skiing right now, but OK. As we Skiers say, \u201cSpur thing!\u201d",
+    "I quite enjoyed that battle! Let us meet again. Slalom!"
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisher_x_galen"
+name = "Fisher Galen"
+title = "Fisher"
+gender = "any"
+archetype = "fisher"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "fisher/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:seaking", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisher from Route 21 is ready for a battle."]

@@ -1,0 +1,317 @@
+# NPC emote catalog. Add .emotecraft files to .minecraft/emotes/server, then map stable ids here.
+
+[[emotes]]
+id = "hi"
+animation_id = "emotecraft:hi"
+label = "Hi"
+description = "friendly hello"
+surfaces = ["conversation", "world_chat", "micro"]
+tags = ["greeting", "friendly"]
+weight = 70.0
+duration_ticks = 60
+cooldown_ticks = 80
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "wave"
+animation_id = "emotecraft:wave"
+label = "Wave"
+description = "greeting or farewell"
+surfaces = ["conversation", "world_chat", "micro", "pokemon"]
+tags = ["greeting", "friendly", "farewell"]
+weight = 80.0
+duration_ticks = 70
+cooldown_ticks = 80
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "clap"
+animation_id = "emotecraft:clap"
+label = "Clap"
+description = "approval or celebration"
+surfaces = ["conversation", "world_chat", "micro", "ambient", "pokemon"]
+tags = ["happy", "approval", "celebrate", "pokemon"]
+weight = 65.0
+duration_ticks = 70
+cooldown_ticks = 100
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "facepalm"
+animation_id = "emotecraft:facepalm"
+label = "Facepalm"
+description = "frustration or disbelief"
+surfaces = ["conversation", "world_chat", "micro"]
+tags = ["frustrated", "confused", "disbelief"]
+weight = 35.0
+duration_ticks = 70
+cooldown_ticks = 140
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "shrug"
+animation_id = "emotecraft:shrug"
+label = "Shrug"
+description = "uncertain or neutral reaction"
+surfaces = ["conversation", "world_chat", "micro", "ambient", "pokemon"]
+tags = ["uncertain", "neutral", "confused"]
+weight = 55.0
+duration_ticks = 60
+cooldown_ticks = 90
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "proud"
+animation_id = "emotecraft:proud"
+label = "Proud"
+description = "confidence or victory"
+surfaces = ["conversation", "world_chat", "micro", "ambient", "pokemon"]
+tags = ["proud", "confident", "victory", "quest", "class"]
+weight = 50.0
+duration_ticks = 80
+cooldown_ticks = 120
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "lookout"
+animation_id = "emotecraft:lookout"
+label = "Lookout"
+description = "watching or scanning nearby things"
+surfaces = ["conversation", "world_chat", "micro", "ambient", "pokemon"]
+tags = ["watch", "observe", "pokemon", "search"]
+weight = 60.0
+duration_ticks = 80
+cooldown_ticks = 100
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "time_check"
+animation_id = "emotecraft:time-check"
+label = "Time check"
+description = "waiting, work, or schedule awareness"
+surfaces = ["conversation", "world_chat", "ambient"]
+tags = ["waiting", "work", "schedule"]
+weight = 40.0
+duration_ticks = 70
+cooldown_ticks = 120
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "sit"
+animation_id = "emotecraft:sit"
+label = "Sit"
+description = "simple seated ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 150
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "sit_cool"
+animation_id = "emotecraft:sit-cool"
+label = "Sit cool"
+description = "relaxed seated ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 150
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "sit_cool_2"
+animation_id = "emotecraft:sit-cool-2"
+label = "Sit cool 2"
+description = "relaxed seated ambient rest variant"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 150
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "sit_cute"
+animation_id = "emotecraft:sit-cute"
+label = "Sit cute"
+description = "soft seated ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 150
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "sit_lying_almost"
+animation_id = "emotecraft:sit-lying-almost"
+label = "Sit lying almost"
+description = "low seated ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 170
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "sit_minimal"
+animation_id = "emotecraft:sit-minimal"
+label = "Sit minimal"
+description = "small seated ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 140
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "lay_on_back"
+animation_id = "emotecraft:lay_on_back"
+label = "Lay on back"
+description = "lying ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 180
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true
+
+[[emotes]]
+id = "speaking"
+animation_id = "emotecraft:speaking"
+label = "Speaking"
+description = "talking, explaining, or answering"
+surfaces = ["conversation", "world_chat", "micro"]
+tags = ["talk", "speak", "explain", "answer", "neutral"]
+weight = 85.0
+duration_ticks = 70
+cooldown_ticks = 0
+movement_lock = false
+posture = false
+ambient_only = false
+loop_while_talking = true
+enabled = true
+
+[[emotes]]
+id = "head_scratches"
+animation_id = "emotecraft:head_scratches"
+label = "Head scratches"
+description = "thinking, awkwardness, or uncertainty"
+surfaces = ["conversation", "world_chat", "micro", "ambient", "pokemon"]
+tags = ["thinking", "confused", "uncertain", "awkward"]
+weight = 50.0
+duration_ticks = 80
+cooldown_ticks = 110
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "hands_in_back"
+animation_id = "emotecraft:hands_in_back"
+label = "Hands in back"
+description = "calm formal attention"
+surfaces = ["conversation", "world_chat", "micro", "ambient"]
+tags = ["calm", "formal", "waiting", "polite", "duty"]
+weight = 45.0
+duration_ticks = 90
+cooldown_ticks = 120
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "threaten"
+animation_id = "emotecraft:threaten"
+label = "Threaten"
+description = "warning, anger, or intimidation"
+surfaces = ["conversation", "world_chat", "micro"]
+tags = ["angry", "warning", "hostile", "threat"]
+weight = 18.0
+duration_ticks = 80
+cooldown_ticks = 180
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "six_seven"
+animation_id = "emotecraft:six_seven"
+label = "Six seven"
+description = "playful or silly reaction"
+surfaces = ["conversation", "world_chat", "micro"]
+tags = ["playful", "silly", "joke", "confused"]
+weight = 12.0
+duration_ticks = 70
+cooldown_ticks = 180
+movement_lock = false
+posture = false
+ambient_only = false
+enabled = true
+
+[[emotes]]
+id = "criss_cross_sit"
+animation_id = "emotecraft:criss_cross_sit"
+label = "Criss-cross sit"
+description = "cross-legged ambient rest"
+surfaces = ["ambient_posture"]
+tags = ["posture", "rest", "ambient"]
+weight = 25.0
+duration_ticks = 160
+cooldown_ticks = 400
+movement_lock = true
+posture = true
+ambient_only = true
+enabled = true

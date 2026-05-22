@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_vincent"
+name = "Swimmer Vincent"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:pelipper", level = 29, gender = "FEMALE", nature = "relaxed", ability = "drizzle", moveset = ["airslash", "waterpulse", "stockpile", "swallow"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:whiscash", level = 29, gender = "MALE", nature = "relaxed", ability = "oblivious", moveset = ["tickle", "rest", "snore", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["OK! Get your breathing in order! OK! You’re ready to go!", "Listen, I have something important to say to you. Don’t drown in your own talent.", "I have trained this team for the road. Challenge me if you are ready."]

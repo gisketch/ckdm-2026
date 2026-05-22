@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_veteran_edgar",
+  "name": "Veteran Edgar",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 46,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:porygon_z",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hyperbeam",
+        "signalbeam",
+        "psychic",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tangrowth",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "powerwhip",
+        "megadrain",
+        "toxic",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "brine",
+        "drillpeck",
+        "metalclaw",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I can sense that your Pok\u00e9mon have a lot of trust in you. You and your Pok\u00e9mon... You seem to be aglow.",
+    "Neither Pok\u00e9mon nor people live forever. But it is the very frailty of life that allows us to shine!"
+  ]
+}

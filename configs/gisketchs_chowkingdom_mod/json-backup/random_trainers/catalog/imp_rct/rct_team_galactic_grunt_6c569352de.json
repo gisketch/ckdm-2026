@@ -1,0 +1,40 @@
+{
+  "id": "rct_team_galactic_grunt_0587",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:glameow",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "limber",
+      "moveset": [
+        "hypnosis",
+        "aerialace",
+        "furyswipes",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

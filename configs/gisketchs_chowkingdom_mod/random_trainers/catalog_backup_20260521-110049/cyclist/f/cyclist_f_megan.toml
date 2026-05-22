@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_f_megan"
+name = "Cyclist Megan"
+title = "Cyclist"
+gender = "female"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cyclist/female"
+tier = "low"
+spawnable = true
+height = 0.96
+weight = 0.95
+bustStyle = "standard"
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:shinx", level = 17, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["tackle", "leer", "bite", "spark"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cycling feels great! It will feel even better when I beat you in a battle!", "I like spinning the pedals backward while sailing downhill.", "I have trained this team for the road. Challenge me if you are ready."]

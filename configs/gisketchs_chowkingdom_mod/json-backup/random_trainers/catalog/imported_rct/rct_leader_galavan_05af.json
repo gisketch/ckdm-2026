@@ -1,0 +1,99 @@
+{
+  "id": "rct_leader_galavan_05af",
+  "name": "Leader Galavan",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "bronzong",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "impish",
+      "ability": "heatproof",
+      "moveset": [
+        "heavyslam",
+        "bodypress",
+        "trickroom",
+        "protect"
+      ],
+      "heldItem": "mental_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golem",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "galvanize",
+      "moveset": [
+        "return",
+        "rockslide",
+        "firepunch",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "lanturn",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "thunderbolt",
+        "scald",
+        "icebeam",
+        "thunderwave"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ampharos",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "moldbreaker",
+      "moveset": [
+        "thunderbolt",
+        "dragonpulse",
+        "hiddenpower",
+        "voltswitch"
+      ],
+      "heldItem": "mega_showdown:ampharosite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "escavalier",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "overcoat",
+      "moveset": [
+        "xscissor",
+        "ironhead",
+        "drillrun",
+        "nightslash"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

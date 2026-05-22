@@ -1,0 +1,49 @@
+{
+  "id": "rct_worker_willy_045f",
+  "name": "Worker Willy",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "onix",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "screech",
+        "sandtomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "graveler",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "harden",
+        "smackdown",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_battleground_vega_05f3",
+  "name": "Battleground Vega",
+  "title": "Battleground",
+  "gender": "any",
+  "archetype": "battleground",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "weavile",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickpocket",
+      "moveset": [
+        "knockoff",
+        "tripleaxel",
+        "iceshard",
+        "poisonjab"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hydreigon",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "darkpulse",
+        "earthpower",
+        "flamethrower",
+        "nastyplot"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spiritomb",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "snarl",
+        "calmmind",
+        "willowisp",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "greninja",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "battlebond",
+      "moveset": [
+        "watershuriken",
+        "surf",
+        "darkpulse",
+        "icebeam"
+      ],
+      "heldItem": "mega_showdown:waterium_z water_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "absol",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "magicbounce",
+      "moveset": [
+        "knockoff",
+        "closecombat",
+        "playrough",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:absolite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pyukumuku",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "unaware",
+      "moveset": [
+        "counter",
+        "mirrorcoat",
+        "toxic",
+        "recover"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

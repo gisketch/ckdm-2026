@@ -1,0 +1,40 @@
+{
+  "id": "rct_youngster_tyler_0060",
+  "name": "Youngster Tyler",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:eiscue",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "iceface",
+      "moveset": [
+        "mist",
+        "weatherball",
+        "icywind",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

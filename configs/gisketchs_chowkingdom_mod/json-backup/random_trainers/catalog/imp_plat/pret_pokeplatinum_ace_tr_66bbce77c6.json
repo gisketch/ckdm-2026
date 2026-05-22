@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_jake_rematch",
+  "name": "Ace Trainer Male Jake",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:staraptor",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bravebird",
+        "takedown",
+        "endeavor",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "doublehit",
+        "crunch",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ace Trainer Male Jake is ready for a battle."
+  ]
+}

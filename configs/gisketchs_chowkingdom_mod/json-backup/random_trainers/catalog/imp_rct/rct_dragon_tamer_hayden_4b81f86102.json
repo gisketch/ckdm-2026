@@ -1,0 +1,56 @@
+{
+  "id": "rct_dragon_tamer_hayden_03af",
+  "name": "Dragon Tamer Hayden",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:swablu",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragonbreath",
+        "moonblast",
+        "round",
+        "perishsong"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:altaria",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragondance",
+        "skyattack",
+        "takedown",
+        "pluck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

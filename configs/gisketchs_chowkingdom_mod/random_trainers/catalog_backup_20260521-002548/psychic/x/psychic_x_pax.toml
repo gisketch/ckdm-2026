@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_pax"
+name = "Psychic Pax"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:slowpoke", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowpoke", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowbro", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic from Saffron Gym is ready for a battle."]

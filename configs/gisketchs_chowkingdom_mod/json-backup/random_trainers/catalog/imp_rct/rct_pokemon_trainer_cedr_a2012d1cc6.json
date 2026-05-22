@@ -1,0 +1,96 @@
+{
+  "id": "rct_pokemon_trainer_cedric_044a",
+  "name": "Pok\u00e9mon Trainer Cedric",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "pluck"
+      ],
+      "heldItem": [
+        "quick_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "growth",
+        "stunspore",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "heldItem": [
+        "miracle_seed"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tackle",
+        "growl",
+        "agility",
+        "flamewheel"
+      ],
+      "heldItem": [
+        "shell_bell"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:prinplup",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "charm",
+        "bubblebeam",
+        "grassknot"
+      ],
+      "heldItem": [
+        "mystic_water"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

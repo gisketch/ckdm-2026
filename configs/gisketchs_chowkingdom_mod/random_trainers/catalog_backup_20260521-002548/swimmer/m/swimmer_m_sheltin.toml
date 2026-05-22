@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_sheltin"
+name = "Swimmer Sheltin"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:gyarados", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I swim the whole year round. I’m not losing a battle at sea!", "When you’re out at sea, Water-type Pokémon look more lively."]

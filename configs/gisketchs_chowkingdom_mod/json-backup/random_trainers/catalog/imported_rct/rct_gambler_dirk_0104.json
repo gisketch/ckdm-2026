@@ -1,0 +1,49 @@
+{
+  "id": "rct_gambler_dirk_0104",
+  "name": "Gambler Dirk",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "voltorb",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "gentle",
+      "ability": "soundproof",
+      "moveset": [
+        "screech",
+        "chargebeam",
+        "swift",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrike",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "spark",
+        "odorsleuth",
+        "thunderfang",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

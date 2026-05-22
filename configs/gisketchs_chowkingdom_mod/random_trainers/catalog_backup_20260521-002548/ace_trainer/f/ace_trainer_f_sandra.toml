@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_sandra"
+name = "Ace Trainer Sandra"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 54
+maxLevel = 55
+team = [
+  { species = "cobblemon:dugtrio", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ninetales", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["When eyes meet... That’s when a battle starts!", "I suddenly remembered what it was like when I had my first battle. I wonder why that would be?"]

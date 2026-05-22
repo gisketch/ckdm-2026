@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_x_colton"
+name = "Pokefan Colton"
+title = "Pokefan"
+gender = "any"
+archetype = "pokefan"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "pokefan/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 12
+maxLevel = 42
+team = [
+  { species = "cobblemon:skitty", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = ["assist", "charm", "feintattack", "healbell"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skitty", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["assist", "charm", "feintattack", "healbell"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skitty", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["assist", "charm", "feintattack", "healbell"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skitty", level = 12, gender = "GENDERLESS", nature = "", ability = "", moveset = ["assist", "charm", "feintattack", "healbell"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skitty", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["assist", "charm", "feintattack", "healbell"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:delcatty", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["assist", "charm", "feintattack", "healbell"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokefan Colton is ready for a battle."]

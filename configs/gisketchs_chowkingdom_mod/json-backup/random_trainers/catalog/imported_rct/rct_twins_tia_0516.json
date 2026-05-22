@@ -1,0 +1,33 @@
+{
+  "id": "rct_twins_tia_0516",
+  "name": "Twin Tia",
+  "title": "Twins",
+  "gender": "any",
+  "archetype": "twins",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "defensecurl",
+        "lifedew",
+        "followme"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

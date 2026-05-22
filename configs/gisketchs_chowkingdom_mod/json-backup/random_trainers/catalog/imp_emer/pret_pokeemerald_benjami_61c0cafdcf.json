@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_benjamin_1",
+  "name": "Triathlete Benjamin",
+  "title": "Triathlete",
+  "gender": "any",
+  "archetype": "triathlete",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "triathlete/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:magnemite",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Triathlete Benjamin is ready for a battle."
+  ]
+}

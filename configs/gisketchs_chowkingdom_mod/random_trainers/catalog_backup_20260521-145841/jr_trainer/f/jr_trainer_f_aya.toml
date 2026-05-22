@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jr_trainer_f_aya"
+name = "Jr Trainer Aya"
+title = "Jr Trainer"
+gender = "female"
+archetype = "jr_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "jr_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:goldeen", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jrtrainerf from Route 20 is ready for a battle.", "Jrtrainerf from Celadon Gym is ready for a battle."]

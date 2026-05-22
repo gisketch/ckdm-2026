@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_m_axel"
+name = "Cyclist Axel"
+title = "Cyclist"
+gender = "male"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cyclist/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:staravia", level = 17, gender = "MALE", nature = "naive", ability = "intimidate", moveset = ["growl", "quickattack", "wingattack", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Yo! Cycling and Pokémon! Which do you prefer?", "This Cycling Road is one fine place-- great bikes, superb Pokémon, and awesome Trainers all around!", "I have trained this team for the road. Challenge me if you are ready."]

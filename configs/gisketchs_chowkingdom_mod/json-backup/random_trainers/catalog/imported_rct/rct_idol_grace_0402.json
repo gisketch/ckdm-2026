@@ -1,0 +1,49 @@
+{
+  "id": "rct_idol_grace_0402",
+  "name": "Idol Grace",
+  "title": "Idol",
+  "gender": "any",
+  "archetype": "idol",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "thundershock",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "sing",
+        "disarmingvoice",
+        "encore",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

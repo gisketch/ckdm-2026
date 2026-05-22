@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_paula"
+name = "Swimmer Paula"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:staryu", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shellder", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Paula is ready for a battle.", "No inflatable tube for me. I’m hanging on to a sea Pokémon!", "While I float like this, the waves carry me along."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_sailor_paul_0340",
+  "name": "Sailor Paul",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:gyarados",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "waterfall",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "strength"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

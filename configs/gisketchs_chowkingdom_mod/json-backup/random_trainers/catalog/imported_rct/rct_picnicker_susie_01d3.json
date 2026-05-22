@@ -1,0 +1,99 @@
+{
+  "id": "rct_picnicker_susie_01d3",
+  "name": "Picnicker Susie",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "shiftry",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "chlorophyll",
+      "moveset": [
+        "fakeout",
+        "solarblade",
+        "knockoff",
+        "partingshot"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goodra",
+      "level": 89,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "sapsipper",
+      "moveset": [
+        "fireblast",
+        "dracometeor",
+        "sludgebomb",
+        "thunderbolt"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "espeon",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "magicbounce",
+      "moveset": [
+        "calmmind",
+        "psychic",
+        "weatherball",
+        "shadowball"
+      ],
+      "heldItem": "twisted_spoon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arcanine",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash",
+        "solarbeam",
+        "flareblitz",
+        "accelerock"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "alcremie",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "sweetveil",
+      "moveset": [
+        "moonblast",
+        "mysticalfire",
+        "mistyexplosion",
+        "recover"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

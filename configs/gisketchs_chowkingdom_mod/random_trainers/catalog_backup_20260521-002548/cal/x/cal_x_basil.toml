@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cal_x_basil"
+name = "Cal Basil"
+title = "Cal"
+gender = "any"
+archetype = "cal"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "cal/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:bayleef", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:quilava", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:croconaw", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cal Cal is ready for a battle."]

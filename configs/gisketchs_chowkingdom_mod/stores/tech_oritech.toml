@@ -1,0 +1,223 @@
+# CKDM Tech Store: Rick's Oritech Lab
+#
+# Design:
+# - Daily stock supports wiring, early processing, and first-tier machine parts.
+# - Weekly stock sells one or two useful machines or augments at high prices.
+# - Excluded by design: deep drill, lasers, quarry, resource nodes, jetpacks,
+#   exo armor, reactors, nukes, advanced cores, plutonium, and endgame materials.
+
+id = "tech_oritech"
+display_name = "Rick's Oritech Lab"
+time_zone = "GMT+8"
+reset_hour = 5
+reset_minute = 0
+
+
+[[categories]]
+id = "shop_floor_parts"
+item_types_to_sell = 5
+daily_item_types_to_sell = 5
+weekly_item_types_to_sell = 0
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_nickel_ingot"
+item = "oritech:nickel_ingot"
+price_amount = 350
+stock_count = 16
+weight = 6
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_steel_ingot"
+item = "oritech:steel_ingot"
+price_amount = 650
+stock_count = 10
+weight = 5
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_coal_dust"
+item = "oritech:coal_dust"
+price_amount = 180
+stock_count = 16
+weight = 5
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_quartz_dust"
+item = "oritech:quartz_dust"
+price_amount = 260
+stock_count = 12
+weight = 4
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_raw_silicon"
+item = "oritech:raw_silicon"
+price_amount = 600
+stock_count = 8
+weight = 4
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_silicon"
+item = "oritech:silicon"
+price_amount = 850
+stock_count = 4
+weight = 3
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_magnetic_coil"
+item = "oritech:magnetic_coil"
+price_amount = 750
+stock_count = 6
+weight = 3
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_motor"
+item = "oritech:motor"
+price_amount = 1300
+stock_count = 3
+weight = 2
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_processing_unit"
+item = "oritech:processing_unit"
+price_amount = 1600
+stock_count = 3
+weight = 2
+
+[[categories.daily_items]]
+id = "oritech_parts_daily_machine_core_1"
+item = "oritech:machine_core_1"
+price_amount = 3000
+stock_count = 1
+weight = 1
+
+
+[[categories]]
+id = "pipes_and_power"
+item_types_to_sell = 4
+daily_item_types_to_sell = 4
+weekly_item_types_to_sell = 0
+
+[[categories.daily_items]]
+id = "oritech_power_daily_wrench"
+item = "oritech:wrench"
+price_amount = 1400
+stock_count = 1
+weight = 3
+
+[[categories.daily_items]]
+id = "oritech_power_daily_energy_pipe"
+item = "oritech:energy_pipe"
+price_amount = 320
+stock_count = 24
+weight = 6
+
+[[categories.daily_items]]
+id = "oritech_power_daily_item_pipe"
+item = "oritech:item_pipe"
+price_amount = 320
+stock_count = 24
+weight = 6
+
+[[categories.daily_items]]
+id = "oritech_power_daily_fluid_pipe"
+item = "oritech:fluid_pipe"
+price_amount = 320
+stock_count = 16
+weight = 5
+
+[[categories.daily_items]]
+id = "oritech_power_daily_pipe_booster"
+item = "oritech:pipe_booster_block"
+price_amount = 1100
+stock_count = 3
+weight = 3
+
+[[categories.daily_items]]
+id = "oritech_power_daily_item_filter"
+item = "oritech:item_filter_block"
+price_amount = 1400
+stock_count = 2
+weight = 2
+
+[[categories.daily_items]]
+id = "oritech_power_daily_basic_battery"
+item = "oritech:basic_battery"
+price_amount = 2800
+stock_count = 1
+weight = 2
+
+
+[[categories]]
+id = "weekly_machines"
+item_types_to_sell = 2
+daily_item_types_to_sell = 0
+weekly_item_types_to_sell = 2
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_basic_generator"
+item = "oritech:basic_generator_block"
+price_amount = 5200
+stock_count = 1
+weight = 4
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_pulverizer"
+item = "oritech:pulverizer_block"
+price_amount = 5200
+stock_count = 1
+weight = 4
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_powered_furnace"
+item = "oritech:powered_furnace_block"
+price_amount = 7200
+stock_count = 1
+weight = 3
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_assembler"
+item = "oritech:assembler_block"
+price_amount = 7000
+stock_count = 1
+weight = 3
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_charger"
+item = "oritech:charger_block"
+price_amount = 6200
+stock_count = 1
+weight = 3
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_centrifuge"
+item = "oritech:centrifuge_block"
+price_amount = 9500
+stock_count = 1
+weight = 2
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_simple_augment_station"
+item = "oritech:simple_augment_station"
+price_amount = 8500
+stock_count = 1
+weight = 2
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_speed_addon"
+item = "oritech:machine_speed_addon"
+price_amount = 4200
+stock_count = 1
+weight = 2
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_efficiency_addon"
+item = "oritech:machine_efficiency_addon"
+price_amount = 4200
+stock_count = 1
+weight = 2
+
+[[categories.weekly_items]]
+id = "oritech_machine_weekly_lava_generator"
+item = "oritech:lava_generator_block"
+price_amount = 9000
+stock_count = 1
+weight = 1

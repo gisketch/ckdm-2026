@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_f_ashlee"
+name = "Ranger Ashlee"
+title = "Ranger"
+gender = "female"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/female"
+tier = "high"
+spawnable = true
+height = 1.06
+weight = 1.07
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:linoone", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:butterfree", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arbok", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ranger Female Ashlee is ready for a battle.", "In the embrace of Mother Nature, people and Pokémon grow strong!", "It doesn’t matter where they grow. Pokémon can be made tougher anywhere if you set your mind to it."]

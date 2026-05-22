@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokefirered_fisherman_elliot",
+  "name": "Fisherman Elliot",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:poliwag",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellder",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:goldeen",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:horsea",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Fisherman Elliot is ready for a battle."
+  ]
+}

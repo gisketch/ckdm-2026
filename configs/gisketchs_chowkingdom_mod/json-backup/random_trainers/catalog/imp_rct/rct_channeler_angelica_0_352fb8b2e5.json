@@ -1,0 +1,72 @@
+{
+  "id": "rct_channeler_angelica_01c3",
+  "name": "Channeler Angelica",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:haunter",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lampent",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "imprison",
+        "hex",
+        "memento",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shedinja",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "brave",
+      "ability": "wonderguard",
+      "moveset": [
+        "mindreader",
+        "confuseray",
+        "shadowball",
+        "grudge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

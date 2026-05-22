@@ -1,0 +1,64 @@
+{
+  "id": "rct_fisher_cory_0366",
+  "name": "Fisher Cory",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "magikarp",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "finneon",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "attract",
+        "raindance",
+        "gust",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "brine",
+        "waterfall",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_gym_leader_maylene_058d",
+  "name": "Maylene",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "hitmontop",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "stoneedge",
+        "suckerpunch",
+        "brickbreak"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "breloom",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bulletseed",
+        "machpunch",
+        "rocktomb",
+        "forcepalm"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "megahorn",
+        "closecombat",
+        "facade",
+        "stoneedge"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "infernape",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "blaze",
+      "moveset": [
+        "flareblitz",
+        "closecombat",
+        "acrobatics",
+        "overheat"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "medicham",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "purepower",
+      "moveset": [
+        "highjumpkick",
+        "zenheadbutt",
+        "firepunch",
+        "thunderpunch"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lucario",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "justified",
+      "moveset": [
+        "aurasphere",
+        "flashcannon",
+        "waterpulse",
+        "vacuumwave"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

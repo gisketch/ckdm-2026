@@ -1,0 +1,74 @@
+{
+  "id": "rct_shadow_admin_marlon_1_05b8",
+  "name": "Shadow Admin Marlon",
+  "title": "Shadow Admin",
+  "gender": "any",
+  "archetype": "shadow_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "shadow_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:duskull",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "shadowsneak",
+        "nightshade",
+        "payback",
+        "destinybond"
+      ],
+      "heldItem": [
+        "eviolite"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cacnea",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "needlearm",
+        "feintattack",
+        "thunderpunch",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swoobat",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "unaware",
+      "moveset": [
+        "confusion",
+        "aircutter",
+        "chargebeam",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

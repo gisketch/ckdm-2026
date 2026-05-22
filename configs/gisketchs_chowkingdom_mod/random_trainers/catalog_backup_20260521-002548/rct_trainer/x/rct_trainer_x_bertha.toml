@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_bertha"
+name = "Rct Trainer Bertha"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 76
+maxLevel = 81
+team = [
+  { species = "cobblemon:whiscash", level = 76, gender = "MALE", nature = "brave", ability = "hydration", moveset = ["earthquake", "icebeam", "scald", "zenheadbutt"], heldItem = "['rindo_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:gliscor", level = 79, gender = "MALE", nature = "adamant", ability = "hypercutter", moveset = ["earthquake", "thunderfang", "guillotine", "xscissor"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoking", level = 78, gender = "MALE", nature = "modest", ability = "sheerforce", moveset = ["sludgebomb", "earthpower", "thunderbolt", "icebeam"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:hippowdon", level = 78, gender = "MALE", nature = "adamant", ability = "sandstream", moveset = ["icefang", "earthquake", "crunch", "rest"], heldItem = "['chesto_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:mamoswine", level = 78, gender = "FEMALE", nature = "adamant", ability = "thickfat", moveset = ["earthquake", "iciclespear", "iceshard", "doubleedge"], heldItem = "['never_melt_ice']", shiny = false, aspects = [] },
+  { species = "cobblemon:rhyperior", level = 81, gender = "FEMALE", nature = "adamant", ability = "solidrock", moveset = ["earthquake", "rockwrecker", "megahorn", "thunderfang"], heldItem = "['muscle_band']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

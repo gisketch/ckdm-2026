@@ -1,0 +1,33 @@
+{
+  "id": "rct_ruin_mamoac_foster_0246",
+  "name": "Ruin Mamoac Foster",
+  "title": "Ruin Mamoac",
+  "gender": "any",
+  "archetype": "ruin_mamoac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "golem",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "earthquake",
+        "explosion",
+        "headlongrush",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_aisha",
+  "name": "Battle Girl Aisha",
+  "title": "Battle Girl",
+  "gender": "female",
+  "archetype": "battle_girl",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "battle_girl/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:meditite",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Battle Girl Aisha is ready for a battle."
+  ]
+}

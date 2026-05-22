@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_noland",
+  "name": "Factory Head Noland",
+  "title": "Factory Head",
+  "gender": "any",
+  "archetype": "factory_head",
+  "region": "Hoenn",
+  "category": "battle_facility",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "factory_head/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:beldum",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Factory Head Noland is ready for a battle."
+  ]
+}

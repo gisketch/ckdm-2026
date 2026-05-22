@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_cooltrainerm_010",
+  "name": "Cooltrainerm Kai",
+  "title": "Cooltrainerm",
+  "gender": "any",
+  "archetype": "cooltrainerm",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "cooltrainerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerm from Viridian Gym is ready for a battle."
+  ]
+}

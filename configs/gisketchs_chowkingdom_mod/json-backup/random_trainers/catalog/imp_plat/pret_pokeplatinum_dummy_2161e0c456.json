@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_484",
+  "name": "School Kid Male Mickey",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "School Kid Male Mickey is ready for a battle."
+  ]
+}

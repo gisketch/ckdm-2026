@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_swimmer_wade",
+  "name": "Swimmer Male Wade",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:carvanha",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:carvanha",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sharpedo",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Me and my Pok\u00e9mon are pumped up and ready to go all out!",
+    "Overwhelm with our dazzling physiques! That was our game plan..."
+  ]
+}

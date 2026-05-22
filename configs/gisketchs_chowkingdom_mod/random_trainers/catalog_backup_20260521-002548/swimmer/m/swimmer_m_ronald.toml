@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_ronald"
+name = "Swimmer Ronald"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:gyarados", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The waves are wild here. They tire you out as you swim.", "The currents keep me from reaching that island."]

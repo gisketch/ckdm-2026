@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_samson"
+name = "Sailor Samson"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 24
+maxLevel = 24
+team = [
+  { species = "cobblemon:shellos", level = 24, gender = "FEMALE", nature = "timid", ability = "stormdrain", moveset = ["mudslap", "recover", "waterpulse", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wingull", level = 24, gender = "FEMALE", nature = "adamant", ability = "hydration", moveset = ["waterpulse", "raindance", "uturn", "roost"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shellos", level = 24, gender = "MALE", nature = "relaxed", ability = "stormdrain", moveset = ["mudslap", "harden", "recover", "waterpulse"], heldItem = "", shiny = false, aspects = ["east_sea"] },
+]
+dialogue = ["Like the raging sea, I crash down and wash away everything before me! That’s just how I roll!", "I’m now becalmed like a waveless sea...", "I have trained this team for the road. Challenge me if you are ready."]

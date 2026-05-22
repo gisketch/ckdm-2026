@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_teri_tia_m003",
+  "name": "Twins Teri & Tia",
+  "title": "Twins Teri",
+  "gender": "any",
+  "archetype": "twins_teri",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "growl",
+        "quickattack",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "encore",
+        "defensecurl",
+        "lifedew"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

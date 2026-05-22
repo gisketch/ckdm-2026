@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_kendra"
+name = "Swimmer Kendra"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:slowking", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, Trainer! How about you put on a swimsuit, too?", "I wonder if there’s any place that sells swimsuits that suit my Pokémon?"]

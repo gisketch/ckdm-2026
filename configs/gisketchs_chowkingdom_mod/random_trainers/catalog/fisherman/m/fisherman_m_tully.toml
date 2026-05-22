@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_tully"
+name = "Fisherman Tully"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 41
+maxLevel = 53
+team = [
+  { species = "cobblemon:seaking", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "raindance", "waterfall", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "raindance", "waterfall", "megahorn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:qwilfish", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rollout", "surf", "aquatail", "minimize"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let me demonstrate the power of the Pokémon I caught!", "I want to become the Trainer Champ using the Pokémon I caught. That’s the best part of fishing!", "Fisherman Tully is ready for a battle."]

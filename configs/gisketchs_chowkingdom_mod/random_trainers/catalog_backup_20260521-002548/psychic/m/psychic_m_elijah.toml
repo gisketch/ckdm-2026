@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_elijah"
+name = "Psychic Elijah"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "low"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:abra", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hiddenpower"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["When a Trainer and a Pokémon bond as one, a wondrous power is born...", "There still remain many mysteries yet to be solved in this strange world..."]

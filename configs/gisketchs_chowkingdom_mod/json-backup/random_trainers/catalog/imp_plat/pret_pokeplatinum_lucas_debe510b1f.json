@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_lucas_jubilife_city_turtwig",
+  "name": "Dp Player Male Lucas",
+  "title": "Dp Player Male",
+  "gender": "male",
+  "archetype": "dp_player_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dp_player_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "cobblemon:piplup",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubble",
+        "pound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Dp Player Male Lucas is ready for a battle."
+  ]
+}

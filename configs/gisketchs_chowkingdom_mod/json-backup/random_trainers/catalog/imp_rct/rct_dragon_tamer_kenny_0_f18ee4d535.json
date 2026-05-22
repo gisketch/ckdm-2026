@@ -1,0 +1,56 @@
+{
+  "id": "rct_dragon_tamer_kenny_049b",
+  "name": "Dragon Tamer Kenny",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:bagon",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "doubleedge",
+        "outrage",
+        "zenheadbutt",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shelgon",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "dragonclaw",
+        "headbutt",
+        "crunch",
+        "dragonbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

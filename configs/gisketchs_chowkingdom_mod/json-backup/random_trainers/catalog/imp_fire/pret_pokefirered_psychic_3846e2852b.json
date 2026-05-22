@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokefirered_psychic_cameron",
+  "name": "Psychic Cameron",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Cameron is ready for a battle."
+  ]
+}

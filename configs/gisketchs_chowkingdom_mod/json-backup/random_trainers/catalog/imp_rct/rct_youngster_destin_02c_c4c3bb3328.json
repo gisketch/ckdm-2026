@@ -1,0 +1,56 @@
+{
+  "id": "rct_youngster_destin_02c0",
+  "name": "Youngster Destin",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "runaway",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

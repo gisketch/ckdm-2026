@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "reporter_x_kinsey"
+name = "Reporter Kinsey"
+title = "Reporter"
+gender = "any"
+archetype = "reporter"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "reporter/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:chatot", level = 17, gender = "FEMALE", nature = "bold", ability = "keeneye", moveset = ["hypervoice", "taunt", "growl", "sing"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Reporter Kinsey is ready for a battle.", "Join me in this on-the-spot report, live at the scene of a battle!", "Interviews are about taking the initiative. The people need to know.", "I have trained this team for the road. Challenge me if you are ready."]

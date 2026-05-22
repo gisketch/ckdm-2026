@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemaniac_mark_0284",
+  "name": "Pokémaniac Mark",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "rhydon",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "drillrun",
+        "takedown",
+        "stoneedge",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickitung",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "owntempo",
+      "moveset": [
+        "mefirst",
+        "refresh",
+        "screech",
+        "powerwhip"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

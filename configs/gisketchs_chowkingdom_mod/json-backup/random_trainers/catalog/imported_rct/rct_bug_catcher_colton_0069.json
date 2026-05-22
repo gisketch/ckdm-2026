@@ -1,0 +1,61 @@
+{
+  "id": "rct_bug_catcher_colton_0069",
+  "name": "Bug Catcher Colton",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 10,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "dottler",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "swarm",
+      "moveset": [
+        "strugglebug",
+        "psybeam",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spewpa",
+      "level": 10,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "detect",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snom",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "shielddust",
+      "moveset": [
+        "powdersnow",
+        "strugglebug"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

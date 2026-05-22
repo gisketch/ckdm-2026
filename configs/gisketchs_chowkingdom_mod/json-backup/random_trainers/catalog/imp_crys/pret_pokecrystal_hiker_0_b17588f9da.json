@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokecrystal_hiker_019_parry",
+  "name": "Hiker Parry",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:piloswine",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthquake",
+        "blizzard",
+        "rest",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "magnitude",
+        "dig",
+        "mudslap",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "dig",
+        "irontail",
+        "sandstorm",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker Parry is ready for a battle."
+  ]
+}

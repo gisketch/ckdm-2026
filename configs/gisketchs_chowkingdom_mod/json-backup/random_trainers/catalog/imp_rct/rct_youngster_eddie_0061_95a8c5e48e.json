@@ -1,0 +1,40 @@
+{
+  "id": "rct_youngster_eddie_0061",
+  "name": "Youngster Eddie",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:arbok",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "shedskin",
+      "moveset": [
+        "glare",
+        "poisontail",
+        "screech",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_sailor_huey_008a",
+  "name": "Sailor Huey",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "croconaw",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sheerforce",
+      "moveset": [
+        "seismictoss",
+        "scaryface",
+        "roar",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bibarel",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "simple",
+      "moveset": [
+        "headbutt",
+        "hyperfang",
+        "yawn",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

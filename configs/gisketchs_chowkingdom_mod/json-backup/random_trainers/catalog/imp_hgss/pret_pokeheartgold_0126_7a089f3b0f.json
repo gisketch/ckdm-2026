@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0126_fisherman_andre",
+  "name": "Fisherman Andre",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:gyarados",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Let me battle with the Pok\u00e9mon I just caught!",
+    "I won\u2019t lose as an angler! I catch Pok\u00e9mon all day."
+  ]
+}

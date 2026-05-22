@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_keenan",
+  "name": "Ace Trainer Male Keenan",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:primeape",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:banette",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What it means to win battles... That is what I seek. Teach me if you will!",
+    "Perhaps there is no meaning to victory, but still I will battle! That is what makes me a Trainer!"
+  ]
+}

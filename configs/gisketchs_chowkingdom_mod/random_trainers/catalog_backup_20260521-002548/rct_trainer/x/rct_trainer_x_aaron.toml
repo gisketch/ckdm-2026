@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_aaron"
+name = "Rct Trainer Aaron"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 75
+maxLevel = 79
+team = [
+  { species = "cobblemon:yanmega", level = 75, gender = "MALE", nature = "timid", ability = "speedboost", moveset = ["bugbuzz", "airslash", "detect", "ancientpower"], heldItem = "['wise_glasses']", shiny = false, aspects = [] },
+  { species = "cobblemon:scizor", level = 75, gender = "MALE", nature = "adamant", ability = "technician", moveset = ["bulletpunch", "xscissor", "nightslash", "swordsdance"], heldItem = "['occa_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:vespiquen", level = 77, gender = "FEMALE", nature = "adamant", ability = "unnerve", moveset = ["powergem", "attackorder", "aerialace", "defendorder"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:heracross", level = 77, gender = "MALE", nature = "jolly", ability = "guts", moveset = ["earthquake", "rockslide", "facade", "closecombat"], heldItem = "['flame_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:flygon", level = 75, gender = "FEMALE", nature = "modest", ability = "levitate", moveset = ["dragonpulse", "earthpower", "boomburst", "bugbuzz"], heldItem = "['wise_glasses']", shiny = false, aspects = [] },
+  { species = "cobblemon:drapion", level = 79, gender = "FEMALE", nature = "jolly", ability = "sniper", moveset = ["crosspoison", "nightslash", "earthquake", "xscissor"], heldItem = "['scope_lens']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

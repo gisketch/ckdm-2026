@@ -1,0 +1,132 @@
+{
+  "id": "rct_game_freaks_morimoto_05a8",
+  "name": "GAME FREAK\u2019s Morimoto",
+  "title": "GAME FREAK\u2019s",
+  "gender": "any",
+  "archetype": "game_freak_s",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "game_freak_s/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:spiritomb",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "infiltrator",
+      "moveset": [
+        "shadowball",
+        "darkpulse",
+        "willowisp",
+        "destinybond"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ambipom",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "fakeout",
+        "fling",
+        "doublehit",
+        "icepunch"
+      ],
+      "heldItem": [
+        "kings_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hippowdon",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sandstream",
+      "moveset": [
+        "earthquake",
+        "stealthrock",
+        "yawn",
+        "rocktomb"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vaporeon",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hydropump",
+        "acidarmor",
+        "icebeam",
+        "quickattack"
+      ],
+      "heldItem": [
+        "wiki_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:jolteon",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderbolt",
+        "shadowball",
+        "thunderwave",
+        "voltswitch"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flareon",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "flashfire",
+      "moveset": [
+        "flareblitz",
+        "superpower",
+        "quickattack",
+        "willowisp"
+      ],
+      "heldItem": [
+        "iapapa_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

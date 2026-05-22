@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_mt_coronet_3f_2",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:stunky",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We Grunts have two jobs. One, ensure the success of our operation at the summit. Two, utterly destroy any intruders to stop their meddling!",
+    "Join Team Galactic and then abide by our rules. That would solve all our problems!"
+  ]
+}

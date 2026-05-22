@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_gs_m_theo"
+name = "Bird Keeper Gs Theo"
+title = "Bird Keeper Gs"
+gender = "male"
+archetype = "bird_keeper_gs"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bird_keeper_gs/male"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 15
+maxLevel = 19
+team = [
+  { species = "cobblemon:pidgey", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What are you here for? Just to stand around and gawk? I suggest you leave!", "How in the world do you go up? I want to visit the sick Pokémon, but I can’t get up there..."]

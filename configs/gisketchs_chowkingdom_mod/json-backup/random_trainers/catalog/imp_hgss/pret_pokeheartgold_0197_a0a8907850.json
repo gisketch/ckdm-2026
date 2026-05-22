@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0197_team_rocket_grunt",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:grimer",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hyuck-hyuck-hyuck! I remember you! You got me good at our hideout!",
+    "Hyuck-hyuck-hyuck! That was a blast!"
+  ]
+}

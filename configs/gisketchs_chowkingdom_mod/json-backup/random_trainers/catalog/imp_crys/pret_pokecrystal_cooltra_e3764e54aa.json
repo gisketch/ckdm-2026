@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_cooltrainerm_017_kevin",
+  "name": "Cooltrainerm Kevin",
+  "title": "Cooltrainerm",
+  "gender": "any",
+  "archetype": "cooltrainerm",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "cooltrainerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:charmeleon",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wartortle",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerm Kevin is ready for a battle."
+  ]
+}

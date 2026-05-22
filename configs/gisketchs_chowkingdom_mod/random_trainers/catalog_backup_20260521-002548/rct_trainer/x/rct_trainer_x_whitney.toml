@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_whitney"
+name = "Rct Trainer Whitney"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 95
+maxLevel = 97
+team = [
+  { species = "cobblemon:zangoose", level = 97, gender = "MALE", nature = "jolly", ability = "toxicboost", moveset = ["facade", "closecombat", "quickattack", "fakeout"], heldItem = "['toxic_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:miltank", level = 97, gender = "FEMALE", nature = "jolly", ability = "thickfat", moveset = ["bodyslam", "thunderwave", "stealthrock", "milkdrink"], heldItem = "['kasib_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:exploud", level = 96, gender = "FEMALE", nature = "timid", ability = "punkrock", moveset = ["boomburst"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:zoroark", level = 95, gender = "FEMALE", nature = "timid", ability = "illusion", moveset = ["shadowball", "hypervoice", "flamethrower", "uturn"], heldItem = "['focus_sash']", shiny = false, aspects = ["sevii"] },
+  { species = "cobblemon:ursaluna", level = 97, gender = "FEMALE", nature = "adamant", ability = "guts", moveset = ["facade", "earthquake", "suckerpunch", "shadowclaw"], heldItem = "['flame_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:snorlax", level = 95, gender = "FEMALE", nature = "impish", ability = "thickfat", moveset = ["curse", "rest", "sleeptalk", "bodyslam"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

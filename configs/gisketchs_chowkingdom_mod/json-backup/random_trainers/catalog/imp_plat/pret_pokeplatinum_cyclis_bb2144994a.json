@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_cyclist_kayla_rematch_1",
+  "name": "Cyclist Female Kayla",
+  "title": "Cyclist Female",
+  "gender": "female",
+  "archetype": "cyclist_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cyclist_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cyclist Female Kayla is ready for a battle."
+  ]
+}

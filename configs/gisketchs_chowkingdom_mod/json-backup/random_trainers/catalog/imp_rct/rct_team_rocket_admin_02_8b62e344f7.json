@@ -1,0 +1,72 @@
+{
+  "id": "rct_team_rocket_admin_021f",
+  "name": "Team Rocket Admin",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:muk",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "stickyhold",
+      "moveset": [
+        "sludgebomb",
+        "screech",
+        "minimize",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arbok",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "shedskin",
+      "moveset": [
+        "sludgebomb",
+        "bite",
+        "earthquake",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vileplume",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sludgebomb",
+        "gigadrain",
+        "sleeppowder",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

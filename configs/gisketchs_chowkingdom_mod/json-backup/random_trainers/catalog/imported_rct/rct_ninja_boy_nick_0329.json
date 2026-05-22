@@ -1,0 +1,49 @@
+{
+  "id": "rct_ninja_boy_nick_0329",
+  "name": "Ninja Boy Nick",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "skorupi",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "battlearmor",
+      "moveset": [
+        "honeclaws",
+        "poisonfang",
+        "bugbite",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "absorb",
+        "poisonfang",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

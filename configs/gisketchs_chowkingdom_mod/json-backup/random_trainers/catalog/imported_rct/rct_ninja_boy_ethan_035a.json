@@ -1,0 +1,49 @@
+{
+  "id": "rct_ninja_boy_ethan_035a",
+  "name": "Ninja Boy Ethan",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "skorupi",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "battlearmor",
+      "moveset": [
+        "honeclaws",
+        "knockoff",
+        "pinmissile",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

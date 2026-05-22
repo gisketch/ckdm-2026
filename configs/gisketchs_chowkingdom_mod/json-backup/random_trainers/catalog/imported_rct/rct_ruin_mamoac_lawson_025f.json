@@ -1,0 +1,65 @@
+{
+  "id": "rct_ruin_mamoac_lawson_025f",
+  "name": "Ruin Mamoac Lawson",
+  "title": "Ruin Mamoac",
+  "gender": "any",
+  "archetype": "ruin_mamoac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "onix",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "rockhead",
+      "moveset": [
+        "sandtomb",
+        "irontail",
+        "dig",
+        "stoneedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "graveler",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "rockblast",
+        "earthquake",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marowak",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "fling",
+        "stompingtantrum",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

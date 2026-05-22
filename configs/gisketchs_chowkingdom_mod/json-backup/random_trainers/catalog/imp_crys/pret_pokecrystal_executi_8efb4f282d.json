@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokecrystal_executivem_001_executive",
+  "name": "Executivem Executive",
+  "title": "Executivem",
+  "gender": "any",
+  "archetype": "executivem",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "executivem/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:houndour",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "ember",
+        "roar",
+        "bite",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "sludge",
+        "smokescreen",
+        "haze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "ember",
+        "smog",
+        "bite",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Executivem Executive is ready for a battle."
+  ]
+}

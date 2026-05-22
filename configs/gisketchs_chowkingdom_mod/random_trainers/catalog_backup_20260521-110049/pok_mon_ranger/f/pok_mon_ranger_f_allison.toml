@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_ranger_f_allison"
+name = "Pok Mon Ranger Allison"
+title = "Pok Mon Ranger"
+gender = "female"
+archetype = "pok_mon_ranger"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_ranger/female"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.14
+bustStyle = "standard"
+minLevel = 59
+maxLevel = 61
+team = [
+  { species = "cobblemon:ambipom", level = 61, gender = "FEMALE", nature = "jolly", ability = "pickup", moveset = ["dualchop", "tickle", "doublehit", "fling"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:azumarill", level = 59, gender = "FEMALE", nature = "jolly", ability = "thickfat", moveset = ["bubblebeam", "bounce", "playrough", "superpower"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

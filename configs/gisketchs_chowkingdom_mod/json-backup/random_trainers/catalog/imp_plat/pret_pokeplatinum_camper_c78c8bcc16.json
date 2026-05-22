@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_camper_diego",
+  "name": "Camper Diego",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:aipom",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Humph! You\u2019re lost, aren\u2019t you? I\u2019ll guide you if you can beat me.",
+    "I\u2019m not lost, I tell you! I\u2019m camping! That\u2019s my story!"
+  ]
+}

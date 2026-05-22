@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ranger_krista",
+  "name": "Ranger Female Krista",
+  "title": "Ranger Female",
+  "gender": "female",
+  "archetype": "ranger_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:lairon",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marowak",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you getting worn out from all the running you\u2019ve done?",
+    "The world is full of Pok\u00e9mon and all sorts of Trainers."
+  ]
+}

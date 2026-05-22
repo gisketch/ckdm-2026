@@ -1,0 +1,72 @@
+{
+  "id": "rct_tamer_edgar_0127",
+  "name": "Tamer Edgar",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:arbok",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "coil",
+        "jawlock",
+        "belch",
+        "haze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoking",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rivalry",
+      "moveset": [
+        "chipaway",
+        "thrash",
+        "earthpower",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bewear",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "klutz",
+      "moveset": [
+        "thrash",
+        "painsplit",
+        "doubleedge",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_bugcatcher_014",
+  "name": "Bugcatcher Finn",
+  "title": "Bugcatcher",
+  "gender": "any",
+  "archetype": "bugcatcher",
+  "region": "Kanto",
+  "category": "specialist",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "bugcatcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:caterpie",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weedle",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:venonat",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bugcatcher from Route 9 is ready for a battle."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_evan_033b",
+  "name": "Swimmer Evan",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "golduck",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "tailwhip",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "furyswipes",
+        "waterpulse",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

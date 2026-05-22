@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokefirered_team_rocket_grunt_50",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Kanto/Sevii",
+  "category": "team",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "memento",
+        "haze",
+        "smokescreen",
+        "sludge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "haze",
+        "smokescreen",
+        "sludge",
+        "selfdestruct"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Team Rocket Grunt is ready for a battle."
+  ]
+}

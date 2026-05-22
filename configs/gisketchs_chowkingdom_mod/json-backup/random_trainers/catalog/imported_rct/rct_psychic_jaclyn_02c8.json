@@ -1,0 +1,65 @@
+{
+  "id": "rct_psychic_jaclyn_02c8",
+  "name": "Psychic Jaclyn",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "natu",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "synchronize",
+      "moveset": [
+        "psychic",
+        "confuseray",
+        "futuresight",
+        "wish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "slowbro",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "oblivious",
+      "moveset": [
+        "psychic",
+        "headbutt",
+        "amnesia",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "psychic",
+        "futuresight",
+        "recover",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

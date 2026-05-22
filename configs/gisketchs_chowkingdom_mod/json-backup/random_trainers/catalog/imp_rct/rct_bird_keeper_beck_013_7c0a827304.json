@@ -1,0 +1,56 @@
+{
+  "id": "rct_bird_keeper_beck_013b",
+  "name": "Bird Keeper Beck",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:pelipper",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staravia",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "agility",
+        "bravebird",
+        "finalgambit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "grunt_f_bria"
+name = "Grunt Bria"
+title = "Grunt"
+gender = "female"
+archetype = "grunt"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "grunt/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 24
+team = [
+  { species = "cobblemon:ekans", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:oddish", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ekans", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gloom", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gruntf Grunt is ready for a battle."]

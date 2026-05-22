@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_maniac_m_hunter"
+name = "Ruin Maniac Hunter"
+title = "Ruin Maniac"
+gender = "male"
+archetype = "ruin_maniac"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ruin_maniac/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:shieldon", level = 26, gender = "MALE", nature = "relaxed", ability = "sturdy", moveset = ["tackle", "taunt", "takedown", "irondefense"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

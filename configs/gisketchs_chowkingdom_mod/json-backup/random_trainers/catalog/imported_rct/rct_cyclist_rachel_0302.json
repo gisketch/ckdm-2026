@@ -1,0 +1,49 @@
+{
+  "id": "rct_cyclist_rachel_0302",
+  "name": "Cyclist Rachel",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "shinx",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shinx",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

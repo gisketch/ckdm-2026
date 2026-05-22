@@ -1,0 +1,33 @@
+{
+  "id": "rct_burglar_00d3",
+  "name": "Burglar",
+  "title": "Burglar 00d3",
+  "gender": "any",
+  "archetype": "burglar_00d3",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "intimidate",
+      "moveset": [
+        "takedown",
+        "flameburst",
+        "agility",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

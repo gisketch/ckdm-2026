@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gambler_x_rich"
+name = "Gambler Rich"
+title = "Gambler"
+gender = "any"
+archetype = "gambler"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "gambler/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:houndour", level = 35, gender = "FEMALE", nature = "mild", ability = "earlybird", moveset = ["suckerpunch", "beatup", "darkpulse", "scorchingsands"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:litleo", level = 35, gender = "MALE", nature = "modest", ability = "rivalry", moveset = ["takedown", "firefang", "endeavor", "echoedvoice"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

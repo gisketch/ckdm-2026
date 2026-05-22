@@ -1,0 +1,33 @@
+{
+  "id": "rct_black_belt_philip_039c",
+  "name": "Black Belt Philip",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "focusenergy",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

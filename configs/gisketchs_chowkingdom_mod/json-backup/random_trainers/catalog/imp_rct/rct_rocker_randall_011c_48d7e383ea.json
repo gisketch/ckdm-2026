@@ -1,0 +1,72 @@
+{
+  "id": "rct_rocker_randall_011c",
+  "name": "Rocker Randall",
+  "title": "Rocker",
+  "gender": "any",
+  "archetype": "rocker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rocker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:voltorb",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "rollout",
+        "screech",
+        "chargebeam",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "magnetbomb",
+        "lightscreen",
+        "sonicboom",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "rollout",
+        "screech",
+        "chargebeam",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

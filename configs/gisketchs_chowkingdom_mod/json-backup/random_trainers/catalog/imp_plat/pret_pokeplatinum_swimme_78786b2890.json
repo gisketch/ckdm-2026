@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeplatinum_swimmer_miranda_rematch",
+  "name": "Swimmer Female Miranda",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:shellder",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lumineon",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmer Female Miranda is ready for a battle."
+  ]
+}

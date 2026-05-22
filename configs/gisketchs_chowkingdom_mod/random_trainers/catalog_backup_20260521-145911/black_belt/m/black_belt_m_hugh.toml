@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_hugh"
+name = "Black Belt Hugh"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "very_high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:heracross", level = 91, gender = "FEMALE", nature = "jolly", ability = "moxie", moveset = ["megahorn", "closecombat", "earthquake", "stoneedge"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:medicham", level = 93, gender = "FEMALE", nature = "jolly", ability = "hugepower", moveset = ["closecombat", "zenheadbutt", "fakeout", "icepunch"], heldItem = "['mega_showdown:medichamite', 'choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:tyrantrum", level = 92, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["dragondance", "headsmash", "dragonclaw", "closecombat"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+]
+dialogue = ["Black Belt Hugh is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

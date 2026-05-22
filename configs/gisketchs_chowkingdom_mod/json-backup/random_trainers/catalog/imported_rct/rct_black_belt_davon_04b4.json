@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_davon_04b4",
+  "name": "Black Belt Davon",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "mankey",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "vitalspirit",
+      "moveset": [
+        "finalgambit",
+        "closecombat",
+        "thrash",
+        "crosschop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "makuhita",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "fakeout",
+        "endure",
+        "reversal",
+        "heavyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hariyama",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "fakeout",
+        "endure",
+        "reversal",
+        "heavyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

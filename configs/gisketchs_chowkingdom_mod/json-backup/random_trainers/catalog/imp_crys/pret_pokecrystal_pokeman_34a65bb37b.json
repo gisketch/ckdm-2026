@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_pokemaniac_003_calvin",
+  "name": "Pokemaniac Calvin",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "pokemaniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemaniac Calvin is ready for a battle."
+  ]
+}

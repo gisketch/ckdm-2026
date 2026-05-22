@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_yuri"
+name = "Bug Catcher Yuri"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 11
+maxLevel = 11
+team = [
+  { species = "cobblemon:weedle", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kakuna", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bugcatcher from Mt. Moon 1F is ready for a battle."]

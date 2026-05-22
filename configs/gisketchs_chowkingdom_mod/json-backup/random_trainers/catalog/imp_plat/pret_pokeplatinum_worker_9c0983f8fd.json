@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_worker_brendon",
+  "name": "Worker Brendon",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:geodude",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey! This is no playground! If you\u2019re gonna play, battle me!",
+    "They were going to close this place up so no one could get in. But, they left it open so people and Pok\u00e9mon can get together here."
+  ]
+}

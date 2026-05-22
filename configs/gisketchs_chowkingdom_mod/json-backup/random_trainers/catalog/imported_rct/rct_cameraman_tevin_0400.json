@@ -1,0 +1,33 @@
+{
+  "id": "rct_cameraman_tevin_0400",
+  "name": "Cameraman Tevin",
+  "title": "Cameraman",
+  "gender": "any",
+  "archetype": "cameraman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "pachirisu",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "quickattack",
+        "spark",
+        "endure"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

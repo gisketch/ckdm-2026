@@ -1,0 +1,69 @@
+{
+  "id": "rct_science_society_scientist_supply_and_demand_05de",
+  "name": "Science Society Scientist",
+  "title": "Science Society",
+  "gender": "any",
+  "archetype": "science_society",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "science_society/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "aftermath",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": [
+        "normal_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrode",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "aftermath",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": [
+        "normal_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrode",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "aftermath",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": [
+        "normal_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

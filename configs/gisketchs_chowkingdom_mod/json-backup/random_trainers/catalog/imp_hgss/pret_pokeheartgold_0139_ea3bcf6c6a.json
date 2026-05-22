@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0139_picnicker_debra",
+  "name": "Picnicker Debra",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:seaking",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m so bored. Want to battle?",
+    "Saffron, Celadon... I hear there are many big cities in Kanto."
+  ]
+}

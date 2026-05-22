@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0068_bug_catcher_al",
+  "name": "Bug Catcher Al",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 12,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "cobblemon:caterpie",
+      "level": 12,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weedle",
+      "level": 12,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You\u2019ve come all this way, crossing the web like a bug Pok\u00e9mon! Allow me to teach you the charms of bug Pok\u00e9mon!",
+    "Just being in this Gym, I feel like I\u2019ve turned into a bug Pok\u00e9mon!"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0411_psychic_male_vernon",
+  "name": "Psychic Male Vernon",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:espeon",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Wow, look at all those Badges! I\u2019m impressed. But you\u2019re not satisfied by just collecting them, right?",
+    "People and Pok\u00e9mon grow from their experiences. Don\u2019t get lazy and complacent."
+  ]
+}

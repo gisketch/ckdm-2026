@@ -1,0 +1,72 @@
+{
+  "id": "rct_picnicker_kindra_01df",
+  "name": "Picnicker Kindra",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 56,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:eldegoss",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "cottondown",
+      "moveset": [
+        "hypervoice",
+        "aromatherapy",
+        "leafstorm",
+        "cottonguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flapple",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "ripen",
+      "moveset": [
+        "irondefense",
+        "fly",
+        "dragonrush",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:venomoth",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "shielddust",
+      "moveset": [
+        "leechlife",
+        "zenheadbutt",
+        "poisonfang",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

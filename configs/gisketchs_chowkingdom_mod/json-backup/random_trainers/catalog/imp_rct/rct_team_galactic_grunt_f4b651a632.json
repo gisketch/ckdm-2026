@@ -1,0 +1,40 @@
+{
+  "id": "rct_team_galactic_grunt_042b",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:silcoon",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

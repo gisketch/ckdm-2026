@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_moira_rematch",
+  "name": "Ace Trainer Female Moira",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 59,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:sandslash",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "slash",
+        "gyroball",
+        "dig",
+        "xscissor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "muddywater",
+        "recover",
+        "bodyslam",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:claydol",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthquake",
+        "psychic",
+        "ancientpower",
+        "cosmicpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ace Trainer Female Moira is ready for a battle."
+  ]
+}

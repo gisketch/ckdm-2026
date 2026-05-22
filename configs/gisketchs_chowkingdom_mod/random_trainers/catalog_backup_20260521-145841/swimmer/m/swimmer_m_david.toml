@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_david"
+name = "Swimmer David"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 62
+maxLevel = 63
+team = [
+  { species = "cobblemon:gyarados", level = 62, gender = "MALE", nature = "naughty", ability = "intimidate", moveset = ["dragondance", "hurricane", "raindance", "hyperbeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dewgong", level = 63, gender = "MALE", nature = "gentle", ability = "icescales", moveset = ["takedown", "dive", "aquatail", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 62, gender = "FEMALE", nature = "naughty", ability = "illuminate", moveset = ["hydropump", "iondeluge", "paraboliccharge", "charge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male David is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

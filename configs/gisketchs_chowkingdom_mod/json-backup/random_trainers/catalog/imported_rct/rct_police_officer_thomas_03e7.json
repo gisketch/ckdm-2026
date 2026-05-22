@@ -1,0 +1,49 @@
+{
+  "id": "rct_police_officer_thomas_03e7",
+  "name": "Police Officer Thomas",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "noctowl",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "peck",
+        "reflect",
+        "psychoshift",
+        "uproar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "dualchop",
+        "bulkup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

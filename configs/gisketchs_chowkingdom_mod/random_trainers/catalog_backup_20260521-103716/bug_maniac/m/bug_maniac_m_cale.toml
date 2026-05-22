@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_maniac_m_cale"
+name = "Bug Maniac Cale"
+title = "Bug Maniac"
+gender = "male"
+archetype = "bug_maniac"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "bug_maniac/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:dustox", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Maniac Cale is ready for a battle."]

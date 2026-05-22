@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0562_picnicker_piper",
+  "name": "Picnicker Piper",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:spoink",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey, hey, how about we bring out your Pok\u00e9mon and mine for a battle?",
+    "The way you were walking with your Pok\u00e9mon made me think that I could win."
+  ]
+}

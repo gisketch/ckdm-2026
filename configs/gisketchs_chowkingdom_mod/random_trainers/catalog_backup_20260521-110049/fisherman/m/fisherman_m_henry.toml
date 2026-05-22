@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_henry"
+name = "Fisherman Henry"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn;Johto/Kanto"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 31
+maxLevel = 34
+team = [
+  { species = "cobblemon:carvanha", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Henry is ready for a battle.", "My Pokémon? Freshly caught!", "Freshly caught Pokémon are no match for properly raised ones."]

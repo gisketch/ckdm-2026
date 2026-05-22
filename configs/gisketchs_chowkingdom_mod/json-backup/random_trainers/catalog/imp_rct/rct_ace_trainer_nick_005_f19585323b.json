@@ -1,0 +1,138 @@
+{
+  "id": "rct_ace_trainer_nick_0055",
+  "name": "Ace Trainer Nick",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 93,
+  "maxLevel": 95,
+  "team": [
+    {
+      "species": "cobblemon:ninetales",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "snowwarning",
+      "moveset": [
+        "freezedry",
+        "moonblast",
+        "auroraveil",
+        "frostbreath"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cobblemon:garchomp",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "scaleshot",
+        "stoneedge"
+      ],
+      "heldItem": [
+        "mega_showdown:garchompite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragapult",
+      "level": 94,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "dragondance",
+        "phantomforce",
+        "dragondarts",
+        "fireblast"
+      ],
+      "heldItem": [
+        "weakness_policy"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heatran",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "magmastorm",
+        "earthpower",
+        "flashcannon",
+        "protect"
+      ],
+      "heldItem": [
+        "air_balloon"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arctozolt",
+      "level": 95,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "slushrush",
+      "moveset": [
+        "boltbeak",
+        "blizzard",
+        "freezedry",
+        "lowkick"
+      ],
+      "heldItem": [
+        "ice_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zapdos",
+      "level": 94,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "defiant",
+      "moveset": [
+        "closecombat",
+        "bravebird",
+        "uturn",
+        "stompingtantrum"
+      ],
+      "heldItem": [
+        "mega_showdown:flyinium_z",
+        "flying_gem"
+      ],
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

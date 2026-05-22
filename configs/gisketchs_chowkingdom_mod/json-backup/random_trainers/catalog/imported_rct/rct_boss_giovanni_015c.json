@@ -1,0 +1,99 @@
+{
+  "id": "rct_boss_giovanni_015c",
+  "name": "Boss Giovanni",
+  "title": "Boss",
+  "gender": "any",
+  "archetype": "boss",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "nidoking",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "earthpower",
+        "icebeam",
+        "sludgebomb",
+        "thunderbolt"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "honchkrow",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "nightslash",
+        "suckerpunch",
+        "drillpeck",
+        "heatwave"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "infernape",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "pyroball",
+        "closecombat",
+        "thunderpunch",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kangaskhan",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "fakeout",
+        "bodyslam",
+        "crunch",
+        "poweruppunch"
+      ],
+      "heldItem": "mega_showdown:kangaskhanite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "willowisp",
+        "voltswitch",
+        "frostbreath",
+        "freezedry"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": [
+        "frost-appliance"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

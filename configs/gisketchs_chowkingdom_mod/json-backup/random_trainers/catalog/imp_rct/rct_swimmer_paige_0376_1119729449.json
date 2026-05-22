@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmer_paige_0376",
+  "name": "Swimmer Paige",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:marill",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "playrough",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wingull",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "hydration",
+      "moveset": [
+        "quickattack",
+        "waterpulse",
+        "airslash",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "zenheadbutt",
+        "screech",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

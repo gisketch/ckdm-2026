@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokecrystal_cooltrainerm_006_gaven",
+  "name": "Cooltrainerm Gaven",
+  "title": "Cooltrainerm",
+  "gender": "any",
+  "archetype": "cooltrainerm",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "cooltrainerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:victreebel",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "wrap",
+        "toxic",
+        "acid",
+        "razorleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubblebeam",
+        "stomp",
+        "guillotine",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flareon",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sandattack",
+        "quickattack",
+        "bite",
+        "firespin"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerm Gaven is ready for a battle."
+  ]
+}

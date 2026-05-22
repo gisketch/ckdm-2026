@@ -1,0 +1,56 @@
+{
+  "id": "rct_sailor_huey_008a",
+  "name": "Sailor Huey",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:croconaw",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sheerforce",
+      "moveset": [
+        "seismictoss",
+        "scaryface",
+        "roar",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bibarel",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "simple",
+      "moveset": [
+        "headbutt",
+        "hyperfang",
+        "yawn",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

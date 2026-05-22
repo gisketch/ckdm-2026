@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranchers_f_beth"
+name = "Ranchers Beth"
+title = "Ranchers"
+gender = "female"
+archetype = "ranchers"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ranchers/female"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:ponyta", level = 19, gender = "MALE", nature = "sassy", ability = "runaway", moveset = ["tackle", "growl", "tailwhip", "flamecharge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

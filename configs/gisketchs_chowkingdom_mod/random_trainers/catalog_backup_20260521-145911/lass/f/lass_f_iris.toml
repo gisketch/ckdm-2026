@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_iris"
+name = "Lass Iris"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Kanto/Sevii;Kanto"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import;pret_pokered"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 16
+maxLevel = 16
+team = [
+  { species = "cobblemon:milcery", level = 16, gender = "FEMALE", nature = "timid", ability = "sweetveil", moveset = ["covet", "sweetkiss", "sweetscent", "drainingkiss"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Iris is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready.", "Lass from Route 3 is ready for a battle."]

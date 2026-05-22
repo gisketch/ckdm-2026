@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0615_lass_krise",
+  "name": "Lass Krise",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 53,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:vileplume",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marowak",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Krise is ready for a battle."
+  ]
+}

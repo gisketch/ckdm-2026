@@ -1,0 +1,72 @@
+{
+  "id": "rct_pokemaniac_cooprt_00a4",
+  "name": "Pok\u00e9maniac Cooprt",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:mightyena",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "poisonfang",
+        "assurance",
+        "scaryface",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flareon",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "firefang",
+        "firespin",
+        "scaryface",
+        "smog"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:porygon",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "docile",
+      "ability": "trace",
+      "moveset": [
+        "recover",
+        "magnetrise",
+        "signalbeam",
+        "recycle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

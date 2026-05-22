@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_dane"
+name = "Bug Catcher Dane"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 44
+maxLevel = 48
+team = [
+  { species = "cobblemon:beedrill", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:butterfree", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Welcome to Viridian Forest. Enjoy my Bug-type Pokémon!", "Pretty impressive! I’m sure you can go anywhere with that skill!"]

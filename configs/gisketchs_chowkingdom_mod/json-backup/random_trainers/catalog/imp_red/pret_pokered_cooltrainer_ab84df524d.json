@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_cooltrainerf_002",
+  "name": "Cooltrainerf Iris",
+  "title": "Cooltrainerf",
+  "gender": "any",
+  "archetype": "cooltrainerf",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "cooltrainerf/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weepinbell",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:victreebel",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerf from Victory Road 3F is ready for a battle."
+  ]
+}

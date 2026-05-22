@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ninja_boy_m_matthew"
+name = "Ninja Boy Matthew"
+title = "Ninja Boy"
+gender = "male"
+archetype = "ninja_boy"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ninja_boy/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:golbat", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Poof! You’ve got a good eye spotting me!", "I’ll play with my Pokémon--even in a blizzard!"]

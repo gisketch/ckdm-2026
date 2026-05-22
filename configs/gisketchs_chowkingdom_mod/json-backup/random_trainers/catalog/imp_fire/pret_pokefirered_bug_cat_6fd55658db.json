@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokefirered_bug_catcher_brent",
+  "name": "Bug Catcher Brent",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:beedrill",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beedrill",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bug Catcher Brent is ready for a battle."
+  ]
+}

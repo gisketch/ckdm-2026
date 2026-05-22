@@ -1,0 +1,49 @@
+{
+  "id": "rct_gentleman_arthur_01a6",
+  "name": "Gentleman Arthur",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "nidorino",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "poisontouch",
+      "moveset": [
+        "doublekick",
+        "poisonsting",
+        "furyattack",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zangoose",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "toughclaws",
+      "moveset": [
+        "pursuit",
+        "honeclaws",
+        "slash",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

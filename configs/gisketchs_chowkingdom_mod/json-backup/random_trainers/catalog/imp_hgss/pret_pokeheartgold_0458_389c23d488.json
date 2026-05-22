@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeheartgold_0458_ace_trainer_female_jamie",
+  "name": "Ace Trainer Female Jamie",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 37,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:rapidash",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "stomp",
+        "firespin",
+        "flamewheel",
+        "ember"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ampharos",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "signalbeam",
+        "charge",
+        "thunderpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ace Trainer Female Jamie is ready for a battle."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0591_fisherman_gideon",
+  "name": "Fisherman Gideon",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:lanturn",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "signalbeam",
+        "bubblebeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mantine",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "wingattack",
+        "psybeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Question is...did I become a fisherman because I\u2019m patient, or did I get more patient because I\u2019m a fisherman?",
+    "What\u2019s the reason you became a Pok\u00e9mon Trainer?"
+  ]
+}

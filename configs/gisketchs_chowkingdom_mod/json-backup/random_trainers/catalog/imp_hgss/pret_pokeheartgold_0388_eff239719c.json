@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0388_firebreather_walt",
+  "name": "Firebreather Walt",
+  "title": "Firebreather",
+  "gender": "any",
+  "archetype": "firebreather",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "firebreather/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:magmar",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmar",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m practicing my fire breathing.",
+    "The Pok\u00e9mon March on the radio lures wild Pok\u00e9mon."
+  ]
+}

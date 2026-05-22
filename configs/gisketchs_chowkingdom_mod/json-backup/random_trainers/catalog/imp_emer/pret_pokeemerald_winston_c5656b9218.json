@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_winston_1",
+  "name": "Rich Boy Winston",
+  "title": "Rich Boy",
+  "gender": "male",
+  "archetype": "rich_boy",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "rich_boy/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:zigzagoon",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rich Boy Winston is ready for a battle."
+  ]
+}

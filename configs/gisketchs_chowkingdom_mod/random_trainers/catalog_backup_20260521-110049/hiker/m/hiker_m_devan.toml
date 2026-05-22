@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_devan"
+name = "Hiker Devan"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 8
+maxLevel = 8
+team = [
+  { species = "cobblemon:geodude", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Devan is ready for a battle."]

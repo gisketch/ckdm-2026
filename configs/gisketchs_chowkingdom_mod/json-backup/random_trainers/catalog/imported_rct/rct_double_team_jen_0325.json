@@ -1,0 +1,33 @@
+{
+  "id": "rct_double_team_jen_0325",
+  "name": "Double Team Jen",
+  "title": "Double Team",
+  "gender": "any",
+  "archetype": "double_team",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "raichu",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "nuzzle",
+        "thunderbolt",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

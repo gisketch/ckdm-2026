@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_dragon_tamer_joe",
+  "name": "Dragon Tamer Joe",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:dratini",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gabite",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Learning how to manage tough Pok\u00e9mon is the shortcut to getting tough.",
+    "Getting the best out of any Pok\u00e9mon... That\u2019s what makes a good Trainer..."
+  ]
+}

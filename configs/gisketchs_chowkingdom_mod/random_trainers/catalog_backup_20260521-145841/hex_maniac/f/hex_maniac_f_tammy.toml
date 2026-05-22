@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hex_maniac_f_tammy"
+name = "Hex Maniac Tammy"
+title = "Hex Maniac"
+gender = "female"
+archetype = "hex_maniac"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "hex_maniac/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = "standard"
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:duskull", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shuppet", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hex Maniac Tammy is ready for a battle."]

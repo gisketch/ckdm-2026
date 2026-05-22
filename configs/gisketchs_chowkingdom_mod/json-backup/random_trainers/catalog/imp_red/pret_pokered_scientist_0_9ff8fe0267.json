@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_scientist_004",
+  "name": "Scientist Cal",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Scientist from Silph Co. 3F/Mansion 1F is ready for a battle."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_worker_quentin_0462",
+  "name": "Worker Quentin",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "sandstorm",
+        "harden",
+        "smackdown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "graveler",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "harden",
+        "smackdown",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "bind",
+        "curse",
+        "rockslide",
+        "sandtomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

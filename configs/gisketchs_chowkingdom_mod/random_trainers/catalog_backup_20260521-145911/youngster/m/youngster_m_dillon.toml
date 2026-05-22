@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_dillon"
+name = "Youngster Dillon"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 25
+maxLevel = 26
+team = [
+  { species = "cobblemon:phanpy", level = 25, gender = "FEMALE", nature = "calm", ability = "pickup", moveset = ["rollout", "magnitude", "endure", "slam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:woobat", level = 26, gender = "FEMALE", nature = "quirky", ability = "unaware", moveset = ["heartstamp", "imprison", "aircutter", "attract"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Dillon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

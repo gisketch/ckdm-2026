@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "policeman_m_alex"
+name = "Policeman Alex"
+title = "Policeman"
+gender = "male"
+archetype = "policeman"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "policeman/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:hoothoot", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machop", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m keeping my eyes open for crime. Anyone arousing suspicion here?", "Don’t go hanging out with any shady-looking characters! You hear?"]

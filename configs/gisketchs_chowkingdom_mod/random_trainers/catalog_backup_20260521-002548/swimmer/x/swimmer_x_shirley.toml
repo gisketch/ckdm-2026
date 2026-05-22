@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_shirley"
+name = "Swimmer Shirley"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 63
+maxLevel = 64
+team = [
+  { species = "cobblemon:poliwrath", level = 64, gender = "FEMALE", nature = "hardy", ability = "damp", moveset = ["hypnosis", "doubleslap", "dynamicpunch", "circlethrow"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:politoed", level = 63, gender = "FEMALE", nature = "calm", ability = "damp", moveset = ["perishsong", "swagger", "bounce", "hypervoice"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwhirl", level = 64, gender = "FEMALE", nature = "lax", ability = "damp", moveset = ["bellydrum", "wakeupslap", "hydropump", "mudbomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

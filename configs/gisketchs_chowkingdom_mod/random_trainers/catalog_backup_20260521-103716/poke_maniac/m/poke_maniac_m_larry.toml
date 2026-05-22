@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_maniac_m_larry"
+name = "Poke Maniac Larry"
+title = "Poke Maniac"
+gender = "male"
+archetype = "poke_maniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "poke_maniac/male"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 11
+maxLevel = 11
+team = [
+  { species = "cobblemon:slowpoke", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I roam far and wide in search of Pokémon. Are you looking for Pokémon, too? Then you’re my collecting rival!", "Every Friday, you can hear Pokémon roars from deep inside the cave."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_summer_0440",
+  "name": "Picnicker Summer",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:staravia",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "endeavor",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cherrim",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flowergift",
+      "moveset": [
+        "morningsun",
+        "growth",
+        "magicalleaf",
+        "leechseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

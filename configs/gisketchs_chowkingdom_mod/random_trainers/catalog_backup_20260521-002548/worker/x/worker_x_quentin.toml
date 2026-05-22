@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_x_quentin"
+name = "Worker Quentin"
+title = "Worker"
+gender = "any"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 27
+maxLevel = 31
+team = [
+  { species = "cobblemon:geodude", level = 27, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["tackle", "sandstorm", "harden", "smackdown"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 31, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["sandstorm", "harden", "smackdown", "stealthrock"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 31, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["bind", "curse", "rockslide", "sandtomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The Canalave Gym folks use this place as their training grounds.", "Roark spent his childhood playing here, I think...", "I have trained this team for the road. Challenge me if you are ready."]

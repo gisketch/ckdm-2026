@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeplatinum_parasol_lady_alexa_rematch_1",
+  "name": "Parasol Lady Alexa",
+  "title": "Parasol Lady",
+  "gender": "female",
+  "archetype": "parasol_lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "parasol_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:goldeen",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bibarel",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Parasol Lady Alexa is ready for a battle."
+  ]
+}

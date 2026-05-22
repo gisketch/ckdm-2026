@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_josue"
+name = "Bird Keeper Josue"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:taillow", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wingull", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Josue is ready for a battle."]

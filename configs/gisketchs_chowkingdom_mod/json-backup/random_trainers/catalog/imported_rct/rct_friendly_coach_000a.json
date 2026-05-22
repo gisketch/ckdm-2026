@@ -1,0 +1,95 @@
+{
+  "id": "rct_friendly_coach_000a",
+  "name": "Friendly Coach (Atk)",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 1,
+  "maxLevel": 1,
+  "team": [
+    {
+      "species": "stoutland",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sandrush",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "stoutland",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "sandrush",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "stoutland",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "sandrush",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "stoutland",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "stoutland",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sandrush",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "stoutland",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sandrush",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

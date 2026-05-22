@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_ian"
+name = "Youngster Ian"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 10
+maxLevel = 12
+team = [
+  { species = "cobblemon:mankey", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = ["focusenergy", "scratch", "lowkick", "leer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:diglett", level = 12, gender = "GENDERLESS", nature = "", ability = "", moveset = ["astonish", "growl", "scratch", "sandattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Ian is ready for a battle.", "I’m the best in my class at Pokémon.", "I’m trying hard so I can be the star in my class."]

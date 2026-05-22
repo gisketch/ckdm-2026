@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeemerald_darrin",
+  "name": "Swimmer Male Darrin",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:tentacool",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wingull",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacool",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmer Male Darrin is ready for a battle."
+  ]
+}

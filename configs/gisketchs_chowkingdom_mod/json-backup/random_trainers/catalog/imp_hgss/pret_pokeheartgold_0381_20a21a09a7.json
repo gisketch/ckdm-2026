@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0381_youngster_jason",
+  "name": "Youngster Jason",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:sandslash",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crobat",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "It itches and tickles a bit when I wear shorts in the grass.",
+    "I\u2019m going to catch more Pok\u00e9mon in the grass."
+  ]
+}

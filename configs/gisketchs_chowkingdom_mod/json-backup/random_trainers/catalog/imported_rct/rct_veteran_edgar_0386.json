@@ -1,0 +1,65 @@
+{
+  "id": "rct_veteran_edgar_0386",
+  "name": "Veteran Edgar",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "tentacruel",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "clearbody",
+      "moveset": [
+        "reflecttype",
+        "bubblebeam",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golem",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "sandstorm",
+        "smackdown",
+        "heavyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "brine",
+        "aquajet",
+        "metalclaw",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

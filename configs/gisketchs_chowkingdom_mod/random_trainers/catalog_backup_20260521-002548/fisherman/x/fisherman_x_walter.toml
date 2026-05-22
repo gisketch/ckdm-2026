@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_walter"
+name = "Fisherman Walter"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:whiscash", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "magnitude"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I wield the stupendous power of water! Don’t think you can win!", "The water rising and falling is tricky, but don’t let it annoy you. If you lose sight of yourself, that’s when you’re set to lose."]

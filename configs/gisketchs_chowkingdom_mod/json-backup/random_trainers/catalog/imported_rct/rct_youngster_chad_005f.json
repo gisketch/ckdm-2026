@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_chad_005f",
+  "name": "Youngster Chad",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "volbeat",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "prankster",
+      "moveset": [
+        "confuseray",
+        "quickattack",
+        "strugglebug",
+        "moonlight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shroomish",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "effectspore",
+      "moveset": [
+        "leechseed",
+        "megadrain",
+        "headbutt",
+        "poisonpowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

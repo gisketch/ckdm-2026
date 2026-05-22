@@ -1,0 +1,115 @@
+{
+  "id": "rct_ace_trainer_alexa_0194",
+  "name": "Ace Trainer Alexa",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 83,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "cobblemon:clefable",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "magicguard",
+      "moveset": [
+        "moonblast",
+        "fireblast",
+        "thunderbolt",
+        "stealthrock"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:wigglytuff",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "sheerforce",
+      "moveset": [
+        "moonblast",
+        "flamethrower",
+        "thunderbolt",
+        "hypervoice"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:chansey",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "wish",
+        "toxic",
+        "seismictoss",
+        "protect"
+      ],
+      "heldItem": [
+        "eviolite"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:komala",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "comatose",
+      "moveset": [
+        "frustration",
+        "knockoff",
+        "uturn",
+        "earthquake"
+      ],
+      "heldItem": [
+        "choice_band"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:audino",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "healer",
+      "moveset": [
+        "moonblast",
+        "wish",
+        "protect",
+        "toxic"
+      ],
+      "heldItem": [
+        "mega_showdown:audinite",
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

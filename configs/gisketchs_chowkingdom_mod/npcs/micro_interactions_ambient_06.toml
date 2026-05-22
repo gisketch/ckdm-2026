@@ -1,0 +1,341 @@
+[[solo_moments]]
+id = "ambient_06_001"
+topic = "weather"
+source_tags = ["town"]
+activities = ["work"]
+line = "Rain on the roof makes every errand sound slower."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_002"
+topic = "weather"
+source_tags = ["mentor"]
+activities = ["meetup"]
+line = "A shifting wind can teach balance better than a lecture."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_003"
+topic = "weather"
+source_tags = ["wind_wizard"]
+line = "The breeze is carrying two stories in opposite directions."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_06_004"
+topic = "weather"
+source_tags = ["water_wizard"]
+activities = ["pokemon_roam"]
+line = "Mist gathers where the ground still remembers the stream."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_005"
+topic = "weather"
+source_tags = ["frost_wizard"]
+line = "Cold air sharpens each footstep before it fades."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_006"
+topic = "weather"
+source_tags = ["earth_wizard"]
+activities = ["work"]
+line = "Dry soil speaks first when a storm is late."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_007"
+topic = "weather"
+source_tags = ["archer"]
+activities = ["pokemon_roam"]
+line = "Crosswind turns a straight path into a small argument."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_008"
+topic = "weather"
+source_tags = ["witcher"]
+line = "Wet stone keeps tracks longer than most travelers expect."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_009"
+topic = "paths"
+source_tags = ["town"]
+activities = ["meetup"]
+line = "The busiest path is not always the safest one."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_010"
+topic = "paths"
+source_tags = ["rogue"]
+line = "A side trail with no dust has still been used."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_011"
+topic = "paths"
+source_tags = ["archer"]
+activities = ["pokemon_roam"]
+line = "Good sightlines make a narrow trail feel wider."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_012"
+topic = "paths"
+source_tags = ["mentor"]
+activities = ["work"]
+line = "A worn trail shows where habit won over planning."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_013"
+topic = "paths"
+source_tags = ["town"]
+activities = ["home"]
+line = "Lanterns near the path make home feel closer."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_014"
+topic = "paths"
+source_tags = ["wind_wizard"]
+line = "Leaves mark the turn before the signpost does."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_015"
+topic = "paths"
+source_tags = ["witcher"]
+activities = ["pokemon_roam"]
+line = "Broken twigs say more than a clean footprint."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_016"
+topic = "skyland_survival"
+source_tags = ["town"]
+line = "On a floating island, every fence earns its place."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_017"
+topic = "skyland_survival"
+source_tags = ["earth_wizard"]
+activities = ["work"]
+line = "Loose gravel at the edge is a warning, not clutter."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_06_018"
+topic = "skyland_survival"
+source_tags = ["wind_wizard"]
+line = "A calm sky can still hide a hungry updraft."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_019"
+topic = "skyland_survival"
+source_tags = ["water_wizard"]
+activities = ["home"]
+line = "Stored water matters more when clouds drift away."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_020"
+topic = "skyland_survival"
+source_tags = ["frost_wizard"]
+line = "Frost on the rail means the night climbed high."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_021"
+topic = "skyland_survival"
+source_tags = ["mentor"]
+activities = ["meetup"]
+line = "A skyland lesson begins with knowing where not to step."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_022"
+topic = "skyland_survival"
+source_tags = ["archer"]
+activities = ["pokemon_roam"]
+line = "From this height, even distant movement feels near."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_023"
+topic = "quiet_exploration"
+source_tags = ["town"]
+activities = ["pokemon_roam"]
+line = "Quiet places keep the best clues in plain sight."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_024"
+topic = "quiet_exploration"
+source_tags = ["rogue"]
+line = "A silent corner is only silent until you listen properly."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_025"
+topic = "quiet_exploration"
+source_tags = ["witcher"]
+activities = ["pokemon_roam"]
+line = "Still grass is worth checking twice."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_026"
+topic = "quiet_exploration"
+source_tags = ["water_wizard"]
+line = "A small pool can map the whole sky if left alone."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_027"
+topic = "quiet_exploration"
+source_tags = ["earth_wizard"]
+activities = ["work"]
+line = "Stone remembers weight even after the traveler leaves."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_028"
+topic = "quiet_exploration"
+source_tags = ["archer"]
+line = "The best lookout is the one nobody notices."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_029"
+topic = "quiet_exploration"
+source_tags = ["mentor"]
+activities = ["meetup"]
+line = "Exploration rewards the one who pauses before rushing."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_030"
+topic = "nighttime"
+source_tags = ["nocturnal"]
+activities = ["pokemon_roam"]
+line = "Night paths open when the daytime crowd forgets them."
+weight = 1.7
+
+[[solo_moments]]
+id = "ambient_06_031"
+topic = "nighttime"
+source_tags = ["town"]
+activities = ["home"]
+line = "Window light makes the dark lane feel measured."
+weight = 1.3
+
+[[solo_moments]]
+id = "ambient_06_032"
+topic = "nighttime"
+source_tags = ["rogue", "nocturnal"]
+line = "Moonlight leaves enough shadow for careful work."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_033"
+topic = "nighttime"
+source_tags = ["witcher", "nocturnal"]
+activities = ["pokemon_roam"]
+line = "Night tracks cross old roads without asking permission."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_06_034"
+topic = "nighttime"
+source_tags = ["frost_wizard", "nocturnal"]
+line = "Stars look sharper when the air turns cold."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_035"
+topic = "nighttime"
+source_tags = ["water_wizard", "nocturnal"]
+line = "The pond keeps a darker copy of the moon."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_036"
+topic = "nighttime"
+source_tags = ["wind_wizard", "nocturnal"]
+line = "The night wind slips through gaps the sun never found."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_037"
+topic = "nocturnal"
+source_tags = ["nocturnal"]
+activities = ["work"]
+line = "Some work is easier when the world lowers its voice."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_038"
+topic = "nocturnal"
+source_tags = ["archer", "nocturnal"]
+line = "A moving shadow is not always a threat, but it is never nothing."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_039"
+topic = "nocturnal"
+source_tags = ["rogue", "nocturnal"]
+activities = ["meetup"]
+line = "Late meetings need fewer words and better exits."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_040"
+topic = "music"
+source_tags = ["bard"]
+activities = ["meetup"]
+line = "A good tune finds the room before the singer does."
+weight = 1.7
+
+[[solo_moments]]
+id = "ambient_06_041"
+topic = "music"
+source_tags = ["musician"]
+activities = ["work"]
+line = "The next note is hiding inside the last one."
+weight = 1.7
+
+[[solo_moments]]
+id = "ambient_06_042"
+topic = "music"
+source_tags = ["bard", "nocturnal"]
+line = "Night turns a soft song into a lantern."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_06_043"
+topic = "music"
+source_tags = ["musician", "town"]
+activities = ["home"]
+line = "Even a quiet house has a rhythm after sunset."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_044"
+topic = "music"
+source_tags = ["wind_wizard", "bard"]
+line = "The wind keeps time poorly, but it never misses an entrance."
+weight = 1.4
+
+[[solo_moments]]
+id = "ambient_06_045"
+topic = "music"
+source_tags = ["water_wizard", "musician"]
+activities = ["pokemon_roam"]
+line = "Water and footsteps can keep a patient beat together."
+weight = 1.4

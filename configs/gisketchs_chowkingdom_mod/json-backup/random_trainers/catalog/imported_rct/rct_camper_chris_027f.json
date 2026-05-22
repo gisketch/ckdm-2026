@@ -1,0 +1,49 @@
+{
+  "id": "rct_camper_chris_027f",
+  "name": "Camper Chris",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "arcanine",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "firefang",
+        "flareblitz",
+        "helpinghand",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charmeleon",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "blaze",
+      "moveset": [
+        "slash",
+        "flamethrower",
+        "firespin",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

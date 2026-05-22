@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_m_deshawn"
+name = "Ranger Deshawn"
+title = "Ranger"
+gender = "male"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.15
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:spinda", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kecleon", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:granbull", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I work to protect beautiful, natural environments. My Pokémon are my constant companions while I work.", "Everyone can do their part to keep nature clean. It doesn’t take much."]

@@ -1,0 +1,69 @@
+{
+  "id": "pret_pokeheartgold_0597_bird_keeper_gs_easton",
+  "name": "Bird Keeper Gs Easton",
+  "title": "Bird Keeper Gs",
+  "gender": "any",
+  "archetype": "bird_keeper_gs",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bird_keeper_gs/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:doduo",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:doduo",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dodrio",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dodrio",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bird Keepers are so wonderful with their bird Pok\u00e9mon!",
+    "We Bird Keepers think we\u2019re using bird Pok\u00e9mon. But somewhere along the line, the bird Pok\u00e9mon started using us..."
+  ]
+}

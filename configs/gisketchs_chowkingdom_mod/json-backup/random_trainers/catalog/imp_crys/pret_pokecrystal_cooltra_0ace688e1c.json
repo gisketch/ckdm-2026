@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_cooltrainerm_015_tyler",
+  "name": "Cooltrainerm Tyler",
+  "title": "Cooltrainerm",
+  "gender": "any",
+  "archetype": "cooltrainerm",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "cooltrainerm/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 10,
+  "maxLevel": 10,
+  "team": [
+    {
+      "species": "cobblemon:bulbasaur",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:charmander",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:squirtle",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerm Tyler is ready for a battle."
+  ]
+}

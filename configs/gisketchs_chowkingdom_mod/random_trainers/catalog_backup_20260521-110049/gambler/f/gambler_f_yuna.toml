@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gambler_f_yuna"
+name = "Gambler Yuna"
+title = "Gambler"
+gender = "female"
+archetype = "gambler"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "gambler/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = "standard"
+minLevel = 24
+maxLevel = 24
+team = [
+  { species = "cobblemon:growlithe", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vulpix", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gambler from Route 8 is ready for a battle."]

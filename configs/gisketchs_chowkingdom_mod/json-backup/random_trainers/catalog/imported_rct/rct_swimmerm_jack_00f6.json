@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmerm_jack_00f6",
+  "name": "Swimmer♂ Jack",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 65,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "starmie",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "recover",
+        "psybeam",
+        "confuseray",
+        "meteorbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

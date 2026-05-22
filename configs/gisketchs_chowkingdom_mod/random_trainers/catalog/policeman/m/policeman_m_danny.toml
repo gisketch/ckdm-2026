@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "policeman_m_danny"
+name = "Policeman Danny"
+title = "Policeman"
+gender = "male"
+archetype = "policeman"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "policeman/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 51
+maxLevel = 53
+team = [
+  { species = "cobblemon:noctowl", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Policeman Danny is ready for a battle.", "Your whole atmosphere is shady. Cooperate in this investigation!", "I mistook your toughness as shadiness! It’s an honest mistake!"]

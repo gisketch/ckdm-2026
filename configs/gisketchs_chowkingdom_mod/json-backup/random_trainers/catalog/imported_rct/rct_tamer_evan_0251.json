@@ -1,0 +1,65 @@
+{
+  "id": "rct_tamer_evan_0251",
+  "name": "Tamer Evan",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "sandslash",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sandveil",
+      "moveset": [
+        "dig",
+        "gyroball",
+        "swordsdance",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickitung",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "owntempo",
+      "moveset": [
+        "rollout",
+        "chipaway",
+        "mefirst",
+        "refresh"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ursaring",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "guts",
+      "moveset": [
+        "crunch",
+        "scaryface",
+        "rest",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

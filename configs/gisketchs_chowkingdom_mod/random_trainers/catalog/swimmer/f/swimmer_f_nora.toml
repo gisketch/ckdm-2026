@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_nora"
+name = "Swimmer Nora"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 63
+maxLevel = 65
+team = [
+  { species = "cobblemon:kingler", level = 63, gender = "FEMALE", nature = "naive", ability = "hypercutter", moveset = ["slam", "brine", "crabhammer", "flail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cloyster", level = 64, gender = "FEMALE", nature = "docile", ability = "battlearmor", moveset = ["spikecannon", "iceshard", "spikes", "iciclecrash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seadra", level = 65, gender = "MALE", nature = "quirky", ability = "poisontouch", moveset = ["agility", "dragonpulse", "dragondance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Female Nora is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

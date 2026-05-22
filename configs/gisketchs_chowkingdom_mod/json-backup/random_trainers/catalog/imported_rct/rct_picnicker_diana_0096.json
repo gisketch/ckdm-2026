@@ -1,0 +1,33 @@
+{
+  "id": "rct_picnicker_diana_0096",
+  "name": "Picnicker Diana",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "drednaw",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "battlearmor",
+      "moveset": [
+        "aquajet",
+        "rockthrow",
+        "protect",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

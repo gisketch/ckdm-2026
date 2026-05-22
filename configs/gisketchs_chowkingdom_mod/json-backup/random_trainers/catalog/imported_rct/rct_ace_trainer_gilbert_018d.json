@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_gilbert_018d",
+  "name": "Ace Trainer Gilbert",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "tangledfeet",
+      "moveset": [
+        "wingattack",
+        "featherdance",
+        "whirlwind",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "technician",
+      "moveset": [
+        "drillpeck",
+        "mirrormove",
+        "pursuit",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "persian",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "technician",
+      "moveset": [
+        "payday",
+        "feintattack",
+        "screech",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickitung",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "oblivious",
+      "moveset": [
+        "slam",
+        "disable",
+        "wrap",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tauros",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "angerpoint",
+      "moveset": [
+        "hornattack",
+        "scaryface",
+        "swagger",
+        "tailwhip"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

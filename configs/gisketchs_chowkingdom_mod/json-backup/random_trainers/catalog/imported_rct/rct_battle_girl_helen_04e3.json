@@ -1,0 +1,49 @@
+{
+  "id": "rct_battle_girl_helen_04e3",
+  "name": "Battle Girl Helen",
+  "title": "Battle Girl",
+  "gender": "any",
+  "archetype": "battle_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "medicham",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "firepunch",
+        "thunderpunch",
+        "icepunch",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machamp",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "knockoff",
+        "strength",
+        "dualchop",
+        "crosschop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "rct_team_rocket_grunt_0184",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "sniper",
+      "moveset": [
+        "leechlife",
+        "dualwingbeat",
+        "haze",
+        "venoshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sharpedo",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "roughskin",
+      "moveset": [
+        "icefang",
+        "poisonfang",
+        "crunch",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hypno",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "forewarn",
+      "moveset": [
+        "psychup",
+        "synchronoise",
+        "psychic",
+        "swagger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

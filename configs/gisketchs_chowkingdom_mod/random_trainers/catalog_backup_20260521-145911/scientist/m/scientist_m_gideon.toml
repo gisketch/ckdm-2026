@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_m_gideon"
+name = "Scientist Gideon"
+title = "Scientist"
+gender = "male"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 46
+maxLevel = 46
+team = [
+  { species = "cobblemon:voltorb", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "screech", "spark", "sonicboom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["spark", "sonicboom", "screech", "charge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["screech", "swift", "spark", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magneton", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["triattack", "spark", "thunderwave", "sonicboom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:porygon", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["triattack", "conversion", "recover", "psybeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Gideon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

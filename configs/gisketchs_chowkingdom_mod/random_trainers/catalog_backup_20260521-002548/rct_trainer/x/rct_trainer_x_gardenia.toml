@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_gardenia"
+name = "Rct Trainer Gardenia"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 66
+maxLevel = 72
+team = [
+  { species = "cobblemon:jumpluff", level = 66, gender = "MALE", nature = "timid", ability = "chlorophyll", moveset = ["gigadrain", "sleeppowder", "leechseed", "sunnyday"], heldItem = "['heat_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:sunflora", level = 70, gender = "FEMALE", nature = "timid", ability = "solarpower", moveset = ["solarbeam"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:cherrim", level = 69, gender = "MALE", nature = "mild", ability = "flowergift", moveset = ["petalblizzard", "solarbeam", "growth", "sunnyday"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:breloom", level = 68, gender = "MALE", nature = "jolly", ability = "poisonheal", moveset = ["focuspunch", "leechseed", "substitute", "spore"], heldItem = "['toxic_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:torterra", level = 68, gender = "MALE", nature = "adamant", ability = "overgrow", moveset = ["woodhammer", "earthquake", "stoneedge", "irontail"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:roserade", level = 72, gender = "FEMALE", nature = "modest", ability = "naturalcure", moveset = ["solarbeam", "sludgebomb", "grassyterrain", "sunnyday"], heldItem = "['power_herb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

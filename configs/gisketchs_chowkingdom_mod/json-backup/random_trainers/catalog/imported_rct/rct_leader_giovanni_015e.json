@@ -1,0 +1,97 @@
+{
+  "id": "rct_leader_giovanni_015e",
+  "name": "Giovanni",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "rhyhorn",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "scaryface",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dugtrio",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "sandtomb",
+        "mudslap",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoqueen",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "bodyslam",
+        "doublekick",
+        "poisonsting",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoking",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "thrash",
+        "doublekick",
+        "poisonsting",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rhyhorn",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "scaryface",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

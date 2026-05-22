@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokecrystal_sailor_004_kent",
+  "name": "Sailor Kent",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:krabby",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubble",
+        "leer",
+        "vicegrip",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krabby",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubblebeam",
+        "leer",
+        "vicegrip",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Sailor Kent is ready for a battle."
+  ]
+}

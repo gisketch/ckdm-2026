@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_jared"
+name = "Bird Keeper Jared"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:doduo", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skarmory", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tropius", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Jared is ready for a battle."]

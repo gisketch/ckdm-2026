@@ -1,0 +1,72 @@
+{
+  "id": "rct_youngster_johnson_0216",
+  "name": "Youngster Johnson",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 71,
+  "maxLevel": 71,
+  "team": [
+    {
+      "species": "cobblemon:arbok",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "shedskin",
+      "moveset": [
+        "jawlock",
+        "belch",
+        "haze",
+        "gunkshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:grimmsnarl",
+      "level": 71,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "nastyplot",
+        "playrough",
+        "foulplay",
+        "hammerarm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krookodile",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "moxie",
+      "moveset": [
+        "foulplay",
+        "sandstorm",
+        "earthquake",
+        "wickedblow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

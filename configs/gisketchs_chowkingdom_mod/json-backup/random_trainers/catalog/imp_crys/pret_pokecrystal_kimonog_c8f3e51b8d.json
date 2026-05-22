@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_kimonogirl_001_naoko",
+  "name": "Kimono Girl Naoko",
+  "title": "Kimono Girl",
+  "gender": "female",
+  "archetype": "kimono_girl",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "kimono_girl/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:skiploom",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vulpix",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Kimono Girl Naoko is ready for a battle."
+  ]
+}

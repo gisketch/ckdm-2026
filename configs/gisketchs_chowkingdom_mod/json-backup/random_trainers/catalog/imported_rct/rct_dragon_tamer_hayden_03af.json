@@ -1,0 +1,49 @@
+{
+  "id": "rct_dragon_tamer_hayden_03af",
+  "name": "Dragon Tamer Hayden",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "swablu",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragonbreath",
+        "moonblast",
+        "round",
+        "perishsong"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "altaria",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragondance",
+        "skyattack",
+        "takedown",
+        "pluck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

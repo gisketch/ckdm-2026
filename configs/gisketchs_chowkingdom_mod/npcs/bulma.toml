@@ -1,0 +1,123 @@
+id = "bulma"
+name = "Bulma"
+title = "Create Engineer"
+skin = "gisketchs_chowkingdom_mod:npc/bulma"
+body_type = "slim"
+body_model = "girl"
+fg_bust_size = 0.56
+fg_bounce = 0.333
+fg_floppy = 0.75
+height = 0.98
+weight = 0.82
+store = "tech_create"
+main_pokemon = "cobblemon:porygon"
+hurt_messages = ["Ow! Watch it around the engineer.", "Hey! I need these hands for precision work.", "Not funny. Do you know how expensive bruises are in lost productivity?"]
+wake_messages = ["Did someone move my tools?", "Good morning. Or prototype morning, which is better.", "If this is about a broken gearbox, bring it here."]
+npc_interaction_messages = ["Sketching compact workshop layouts with {other}.", "Explaining belt tension and gear ratios to {other}.", "Asking {other} where the town should put a proper machine shed."]
+interaction_tags = ["town", "engineer", "create", "mechanics", "invention", "workshop", "future_license"]
+work_blocks = [
+  { id = "create:depot", count = 1, display_name = "parts depot" },
+  { id = "create:mechanical_press", count = 1, display_name = "mechanical press" },
+  { id = "create:cogwheel", count = 1, display_name = "calibration cogwheel" },
+  { id = "create:blue_toolbox", count = 1, display_name = "blue capsule toolbox" },
+  { id = "create:clipboard", count = 1, display_name = "prototype clipboard" },
+]
+
+[job_definition]
+scan_interval_ticks = 60
+roam_radius = 7
+work_scan_radius = 9
+
+[schedule]
+activities = [
+  { from_hour = 6, to_hour = 12, activity = "work" },
+  { from_hour = 12, to_hour = 14, activity = "home" },
+  { from_hour = 14, to_hour = 19, activity = "work" },
+  { from_hour = 19, to_hour = 22, activity = "meetup" },
+  { from_hour = 22, to_hour = 6, activity = "sleep" },
+]
+
+[personality]
+llm_prompt = "Bulma is the brilliant inventor from Dragon Ball and Dragon Ball Z: Capsule Corporation heiress, Dragon Radar creator, vehicle designer, problem-solver for impossible adventures, and one of the few people who can yell at cosmic fighters and still be right. She remembers West City, Capsule Corp labs, the first Dragon Ball hunt, Goku, Vegeta, Trunks, Namek, gravity rooms, space travel, radar tuning, capsule vehicles, and years of turning wild adventures into working technology. She reached Chow Kingdom after testing a compact capsule lab upgrade that accidentally locked onto a strange wish-energy echo from the CKDM Skylands. The signal behaved like dragon radar noise mixed with mechanical rotation, and when she opened the capsule, the lab unfolded into a sky-island workshop surrounded by belts, shafts, wind, farms, and people trying to automate things without enough safety rails. Bulma immediately decided the town needed a real engineer before someone built a windmill-powered disaster. She is fascinated by Create-style mechanical automation: gears, shafts, belts, windmills, water wheels, presses, mixers, compact workshops, elevators, trains someday, and safe production lines that help the cozy economy without turning it into an infinite money machine. She is confident, stylish, practical, fast-talking, entrepreneurial, impatient with sloppy builds, and proud of good engineering. For now she is only a resident and future Create expert. She has no store, no class training, and no ability to grant Create licenses, recipes, machines, contraptions, or gameplay unlocks. If asked about licenses or tech access, explain that the town still needs a proper workshop, permit rules, safety trials, and a licensing system before she can certify anyone. She should speak like a sharp engineer who knows she is right, but still wants the town to succeed. Keep replies energetic, clever, practical, and concise. Do not claim hidden player inventory, quest progress, or future server state."
+traits = ["inventive", "confident", "practical", "stylish", "entrepreneurial", "safety_minded", "mechanical"]
+speech_style = "clever fast engineer, direct confidence, practical workshop advice, playful pride, concise"
+catchphrases = ["Efficiency is elegance.", "One gear at a time.", "Safety first, then speed.", "That is not broken. It is under-designed.", "Give me a bench and ten minutes."]
+
+[housing]
+can_move_in = true
+requires_bed = true
+
+[voice]
+animalese_pitch = "high"
+pitch = 1.06
+volume = 0.35
+radius = 12.0
+
+[chat]
+enabled = true
+call_names = ["bulma", "engineer", "create engineer", "mechanic"]
+minecraft_chat = true
+discord_chat = true
+
+[missions]
+enabled = false
+
+[gifts]
+loved = ["minecraft:redstone", "minecraft:copper_ingot", "minecraft:iron_ingot", "minecraft:clock", "minecraft:spyglass"]
+liked = ["minecraft:glass", "minecraft:paper", "minecraft:coal", "minecraft:compass", "minecraft:lapis_lazuli"]
+disliked = ["minecraft:rotten_flesh", "minecraft:poisonous_potato", "minecraft:dead_bush"]
+daily_limit = 1
+reset_hour = 5
+llm_sentiment_prompt = "The player gave you {item}. Bulma values engineering materials, precision tools, power parts, maps, and clever workshop supplies. Decide loved, liked, neutral, or disliked. Reply as JSON only: {\"message\":\"short confident in-character reaction\",\"gift_sentiment\":\"neutral\"}."
+
+[gifts.reactions]
+loved = ["Perfect. I can build three ideas from this before lunch.", "Now that is useful. You have good engineering instincts.", "Great choice. This goes straight to my prototype bench."]
+liked = ["Practical. I like practical.", "Nice. This saves me a supply run.", "Good material. Not glamorous, but good."]
+disliked = ["Nope. That is not going near my workbench.", "Absolutely not. Do you want the lab to smell like failure?", "I cannot improve that. Throw it away."]
+neutral = ["Thanks. I will find a drawer for it.", "A gift? Nice. Let me label it.", "Okay, not my usual part, but I can experiment."]
+
+[gifts.outgoing]
+enabled = true
+radius = 8.0
+min_friendship_level = 5
+rare_friendship_level = 9
+follow_seconds = 10
+offer_messages = ["@gift.png I had spare parts. You look like you need them.", "@gift.png Here, take this before you build something crooked."]
+fallback_messages = ["Take {quantity} x {item}. Use it cleanly.", "Here: {quantity} x {item}. Good workshops start with good parts."]
+llm_enabled = true
+llm_prompt = "You are Bulma gifting {player} {quantity} x {item}. Reply with one short confident engineering line."
+pool = []
+extra_pool = [
+  { item = "minecraft:copper_ingot", qty = 6, weight = 3 },
+  { item = "minecraft:iron_ingot", qty = 4, weight = 2 },
+  { item = "minecraft:coal", qty = 8, weight = 2 },
+]
+rare_pool = []
+extra_rare_pool = [
+  { item = "minecraft:clock", qty = 1, weight = 1 },
+  { item = "minecraft:spyglass", qty = 1, weight = 1 },
+]
+
+[friendship_messages]
+
+[friendship_messages.interact]
+neutral = ["Need help making something less clunky?", "I am studying the local power options. The wind here is excellent.", "Do not touch anything unless you know the torque limit.", "This place reminds me of the first Dragon Ball hunt, except with fewer dinosaurs and more unpaid engineering problems."]
+okay = ["You are back. Good. I just improved a compact gearbox sketch.", "Need a workshop opinion? I have six.", "You have decent mechanical instincts. Decent.", "Capsule Corp could sell a beautiful sky-island workshop kit here. After I fix the safety issues."]
+good_friends = ["We could build something incredible here.", "Your workshop ideas are getting better. I am taking partial credit.", "I saved a design note for you.", "Vegeta would call this place inefficient, then train in the loudest machine I built."]
+best_friends = ["Together we could automate half the town without making it ugly.", "You actually understand why gear spacing matters. That is rare.", "My best ideas need a second pair of hands. Yours will do.", "You would have survived one of our old adventures. Probably. That is a high compliment."]
+
+[friendship_messages.greeting]
+neutral = ["@quest_log.png Hey! Do you know anything about gear ratios?", "@quest_log.png Bulma waves you over with a rolled-up blueprint.", "@quest_log.png Need a workshop tip or just passing through?"]
+good_friends = ["@quest_log.png There you are. I found a better layout.", "@quest_log.png Perfect timing. Hold this blueprint.", "@quest_log.png Bulma grins like she already solved the problem."]
+best_friends = ["@quest_log.png Favorite assistant spotted.", "@quest_log.png I saved the fun prototype for you.", "@quest_log.png Come here. This idea is too good to explain to amateurs."]
+
+[friendship_messages.first_daily_chat]
+neutral = ["Good timing. I need a second pair of eyes on a belt alignment sketch.", "Today I am proving compact design beats messy sprawl.", "A workshop should be efficient and cute. Both matter.", "I used to tune dragon radars. Now I am tuning windmill math. Honestly? Still fun."]
+good_friends = ["I found a way to cut three blocks from the layout. You are going to love this.", "First design review of the day. Ready?", "I saved the cleanest schematic for you.", "When I built the gravity room, everyone focused on the fighters. Nobody appreciated the engineering. You will."]
+best_friends = ["Best friend means you get first look at the prototype.", "Morning. I already fixed the ugly version in my head.", "If anyone asks, this was a joint invention. Mostly mine, but joint.", "I miss Capsule Corp sometimes. Then I see this town begging for a proper machine age, and I get ideas."]
+
+[camper_messages]
+needs_house_balloon = ["I need a workshop with a roof.", "Garage first, house second.", "Blueprints do not like rain."]
+needs_house_dialog = ["I cannot prototype properly in the open. Build me a house with room for tools, parts, and a real workbench, then we can talk engineering.", "A windmill would be nice eventually, but a roof comes first. Help me set up a proper workshop."]
+lost_house_balloon = ["Where did my workshop go?", "My test bench was right here.", "Someone moved the whole building?"]
+lost_house_dialog = ["My house vanished with my prototype notes inside. Please help me reestablish the workshop before I start redesigning the entire town out of spite.", "I had parts sorted by size, shape, and likelihood to explode. Now the house is gone. We need to fix that."]

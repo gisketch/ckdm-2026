@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_francisco_0370",
+  "name": "Swimmer Francisco",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "tentacool",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "clearbody",
+      "moveset": [
+        "waterpulse",
+        "hex",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "damp",
+      "moveset": [
+        "furyswipes",
+        "zenheadbutt",
+        "aquatail",
+        "psychup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

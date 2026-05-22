@@ -5,6 +5,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["wind_wizard"]
 line = "That linen cloak breathes well even in strong updrafts."
 response = "Good. I need nothing that billows into a sail mid-flight."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["water_wizard"]
 line = "This indigo holds fast against salt spray and sun."
 response = "Then it will survive a southern squall just fine."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["earth_wizard"]
 line = "Double-stitched tunic shoulders withstand rock dust abrasion."
 response = "About time someone reinforced the seam we all tear."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["fire_wizard"]
 line = "The hood liner is singe-tested up to forge heat."
 response = "Smart. A scorched collar smells for weeks otherwise."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["archer"]
 line = "Soft sole compound leaves no print on dry leaves."
 response = "Finally, boots that do not announce me to prey."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["frost_wizard"]
 line = "Frostproof weave shawl keeps shoulders loose in deep cold."
 response = "Loose shoulders mean faster somatic gestures. I will try it."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["nocturnal"]
 line = "Matte charcoal half-cloak vanishes against stone at night."
 response = "Perfect. Moonlight is my only worry now."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["researcher"]
 line = "Calfskin gloves sealed against acidic Cobblemon excretions."
 response = "Essential. My last pair dissolved during a handling trial."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["bard"]
 line = "Wide sash with a hidden plectrum pocket, quiet draw."
 response = "No more fumbling between verses. I will take it."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["arcane_wizard"]
 line = "Split-hem robe lets you lunge without snagging a staff."
 response = "Mobility is safety when your incantation takes six syllables."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["paladin"]
 line = "Hardened leather gorget weighs less than steel, same coverage."
 response = "Blessed silence. Plate gorgets ring like bells on patrol."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["rogue"]
 line = "Deep cowl hides your eyes even under direct torchlight."
 response = "Shadow in a fold of cloth. Useful."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["bounty_hunter"]
 line = "Surcoat with internal loops for three small restraint coils."
 response = "Three coils, three bounties. Clean design."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["skyland_survival"]
 line = "Wool-blend cloak traps warmth above the cloud line."
 response = "Sky winds cut deeper than any blade. I will buy."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["monster_hunter"]
 line = "Left bracer has a fixed steel hook for trophy rings."
 response = "Tidy. I hate trophies clattering against my quiver."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["forcemaster"]
 line = "Padded vest disperses blunt impact across a wider area."
 response = "Force recoil punished my ribs last week. I need this."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["warrior"]
 line = "Terrycloth wrist wrap keeps your grip dry inside gauntlets."
 response = "Sweaty pommels cost me a duel once. Not again."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["earth_wizard"]
 line = "Leather knee pad riveted for stone stance endurance."
 response = "Seismic sense starts in the knees. Reinforce them."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["wind_wizard"]
 line = "Silk scarf silences the whistle of wind across your collar."
 response = "Stealth in the sky? A rare gift. I accept."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["class_witcher"]
 line = "Belt with three quick-draw potion loops, silent leather."
 response = "A silent vial is a safe vial. Fine work."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["store_pokemon"]
 line = "Waxed apron shrugs off Pokeball polish and berry juice."
 response = "My last apron stained permanently. This looks promising."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["tundra_archer"]
 line = "Fleece sleeve gaiters block wind-driven sleet on the rise."
 response = "Draw-hand warmth is accuracy. I will test these."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["adventure_time"]
 line = "Sheer veil filters fine desert dust without fogging vision."
 response = "Grain in the eyes ruins a good quest. Thanks."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["link"]
 line = "Olive-green hooded cloak matches the old Hylian field kits."
 response = "It feels familiar. I will wear it gratefully."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["zelda"]
 line = "Goddess-silk sash in royal violet, hand-embroidered Triforce thread."
 response = "A memory of light given form. Beautiful."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["light_magic"]
 line = "Polished amber pendant warms slightly near sealing magic."
 response = "A focus that responds before the word. Precious."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["marceline"]
 line = "Midnight scarf with tiny crystal beads that catch starlight."
 response = "Finally, something that gleams on stage and street."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["bubblegum"]
 line = "Candy-pink lab coat, stain-proof, with four roomy pockets."
 response = "Four pockets for field notes and Pokeball spares. Perfect."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["ciri"]
 line = "Tooled leather belt with a swallow-clasp, silver finish."
 response = "A swallow always points home. I will wear it."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["geralt"]
 line = "Wide black headband keeps corrosive sweat off your brow."
 response = "Monster blood stings less than sweat in a wound."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["wizard"]
 line = "Travel-stained gray cloak, woven to shed light rain silently."
 response = "A quiet cloak for a quiet road. Excellent."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["arcane_wizard"]
 line = "Astral-silk sash hums faintly near active summoning circles."
 response = "Harmonic resonance. It will anchor my weaves nicely."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["frost_wizard"]
 line = "Sapphire cloak with a snowflake brooch that never thaws."
 response = "A trinket that remembers winter. I appreciate it."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["rogue"]
 line = "Soft leather soles with a tacky gum layer for tile."
 response = "Running a rooftop in rain is the true test."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["bounty_hunter"]
 line = "Braided cord shawl secures a shoulder quiver without slipping."
 response = "Quiver drift cost me a shot once. Never again."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["war_archer"]
 line = "Long bracer with a felt string-guard, silent release."
 response = "Elven bows demand silence. This bracer provides it."
+source_emote = "threaten"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["tundra_archer"]
 line = "Hood with a narrow slit cuts glare off fresh snow."
 response = "Snowblind ambushes more hunters than beasts. I will wear it."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["bard"]
 line = "Green beret with a dandelion feather, pinned fresh daily."
 response = "A feather for every song. I adore it."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["forcemaster"]
 line = "Tabard woven with force-dampening thread from skyland silk."
 response = "Recoil management is half the fight. I will buy."
+source_emote = "clap"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["paladin"]
 line = "Erdtree-gold surcoat, faded but still bright in dawn."
 response = "Faded gold remembers grace. I will wear it."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["priest"]
 line = "Stole embroidered with sacred geometry, blessed under skyland moon."
 response = "Sanctified craft. May it comfort the wounded."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["berserker"]
 line = "Single pauldron with a grinning skull buckle, solid brass."
 response = "Practical and intimidating. That is all I need."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["dragon_memory"]
 line = "Iridescent shawl that shifts color like a Light Dragon scale."
 response = "A whisper of the sky before dawn. I remember."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["sword_technique"]
 line = "Sage-green belt with a sheath loop angled for draw speed."
 response = "Angle is everything in the first breath of combat."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["skyland_lore"]
 line = "Cotton bandana printed with the old floating-isle trade routes."
 response = "History you can wear. I will add it to my kit."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -410,17 +500,21 @@ source_tags = ["store_cosmetics"]
 target_tags = ["cobblemon_biology"]
 line = "Insulated mitts for handling Cryogonal safely in the field."
 response = "Frostbite during research is no joke. Thank you."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_17_047"
 topic = "cloak_tears_kingdom_restored"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["bubblegum"]
 target_tags = ["tears_of_the_kingdom"]
 line = "Cloak dyed with Silent Princess blue, hem stitched gold."
 response = "A kingdom stitched back together. I will cherish it."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_17_048"
 topic = "apron_store_explorer_waxed"
@@ -428,6 +522,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["store_explorer"]
 line = "Waxed canvas apron with a map-case loop on the hip."
 response = "Finally, an apron that respects a cartographer's tools."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["store_seed"]
 line = "Cedar sachet keeps moths off seed pouches for a season."
 response = "Moth larvae cost me a rare berry strain. Sold."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "Enamel brooch shaped like a tiny powder puff, cheerful."
 response = "A little joy pinned to a lapel. Adorable."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0

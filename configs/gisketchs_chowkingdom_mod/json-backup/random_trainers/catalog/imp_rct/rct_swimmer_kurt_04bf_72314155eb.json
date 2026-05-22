@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmer_kurt_04bf",
+  "name": "Swimmer Kurt",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:crawdaunt",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "hypercutter",
+      "moveset": [
+        "taunt",
+        "nightslash",
+        "crabhammer",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

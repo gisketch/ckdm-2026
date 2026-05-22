@@ -1,0 +1,99 @@
+{
+  "id": "rct_mega_trainer_yale_05c9",
+  "name": "Mega Trainer Yale",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "exeggutor",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gigadrain",
+        "psychic",
+        "leechseed",
+        "trickroom"
+      ],
+      "heldItem": "tanga_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gigalith",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "rockslide",
+        "earthquake",
+        "superpower",
+        "explosion"
+      ],
+      "heldItem": "passho_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudbomb",
+        "waterpulse",
+        "icebeam",
+        "sludgebomb"
+      ],
+      "heldItem": "rindo_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golem",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "rockslide",
+        "thunderpunch",
+        "suckerpunch",
+        "stealthrock"
+      ],
+      "heldItem": "shuca_berry",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "camerupt",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sheerforce",
+      "moveset": [
+        "flamethrower",
+        "scorchingsands",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "mega_showdown:cameruptite assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

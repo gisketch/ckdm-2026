@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemon_ranger_x_sebastian"
+name = "Pokemon Ranger Sebastian"
+title = "Pokemon Ranger"
+gender = "any"
+archetype = "pokemon_ranger"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "pokemon_ranger/any"
+tier = "mid"
+spawnable = true
+height = 1.06
+weight = 1.15
+bustStyle = ""
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:cacturne", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemon Ranger Sebastian is ready for a battle."]

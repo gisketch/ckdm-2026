@@ -1,0 +1,65 @@
+{
+  "id": "rct_sailor_zachariah_0451",
+  "name": "Sailor Zachariah",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "pelipper",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "airslash",
+        "tailwind",
+        "waterpulse",
+        "stockpile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "ancientpower",
+        "muddywater",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

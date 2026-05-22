@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_f_caitlyn"
+name = "Tuber Caitlyn"
+title = "Tuber"
+gender = "female"
+archetype = "tuber"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "tuber/female"
+tier = "mid"
+spawnable = true
+height = 0.86
+weight = 0.84
+bustStyle = "standard"
+minLevel = 27
+maxLevel = 31
+team = [
+  { species = "cobblemon:azurill", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = ["watergun", "slam", "charm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marill", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bubblebeam", "rollout", "defensecurl", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:azumarill", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bubblebeam", "doubleedge", "rollout", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I want to become a strong Trainer like Crasher Wake!", "Maybe I’ll do like Wake... I mean, Crasher Wake, and use the same kinds of Pokémon."]

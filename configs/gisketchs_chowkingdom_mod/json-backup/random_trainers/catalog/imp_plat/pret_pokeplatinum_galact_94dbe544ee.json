@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_mt_coronet_6f",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 39,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:croagunk",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:murkrow",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You\u2019ve worked so hard to get here. You should be proud of yourself! And now, I\u2019ll send you packing home with only that happy thought!",
+    "We couldn\u2019t stop you... We\u2019ll be discarded as useless... Our boss is ruthless that way..."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_irene"
+name = "Picnicker Irene"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 62
+maxLevel = 63
+team = [
+  { species = "cobblemon:tentacruel", level = 62, gender = "MALE", nature = "jolly", ability = "liquidooze", moveset = ["hex", "sludgewave", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:swanna", level = 63, gender = "MALE", nature = "docile", ability = "frisk", moveset = ["raindance", "tailwind", "hydropump", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dewgong", level = 63, gender = "FEMALE", nature = "bold", ability = "icescales", moveset = ["takedown", "dive", "aquatail", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Irene is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

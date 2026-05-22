@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_bird_keeper_katherine",
+  "name": "Bird Keeper Katherine",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:noctowl",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I go everywhere with my NOCTOWL. We\u2019re gonna show you owl best! Ha!",
+    "Even on cold days, just being with my NOCTOWL keeps me warm!"
+  ]
+}

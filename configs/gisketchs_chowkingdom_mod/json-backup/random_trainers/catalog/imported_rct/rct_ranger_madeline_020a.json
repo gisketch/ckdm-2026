@@ -1,0 +1,49 @@
+{
+  "id": "rct_ranger_madeline_020a",
+  "name": "Ranger Madeline",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 51,
+  "team": [
+    {
+      "species": "gloom",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "chlorophyll",
+      "moveset": [
+        "petaldance",
+        "acid",
+        "sweetscent",
+        "poisonpowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vileplume",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "chlorophyll",
+      "moveset": [
+        "petaldance",
+        "moonlight",
+        "acid",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

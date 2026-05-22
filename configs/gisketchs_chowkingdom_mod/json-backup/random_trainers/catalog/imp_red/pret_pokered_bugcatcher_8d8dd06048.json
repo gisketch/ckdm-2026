@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_bugcatcher_002",
+  "name": "Bugcatcher Zane",
+  "title": "Bugcatcher",
+  "gender": "any",
+  "archetype": "bugcatcher",
+  "region": "Kanto",
+  "category": "specialist",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "bugcatcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:weedle",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kakuna",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weedle",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bugcatcher from Viridian Forest is ready for a battle."
+  ]
+}

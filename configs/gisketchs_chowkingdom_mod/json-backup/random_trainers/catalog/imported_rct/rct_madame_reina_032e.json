@@ -1,0 +1,33 @@
+{
+  "id": "rct_madame_reina_032e",
+  "name": "Madame Reina",
+  "title": "Madame",
+  "gender": "any",
+  "archetype": "madame",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "roselia",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "megadrain",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

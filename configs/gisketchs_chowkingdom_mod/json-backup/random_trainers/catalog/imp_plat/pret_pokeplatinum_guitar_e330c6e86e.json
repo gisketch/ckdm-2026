@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_guitarist_lonnie",
+  "name": "Guitarist Lonnie",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "guitarist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:raichu",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "slam",
+        "thunderwave",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Whether you\u2019re a Trainer or a Guitarist, it takes dedication to improve your mad skills!",
+    "The way you battle, I can feel the very heart of rock and roll. Tell me, are you maybe a fan of rocking out?"
+  ]
+}

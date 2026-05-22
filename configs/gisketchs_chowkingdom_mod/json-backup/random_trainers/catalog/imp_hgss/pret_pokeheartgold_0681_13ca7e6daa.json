@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0681_ace_trainer_male_arabella",
+  "name": "Ace Trainer Male Arabella",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:stantler",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "zenheadbutt",
+        "return",
+        "mefirst",
+        "trickroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tauros",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "takedown",
+        "thunder",
+        "surf",
+        "fireblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Anyway, fight me and see!",
+    "Me, I should be a pretty good practice partner... I shouldn\u2019t say that about myself!"
+  ]
+}

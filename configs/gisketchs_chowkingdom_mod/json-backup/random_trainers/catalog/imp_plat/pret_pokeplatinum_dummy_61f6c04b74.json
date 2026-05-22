@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_803",
+  "name": "Clown Mickey",
+  "title": "Clown",
+  "gender": "any",
+  "archetype": "clown",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "clown/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Clown Mickey is ready for a battle."
+  ]
+}

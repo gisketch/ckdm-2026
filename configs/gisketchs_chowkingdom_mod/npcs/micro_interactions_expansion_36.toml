@@ -5,6 +5,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The undergrowth ahead is thick. Do we continue marking or loop back?"
 response = "Mark the pass. A clear trail today means swift patrols tomorrow."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "I spotted faded ranger sigils on a twisted root west of here."
 response = "Renew them. Those marks guide gatherers through fog season."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Berry thickets this deep are risky. Should we post a schedule?"
 response = "Post at dawn and dusk only. Midday patrols keep the path safe."
+source_emote = "hands_in_back"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "A fallen oak root wall blocks the old logging trail."
 response = "Work around it. Disturbing deep roots wakes forest spirits."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Luminous moss near the creek bend might mark a cave."
 response = "Mark it but do not enter. I will send a torch scout later."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Bramble growth swallowed the south switchback again."
 response = "Cut a narrow lane. Leave thorns on the outer edge as defense."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Shall I set warding stakes along the hunter trail tonight?"
 response = "Yes, and tie white cords. The light mages will charge them."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "I can build a platform in the old elm for canopy watch."
 response = "Use only dead limbs. Living branches must stay for the dryads."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Found iridescent petals near the moss ring. For the researcher?"
 response = "Press them dry. Bubblegum will want them for cobblemon forage tests."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The sap blaze on the old pine has faded past recognition."
 response = "Reapply silver sap. Make it visible from the trade loop."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The stream ford shifted after the storm. Stones are loose."
 response = "Flag the new crossing. Wet boots slow a patrol too much."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Shall I stash fletching supplies in the hollow stump?"
 response = "Oilcloth wrap only. Damp shafts ruin a quiver in days."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Rustling in the hazel thicket. Deer or something bolder?"
 response = "Wait and listen. A drawn bow announces trouble faster than help."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Old root cellar half-buried under ivy. Any use to the town?"
 response = "Map it for dry storage. Mushroom folk avoid stone-capped holes."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The path forks at the bent beech. Left leads to skyland stairs."
 response = "Carve a skyland glyph on the beech. Gatherers need the clue."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -140,17 +170,21 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Three-leaf vine spread across the watering hollow."
 response = "Hang a red ribbon upwind. No one fills flasks there today."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_36_017"
 topic = "night_mark"
 source_tags = ["town", "archer"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town", "mentor"]
 line = "Should we carve glow-marks for the nocturnal patrol?"
 response = "Marceline uses sound, but carve one per league for others."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_36_018"
 topic = "acorn_crop"
@@ -158,6 +192,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "White oak gave a heavy acorn crop this side of the ridge."
 response = "Spread the word at the seed shop. Winter stock starts now."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Anchor silk strands between the standing stones. Still fresh."
 response = "Do not cut them. Weaver spiders eat pests along the path."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Storm-felled birch crossed the east game trail."
 response = "Leave the crown for cover. Cut a crawl-through only."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -185,17 +225,21 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Should dry-season patrols carry a smother sack each?"
 response = "Yes, and report scorch marks to the fire wizard at once."
+source_emote = "head_scratches"
+target_emote = "hands_in_back"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_36_022"
 topic = "mist_pocket"
 source_tags = ["town", "archer"]
+required_spawned_ids = ["katara"]
 target_tags = ["town", "mentor"]
 line = "A cold mist pocket sits in the hollow past sunset."
 response = "Katara said it pulls from the skyland falls. Avoid it then."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_36_023"
 topic = "burrow_watch"
@@ -203,6 +247,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Fresh digging under the hornbeam roots. Badger clan?"
 response = "Likely. Mark it friendly unless claw marks appear."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The bald ridge gives three leagues of sight. Post a horn?"
 response = "Horn and mirror. Light flash carries faster than sound there."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "A full circle of shelf fungus on the old sentinel oak."
 response = "Good omen. Rangers used to call that a dry year promise."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Can you read the bark peel on the north cedar?"
 response = "Elk rub from last rut. No danger, but teach the juniors."
+source_emote = "head_scratches"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Pine resin seep near the switchback. Harvest for torches?"
 response = "Half now, half sealed. The forest needs some for its wounds."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Vole tunnels riddled the grassy saddle. Hole risk for carts."
 response = "Flag the perimeter. Foot traffic only until we fill them."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The plank bridge over the ravine is slick with moss."
 response = "Scrape it before the midday gatherer shift crosses."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Long shadows from the skylands darken the path by noon."
 response = "Adjust patrol hours. Twilight creatures stir earlier here."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Blue clay seam exposed in the stream bank erosion."
 response = "Take a sample to the earth wizard. Good clay seals pots."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Silverleaf clusters ready for harvest by the stone bridge."
 response = "Tell the healers. They prefer plucking before noon dew."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The rope swing over the pool snapped its main hitch."
 response = "Knot it anew with double bowline. Children use that path."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Frost crack split the big maple beside the feeder trail."
 response = "Sound it for hollowness. A dead trunk topples in wind."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -311,17 +379,21 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The grey lichen grows thickest facing the trade road."
 response = "True north sign for wanderers. Keep it, teach the pattern."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_36_036"
 topic = "firebreak"
 source_tags = ["town", "archer"]
+required_spawned_ids = ["aang"]
 target_tags = ["town", "mentor"]
 line = "Shall we rake a thin firebreak along the southern cut?"
 response = "Two spans wide. Call Aang if the wind shifts during work."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_36_037"
 topic = "hazel_stakes"
@@ -329,6 +401,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Hazel coppice ready for cutting. Good stake wood."
 response = "Cut a bundle for the stockade fence. Leave the stool alive."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Crows mobbing something in the far glade. Investigate?"
 response = "Note the spot. Double back with a partner at next bell."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The exposed root ladder up the bank is crumbling."
 response = "Weave fresh willow withes. That bank serves the long loop."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Golden pollen drifting from the skyland blossom isles."
 response = "Cover your mouth. Sweet, but a whole cloud chokes a scout."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Wolf scat on the path, still warm. Pack might be near."
 response = "Bang a stick on rocks. Noise keeps them clear of gatherers."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Quartz nodule poking from the clay bank. Cobblemon lure?"
 response = "Pocket it for the pokemon shop. They test resonance."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -383,17 +467,21 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The lean-to behind the boulder caved in its roof."
 response = "Reset the canvas. Sudden rain hits this ridge first."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_36_044"
 topic = "bloom_alert"
 source_tags = ["town", "archer"]
+required_spawned_ids = ["venti"]
 target_tags = ["town", "mentor"]
 line = "Night-blooming cereus buds on the rocky outcrop."
 response = "Tell the bard Venti. He writes verses for rare blooms."
+source_emote = "hi"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_36_045"
 topic = "soft_ground"
@@ -401,6 +489,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The peat patch south of the beaver meadow is soft."
 response = "Lay plank stepping stones. A mired gatherer loses a day."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Wild hive in the hollow linden. Safe to approach today."
 response = "Tag it for the honey gatherer, not the woodcutter."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The old serpent stone at the crossroads toppled."
 response = "Hoist it back. It marks the safe night path for travellers."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "Leaf dew traps along the ridge collect enough to share."
 response = "Stow a spare flask behind the signpost for the thirsty."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "A fox den occupies the old badger set near the cairn."
 response = "Leave a wide berth. Foxes eat voles that strip bark."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["town", "archer"]
 target_tags = ["town", "mentor"]
 line = "The guide cairn at the forest edge lost two stones."
 response = "Restack it true. Every path starts with a solid marker."
+source_emote = "facepalm"
+target_emote = "wave"
 weight = 1.0

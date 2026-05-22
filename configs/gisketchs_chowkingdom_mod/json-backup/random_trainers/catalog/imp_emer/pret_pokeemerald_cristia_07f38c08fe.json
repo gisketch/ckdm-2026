@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_cristian",
+  "name": "Black Belt Cristian",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "cobblemon:makuhita",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Black Belt Cristian is ready for a battle."
+  ]
+}

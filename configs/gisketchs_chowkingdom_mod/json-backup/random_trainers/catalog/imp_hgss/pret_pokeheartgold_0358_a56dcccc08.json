@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0358_hiker_kenny",
+  "name": "Hiker Kenny",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:sandslash",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golem",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I should go to Rock Tunnel to get myself an ONIX.",
+    "Geological features don\u2019t appear to change. But they actually do change, little by little."
+  ]
+}

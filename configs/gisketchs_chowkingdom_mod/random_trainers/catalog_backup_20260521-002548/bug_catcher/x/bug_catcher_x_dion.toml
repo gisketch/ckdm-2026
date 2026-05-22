@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_dion"
+name = "Bug Catcher Dion"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:ariados", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Shh! Be quiet! The bug Pokémon will run away!", "From Bug-type Pokémon come the sounds of munching on grass, walking on crunchy leaves, swimming in puddles... For bug Pokémon fans, knowing how to distinguish these sounds is key!"]

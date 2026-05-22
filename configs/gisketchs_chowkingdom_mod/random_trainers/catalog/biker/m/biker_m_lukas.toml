@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_lukas"
+name = "Biker Lukas"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 47
+maxLevel = 47
+team = [
+  { species = "cobblemon:koffing", level = 47, gender = "MALE", nature = "rash", ability = "neutralizinggas", moveset = ["explosion", "destinybond", "belch", "memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 47, gender = "MALE", nature = "jolly", ability = "neutralizinggas", moveset = ["explosion", "destinybond", "belch", "memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:muk", level = 47, gender = "FEMALE", nature = "sassy", ability = "stickyhold", moveset = ["poisonfang", "screech", "gunkshot", "acidarmor"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 47, gender = "MALE", nature = "lonely", ability = "neutralizinggas", moveset = ["gyroball", "sludgebomb", "explosion", "destinybond"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Lukas is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lady_f_celeste"
+name = "Lady Celeste"
+title = "Lady"
+gender = "female"
+archetype = "lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "lady/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:blissey", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["fling", "softboiled", "eggbomb", "psychic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lady Celeste is ready for a battle."]

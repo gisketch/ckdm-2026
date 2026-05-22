@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_hiker_theodore_rematch_3",
+  "name": "Hiker Theodore",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:camerupt",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:donphan",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker Theodore is ready for a battle."
+  ]
+}

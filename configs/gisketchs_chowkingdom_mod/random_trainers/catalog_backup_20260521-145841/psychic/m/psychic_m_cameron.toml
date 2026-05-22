@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_cameron"
+name = "Psychic Cameron"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 53
+maxLevel = 54
+team = [
+  { species = "cobblemon:slowbro", level = 54, gender = "FEMALE", nature = "hasty", ability = "owntempo", moveset = ["zenheadbutt", "slackoff", "amnesia", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowking", level = 53, gender = "FEMALE", nature = "adamant", ability = "owntempo", moveset = ["nastyplot", "swagger", "psychic", "trumpcard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 53, gender = "FEMALE", nature = "quiet", ability = "cloudnine", moveset = ["psychup", "nastyplot", "hydropump", "wonderroom"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Cameron is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

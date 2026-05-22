@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "team_rocket_m_mickey"
+name = "Team Rocket Mickey"
+title = "Team Rocket"
+gender = "male"
+archetype = "team_rocket"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "team_rocket/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 25
+maxLevel = 30
+team = [
+  { species = "cobblemon:golbat", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golbat", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arbok", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Team Rocket Mickey is ready for a battle."]

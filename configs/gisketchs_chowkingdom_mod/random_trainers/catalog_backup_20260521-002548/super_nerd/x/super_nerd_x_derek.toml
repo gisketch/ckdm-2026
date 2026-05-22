@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_x_derek"
+name = "Super Nerd Derek"
+title = "Super Nerd"
+gender = "any"
+archetype = "super_nerd"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "super_nerd/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 74
+maxLevel = 74
+team = [
+  { species = "cobblemon:rapidash", level = 74, gender = "MALE", nature = "jolly", ability = "flashfire", moveset = ["fireblast", "bounce", "flareblitz", "jumpkick"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Derek is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

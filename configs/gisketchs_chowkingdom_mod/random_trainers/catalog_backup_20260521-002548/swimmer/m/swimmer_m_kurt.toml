@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_kurt"
+name = "Swimmer Kurt"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 51
+maxLevel = 54
+team = [
+  { species = "cobblemon:krabby", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:corphish", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kingler", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Check out my physique! The rough seas sculpted this awesome body!", "Seeing a Pokémon use Surf to carry you out on the sea... It strikes an emotional chord with me somewhere deep down."]

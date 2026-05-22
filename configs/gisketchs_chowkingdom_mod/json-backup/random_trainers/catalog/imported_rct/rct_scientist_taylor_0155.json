@@ -1,0 +1,89 @@
+{
+  "id": "rct_scientist_taylor_0155",
+  "name": "Scientist Taylor",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "electrode",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "soundproof",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weezing",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "musharna",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "forewarn",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "moonlight",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "amoonguss",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "effectspore",
+      "moveset": [
+        "spore",
+        "gigadrain",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scolipede",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonjab",
+        "xscissor",
+        "swordsdance"
+      ],
+      "heldItem": "prism_scale",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

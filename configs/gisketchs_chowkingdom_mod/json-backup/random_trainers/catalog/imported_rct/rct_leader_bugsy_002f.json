@@ -1,0 +1,81 @@
+{
+  "id": "rct_leader_bugsy_002f",
+  "name": "Bugsy",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "ariados",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "shadowsneak",
+        "fellstinger",
+        "bugbite",
+        "poisonfang"
+      ],
+      "heldItem": "poison_barb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ledian",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "ironfist",
+      "moveset": [
+        "drainpunch",
+        "icepunch",
+        "machpunch",
+        "uturn"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scyther",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "technician",
+      "moveset": [
+        "bugbite",
+        "aerialace",
+        "brickbreak",
+        "swordsdance"
+      ],
+      "heldItem": "charti_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "technician",
+      "moveset": [
+        "bulletpunch",
+        "uturn",
+        "aerialace",
+        "roost"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

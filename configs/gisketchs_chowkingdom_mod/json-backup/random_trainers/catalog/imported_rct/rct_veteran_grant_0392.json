@@ -1,0 +1,65 @@
+{
+  "id": "rct_veteran_grant_0392",
+  "name": "Veteran Grant",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "riolu",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "feint",
+        "metalclaw",
+        "workup",
+        "rocksmash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "staraptor",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "whirlwind",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "graveler",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "sandstorm",
+        "smackdown",
+        "bulldoze",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_f_mina"
+name = "Bird Keeper Mina"
+title = "Bird Keeper"
+gender = "female"
+archetype = "bird_keeper"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "bird_keeper/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = "standard"
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:farfetchd", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Birdkeeper from Route 14 is ready for a battle."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_shane"
+name = "Camper Shane"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 18
+maxLevel = 20
+team = [
+  { species = "cobblemon:skiddo", level = 18, gender = "MALE", nature = "lax", ability = "sapsipper", moveset = ["tailwhip", "leechseed", "razorleaf", "worryseed"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:yamper", level = 20, gender = "MALE", nature = "naive", ability = "pickup", moveset = ["nuzzle", "bite", "roar", "spark"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Shane is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

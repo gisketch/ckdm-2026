@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_snow_f_savannah"
+name = "Ace Trainer Snow Savannah"
+title = "Ace Trainer Snow"
+gender = "female"
+archetype = "ace_trainer_snow"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer_snow/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = "standard"
+minLevel = 39
+maxLevel = 42
+team = [
+  { species = "cobblemon:snorunt", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["icefang", "crunch", "hail", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snorunt", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["icefang", "crunch", "hail", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:glalie", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["icefang", "crunch", "hail", "protect"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Is the Gym’s trick floor making you a little hot under the collar? If you can’t maintain your cool in battle, you’ll freeze up.", "Your Pokémon look so hot in battle. So hot, they’re cool! Hahah!"]

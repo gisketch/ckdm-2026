@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_gs_x_gregg"
+name = "Scientist Gs Gregg"
+title = "Scientist Gs"
+gender = "any"
+archetype = "scientist_gs"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "scientist_gs/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = ""
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:magnemite", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["This was once a ninja hideout. There are traps to confound intruders like you.", "The PC on my desk is the switch that deactivates the PERSIAN alarm system. Don’t you ever touch it, OK?"]

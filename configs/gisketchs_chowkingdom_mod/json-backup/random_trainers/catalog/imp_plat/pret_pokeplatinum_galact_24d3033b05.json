@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_galactic_hq_1f",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:glameow",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Who do you think you are? Desecrating the halls of our HQ?!",
+    "In our HQ, we get around by taking warp panels. I\u2019d like to see you figure out how they connect."
+  ]
+}

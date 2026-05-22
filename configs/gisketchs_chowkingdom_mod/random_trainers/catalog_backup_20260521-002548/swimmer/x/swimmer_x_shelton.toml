@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_shelton"
+name = "Swimmer Shelton"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 29
+maxLevel = 31
+team = [
+  { species = "cobblemon:gyarados", level = 30, gender = "MALE", nature = "sassy", ability = "intimidate", moveset = ["leer", "twister", "whirlpool", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 29, gender = "MALE", nature = "sassy", ability = "intimidate", moveset = ["leer", "twister", "brine", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 31, gender = "FEMALE", nature = "sassy", ability = "intimidate", moveset = ["leer", "twister", "waterfall", "raindance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,62 @@
+{
+  "id": "rct_gym_leader_roark_0395",
+  "name": "Gym Leader Roark",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 12,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "stealthrock",
+        "defensecurl",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "rockthrow",
+        "bind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cranidos",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "headbutt",
+        "bulldoze",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

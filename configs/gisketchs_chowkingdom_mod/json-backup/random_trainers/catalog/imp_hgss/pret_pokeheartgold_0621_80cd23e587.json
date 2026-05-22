@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0621_firebreather_walt",
+  "name": "Firebreather Walt",
+  "title": "Firebreather",
+  "gender": "any",
+  "archetype": "firebreather",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "firebreather/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:magby",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmar",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmortar",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Firebreather Walt is ready for a battle."
+  ]
+}

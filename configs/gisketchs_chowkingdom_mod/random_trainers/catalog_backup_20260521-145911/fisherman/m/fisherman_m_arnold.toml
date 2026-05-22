@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_arnold"
+name = "Fisherman Arnold"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:shellder", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m bored by fishing. Let’s battle!", "I’ll just go back to fishing..."]

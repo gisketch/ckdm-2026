@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_destiny",
+  "name": "Ace Trainer Female Destiny",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 47,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "shockwave",
+        "quickattack",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "dig",
+        "thunderwave",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m not just looking for tough Trainers to battle. I\u2019ve been battling here because I want to feel the rush!",
+    "I\u2019m so glad that there are Pok\u00e9mon! There isn\u2019t much else that gives me the thrill that Pok\u00e9mon do!"
+  ]
+}

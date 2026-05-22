@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeplatinum_guitarist_tony_rematch",
+  "name": "Guitarist Tony",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "guitarist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "cobblemon:kricketune",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magneton",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Guitarist Tony is ready for a battle."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_hiker_reginald_043d",
+  "name": "Hiker Reginald",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "revenge",
+        "lowsweep"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

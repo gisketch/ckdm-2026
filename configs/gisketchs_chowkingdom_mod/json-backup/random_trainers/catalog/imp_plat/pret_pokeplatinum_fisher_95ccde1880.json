@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_fisherman_juan",
+  "name": "Fisherman Juan",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:gyarados",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Can\u2019t you see I\u2019m fishing? Don\u2019t talk! You\u2019ll spook the fish!",
+    "Fishing and battling are delicate things--as am I. Is that wrong?"
+  ]
+}

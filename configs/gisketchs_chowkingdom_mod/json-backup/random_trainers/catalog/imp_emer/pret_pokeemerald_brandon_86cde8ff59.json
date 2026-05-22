@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_brandon",
+  "name": "Pyramid King Brandon",
+  "title": "Pyramid King",
+  "gender": "any",
+  "archetype": "pyramid_king",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "pyramid_king/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:beldum",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pyramid King Brandon is ready for a battle."
+  ]
+}

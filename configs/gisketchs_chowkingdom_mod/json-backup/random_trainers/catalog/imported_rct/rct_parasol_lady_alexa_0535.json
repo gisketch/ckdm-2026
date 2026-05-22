@@ -1,0 +1,49 @@
+{
+  "id": "rct_parasol_lady_alexa_0535",
+  "name": "Parasol Lady Alexa",
+  "title": "Parasol Lady",
+  "gender": "any",
+  "archetype": "parasol_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "hornattack",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "floatzel",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "tailwhip",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

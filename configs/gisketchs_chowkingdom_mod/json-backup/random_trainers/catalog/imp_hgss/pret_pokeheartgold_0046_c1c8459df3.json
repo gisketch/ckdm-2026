@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0046_medium_martha",
+  "name": "Medium Martha",
+  "title": "Medium",
+  "gender": "any",
+  "archetype": "medium",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "medium/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastly",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I shall win!",
+    "The one who most wants to win--will!"
+  ]
+}

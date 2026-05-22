@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_mt_coronet_4f_1",
+  "name": "Galactic Grunt Male Grunt",
+  "title": "Galactic Grunt Male",
+  "gender": "male",
+  "archetype": "galactic_grunt_male",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:houndour",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndour",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Our time is coming! A time for us alone! We\u2019ll send you back in time. A time before you started training!",
+    "You can struggle all you want, but you can\u2019t stop Team Galactic alone! It doesn\u2019t matter how many Pok\u00e9mon you try to use as your tools!"
+  ]
+}

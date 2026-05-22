@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_sharon"
+name = "Ace Trainer Sharon"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 93
+maxLevel = 94
+team = [
+  { species = "cobblemon:serperior", level = 93, gender = "FEMALE", nature = "timid", ability = "contrary", moveset = ["glare", "leafstorm", "substitute", "leechseed"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:volcarona", level = 94, gender = "FEMALE", nature = "timid", ability = "flamebody", moveset = ["quiverdance", "fierydance", "bugbuzz", "roost"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:dugtrio", level = 94, gender = "MALE", nature = "jolly", ability = "arenatrap", moveset = ["earthquake", "stoneedge", "suckerpunch", "shadowclaw"], heldItem = "['mega_showdown:groundium_z', 'ground_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:absol", level = 93, gender = "MALE", nature = "jolly", ability = "superluck", moveset = ["nightslash", "psychocut", "closecombat", "suckerpunch"], heldItem = "['mega_showdown:absolite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:mantine", level = 93, gender = "FEMALE", nature = "timid", ability = "stormdrain", moveset = ["thunderbolt", "sludgewave", "voltswitch", "hiddenpower"], heldItem = "['air_balloon']", shiny = false, aspects = ["sevii"] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

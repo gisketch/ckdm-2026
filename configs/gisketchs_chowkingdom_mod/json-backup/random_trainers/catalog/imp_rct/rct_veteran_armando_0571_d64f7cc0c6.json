@@ -1,0 +1,56 @@
+{
+  "id": "rct_veteran_armando_0571",
+  "name": "Veteran Armando",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:staraptor",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "bravebird",
+        "closecombat",
+        "quickattack",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "hurricane",
+        "roost",
+        "waterpulse",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

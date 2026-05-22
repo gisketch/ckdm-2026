@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lady_f_sarah"
+name = "Lady Sarah"
+title = "Lady"
+gender = "female"
+archetype = "lady"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "lady/female"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 8
+maxLevel = 8
+team = [
+  { species = "cobblemon:lotad", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:zigzagoon", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lady Sarah is ready for a battle."]

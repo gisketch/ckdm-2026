@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0327_school_kid_male_danny",
+  "name": "School Kid Male Danny",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:jynx",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmar",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If Trainers meet, the first thing to do is battle.",
+    "For Trainers, it\u2019s a given that we\u2019ll battle whenever we meet."
+  ]
+}

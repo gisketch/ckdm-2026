@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_reporter_kinsey_unused",
+  "name": "Reporter Kinsey",
+  "title": "Reporter",
+  "gender": "any",
+  "archetype": "reporter",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "reporter/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Join me in this on-the-spot report, live at the scene of a battle!",
+    "Interviews are about taking the initiative. The people need to know."
+  ]
+}

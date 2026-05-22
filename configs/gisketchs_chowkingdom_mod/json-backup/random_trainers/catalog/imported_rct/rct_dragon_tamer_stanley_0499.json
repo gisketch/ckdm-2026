@@ -1,0 +1,49 @@
+{
+  "id": "rct_dragon_tamer_stanley_0499",
+  "name": "Dragon Tamer Stanley",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "seadra",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "poisonpoint",
+      "moveset": [
+        "dragonpulse",
+        "hydropump",
+        "agility",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "hyperbeam",
+        "waterfall",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rct_black_belt_miles_0435",
+  "name": "Black Belt Miles",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:machamp",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "dualchop",
+        "bulkup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

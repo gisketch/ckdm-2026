@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_owen"
+name = "Ace Trainer Owen"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:nidorino", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["scratch", "poisonsting", "doublekick", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorina", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hornattack", "poisonsting", "doublekick", "leer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raticate", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["superfang", "pursuit", "scaryface", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandslash", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyswipes", "swift", "slash", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhyhorn", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rockblast", "scaryface", "stomp", "tailwhip"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Owen is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

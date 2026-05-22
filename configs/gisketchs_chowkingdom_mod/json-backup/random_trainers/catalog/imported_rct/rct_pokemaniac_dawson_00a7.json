@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemaniac_dawson_00a7",
+  "name": "Pokémaniac Dawson",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "lapras",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "dragonpulse",
+        "wish",
+        "boomburst",
+        "dragonhammer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickilicky",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "owntempo",
+      "moveset": [
+        "screech",
+        "powerwhip",
+        "wringout",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flareon",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "lavaplume",
+        "lastresort",
+        "flareblitz",
+        "sacredfire"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

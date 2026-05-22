@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_mickey"
+name = "Camper Mickey"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "mid"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 33
+maxLevel = 36
+team = [
+  { species = "cobblemon:graveler", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["selfdestruct", "rockthrow", "harden", "magnitude"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["selfdestruct", "rockthrow", "harden", "magnitude"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magcargo", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rockthrow", "harden", "amnesia", "flamethrower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = ["disable", "psychic", "surf", "psychup"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Mickey is ready for a battle."]

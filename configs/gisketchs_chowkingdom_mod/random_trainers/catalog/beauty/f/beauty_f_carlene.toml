@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_carlene"
+name = "Beauty Carlene"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:sentret", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Carlene is ready for a battle."]

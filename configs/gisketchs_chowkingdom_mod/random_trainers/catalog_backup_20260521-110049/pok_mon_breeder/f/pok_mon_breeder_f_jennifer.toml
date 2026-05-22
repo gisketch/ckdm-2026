@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_breeder_f_jennifer"
+name = "Pok Mon Breeder Jennifer"
+title = "Pok Mon Breeder"
+gender = "female"
+archetype = "pok_mon_breeder"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_breeder/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 51
+maxLevel = 53
+team = [
+  { species = "cobblemon:mrmime", level = 52, gender = "MALE", nature = "timid", ability = "filter", moveset = ["reflect", "suckerpunch", "dazzlinggleam", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:roselia", level = 51, gender = "MALE", nature = "hasty", ability = "poisonpoint", moveset = ["leechseed", "gigadrain", "toxic", "petalblizzard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefable", level = 53, gender = "MALE", nature = "hasty", ability = "cutecharm", moveset = ["charm", "moonlight", "meteormash", "moonblast"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

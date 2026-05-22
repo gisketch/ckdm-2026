@@ -1,0 +1,113 @@
+{
+  "id": "rct_champion_terry_02e4",
+  "name": "Rival Terry",
+  "title": "Champion",
+  "gender": "any",
+  "archetype": "champion",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 72,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "heracross",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "guts",
+      "moveset": [
+        "megahorn",
+        "earthquake",
+        "counter",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alakazam",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "calmmind",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tyranitar",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "sandstream",
+      "moveset": [
+        "crunch",
+        "earthquake",
+        "thunderbolt",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 73,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "hydropump",
+        "dragondance",
+        "earthquake",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arcanine",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "extremespeed",
+        "overheat",
+        "aerialace",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "solarbeam",
+        "sludgebomb",
+        "earthquake",
+        "sunnyday"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

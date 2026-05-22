@@ -1,0 +1,33 @@
+{
+  "id": "rct_scientist_rodney_0153",
+  "name": "Scientist Rodney",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "rotom",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "rash",
+      "ability": "levitate",
+      "moveset": [
+        "shockwave",
+        "ominouswind",
+        "substitute",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

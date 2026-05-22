@@ -1,0 +1,32 @@
+{
+  "id": "rct_youngster_tristan_02e7",
+  "name": "Youngster Tristan",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "starly",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_black_belt_rafael_03d2",
+  "name": "Black Belt Rafael",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "meditite",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "forcepalm",
+        "mindreader",
+        "highjumpkick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

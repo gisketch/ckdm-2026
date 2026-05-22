@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_f_holly"
+name = "Tuber Holly"
+title = "Tuber"
+gender = "female"
+archetype = "tuber"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "tuber/female"
+tier = "mid"
+spawnable = true
+height = 0.86
+weight = 0.84
+bustStyle = "standard"
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:remoraid", level = 43, gender = "MALE", nature = "quirky", ability = "hustle", moveset = ["lockon", "bulletseed", "icebeam", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Listen, listen! Can you tell me what kind of Pokémon you have?", "I want to hang on to a BUIZEL and just bob around.", "I have trained this team for the road. Challenge me if you are ready."]

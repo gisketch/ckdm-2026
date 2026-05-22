@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_sailor_marc",
+  "name": "Sailor Marc",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:mantyke",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Oh, we\u2019ll ride upon the sea, in a boat, just you and me! That\u2019s the way of the Sailor! Way of the Sailor. Sing it!",
+    "You ought to think about becoming a Sailor yourself. It\u2019s been great to be able to visit different places around the world."
+  ]
+}

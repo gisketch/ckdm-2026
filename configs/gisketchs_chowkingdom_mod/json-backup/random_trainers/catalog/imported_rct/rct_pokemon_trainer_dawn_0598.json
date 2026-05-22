@@ -1,0 +1,115 @@
+{
+  "id": "rct_pokemon_trainer_dawn_0598",
+  "name": "Pokémon Trainer Dawn",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "wormadam",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "anticipation",
+      "moveset": [
+        "gyroball",
+        "suckerpunch",
+        "metalburst",
+        "stealthrock"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": [
+        "trash_cloak"
+      ]
+    },
+    {
+      "species": "magmortar",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "vitalspirit",
+      "moveset": [
+        "fireblast",
+        "focusblast",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "hex",
+        "frostbreath",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "milotic",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "hyperbeam",
+        "recover"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefable",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "unaware",
+      "moveset": [
+        "moonblast",
+        "calmmind",
+        "moonlight",
+        "minimize"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "woodhammer",
+        "earthquake",
+        "stoneedge",
+        "curse"
+      ],
+      "heldItem": "yache_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

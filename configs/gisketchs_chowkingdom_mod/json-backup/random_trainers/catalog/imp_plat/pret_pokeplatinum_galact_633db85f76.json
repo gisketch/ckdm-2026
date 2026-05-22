@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_team_galactic_eterna_building_1f_1",
+  "name": "Galactic Grunt Male Grunt",
+  "title": "Galactic Grunt Male",
+  "gender": "male",
+  "archetype": "galactic_grunt_male",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:zubat",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:stunky",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We are acquiring Pok\u00e9mon for a most astonishing undertaking! Your meddling won\u2019t be tolerated!",
+    "Our astonishing undertaking is most certainly breathtaking. If you ever hope to see its glorious unveiling, then don\u2019t meddle with us!"
+  ]
+}

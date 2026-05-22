@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0582_picnicker_cheyenne",
+  "name": "Picnicker Cheyenne",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When I was a kid, I only played inside the house. Now I love playing outside with Pok\u00e9mon!",
+    "If I\u2019m with Pok\u00e9mon, I don\u2019t mind losing so much!"
+  ]
+}

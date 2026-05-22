@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "salon_maiden_f_anabel"
+name = "Salon Maiden Anabel"
+title = "Salon Maiden"
+gender = "female"
+archetype = "salon_maiden"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "salon_maiden/female"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = "standard"
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:beldum", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Salon Maiden Anabel is ready for a battle."]

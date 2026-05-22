@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_black_belt_david",
+  "name": "Black Belt David",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:steelix",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "irontail",
+        "rockslide",
+        "sandstorm",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "irontail",
+        "rockslide",
+        "sandstorm",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Aiyaah! We\u2019re coming out swinging with super-heavy judo chops!",
+    "I must rededicate myself to training. The road extends into infinity..."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_youngster_norman_unused_1",
+  "name": "Youngster Norman",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:weavile",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You\u2019re a Pok\u00e9mon Trainer, and so am I. When Trainers lock eyes, that means a battle is on!",
+    "With Pok\u00e9mon that tough, I bet you could go anywhere in Sinnoh!"
+  ]
+}

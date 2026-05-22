@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_galactic_hq_2f_3",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndour",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You should be tired out by now. It\u2019s Team Galactic\u2019s turn to shine!",
+    "Pok\u00e9mon are that important to you? Is that what this is all about?"
+  ]
+}

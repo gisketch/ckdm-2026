@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_wayne_045a",
+  "name": "Youngster Wayne",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "bidoof",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zubat",
+      "level": 14,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aipom",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "runaway",
+      "moveset": [
+        "sandattack",
+        "astonish",
+        "batonpass",
+        "tickle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

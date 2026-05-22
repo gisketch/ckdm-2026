@@ -1,0 +1,72 @@
+{
+  "id": "rct_collector_dominique_0409",
+  "name": "Collector Dominique",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "collector/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "sandstorm",
+        "harden",
+        "smackdown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:geodude",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rollout",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:geodude",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rollout",
+        "smackdown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

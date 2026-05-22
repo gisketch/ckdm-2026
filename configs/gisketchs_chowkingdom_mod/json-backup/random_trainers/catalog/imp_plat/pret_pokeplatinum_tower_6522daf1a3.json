@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_tower_tycoon_palmer_dummy",
+  "name": "Tower Tycoon Palmer",
+  "title": "Tower Tycoon",
+  "gender": "any",
+  "archetype": "tower_tycoon",
+  "region": "Sinnoh",
+  "category": "unique",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "tower_tycoon/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Tower Tycoon Palmer is ready for a battle."
+  ]
+}

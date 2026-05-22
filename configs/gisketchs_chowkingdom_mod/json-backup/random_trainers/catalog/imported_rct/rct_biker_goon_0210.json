@@ -1,0 +1,65 @@
+{
+  "id": "rct_biker_goon_0210",
+  "name": "Biker Goon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "grimmsnarl",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "thunderwave",
+        "spiritbreak"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flygon",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "tintedlens",
+      "moveset": [
+        "headlongrush",
+        "dragonclaw",
+        "uturn",
+        "firepunch"
+      ],
+      "heldItem": "mega_showdown:groundium_z ground_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kleavor",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "accelerock",
+        "uturn",
+        "closecombat",
+        "stoneedge"
+      ],
+      "heldItem": "rock_gem",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

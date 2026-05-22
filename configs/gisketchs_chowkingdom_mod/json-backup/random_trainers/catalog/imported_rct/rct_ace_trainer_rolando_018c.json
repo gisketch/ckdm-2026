@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_rolando_018c",
+  "name": "Ace Trainer Rolando",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 82,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "ferrothorn",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "ironbarbs",
+      "moveset": [
+        "stealthrock",
+        "powerwhip",
+        "thunderwave",
+        "ironhead"
+      ],
+      "heldItem": "rocky_helmet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "leavanny",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sharpness",
+      "moveset": [
+        "fellstinger",
+        "leafblade",
+        "knockoff",
+        "xscissor"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mudsdale",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "stamina",
+      "moveset": [
+        "earthquake",
+        "slackoff",
+        "toxic",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clawitzer",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "megalauncher",
+      "moveset": [
+        "waterpulse",
+        "icebeam",
+        "darkpulse",
+        "aurasphere"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ampharos",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "dragonpulse",
+        "discharge",
+        "voltswitch",
+        "focusblast"
+      ],
+      "heldItem": "mega_showdown:ampharosite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gambler_x_reid"
+name = "Gambler Reid"
+title = "Gambler"
+gender = "any"
+archetype = "gambler"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "gambler/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:poliwag", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwag", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwhirl", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gambler from Route 8 is ready for a battle."]

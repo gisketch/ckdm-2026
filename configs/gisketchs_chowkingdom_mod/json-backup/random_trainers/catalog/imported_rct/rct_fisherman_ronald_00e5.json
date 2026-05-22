@@ -1,0 +1,81 @@
+{
+  "id": "rct_fisherman_ronald_00e5",
+  "name": "Fisherman Ronald",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "lightningrod",
+      "moveset": [
+        "waterfall",
+        "soak",
+        "megahorn",
+        "fishiousrend"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sharpedo",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "agility",
+        "skullbash",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cloyster",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "battlearmor",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shellder",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "battlearmor",
+      "moveset": [
+        "irondefense",
+        "icebeam",
+        "shellsmash",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

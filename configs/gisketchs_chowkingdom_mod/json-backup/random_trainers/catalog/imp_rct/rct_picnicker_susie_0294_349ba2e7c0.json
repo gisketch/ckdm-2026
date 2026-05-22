@@ -1,0 +1,104 @@
+{
+  "id": "rct_picnicker_susie_0294",
+  "name": "Picnicker Susie",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "tangledfeet",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "powergem",
+        "slash",
+        "nastyplot",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "thunderbolt",
+        "extremespeed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "technician",
+      "moveset": [
+        "powergem",
+        "slash",
+        "nastyplot",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

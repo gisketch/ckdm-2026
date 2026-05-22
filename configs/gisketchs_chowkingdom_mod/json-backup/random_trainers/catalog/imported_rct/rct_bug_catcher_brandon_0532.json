@@ -1,0 +1,49 @@
+{
+  "id": "rct_bug_catcher_brandon_0532",
+  "name": "Bug Catcher Brandon",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "kricketune",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "absorb",
+        "sing",
+        "focusenergy",
+        "bugbuzz"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beautifly",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "aircutter",
+        "gigadrain",
+        "bugbuzz",
+        "quiverdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

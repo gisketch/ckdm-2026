@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0015_firebreather_otis",
+  "name": "Firebreather Otis",
+  "title": "Firebreather",
+  "gender": "any",
+  "archetype": "firebreather",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "firebreather/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:magmar",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:camerupt",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ah! The weather\u2019s as fine as ever.",
+    "When it rains, it\u2019s hard to get fired up. I just simmer..."
+  ]
+}

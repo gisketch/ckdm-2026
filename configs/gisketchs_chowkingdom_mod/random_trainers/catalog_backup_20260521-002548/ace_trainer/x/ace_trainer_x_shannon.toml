@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_shannon"
+name = "Ace Trainer Shannon"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:beedrill", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["pinmissile", "twineedle", "agility", "pursuit"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:butterfree", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["safeguard", "psybeam", "gust", "supersonic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:parasect", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["spore", "leechlife", "slash", "growth"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venonat", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psybeam", "stunspore", "leechlife", "disable"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venomoth", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psybeam", "gust", "supersonic", "leechlife"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Shannon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

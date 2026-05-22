@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "will_f_celia"
+name = "Will Celia"
+title = "Will"
+gender = "female"
+archetype = "will"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "will/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = "standard"
+minLevel = 40
+maxLevel = 42
+team = [
+  { species = "cobblemon:xatu", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["quickattack", "futuresight", "confuseray", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:jynx", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["doubleslap", "lovelykiss", "icepunch", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:exeggutor", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["reflect", "leechseed", "eggbomb", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowbro", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["curse", "amnesia", "bodyslam", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:xatu", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["quickattack", "futuresight", "confuseray", "psychic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Will Will is ready for a battle."]

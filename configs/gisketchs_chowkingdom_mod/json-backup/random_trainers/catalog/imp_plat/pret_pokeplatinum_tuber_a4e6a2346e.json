@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_tuber_jared_rematch_1",
+  "name": "Tuber Male Jared",
+  "title": "Tuber Male",
+  "gender": "male",
+  "archetype": "tuber_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "tuber_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:shellos",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Tuber Male Jared is ready for a battle."
+  ]
+}

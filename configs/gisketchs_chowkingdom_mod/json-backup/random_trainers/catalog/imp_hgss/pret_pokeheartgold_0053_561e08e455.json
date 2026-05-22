@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0053_sage_jin",
+  "name": "Sage Jin",
+  "title": "Sage",
+  "gender": "any",
+  "archetype": "sage",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sage/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I train to find enlightenment in Pok\u00e9mon!",
+    "As Pok\u00e9mon grow stronger, so does the Trainer. No, wait. As the Trainer grows stronger, so do the Pok\u00e9mon."
+  ]
+}

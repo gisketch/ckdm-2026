@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_m_kyler"
+name = "Ranger Kyler"
+title = "Ranger"
+gender = "male"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.15
+bustStyle = ""
+minLevel = 58
+maxLevel = 62
+team = [
+  { species = "cobblemon:zangoose", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:exeggutor", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwrath", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ranger Male Kyler is ready for a battle.", "People! Nature! Pokémon! Harmony is essential!", "Protecting Pokémon and nature. Think of what that means."]

@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_abel",
+  "name": "Ace Trainer Male Abel",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 59,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:glalie",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hail",
+        "icebeam",
+        "sheercold",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crobat",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "airslash",
+        "poisonfang",
+        "confuseray",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The Trainers and Pok\u00e9mon that gather here aren\u2019t pushovers. They all have tricks up their sleeves!",
+    "The Pok\u00e9mon you\u2019ll meet here won\u2019t make it easy for you to move onward."
+  ]
+}

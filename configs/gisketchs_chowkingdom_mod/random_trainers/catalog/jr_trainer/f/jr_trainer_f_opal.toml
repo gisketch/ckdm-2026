@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jr_trainer_f_opal"
+name = "Jr Trainer Opal"
+title = "Jr Trainer"
+gender = "female"
+archetype = "jr_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "jr_trainer/female"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:oddish", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:oddish", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jrtrainerf from Route 9 is ready for a battle."]

@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_paul_018b",
+  "name": "Ace Trainer Paul",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "slowpoke",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "oblivious",
+      "moveset": [
+        "headbutt",
+        "confusion",
+        "watergun",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shellder",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "battlearmor",
+      "moveset": [
+        "aurorabeam",
+        "clamp",
+        "supersonic",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kingler",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "hypercutter",
+      "moveset": [
+        "guillotine",
+        "stomp",
+        "mudshot",
+        "bubble"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "naturalcure",
+      "moveset": [
+        "bubblebeam",
+        "swift",
+        "recover",
+        "rapidspin"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "confusion",
+        "scratch",
+        "screech",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

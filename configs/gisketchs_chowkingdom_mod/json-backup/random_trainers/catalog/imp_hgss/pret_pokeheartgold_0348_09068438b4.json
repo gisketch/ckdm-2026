@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0348_pokefan_male_robert",
+  "name": "Pokefan Male Robert",
+  "title": "Pokefan Male",
+  "gender": "male",
+  "archetype": "pokefan_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "pokefan_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:quagsire",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You really love Pok\u00e9mon, don\u2019t you? I love Pok\u00e9mon, too!",
+    "My dearest, very important Pok\u00e9mon... I won\u2019t forget what you did!"
+  ]
+}

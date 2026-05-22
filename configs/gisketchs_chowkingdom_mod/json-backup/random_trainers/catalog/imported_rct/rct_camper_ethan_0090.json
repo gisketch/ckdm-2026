@@ -1,0 +1,33 @@
+{
+  "id": "rct_camper_ethan_0090",
+  "name": "Camper Ethan",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "loudred",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "scrappy",
+      "moveset": [
+        "astonish",
+        "howl",
+        "screech",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

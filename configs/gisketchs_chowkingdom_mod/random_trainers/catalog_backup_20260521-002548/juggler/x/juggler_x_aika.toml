@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_x_aika"
+name = "Juggler Aika"
+title = "Juggler"
+gender = "any"
+archetype = "juggler"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "juggler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:hypno", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler from Unused is ready for a battle."]

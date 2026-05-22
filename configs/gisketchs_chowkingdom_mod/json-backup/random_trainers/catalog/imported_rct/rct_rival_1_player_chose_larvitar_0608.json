@@ -1,0 +1,32 @@
+{
+  "id": "rct_rival_1_player_chose_larvitar_0608",
+  "name": "Rival Wayne",
+  "title": "Rival 1 Player Chose",
+  "gender": "any",
+  "archetype": "rival_1_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "beldum",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "tackle",
+        "flash",
+        "ironhead"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

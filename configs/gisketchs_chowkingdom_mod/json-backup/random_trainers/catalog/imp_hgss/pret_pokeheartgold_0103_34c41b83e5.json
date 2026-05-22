@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0103_ace_trainer_male_blake",
+  "name": "Ace Trainer Male Blake",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:magneton",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "supersonic",
+        "magnetbomb",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:quagsire",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "watergun",
+        "slam",
+        "yawn",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "leechseed",
+        "confusion",
+        "sleeppowder",
+        "solarbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You look pretty strong. Let me battle you!",
+    "If you prevail on this harsh trek, the truth will be revealed! Heh, sorry, I just wanted to say something cool."
+  ]
+}

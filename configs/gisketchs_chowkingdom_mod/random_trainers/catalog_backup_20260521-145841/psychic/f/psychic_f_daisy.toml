@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_daisy"
+name = "Psychic Daisy"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 60
+team = [
+  { species = "cobblemon:slowbro", level = 58, gender = "FEMALE", nature = "bold", ability = "owntempo", moveset = ["psychic", "amnesia", "slackoff", "yawn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowbro", level = 60, gender = "FEMALE", nature = "modest", ability = "oblivious", moveset = ["psychic", "amnesia", "slackoff", "surf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Female Daisy is ready for a battle.", "Right after this, you will send out your Pokémon to do battle!", "What will you do after this? Why don’t you decide for yourself? It would be much more fun that way!", "I have trained this team for the road. Challenge me if you are ready."]

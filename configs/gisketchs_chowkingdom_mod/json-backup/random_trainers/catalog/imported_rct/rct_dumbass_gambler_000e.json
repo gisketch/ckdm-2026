@@ -1,0 +1,33 @@
+{
+  "id": "rct_dumbass_gambler_000e",
+  "name": "Silly Gambler",
+  "title": "Dumbass",
+  "gender": "any",
+  "archetype": "dumbass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "starmie",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "docile",
+      "ability": "illuminate",
+      "moveset": [
+        "watergun",
+        "rapidspin",
+        "recover",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

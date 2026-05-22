@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_johanna"
+name = "Beauty Johanna"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 13
+maxLevel = 13
+team = [
+  { species = "cobblemon:goldeen", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Johanna is ready for a battle."]

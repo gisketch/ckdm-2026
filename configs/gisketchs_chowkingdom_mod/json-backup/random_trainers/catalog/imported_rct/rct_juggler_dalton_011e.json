@@ -1,0 +1,49 @@
+{
+  "id": "rct_juggler_dalton_011e",
+  "name": "Juggler Dalton",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "recover",
+        "psychic",
+        "roleplay",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mrmime",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "soundproof",
+      "moveset": [
+        "recycle",
+        "taunt",
+        "psychic",
+        "roleplay"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

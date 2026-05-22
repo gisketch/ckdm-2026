@@ -1,0 +1,56 @@
+{
+  "id": "rct_bug_catcher_brent_0072",
+  "name": "Bug Catcher Brent",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:orbeetle",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "frisk",
+      "moveset": [
+        "psybeam",
+        "hypnosis",
+        "skillswap",
+        "bugbuzz"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vivillon",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "compoundeyes",
+      "moveset": [
+        "psybeam",
+        "airslash",
+        "drainingkiss",
+        "signalbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

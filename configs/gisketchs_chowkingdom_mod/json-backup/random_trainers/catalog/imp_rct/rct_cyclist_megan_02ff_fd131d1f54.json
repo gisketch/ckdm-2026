@@ -1,0 +1,40 @@
+{
+  "id": "rct_cyclist_megan_02ff",
+  "name": "Cyclist Megan",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "cyclist/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "bite",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

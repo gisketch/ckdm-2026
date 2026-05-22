@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_x_kayla"
+name = "Cyclist Kayla"
+title = "Cyclist"
+gender = "any"
+archetype = "cyclist"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "cyclist/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:raichu", level = 60, gender = "MALE", nature = "jolly", ability = "static", moveset = ["tailwhip", "nuzzle", "slam", "thunderpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

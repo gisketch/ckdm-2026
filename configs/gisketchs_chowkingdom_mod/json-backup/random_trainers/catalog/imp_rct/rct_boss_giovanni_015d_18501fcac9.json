@@ -1,0 +1,115 @@
+{
+  "id": "rct_boss_giovanni_015d",
+  "name": "Boss Giovanni",
+  "title": "Boss",
+  "gender": "any",
+  "archetype": "boss",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:hippowdon",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "stealthrock",
+        "roar"
+      ],
+      "heldItem": [
+        "smooth_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:excadrill",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "rockslide",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "poweruppunch",
+        "bodyslam",
+        "crunch",
+        "fakeout"
+      ],
+      "heldItem": [
+        "mega_showdown:kangaskhanite",
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:garchomp",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "earthquake",
+        "scaleshot",
+        "rockslide",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "yache_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:polteageist",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "weakarmor",
+      "moveset": [
+        "shellsmash",
+        "shadowball",
+        "gigadrain",
+        "storedpower"
+      ],
+      "heldItem": [
+        "white_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

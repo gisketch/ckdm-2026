@@ -1,0 +1,35 @@
+{
+  "id": "rct_youngster_calvin_005a",
+  "name": "Youngster Calvin",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "zigzagoon",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "pickup",
+      "moveset": [
+        "lick",
+        "snarl",
+        "headbutt",
+        "babydolleyes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

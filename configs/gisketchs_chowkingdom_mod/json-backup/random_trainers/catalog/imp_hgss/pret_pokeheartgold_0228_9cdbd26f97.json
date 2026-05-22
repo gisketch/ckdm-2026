@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0228_team_rocket_grunt",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Kwa ha ha! Confounded by the doors, are we? I\u2019ll let you in on a secret if you can beat me!",
+    "All right. A hint! Look at the color of the door switches. You push a color switch, and the same color door opens up..."
+  ]
+}

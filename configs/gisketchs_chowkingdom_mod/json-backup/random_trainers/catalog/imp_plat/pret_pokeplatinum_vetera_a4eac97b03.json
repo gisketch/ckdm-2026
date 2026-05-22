@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_veteran_terrell",
+  "name": "Veteran Terrell",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:parasect",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "xscissor",
+        "gigadrain",
+        "spore",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rhydon",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hammerarm",
+        "stoneedge",
+        "earthquake",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmar",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "fireblast",
+        "confuseray",
+        "irontail",
+        "focusblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What it means to battle... Its joys, its sorrows... I\u2019ve experienced it all!",
+    "You may be a child, but you\u2019ve taught me a whole lot. I thank you humbly."
+  ]
+}

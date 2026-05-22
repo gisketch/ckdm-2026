@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0412_psychic_male_eli",
+  "name": "Psychic Male Eli",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:starmie",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Don\u2019t say a thing! Let me guess what you\u2019re thinking. Mmmmmmm... I got it! You\u2019re on the Pok\u00e9mon League challenge!",
+    "With your skills, you\u2019ll do well at the Pok\u00e9mon League. That\u2019s what my premonition says."
+  ]
+}

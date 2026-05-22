@@ -1,0 +1,81 @@
+{
+  "id": "rct_swimmer_jessica_0361",
+  "name": "Swimmer Jessica",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "goldeen",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goldeen",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goldeen",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goldeen",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

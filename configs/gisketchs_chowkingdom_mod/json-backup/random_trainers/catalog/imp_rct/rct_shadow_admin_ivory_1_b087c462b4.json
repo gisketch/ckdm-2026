@@ -1,0 +1,76 @@
+{
+  "id": "rct_shadow_admin_ivory_1_05ba",
+  "name": "Shadow Admin Ivory",
+  "title": "Shadow Admin",
+  "gender": "any",
+  "archetype": "shadow_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "shadow_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:misdreavus",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "hex",
+        "willowisp",
+        "meanlook",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "psybeam",
+        "knockoff",
+        "thunderwave",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "furcoat",
+      "moveset": [
+        "punishment",
+        "aerialace",
+        "hypnosis",
+        "swagger"
+      ],
+      "heldItem": [
+        "wide_lens"
+      ],
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

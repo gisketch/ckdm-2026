@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_yuji"
+name = "Ace Trainer Yuji"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:sandslash", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["slash", "swift", "sandattack", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rockblast", "magnitude", "mudsport", "defensecurl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dragonbreath", "sandstorm", "rockthrow", "bind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rockblast", "magnitude", "rollout", "defensecurl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marowak", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bonemerang", "headbutt", "leer", "growl"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Yuji is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

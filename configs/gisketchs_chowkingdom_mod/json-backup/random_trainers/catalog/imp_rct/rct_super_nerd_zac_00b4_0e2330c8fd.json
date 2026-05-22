@@ -1,0 +1,56 @@
+{
+  "id": "rct_super_nerd_zac_00b4",
+  "name": "Super Nerd Zac",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "super_nerd/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 70,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "cobblemon:arcanine",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "flashfire",
+      "moveset": [
+        "firefang",
+        "flareblitz",
+        "helpinghand",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "fierywrath",
+        "nastyplot",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_ranchers_ava_matt_m006",
+  "name": "Ranchers Ava & Matt",
+  "title": "Ranchers Ava",
+  "gender": "any",
+  "archetype": "ranchers_ava",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "stunky",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "smokescreen",
+        "acidspray",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glameow",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "growl",
+        "aerialace",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

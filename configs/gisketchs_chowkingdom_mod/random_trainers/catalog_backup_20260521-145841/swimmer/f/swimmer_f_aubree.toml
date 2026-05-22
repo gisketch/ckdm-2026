@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_aubree"
+name = "Swimmer Aubree"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:azurill", level = 41, gender = "FEMALE", nature = "bashful", ability = "thickfat", moveset = ["bubblebeam", "charm", "slam", "bounce"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:azumarill", level = 41, gender = "FEMALE", nature = "bashful", ability = "thickfat", moveset = ["bounce", "aquatail", "playrough", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Excuse me for wearing my bikini!", "When I’m in my bikini, I’m at a loss about where to carry my Poké Balls!", "I have trained this team for the road. Challenge me if you are ready."]

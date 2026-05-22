@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_bugcatcher_010",
+  "name": "Bugcatcher Dante",
+  "title": "Bugcatcher",
+  "gender": "any",
+  "archetype": "bugcatcher",
+  "region": "Kanto",
+  "category": "specialist",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "bugcatcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:weedle",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:caterpie",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weedle",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bugcatcher from Route 6 is ready for a battle."
+  ]
+}

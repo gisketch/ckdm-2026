@@ -1,0 +1,81 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0448",
+  "name": "Pokémon Trainer Cedric",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "starly",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "pluck"
+      ],
+      "heldItem": "quick_claw",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ponyta",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tackle",
+        "tailwhip",
+        "agility",
+        "flamewheel"
+      ],
+      "heldItem": "shell_bell",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grotle",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "razorleaf",
+        "bite",
+        "megadrain",
+        "stealthrock"
+      ],
+      "heldItem": "miracle_seed",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

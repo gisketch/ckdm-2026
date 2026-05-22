@@ -1,0 +1,49 @@
+{
+  "id": "rct_tuber_caitlyn_045c",
+  "name": "Tuber Caitlyn",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "azurill",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sapsipper",
+      "moveset": [
+        "tailwhip",
+        "charm",
+        "bubblebeam",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marill",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "aquatail",
+        "playrough",
+        "aquaring",
+        "brickbreak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

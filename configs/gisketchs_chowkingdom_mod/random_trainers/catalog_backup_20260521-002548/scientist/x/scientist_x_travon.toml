@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_travon"
+name = "Scientist Travon"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:kadabra", level = 15, gender = "MALE", nature = "sassy", ability = "synchronize", moveset = ["kinesis", "disable", "psybeam", "reflect"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Our mission is to implement our operations without question. It is all for the new world order that our boss will lead!", "I’m willing to do anything to get ahead in Team Galactic. One day you’ll see what we are all about. It’s wonder, compassion, splendor, humor, power, awe, and tragedy!", "I have trained this team for the road. Challenge me if you are ready."]

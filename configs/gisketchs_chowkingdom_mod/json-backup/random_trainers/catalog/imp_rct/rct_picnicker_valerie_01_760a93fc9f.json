@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_valerie_01d4",
+  "name": "Picnicker Valerie",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:weepinbell",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gastroacid",
+        "razorleaf",
+        "poisonjab",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ursaring",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "quickfeet",
+      "moveset": [
+        "scaryface",
+        "rest",
+        "thrash",
+        "closecombat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

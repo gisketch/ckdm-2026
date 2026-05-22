@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_jeffery"
+name = "Black Belt Jeffery"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:machoke", level = 26, gender = "MALE", nature = "jolly", ability = "guts", moveset = ["leer", "lowsweep", "knockoff", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:meditite", level = 26, gender = "MALE", nature = "adamant", ability = "purepower", moveset = ["detect", "feint", "forcepalm", "rockslide"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We’re the Karate Quads! I will strike a blow for tears with my fist! Hiyah, teeeeeeaaaaaaaaars!", "I lost because I didn’t eat enough pizza. ...No. Anything I say will sound like I’m making excuses.", "I have trained this team for the road. Challenge me if you are ready."]

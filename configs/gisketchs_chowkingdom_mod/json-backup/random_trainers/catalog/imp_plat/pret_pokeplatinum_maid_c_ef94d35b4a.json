@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_maid_clare",
+  "name": "Maid Clare",
+  "title": "Maid",
+  "gender": "any",
+  "archetype": "maid",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "maid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "metronome",
+        "bounce",
+        "meteormash",
+        "endure"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Maid Clare is ready for a battle."
+  ]
+}

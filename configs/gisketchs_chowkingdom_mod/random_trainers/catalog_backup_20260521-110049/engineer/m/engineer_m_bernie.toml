@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "engineer_m_bernie"
+name = "Engineer Bernie"
+title = "Engineer"
+gender = "male"
+archetype = "engineer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "engineer/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:magneton", level = 28, gender = "GENDERLESS", nature = "modest", ability = "magnetpull", moveset = ["sonicboom", "spark", "mirrorshot", "metalsound"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magneton", level = 28, gender = "GENDERLESS", nature = "jolly", ability = "magnetpull", moveset = ["sonicboom", "spark", "mirrorshot", "metalsound"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magneton", level = 28, gender = "GENDERLESS", nature = "calm", ability = "magnetpull", moveset = ["sonicboom", "spark", "mirrorshot", "metalsound"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Engineer Bernie is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

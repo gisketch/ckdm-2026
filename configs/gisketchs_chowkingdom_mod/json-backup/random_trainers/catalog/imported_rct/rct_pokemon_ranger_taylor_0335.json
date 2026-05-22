@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_taylor_0335",
+  "name": "Pokémon Ranger Taylor",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "bite",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "quickattack",
+        "watergun",
+        "bite",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

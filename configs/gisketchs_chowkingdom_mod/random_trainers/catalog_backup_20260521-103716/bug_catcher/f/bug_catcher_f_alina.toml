@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_f_alina"
+name = "Bug Catcher Alina"
+title = "Bug Catcher"
+gender = "female"
+archetype = "bug_catcher"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "bug_catcher/female"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = "standard"
+minLevel = 9
+maxLevel = 9
+team = [
+  { species = "cobblemon:weedle", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kakuna", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:caterpie", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:metapod", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bugcatcher from Route 3 is ready for a battle."]

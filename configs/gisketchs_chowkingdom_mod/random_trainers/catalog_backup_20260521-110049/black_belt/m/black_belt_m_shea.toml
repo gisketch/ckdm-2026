@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_shea"
+name = "Black Belt Shea"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "very_high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:decidueye", level = 93, gender = "FEMALE", nature = "jolly", ability = "reckless", moveset = ["woodhammer", "closecombat", "bravebird", "stoneedge"], heldItem = "['choice_scarf']", shiny = false, aspects = ["hisuian"] },
+  { species = "cobblemon:probopass", level = 91, gender = "MALE", nature = "bold", ability = "levitate", moveset = ["thunderwave", "voltswitch", "flashcannon", "powergem"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:conkeldurr", level = 91, gender = "FEMALE", nature = "adamant", ability = "guts", moveset = ["facade", "drainpunch", "knockoff", "machpunch"], heldItem = "['flame_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:dodrio", level = 91, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["flareblitz", "earthquake", "uturn", "bravebird"], heldItem = "['choice_band']", shiny = false, aspects = ["sevii"] },
+]
+dialogue = ["Black Belt Shea is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeplatinum_reporter_kinsey",
+  "name": "Reporter Kinsey",
+  "title": "Reporter",
+  "gender": "any",
+  "archetype": "reporter",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "reporter/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drifloon",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Reporter Kinsey is ready for a battle."
+  ]
+}

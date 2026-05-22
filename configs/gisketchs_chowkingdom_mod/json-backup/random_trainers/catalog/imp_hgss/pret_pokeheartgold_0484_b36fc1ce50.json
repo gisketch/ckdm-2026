@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0484_boarder_gerardo",
+  "name": "Boarder Gerardo",
+  "title": "Boarder",
+  "gender": "any",
+  "archetype": "boarder",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "boarder/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:shellder",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "iceshard",
+        "supersonic",
+        "iciclespear",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "iceshard",
+        "aurorabeam",
+        "supersonic",
+        "toxicspikes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seel",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "iceshard",
+        "aquaring",
+        "encore",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I know Pryce\u2019s secret.",
+    "The reason Pryce is strong... It\u2019s because every day he sits on top of very cold ice and trains his body and spirit!"
+  ]
+}

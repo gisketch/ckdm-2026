@@ -1,0 +1,49 @@
+{
+  "id": "rct_cue_ball_raul_00fc",
+  "name": "Cue Ball Raul",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "poliwrath",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hypnosis",
+        "doubleslap",
+        "dynamicpunch",
+        "circlethrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machamp",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "guts",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

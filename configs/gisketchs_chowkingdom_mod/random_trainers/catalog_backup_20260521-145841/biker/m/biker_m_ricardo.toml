@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_ricardo"
+name = "Biker Ricardo"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "mid"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 34
+maxLevel = 35
+team = [
+  { species = "cobblemon:weezing", level = 35, gender = "FEMALE", nature = "modest", ability = "neutralizinggas", moveset = ["sludge", "explosion", "tackle", "poisongas"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 34, gender = "FEMALE", nature = "adamant", ability = "neutralizinggas", moveset = ["sludge", "smog", "explosion", "strangesteam"], heldItem = "", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:salazzle", level = 34, gender = "FEMALE", nature = "relaxed", ability = "corrosion", moveset = ["minimize", "sludge", "disable", "flameburst"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Ricardo is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

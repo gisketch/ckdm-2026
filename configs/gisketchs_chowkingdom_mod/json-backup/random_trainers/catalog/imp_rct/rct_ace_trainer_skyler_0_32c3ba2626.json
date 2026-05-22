@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_skyler_04a4",
+  "name": "Ace Trainer Skyler",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:loudred",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "soundproof",
+      "moveset": [
+        "hypervoice",
+        "roar",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rampardos",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "moldbreaker",
+      "moveset": [
+        "zenheadbutt",
+        "takedown",
+        "assurance",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

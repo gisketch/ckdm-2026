@@ -1,0 +1,56 @@
+{
+  "id": "rct_biker_nikolas_00cc",
+  "name": "Biker Nikolas",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "spark",
+        "explosion",
+        "thunderbolt",
+        "triattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:probopass",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "magnetpull",
+      "moveset": [
+        "spark",
+        "earthpower",
+        "powergem",
+        "discharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

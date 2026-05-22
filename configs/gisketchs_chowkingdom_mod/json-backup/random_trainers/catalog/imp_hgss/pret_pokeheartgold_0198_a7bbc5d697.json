@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0198_team_rocket_female_grunt",
+  "name": "Team Rocket Female Grunt",
+  "title": "Team Rocket Female",
+  "gender": "female",
+  "archetype": "team_rocket_female",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "team_rocket_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:arbok",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ha ha ha! How boring. It was far too easy to take over this place! Come on, keep me amused!",
+    "You beat me, and I won\u2019t forget it!"
+  ]
+}

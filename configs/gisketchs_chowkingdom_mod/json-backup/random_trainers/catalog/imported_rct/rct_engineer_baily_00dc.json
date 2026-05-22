@@ -1,0 +1,49 @@
+{
+  "id": "rct_engineer_baily_00dc",
+  "name": "Engineer Baily",
+  "title": "Engineer",
+  "gender": "any",
+  "archetype": "engineer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "voltorb",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "static",
+      "moveset": [
+        "chargebeam",
+        "swift",
+        "electroball",
+        "selfdestruct"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "emolga",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "motordrive",
+      "moveset": [
+        "pursuit",
+        "aircutter",
+        "shockwave",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

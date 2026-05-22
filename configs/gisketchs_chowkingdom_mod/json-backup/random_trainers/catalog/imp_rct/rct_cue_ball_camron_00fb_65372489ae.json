@@ -1,0 +1,115 @@
+{
+  "id": "rct_cue_ball_camron_00fb",
+  "name": "Cue Ball Camron",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "cue_ball/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:swampert",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "stealthrock",
+        "flipturn",
+        "earthquake",
+        "yawn"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aerodactyl",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "dualwingbeat",
+        "stoneedge",
+        "earthquake",
+        "uturn"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:scizor",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "uturn",
+        "bulletpunch",
+        "rocksmash",
+        "knockoff"
+      ],
+      "heldItem": [
+        "mega_showdown:scizorite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:garchomp",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "stoneedge",
+        "scaleshot"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cacturne",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandrush",
+      "moveset": [
+        "needlearm",
+        "suckerpunch",
+        "knockoff",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

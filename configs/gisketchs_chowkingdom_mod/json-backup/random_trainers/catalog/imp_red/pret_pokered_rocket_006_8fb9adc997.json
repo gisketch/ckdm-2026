@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_rocket_006",
+  "name": "Rocket Hiro",
+  "title": "Rocket",
+  "gender": "any",
+  "archetype": "rocket",
+  "region": "Kanto",
+  "category": "team",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "rocket/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:ekans",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rocket from Route 24 is ready for a battle."
+  ]
+}

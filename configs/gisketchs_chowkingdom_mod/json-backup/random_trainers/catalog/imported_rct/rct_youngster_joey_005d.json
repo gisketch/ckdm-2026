@@ -1,0 +1,51 @@
+{
+  "id": "rct_youngster_joey_005d",
+  "name": "Youngster Joey",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "raticate",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "runaway",
+      "moveset": [
+        "bite",
+        "focusenergy",
+        "hyperfang",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raticate",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "gluttony",
+      "moveset": [
+        "quickattack",
+        "focusenergy",
+        "hyperfang",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

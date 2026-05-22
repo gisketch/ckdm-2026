@@ -1,0 +1,72 @@
+{
+  "id": "rct_dragon_tamer_clinton_0389",
+  "name": "Dragon Tamer Clinton",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 46,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:gible",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "sandattack",
+        "bulldoze",
+        "dragonclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gible",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "sandveil",
+      "moveset": [
+        "bite",
+        "slash",
+        "dragonclaw",
+        "dig"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

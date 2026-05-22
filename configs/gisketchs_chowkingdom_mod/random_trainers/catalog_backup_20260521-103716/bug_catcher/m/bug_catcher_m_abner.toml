@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_abner"
+name = "Bug Catcher Abner"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "mid"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:butterfree", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["There are many people out there who prefer solid bug Pokémon over squishy bug Pokémon.", "Doesn’t matter what kind of Pokémon-- as long as you like them, they all look cute."]

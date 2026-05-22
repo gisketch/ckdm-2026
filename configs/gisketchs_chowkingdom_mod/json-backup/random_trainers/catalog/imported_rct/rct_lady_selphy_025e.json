@@ -1,0 +1,49 @@
+{
+  "id": "rct_lady_selphy_025e",
+  "name": "Lady Selphy",
+  "title": "Lady",
+  "gender": "any",
+  "archetype": "lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "persian",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "limber",
+      "moveset": [
+        "payday",
+        "bite",
+        "taunt",
+        "torment"
+      ],
+      "heldItem": "minecraft:gold_nugget",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "persian",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "limber",
+      "moveset": [
+        "payday",
+        "scratch",
+        "torment",
+        "taunt"
+      ],
+      "heldItem": "minecraft:gold_nugget",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

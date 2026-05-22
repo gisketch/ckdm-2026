@@ -1,0 +1,65 @@
+{
+  "id": "rct_hiker_brice_00ba",
+  "name": "Hiker Brice",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "sudowoodo",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "rockhead",
+      "moveset": [
+        "feintattack",
+        "tearfullook",
+        "rocktomb",
+        "block"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "carbink",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "lonely",
+      "ability": "clearbody",
+      "moveset": [
+        "smackdown",
+        "reflect",
+        "stealthrock",
+        "guardsplit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "minior",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "serious",
+      "ability": "shieldsdown",
+      "moveset": [
+        "ancientpower",
+        "selfdestruct",
+        "stealthrock",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

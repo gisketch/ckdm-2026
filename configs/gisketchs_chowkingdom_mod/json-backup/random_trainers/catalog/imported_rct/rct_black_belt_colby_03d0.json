@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_colby_03d0",
+  "name": "Black Belt Colby",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "revenge",
+        "knockoff",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "revenge",
+        "dig",
+        "bulkup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "revenge",
+        "earthquake",
+        "bulkup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

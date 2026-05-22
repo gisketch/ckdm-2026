@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_blythe_0489",
+  "name": "Lass Blythe",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "bidoof",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "headbutt",
+        "taunt",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bidoof",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "headbutt",
+        "taunt",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

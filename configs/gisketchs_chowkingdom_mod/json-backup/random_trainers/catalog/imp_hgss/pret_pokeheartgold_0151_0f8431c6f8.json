@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0151_picnicker_erin",
+  "name": "Picnicker Erin",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 14,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:oddish",
+      "level": 14,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I raise Pok\u00e9mon, too! Will you battle with me?",
+    "If you\u2019ve promised to have a rematch, your opponent\u2019s location will be marked with an \u201c!\u201d on the map. You can check it on your Pok\u00e9gear."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_ranger_m_dwayne"
+name = "Pok Mon Ranger Dwayne"
+title = "Pok Mon Ranger"
+gender = "male"
+archetype = "pok_mon_ranger"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_ranger/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.14
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:donphan", level = 55, gender = "FEMALE", nature = "relaxed", ability = "sturdy", moveset = ["earthquake", "gigaimpact", "scaryface", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

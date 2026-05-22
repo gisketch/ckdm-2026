@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_x_reid"
+name = "Channeler Reid"
+title = "Channeler"
+gender = "any"
+archetype = "channeler"
+region = "Kanto/Sevii;Kanto"
+category = "route_trainer"
+source = "pret_pokefirered;pret_pokered"
+skinSet = ""
+skinFolder = "channeler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:gastly", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler 8 is ready for a battle.", "Channeler from Unused is ready for a battle."]

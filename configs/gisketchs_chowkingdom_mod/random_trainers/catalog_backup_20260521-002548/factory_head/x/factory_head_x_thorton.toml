@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "factory_head_x_thorton"
+name = "Factory Head Thorton"
+title = "Factory Head"
+gender = "any"
+archetype = "factory_head"
+region = "Johto/Kanto;Sinnoh"
+category = "battle_facility"
+source = "pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "factory_head/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Factory Head Thorton is ready for a battle."]

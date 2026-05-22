@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_blackbelt_001",
+  "name": "Blackbelt Arlo",
+  "title": "Blackbelt",
+  "gender": "any",
+  "archetype": "blackbelt",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "blackbelt/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:hitmonlee",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmonchan",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Blackbelt from Fighting Dojo is ready for a battle."
+  ]
+}

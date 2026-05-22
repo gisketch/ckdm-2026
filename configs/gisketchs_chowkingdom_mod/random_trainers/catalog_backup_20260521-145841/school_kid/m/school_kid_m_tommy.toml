@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_tommy"
+name = "School Kid Tommy"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 41
+maxLevel = 43
+team = [
+  { species = "cobblemon:xatu", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["confuseray", "nightshade", "fly", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "calmmind", "reflect", "focusblast"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let’s battle. I won’t lose!", "Sayonara! I just learned that in my foreign-language class."]

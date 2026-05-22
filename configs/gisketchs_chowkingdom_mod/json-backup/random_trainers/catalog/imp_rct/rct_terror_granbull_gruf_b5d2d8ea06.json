@@ -1,0 +1,92 @@
+{
+  "id": "rct_terror_granbull_gruff_05db",
+  "name": "Terror Granbull Gruff",
+  "title": "Terror Granbull",
+  "gender": "any",
+  "archetype": "terror_granbull",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "terror_granbull/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:ariados",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "insomnia",
+      "moveset": [
+        "leechlife",
+        "suckerpunch",
+        "smartstrike",
+        "stickyweb"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:granbull",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "spiritbreak",
+        "crunch",
+        "icefang",
+        "thunderfang"
+      ],
+      "heldItem": [
+        "fairy_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:probopass",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "analytic",
+      "moveset": [
+        "powergem",
+        "flashcannon",
+        "discharge",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crawdaunt",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "aquajet",
+        "knockoff",
+        "metalclaw",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

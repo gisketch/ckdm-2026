@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_bonita"
+name = "Ace Trainer Bonita"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 50
+maxLevel = 52
+team = [
+  { species = "cobblemon:spinda", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flail", "fakeout", "teeterdance", "trickroom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["woodhammer", "hammerarm", "earthquake", "stoneedge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Looking around the room like that, doesn’t it make you a little dizzy?", "Looks like you’ve still got some energy left."]

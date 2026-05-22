@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_norman"
+name = "Psychic Norman"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 17
+maxLevel = 20
+team = [
+  { species = "cobblemon:slowpoke", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "growl", "watergun"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowpoke", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = ["curse", "bodyslam", "watergun", "confusion"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Norman is ready for a battle."]

@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokered_rocket_021",
+  "name": "Rocket Dahlia",
+  "title": "Rocket",
+  "gender": "any",
+  "archetype": "rocket",
+  "region": "Kanto",
+  "category": "team",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:zubat",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rattata",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rocket from Pok\u00e9mon Tower 7F is ready for a battle."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_police_officer_danny_03e6",
+  "name": "Police Officer Danny",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "police_officer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:hoothoot",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "peck",
+        "growl",
+        "confusion",
+        "psychoshift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "lowsweep",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

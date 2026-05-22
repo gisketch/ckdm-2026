@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_brianna_0323",
+  "name": "Bird Keeper Brianna",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "reflect",
+        "airslash",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "noctowl",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "skyattack",
+        "peck",
+        "echoedvoice",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

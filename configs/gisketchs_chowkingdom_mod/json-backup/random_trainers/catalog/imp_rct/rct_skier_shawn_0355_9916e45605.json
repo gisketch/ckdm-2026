@@ -1,0 +1,88 @@
+{
+  "id": "rct_skier_shawn_0355",
+  "name": "Skier Shawn",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "skier/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:snover",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "leer",
+        "iceshard",
+        "razorleaf",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snover",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "mist",
+        "iceshard",
+        "razorleaf",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "waterpulse",
+        "zenheadbutt",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snover",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "razorleaf",
+        "icywind",
+        "ingrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

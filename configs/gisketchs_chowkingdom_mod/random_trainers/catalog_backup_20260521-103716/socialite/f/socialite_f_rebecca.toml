@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "socialite_f_rebecca"
+name = "Socialite Rebecca"
+title = "Socialite"
+gender = "female"
+archetype = "socialite"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "socialite/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = "standard"
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:purugly", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Socialite Rebecca is ready for a battle."]

@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_493",
+  "name": "Swimmer Male Mickey",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmer Male Mickey is ready for a battle."
+  ]
+}

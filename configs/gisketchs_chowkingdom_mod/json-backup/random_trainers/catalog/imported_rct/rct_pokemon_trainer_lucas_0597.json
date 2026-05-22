@@ -1,0 +1,115 @@
+{
+  "id": "rct_pokemon_trainer_lucas_0597",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "gliscor",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "poisonheal",
+      "moveset": [
+        "earthquake",
+        "acrobatics",
+        "fling",
+        "roost"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cradily",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "stormdrain",
+      "moveset": [
+        "gigadrain",
+        "leechseed",
+        "ingrain",
+        "stockpile"
+      ],
+      "heldItem": "big_root",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glaceon",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "icebody",
+      "moveset": [
+        "freezedry",
+        "blizzard",
+        "hail",
+        "waterpulse"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "overheat",
+        "thunderbolt",
+        "voltswitch",
+        "hex"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": [
+        "heat-appliance"
+      ]
+    },
+    {
+      "species": "tauros",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "blizzard",
+        "fireblast",
+        "thunder"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "aquajet",
+        "waterfall",
+        "steelwing",
+        "earthquake"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_zachery",
+  "name": "Ace Trainer Male Zachery",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "shockwave",
+        "quickattack",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magneton",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "triattack",
+        "mirrorshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Wow! I\u2019m surprised you\u2019ve come this far, but you\u2019ll have to turn back. There isn\u2019t any chance that you could ever beat me!",
+    "As a challenger, you\u2019re one tough Trainer."
+  ]
+}

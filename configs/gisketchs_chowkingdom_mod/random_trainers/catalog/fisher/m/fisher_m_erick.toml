@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisher_m_erick"
+name = "Fisher Erick"
+title = "Fisher"
+gender = "male"
+archetype = "fisher"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "fisher/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 22
+maxLevel = 24
+team = [
+  { species = "cobblemon:goldeen", level = 22, gender = "FEMALE", nature = "jolly", ability = "waterveil", moveset = ["peck", "waterpulse", "raindance", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:barboach", level = 23, gender = "MALE", nature = "adamant", ability = "hydration", moveset = ["mudslap", "waterpulse", "rocktomb", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 24, gender = "FEMALE", nature = "timid", ability = "intimidate", moveset = ["whirlpool", "scaryface", "substitute", "scald"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

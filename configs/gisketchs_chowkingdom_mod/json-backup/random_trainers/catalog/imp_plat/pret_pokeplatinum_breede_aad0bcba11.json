@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_breeder_amber",
+  "name": "Breeder Female Amber",
+  "title": "Breeder Female",
+  "gender": "female",
+  "archetype": "breeder_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "breeder_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.97,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:magby",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:togepi",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m a rookie breeder, but I\u2019ll do my very best!",
+    "The best way to raise Pok\u00e9mon? ...Hmm, when it comes right down to it, isn\u2019t it all about love?"
+  ]
+}

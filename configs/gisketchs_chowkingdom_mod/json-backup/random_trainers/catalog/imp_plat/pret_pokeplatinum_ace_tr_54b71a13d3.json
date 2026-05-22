@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_mikayla",
+  "name": "Ace Trainer Female Mikayla",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:seviper",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightslash",
+        "poisonfang",
+        "wringout",
+        "glare"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightslash",
+        "powergem",
+        "feintattack",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:absol",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightslash",
+        "psychocut",
+        "slash",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The world is huge, and there are so many different Pok\u00e9mon! What kinds of Pok\u00e9mon are with you? Please, I want to have a look!",
+    "There is always something to like about any Pok\u00e9mon. It\u2019s so hard to decide which ones I should raise."
+  ]
+}

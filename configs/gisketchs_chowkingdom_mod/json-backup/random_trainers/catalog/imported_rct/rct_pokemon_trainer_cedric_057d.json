@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_cedric_057d",
+  "name": "Pokémon Trainer Cedric",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "pluck",
+        "sunnyday",
+        "uturn"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "floatzel",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "swift",
+        "waterfall"
+      ],
+      "heldItem": "quick_claw",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "megahorn",
+        "swordsdance",
+        "rockslide",
+        "closecombat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "smartstrike",
+        "megahorn",
+        "poisonjab",
+        "flamewheel"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "covet",
+        "yawn",
+        "crunch",
+        "highhorsepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "woodhammer",
+        "roar",
+        "stealthrock"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

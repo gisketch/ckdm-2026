@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0581_picnicker_adrian",
+  "name": "Picnicker Adrian",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:shroomish",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you in a hurry? How about a quick battle break?",
+    "Even though I lost, I had fun!"
+  ]
+}

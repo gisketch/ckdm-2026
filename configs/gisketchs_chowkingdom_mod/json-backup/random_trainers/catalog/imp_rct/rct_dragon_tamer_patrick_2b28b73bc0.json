@@ -1,0 +1,40 @@
+{
+  "id": "rct_dragon_tamer_patrick_0322",
+  "name": "Dragon Tamer Patrick",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:gible",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "bulldoze",
+        "bite",
+        "dragonclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

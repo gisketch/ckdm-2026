@@ -1,0 +1,114 @@
+{
+  "id": "rct_ace_trainer_colby_018a",
+  "name": "Ace Trainer Colby",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 83,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "cobblemon:feraligatr",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "dragondance",
+        "liquidation",
+        "icefang",
+        "jawlock"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swanna",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "noguard",
+      "moveset": [
+        "hurricane",
+        "hydropump",
+        "icebeam"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:walrein",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "furcoat",
+      "moveset": [
+        "surf",
+        "toxic",
+        "protect",
+        "icebeam"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sharpedo",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": [
+        "crunch",
+        "icefang",
+        "aquajet",
+        "liquidation"
+      ],
+      "heldItem": [
+        "mega_showdown:sharpedonite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "competitive",
+      "moveset": [
+        "calmmind",
+        "scald",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

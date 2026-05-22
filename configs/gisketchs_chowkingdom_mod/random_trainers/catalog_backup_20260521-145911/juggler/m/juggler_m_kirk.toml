@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_kirk"
+name = "Juggler Kirk"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 62
+maxLevel = 63
+team = [
+  { species = "cobblemon:electrode", level = 63, gender = "GENDERLESS", nature = "bold", ability = "soundproof", moveset = ["explosion", "gyroball", "mirrorcoat", "courtchange"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:incineroar", level = 63, gender = "FEMALE", nature = "docile", ability = "blaze", moveset = ["flamethrower", "scaryface", "flareblitz", "outrage"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:appletun", level = 62, gender = "MALE", nature = "mild", ability = "ripen", moveset = ["bodyslam", "irondefense", "dragonpulse", "energyball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ariados", level = 63, gender = "FEMALE", nature = "impish", ability = "swarm", moveset = ["gunkshot", "megahorn", "stickyweb", "toxicthread"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Kirk is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

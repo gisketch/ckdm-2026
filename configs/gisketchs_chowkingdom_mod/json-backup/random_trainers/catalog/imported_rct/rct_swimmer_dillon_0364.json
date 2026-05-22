@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_dillon_0364",
+  "name": "Swimmer Dillon",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "shellos",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_ninja_boy_brennan_0455",
+  "name": "Ninja Boy Brennan",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skorupi",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "battlearmor",
+      "moveset": [
+        "honeclaws",
+        "fellstinger",
+        "toxicspikes",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

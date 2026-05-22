@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeemerald_keigo",
+  "name": "Ninja Boy Keigo",
+  "title": "Ninja Boy",
+  "gender": "male",
+  "archetype": "ninja_boy",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "ninja_boy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "poisongas",
+        "selfdestruct",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninjask",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sandattack",
+        "doubleteam",
+        "furycutter",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ninja Boy Keigo is ready for a battle."
+  ]
+}

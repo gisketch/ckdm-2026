@@ -1,0 +1,56 @@
+{
+  "id": "rct_fisherman_nolan_00e8",
+  "name": "Fisherman Nolan",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:cramorant",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "gulpmissile",
+      "moveset": [
+        "drillpeck",
+        "amnesia",
+        "surf",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "battlearmor",
+      "moveset": [
+        "slam",
+        "brine",
+        "crabhammer",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

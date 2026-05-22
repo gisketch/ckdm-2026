@@ -1,0 +1,40 @@
+{
+  "id": "rct_skier_edward_0557",
+  "name": "Skier Edward",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "skier/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:sneasel",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "leer",
+        "icywind",
+        "furyswipes",
+        "honeclaws"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

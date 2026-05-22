@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_wade"
+name = "Swimmer Wade"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 51
+maxLevel = 54
+team = [
+  { species = "cobblemon:carvanha", level = 51, gender = "MALE", nature = "hardy", ability = "roughskin", moveset = ["crunch", "aquajet", "agility", "takedown"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:carvanha", level = 51, gender = "MALE", nature = "hardy", ability = "roughskin", moveset = ["crunch", "aquajet", "agility", "takedown"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sharpedo", level = 54, gender = "MALE", nature = "hardy", ability = "roughskin", moveset = ["crunch", "aquajet", "agility", "icefang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

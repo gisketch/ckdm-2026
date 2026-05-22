@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ninja_boy_m_brennan"
+name = "Ninja Boy Brennan"
+title = "Ninja Boy"
+gender = "male"
+archetype = "ninja_boy"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ninja_boy/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:zubat", level = 25, gender = "MALE", nature = "hasty", ability = "innerfocus", moveset = ["absorb", "astonish", "poisonfang", "aircutter"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skorupi", level = 25, gender = "MALE", nature = "naive", ability = "battlearmor", moveset = ["honeclaws", "fellstinger", "toxicspikes", "knockoff"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I am one of the Ninja Trio! Being discovered means I must battle!", "While I hid in the tall grass, I sensed Pokémon all around me! Furtive sounds of movement... Stifled cries... I heard them!", "I have trained this team for the road. Challenge me if you are ready."]

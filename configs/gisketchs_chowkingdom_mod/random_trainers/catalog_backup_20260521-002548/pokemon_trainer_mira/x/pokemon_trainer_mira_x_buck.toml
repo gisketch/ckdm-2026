@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemon_trainer_mira_x_buck"
+name = "Pokemon Trainer Mira Buck"
+title = "Pokemon Trainer Mira"
+gender = "any"
+archetype = "pokemon_trainer_mira"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokemon_trainer_mira/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.01
+bustStyle = ""
+minLevel = 61
+maxLevel = 65
+team = [
+  { species = "cobblemon:shuckle", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rest", "toxic", "protect", "sandstorm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:umbreon", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = ["darkpulse", "psychic", "confuseray", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:torkoal", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "willowisp", "eruption", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dusknoir", level = 63, gender = "GENDERLESS", nature = "", ability = "", moveset = ["firepunch", "icepunch", "thunderpunch", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:claydol", level = 65, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthpower", "psychic", "ancientpower", "calmmind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemon Trainer Mira Buck is ready for a battle."]

@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_justin",
+  "name": "Camper Justin",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:kecleon",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Camper Justin is ready for a battle."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_213",
+  "name": "Ace Trainer Snow Female Angelica",
+  "title": "Ace Trainer Snow Female",
+  "gender": "female",
+  "archetype": "ace_trainer_snow_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_female/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "standard",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ace Trainer Snow Female Angelica is ready for a battle."
+  ]
+}

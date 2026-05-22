@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_gs_m_bob"
+name = "Bird Keeper Gs Bob"
+title = "Bird Keeper Gs"
+gender = "male"
+archetype = "bird_keeper_gs"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bird_keeper_gs/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:noctowl", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cycling Road is a quick shortcut to Celadon.", "If you don’t have a Bicycle, you’re not allowed to use the shortcut."]

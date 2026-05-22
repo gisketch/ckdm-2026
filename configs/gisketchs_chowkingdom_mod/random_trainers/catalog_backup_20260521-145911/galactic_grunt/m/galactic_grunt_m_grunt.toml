@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "galactic_grunt_m_grunt"
+name = "Galactic Grunt Grunt"
+title = "Galactic Grunt"
+gender = "male"
+archetype = "galactic_grunt"
+region = "Sinnoh"
+category = "team"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "galactic_grunt/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.01
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:croagunk", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:glameow", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:stunky", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:houndour", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Galactic Grunt Male Grunt is ready for a battle.", "Team Galactic will take control of everything! You can try all you want, but you can’t do anything alone!", "...Is our boss about to ditch us and claim everything for himself?", "I’ll knock your Pokémon into orbit!", "The Pokémon here has already been taken to our HQ in Veilstone. So, you see? A child like you can’t touch us!", "Having fun scampering around our HQ, you sneaky intruder? Your trail blazing will go out in a blaze of glory right now!", "So what, you have momentum... It’s too late. The experiment’s done!", "Well, what have we here? A Trainer who’s lost their way?", "You barged right into our HQ? You must not know what fear is, kid!", "Intruder alert! There’s something smelly about you!", "How could we arouse suspicion? We’re Team Galactic, and this is our HQ!", "Collecting electricity from the Valley Windworks... That’s our mission."]

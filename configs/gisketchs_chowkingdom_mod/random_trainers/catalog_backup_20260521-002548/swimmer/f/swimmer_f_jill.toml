@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_jill"
+name = "Swimmer Jill"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:dewgong", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Jill is ready for a battle."]

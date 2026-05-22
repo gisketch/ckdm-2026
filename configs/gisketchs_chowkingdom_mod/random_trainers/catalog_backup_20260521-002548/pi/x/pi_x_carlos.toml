@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pi_x_carlos"
+name = "Pi Carlos"
+title = "Pi"
+gender = "any"
+archetype = "pi"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "pi/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 56
+maxLevel = 58
+team = [
+  { species = "cobblemon:seaking", level = 56, gender = "MALE", nature = "timid", ability = "waterveil", moveset = ["tailwhip", "supersonic", "waterpulse", "soak"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 57, gender = "FEMALE", nature = "jolly", ability = "waterveil", moveset = ["peck", "aquaring", "waterfall", "megahorn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 58, gender = "FEMALE", nature = "jolly", ability = "waterveil", moveset = ["agility", "flail", "waterfall", "horndrill"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["When I toss this coin, you call it. Heads, we battle. Tails, we battle! Now, how will this play out, my friend?", "I flipped a coin when I was ten. I decided to live in Sinnoh then.", "Pi Carlos is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

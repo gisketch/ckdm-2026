@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_jonah",
+  "name": "Ace Trainer Male Jonah",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:quagsire",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staraptor",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hippopotas",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If we were to battle, your Pok\u00e9mon would become tougher. Likewise, my Pok\u00e9mon would also become tougher. It\u2019s all good. This calls for a battle!",
+    "This mine\u2019s been abandoned, but now it\u2019s home to many Pok\u00e9mon. I guess everything finds a place to call home someday..."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_cyclist_axel_02fb",
+  "name": "Cyclist Axel",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "staravia",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "doubleteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

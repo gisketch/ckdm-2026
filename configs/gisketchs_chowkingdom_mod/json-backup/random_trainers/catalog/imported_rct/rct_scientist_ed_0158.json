@@ -1,0 +1,65 @@
+{
+  "id": "rct_scientist_ed_0158",
+  "name": "Scientist Ed",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "accelgor",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "hydration",
+      "moveset": [
+        "bugbuzz",
+        "gigadrain",
+        "sludgebomb",
+        "uturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heliolisk",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "dryskin",
+      "moveset": [
+        "thunderbolt",
+        "hypervoice",
+        "grassknot",
+        "voltswitch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "archeops",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "defeatist",
+      "moveset": [
+        "acrobatics",
+        "rockslide",
+        "supersonic",
+        "zenheadbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

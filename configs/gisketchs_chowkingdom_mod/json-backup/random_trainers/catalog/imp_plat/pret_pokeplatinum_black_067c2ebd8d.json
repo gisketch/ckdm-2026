@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_black_belt_miles",
+  "name": "Black Belt Miles",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:machamp",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My Pok\u00e9mon knows karate! I\u2019m warning you, it\u2019s a tough one!",
+    "I\u2019ve made it this far in life using the karate I learned on the Internet!"
+  ]
+}

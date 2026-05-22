@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_zachery_03b3",
+  "name": "Ace Trainer Zachery",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:steelix",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderfang",
+        "screech",
+        "irontail",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:medicham",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "thunderpunch",
+        "reversal",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

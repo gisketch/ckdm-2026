@@ -1,0 +1,42 @@
+{
+  "id": "rct_burglar_simon_00da",
+  "name": "Burglar Simon",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 70,
+  "maxLevel": 70,
+  "team": [
+    {
+      "species": "cobblemon:ninetales",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "iceshard",
+        "confuseray",
+        "safeguard",
+        "frostbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

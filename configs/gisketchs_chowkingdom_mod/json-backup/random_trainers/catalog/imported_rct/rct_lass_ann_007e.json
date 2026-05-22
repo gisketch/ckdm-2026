@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_ann_007e",
+  "name": "Lass Ann",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 92,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "dewott",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "battlearmor",
+      "moveset": [
+        "waterpledge",
+        "flashcannon",
+        "icebeam",
+        "hiddenpower"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "simisear",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "gluttony",
+      "moveset": [
+        "firepledge",
+        "lowkick",
+        "grassknot",
+        "hiddenpower"
+      ],
+      "heldItem": "charcoal_stick",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

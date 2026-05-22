@@ -1,0 +1,48 @@
+{
+  "id": "rct_picnicker_diana_03e3",
+  "name": "Picnicker Diana",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "budew",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "psyduck",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cloudnine",
+      "moveset": [
+        "scratch",
+        "tailwhip",
+        "watergun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

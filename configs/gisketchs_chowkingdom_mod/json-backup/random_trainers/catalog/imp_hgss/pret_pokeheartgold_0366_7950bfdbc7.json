@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0366_super_nerd_pat",
+  "name": "Super Nerd Pat",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "super_nerd/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:porygon",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "chargebeam",
+        "signalbeam",
+        "icebeam",
+        "solarbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Mufufufu... I have nothing to do with the six-pack Trainers. I waited here to beat you when you were tired out by all the battles.",
+    "I\u2019m sorry... I won\u2019t cheat anymore..."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_fisher_travis_0334",
+  "name": "Fisher Travis",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "barboach",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barboach",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shellos",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barboach",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

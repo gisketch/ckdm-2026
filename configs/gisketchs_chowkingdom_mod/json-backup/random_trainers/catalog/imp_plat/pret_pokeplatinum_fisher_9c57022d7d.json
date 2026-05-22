@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_fisherman_joseph",
+  "name": "Fisherman Joseph",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:goldeen",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "How about that! I\u2019ve netted me a feisty Trainer!",
+    "Do you have a fishing rod? Catch some big ones!"
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemon_ranger_f_beth"
+name = "Pokemon Ranger Beth"
+title = "Pokemon Ranger"
+gender = "female"
+archetype = "pokemon_ranger"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "pokemon_ranger/female"
+tier = "mid"
+spawnable = true
+height = 1.06
+weight = 1.15
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:bellsprout", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gloom", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gloom", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemon Ranger Beth is ready for a battle."]

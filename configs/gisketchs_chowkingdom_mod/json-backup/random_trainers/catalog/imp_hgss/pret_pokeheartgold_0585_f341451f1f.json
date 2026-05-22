@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0585_swimmer_male_elmo",
+  "name": "Swimmer Male Elmo",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I used to be a fisherman a while back. I\u2019ve grown to love swimming so much, I\u2019m always in my swim trunks!",
+    "Maybe I should go back to fishing..."
+  ]
+}

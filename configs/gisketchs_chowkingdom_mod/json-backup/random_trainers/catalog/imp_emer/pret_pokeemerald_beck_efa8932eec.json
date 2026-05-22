@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_beck",
+  "name": "Bird Keeper Beck",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:tropius",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bird Keeper Beck is ready for a battle."
+  ]
+}

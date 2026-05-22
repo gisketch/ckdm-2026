@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_kenny"
+name = "Hiker Kenny"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "high"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 44
+maxLevel = 54
+team = [
+  { species = "cobblemon:sandslash", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golem", level = 49, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:steelix", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Kenny is ready for a battle.", "I should go to Rock Tunnel to get myself an ONIX.", "Geological features don’t appear to change. But they actually do change, little by little."]

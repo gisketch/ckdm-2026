@@ -1,0 +1,65 @@
+{
+  "id": "rct_lass_crissy_0077",
+  "name": "Lass Crissy",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "parasect",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "effectspore",
+      "moveset": [
+        "sappyseed",
+        "crabhammer",
+        "aromatherapy",
+        "ragepowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "amoonguss",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "synthesis",
+        "sludgebomb",
+        "solarbeam",
+        "ragepowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "leavanny",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "entrainment",
+        "swordsdance",
+        "leafstorm",
+        "sacredsword"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

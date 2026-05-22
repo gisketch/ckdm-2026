@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_kassandra_04ac",
+  "name": "Ace Trainer Kassandra",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "stantler",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "lunge",
+        "zenheadbutt",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "carnivine",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "levitate",
+      "moveset": [
+        "powerwhip",
+        "crunch",
+        "stockpile",
+        "growth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

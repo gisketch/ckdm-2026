@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_henry"
+name = "Ace Trainer Henry"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 47
+maxLevel = 48
+team = [
+  { species = "cobblemon:rhydon", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["stoneedge", "earthquake", "hammerarm", "takedown"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:carnivine", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["wringout", "crunch", "feintattack", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Victory Road... Somehow, it feels as if my journey is now coming to an end. But, before the final chapter is written, I must pen your defeat!", "If you don’t give up, you can reach your goal. That perseverance is what’s important to Trainers. That’s in my book, too."]

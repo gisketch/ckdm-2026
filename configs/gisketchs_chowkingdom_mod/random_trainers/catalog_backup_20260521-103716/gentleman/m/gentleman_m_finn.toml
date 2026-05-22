@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_finn"
+name = "Gentleman Finn"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:primeape", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman from Unused is ready for a battle."]

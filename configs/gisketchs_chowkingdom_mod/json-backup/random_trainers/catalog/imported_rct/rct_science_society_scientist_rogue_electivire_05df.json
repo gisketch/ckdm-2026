@@ -1,0 +1,83 @@
+{
+  "id": "rct_science_society_scientist_rogue_electivire_05df",
+  "name": "Science Society Scientist",
+  "title": "Science Society Scientist Rogue",
+  "gender": "any",
+  "archetype": "science_society_scientist_rogue",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "rotom",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "leafstorm",
+        "shadowball",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "mow-appliance"
+      ]
+    },
+    {
+      "species": "manectric",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "flareboost",
+      "moveset": [
+        "discharge",
+        "flamethrower",
+        "hiddenpower",
+        "protect"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magnezone",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "hiddenpower",
+        "magnetrise"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vikavolt",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "bugbuzz",
+        "thunderbolt",
+        "airslash",
+        "energyball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

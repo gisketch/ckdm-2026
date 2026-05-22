@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_siena_02f3",
+  "name": "Picnicker Siena",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "shinx",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pachirisu",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

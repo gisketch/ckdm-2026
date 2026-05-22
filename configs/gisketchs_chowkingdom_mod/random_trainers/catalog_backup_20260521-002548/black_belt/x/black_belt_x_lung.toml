@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_x_lung"
+name = "Black Belt Lung"
+title = "Black Belt"
+gender = "any"
+archetype = "black_belt"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "black_belt/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 23
+maxLevel = 25
+team = [
+  { species = "cobblemon:mankey", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mankey", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:primeape", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Blackbelt Lung is ready for a battle."]

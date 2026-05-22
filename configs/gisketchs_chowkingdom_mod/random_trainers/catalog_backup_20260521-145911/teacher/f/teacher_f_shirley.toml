@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "teacher_f_shirley"
+name = "Teacher Shirley"
+title = "Teacher"
+gender = "female"
+archetype = "teacher"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "teacher/female"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = "standard"
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:chatot", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:jigglypuff", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Teacher Shirley is ready for a battle.", "Don’t lay a finger on my students!", "We’re on a school trip to the ruins outside Violet."]

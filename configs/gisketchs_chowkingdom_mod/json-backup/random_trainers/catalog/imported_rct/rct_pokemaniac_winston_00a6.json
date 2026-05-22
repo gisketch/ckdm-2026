@@ -1,0 +1,33 @@
+{
+  "id": "rct_pokemaniac_winston_00a6",
+  "name": "Pokémaniac Winston",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "magneton",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "mirrorshot",
+        "metalsound",
+        "electroball",
+        "flashcannon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

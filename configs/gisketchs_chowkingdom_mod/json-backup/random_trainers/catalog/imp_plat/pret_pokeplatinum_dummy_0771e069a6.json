@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_411",
+  "name": "Galactic Grunt Male Grunt",
+  "title": "Galactic Grunt Male",
+  "gender": "male",
+  "archetype": "galactic_grunt_male",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Galactic Grunt Male Grunt is ready for a battle."
+  ]
+}

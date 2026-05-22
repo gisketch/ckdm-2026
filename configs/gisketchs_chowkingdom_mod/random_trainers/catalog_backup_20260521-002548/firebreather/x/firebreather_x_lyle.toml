@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "firebreather_x_lyle"
+name = "Firebreather Lyle"
+title = "Firebreather"
+gender = "any"
+archetype = "firebreather"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "firebreather/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 36
+maxLevel = 39
+team = [
+  { species = "cobblemon:koffing", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:flareon", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Firebreather Lyle is ready for a battle.", "I’m going to Kanto to put on fire-breathing shows!", "I guess fire is weak on the sea... It doesn’t matter? Really?"]

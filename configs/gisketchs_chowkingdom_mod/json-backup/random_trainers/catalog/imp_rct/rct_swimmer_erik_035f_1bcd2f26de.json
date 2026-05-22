@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmer_erik_035f",
+  "name": "Swimmer Erik",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:gyarados",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlpool",
+        "brine",
+        "waterfall",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

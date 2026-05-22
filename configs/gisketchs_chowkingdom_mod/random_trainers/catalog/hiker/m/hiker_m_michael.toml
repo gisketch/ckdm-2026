@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_michael"
+name = "Hiker Michael"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:geodude", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golem", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Michael is ready for a battle.", "Yo! You’re tough! But you know what? When it comes to sheer toughness, I’m the man!", "Boy, do I love HP Up! Mmmm, yum! I keep drinking my Pokémon’s! I can’t help it!"]

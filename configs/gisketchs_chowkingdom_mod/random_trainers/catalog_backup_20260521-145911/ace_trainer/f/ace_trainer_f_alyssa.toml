@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_alyssa"
+name = "Ace Trainer Alyssa"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 32
+maxLevel = 33
+team = [
+  { species = "cobblemon:aipom", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "waterpulse", "shockwave", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:girafarig", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["doublehit", "psybeam", "assurance", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:grotle", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["megadrain", "bite", "curse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["As an Ace Trainer, I have to take battles in stride. I need to stay cool and calm whether I win or lose.", "How dare you beat us! Go away! Go!", "I have trained this team for the road. Challenge me if you are ready."]

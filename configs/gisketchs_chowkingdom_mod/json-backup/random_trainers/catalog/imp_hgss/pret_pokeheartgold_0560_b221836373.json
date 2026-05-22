@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0560_camper_clark",
+  "name": "Camper Clark",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:buizel",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Collect water! Don\u2019t let the fire go out! Look out for wild Pok\u00e9mon! Let\u2019s go, Campfire!",
+    "It doesn\u2019t matter what kind of preparation you\u2019ve done. If you lose, you lose."
+  ]
+}

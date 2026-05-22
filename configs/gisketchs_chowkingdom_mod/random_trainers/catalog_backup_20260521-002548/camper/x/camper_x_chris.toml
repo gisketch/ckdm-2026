@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_chris"
+name = "Camper Chris"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "high"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:arcanine", level = 54, gender = "FEMALE", nature = "docile", ability = "flashfire", moveset = ["firefang", "flareblitz", "helpinghand", "retaliate"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charmeleon", level = 54, gender = "FEMALE", nature = "bold", ability = "blaze", moveset = ["slash", "flamethrower", "firespin", "inferno"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Chris is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

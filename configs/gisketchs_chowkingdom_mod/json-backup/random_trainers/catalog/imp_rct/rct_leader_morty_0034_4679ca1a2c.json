@@ -1,0 +1,137 @@
+{
+  "id": "rct_leader_morty_0034",
+  "name": "Morty",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 96,
+  "team": [
+    {
+      "species": "cobblemon:mimikyu",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "shadowclaw",
+        "shadowsneak",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dusknoir",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hustle",
+      "moveset": [
+        "shadowpunch",
+        "shadowsneak",
+        "dynamicpunch",
+        "willowisp"
+      ],
+      "heldItem": [
+        "reaper_cloth"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zoroark",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "hypervoice",
+        "shadowball",
+        "flamethrower",
+        "nastyplot"
+      ],
+      "heldItem": [
+        "colbur_berry"
+      ],
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "cobblemon:typhlosion",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "infernalparade",
+        "focusblast",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "charcoal_stick"
+      ],
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "cobblemon:gengar",
+      "level": 94,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "sludgewave",
+        "shadowball",
+        "focusblast",
+        "nastyplot"
+      ],
+      "heldItem": [
+        "mega_showdown:gengarite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weavile",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "moveset": [
+        "knockoff",
+        "tripleaxel",
+        "iceshard",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

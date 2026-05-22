@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemon_ranger_felicia_04bc",
+  "name": "Pok\u00e9mon Ranger Felicia",
+  "title": "Pok\u00e9mon Ranger",
+  "gender": "any",
+  "archetype": "pok_mon_ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.14,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:lickitung",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "stomp",
+        "knockoff",
+        "powerwhip",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vigoroth",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "vitalspirit",
+      "moveset": [
+        "reversal",
+        "counter",
+        "uproar",
+        "encore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

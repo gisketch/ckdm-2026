@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_m_beck"
+name = "Bird Keeper Beck"
+title = "Bird Keeper"
+gender = "male"
+archetype = "bird_keeper"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 56
+maxLevel = 57
+team = [
+  { species = "cobblemon:pelipper", level = 57, gender = "FEMALE", nature = "hardy", ability = "frisk", moveset = ["roost", "tailwind", "hydropump", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:staravia", level = 56, gender = "FEMALE", nature = "quirky", ability = "intimidate", moveset = ["takedown", "agility", "bravebird", "finalgambit"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Beck is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

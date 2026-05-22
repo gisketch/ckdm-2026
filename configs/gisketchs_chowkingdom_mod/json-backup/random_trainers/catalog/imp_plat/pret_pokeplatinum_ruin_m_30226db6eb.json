@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ruin_maniac_bryan",
+  "name": "Ruin Maniac Bryan",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ruin_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:bronzor",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cranidos",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ah-ha! I found me a Trainer! I challenge you to battle with the Pok\u00e9mon I\u2019ve found!",
+    "Discovery is the treasure I seek. Collecting a lot is my life!"
+  ]
+}

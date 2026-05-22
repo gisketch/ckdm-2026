@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_felix_049f",
+  "name": "Ace Trainer Felix",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:dusclops",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "willowisp",
+        "nightshade",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:salamence",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonclaw",
+        "crunch",
+        "flamethrower",
+        "fly"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

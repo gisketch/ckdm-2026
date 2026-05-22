@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_ranger_kyler",
+  "name": "Ranger Male Kyler",
+  "title": "Ranger Male",
+  "gender": "male",
+  "archetype": "ranger_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zangoose",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "People! Nature! Pok\u00e9mon! Harmony is essential!",
+    "Protecting Pok\u00e9mon and nature. Think of what that means."
+  ]
+}

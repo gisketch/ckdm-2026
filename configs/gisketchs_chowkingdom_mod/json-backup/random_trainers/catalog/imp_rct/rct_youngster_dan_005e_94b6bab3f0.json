@@ -1,0 +1,40 @@
+{
+  "id": "rct_youngster_dan_005e",
+  "name": "Youngster Dan",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "thunderwave",
+        "psybeam",
+        "disable",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

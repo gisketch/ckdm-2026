@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_m_terry"
+name = "Collector Terry"
+title = "Collector"
+gender = "male"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 12
+maxLevel = 17
+team = [
+  { species = "cobblemon:gastly", level = 12, gender = "MALE", nature = "sassy", ability = "levitate", moveset = ["lick", "confuseray", "meanlook", "payback"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 13, gender = "FEMALE", nature = "sassy", ability = "levitate", moveset = ["lick", "confuseray", "meanlook", "payback"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 17, gender = "MALE", nature = "sassy", ability = "levitate", moveset = ["lick", "confuseray", "payback", "spite"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You look like you might just have the Pokémon I’ve been looking for!", "I’m very picky, so I want to collect every Pokémon without anyone’s help. ...I do have friends, though. No, seriously! I do!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_lake_valor_3",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:glameow",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:murkrow",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "...Would you like to join the MAGIKARP and flop around in the mud?",
+    "I played you for a child, and paid a stiff price for my arrogance... However, you\u2019re much too late. Team Galactic has already found the sunken island under the lake. And the Pok\u00e9mon that lay in it? Well, what do you think?"
+  ]
+}

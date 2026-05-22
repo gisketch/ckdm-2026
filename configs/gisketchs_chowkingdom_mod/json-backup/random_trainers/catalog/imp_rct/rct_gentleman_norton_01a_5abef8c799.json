@@ -1,0 +1,40 @@
+{
+  "id": "rct_gentleman_norton_01a8",
+  "name": "Gentleman Norton",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "limber",
+      "moveset": [
+        "shockwave",
+        "powergem",
+        "slash",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

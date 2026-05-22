@@ -1,0 +1,33 @@
+{
+  "id": "rct_ruin_maniac_hunter_0343",
+  "name": "Ruin Maniac Hunter",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "shieldon",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "taunt",
+        "takedown",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

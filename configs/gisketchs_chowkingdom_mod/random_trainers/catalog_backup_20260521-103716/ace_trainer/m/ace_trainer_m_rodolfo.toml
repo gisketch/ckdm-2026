@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_rodolfo"
+name = "Ace Trainer Rodolfo"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 61
+maxLevel = 62
+team = [
+  { species = "cobblemon:starmie", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "recover", "psychic", "swift"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:flygon", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dragonclaw", "earthquake", "feintattack", "screech"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ace Trainer Male Rodolfo is ready for a battle.", "There is something missing in the way I battle... I’ve come here to find it.", "Battling you was an eye-opener. I learned something very important in that short time.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,40 @@
+{
+  "id": "rct_rich_boy_trey_053f",
+  "name": "Rich Boy Trey",
+  "title": "Rich Boy",
+  "gender": "male",
+  "archetype": "rich_boy",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rich_boy/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:luxio",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "spark",
+        "thunderwave",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

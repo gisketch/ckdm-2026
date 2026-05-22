@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemon_ranger_allison_0548",
+  "name": "Pok\u00e9mon Ranger Allison",
+  "title": "Pok\u00e9mon Ranger",
+  "gender": "any",
+  "archetype": "pok_mon_ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_ranger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.14,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:aipom",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "astonish",
+        "tickle",
+        "furyswipes",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marill",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "slam",
+        "bounce",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

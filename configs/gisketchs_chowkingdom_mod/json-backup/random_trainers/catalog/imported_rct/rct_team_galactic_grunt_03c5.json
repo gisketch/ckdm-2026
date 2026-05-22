@@ -1,0 +1,30 @@
+{
+  "id": "rct_team_galactic_grunt_03c5",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cascoon",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_deanna_04a6",
+  "name": "Ace Trainer Deanna",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "flaaffy",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "powergem",
+        "thunderwave",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tropius",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarbeam",
+        "airslash",
+        "synthesis",
+        "sunnyday"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

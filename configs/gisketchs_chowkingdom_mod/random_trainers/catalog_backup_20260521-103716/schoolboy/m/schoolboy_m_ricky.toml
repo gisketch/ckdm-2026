@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "schoolboy_m_ricky"
+name = "Schoolboy Ricky"
+title = "Schoolboy"
+gender = "male"
+archetype = "schoolboy"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "schoolboy/male"
+tier = "mid"
+spawnable = true
+height = 0.93
+weight = 0.96
+bustStyle = ""
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:aipom", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ditto", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Schoolboy Ricky is ready for a battle."]

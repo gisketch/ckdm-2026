@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "crush_girl_f_sharon"
+name = "Crush Girl Sharon"
+title = "Crush Girl"
+gender = "female"
+archetype = "crush_girl"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "crush_girl/female"
+tier = "very_high"
+spawnable = true
+height = 1.06
+weight = 1.07
+bustStyle = "standard"
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:grapploct", level = 92, gender = "MALE", nature = "adamant", ability = "technician", moveset = ["brutalswing", "aquajet", "machpunch", "drainpunch"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:gallade", level = 92, gender = "MALE", nature = "jolly", ability = "steadfast", moveset = ["psychocut", "sacredsword", "swordsdance", "nightslash"], heldItem = "['mega_showdown:galladite', 'life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:darmanitan", level = 93, gender = "FEMALE", nature = "jolly", ability = "zenmode", moveset = ["flareblitz", "iciclecrash", "uturn", "earthquake"], heldItem = "['charcoal_stick']", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:nidoking", level = 91, gender = "MALE", nature = "timid", ability = "sheerforce", moveset = ["earthpower", "sludgewave", "icebeam", "flamethrower"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Crush Girl Sharon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_trainer_x_riley"
+name = "Pok Mon Trainer Riley"
+title = "Pok Mon Trainer"
+gender = "any"
+archetype = "pok_mon_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 34
+maxLevel = 34
+team = [
+  { species = "cobblemon:lucario", level = 34, gender = "MALE", nature = "jolly", ability = "innerfocus", moveset = ["screech", "forcepalm", "metalclaw", "laserfocus"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

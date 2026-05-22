@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_sally_0075",
+  "name": "Lass Sally",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "pansear",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "gluttony",
+      "moveset": [
+        "playnice",
+        "leer",
+        "lick",
+        "incinerate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flabebe",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "naturalcure",
+      "moveset": [
+        "tackle",
+        "vinewhip",
+        "fairywind",
+        "luckychant"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

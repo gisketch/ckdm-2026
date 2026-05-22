@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisher_x_marvin"
+name = "Fisher Marvin"
+title = "Fisher"
+gender = "any"
+archetype = "fisher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "fisher/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 10
+maxLevel = 15
+team = [
+  { species = "cobblemon:magikarp", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisher Marvin is ready for a battle."]

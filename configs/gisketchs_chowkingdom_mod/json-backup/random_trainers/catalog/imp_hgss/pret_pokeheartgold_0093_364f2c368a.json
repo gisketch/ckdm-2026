@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0093_swimmer_female_kara",
+  "name": "Swimmer Female Kara",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:staryu",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If you need to rest, just tread water. You\u2019ll get your breath back so you can keep on going strong.",
+    "I heard roars from deep inside the islands."
+  ]
+}

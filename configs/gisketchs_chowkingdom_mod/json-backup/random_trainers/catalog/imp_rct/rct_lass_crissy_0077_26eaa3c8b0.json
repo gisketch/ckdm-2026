@@ -1,0 +1,72 @@
+{
+  "id": "rct_lass_crissy_0077",
+  "name": "Lass Crissy",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:parasect",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "effectspore",
+      "moveset": [
+        "sappyseed",
+        "crabhammer",
+        "aromatherapy",
+        "ragepowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:amoonguss",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "synthesis",
+        "sludgebomb",
+        "solarbeam",
+        "ragepowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:leavanny",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "entrainment",
+        "swordsdance",
+        "leafstorm",
+        "sacredsword"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

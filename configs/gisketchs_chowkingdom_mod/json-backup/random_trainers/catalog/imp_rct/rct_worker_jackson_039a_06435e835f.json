@@ -1,0 +1,72 @@
+{
+  "id": "rct_worker_jackson_039a",
+  "name": "Worker Jackson",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smackdown",
+        "sandtomb",
+        "irontail",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "screech",
+        "irontail",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "screech",
+        "irontail",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

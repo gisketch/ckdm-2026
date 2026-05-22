@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rich_boy_m_garret"
+name = "Rich Boy Garret"
+title = "Rich Boy"
+gender = "male"
+archetype = "rich_boy"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "rich_boy/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.03
+bustStyle = ""
+minLevel = 45
+maxLevel = 45
+team = [
+  { species = "cobblemon:azumarill", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rich Boy Garret is ready for a battle."]

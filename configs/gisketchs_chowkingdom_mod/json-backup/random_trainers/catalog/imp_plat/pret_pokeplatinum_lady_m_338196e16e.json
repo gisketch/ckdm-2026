@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_lady_melissa",
+  "name": "Lady Melissa",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:cherubi",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019d like to begin now. Are you quite prepared?",
+    "You... You must have one fantastic teacher to be so good."
+  ]
+}

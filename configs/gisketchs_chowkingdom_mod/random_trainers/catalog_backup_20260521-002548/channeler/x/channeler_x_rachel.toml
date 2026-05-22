@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_x_rachel"
+name = "Channeler Rachel"
+title = "Channeler"
+gender = "any"
+archetype = "channeler"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "channeler/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:grimmsnarl", level = 91, gender = "MALE", nature = "relaxed", ability = "prankster", moveset = ["fakeout", "reflect", "lightscreen", "toxic"], heldItem = "['light_clay']", shiny = false, aspects = [] },
+  { species = "cobblemon:moltres", level = 93, gender = "GENDERLESS", nature = "timid", ability = "berserk", moveset = ["darkpulse", "agility", "hurricane", "roost"], heldItem = "['sitrus_berry']", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:zoroark", level = 92, gender = "FEMALE", nature = "hasty", ability = "illusion", moveset = ["uturn", "focusblast", "darkpulse", "flamethrower"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:sneasler", level = 93, gender = "MALE", nature = "jolly", ability = "poisontouch", moveset = ["poisonjab", "closecombat", "icepunch", "earthquake"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:absol", level = 92, gender = "FEMALE", nature = "jolly", ability = "superluck", moveset = ["nightslash", "swordsdance", "psychocut", "playrough"], heldItem = "['mega_showdown:absolite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:bisharp", level = 92, gender = "FEMALE", nature = "jolly", ability = "defiant", moveset = ["knockoff", "ironhead", "suckerpunch", "stoneedge"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

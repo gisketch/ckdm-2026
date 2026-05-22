@@ -1,0 +1,49 @@
+{
+  "id": "rct_aroma_lady_rose_0241",
+  "name": "Aroma Lady Rose",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "sunkern",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarbeam",
+        "doubleedge",
+        "sunnyday",
+        "seedbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sunflora",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarbeam",
+        "doubleedge",
+        "sunnyday",
+        "leafstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

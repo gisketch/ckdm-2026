@@ -1,0 +1,49 @@
+{
+  "id": "rct_sis_and_bro_lil_and_ian_02b1",
+  "name": "Sis And Bro Lil & Ian",
+  "title": "Sis And Bro Lil And",
+  "gender": "any",
+  "archetype": "sis_and_bro_lil_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "seadra",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "sniper",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "quirky",
+      "ability": "illuminate",
+      "moveset": [
+        "rapidspin",
+        "recover",
+        "psybeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

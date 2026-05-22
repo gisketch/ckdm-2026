@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_anya"
+name = "Swimmer Anya"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 57
+maxLevel = 63
+team = [
+  { species = "cobblemon:quagsire", level = 62, gender = "FEMALE", nature = "calm", ability = "damp", moveset = ["raindance", "mist", "haze", "muddywater"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 61, gender = "FEMALE", nature = "quiet", ability = "lightningrod", moveset = ["waterfall", "soak", "megahorn", "fishiousrend"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alomomola", level = 57, gender = "MALE", nature = "adamant", ability = "healer", moveset = ["safeguard", "whirlpool", "helpinghand", "healingwish"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:jellicent", level = 63, gender = "FEMALE", nature = "naughty", ability = "waterabsorb", moveset = ["raindance", "hex", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:basculin", level = 62, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["finalgambit", "liquidation", "headsmash", "waterfall"], heldItem = "", shiny = false, aspects = ["blue_striped"] },
+]
+dialogue = ["Swimmer Female Anya is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

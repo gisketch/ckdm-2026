@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_irwin"
+name = "Juggler Irwin"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 40
+maxLevel = 51
+team = [
+  { species = "cobblemon:voltorb", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rollout", "spark", "sonicboom", "charge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:voltorb", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["chargebeam", "charge", "lightscreen", "swift"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunder", "screech", "chargebeam", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunder", "mirrorcoat", "magnetrise", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Irwin is ready for a battle.", "Behold my dexterity and grace!", "I was going to dazzle you with my prize Pokémon. But your prowess electrified me!"]

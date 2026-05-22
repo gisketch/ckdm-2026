@@ -1,0 +1,65 @@
+{
+  "id": "rct_bug_catcher_conner_0073",
+  "name": "Bug Catcher Conner",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "heracross",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "chipaway",
+        "counter",
+        "furyattack",
+        "brickbreak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vibrava",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "levitate",
+      "moveset": [
+        "rockslide",
+        "supersonic",
+        "screech",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venonat",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "psybeam",
+        "stunspore",
+        "signalbeam",
+        "sleeppowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

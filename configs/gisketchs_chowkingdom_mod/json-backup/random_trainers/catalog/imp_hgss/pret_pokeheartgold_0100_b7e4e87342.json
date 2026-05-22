@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0100_hiker_anthony",
+  "name": "Hiker Anthony",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:graveler",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker Anthony is ready for a battle."
+  ]
+}

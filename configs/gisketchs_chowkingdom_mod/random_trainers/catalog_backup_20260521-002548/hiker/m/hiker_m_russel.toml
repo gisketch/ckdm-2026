@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_russel"
+name = "Hiker Russel"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 4
+maxLevel = 8
+team = [
+  { species = "cobblemon:geodude", level = 4, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You’re headed to Azalea, are you? Let my Pokémon see if you are good enough to battle.", "All right, then! I’ve decided. I’m not leaving until my Pokémon get tougher!"]

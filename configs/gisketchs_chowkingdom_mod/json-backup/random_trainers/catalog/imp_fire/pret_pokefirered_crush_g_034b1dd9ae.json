@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokefirered_crush_girl_tanya_2",
+  "name": "Crush Girl Tanya",
+  "title": "Crush Girl",
+  "gender": "female",
+  "archetype": "crush_girl",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "crush_girl/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:hitmonlee",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmonchan",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Crush Girl Tanya is ready for a battle."
+  ]
+}

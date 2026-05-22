@@ -1,0 +1,33 @@
+{
+  "id": "rct_painter_rayna_02bf",
+  "name": "Painter Rayna",
+  "title": "Painter",
+  "gender": "any",
+  "archetype": "painter",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "smeargle",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "technician",
+      "moveset": [
+        "crosschop",
+        "megahorn",
+        "doubleedge",
+        "selfdestruct"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

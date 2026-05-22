@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_galactic_boss_cyrus_celestic_town_ruins",
+  "name": "Galactic Boss Cyrus",
+  "title": "Galactic Boss",
+  "gender": "any",
+  "archetype": "galactic_boss",
+  "region": "Sinnoh",
+  "category": "unique",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:sneasel",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "slash",
+        "icepunch",
+        "quickattack",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "poisonfang",
+        "aircutter",
+        "bite",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:murkrow",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "drillpeck",
+        "nightshade",
+        "astonish",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Galactic Boss Cyrus is ready for a battle."
+  ]
+}

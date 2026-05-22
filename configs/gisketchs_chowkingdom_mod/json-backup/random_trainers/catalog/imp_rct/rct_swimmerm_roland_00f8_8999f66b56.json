@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmerm_roland_00f8",
+  "name": "Swimmer\u2642 Roland",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bellydrum",
+        "wakeupslap",
+        "hydropump",
+        "mudbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ludicolo",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "swiftswim",
+      "moveset": [
+        "astonish",
+        "growl",
+        "megadrain",
+        "naturepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seismitoad",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "swiftswim",
+      "moveset": [
+        "drainpunch",
+        "echoedvoice",
+        "hydropump",
+        "hypervoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

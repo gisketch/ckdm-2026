@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_ruin_maniac_larry",
+  "name": "Ruin Maniac Larry",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ruin_maniac/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:aerodactyl",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I don\u2019t care who you are--no one interferes with my treasure hunting!",
+    "I heard there\u2019s an intriguing stone monument around, so I came running."
+  ]
+}

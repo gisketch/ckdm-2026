@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_madeline"
+name = "Lass Madeline"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:staraptor", level = 38, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["quickattack", "aerialace", "closecombat"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bibarel", level = 38, gender = "FEMALE", nature = "jolly", ability = "unaware", moveset = ["aquajet", "headbutt", "crunch", "superfang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Madeline is ready for a battle.", "I got a nifty-keen Gym Badge from the Gym Leader in Oreburgh City!", "I’m collecting lots of Gym Badges. They’re so sparkly and pretty!", "I have trained this team for the road. Challenge me if you are ready."]

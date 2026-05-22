@@ -1,0 +1,33 @@
+{
+  "id": "rct_waitress_kati_03fc",
+  "name": "Waitress Kati",
+  "title": "Waitress",
+  "gender": "any",
+  "archetype": "waitress",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 22,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "sweetkiss",
+        "charm",
+        "growl",
+        "metronome"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

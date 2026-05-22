@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_lung",
+  "name": "Ninja Boy Lung",
+  "title": "Ninja Boy",
+  "gender": "male",
+  "archetype": "ninja_boy",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "ninja_boy/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninjask",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ninja Boy Lung is ready for a battle."
+  ]
+}

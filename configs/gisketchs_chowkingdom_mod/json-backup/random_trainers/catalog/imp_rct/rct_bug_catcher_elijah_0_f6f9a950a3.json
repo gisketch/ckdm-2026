@@ -1,0 +1,40 @@
+{
+  "id": "rct_bug_catcher_elijah_0070",
+  "name": "Bug Catcher Elijah",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:masquerain",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "watersport",
+        "aircutter",
+        "scaryface",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_galactic_hq_3f_3",
+  "name": "Galactic Grunt Male Grunt",
+  "title": "Galactic Grunt Male",
+  "gender": "male",
+  "archetype": "galactic_grunt_male",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:stunky",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:croagunk",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you enjoying your unescorted, unauthorized, and unsettling tour of Team Galactic HQ?",
+    "It doesn\u2019t matter what happens to the Team Galactic HQ building. Soon, all will belong to Team Galactic, anyway!"
+  ]
+}

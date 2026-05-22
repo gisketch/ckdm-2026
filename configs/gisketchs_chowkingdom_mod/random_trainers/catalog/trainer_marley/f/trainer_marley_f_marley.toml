@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_marley_f_marley"
+name = "Trainer Marley Marley"
+title = "Trainer Marley"
+gender = "female"
+archetype = "trainer_marley"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "trainer_marley/female"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = "standard"
+minLevel = 61
+maxLevel = 65
+team = [
+  { species = "cobblemon:ninjask", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["xscissor", "aerialace", "swordsdance", "slash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hyperbeam", "thunder", "thunderwave", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:crobat", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = ["airslash", "poisonfang", "confuseray", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weavile", level = 63, gender = "GENDERLESS", nature = "", ability = "", moveset = ["iceshard", "nightslash", "icepunch", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arcanine", level = 65, gender = "GENDERLESS", nature = "", ability = "", moveset = ["extremespeed", "flareblitz", "crunch", "thunderfang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Trainer Marley Marley is ready for a battle."]

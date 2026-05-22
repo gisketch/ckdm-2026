@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_isabelle_0277",
+  "name": "Picnicker Isabelle",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

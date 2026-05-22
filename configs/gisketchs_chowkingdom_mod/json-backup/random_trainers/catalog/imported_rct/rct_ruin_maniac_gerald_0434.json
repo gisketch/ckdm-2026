@@ -1,0 +1,49 @@
+{
+  "id": "rct_ruin_maniac_gerald_0434",
+  "name": "Ruin Maniac Gerald",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzor",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "imprison",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

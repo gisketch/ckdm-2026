@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_belt_hugh_02b9",
+  "name": "Black Belt Hugh",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "guts",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "guts",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_bug_catcher_cale_006e",
+  "name": "Bug Catcher Cale",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "karrablast",
+      "level": 16,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "swarm",
+      "moveset": [
+        "leer",
+        "endure",
+        "furycutter",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "joltik",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderwave",
+        "screech",
+        "strugglebug",
+        "electroweb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kricketune",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "technician",
+      "moveset": [
+        "growl",
+        "bide",
+        "rocktomb",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ledyba",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "lightscreen",
+        "reflect",
+        "safeguard",
+        "machpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

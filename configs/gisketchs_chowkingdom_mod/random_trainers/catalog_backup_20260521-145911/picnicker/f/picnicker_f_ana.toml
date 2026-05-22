@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_ana"
+name = "Picnicker Ana"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "low"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:meditite", level = 17, gender = "FEMALE", nature = "quirky", ability = "purepower", moveset = ["pound", "lowkick", "confusion", "forcepalm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What every good picnic needs is a cute setting, good food, and a fun battle!", "Why have a picnic here? I don’t know. There’s no deep meaning to it.", "I have trained this team for the road. Challenge me if you are ready."]

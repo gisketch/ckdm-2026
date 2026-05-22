@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_maniac_m_calvin"
+name = "Poke Maniac Calvin"
+title = "Poke Maniac"
+gender = "male"
+archetype = "poke_maniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "poke_maniac/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:kangaskhan", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I came all the way here to conduct my Pokémon research. Let me demonstrate my findings in a real battle!", "I should compile and announce my study findings. I might even become famous like Professor Elm."]

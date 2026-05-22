@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_vance"
+name = "Ace Trainer Vance"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = "standard"
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:persian", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ninetales", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerf from Unused is ready for a battle."]

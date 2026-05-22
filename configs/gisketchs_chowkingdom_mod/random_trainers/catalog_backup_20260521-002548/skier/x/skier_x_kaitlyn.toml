@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_x_kaitlyn"
+name = "Skier Kaitlyn"
+title = "Skier"
+gender = "any"
+archetype = "skier"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "skier/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:roselia", level = 36, gender = "FEMALE", nature = "timid", ability = "poisonpoint", moveset = ["poisonsting", "leechseed", "gigadrain", "synthesis"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 36, gender = "FEMALE", nature = "quirky", ability = "snowwarning", moveset = ["iceshard", "razorleaf", "icywind", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_x_brady"
+name = "Collector Brady"
+title = "Collector"
+gender = "any"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 20
+maxLevel = 24
+team = [
+  { species = "cobblemon:ponyta", level = 22, gender = "MALE", nature = "sassy", ability = "runaway", moveset = ["growl", "tailwhip", "flamecharge", "agility"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ponyta", level = 20, gender = "FEMALE", nature = "sassy", ability = "runaway", moveset = ["tackle", "growl", "flamecharge", "agility"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ponyta", level = 24, gender = "MALE", nature = "sassy", ability = "runaway", moveset = ["tackle", "growl", "ember", "flamecharge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What’s that?! You say you have a Pokédex? An authentic one!", "There’s all kinds of Trainers with all sorts of Pokémon with them. The more you battle, the more your Pokédex is filled!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_gambler_jasper_0103",
+  "name": "Gambler Jasper",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "weepinbell",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "poisonpowder",
+        "stunspore",
+        "sludge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "morelull",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "effectspore",
+      "moveset": [
+        "megadrain",
+        "sleeppowder",
+        "ingrain",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

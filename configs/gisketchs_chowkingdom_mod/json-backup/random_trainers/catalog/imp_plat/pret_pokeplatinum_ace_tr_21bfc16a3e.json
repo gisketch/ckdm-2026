@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_dalton_rematch",
+  "name": "Ace Trainer Snow Male Dalton",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:electivire",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "swift",
+        "quickattack",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmortar",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flamethrower",
+        "feintattack",
+        "smog",
+        "willowisp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ace Trainer Snow Male Dalton is ready for a battle."
+  ]
+}

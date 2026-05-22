@@ -1,0 +1,33 @@
+{
+  "id": "rct_guitarist_tony_051e",
+  "name": "Guitarist Tony",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "spark",
+        "thunderwave",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

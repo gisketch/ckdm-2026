@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_gs_m_garett"
+name = "Scientist Gs Garett"
+title = "Scientist Gs"
+gender = "male"
+archetype = "scientist_gs"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "scientist_gs/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:magnemite", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["An unknown child wandering here? Who are you?", "Bwahahaha... I can transmit as strong a signal as I need from here."]

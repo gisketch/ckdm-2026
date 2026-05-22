@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokefirered_aroma_lady_violet",
+  "name": "Aroma Lady Violet",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:bulbasaur",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ivysaur",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ivysaur",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Aroma Lady Violet is ready for a battle."
+  ]
+}

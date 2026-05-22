@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_ken"
+name = "Bug Catcher Ken"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "mid"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 39
+maxLevel = 40
+team = [
+  { species = "cobblemon:ariados", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pinsir", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Ken is ready for a battle.", "I’m visiting my grandma to catch me some bugs!", "I’ll catch all the Pokémon you can find only in Johto!"]

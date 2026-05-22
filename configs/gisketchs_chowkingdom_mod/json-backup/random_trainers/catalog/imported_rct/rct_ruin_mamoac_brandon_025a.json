@@ -1,0 +1,33 @@
+{
+  "id": "rct_ruin_mamoac_brandon_025a",
+  "name": "Ruin Mamoac Brandon",
+  "title": "Ruin Mamoac",
+  "gender": "any",
+  "archetype": "ruin_mamoac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "onix",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "irontail",
+        "dig",
+        "stoneedge",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

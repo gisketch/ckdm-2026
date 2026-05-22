@@ -1,0 +1,49 @@
+{
+  "id": "rct_worker_dillan_0584",
+  "name": "Worker Dillan",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "machop",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "strength"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "knockoff",
+        "scaryface",
+        "strength"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

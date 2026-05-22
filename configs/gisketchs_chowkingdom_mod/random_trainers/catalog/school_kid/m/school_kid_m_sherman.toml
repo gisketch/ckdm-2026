@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_sherman"
+name = "School Kid Sherman"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:furret", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["doubleteam", "batonpass", "amnesia", "slam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeot", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["roost", "wingattack", "steelwing", "return"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Right after learning it in class, I head outside to practice!", "I should be sure to record all of today’s mistakes in a notebook!"]

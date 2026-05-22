@@ -1,0 +1,32 @@
+{
+  "id": "rct_expert_lancere_0024",
+  "name": "Expert LanceRe",
+  "title": "Expert",
+  "gender": "any",
+  "archetype": "expert",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

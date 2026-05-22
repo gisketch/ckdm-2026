@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_dante"
+name = "Youngster Dante"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 14
+maxLevel = 14
+team = [
+  { species = "cobblemon:rattata", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ekans", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:zubat", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster from Route 24 is ready for a battle.", "Youngster from Route 3 is ready for a battle."]

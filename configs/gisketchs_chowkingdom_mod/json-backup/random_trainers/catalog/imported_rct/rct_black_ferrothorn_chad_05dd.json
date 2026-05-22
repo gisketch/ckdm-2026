@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_ferrothorn_chad_05dd",
+  "name": "Black Ferrothorn Chad",
+  "title": "Black Ferrothorn",
+  "gender": "any",
+  "archetype": "black_ferrothorn",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "krookodile",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "powertrip",
+        "dig",
+        "thunderfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ferrothorn",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "ironbarbs",
+      "moveset": [
+        "ironhead",
+        "powerwhip",
+        "payback",
+        "pinmissile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

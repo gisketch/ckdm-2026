@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_x_angelica"
+name = "Channeler Angelica"
+title = "Channeler"
+gender = "any"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 37
+maxLevel = 39
+team = [
+  { species = "cobblemon:haunter", level = 37, gender = "FEMALE", nature = "bold", ability = "levitate", moveset = ["nightshade", "confuseray", "suckerpunch", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lampent", level = 39, gender = "FEMALE", nature = "gentle", ability = "flashfire", moveset = ["imprison", "hex", "memento", "inferno"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shedinja", level = 37, gender = "GENDERLESS", nature = "brave", ability = "wonderguard", moveset = ["mindreader", "confuseray", "shadowball", "grudge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Angelica is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

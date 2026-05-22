@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_zackary"
+name = "Camper Zackary"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "high"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 52
+maxLevel = 52
+team = [
+  { species = "cobblemon:ambipom", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["batonpass", "swift", "nastyplot", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bibarel", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "icebeam", "surf", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Zackary is ready for a battle.", "It’s a long way between Floaroma and Eterna City. So, let’s battle!", "Camping with Pokémon! Do you have any idea how fun that is?", "I have trained this team for the road. Challenge me if you are ready."]

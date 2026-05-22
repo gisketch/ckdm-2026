@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0397_school_kid_male_chad",
+  "name": "School Kid Male Chad",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:mr_mime",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Let me try something I learned today.",
+    "I have to take so many tests, I don\u2019t have much time for Pok\u00e9mon. So when I do get to battle, I really concentrate."
+  ]
+}

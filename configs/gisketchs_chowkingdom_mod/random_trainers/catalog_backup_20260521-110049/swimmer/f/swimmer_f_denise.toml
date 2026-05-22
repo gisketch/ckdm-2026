@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_denise"
+name = "Swimmer Denise"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto;Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeemerald;pret_pokefirered;pret_pokeheartgold;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:chinchou", level = 49, gender = "FEMALE", nature = "timid", ability = "voltabsorb", moveset = ["paraboliccharge", "aquaring", "hydropump", "iondeluge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 49, gender = "FEMALE", nature = "calm", ability = "voltabsorb", moveset = ["signalbeam", "scald", "discharge", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Denise is ready for a battle.", "Swimmer Female Denise is ready for a battle.", "The weather is so beautiful, I’m in a daze!", "A sunburn is the worst for skin. But I don’t use sunblock. I won’t pollute the water.", "I have trained this team for the road. Challenge me if you are ready."]

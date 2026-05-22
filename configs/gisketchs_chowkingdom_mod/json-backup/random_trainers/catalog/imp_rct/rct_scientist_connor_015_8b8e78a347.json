@@ -1,0 +1,86 @@
+{
+  "id": "rct_scientist_connor_0150",
+  "name": "Scientist Connor",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:muk",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "crunch",
+        "poisonjab",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "levitate",
+      "moveset": [
+        "explosion",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:klinklang",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "lonely",
+      "ability": "clearbody",
+      "moveset": [
+        "shiftgear",
+        "geargrind"
+      ],
+      "heldItem": [
+        "metal_coat"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beheeyem",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "analytic",
+      "moveset": [
+        "psychic",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

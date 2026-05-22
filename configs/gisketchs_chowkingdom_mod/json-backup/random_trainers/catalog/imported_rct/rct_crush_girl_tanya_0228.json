@@ -1,0 +1,83 @@
+{
+  "id": "rct_crush_girl_tanya_0228",
+  "name": "Crush Girl Tanya",
+  "title": "Crush Girl",
+  "gender": "any",
+  "archetype": "crush_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "pangoro",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "scrappy",
+      "moveset": [
+        "wickedblow",
+        "closecombat",
+        "partingshot",
+        "suckerpunch"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bewear",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "fluffy",
+      "moveset": [
+        "closecombat",
+        "doubleedge",
+        "darkestlariat",
+        "drainpunch"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ursaring",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "drainpunch",
+        "shadowpunch",
+        "shadowsneak",
+        "playrough"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "tauros",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "headcharge",
+        "ironhead",
+        "closecombat",
+        "throatchop"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

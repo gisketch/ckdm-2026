@@ -1,0 +1,72 @@
+{
+  "id": "rct_bird_keeper_marlon_0298",
+  "name": "Bird Keeper Marlon",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:fearow",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "frisk",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:doduo",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "runaway",
+      "moveset": [
+        "pluck",
+        "doublehit",
+        "agility",
+        "uproar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "frisk",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

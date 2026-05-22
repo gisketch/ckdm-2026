@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "elder_m_li"
+name = "Elder Li"
+title = "Elder"
+gender = "male"
+archetype = "elder"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "elder/male"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 7
+maxLevel = 10
+team = [
+  { species = "cobblemon:bellsprout", level = 7, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 7, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hoothoot", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["So good of you to come here! Sprout Tower is a place of training. People and Pokémon test their bonds to build a bright future together. I am the final test. Allow me to check the ties between you and your Pokémon!", "You and your Pokémon should have no problem using this move. Take this Flash TM."]

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_haley"
+name = "Lass Haley"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 18
+maxLevel = 19
+team = [
+  { species = "cobblemon:illumise", level = 19, gender = "FEMALE", nature = "bold", ability = "tintedlens", moveset = ["charm", "quickattack", "bugbite", "moonlight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowpoke", level = 19, gender = "MALE", nature = "docile", ability = "owntempo", moveset = ["yawn", "confusion", "disable", "waterpulse"], heldItem = "", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:audino", level = 18, gender = "FEMALE", nature = "quiet", ability = "regenerator", moveset = ["babydolleyes", "refresh", "disarmingvoice", "doubleslap"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Haley is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

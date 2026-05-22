@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_kassandra"
+name = "Ace Trainer Kassandra"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:stantler", level = 58, gender = "MALE", nature = "docile", ability = "intimidate", moveset = ["doubleedge", "lunge", "zenheadbutt", "hypnosis"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:carnivine", level = 58, gender = "MALE", nature = "serious", ability = "levitate", moveset = ["powerwhip", "crunch", "stockpile", "growth"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,110 @@
+{
+  "id": "rct_gym_leader_byron_0590",
+  "name": "Byron",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 69,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "skarmory",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "steelwing",
+        "stealthrock",
+        "irondefense",
+        "taunt"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "steelix",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "moveset": [
+        "irontail",
+        "earthquake",
+        "icefang",
+        "crunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magnezone",
+      "level": 70,
+      "gender": "GENDERLESS",
+      "nature": "quiet",
+      "ability": "analytic",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "lightscreen",
+        "magnetrise"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "flashcannon",
+        "icebeam",
+        "roar"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bastiodon",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "heavyslam",
+        "metalburst",
+        "roar",
+        "stealthrock"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

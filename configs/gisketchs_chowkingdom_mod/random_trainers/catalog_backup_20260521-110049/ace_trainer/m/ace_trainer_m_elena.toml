@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_elena"
+name = "Ace Trainer Elena"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.03
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:kingler", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cloyster", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm from Unused is ready for a battle."]

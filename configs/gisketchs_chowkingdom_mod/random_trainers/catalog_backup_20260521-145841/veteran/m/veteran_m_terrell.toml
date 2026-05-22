@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "veteran_m_terrell"
+name = "Veteran Terrell"
+title = "Veteran"
+gender = "male"
+archetype = "veteran"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "veteran/male"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 53
+maxLevel = 55
+team = [
+  { species = "cobblemon:parasect", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["xscissor", "gigadrain", "spore", "slash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhydon", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hammerarm", "stoneedge", "earthquake", "megahorn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magmar", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["fireblast", "confuseray", "irontail", "focusblast"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What it means to battle... Its joys, its sorrows... I’ve experienced it all!", "You may be a child, but you’ve taught me a whole lot. I thank you humbly.", "I have trained this team for the road. Challenge me if you are ready."]

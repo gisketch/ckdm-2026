@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_tina_00a0",
+  "name": "Picnicker Tina",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "breloom",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "feint",
+        "counter",
+        "forcepalm",
+        "mindreader"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "quilladin",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "bulletproof",
+      "moveset": [
+        "leechseed",
+        "pinmissile",
+        "takedown",
+        "seedbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

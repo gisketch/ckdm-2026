@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_lance"
+name = "Rct Trainer Lance"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 66
+maxLevel = 72
+team = [
+  { species = "cobblemon:gyarados", level = 68, gender = "MALE", nature = "quirky", ability = "intimidate", moveset = ["hyperbeam", "dragondance", "earthquake", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dragonite", level = 66, gender = "MALE", nature = "jolly", ability = "innerfocus", moveset = ["hyperbeam", "earthquake", "dragonclaw", "flamethrower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kingdra", level = 66, gender = "FEMALE", nature = "hardy", ability = "sniper", moveset = ["hyperbeam", "dragondance", "surf", "icebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:aerodactyl", level = 70, gender = "FEMALE", nature = "hasty", ability = "pressure", moveset = ["hyperbeam", "ancientpower", "aerialace", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dragonite", level = 72, gender = "MALE", nature = "hardy", ability = "innerfocus", moveset = ["hyperbeam", "outrage", "thunderbolt", "icebeam"], heldItem = "['persim_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

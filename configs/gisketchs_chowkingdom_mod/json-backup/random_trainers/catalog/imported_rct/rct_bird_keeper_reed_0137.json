@@ -1,0 +1,81 @@
+{
+  "id": "rct_bird_keeper_reed_0137",
+  "name": "Bird Keeper Reed",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "frisk",
+      "moveset": [
+        "return",
+        "roost",
+        "agility",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "frisk",
+      "moveset": [
+        "return",
+        "roost",
+        "agility",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgey",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "frisk",
+      "moveset": [
+        "return",
+        "roost",
+        "agility",
+        "fly"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "return",
+        "roost",
+        "agility",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

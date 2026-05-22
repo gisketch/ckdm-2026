@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokecrystal_lass_017_dana",
+  "name": "Lass Dana",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:ampharos",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "swift",
+        "thunderpunch",
+        "thunderwave",
+        "cottonspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "disable",
+        "surf",
+        "psychic",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Dana is ready for a battle."
+  ]
+}

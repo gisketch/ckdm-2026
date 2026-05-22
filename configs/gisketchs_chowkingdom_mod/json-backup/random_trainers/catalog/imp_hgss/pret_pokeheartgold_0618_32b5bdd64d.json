@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0618_youngster_ian",
+  "name": "Youngster Ian",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:primeape",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Youngster Ian is ready for a battle."
+  ]
+}

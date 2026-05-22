@@ -1,0 +1,56 @@
+{
+  "id": "rct_youngster_donny_03f6",
+  "name": "Youngster Donny",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "meanlook",
+        "payback",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "lick",
+        "meanlook",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_scientist_braydon_015a",
+  "name": "Scientist Braydon",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 69,
+  "maxLevel": 70,
+  "team": [
+    {
+      "species": "magneton",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "lockon",
+        "magnetrise",
+        "gyroball",
+        "zapcannon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "probopass",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "magnetpull",
+      "moveset": [
+        "earthpower",
+        "stoneedge",
+        "lockon",
+        "zapcannon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jolteon",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderwave",
+        "discharge",
+        "lastresort",
+        "thunder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

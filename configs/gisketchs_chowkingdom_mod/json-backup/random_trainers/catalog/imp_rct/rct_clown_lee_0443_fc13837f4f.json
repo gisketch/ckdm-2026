@@ -1,0 +1,40 @@
+{
+  "id": "rct_clown_lee_0443",
+  "name": "Clown Lee",
+  "title": "Clown",
+  "gender": "any",
+  "archetype": "clown",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "clown/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:mrmime",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "filter",
+      "moveset": [
+        "powerswap",
+        "pound",
+        "encore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

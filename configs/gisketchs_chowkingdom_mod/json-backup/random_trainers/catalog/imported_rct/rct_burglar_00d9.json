@@ -1,0 +1,49 @@
+{
+  "id": "rct_burglar_00d9",
+  "name": "Burglar",
+  "title": "Burglar 00d9",
+  "gender": "any",
+  "archetype": "burglar_00d9",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "charmander",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "scaryface",
+        "thunderpunch",
+        "flameburst",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charmeleon",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "firefang",
+        "scaryface",
+        "thunderpunch",
+        "flameburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

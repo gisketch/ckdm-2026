@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_birdkeeper_011",
+  "name": "Birdkeeper Wes",
+  "title": "Birdkeeper",
+  "gender": "any",
+  "archetype": "birdkeeper",
+  "region": "Kanto",
+  "category": "specialist",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "birdkeeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:fearow",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Birdkeeper from Route 20 is ready for a battle."
+  ]
+}

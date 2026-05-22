@@ -1,0 +1,56 @@
+{
+  "id": "rct_bird_keeper_benny_0296",
+  "name": "Bird Keeper Benny",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:fearow",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "mirrormove",
+        "assurance",
+        "agility",
+        "dualwingbeat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "technician",
+      "moveset": [
+        "mirrormove",
+        "assurance",
+        "agility",
+        "dualwingbeat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

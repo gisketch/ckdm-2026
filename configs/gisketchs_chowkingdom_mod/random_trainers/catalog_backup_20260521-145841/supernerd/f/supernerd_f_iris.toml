@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "supernerd_f_iris"
+name = "Supernerd Iris"
+title = "Supernerd"
+gender = "female"
+archetype = "supernerd"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "supernerd/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = "standard"
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:koffing", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Supernerd from Unused is ready for a battle."]

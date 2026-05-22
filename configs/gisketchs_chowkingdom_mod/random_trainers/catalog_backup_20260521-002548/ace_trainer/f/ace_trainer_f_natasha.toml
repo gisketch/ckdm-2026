@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_natasha"
+name = "Ace Trainer Natasha"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 59
+team = [
+  { species = "cobblemon:wigglytuff", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hypervoice", "reflect", "lightscreen", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gardevoir", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "magicalleaf", "calmmind", "focusblast"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:medicham", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["recover", "forcepalm", "psychic", "rockslide"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I came here after winning my way through the Battle Tower!", "Train more at the Battle Tower... That’s what I’ll do."]

@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0205_ace_trainer_male_nick",
+  "name": "Ace Trainer Male Nick",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:charmander",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "firefang",
+        "smokescreen",
+        "dragonrage",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:squirtle",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "withdraw",
+        "watergun",
+        "bite",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bulbasaur",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "leechseed",
+        "poisonpowder",
+        "sleeppowder",
+        "razorleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "There are two kinds of people: those with style and those without. Which kind of person are you?",
+    "Your Pok\u00e9mon style is stunning and full of life, I admit. You\u2019ll just keep getting better!"
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_x_steve"
+name = "Pokemaniac Steve"
+title = "Pokemaniac"
+gender = "any"
+archetype = "pokemaniac"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered"
+skinSet = ""
+skinFolder = "pokemaniac/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:aggron", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhydon", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Steve is ready for a battle."]

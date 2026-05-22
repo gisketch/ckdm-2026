@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0011_kimono_girl_mickey",
+  "name": "Kimono Girl Mickey",
+  "title": "Kimono Girl",
+  "gender": "female",
+  "archetype": "kimono_girl",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "kimono_girl/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:skiploom",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vulpix",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Kimono Girl Mickey is ready for a battle."
+  ]
+}

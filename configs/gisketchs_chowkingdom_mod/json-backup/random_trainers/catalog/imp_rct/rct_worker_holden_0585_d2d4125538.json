@@ -1,0 +1,40 @@
+{
+  "id": "rct_worker_holden_0585",
+  "name": "Worker Holden",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:steelix",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "bind",
+        "smackdown",
+        "curse",
+        "sandtomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

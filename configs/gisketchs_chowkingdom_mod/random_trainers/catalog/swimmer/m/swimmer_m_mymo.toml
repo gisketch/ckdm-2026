@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_mymo"
+name = "Swimmer Mymo"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:kingler", level = 49, gender = "FEMALE", nature = "sassy", ability = "hypercutter", moveset = ["metalclaw", "stomp", "slash", "slam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wartortle", level = 49, gender = "FEMALE", nature = "lax", ability = "torrent", moveset = ["skullbash", "irondefense", "raindance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Mymo is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

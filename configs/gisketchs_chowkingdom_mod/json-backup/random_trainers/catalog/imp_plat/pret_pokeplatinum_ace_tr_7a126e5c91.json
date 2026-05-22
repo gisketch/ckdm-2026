@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_arthur",
+  "name": "Ace Trainer Male Arthur",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "muddywater",
+        "recover",
+        "toxic",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beedrill",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "poisonjab",
+        "uturn",
+        "aerialace",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrode",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "hyperbeam",
+        "endure",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I want my Pok\u00e9mon to get a taste of the sweetness that is victory. I can\u2019t afford to lose this one!",
+    "I\u2019m sorry, my Pok\u00e9mon team... I promise, I\u2019ll get better at this so you can get a taste of victory!"
+  ]
+}

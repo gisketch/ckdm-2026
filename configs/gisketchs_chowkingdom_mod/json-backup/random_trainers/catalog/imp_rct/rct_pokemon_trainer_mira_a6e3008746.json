@@ -1,0 +1,40 @@
+{
+  "id": "rct_pokemon_trainer_mira_04cc",
+  "name": "Pok\u00e9mon Trainer Mira",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "psybeam",
+        "reflect",
+        "allyswitch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

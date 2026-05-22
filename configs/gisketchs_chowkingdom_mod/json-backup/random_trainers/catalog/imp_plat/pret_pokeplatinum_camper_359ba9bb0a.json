@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_camper_lawrence",
+  "name": "Camper Lawrence",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:aipom",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floatzel",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Yeah, I like to camp! So what? Let\u2019s battle!",
+    "When I\u2019m with my Pok\u00e9mon, I can camp just about anywhere I want!"
+  ]
+}

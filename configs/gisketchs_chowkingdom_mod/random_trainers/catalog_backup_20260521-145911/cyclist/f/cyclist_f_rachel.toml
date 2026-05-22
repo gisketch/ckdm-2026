@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_f_rachel"
+name = "Cyclist Rachel"
+title = "Cyclist"
+gender = "female"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cyclist/female"
+tier = "low"
+spawnable = true
+height = 0.96
+weight = 0.95
+bustStyle = "standard"
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:shinx", level = 15, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["tackle", "leer", "thundershock", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shinx", level = 15, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["tackle", "leer", "thundershock", "bite"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Some people compete over speed, and some compete over technique. Which kind are you?", "I enjoy the scenery. Don’t you think the area below Cycling Road looks nice?", "I have trained this team for the road. Challenge me if you are ready."]

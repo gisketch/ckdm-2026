@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_hiker_maurice",
+  "name": "Hiker Maurice",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:graveler",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When you\u2019re up in the mountains, a battle\u2019d do for a proper greeting!",
+    "Actually, when you\u2019re up in the mountains, a simple hi\u2019d do if you walk past someone. Oh, and this isn\u2019t the mountains."
+  ]
+}

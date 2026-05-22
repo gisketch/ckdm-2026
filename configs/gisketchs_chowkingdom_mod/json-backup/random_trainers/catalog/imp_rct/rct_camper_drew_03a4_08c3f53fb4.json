@@ -1,0 +1,72 @@
+{
+  "id": "rct_camper_drew_03a4",
+  "name": "Camper Drew",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "meanlook",
+        "curse",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastly",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "meanlook",
+        "curse",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastly",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "meanlook",
+        "curse",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_team_rocket_grunt_0170",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:weezing",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "selfdestruct",
+        "haze",
+        "gyroball",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninjask",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "speedboost",
+      "moveset": [
+        "slash",
+        "dualwingbeat",
+        "mindreader",
+        "firstimpression"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

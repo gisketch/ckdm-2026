@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0351_pokefan_male_trevor",
+  "name": "Pokefan Male Trevor",
+  "title": "Pokefan Male",
+  "gender": "male",
+  "archetype": "pokefan_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "pokefan_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:psyduck",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Sometimes I go back to the places I met my Pok\u00e9mon. They bring back good memories.",
+    "When and where did I get my Pok\u00e9mon... I\u2019ll bet if I checked my Trainer Memo, I\u2019d remember!"
+  ]
+}

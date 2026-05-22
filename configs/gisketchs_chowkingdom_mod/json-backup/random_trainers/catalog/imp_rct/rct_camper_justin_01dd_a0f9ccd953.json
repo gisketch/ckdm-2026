@@ -1,0 +1,100 @@
+{
+  "id": "rct_camper_justin_01dd",
+  "name": "Camper Justin",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 88,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:darmanitan",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "zenmode",
+      "moveset": [
+        "uturn",
+        "flareblitz",
+        "iciclecrash",
+        "earthquake"
+      ],
+      "heldItem": [
+        "charti_berry"
+      ],
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "cobblemon:sandslash",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "slushrush",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "ironhead",
+        "iciclecrash"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cobblemon:conkeldurr",
+      "level": 88,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "ironfist",
+      "moveset": [
+        "drainpunch",
+        "machpunch",
+        "knockoff",
+        "thunderpunch"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gengar",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "nastyplot",
+        "shadowball",
+        "focusblast",
+        "sludgewave"
+      ],
+      "heldItem": [
+        "spell_tag"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeheartgold_0243_swimmer_female_katie",
+  "name": "Swimmer Female Katie",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:dewgong",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmer Female Katie is ready for a battle."
+  ]
+}

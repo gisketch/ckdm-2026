@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_anton",
+  "name": "Ace Trainer Snow Male Anton",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:glalie",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icebeam",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We spend all our time battling in the blizzards of Snowpoint City. We\u2019ll show you how it\u2019s toughened us up!",
+    "You\u2019ve battled all over, you say? That makes you tough, perhaps."
+  ]
+}

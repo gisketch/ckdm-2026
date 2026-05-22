@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0129_poke_maniac_shane",
+  "name": "Poke Maniac Shane",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:nidorina",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidorino",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey! This is my secret place! Get lost, you outsider!",
+    "You\u2019re working on a Pok\u00e9dex? Wow, you must know some pretty rare Pok\u00e9mon! May I please see it? Please?"
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_f_elena"
+name = "Biker Elena"
+title = "Biker"
+gender = "female"
+archetype = "biker"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "biker/female"
+tier = "mid"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = "standard"
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:koffing", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker from Route 13 is ready for a battle."]

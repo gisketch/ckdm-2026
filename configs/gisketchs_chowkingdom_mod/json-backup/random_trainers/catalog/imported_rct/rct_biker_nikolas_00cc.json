@@ -1,0 +1,49 @@
+{
+  "id": "rct_biker_nikolas_00cc",
+  "name": "Biker Nikolas",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "electrode",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "spark",
+        "explosion",
+        "thunderbolt",
+        "triattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "probopass",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "magnetpull",
+      "moveset": [
+        "spark",
+        "earthpower",
+        "powergem",
+        "discharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

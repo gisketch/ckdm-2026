@@ -1,0 +1,33 @@
+{
+  "id": "rct_poke_kid_danielle_053a",
+  "name": "Poké Kid Danielle",
+  "title": "Poke Kid",
+  "gender": "any",
+  "archetype": "poke_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "sweetkiss",
+        "charm",
+        "slam",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

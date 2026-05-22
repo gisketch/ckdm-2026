@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_burglar_009",
+  "name": "Burglar Orin",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:growlithe",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Burglar from Mansion B1F is ready for a battle."
+  ]
+}

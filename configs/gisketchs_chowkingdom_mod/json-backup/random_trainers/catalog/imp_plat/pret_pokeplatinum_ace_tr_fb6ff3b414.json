@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_sergio",
+  "name": "Ace Trainer Snow Male Sergio",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:snover",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "iceshard",
+        "swagger",
+        "icywind",
+        "woodhammer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sneasel",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icywind",
+        "slash",
+        "feintattack",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "...It\u2019s t-too cold. I can\u2019t even feel my t-tongue.",
+    "The higher up you slide from, the more speed you\u2019ll have to smash those big snowballs."
+  ]
+}

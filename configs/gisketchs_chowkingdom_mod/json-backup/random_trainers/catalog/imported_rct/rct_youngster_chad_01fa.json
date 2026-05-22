@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_chad_01fa",
+  "name": "Youngster Chad",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "arbok",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "suckerpunch",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandshrew",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sandveil",
+      "moveset": [
+        "swift",
+        "furyswipes",
+        "sandtomb",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

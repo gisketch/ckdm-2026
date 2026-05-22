@@ -1,0 +1,37 @@
+{
+  "id": "pret_pokeemerald_edward",
+  "name": "Psychic Edward",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:abra",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hiddenpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Edward is ready for a battle."
+  ]
+}

@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_x_krystal"
+name = "Mega Trainer Krystal"
+title = "Mega Trainer"
+gender = "any"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 72
+maxLevel = 75
+team = [
+  { species = "cobblemon:oranguru", level = 72, gender = "FEMALE", nature = "bold", ability = "innerfocus", moveset = ["psychic", "reflect", "lightscreen", "trickroom"], heldItem = "['light_clay']", shiny = false, aspects = [] },
+  { species = "cobblemon:jellicent", level = 72, gender = "MALE", nature = "calm", ability = "waterabsorb", moveset = ["hex", "willowisp", "strengthsap", "trickroom"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:snorlax", level = 74, gender = "MALE", nature = "adamant", ability = "thickfat", moveset = ["doubleedge", "darkestlariat", "earthquake", "firepunch"], heldItem = "['choice_band']", shiny = false, aspects = [] },
+  { species = "cobblemon:druddigon", level = 73, gender = "FEMALE", nature = "adamant", ability = "sheerforce", moveset = ["outrage", "suckerpunch", "firepunch", "irontail"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:absol", level = 75, gender = "MALE", nature = "jolly", ability = "magicbounce", moveset = ["knockoff", "playrough", "suckerpunch", "swordsdance"], heldItem = "['mega_showdown:absolite', 'expert_belt']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

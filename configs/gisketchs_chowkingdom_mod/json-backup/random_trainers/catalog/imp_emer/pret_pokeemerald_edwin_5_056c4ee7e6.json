@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_edwin_5",
+  "name": "Collector Edwin",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "collector/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:ludicolo",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shiftry",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Collector Edwin is ready for a battle."
+  ]
+}

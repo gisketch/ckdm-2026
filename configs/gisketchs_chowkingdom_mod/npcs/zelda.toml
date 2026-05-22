@@ -28,10 +28,10 @@ npc_interaction_messages = ["{other} studies a strange glyph on the wall, brow f
 interaction_tags = ["wizard_mentor", "light_magic", "skyland_lore", "totk_reminiscence", "dragon_memory", "calm_demeanor"]
 work_blocks = [
   { id = "minecraft:enchanting_table", count = 1, display_name = "enchanting table" },
-  { id = "minecraft:bookshelf", count = 6, display_name = "bookshelves" },
-  { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
   { id = "minecraft:amethyst_block", count = 1, display_name = "amethyst focus" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "supplementaries:crystal_display", count = 1, display_name = "light crystal display" },
+  { id = "supplementaries:globe", count = 1, display_name = "hyrule globe" },
+  { id = "ars_nouveau:scryers_crystal", count = 1, display_name = "scryer's crystal" },
 ]
 
 [boss]
@@ -162,4 +162,6 @@ pool = [
   { id = "zelda_smelt_glass", category = "task", event = "minecraft:item_smelted", event_desc = "Smelt {goal} Glass", quest_text = "Smelt glass for clear lenses and ruin lamps.", pass_id = "cozy", xp = 55, chowcoins = 30, goal = 16, filters = { item = "minecraft:glass" }, weight = 12 },
   { id = "zelda_food_glow_berry_custard", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Glow Berry Custard And Bring It Back", quest_text = "Prepare glow berry custard after I ask; gentle light can still guide.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:glow_berry_custard", fetch_count = 1, filters = { item = "farmersdelight:glow_berry_custard" }, weight = 8 },
   { id = "zelda_quiz_light_dragons_skylands_and_wise_courage", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Zelda's light and skylands quiz with care.", pass_id = "cozy", xp = 50, chowcoins = 35, quiz_topic = "light dragons skylands and wise courage", weight = 10 },
+  { id = "zelda_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Zelda", quest_text = "Zelda has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "zelda_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Zelda", quest_text = "Zelda wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokecrystal_firebreather_004_burt",
+  "name": "Firebreather Burt",
+  "title": "Firebreather",
+  "gender": "any",
+  "archetype": "firebreather",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "firebreather/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slugma",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Firebreather Burt is ready for a battle."
+  ]
+}

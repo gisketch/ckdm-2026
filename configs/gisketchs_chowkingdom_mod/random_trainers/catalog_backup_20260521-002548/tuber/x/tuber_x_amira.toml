@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_x_amira"
+name = "Tuber Amira"
+title = "Tuber"
+gender = "any"
+archetype = "tuber"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "tuber/any"
+tier = "very_high"
+spawnable = true
+height = 0.89
+weight = 0.91
+bustStyle = ""
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:palossand", level = 91, gender = "FEMALE", nature = "bold", ability = "watercompaction", moveset = ["scorchingsands", "shadowball", "shoreup", "stealthrock"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:crawdaunt", level = 91, gender = "FEMALE", nature = "jolly", ability = "adaptability", moveset = ["dragondance", "crabhammer", "knockoff", "closecombat"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:mantine", level = 93, gender = "MALE", nature = "timid", ability = "hydration", moveset = ["thunderbolt", "sludgewave", "icebeam", "scald"], heldItem = "['mega_showdown:poisonium_z', 'poison_gem']", shiny = false, aspects = ["sevii"] },
+  { species = "cobblemon:swanna", level = 91, gender = "MALE", nature = "naive", ability = "noguard", moveset = ["hydropump", "hurricane", "blizzard", "aquajet"], heldItem = "['flying_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:whiscash", level = 92, gender = "FEMALE", nature = "jolly", ability = "waterbubble", moveset = ["dragondance", "waterfall", "earthquake", "zenheadbutt"], heldItem = "['rindo_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["Tuber Amira is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

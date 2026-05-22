@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "idol_x_grace"
+name = "Idol Grace"
+title = "Idol"
+gender = "any"
+archetype = "idol"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "idol/any"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 0.96
+bustStyle = ""
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:pikachu", level = 15, gender = "MALE", nature = "careful", ability = "static", moveset = ["nuzzle", "charm", "thundershock", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefairy", level = 15, gender = "FEMALE", nature = "calm", ability = "cutecharm", moveset = ["sing", "disarmingvoice", "encore", "charm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Idol Grace is ready for a battle.", "I’ll let you join my fan club if you can beat me!", "Well, that’s me and my Pokémon! Thank you for being such a fan! Just so you know, our latest single is “Jigglin’ Pokémon Wub”!", "I have trained this team for the road. Challenge me if you are ready."]

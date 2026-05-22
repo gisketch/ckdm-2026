@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_swimmer_erica",
+  "name": "Swimmer Female Erica",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:finneon",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The human body floats more easily in the sea, so it\u2019s easy to swim!",
+    "I\u2019ve got that sinking feeling..."
+  ]
+}

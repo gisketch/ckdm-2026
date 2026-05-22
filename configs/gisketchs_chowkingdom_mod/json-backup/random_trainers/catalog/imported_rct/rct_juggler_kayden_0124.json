@@ -1,0 +1,33 @@
+{
+  "id": "rct_juggler_kayden_0124",
+  "name": "Juggler Kayden",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "salazzle",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "corrosion",
+      "moveset": [
+        "venoshock",
+        "flamethrower",
+        "venomdrench",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

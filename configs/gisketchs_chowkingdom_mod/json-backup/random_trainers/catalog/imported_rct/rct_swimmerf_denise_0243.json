@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerf_denise_0243",
+  "name": "Swimmer♀ Denise",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "chinchou",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "paraboliccharge",
+        "aquaring",
+        "hydropump",
+        "iondeluge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lanturn",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "voltabsorb",
+      "moveset": [
+        "signalbeam",
+        "scald",
+        "discharge",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

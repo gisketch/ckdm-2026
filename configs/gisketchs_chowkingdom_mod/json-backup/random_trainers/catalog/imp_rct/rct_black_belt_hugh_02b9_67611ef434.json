@@ -1,0 +1,60 @@
+{
+  "id": "rct_black_belt_hugh_02b9",
+  "name": "Black Belt Hugh",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "guts",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "guts",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

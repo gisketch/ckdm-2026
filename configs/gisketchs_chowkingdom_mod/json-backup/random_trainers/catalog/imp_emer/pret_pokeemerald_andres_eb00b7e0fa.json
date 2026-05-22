@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_andres_2",
+  "name": "Ruin Maniac Andres",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "ruin_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:sandshrew",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandshrew",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ruin Maniac Andres is ready for a battle."
+  ]
+}

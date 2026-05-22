@@ -1,0 +1,104 @@
+{
+  "id": "pret_pokefirered_cooltrainer_michelle",
+  "name": "Cooltrainer Michelle",
+  "title": "Cooltrainer",
+  "gender": "any",
+  "archetype": "cooltrainer",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "cooltrainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "slash",
+        "screech",
+        "feintattack",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dewgong",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icebeam",
+        "takedown",
+        "icywind",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninetales",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flamethrower",
+        "confuseray",
+        "willowisp",
+        "grudge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bounce",
+        "agility",
+        "firespin",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "crunch",
+        "psybeam",
+        "stomp",
+        "odorsleuth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainer Michelle is ready for a battle."
+  ]
+}

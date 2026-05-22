@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0452_hiker_parry",
+  "name": "Hiker Parry",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:steelix",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker Parry is ready for a battle."
+  ]
+}

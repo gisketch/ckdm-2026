@@ -1,0 +1,33 @@
+{
+  "id": "rct_scientist_darrius_0575",
+  "name": "Scientist Darrius",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "reflect",
+        "psyshock",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

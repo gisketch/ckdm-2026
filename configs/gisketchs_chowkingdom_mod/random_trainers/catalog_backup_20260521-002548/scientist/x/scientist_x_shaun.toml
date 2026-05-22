@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_shaun"
+name = "Scientist Shaun"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:alakazam", level = 53, gender = "MALE", nature = "timid", ability = "innerfocus", moveset = ["kinesis", "teleport", "reflect", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 53, gender = "MALE", nature = "timid", ability = "synchronize", moveset = ["disable", "recover", "futuresight", "calmmind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Oh? Here comes a nice-looking Trainer. This is worth evaluation.", "A huge variety of Pokémon live in the Great Marsh. You see, countless years ago, this whole area was under the sea.", "Scientist Shaun is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

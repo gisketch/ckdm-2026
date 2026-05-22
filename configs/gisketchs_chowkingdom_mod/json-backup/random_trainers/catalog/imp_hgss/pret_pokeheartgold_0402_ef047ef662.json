@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0402_picnicker_tiffany",
+  "name": "Picnicker Tiffany",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "encore",
+        "sing",
+        "doubleslap",
+        "minimize"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you going to Lake of Rage, too? Let\u2019s play for a little while!",
+    "I\u2019m having a picnic with Pok\u00e9mon. Won\u2019t you join us?"
+  ]
+}

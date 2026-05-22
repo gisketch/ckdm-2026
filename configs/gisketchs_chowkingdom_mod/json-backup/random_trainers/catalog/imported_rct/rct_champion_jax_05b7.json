@@ -1,0 +1,113 @@
+{
+  "id": "rct_champion_jax_05b7",
+  "name": "Champion Jax",
+  "title": "Champion",
+  "gender": "any",
+  "archetype": "champion",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 74,
+  "maxLevel": 76,
+  "team": [
+    {
+      "species": "salamence",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "aerilate",
+      "moveset": [
+        "dracometeor",
+        "doubleedge",
+        "rockslide",
+        "tailwind"
+      ],
+      "heldItem": "mega_showdown:salamencite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmontop",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "fakeout",
+        "helpinghand",
+        "wideguard"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magnezone",
+      "level": 75,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "voltswitch",
+        "protect"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "stormdrain",
+      "moveset": [
+        "muddywater",
+        "earthpower",
+        "icywind",
+        "protect"
+      ],
+      "heldItem": "rindo_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "naganadel",
+      "level": 76,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "beastboost",
+      "moveset": [
+        "sludgebomb",
+        "dragonpulse",
+        "heatwave",
+        "protect"
+      ],
+      "heldItem": "yache_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pyroar",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "grimneigh",
+      "moveset": [
+        "heatwave",
+        "hypervoice",
+        "scorchingsands",
+        "protect"
+      ],
+      "heldItem": "fire_gem",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

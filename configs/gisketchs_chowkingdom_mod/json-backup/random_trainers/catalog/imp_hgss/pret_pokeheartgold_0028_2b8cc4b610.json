@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0028_ace_trainer_male_jake",
+  "name": "Ace Trainer Male Jake",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:parasect",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "leechlife",
+        "spore",
+        "slash",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "screech",
+        "waterpulse",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vaporeon",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bite",
+        "quickattack",
+        "sandattack",
+        "surf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m making my final preparations for the Pok\u00e9mon League.",
+    "It\u2019s going to be tough to win at the League. I need to do some more training. I hear that the League\u2019s Elite Four are tougher than Gym Leaders."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_sally"
+name = "Lass Sally"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 12
+maxLevel = 13
+team = [
+  { species = "cobblemon:pansear", level = 12, gender = "FEMALE", nature = "timid", ability = "gluttony", moveset = ["playnice", "leer", "lick", "incinerate"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:flabebe", level = 13, gender = "FEMALE", nature = "rash", ability = "naturalcure", moveset = ["tackle", "vinewhip", "fairywind", "luckychant"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Sally is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

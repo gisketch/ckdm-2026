@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_tori_0441",
+  "name": "Picnicker Tori",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:silcoon",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beautifly",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "stringshot",
+        "gust",
+        "absorb",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

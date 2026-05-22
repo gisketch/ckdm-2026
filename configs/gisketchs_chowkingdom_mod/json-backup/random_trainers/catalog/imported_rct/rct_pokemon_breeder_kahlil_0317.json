@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_breeder_kahlil_0317",
+  "name": "Pokémon Breeder Kahlil",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "pichu",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "quickattack",
+        "doubleteam",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "happiny",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "serenegrace",
+      "moveset": [
+        "minimize",
+        "sweetkiss",
+        "disarmingvoice",
+        "covet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

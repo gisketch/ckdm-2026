@@ -1,0 +1,49 @@
+{
+  "id": "rct_biker_goon_020f",
+  "name": "Biker Goon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "overqwil",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "knockoff",
+        "gunkshot",
+        "waterfall",
+        "thunderwave"
+      ],
+      "heldItem": "dark_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dusknoir",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "shadowpunch",
+        "dynamicpunch",
+        "shadowsneak",
+        "icepunch"
+      ],
+      "heldItem": "reaper_cloth",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

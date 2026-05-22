@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_reli_007a",
+  "name": "Lass Reli",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "petilil",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "chlorophyll",
+      "moveset": [
+        "leechseed",
+        "sleeppowder",
+        "megadrain",
+        "synthesis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gossifleur",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "cottondown",
+      "moveset": [
+        "rapidspin",
+        "sweetscent",
+        "razorleaf",
+        "round"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

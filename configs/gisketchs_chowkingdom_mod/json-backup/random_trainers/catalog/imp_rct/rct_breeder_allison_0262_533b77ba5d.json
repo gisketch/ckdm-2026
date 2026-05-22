@@ -1,0 +1,72 @@
+{
+  "id": "rct_breeder_allison_0262",
+  "name": "Breeder Allison",
+  "title": "Breeder",
+  "gender": "any",
+  "archetype": "breeder",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "breeder/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "magicguard",
+      "moveset": [
+        "luckychant",
+        "bodyslam",
+        "softboiled",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clefairy",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "magicguard",
+      "moveset": [
+        "luckychant",
+        "bodyslam",
+        "softboiled",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clefable",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "sing",
+        "doubleslap",
+        "metronome",
+        "teleport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

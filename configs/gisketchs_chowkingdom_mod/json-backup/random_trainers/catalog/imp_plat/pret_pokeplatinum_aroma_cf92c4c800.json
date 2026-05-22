@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_aroma_lady_hannah",
+  "name": "Aroma Lady Hannah",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:combee",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Oh, you want to have a battle? I was meaning to enter a Contest, but beating you won\u2019t take long...",
+    "You and your Pok\u00e9mon have so much energy. I think you would do well in Contests, too."
+  ]
+}

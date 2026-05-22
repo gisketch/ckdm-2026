@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_dawn_jubilife_city_turtwig",
+  "name": "Dp Player Female Dawn",
+  "title": "Dp Player Female",
+  "gender": "female",
+  "archetype": "dp_player_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dp_player_female/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "cobblemon:piplup",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubble",
+        "pound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Dp Player Female Dawn is ready for a battle."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_f_aya"
+name = "Bird Keeper Aya"
+title = "Bird Keeper"
+gender = "female"
+archetype = "bird_keeper"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "bird_keeper/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = "standard"
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:farfetchd", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:fearow", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Birdkeeper from Unused is ready for a battle."]

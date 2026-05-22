@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeheartgold_0693_scientist_gs_linden",
+  "name": "Scientist Gs Linden",
+  "title": "Scientist Gs",
+  "gender": "any",
+  "archetype": "scientist_gs",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "scientist_gs/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:magmar",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "overheat",
+        "firepunch",
+        "confuseray",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Scientist Gs Linden is ready for a battle."
+  ]
+}

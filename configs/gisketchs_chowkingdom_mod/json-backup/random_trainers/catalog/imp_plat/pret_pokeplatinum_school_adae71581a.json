@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_school_kid_forrest",
+  "name": "School Kid Male Forrest",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:magneton",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "triattack",
+        "mirrorshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "This is the toughest Gym in Sinnoh. That\u2019s why I\u2019m here--to learn the best battle techniques around!",
+    "You just showed me that there\u2019s still lots I need to learn. The world of Pok\u00e9mon is deep!"
+  ]
+}

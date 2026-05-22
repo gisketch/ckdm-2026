@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0211_sailor_huey",
+  "name": "Sailor Huey",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:poliwag",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Men of the sea are always spoiling for a good fight!",
+    "What power! How would you like to sail the seas with me?"
+  ]
+}

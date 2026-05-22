@@ -1,0 +1,56 @@
+{
+  "id": "rct_cyclist_john_04f3",
+  "name": "Cyclist John",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "cyclist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:staravia",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "growl",
+        "doubleteam",
+        "endeavor",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staravia",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

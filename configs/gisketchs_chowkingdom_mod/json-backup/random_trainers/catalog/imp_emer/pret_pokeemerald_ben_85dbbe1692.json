@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeemerald_ben",
+  "name": "Youngster Ben",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:zigzagoon",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "headbutt",
+        "sandattack",
+        "growl",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gulpin",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "amnesia",
+        "sludge",
+        "yawn",
+        "pound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Youngster Ben is ready for a battle."
+  ]
+}

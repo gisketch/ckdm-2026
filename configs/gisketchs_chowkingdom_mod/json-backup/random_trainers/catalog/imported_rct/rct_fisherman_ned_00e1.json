@@ -1,0 +1,65 @@
+{
+  "id": "rct_fisherman_ned_00e1",
+  "name": "Fisherman Ned",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "waterveil",
+      "moveset": [
+        "aquajet",
+        "aquaring",
+        "agility",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "poliwhirl",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "damp",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "bubblebeam",
+        "mudshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clamperl",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubble",
+        "whirlpool",
+        "irondefense",
+        "aurorabeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_lass_cassidy_0439",
+  "name": "Lass Cassidy",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "buneary",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "runaway",
+      "moveset": [
+        "pound",
+        "defensecurl",
+        "babydolleyes",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

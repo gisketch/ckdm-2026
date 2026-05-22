@@ -1,0 +1,72 @@
+{
+  "id": "rct_super_nerd_erik_00b1",
+  "name": "Super Nerd Erik",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "super_nerd/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 72,
+  "maxLevel": 73,
+  "team": [
+    {
+      "species": "cobblemon:ninetales",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "quickattack",
+        "confuseray",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "reckless",
+      "moveset": [
+        "fireblast",
+        "bounce",
+        "flareblitz",
+        "jumpkick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arcanine",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "intimidate",
+      "moveset": [
+        "firefang",
+        "flareblitz",
+        "helpinghand",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_commander_saturn_galactic_hq",
+  "name": "Commander Saturn Saturn",
+  "title": "Commander Saturn",
+  "gender": "any",
+  "archetype": "commander_saturn",
+  "region": "Sinnoh",
+  "category": "unique",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "commander_saturn/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "aircutter",
+        "bite",
+        "poisonfang",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzor",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "shadowball",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:toxicroak",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "poisonjab",
+        "brickbreak",
+        "xscissor",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Commander Saturn Saturn is ready for a battle."
+  ]
+}

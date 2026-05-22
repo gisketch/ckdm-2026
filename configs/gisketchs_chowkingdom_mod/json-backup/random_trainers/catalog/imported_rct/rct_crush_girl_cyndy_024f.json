@@ -1,0 +1,65 @@
+{
+  "id": "rct_crush_girl_cyndy_024f",
+  "name": "Crush Girl Cyndy",
+  "title": "Crush Girl",
+  "gender": "any",
+  "archetype": "crush_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "primeape",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "angerpoint",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmontop",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "technician",
+      "moveset": [
+        "agility",
+        "gyroball",
+        "wideguard",
+        "quickguard"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "noguard",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

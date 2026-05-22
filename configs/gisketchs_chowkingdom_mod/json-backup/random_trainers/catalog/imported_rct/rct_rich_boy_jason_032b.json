@@ -1,0 +1,33 @@
+{
+  "id": "rct_rich_boy_jason_032b",
+  "name": "Rich Boy Jason",
+  "title": "Rich Boy",
+  "gender": "any",
+  "archetype": "rich_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "charge",
+        "bite",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

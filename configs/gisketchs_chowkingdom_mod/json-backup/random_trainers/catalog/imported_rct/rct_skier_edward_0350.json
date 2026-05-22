@@ -1,0 +1,33 @@
+{
+  "id": "rct_skier_edward_0350",
+  "name": "Skier Edward",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "sneasel",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "leer",
+        "taunt",
+        "icywind",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

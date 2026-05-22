@@ -1,0 +1,81 @@
+{
+  "id": "rct_juggler_edward_0123",
+  "name": "Juggler Edward",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 46,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "voltorb",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "voltorb",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "careful",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrode",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "brave",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "spark",
+        "selfdestruct",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mrmime",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "psychic",
+        "roleplay",
+        "reflect",
+        "encore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

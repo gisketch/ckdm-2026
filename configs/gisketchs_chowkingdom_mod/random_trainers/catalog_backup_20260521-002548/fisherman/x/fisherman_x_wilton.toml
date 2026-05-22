@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_wilton"
+name = "Fisherman Wilton"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 42
+maxLevel = 63
+team = [
+  { species = "cobblemon:seaking", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 63, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Aack! You made me lose a POLIWAG! What are you going to do about it?", "That POLIWAG that got away... It was huge. I swear it must’ve been 82 feet long!", "Fisherman Wilton is ready for a battle."]

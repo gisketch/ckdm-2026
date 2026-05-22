@@ -1,0 +1,104 @@
+{
+  "id": "pret_pokeplatinum_riley_battleground",
+  "name": "Trainer Riley Riley",
+  "title": "Trainer Riley",
+  "gender": "any",
+  "archetype": "trainer_riley",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "trainer_riley/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 61,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:absol",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychocut",
+        "nightslash",
+        "swordsdance",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ursaring",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "avalanche",
+        "slash",
+        "aerialace",
+        "shadowclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:metagross",
+      "level": 62,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "meteormash",
+        "zenheadbutt",
+        "hammerarm",
+        "bulletpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:salamence",
+      "level": 63,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "dragonclaw",
+        "crunch",
+        "firefang",
+        "thunderfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lucario",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "extremespeed",
+        "closecombat",
+        "bonerush",
+        "blazekick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Trainer Riley Riley is ready for a battle."
+  ]
+}

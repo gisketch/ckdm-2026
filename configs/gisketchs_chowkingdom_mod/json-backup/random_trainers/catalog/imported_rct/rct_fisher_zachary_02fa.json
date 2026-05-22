@@ -1,0 +1,59 @@
+{
+  "id": "rct_fisher_zachary_02fa",
+  "name": "Fisher Zachary",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 10,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "magikarp",
+      "level": 10,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goldeen",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "supersonic",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magikarp",
+      "level": 10,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

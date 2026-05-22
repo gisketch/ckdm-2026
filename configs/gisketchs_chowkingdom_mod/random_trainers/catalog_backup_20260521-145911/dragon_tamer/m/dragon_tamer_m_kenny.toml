@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_m_kenny"
+name = "Dragon Tamer Kenny"
+title = "Dragon Tamer"
+gender = "male"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:bagon", level = 57, gender = "MALE", nature = "serious", ability = "rockhead", moveset = ["doubleedge", "outrage", "zenheadbutt", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shelgon", level = 59, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["dragonclaw", "headbutt", "crunch", "dragonbreath"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Are you seeking the mythical Pokémon, too? Let’s battle, then!", "The mythical Pokémon that sleeps deep in a volcano... Could it be a dragon Pokémon?", "I have trained this team for the road. Challenge me if you are ready."]

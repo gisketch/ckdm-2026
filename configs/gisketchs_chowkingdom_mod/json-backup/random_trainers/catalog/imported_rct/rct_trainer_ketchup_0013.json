@@ -1,0 +1,115 @@
+{
+  "id": "rct_trainer_ketchup_0013",
+  "name": "Trainer Ketchup",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cloyster",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "shellsmash",
+        "iciclespear",
+        "liquidation",
+        "explosion"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chandelure",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shadowtag",
+      "moveset": [
+        "flamethrower",
+        "shadowball",
+        "energyball",
+        "psychic"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ampharos",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "paraboliccharge",
+        "dragonpulse",
+        "focusblast",
+        "voltswitch"
+      ],
+      "heldItem": "mega_showdown:ampharosite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tapubulu",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "grassysurge",
+      "moveset": [
+        "woodhammer",
+        "hornleech",
+        "closecombat",
+        "playrough"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "urshifu",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unseenfist",
+      "moveset": [
+        "wickedblow",
+        "closecombat",
+        "poisonjab",
+        "uturn"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "urshifu",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unseenfist",
+      "moveset": [
+        "surgingstrikes",
+        "aquajet",
+        "closecombat",
+        "thunderpunch"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": [
+        "rapid_strike"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

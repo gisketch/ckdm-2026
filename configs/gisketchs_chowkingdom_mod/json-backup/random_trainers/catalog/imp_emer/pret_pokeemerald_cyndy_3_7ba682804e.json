@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_cyndy_3",
+  "name": "Battle Girl Cyndy",
+  "title": "Battle Girl",
+  "gender": "female",
+  "archetype": "battle_girl",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "battle_girl/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:meditite",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:makuhita",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Battle Girl Cyndy is ready for a battle."
+  ]
+}

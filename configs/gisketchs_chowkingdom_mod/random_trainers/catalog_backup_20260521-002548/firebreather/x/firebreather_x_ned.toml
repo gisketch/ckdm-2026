@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "firebreather_x_ned"
+name = "Firebreather Ned"
+title = "Firebreather"
+gender = "any"
+archetype = "firebreather"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "firebreather/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 16
+maxLevel = 17
+team = [
+  { species = "cobblemon:koffing", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:growlithe", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Firebreather Ned is ready for a battle.", "Don’t worry! We fire-breathers know the true power of fire better than anyone!", "The reason this tower’s burned is that it was hit by lightning. The fire I’m breathing is tiny in comparison..."]

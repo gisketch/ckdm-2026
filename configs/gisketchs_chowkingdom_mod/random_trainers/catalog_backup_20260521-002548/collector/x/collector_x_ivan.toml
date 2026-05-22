@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_x_ivan"
+name = "Collector Ivan"
+title = "Collector"
+gender = "any"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 51
+maxLevel = 53
+team = [
+  { species = "cobblemon:hippopotas", level = 51, gender = "MALE", nature = "impish", ability = "sandstream", moveset = ["yawn", "sandtomb", "crunch", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hippopotas", level = 53, gender = "MALE", nature = "jolly", ability = "sandstream", moveset = ["crunch", "doubleedge", "fissure", "slackoff"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hippopotas", level = 52, gender = "FEMALE", nature = "jolly", ability = "sandstream", moveset = ["crunch", "doubleedge", "earthquake", "slackoff"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Collector Ivan is ready for a battle.", "Are you going to the Pal Park, too? For you, I’m willing to show off my prized Pokémon!", "Pal Park, huh? I wonder what kinds of Pokémon you can see there?", "I have trained this team for the road. Challenge me if you are ready."]

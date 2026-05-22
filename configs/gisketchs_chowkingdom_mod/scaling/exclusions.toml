@@ -1,0 +1,26 @@
+# Chow Kingdom config: exclusions.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: exclude_players.
+exclude_players = true
+# Config value: exclude_npcs.
+exclude_npcs = true
+# Config value: exclude_vendor_sellers.
+exclude_vendor_sellers = true
+# Config value: exclude_passive_non_bosses.
+exclude_passive_non_bosses = true
+# Config value: exclude_tamed.
+exclude_tamed = true
+# Config value: exclude_owned.
+exclude_owned = true
+# Config value: exclude_cobblemon.
+exclude_cobblemon = true
+# Config value: entity_ids.
+entity_ids = []
+# Config value: entity_tags.
+entity_tags = []
+# Config value: namespaces.
+namespaces = ["cobblemon"]
+# Config value: class_name_contains.
+class_name_contains = ["PokemonEntity", "ChowNpcEntity"]
+# Config value: persistent_data_keys.
+persistent_data_keys = []

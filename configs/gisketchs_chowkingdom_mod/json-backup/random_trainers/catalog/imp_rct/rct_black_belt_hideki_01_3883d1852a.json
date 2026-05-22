@@ -1,0 +1,60 @@
+{
+  "id": "rct_black_belt_hideki_013f",
+  "name": "Black Belt Hideki",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:conkeldurr",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "guts",
+      "moveset": [
+        "rockslide",
+        "dynamicpunch",
+        "scaryface",
+        "hammerarm"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:breloom",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "forcepalm",
+        "mindreader",
+        "skyuppercut",
+        "seedbomb"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

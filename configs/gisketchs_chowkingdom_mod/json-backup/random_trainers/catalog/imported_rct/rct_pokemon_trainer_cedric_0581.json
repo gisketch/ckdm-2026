@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0581",
+  "name": "Pokémon Trainer Cedric",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "pluck",
+        "steelwing",
+        "uturn"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "floatzel",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "swift",
+        "waterfall"
+      ],
+      "heldItem": "quick_claw",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "megahorn",
+        "swordsdance",
+        "rockslide",
+        "closecombat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "grassyterrain",
+        "gigadrain",
+        "toxic",
+        "sludgebomb"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "covet",
+        "yawn",
+        "crunch",
+        "hammerarm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "infernape",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "flareblitz",
+        "uturn",
+        "shadowclaw"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

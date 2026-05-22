@@ -1,0 +1,33 @@
+{
+  "id": "rct_aroma_lady_elizabeth_04dd",
+  "name": "Aroma Lady Elizabeth",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "roselia",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "leechseed",
+        "gigadrain",
+        "toxic",
+        "petalblizzard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_swimmerf_abigail_0224",
+  "name": "Swimmer♀ Abigail",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "azumarill",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "waterfall",
+        "playrough",
+        "superpower",
+        "aquajet"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "octillery",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "megalauncher",
+      "moveset": [
+        "snipeshot",
+        "aurasphere",
+        "icebeam",
+        "flamethrower"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golisopod",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "emergencyexit",
+      "moveset": [
+        "firstimpression",
+        "liquidation",
+        "knockoff",
+        "closecombat"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wishiwashi",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "schooling",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "uturn",
+        "earthquake"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

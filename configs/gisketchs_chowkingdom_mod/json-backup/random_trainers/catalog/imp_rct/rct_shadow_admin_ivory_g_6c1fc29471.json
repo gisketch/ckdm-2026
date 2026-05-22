@@ -1,0 +1,106 @@
+{
+  "id": "rct_shadow_admin_ivory_grunt_m00f",
+  "name": "Shadow Admin Ivory & Grunt",
+  "title": "Shadow Admin Ivory &",
+  "gender": "any",
+  "archetype": "shadow_admin_ivory",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "shadow_admin_ivory/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:incineroar",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "blaze",
+      "moveset": [
+        "firepunch",
+        "darkestlariat",
+        "thunderpunch",
+        "drainpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meowstic",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "prankster",
+      "moveset": [
+        "psyshock",
+        "helpinghand",
+        "reflect",
+        "psychicterrain"
+      ],
+      "heldItem": [
+        "terrain_extender"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mismagius",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "magicbounce",
+      "moveset": [
+        "ominouswind",
+        "mysticalfire",
+        "powergem",
+        "destinybond"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:oranguru",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "zenheadbutt",
+        "instruct",
+        "lightscreen",
+        "psychicterrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "psyshock",
+        "shadowball",
+        "dazzlinggleam",
+        "chargebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

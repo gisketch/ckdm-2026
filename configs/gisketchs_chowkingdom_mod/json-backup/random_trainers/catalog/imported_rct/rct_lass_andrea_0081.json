@@ -1,0 +1,67 @@
+{
+  "id": "rct_lass_andrea_0081",
+  "name": "Lass Andrea",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 36,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "meowth",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "pickup",
+      "moveset": [
+        "taunt",
+        "shockwave",
+        "payday",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meowth",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "pickup",
+      "moveset": [
+        "feintattack",
+        "taunt",
+        "payday",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cutiefly",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "sweetscent",
+        "bugbuzz",
+        "dazzlinggleam",
+        "aromatherapy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

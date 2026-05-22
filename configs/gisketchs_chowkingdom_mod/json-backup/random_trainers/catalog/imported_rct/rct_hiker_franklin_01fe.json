@@ -1,0 +1,49 @@
+{
+  "id": "rct_hiker_franklin_01fe",
+  "name": "Hiker Franklin",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "guts",
+      "moveset": [
+        "seismictoss",
+        "revenge",
+        "knockoff",
+        "vitalthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "graveler",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "rockthrow",
+        "smackdown",
+        "bulldoze",
+        "selfdestruct"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

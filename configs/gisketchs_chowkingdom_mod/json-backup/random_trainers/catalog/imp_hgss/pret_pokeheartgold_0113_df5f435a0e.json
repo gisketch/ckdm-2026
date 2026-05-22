@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0113_ace_trainer_female_jamie",
+  "name": "Ace Trainer Female Jamie",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 31,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:rapidash",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "stomp",
+        "firespin",
+        "willowisp",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flaaffy",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "cottonspore",
+        "thunderwave",
+        "charge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I lost to a redheaded Trainer. He was really strong, but...it was as if he absolutely had to win at any cost. I felt sorry for his Pok\u00e9mon.",
+    "Pok\u00e9mon are invaluable, lifelong partners."
+  ]
+}

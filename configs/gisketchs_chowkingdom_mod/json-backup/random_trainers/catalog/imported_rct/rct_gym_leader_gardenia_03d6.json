@@ -1,0 +1,65 @@
+{
+  "id": "rct_gym_leader_gardenia_03d6",
+  "name": "Gym Leader Gardenia",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cherubi",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "grassknot",
+        "growth",
+        "dazzlinggleam",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "turtwig",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "shellarmor",
+      "moveset": [
+        "grassknot",
+        "razorleaf",
+        "reflect",
+        "workup"
+      ],
+      "heldItem": "miracle_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "technician",
+      "moveset": [
+        "grassknot",
+        "petalblizzard",
+        "poisonsting",
+        "stunspore"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

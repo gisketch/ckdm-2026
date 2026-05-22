@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_jack"
+name = "Bug Catcher Jack"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 11
+maxLevel = 15
+team = [
+  { species = "cobblemon:wurmple", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "stringshot", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:silcoon", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "stringshot", "poisonsting", "harden"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "poisonsting", "absorb", "gust"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What’s cool, you might ask? No? I’ll tell you anyway: bug Pokémon!", "It would seem that coolness alone doesn’t add up to any wins...", "I have trained this team for the road. Challenge me if you are ready."]

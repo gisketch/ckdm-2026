@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "twin_x_tia"
+name = "Twin Tia"
+title = "Twin"
+gender = "any"
+archetype = "twin"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "twin/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:clefable", level = 60, gender = "FEMALE", nature = "timid", ability = "magicguard", moveset = ["lifedew", "followme", "cosmicpower", "moonblast"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

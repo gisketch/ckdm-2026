@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_605",
+  "name": "Veteran Mickey",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Veteran Mickey is ready for a battle."
+  ]
+}

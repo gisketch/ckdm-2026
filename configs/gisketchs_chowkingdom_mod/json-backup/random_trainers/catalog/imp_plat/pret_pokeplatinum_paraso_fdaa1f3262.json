@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_parasol_lady_sabrina",
+  "name": "Parasol Lady Sabrina",
+  "title": "Parasol Lady",
+  "gender": "female",
+  "archetype": "parasol_lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "parasol_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:wooper",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:quagsire",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When it rains, I get more tense!",
+    "If it rained every day, I could have my umbrella open all the time."
+  ]
+}

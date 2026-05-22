@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_brian"
+name = "Ace Trainer Brian"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.03
+bustStyle = ""
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:sandslash", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["sandattack", "poisonsting", "slash", "swift"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Brian is ready for a battle.", "Hm? You’re good, aren’t you?", "A good Trainer can recognize other good Trainers."]

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_liz"
+name = "Picnicker Liz"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 30
+maxLevel = 32
+team = [
+  { species = "cobblemon:weepinbell", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["sleeppowder", "poisonpowder", "stunspore", "sludgebomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoking", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "doublekick", "poisonsting", "irontail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoqueen", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "doublekick", "tailwhip", "bodyslam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Liz is ready for a battle.", "Uh-huh. Yeah, and you know... Pardon? Pokémon battle? I’m on the phone. Oh, all right. I’ll accept your challenge!", "At least I can complain over the phone."]

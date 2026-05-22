@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_audrey"
+name = "Bird Keeper Audrey"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 59
+maxLevel = 59
+team = [
+  { species = "cobblemon:farfetchd", level = 59, gender = "MALE", nature = "jolly", ability = "innerfocus", moveset = ["slash", "falseswipe", "knockoff", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:swellow", level = 59, gender = "MALE", nature = "jolly", ability = "guts", moveset = ["quickattack", "endeavor", "bravebird", "agility"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I let my bird Pokémon carry me to wherever. And so, here I am!", "I was born in the Hoenn region. I’ve only just recently flown here.", "Bird Keeper Audrey is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

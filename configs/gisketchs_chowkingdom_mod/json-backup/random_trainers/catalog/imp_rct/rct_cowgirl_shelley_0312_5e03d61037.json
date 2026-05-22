@@ -1,0 +1,104 @@
+{
+  "id": "rct_cowgirl_shelley_0312",
+  "name": "Cowgirl Shelley",
+  "title": "Cowgirl",
+  "gender": "female",
+  "archetype": "cowgirl",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "cowgirl/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.97,
+  "weight": 0.94,
+  "bustStyle": "standard",
+  "minLevel": 14,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:bidoof",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bidoof",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bidoof",
+      "level": 16,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bidoof",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bidoof",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "growl",
+        "defensecurl",
+        "rollout",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

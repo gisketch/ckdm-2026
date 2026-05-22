@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_m_taylor"
+name = "Ranger Taylor"
+title = "Ranger"
+gender = "male"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.15
+bustStyle = ""
+minLevel = 58
+maxLevel = 62
+team = [
+  { species = "cobblemon:carnivine", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:luxray", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dewgong", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ranger Male Taylor is ready for a battle.", "Hi, Trainer! Can you keep up with me?", "Even if a battle gets heated, don’t break branches off trees or anything."]

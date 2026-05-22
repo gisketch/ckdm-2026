@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "clown_x_lee"
+name = "Clown Lee"
+title = "Clown"
+gender = "any"
+archetype = "clown"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "clown/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:mrmime", level = 17, gender = "FEMALE", nature = "sassy", ability = "filter", moveset = ["powerswap", "pound", "encore", "confusion"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Clown Lee is ready for a battle.", "Are we all ready to have some fun? I sure am! Aren’t you having fun?! Let’s make it fun! OK?! Mwahahah!", "A clown’s makeup is a face that’s crying while laughing. Mwahahah! It defines what we do!", "I have trained this team for the road. Challenge me if you are ready."]

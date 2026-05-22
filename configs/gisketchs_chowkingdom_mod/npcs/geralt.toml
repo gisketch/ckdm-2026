@@ -18,9 +18,9 @@ npc_interaction_messages = ["Trading monster signs with {other}.", "Asking {othe
 work_blocks = [
   { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
   { id = "minecraft:grindstone", count = 1, display_name = "grindstone" },
-  { id = "minecraft:barrel", count = 2, display_name = "supply barrels" },
   { id = "minecraft:campfire", count = 1, display_name = "campfire" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "supplementaries:notice_board", count = 1, display_name = "contract board" },
+  { id = "supplementaries:jar", count = 1, display_name = "potion jar" },
 ]
 
 [boss]
@@ -167,4 +167,6 @@ pool = [
   { id = "geralt_food_beef_stew", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Beef Stew And Bring It Back", quest_text = "Cook beef stew after I ask. Contracts go badly hungry.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:beef_stew", fetch_count = 1, filters = { item = "farmersdelight:beef_stew" }, weight = 10 },
   { id = "geralt_fetch_ender_pearls", category = "fetch", event_desc = "Bring {goal} Ender Pearls", quest_text = "Bring ender pearls. Risky materials, useful work.", pass_id = "cozy", xp = 120, chowcoins = 75, fetch_item = "minecraft:ender_pearl", fetch_count = 2, weight = 4 },
   { id = "geralt_quiz_witcher_monsters_and_contract_discipline", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Geralt's contract quiz. Short answers preferred.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "witcher monsters and contract discipline", weight = 10 },
+  { id = "geralt_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Geralt", quest_text = "Geralt has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "geralt_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Geralt", quest_text = "Geralt wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

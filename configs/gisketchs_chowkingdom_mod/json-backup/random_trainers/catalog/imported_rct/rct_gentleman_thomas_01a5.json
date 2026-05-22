@@ -1,0 +1,49 @@
+{
+  "id": "rct_gentleman_thomas_01a5",
+  "name": "Gentleman Thomas",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "litleo",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "rivalry",
+      "moveset": [
+        "headbutt",
+        "nobleroar",
+        "takedown",
+        "firefang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

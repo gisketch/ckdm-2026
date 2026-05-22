@@ -1,0 +1,97 @@
+{
+  "id": "rct_biker_ernest_00c5",
+  "name": "Biker Ernest",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "weezing",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "explosion",
+        "smog",
+        "painsplit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weezing",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "willowisp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weezing",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "thunderbolt",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "salazzle",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "corrosion",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "minimize",
+        "sludgebomb",
+        "shadowball",
+        "destinybond"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ninja_boy_ethan",
+  "name": "Ninja Boy Ethan",
+  "title": "Ninja Boy",
+  "gender": "male",
+  "archetype": "ninja_boy",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ninja_boy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:skorupi",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "There are several clans of ninjas. Are you from the Iga clan? Or Kouga?",
+    "I wonder why everyone stops being a ninja when they grow up?"
+  ]
+}

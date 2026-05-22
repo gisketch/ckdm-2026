@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_marcos"
+name = "Hiker Marcos"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 14
+maxLevel = 16
+team = [
+  { species = "cobblemon:geodude", level = 14, gender = "FEMALE", nature = "gentle", ability = "rockhead", moveset = ["mudsport", "rockpolish", "rollout", "magnitude"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drilbur", level = 16, gender = "FEMALE", nature = "jolly", ability = "sandrush", moveset = ["rapidspin", "mudslap", "furyswipes", "metalclaw"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nosepass", level = 15, gender = "MALE", nature = "bold", ability = "sturdy", moveset = ["harden", "block", "bulldoze", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Marcos is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

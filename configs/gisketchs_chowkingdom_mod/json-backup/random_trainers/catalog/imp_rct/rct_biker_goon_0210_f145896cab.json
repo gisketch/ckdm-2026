@@ -1,0 +1,79 @@
+{
+  "id": "rct_biker_goon_0210",
+  "name": "Biker Goon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 90,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "cobblemon:grimmsnarl",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "thunderwave",
+        "spiritbreak"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flygon",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "tintedlens",
+      "moveset": [
+        "headlongrush",
+        "dragonclaw",
+        "uturn",
+        "firepunch"
+      ],
+      "heldItem": [
+        "mega_showdown:groundium_z",
+        "ground_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kleavor",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "accelerock",
+        "uturn",
+        "closecombat",
+        "stoneedge"
+      ],
+      "heldItem": [
+        "rock_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

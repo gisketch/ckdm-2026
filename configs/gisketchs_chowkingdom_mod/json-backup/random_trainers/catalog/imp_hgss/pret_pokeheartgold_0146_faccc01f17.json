@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0146_hiker_timothy",
+  "name": "Hiker Timothy",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:diglett",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthpower",
+        "dig",
+        "sandattack",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthpower",
+        "dig",
+        "sandattack",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Why do I climb mountains? Because they\u2019re there. Why do I train Pok\u00e9mon? Because they\u2019re there!",
+    "The best thing ever to happen to me was discovering Pok\u00e9mon."
+  ]
+}

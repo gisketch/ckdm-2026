@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_franklin"
+name = "Psychic Franklin"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold;pret_pokecrystal"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 44
+maxLevel = 47
+team = [
+  { species = "cobblemon:kadabra", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = ["headbutt", "skillswap", "psychic", "disable"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:girafarig", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["crunch", "skillswap", "doublehit", "psychic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic power is the power of your mind.", "You made your mind stronger, not just your abilities.", "Psychic Franklin is ready for a battle."]

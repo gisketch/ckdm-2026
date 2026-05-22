@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_mt_coronet_5f_2",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 40,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:houndour",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:glameow",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "...Our boss is going to do something huge at the summit. But here I am dealing with some pesky intruder. You\u2019re spoiling the atmosphere. You can lose quickly, right?",
+    "All my excitement\u2019s gone now... This whole Mt. Coronet trip is too rough, long, and draining..."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0132_poke_maniac_ron",
+  "name": "Poke Maniac Ron",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:nidoking",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Would you get this? Some red-haired kid made fun of my precious Pok\u00e9mon! Humph! My Pok\u00e9mon\u2019s great!",
+    "It\u2019s OK for people to like different types of Pok\u00e9mon. Pok\u00e9mon isn\u2019t just about having the most powerful one."
+  ]
+}

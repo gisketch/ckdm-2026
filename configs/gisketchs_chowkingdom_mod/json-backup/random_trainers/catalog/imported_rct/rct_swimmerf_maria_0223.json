@@ -1,0 +1,83 @@
+{
+  "id": "rct_swimmerf_maria_0223",
+  "name": "Swimmer♀ Maria",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "inteleon",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sniper",
+      "moveset": [
+        "snipeshot",
+        "icebeam",
+        "uturn",
+        "hiddenpower"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragalge",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "adaptability",
+      "moveset": [
+        "dracometeor",
+        "sludgewave",
+        "flipturn",
+        "scald"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "illuminate",
+      "moveset": [
+        "hydropump",
+        "thunder",
+        "blizzard",
+        "psyshock"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "basculegion",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "adaptability",
+      "moveset": [
+        "hydropump",
+        "shadowball",
+        "icebeam",
+        "flipturn"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": [
+        "f"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

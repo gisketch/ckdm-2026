@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_lass_005",
+  "name": "Lass Opal",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:oddish",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass from Mt. Moon 1F is ready for a battle."
+  ]
+}

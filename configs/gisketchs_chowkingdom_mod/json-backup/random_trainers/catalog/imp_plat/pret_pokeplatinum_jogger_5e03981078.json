@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_jogger_richard",
+  "name": "Jogger Richard",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "jogger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:luxio",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I jog every morning to keep my Pok\u00e9mon fit.",
+    "Nothing beats being fit and healthy! Come on, won\u2019t you run with me? To a better tomorrow!"
+  ]
+}

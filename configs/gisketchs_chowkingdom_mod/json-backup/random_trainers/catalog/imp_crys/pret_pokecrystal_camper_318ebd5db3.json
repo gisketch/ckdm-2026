@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_camper_002_todd",
+  "name": "Camper Todd",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:psyduck",
+      "level": 14,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Camper Todd is ready for a battle."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_gaven"
+name = "Ace Trainer Gaven"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 49
+maxLevel = 52
+team = [
+  { species = "cobblemon:victreebel", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leafstorm", "toxic", "acid", "leafblade"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kingler", level = 49, gender = "GENDERLESS", nature = "", ability = "", moveset = ["brine", "crabhammer", "xscissor", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:flareon", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["overheat", "quickattack", "willowisp", "attract"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Gaven is ready for a battle.", "By experiencing tough battles, you gain power.", "To get to the Pokémon League, you have to get through Victory Road. But Victory Road is tough. Practically nobody goes there!", "Ace Trainer Male Gaven is ready for a battle."]

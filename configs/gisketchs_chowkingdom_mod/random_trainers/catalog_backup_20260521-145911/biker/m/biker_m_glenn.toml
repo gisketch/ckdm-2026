@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_glenn"
+name = "Biker Glenn"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "mid"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 39
+maxLevel = 43
+team = [
+  { species = "cobblemon:koffing", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magmar", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Glenn is ready for a battle.", "Hey! Want to have a speed battle?", "Hands-free riding is considered cool on Cycling Road."]

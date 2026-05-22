@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ninja_boy_m_nick"
+name = "Ninja Boy Nick"
+title = "Ninja Boy"
+gender = "male"
+archetype = "ninja_boy"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ninja_boy/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:skorupi", level = 27, gender = "FEMALE", nature = "naive", ability = "battlearmor", moveset = ["honeclaws", "poisonfang", "bugbite", "knockoff"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golbat", level = 27, gender = "MALE", nature = "hasty", ability = "innerfocus", moveset = ["screech", "absorb", "poisonfang", "aircutter"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Speed is a ninja’s best weapon! Can you keep up?", "I’ll wait here for a weaker-looking Trainer and then ambush them!", "I have trained this team for the road. Challenge me if you are ready."]

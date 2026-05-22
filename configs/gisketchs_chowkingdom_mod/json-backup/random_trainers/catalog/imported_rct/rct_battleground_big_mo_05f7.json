@@ -1,0 +1,113 @@
+{
+  "id": "rct_battleground_big_mo_05f7",
+  "name": "Battleground Big Mo",
+  "title": "Battleground Big",
+  "gender": "any",
+  "archetype": "battleground_big",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "mudsdale",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "stamina",
+      "moveset": [
+        "earthquake",
+        "bodypress",
+        "smackdown",
+        "roar"
+      ],
+      "heldItem": "rocky_helmet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wailord",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "waterveil",
+      "moveset": [
+        "waterspout",
+        "surf",
+        "icebeam",
+        "toxic"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hariyama",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "stormthrow",
+        "knockoff",
+        "icepunch",
+        "facade"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "return",
+        "darkestlariat",
+        "earthquake",
+        "firepunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "filter",
+      "moveset": [
+        "ironhead",
+        "bodypress",
+        "roar",
+        "curse"
+      ],
+      "heldItem": "mega_showdown:aggronite iron_ball",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "guzzlord",
+      "level": 82,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "beastboost",
+      "moveset": [
+        "darkpulse",
+        "chatter",
+        "flamethrower",
+        "sludgewave"
+      ],
+      "heldItem": "mega_showdown:darkinium_z dark_gem",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

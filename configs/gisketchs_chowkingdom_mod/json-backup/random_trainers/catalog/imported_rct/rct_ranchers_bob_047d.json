@@ -1,0 +1,33 @@
+{
+  "id": "rct_ranchers_bob_047d",
+  "name": "Ranchers Bob",
+  "title": "Ranchers",
+  "gender": "any",
+  "archetype": "ranchers",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "buizel",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "watergun",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

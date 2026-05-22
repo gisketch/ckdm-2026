@@ -1,0 +1,40 @@
+{
+  "id": "rct_scientist_emilio_048e",
+  "name": "Scientist Emilio",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "psybeam",
+        "reflect",
+        "allyswitch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

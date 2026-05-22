@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmer_shelton_033a",
+  "name": "Swimmer Shelton",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "whirlpool",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "brine",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "waterfall",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

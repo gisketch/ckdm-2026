@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0493_medium_edith",
+  "name": "Medium Edith",
+  "title": "Medium",
+  "gender": "any",
+  "archetype": "medium",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "medium/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:haunter",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I spent the spring with my Pok\u00e9mon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.",
+    "Where did Pok\u00e9mon come from?"
+  ]
+}

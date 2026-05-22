@@ -1,0 +1,133 @@
+{
+  "id": "rct_leader_jasmine_0040",
+  "name": "Jasmine",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 60,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:steelix",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "ironhead",
+        "earthquake",
+        "roar"
+      ],
+      "heldItem": [
+        "chople_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:melmetal",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "doubleironbash",
+        "earthquake",
+        "superpower",
+        "thunderpunch"
+      ],
+      "heldItem": [
+        "choice_band"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:duraludon",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "heavymetal",
+      "moveset": [
+        "dracometeor",
+        "flashcannon",
+        "thunderbolt",
+        "dragonpulse"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:durant",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": [
+        "ironhead",
+        "superpower",
+        "xscissor",
+        "honeclaws"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aegislash",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "stancechange",
+      "moveset": [
+        "shadowball",
+        "shadowsneak",
+        "closecombat",
+        "kingsshield"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aggron",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "heavyslam",
+        "earthquake",
+        "firepunch",
+        "dragonclaw"
+      ],
+      "heldItem": [
+        "mega_showdown:aggronite",
+        "iron_ball"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

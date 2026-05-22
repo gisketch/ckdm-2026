@@ -1,0 +1,65 @@
+{
+  "id": "rct_sailor_edmond_0086",
+  "name": "Sailor Edmond",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "lileep",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": [
+        "ancientpower",
+        "gigadrain",
+        "earthpower",
+        "hiddenpower"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lumineon",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "stormdrain",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "hiddenpower",
+        "flipturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "stormdrain",
+      "moveset": [
+        "scald",
+        "earthpower",
+        "protect",
+        "sludgebomb"
+      ],
+      "heldItem": "rindo_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

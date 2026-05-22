@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_veteran_brian_rematch_2",
+  "name": "Veteran Brian",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:floatzel",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterfall",
+        "icefang",
+        "quickattack",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "quickattack",
+        "stomp",
+        "flareblitz",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tangrowth",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "ingrain",
+        "sleeppowder",
+        "ancientpower",
+        "powerwhip"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Veteran Brian is ready for a battle."
+  ]
+}

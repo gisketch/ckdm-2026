@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_janice"
+name = "Lass Janice"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:pidgeotto", level = 28, gender = "FEMALE", nature = "adamant", ability = "frisk", moveset = ["takedown", "whirlwind", "return", "roost"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeotto", level = 28, gender = "FEMALE", nature = "naive", ability = "frisk", moveset = ["takedown", "whirlwind", "return", "roost"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Janice is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

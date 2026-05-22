@@ -1,0 +1,53 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0398",
+  "name": "Pok\u00e9mon Trainer Cedric",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "quickattack",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:piplup",
+      "level": 9,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

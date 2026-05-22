@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_rich_boy_trey",
+  "name": "Rich Boy Trey",
+  "title": "Rich Boy",
+  "gender": "male",
+  "archetype": "rich_boy",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "rich_boy/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:luxray",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I need to escape these doldrums... You can keep me company.",
+    "I\u2019m going back to the hotel to rest! I find you exceedingly tiresome!"
+  ]
+}

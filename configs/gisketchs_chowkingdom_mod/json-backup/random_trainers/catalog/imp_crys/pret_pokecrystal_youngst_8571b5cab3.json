@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokecrystal_youngster_013_joey",
+  "name": "Youngster Joey",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "hyperfang",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Youngster Joey is ready for a battle."
+  ]
+}

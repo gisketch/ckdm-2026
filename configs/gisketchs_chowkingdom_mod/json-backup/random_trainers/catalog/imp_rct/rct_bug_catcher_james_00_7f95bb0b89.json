@@ -1,0 +1,56 @@
+{
+  "id": "rct_bug_catcher_james_006b",
+  "name": "Bug Catcher James",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "cobblemon:ledyba",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "earlybird",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "reflect",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:surskit",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "swiftswim",
+      "moveset": [
+        "bubble",
+        "signalbeam",
+        "quickattack",
+        "sweetscent"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

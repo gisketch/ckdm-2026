@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_jay"
+name = "Super Nerd Jay"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:koffing", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Jay is ready for a battle."]

@@ -1,0 +1,32 @@
+{
+  "id": "rct_prof_prof_oak_01ff",
+  "name": "Prof. Prof. Oak",
+  "title": "Prof Prof",
+  "gender": "any",
+  "archetype": "prof_prof",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "shedskin",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

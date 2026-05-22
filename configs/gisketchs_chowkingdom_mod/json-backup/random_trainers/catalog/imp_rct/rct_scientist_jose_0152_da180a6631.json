@@ -1,0 +1,51 @@
+{
+  "id": "rct_scientist_jose_0152",
+  "name": "Scientist Jose",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:eelektross",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "levitate",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:porygon2",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "mild",
+      "ability": "trace",
+      "moveset": [
+        "aeroblast",
+        "triattack",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

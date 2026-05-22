@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_sergio_03a6",
+  "name": "Ace Trainer Sergio",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "floatzel",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "tailwhip",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sneasel",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "metalclaw",
+        "icywind",
+        "honeclaws",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

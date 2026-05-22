@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0367_super_nerd_shawn",
+  "name": "Super Nerd Shawn",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "super_nerd/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:magnemite",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What kinds of Pok\u00e9 Balls do you have with you?",
+    "You should use the right Pok\u00e9 Balls to fit the situation."
+  ]
+}

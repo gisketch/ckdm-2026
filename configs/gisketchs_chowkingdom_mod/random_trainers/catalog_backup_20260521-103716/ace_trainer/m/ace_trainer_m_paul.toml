@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_paul"
+name = "Ace Trainer Paul"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.03
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:slowpoke", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["headbutt", "confusion", "watergun", "disable"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shellder", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["aurorabeam", "clamp", "supersonic", "leer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kingler", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["guillotine", "stomp", "mudshot", "bubble"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bubblebeam", "swift", "recover", "rapidspin"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["confusion", "scratch", "screech", "disable"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Paul is ready for a battle.", "Cooltrainer Paul is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

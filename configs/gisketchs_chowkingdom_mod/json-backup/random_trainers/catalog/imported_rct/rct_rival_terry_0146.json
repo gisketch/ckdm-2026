@@ -1,0 +1,32 @@
+{
+  "id": "rct_rival_terry_0146",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "squirtle",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "tackle",
+        "falseswipe",
+        "tailwhip"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

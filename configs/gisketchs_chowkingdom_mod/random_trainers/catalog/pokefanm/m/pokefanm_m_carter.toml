@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefanm_m_carter"
+name = "Pokefanm Carter"
+title = "Pokefanm"
+gender = "male"
+archetype = "pokefanm"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokefanm/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:bulbasaur", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charmander", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:squirtle", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokefanm Carter is ready for a battle."]

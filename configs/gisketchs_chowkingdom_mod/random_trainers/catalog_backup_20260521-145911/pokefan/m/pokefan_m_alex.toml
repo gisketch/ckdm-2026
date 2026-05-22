@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_alex"
+name = "Pokefan Alex"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 29
+maxLevel = 65
+team = [
+  { species = "cobblemon:nidoking", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowking", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 65, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bow down before my regal Pokémon!", "Doesn’t everyone wish to be a ruler someday?"]

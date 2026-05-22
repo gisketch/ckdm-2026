@@ -1,0 +1,33 @@
+{
+  "id": "rct_ace_trainer_henry_0383",
+  "name": "Ace Trainer Henry",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "honchkrow",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "insomnia",
+      "moveset": [
+        "astonish",
+        "wingattack",
+        "swagger",
+        "foulplay"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

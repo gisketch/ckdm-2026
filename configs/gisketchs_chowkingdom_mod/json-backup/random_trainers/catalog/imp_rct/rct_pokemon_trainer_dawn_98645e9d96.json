@@ -1,0 +1,134 @@
+{
+  "id": "rct_pokemon_trainer_dawn_0598",
+  "name": "Pok\u00e9mon Trainer Dawn",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:wormadam",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "anticipation",
+      "moveset": [
+        "gyroball",
+        "suckerpunch",
+        "metalburst",
+        "stealthrock"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": [
+        "trash_cloak"
+      ]
+    },
+    {
+      "species": "cobblemon:magmortar",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "vitalspirit",
+      "moveset": [
+        "fireblast",
+        "focusblast",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": [
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:froslass",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "hex",
+        "frostbreath",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:milotic",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "hyperbeam",
+        "recover"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clefable",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "unaware",
+      "moveset": [
+        "moonblast",
+        "calmmind",
+        "moonlight",
+        "minimize"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:torterra",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "woodhammer",
+        "earthquake",
+        "stoneedge",
+        "curse"
+      ],
+      "heldItem": [
+        "yache_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

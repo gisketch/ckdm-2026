@@ -1,0 +1,39 @@
+{
+  "id": "rct_youngster_sebastian_03f5",
+  "name": "Youngster Sebastian",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:machop",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

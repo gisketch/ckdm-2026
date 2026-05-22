@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0373_swimmer_male_frankie",
+  "name": "Swimmer Male Frankie",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:azumarill",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I guess it\u2019s impossible to swim all the way to Johto.",
+    "Besides the sea, I can also swim in ponds and rivers."
+  ]
+}

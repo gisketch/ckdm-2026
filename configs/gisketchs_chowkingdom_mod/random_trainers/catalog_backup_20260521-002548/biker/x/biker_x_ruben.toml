@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_x_ruben"
+name = "Biker Ruben"
+title = "Biker"
+gender = "any"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/any"
+tier = "very_high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 92
+maxLevel = 93
+team = [
+  { species = "cobblemon:accelgor", level = 92, gender = "MALE", nature = "timid", ability = "sheerforce", moveset = ["uturn", "bugbuzz", "focusblast", "sludgebomb"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:excadrill", level = 93, gender = "MALE", nature = "adamant", ability = "sandrush", moveset = ["earthquake", "ironhead", "stoneedge", "swordsdance"], heldItem = "['air_balloon']", shiny = false, aspects = [] },
+  { species = "cobblemon:gigalith", level = 92, gender = "MALE", nature = "careful", ability = "sandforce", moveset = ["earthquake", "stoneedge", "explosion", "bodypress"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:roserade", level = 92, gender = "MALE", nature = "timid", ability = "technician", moveset = ["gigadrain", "weatherball", "hiddenpower", "sleeppowder"], heldItem = "['lum_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 93, gender = "FEMALE", nature = "jolly", ability = "limber", moveset = ["fakeout", "return", "closecombat", "tripleaxel"], heldItem = "['mega_showdown:lopunnite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Ruben is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

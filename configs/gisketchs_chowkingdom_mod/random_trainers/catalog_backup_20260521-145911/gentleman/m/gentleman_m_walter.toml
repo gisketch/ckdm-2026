@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_walter"
+name = "Gentleman Walter"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:linoone", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["headbutt", "sandattack", "odorsleuth", "furyswipes"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyswipes", "disable", "confusion", "psychup"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:manectric", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["quickattack", "spark", "odorsleuth", "roar"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Walter is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

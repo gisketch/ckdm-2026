@@ -1,0 +1,76 @@
+{
+  "id": "rct_tuber_jared_056c",
+  "name": "Tuber Jared",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tuber/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 51,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "recover",
+        "waterpulse",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "ancientpower",
+        "muddywater",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "bodyslam",
+        "muddywater",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

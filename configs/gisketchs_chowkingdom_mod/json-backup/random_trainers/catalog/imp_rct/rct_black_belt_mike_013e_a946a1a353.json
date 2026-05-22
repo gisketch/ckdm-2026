@@ -1,0 +1,78 @@
+{
+  "id": "rct_black_belt_mike_013e",
+  "name": "Black Belt Mike",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 46,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:hariyama",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "thickfat",
+      "moveset": [
+        "seismictoss",
+        "wakeupslap",
+        "endure",
+        "closecombat"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:poliwrath",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bubblebeam",
+        "hypnosis",
+        "doubleslap",
+        "dynamicpunch"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:primeape",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "vitalspirit",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

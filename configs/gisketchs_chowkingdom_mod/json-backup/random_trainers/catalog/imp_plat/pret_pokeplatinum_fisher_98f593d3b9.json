@@ -1,0 +1,71 @@
+{
+  "id": "pret_pokeplatinum_fisherman_erick",
+  "name": "Fisherman Erick",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:goldeen",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "peck",
+        "flail",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "furyattack",
+        "flail",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thrash",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ve landed the most fish Pok\u00e9mon in the world. I\u2019m next!",
+    "I figure I got too wrapped up in fishing and neglected training."
+  ]
+}

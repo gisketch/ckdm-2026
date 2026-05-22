@@ -1,0 +1,115 @@
+{
+  "id": "rct_elite_four_moleman_05b3",
+  "name": "Elite Four Moleman",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 74,
+  "maxLevel": 76,
+  "team": [
+    {
+      "species": "excadrill",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "rockslide",
+        "protect"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flygon",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "clangingscales",
+        "earthpower",
+        "heatwave",
+        "boomburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandslash",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "leechlife",
+        "protect"
+      ],
+      "heldItem": "ground_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "quagsire",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "muddywater",
+        "recover",
+        "yawn",
+        "protect"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gliscor",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "sandveil",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "doubleteam",
+        "roost"
+      ],
+      "heldItem": "bright_powder",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "landorus",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "uturn",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "therian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0635_biker_ernest",
+  "name": "Biker Ernest",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:teddiursa",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:azumarill",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Biker Ernest is ready for a battle."
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "rct_leader_sabrina_01a4",
+  "name": "Leader Sabrina",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "hatterene",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "magicbounce",
+      "moveset": [
+        "trickroom",
+        "expandingforce",
+        "drainingkiss",
+        "mysticalfire"
+      ],
+      "heldItem": "psychic_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "indeedee",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "psychicsurge",
+      "moveset": [
+        "expandingforce",
+        "hypervoice",
+        "mysticalfire",
+        "shadowball"
+      ],
+      "heldItem": "terrain_extender",
+      "shiny": false,
+      "aspects": [
+        "f"
+      ]
+    },
+    {
+      "species": "crawdaunt",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "adaptability",
+      "moveset": [
+        "knockoff",
+        "waterfall",
+        "aquajet",
+        "brickbreak"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "porygon2",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "relaxed",
+      "ability": "trace",
+      "moveset": [
+        "trickroom",
+        "teleport",
+        "icebeam",
+        "thunderbolt"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ursaluna",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "guts",
+      "moveset": [
+        "protect",
+        "highhorsepower",
+        "facade",
+        "crunch"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gardevoir",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "trace",
+      "moveset": [
+        "hypervoice",
+        "expandingforce",
+        "shadowball",
+        "trickroom"
+      ],
+      "heldItem": "mega_showdown:gardevoirite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

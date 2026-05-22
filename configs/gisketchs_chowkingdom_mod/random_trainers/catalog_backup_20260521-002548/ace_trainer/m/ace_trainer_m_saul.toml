@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_saul"
+name = "Ace Trainer Saul"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 63
+maxLevel = 63
+team = [
+  { species = "cobblemon:tauros", level = 63, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gigaimpact", "zenheadbutt", "earthquake", "stoneedge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve got the urge to battle with you. Hope you’re willing to oblige!", "So long as my partner’s alongside me, I’m willing to take on the world!", "Ace Trainer Male Saul is ready for a battle."]

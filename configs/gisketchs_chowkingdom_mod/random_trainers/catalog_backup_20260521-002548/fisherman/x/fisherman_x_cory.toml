@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_cory"
+name = "Fisherman Cory"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 30
+maxLevel = 34
+team = [
+  { species = "cobblemon:finneon", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:finneon", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:finneon", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I like fishing, no question. But battling? That’s what I love!", "If you don’t know how to fish, you’re missing half of life’s enjoyment. If you don’t know Pokémon... You’re missing out on all of it!"]

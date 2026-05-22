@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_rod"
+name = "Bird Keeper Rod"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 7
+maxLevel = 7
+team = [
+  { species = "cobblemon:pidgey", level = 7, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgey", level = 7, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Rod is ready for a battle."]

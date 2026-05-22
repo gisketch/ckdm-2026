@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokefirered_team_rocket_admin_2",
+  "name": "Team Rocket Admin",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Kanto/Sevii",
+  "category": "team",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "confuseray",
+        "sludgebomb",
+        "aircutter",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sludgebomb",
+        "thunderbolt",
+        "explosion",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flamethrower",
+        "crunch",
+        "irontail",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Team Rocket Admin is ready for a battle."
+  ]
+}

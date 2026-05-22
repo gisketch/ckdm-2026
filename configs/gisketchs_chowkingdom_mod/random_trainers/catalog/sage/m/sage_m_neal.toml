@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sage_m_neal"
+name = "Sage Neal"
+title = "Sage"
+gender = "male"
+archetype = "sage"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "sage/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 6
+maxLevel = 6
+team = [
+  { species = "cobblemon:bellsprout", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sage Neal is ready for a battle.", "The Elder’s TM lights even pitch-black darkness.", "Let there be light on your journey."]

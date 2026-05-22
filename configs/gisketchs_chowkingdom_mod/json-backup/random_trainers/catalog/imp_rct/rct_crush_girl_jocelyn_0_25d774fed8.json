@@ -1,0 +1,96 @@
+{
+  "id": "rct_crush_girl_jocelyn_0250",
+  "name": "Crush Girl Jocelyn",
+  "title": "Crush Girl",
+  "gender": "female",
+  "archetype": "crush_girl",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "crush_girl/female",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:dunsparce",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "serenegrace",
+      "moveset": [
+        "bodyslam",
+        "glare",
+        "headbutt",
+        "zenheadbutt"
+      ],
+      "heldItem": [
+        "chople_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:archeops",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "defeatist",
+      "moveset": [
+        "rockslide",
+        "bravebird",
+        "uturn",
+        "roost"
+      ],
+      "heldItem": [
+        "mystic_water"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:togekiss",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "serenegrace",
+      "moveset": [
+        "thunderwave",
+        "airslash",
+        "extrasensory",
+        "flamethrower"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:huntail",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "shellsmash",
+        "waterfall",
+        "psychicfangs",
+        "icebeam"
+      ],
+      "heldItem": [
+        "white_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

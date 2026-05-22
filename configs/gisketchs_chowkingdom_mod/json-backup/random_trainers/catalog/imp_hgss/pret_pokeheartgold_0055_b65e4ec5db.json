@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0055_sage_neal",
+  "name": "Sage Neal",
+  "title": "Sage",
+  "gender": "any",
+  "archetype": "sage",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sage/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The Elder\u2019s TM lights even pitch-black darkness.",
+    "Let there be light on your journey."
+  ]
+}

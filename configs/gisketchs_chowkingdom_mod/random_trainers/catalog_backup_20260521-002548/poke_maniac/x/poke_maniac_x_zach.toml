@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_maniac_x_zach"
+name = "Poke Maniac Zach"
+title = "Poke Maniac"
+gender = "any"
+archetype = "poke_maniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "poke_maniac/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:rhyhorn", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll do anything to get my hands on rare Pokémon!", "If a Pokémon has different colors than usual, it’s more valuable. What? You mean that’s not true?"]

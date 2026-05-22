@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisher_m_dante"
+name = "Fisher Dante"
+title = "Fisher"
+gender = "male"
+archetype = "fisher"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "fisher/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:goldeen", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwag", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisher from Route 12 is ready for a battle."]

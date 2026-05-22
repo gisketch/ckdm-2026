@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_scientist_travon",
+  "name": "Scientist Travon",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Our mission is to implement our operations without question. It is all for the new world order that our boss will lead!",
+    "I\u2019m willing to do anything to get ahead in Team Galactic. One day you\u2019ll see what we are all about. It\u2019s wonder, compassion, splendor, humor, power, awe, and tragedy!"
+  ]
+}

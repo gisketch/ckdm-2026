@@ -1,0 +1,64 @@
+{
+  "id": "rct_team_galactic_grunt_042e",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "silcoon",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "poisonsting",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "poisonfang",
+        "quickguard",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glameow",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "furyswipes",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

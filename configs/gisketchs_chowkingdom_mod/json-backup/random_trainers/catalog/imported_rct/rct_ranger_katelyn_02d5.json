@@ -1,0 +1,33 @@
+{
+  "id": "rct_ranger_katelyn_02d5",
+  "name": "Ranger Katelyn",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "chansey",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "serenegrace",
+      "moveset": [
+        "eggbomb",
+        "defensecurl",
+        "minimize",
+        "softboiled"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

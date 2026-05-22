@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_m_jackson"
+name = "Worker Jackson"
+title = "Worker"
+gender = "male"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:onix", level = 28, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["smackdown", "sandtomb", "irontail", "sandstorm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 28, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["screech", "irontail", "rocktomb", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 28, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["screech", "irontail", "rocktomb", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Up and down you go on the lifts. Me? I like to battle!", "I can’t keep this up! I’ll go back to working on the lifts.", "I have trained this team for the road. Challenge me if you are ready."]

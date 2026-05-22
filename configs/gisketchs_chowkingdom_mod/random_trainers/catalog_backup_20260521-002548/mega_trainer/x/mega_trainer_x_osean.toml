@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_x_osean"
+name = "Mega Trainer Osean"
+title = "Mega Trainer"
+gender = "any"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 52
+maxLevel = 54
+team = [
+  { species = "cobblemon:pelipper", level = 52, gender = "FEMALE", nature = "modest", ability = "drizzle", moveset = ["surf", "airslash", "knockoff", "uturn"], heldItem = "['damp_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:kingdra", level = 54, gender = "FEMALE", nature = "timid", ability = "swiftswim", moveset = ["surf", "dragonpulse", "flashcannon", "icebeam"], heldItem = "['haban_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:ludicolo", level = 53, gender = "MALE", nature = "modest", ability = "swiftswim", moveset = ["hydropump", "energyball", "naturepower", "teeterdance"], heldItem = "['water_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:samurott", level = 53, gender = "MALE", nature = "adamant", ability = "torrent", moveset = ["liquidation", "megahorn", "revenge", "retaliate"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 54, gender = "FEMALE", nature = "adamant", ability = "moldbreaker", moveset = ["aquatail", "crunch", "icefang", "dragondance"], heldItem = "['mega_showdown:gyaradosite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemaniac_herman_00a3",
+  "name": "Pok\u00e9maniac Herman",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:lickitung",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "stomp",
+        "disable",
+        "slam",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raboot",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "suckerpunch",
+        "mudshot",
+        "agility",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

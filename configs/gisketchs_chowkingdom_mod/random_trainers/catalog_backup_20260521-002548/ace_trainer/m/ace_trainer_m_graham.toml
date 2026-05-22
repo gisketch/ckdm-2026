@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_graham"
+name = "Ace Trainer Graham"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 55
+maxLevel = 59
+team = [
+  { species = "cobblemon:tyrogue", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hitmonchan", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I took great pains raising my partners. I’ll show you how strong I made them!", "My Pokémon... They’re the first friends I ever caught. They mean everything to me!"]

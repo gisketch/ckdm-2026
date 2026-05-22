@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_sailor_skyler",
+  "name": "Sailor Skyler",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:mantyke",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "A man of the sea is also a man of Pok\u00e9mon!",
+    "You\u2019ve got what it takes to be a Trainer among Trainers!"
+  ]
+}

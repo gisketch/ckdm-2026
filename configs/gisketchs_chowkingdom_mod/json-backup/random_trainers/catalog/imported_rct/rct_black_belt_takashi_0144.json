@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_takashi_0144",
+  "name": "Black Belt Takashi",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "noguard",
+      "moveset": [
+        "wakeupslap",
+        "dualchop",
+        "submission",
+        "bulkup"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

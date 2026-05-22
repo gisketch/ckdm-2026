@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_aaron"
+name = "Black Belt Aaron"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 46
+maxLevel = 46
+team = [
+  { species = "cobblemon:sirfetchd", level = 46, gender = "MALE", nature = "sassy", ability = "sharpness", moveset = ["knockoff", "defog", "brickbreak", "swordsdance"], heldItem = "['black_belt']", shiny = false, aspects = [] },
+]
+dialogue = ["Black Belt Aaron is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

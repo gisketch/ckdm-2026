@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_isabelle_0098",
+  "name": "Picnicker Isabelle",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "sinistea",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "lax",
+      "ability": "weakarmor",
+      "moveset": [
+        "aromaticmist",
+        "megadrain",
+        "willowisp",
+        "detect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swadloon",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "leafguard",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "bugbite",
+        "razorleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lombre",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "swiftswim",
+      "moveset": [
+        "aurorabeam",
+        "fakeout",
+        "watersport",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

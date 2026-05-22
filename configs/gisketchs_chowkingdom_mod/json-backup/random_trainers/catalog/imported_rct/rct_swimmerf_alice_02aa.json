@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerf_alice_02aa",
+  "name": "Swimmer♀ Alice",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

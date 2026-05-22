@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_m_issac"
+name = "Pokemaniac Issac"
+title = "Pokemaniac"
+gender = "male"
+archetype = "pokemaniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokemaniac/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 12
+maxLevel = 12
+team = [
+  { species = "cobblemon:lickitung", level = 12, gender = "GENDERLESS", nature = "", ability = "", moveset = ["lick", "supersonic", "cut"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Issac is ready for a battle."]

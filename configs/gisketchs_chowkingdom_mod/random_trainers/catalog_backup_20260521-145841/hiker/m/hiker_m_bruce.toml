@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_bruce"
+name = "Hiker Bruce"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 39
+maxLevel = 45
+team = [
+  { species = "cobblemon:graveler", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhydon", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefairy", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Bag is digging into my shoulders! When that happens, I like to take a break and have a battle!", "All right, guess I should carry my Bag again!"]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_artist_kevin_04e0",
+  "name": "Artist Kevin",
+  "title": "Artist",
+  "gender": "any",
+  "archetype": "artist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "mimic",
+        "lightscreen",
+        "dazzlinggleam",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sudowoodo",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "woodhammer",
+        "tearfullook",
+        "doubleedge",
+        "headsmash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

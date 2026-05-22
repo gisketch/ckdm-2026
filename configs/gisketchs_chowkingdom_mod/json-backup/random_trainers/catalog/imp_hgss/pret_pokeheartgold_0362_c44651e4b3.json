@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0362_ace_trainer_female_quinn",
+  "name": "Ace Trainer Female Quinn",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:ivysaur",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "solarbeam",
+        "doubleedge",
+        "synthesis",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "blizzard",
+        "confuseray",
+        "thunderbolt",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You there! Want to battle?",
+    "You\u2019re strong. You obviously have trained hard."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemon_breeder_x_allison"
+name = "Pokemon Breeder Allison"
+title = "Pokemon Breeder"
+gender = "any"
+archetype = "pokemon_breeder"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "pokemon_breeder/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:clefairy", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefairy", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefable", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemon Breeder Allison is ready for a battle."]

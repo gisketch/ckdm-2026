@@ -1,0 +1,85 @@
+{
+  "id": "rct_camper_justin_01dd",
+  "name": "Camper Justin",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "darmanitan",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "zenmode",
+      "moveset": [
+        "uturn",
+        "flareblitz",
+        "iciclecrash",
+        "earthquake"
+      ],
+      "heldItem": "charti_berry",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "sandslash",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "slushrush",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "ironhead",
+        "iciclecrash"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "conkeldurr",
+      "level": 88,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "ironfist",
+      "moveset": [
+        "drainpunch",
+        "machpunch",
+        "knockoff",
+        "thunderpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "nastyplot",
+        "shadowball",
+        "focusblast",
+        "sludgewave"
+      ],
+      "heldItem": "spell_tag",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

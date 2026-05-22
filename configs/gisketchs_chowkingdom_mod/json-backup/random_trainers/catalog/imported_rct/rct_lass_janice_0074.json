@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_janice_0074",
+  "name": "Lass Janice",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 10,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "glameow",
+      "level": 10,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "attract",
+        "scratch",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoranf",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "poisontouch",
+      "moveset": [
+        "growl",
+        "scratch",
+        "tailwhip",
+        "doublekick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

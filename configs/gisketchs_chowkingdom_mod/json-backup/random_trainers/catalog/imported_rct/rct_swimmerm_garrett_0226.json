@@ -1,0 +1,80 @@
+{
+  "id": "rct_swimmerm_garrett_0226",
+  "name": "Swimmer♂ Garrett",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "mantine",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "stormdrain",
+      "moveset": [
+        "thunder",
+        "sludgewave",
+        "waterpulse",
+        "hiddenpower"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "milotic",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "competitive",
+      "moveset": [
+        "surf"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "greninja",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "protean",
+      "moveset": [
+        "surf",
+        "icebeam",
+        "darkpulse",
+        "extrasensory"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lapras",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "boomburst",
+        "blizzard",
+        "dracometeor",
+        "thunderbolt"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

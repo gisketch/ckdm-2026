@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0590_fisherman_liam",
+  "name": "Fisherman Liam",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:seadra",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Whoa! A nibble! ...Huh? A battle? OK, let\u2019s go!",
+    "I should\u2019ve asked you to wait until I reeled that Pok\u00e9mon in..."
+  ]
+}

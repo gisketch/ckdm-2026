@@ -1,0 +1,91 @@
+{
+  "id": "pret_pokeplatinum_collector_brady",
+  "name": "Collector Brady",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "collector/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:skorupi",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tangela",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:yanma",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:carnivine",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:croagunk",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tropius",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What\u2019s that?! You say you have a Pok\u00e9dex? An authentic one!",
+    "There\u2019s all kinds of Trainers with all sorts of Pok\u00e9mon with them. The more you battle, the more your Pok\u00e9dex is filled!"
+  ]
+}

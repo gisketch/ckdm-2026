@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_timmy_01f7",
+  "name": "Youngster Timmy",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "raticate",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ekans",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "shedskin",
+      "moveset": [
+        "bite",
+        "glare",
+        "poisontail",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zubat",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sniper",
+      "moveset": [
+        "bite",
+        "wingattack",
+        "confuseray",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -16,11 +16,11 @@ hurt_messages = ["Hey! Let's not do that.", "Careful, {player}. Air is for movem
 wake_messages = ["I'm up! Is it adventure time or danger time?", "Whoa. What happened?", "Okay, okay, I'm awake."]
 npc_interaction_messages = ["Showing {other} a breathing exercise.", "Asking {other} if they want to glide from the hill.", "Teaching {other} how to dodge without hurting anyone."]
 work_blocks = [
-  { id = "minecraft:white_wool", count = 4, display_name = "air cushions" },
-  { id = "minecraft:scaffolding", count = 4, display_name = "glide posts" },
+  { id = "minecraft:white_wool", count = 2, display_name = "air cushions" },
+  { id = "minecraft:scaffolding", count = 2, display_name = "glide posts" },
+  { id = "supplementaries:bellows", count = 1, display_name = "wind bellows" },
   { id = "minecraft:bell", count = 1, display_name = "temple bell" },
-  { id = "minecraft:flower_pot", count = 2, display_name = "air temple pots" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "minecraft:flower_pot", count = 1, display_name = "air temple pot" },
 ]
 
 [boss]
@@ -166,4 +166,6 @@ pool = [
   { id = "aang_food_mixed_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Mixed Salad And Bring It Back", quest_text = "Prepare a fresh mixed salad after I ask; light food keeps light feet.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:mixed_salad", fetch_count = 1, filters = { item = "farmersdelight:mixed_salad" }, weight = 10 },
   { id = "aang_timed_zombies", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Zombies In {seconds}s", quest_text = "Clear a quick zombie wave from the road, fast and without anger.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 3, time_window_seconds = 25, filters = { entity = "minecraft:zombie" }, weight = 12 },
   { id = "aang_quiz_air_nomad_restraint_and_mercy", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Aang's question about restraint, freedom, and choosing another way.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "air nomad restraint and mercy", weight = 10 },
+  { id = "aang_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Aang", quest_text = "Aang has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "aang_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Aang", quest_text = "Aang wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

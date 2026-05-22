@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokefirered_ruin_maniac_lawson",
+  "name": "Ruin Maniac Lawson",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "ruin_maniac/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marowak",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ruin Maniac Lawson is ready for a battle."
+  ]
+}

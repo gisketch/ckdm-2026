@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_m_arnie"
+name = "Burglar Arnie"
+title = "Burglar"
+gender = "male"
+archetype = "burglar"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "burglar/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 67
+maxLevel = 69
+team = [
+  { species = "cobblemon:charizard", level = 67, gender = "FEMALE", nature = "docile", ability = "blaze", moveset = ["slash", "flamethrower", "firespin", "inferno"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:delphox", level = 69, gender = "FEMALE", nature = "rash", ability = "blaze", moveset = ["wish", "psychic", "sunnyday", "magicroom"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Burglar Arnie is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

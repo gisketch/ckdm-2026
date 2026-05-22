@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_lake_verity_2",
+  "name": "Galactic Grunt Female Grunt",
+  "title": "Galactic Grunt Female",
+  "gender": "female",
+  "archetype": "galactic_grunt_female",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.93,
+  "bustStyle": "standard",
+  "minLevel": 33,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:glameow",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "furyswipes",
+        "feintattack",
+        "growl",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "aircutter",
+        "wingattack",
+        "bite",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:murkrow",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "feintattack",
+        "nightshade",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "In order for us to bring peace to the world, we must control it!",
+    "Our boss always had plans for the three lakes... While you were blissfully ignorant, our work went ahead..."
+  ]
+}

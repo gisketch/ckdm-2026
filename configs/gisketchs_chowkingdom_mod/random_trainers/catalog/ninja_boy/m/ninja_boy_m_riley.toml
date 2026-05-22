@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ninja_boy_m_riley"
+name = "Ninja Boy Riley"
+title = "Ninja Boy"
+gender = "male"
+archetype = "ninja_boy"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ninja_boy/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:nincada", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leechlife", "furyswipes", "mindreader", "dig"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "selfdestruct", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ninja Boy Riley is ready for a battle."]

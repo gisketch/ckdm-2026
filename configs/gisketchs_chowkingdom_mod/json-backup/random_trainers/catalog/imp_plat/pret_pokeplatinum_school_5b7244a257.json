@@ -1,0 +1,37 @@
+{
+  "id": "pret_pokeplatinum_school_kid_harrison",
+  "name": "School Kid Male Harrison",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "School Kid Male Harrison is ready for a battle."
+  ]
+}

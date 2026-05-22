@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_dragon_tamer_patrick",
+  "name": "Dragon Tamer Patrick",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:gible",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Try not to be shocked when you lay your eyes on my Pok\u00e9mon!",
+    "A dragon Pok\u00e9mon\u2019s real power is nothing like mine!"
+  ]
+}

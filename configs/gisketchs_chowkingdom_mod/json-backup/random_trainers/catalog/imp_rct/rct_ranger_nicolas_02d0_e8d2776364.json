@@ -1,0 +1,56 @@
+{
+  "id": "rct_ranger_nicolas_02d0",
+  "name": "Ranger Nicolas",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.07,
+  "weight": 1.12,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:victreebel",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "acid",
+        "stunspore",
+        "wrap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:victreebel",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "acid",
+        "sleeppowder",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

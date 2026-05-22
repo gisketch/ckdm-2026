@@ -1,0 +1,72 @@
+{
+  "id": "rct_bug_catcher_colton_02db",
+  "name": "Bug Catcher Colton",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 51,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:butterfree",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ragepowder",
+        "captivate",
+        "tailwind",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beedrill",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "poisonjab",
+        "agility",
+        "endeavor",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:butterfree",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ragepowder",
+        "captivate",
+        "tailwind",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

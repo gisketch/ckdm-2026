@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_geneva"
+name = "Bird Keeper Geneva"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 53
+maxLevel = 57
+team = [
+  { species = "cobblemon:golbat", level = 53, gender = "FEMALE", nature = "impish", ability = "innerfocus", moveset = ["poisonfang", "meanlook", "venoshock", "aircutter"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:xatu", level = 57, gender = "FEMALE", nature = "calm", ability = "synchronize", moveset = ["futuresight", "confuseray", "nightshade", "wish"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Pokémon grew up in the arms of Mother Nature. They’re tough!", "Most of the time, my Pokémon return to their Poké Balls right away. But sometimes, they just fall asleep on top of my head. That gets messy.", "I have trained this team for the road. Challenge me if you are ready."]

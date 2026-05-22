@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_swimmerm_018_seth",
+  "name": "Swimmerm Seth",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "swimmerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:quagsire",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:octillery",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:quagsire",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Swimmerm Seth is ready for a battle."
+  ]
+}

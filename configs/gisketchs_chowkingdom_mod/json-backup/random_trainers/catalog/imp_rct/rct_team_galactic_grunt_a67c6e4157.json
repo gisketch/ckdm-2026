@@ -1,0 +1,56 @@
+{
+  "id": "rct_team_galactic_grunt_042a",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:zubat",
+      "level": 14,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:glameow",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "owntempo",
+      "moveset": [
+        "fakeout",
+        "scratch",
+        "growl",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

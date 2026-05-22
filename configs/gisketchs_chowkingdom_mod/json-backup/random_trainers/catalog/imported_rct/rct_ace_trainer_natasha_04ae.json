@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_natasha_04ae",
+  "name": "Ace Trainer Natasha",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "dunsparce",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "serenegrace",
+      "moveset": [
+        "glare",
+        "doubleedge",
+        "coil",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scyther",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "xscissor",
+        "slash",
+        "wingattack",
+        "furycutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marowak",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "bonemerang",
+        "bonerush",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

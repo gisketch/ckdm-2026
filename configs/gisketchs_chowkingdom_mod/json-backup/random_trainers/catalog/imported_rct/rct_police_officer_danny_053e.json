@@ -1,0 +1,49 @@
+{
+  "id": "rct_police_officer_danny_053e",
+  "name": "Police Officer Danny",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "noctowl",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "psychoshift",
+        "moonblast",
+        "hypnosis",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machamp",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "knockoff",
+        "dualchop",
+        "dynamicpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

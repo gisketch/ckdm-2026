@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_carrie"
+name = "Lass Carrie"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 23
+maxLevel = 24
+team = [
+  { species = "cobblemon:chatot", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyattack", "sing", "growl", "peck"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pachirisu", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "endure", "spark", "charm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Carrie is ready for a battle.", "You shouldn’t let your guard down just ’cause I don’t look tough!", "Who do you think are stronger-- boys or girls?", "Hi, what kinds of Pokémon do you have with you? I’ll show you my Pokémon while we have a battle.", "You’re too tough! I won’t battle you again! Just joking! I’ll challenge you again when I level up my Pokémon."]

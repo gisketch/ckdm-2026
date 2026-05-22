@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_lass_madeline",
+  "name": "Lass Madeline",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 8,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "cobblemon:psyduck",
+      "level": 8,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I got a nifty-keen Gym Badge from the Gym Leader in Oreburgh City!",
+    "I\u2019m collecting lots of Gym Badges. They\u2019re so sparkly and pretty!"
+  ]
+}

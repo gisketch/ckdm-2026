@@ -1,0 +1,72 @@
+{
+  "id": "rct_team_galactic_grunt_0466",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:wurmple",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cascoon",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "shedskin",
+      "moveset": [
+        "stringshot",
+        "poisonsting",
+        "bugbite",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dustox",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "shielddust",
+      "moveset": [
+        "psybeam",
+        "leechlife",
+        "toxic",
+        "bugbuzz"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_fisherman_cory",
+  "name": "Fisherman Cory",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:finneon",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:finneon",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:finneon",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I like fishing, no question. But battling? That\u2019s what I love!",
+    "If you don\u2019t know how to fish, you\u2019re missing half of life\u2019s enjoyment. If you don\u2019t know Pok\u00e9mon... You\u2019re missing out on all of it!"
+  ]
+}

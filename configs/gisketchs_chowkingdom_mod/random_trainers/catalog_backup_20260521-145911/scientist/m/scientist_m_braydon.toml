@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_m_braydon"
+name = "Scientist Braydon"
+title = "Scientist"
+gender = "male"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 69
+maxLevel = 70
+team = [
+  { species = "cobblemon:magneton", level = 69, gender = "GENDERLESS", nature = "adamant", ability = "sturdy", moveset = ["lockon", "magnetrise", "gyroball", "zapcannon"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:probopass", level = 69, gender = "FEMALE", nature = "bashful", ability = "magnetpull", moveset = ["earthpower", "stoneedge", "lockon", "zapcannon"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:jolteon", level = 70, gender = "FEMALE", nature = "hardy", ability = "voltabsorb", moveset = ["thunderwave", "discharge", "lastresort", "thunder"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Braydon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

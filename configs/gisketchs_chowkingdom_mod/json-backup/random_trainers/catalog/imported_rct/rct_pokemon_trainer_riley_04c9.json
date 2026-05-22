@@ -1,0 +1,33 @@
+{
+  "id": "rct_pokemon_trainer_riley_04c9",
+  "name": "Pokémon Trainer Riley",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "lucario",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "forcepalm",
+        "metalclaw",
+        "laserfocus"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

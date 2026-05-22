@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_roland"
+name = "Youngster Roland"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:munchlax", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kricketot", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You got Pokémon! I got Pokémon! Let’s see whose Pokémon is the best!", "Making Pokémon battle each other makes them tougher, you know?", "Making Pokémon battle each other makes them tougher."]

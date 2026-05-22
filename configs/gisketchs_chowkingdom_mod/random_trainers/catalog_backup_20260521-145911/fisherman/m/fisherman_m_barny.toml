@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_barny"
+name = "Fisherman Barny"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 25
+maxLevel = 27
+team = [
+  { species = "cobblemon:tentacool", level = 25, gender = "MALE", nature = "hasty", ability = "liquidooze", moveset = ["waterpulse", "acidspray", "sludge", "bubblebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arrokuda", level = 27, gender = "MALE", nature = "naughty", ability = "swiftswim", moveset = ["furyattack", "bite", "agility", "dive"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mantyke", level = 26, gender = "FEMALE", nature = "mild", ability = "waterabsorb", moveset = ["wingattack", "headbutt", "waterpulse", "wideguard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Barny is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

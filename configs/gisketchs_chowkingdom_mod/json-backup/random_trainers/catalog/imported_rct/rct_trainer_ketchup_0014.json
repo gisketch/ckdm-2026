@@ -1,0 +1,115 @@
+{
+  "id": "rct_trainer_ketchup_0014",
+  "name": "Trainer Ketchup",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "azumarill",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "liquidation",
+        "aquajet",
+        "playrough",
+        "superpower"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gliscor",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "poisonheal",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "facade",
+        "roost"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dracozolt",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": [
+        "boltbeak",
+        "dragonclaw",
+        "earthquake",
+        "firefang"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "curse",
+        "heavyslam",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "mega_showdown:aggronite iron_ball",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "urshifu",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unseenfist",
+      "moveset": [
+        "wickedblow",
+        "closecombat",
+        "suckerpunch",
+        "poisonjab"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "urshifu",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unseenfist",
+      "moveset": [
+        "surgingstrikes",
+        "aquajet",
+        "closecombat",
+        "uturn"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": [
+        "rapid_strike"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

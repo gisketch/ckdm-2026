@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_guitarist_arturo_rematch_3",
+  "name": "Guitarist Arturo",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "guitarist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:kricketune",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Guitarist Arturo is ready for a battle."
+  ]
+}

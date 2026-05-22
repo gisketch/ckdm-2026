@@ -1,0 +1,56 @@
+{
+  "id": "rct_rocker_luca_028e",
+  "name": "Rocker Luca",
+  "title": "Rocker",
+  "gender": "any",
+  "archetype": "rocker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rocker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "electroball",
+        "selfdestruct",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrode",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "electroball",
+        "selfdestruct",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

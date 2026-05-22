@@ -1,0 +1,49 @@
+{
+  "id": "rct_friendly_thug_0015",
+  "name": "Friendly Thug",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "lopunny",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "cutecharm",
+      "moveset": [
+        "fakeout",
+        "frustration",
+        "closecombat",
+        "uturn"
+      ],
+      "heldItem": "mega_showdown:lopunnite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxtricity",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "punkrock",
+      "moveset": [
+        "boomburst",
+        "overdrive",
+        "sludgewave",
+        "thunderbolt"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

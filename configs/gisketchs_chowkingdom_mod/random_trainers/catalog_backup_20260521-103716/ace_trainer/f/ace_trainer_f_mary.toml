@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_mary"
+name = "Ace Trainer Mary"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = "standard"
+minLevel = 35
+maxLevel = 38
+team = [
+  { species = "cobblemon:grotle", level = 35, gender = "FEMALE", nature = "brave", ability = "overgrow", moveset = ["curse", "bite", "seedbomb", "leechseed"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 35, gender = "FEMALE", nature = "quirky", ability = "rockhead", moveset = ["bulldoze", "selfdestruct", "stealthrock", "rockblast"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ferroseed", level = 36, gender = "MALE", nature = "rash", ability = "ironbarbs", moveset = ["gyroball", "irondefense", "mirrorshot", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 35, gender = "FEMALE", nature = "serious", ability = "clearbody", moveset = ["bubblebeam", "barrier", "poisonjab", "scald"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lombre", level = 38, gender = "FEMALE", nature = "brave", ability = "swiftswim", moveset = ["bubblebeam", "naturepower", "uproar", "knockoff"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Mary is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

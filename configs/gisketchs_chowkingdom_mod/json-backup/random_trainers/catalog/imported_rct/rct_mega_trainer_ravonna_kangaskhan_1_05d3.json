@@ -1,0 +1,33 @@
+{
+  "id": "rct_mega_trainer_ravonna_kangaskhan_1_05d3",
+  "name": "Mega Trainer Ravonna",
+  "title": "Mega Trainer Ravonna Kangaskhan",
+  "gender": "any",
+  "archetype": "mega_trainer_ravonna_kangaskhan",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 74,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "kangaskhan",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "hammerarm",
+        "suckerpunch",
+        "yawn",
+        "sleeptalk"
+      ],
+      "heldItem": "chople_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

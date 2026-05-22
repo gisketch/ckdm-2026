@@ -1,0 +1,65 @@
+{
+  "id": "rct_ninja_boy_fabian_0454",
+  "name": "Ninja Boy Fabian",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "rockthrow",
+        "smackdown",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "geodude",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "harden",
+        "rockthrow",
+        "smackdown",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "geodude",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "rockthrow",
+        "smackdown",
+        "bulldoze",
+        "selfdestruct"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

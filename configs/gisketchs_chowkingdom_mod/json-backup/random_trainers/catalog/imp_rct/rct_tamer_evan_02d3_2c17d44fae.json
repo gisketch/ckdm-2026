@@ -1,0 +1,72 @@
+{
+  "id": "rct_tamer_evan_02d3",
+  "name": "Tamer Evan",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:sandslash",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sandveil",
+      "moveset": [
+        "dig",
+        "gyroball",
+        "swordsdance",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lickitung",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "owntempo",
+      "moveset": [
+        "chipaway",
+        "mefirst",
+        "refresh",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ursaring",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "guts",
+      "moveset": [
+        "scaryface",
+        "rest",
+        "thrash",
+        "closecombat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

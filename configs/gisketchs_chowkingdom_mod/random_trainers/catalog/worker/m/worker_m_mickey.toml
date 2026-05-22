@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_m_mickey"
+name = "Worker Mickey"
+title = "Worker"
+gender = "male"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "worker/male"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Worker Mickey is ready for a battle."]

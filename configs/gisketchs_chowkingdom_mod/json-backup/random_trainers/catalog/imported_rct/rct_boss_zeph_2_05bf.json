@@ -1,0 +1,97 @@
+{
+  "id": "rct_boss_zeph_2_05bf",
+  "name": "Boss Zeph",
+  "title": "Boss Zeph",
+  "gender": "any",
+  "archetype": "boss_zeph",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "mightyena",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "suckerpunch",
+        "icefang",
+        "psychicfangs",
+        "swagger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "shadowtag",
+      "moveset": [
+        "shadowball",
+        "venoshock",
+        "dazzlinggleam",
+        "toxic"
+      ],
+      "heldItem": "mega_showdown:gengarite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "umbreon",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "synchronize",
+      "moveset": [
+        "foulplay",
+        "toxic",
+        "confuseray",
+        "moonlight"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "exploud",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "punkrock",
+      "moveset": [
+        "hypervoice",
+        "flamethrower",
+        "icebeam",
+        "surf"
+      ],
+      "heldItem": "throat_spray",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "decidueye",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "longreach",
+      "moveset": [
+        "leafblade",
+        "spiritshackle",
+        "lowsweep",
+        "acrobatics"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

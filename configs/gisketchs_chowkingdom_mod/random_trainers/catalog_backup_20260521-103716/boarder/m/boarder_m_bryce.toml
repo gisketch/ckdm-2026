@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "boarder_m_bryce"
+name = "Boarder Bryce"
+title = "Boarder"
+gender = "male"
+archetype = "boarder"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "boarder/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 50
+maxLevel = 55
+team = [
+  { species = "cobblemon:dewgong", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lapras", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What did you come all the way out here for, I wonder.", "Trainers are everywhere."]

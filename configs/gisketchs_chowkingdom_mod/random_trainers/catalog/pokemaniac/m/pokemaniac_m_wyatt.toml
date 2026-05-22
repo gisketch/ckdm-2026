@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_m_wyatt"
+name = "Pokemaniac Wyatt"
+title = "Pokemaniac"
+gender = "male"
+archetype = "pokemaniac"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "pokemaniac/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:aron", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:aron", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Wyatt is ready for a battle."]

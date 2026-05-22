@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmer_adrian_035e",
+  "name": "Swimmer Adrian",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "mantyke",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tackle",
+        "supersonic",
+        "wingattack",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "remoraid",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "sniper",
+      "moveset": [
+        "focusenergy",
+        "aurorabeam",
+        "bubblebeam",
+        "bulletseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacool",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "clearbody",
+      "moveset": [
+        "poisonsting",
+        "acid",
+        "waterpulse",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

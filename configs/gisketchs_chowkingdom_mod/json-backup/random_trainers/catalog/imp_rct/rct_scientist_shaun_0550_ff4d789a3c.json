@@ -1,0 +1,56 @@
+{
+  "id": "rct_scientist_shaun_0550",
+  "name": "Scientist Shaun",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "teleport",
+        "reflect",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "disable",
+        "recover",
+        "psyshock",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

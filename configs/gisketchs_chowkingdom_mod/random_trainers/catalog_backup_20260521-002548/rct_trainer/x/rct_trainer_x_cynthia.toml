@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_cynthia"
+name = "Rct Trainer Cynthia"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 84
+maxLevel = 88
+team = [
+  { species = "cobblemon:spiritomb", level = 84, gender = "MALE", nature = "quiet", ability = "pressure", moveset = ["shadowball", "darkpulse", "willowisp", "suckerpunch"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:porygonz", level = 85, gender = "GENDERLESS", nature = "timid", ability = "adaptability", moveset = ["hyperbeam", "shadowball", "icebeam", "thunderbolt"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:togekiss", level = 86, gender = "FEMALE", nature = "timid", ability = "serenegrace", moveset = ["airslash", "dazzlinggleam", "aurasphere", "thunderwave"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:lucario", level = 86, gender = "MALE", nature = "jolly", ability = "innerfocus", moveset = ["closecombat", "meteormash", "earthquake", "extremespeed"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:milotic", level = 84, gender = "FEMALE", nature = "bold", ability = "marvelscale", moveset = ["recover", "mirrorcoat", "icebeam", "scald"], heldItem = "['flame_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:garchomp", level = 88, gender = "FEMALE", nature = "jolly", ability = "roughskin", moveset = ["dragonclaw", "earthquake", "swordsdance", "poisonjab"], heldItem = "['yache_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

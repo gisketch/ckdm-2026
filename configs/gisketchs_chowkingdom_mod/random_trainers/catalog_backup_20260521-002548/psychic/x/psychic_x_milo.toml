@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_milo"
+name = "Psychic Milo"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 34
+maxLevel = 34
+team = [
+  { species = "cobblemon:mr_mime", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic from Saffron Gym is ready for a battle."]

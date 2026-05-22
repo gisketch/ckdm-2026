@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_zachery"
+name = "Ace Trainer Zachery"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 47
+maxLevel = 48
+team = [
+  { species = "cobblemon:electabuzz", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "shockwave", "quickattack", "irontail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magneton", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "triattack", "mirrorshot"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Wow! I’m surprised you’ve come this far, but you’ll have to turn back. There isn’t any chance that you could ever beat me!", "As a challenger, you’re one tough Trainer."]

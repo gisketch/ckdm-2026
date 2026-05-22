@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_black_belt_griffin",
+  "name": "Black Belt Griffin",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:breloom",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spore",
+        "machpunch",
+        "seedbomb",
+        "skyuppercut"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:medicham",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "detect",
+        "psychic",
+        "hijumpkick",
+        "icepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have meditated under a waterfall to temper my spirit. Allow me to demonstrate its strength!",
+    "All that time under the waterfall... Seems I\u2019ve caught a cold."
+  ]
+}

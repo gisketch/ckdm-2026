@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_x_sam"
+name = "Trainer Sam"
+title = "Trainer"
+gender = "any"
+archetype = "trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "trainer/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:luvdisc", level = 44, gender = "MALE", nature = "timid", ability = "soulheart", moveset = ["lovelykiss", "dazzlinggleam", "hydropump", "icebeam"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:flapple", level = 44, gender = "MALE", nature = "lonely", ability = "hustle", moveset = ["scaleshot", "gravapple", "dracometeor", "suckerpunch"], heldItem = "['eject_pack']", shiny = false, aspects = [] },
+  { species = "cobblemon:farfetchd", level = 44, gender = "FEMALE", nature = "jolly", ability = "sharpness", moveset = ["bravebird", "sacredsword", "leafblade", "nightslash"], heldItem = "['medicinal_leek']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

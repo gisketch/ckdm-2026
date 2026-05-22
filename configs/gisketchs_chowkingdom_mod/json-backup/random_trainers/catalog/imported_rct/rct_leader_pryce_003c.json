@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_pryce_003c",
+  "name": "Pryce",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "vanilluxe",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "snowwarning",
+      "moveset": [
+        "blizzard",
+        "freezedry",
+        "iceshard",
+        "flashcannon"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "tripleaxel",
+        "knockoff",
+        "lowkick",
+        "iceshard"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dewgong",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "icescales",
+      "moveset": [
+        "rest",
+        "sleeptalk",
+        "surf",
+        "toxic"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arctovish",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "slushrush",
+      "moveset": [
+        "fishiousrend",
+        "iciclecrash",
+        "psychicfangs",
+        "iciclespear"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crabominable",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "ironfist",
+      "moveset": [
+        "machpunch",
+        "iceshard",
+        "drainpunch",
+        "icehammer"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glalie",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "icebody",
+      "moveset": [
+        "doubleedge",
+        "earthquake",
+        "iceshard",
+        "crunch"
+      ],
+      "heldItem": "mega_showdown:glalitite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

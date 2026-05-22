@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_douglas"
+name = "Swimmer Douglas"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 61
+maxLevel = 63
+team = [
+  { species = "cobblemon:azumarill", level = 61, gender = "FEMALE", nature = "rash", ability = "hugepower", moveset = ["raindance", "doubleedge", "superpower", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 61, gender = "FEMALE", nature = "rash", ability = "liquidooze", moveset = ["hex", "sludgewave", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 62, gender = "FEMALE", nature = "timid", ability = "liquidooze", moveset = ["hex", "sludgewave", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lumineon", level = 63, gender = "FEMALE", nature = "naughty", ability = "stormdrain", moveset = ["tailwind", "uturn", "bounce", "tailglow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

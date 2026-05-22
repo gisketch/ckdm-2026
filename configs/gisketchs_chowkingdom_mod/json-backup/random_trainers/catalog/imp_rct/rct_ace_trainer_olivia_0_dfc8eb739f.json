@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_olivia_0354",
+  "name": "Ace Trainer Olivia",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "leechseed",
+        "gigadrain",
+        "synthesis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "flail",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

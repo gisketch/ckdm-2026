@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_maniac_m_ron"
+name = "Poke Maniac Ron"
+title = "Poke Maniac"
+gender = "male"
+archetype = "poke_maniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "poke_maniac/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:nidoking", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Would you get this? Some red-haired kid made fun of my precious Pokémon! Humph! My Pokémon’s great!", "It’s OK for people to like different types of Pokémon. Pokémon isn’t just about having the most powerful one."]

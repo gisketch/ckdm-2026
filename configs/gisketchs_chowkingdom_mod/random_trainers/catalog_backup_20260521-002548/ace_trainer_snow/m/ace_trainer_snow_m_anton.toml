@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_snow_m_anton"
+name = "Ace Trainer Snow Anton"
+title = "Ace Trainer Snow"
+gender = "male"
+archetype = "ace_trainer_snow"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer_snow/male"
+tier = "mid"
+spawnable = true
+height = 1.06
+weight = 1.06
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:glalie", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = ["icebeam", "crunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We spend all our time battling in the blizzards of Snowpoint City. We’ll show you how it’s toughened us up!", "You’ve battled all over, you say? That makes you tough, perhaps."]

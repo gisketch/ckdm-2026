@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "engineer_x_baily"
+name = "Engineer Baily"
+title = "Engineer"
+gender = "any"
+archetype = "engineer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "engineer/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 27
+maxLevel = 28
+team = [
+  { species = "cobblemon:voltorb", level = 28, gender = "GENDERLESS", nature = "calm", ability = "static", moveset = ["chargebeam", "swift", "electroball", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:emolga", level = 27, gender = "MALE", nature = "serious", ability = "motordrive", moveset = ["pursuit", "aircutter", "shockwave", "electroball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Engineer Baily is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,79 @@
+{
+  "id": "rct_rocket_admin_ariana_0036",
+  "name": "Rocket Admin Ariana",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rocket_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:incineroar",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "fakeout",
+        "partingshot",
+        "darkestlariat",
+        "firepunch"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:primarina",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "liquidvoice",
+      "moveset": [
+        "hypervoice",
+        "scald",
+        "psychic",
+        "dazzlinggleam"
+      ],
+      "heldItem": [
+        "throat_spray"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mawile",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "playrough",
+        "suckerpunch",
+        "ironhead",
+        "thunderpunch"
+      ],
+      "heldItem": [
+        "mega_showdown:mawilite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

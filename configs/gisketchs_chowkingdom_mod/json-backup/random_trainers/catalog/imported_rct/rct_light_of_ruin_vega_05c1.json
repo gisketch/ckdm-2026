@@ -1,0 +1,113 @@
+{
+  "id": "rct_light_of_ruin_vega_05c1",
+  "name": "Light of Ruin Vega",
+  "title": "Light Of Ruin",
+  "gender": "any",
+  "archetype": "light_of_ruin",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "liepard",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "unburden",
+      "moveset": [
+        "darkpulse",
+        "grassknot",
+        "burningjealousy",
+        "fakeout"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "honchkrow",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "superluck",
+      "moveset": [
+        "darkpulse",
+        "aircutter",
+        "heatwave",
+        "protect"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "absol",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "magicbounce",
+      "moveset": [
+        "nightslash",
+        "psychocut",
+        "xscissor",
+        "irontail"
+      ],
+      "heldItem": "mega_showdown:absolite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "knockoff",
+        "icepunch",
+        "brickbreak",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spiritomb",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "hex",
+        "painsplit",
+        "willowisp",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bisharp",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": [
+        "ironhead",
+        "suckerpunch",
+        "lowsweep",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

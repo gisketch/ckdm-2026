@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_destin_0235",
+  "name": "Youngster Destin",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "raticate",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "runaway",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "frisk",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

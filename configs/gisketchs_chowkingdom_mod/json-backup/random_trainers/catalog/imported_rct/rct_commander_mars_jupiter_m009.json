@@ -1,0 +1,49 @@
+{
+  "id": "rct_commander_mars_jupiter_m009",
+  "name": "Commanders Mars & Jupiter",
+  "title": "Commander Mars",
+  "gender": "any",
+  "archetype": "commander_mars",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "bronzor",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzor",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "extrasensory",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

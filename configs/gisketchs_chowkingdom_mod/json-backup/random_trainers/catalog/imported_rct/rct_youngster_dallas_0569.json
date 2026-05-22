@@ -1,0 +1,33 @@
+{
+  "id": "rct_youngster_dallas_0569",
+  "name": "Youngster Dallas",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "kricketune",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "furycutter",
+        "focusenergy",
+        "slash",
+        "xscissor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_bug_catcher_colton_02db",
+  "name": "Bug Catcher Colton",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "butterfree",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ragepowder",
+        "captivate",
+        "tailwind",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beedrill",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "swarm",
+      "moveset": [
+        "poisonjab",
+        "agility",
+        "endeavor",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "butterfree",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ragepowder",
+        "captivate",
+        "tailwind",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

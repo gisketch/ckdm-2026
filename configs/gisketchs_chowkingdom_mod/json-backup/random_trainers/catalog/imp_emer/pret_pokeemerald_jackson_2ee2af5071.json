@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_jackson_1",
+  "name": "Pokemon Ranger Jackson",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "pokemon_ranger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:breloom",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Ranger Jackson is ready for a battle."
+  ]
+}

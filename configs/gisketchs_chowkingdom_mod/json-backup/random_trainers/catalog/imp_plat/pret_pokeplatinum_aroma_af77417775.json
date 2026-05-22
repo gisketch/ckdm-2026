@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeplatinum_aroma_lady_elizabeth",
+  "name": "Aroma Lady Elizabeth",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "level": 14,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "growth",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I love Pok\u00e9mon that smell sweet. Like this one--get a whiff of this!",
+    "If you plant lots of Berries, you can be surrounded by sweet scents."
+  ]
+}

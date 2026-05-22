@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "maid_f_sophie"
+name = "Maid Sophie"
+title = "Maid"
+gender = "female"
+archetype = "maid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "maid/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = "standard"
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:clefairy", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = ["metronome", "sing", "meteormash", "endure"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Maid Sophie is ready for a battle."]

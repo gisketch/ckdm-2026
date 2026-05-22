@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemon_ranger_jeffrey_0336",
+  "name": "Pok\u00e9mon Ranger Jeffrey",
+  "title": "Pok\u00e9mon Ranger",
+  "gender": "any",
+  "archetype": "pok_mon_ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_ranger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.14,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:prinplup",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "charm",
+        "peck",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:prinplup",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "tackle",
+        "peck",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

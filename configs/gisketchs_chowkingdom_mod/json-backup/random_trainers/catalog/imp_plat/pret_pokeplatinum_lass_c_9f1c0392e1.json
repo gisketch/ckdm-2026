@@ -1,0 +1,54 @@
+{
+  "id": "pret_pokeplatinum_lass_caroline",
+  "name": "Lass Caroline",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:cherubi",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "leechseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "megadrain",
+        "poisonsting",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "A forest inside a Gym... Shocking, isn\u2019t it?",
+    "OK, the next Trainer is at the end, past two boulders."
+  ]
+}

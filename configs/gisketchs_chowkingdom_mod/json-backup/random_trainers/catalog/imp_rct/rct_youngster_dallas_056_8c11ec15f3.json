@@ -1,0 +1,40 @@
+{
+  "id": "rct_youngster_dallas_0568",
+  "name": "Youngster Dallas",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:kricketune",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "growl",
+        "bugbite",
+        "strugglebug",
+        "furycutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

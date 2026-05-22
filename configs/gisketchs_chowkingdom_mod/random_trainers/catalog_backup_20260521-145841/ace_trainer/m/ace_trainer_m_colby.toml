@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_colby"
+name = "Ace Trainer Colby"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 41
+maxLevel = 43
+team = [
+  { species = "cobblemon:kingler", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["guillotine", "stomp", "mudshot", "bubble"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwhirl", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bodyslam", "doubleslap", "watergun", "hypnosis"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["barrier", "wrap", "bubblebeam", "acid"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seadra", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["watergun", "smokescreen", "twister", "leer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:blastoise", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["watergun", "bite", "rapidspin", "raindance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Colby is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

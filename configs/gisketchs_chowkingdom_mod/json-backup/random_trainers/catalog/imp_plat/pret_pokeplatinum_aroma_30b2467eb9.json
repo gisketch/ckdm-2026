@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_aroma_lady_alison",
+  "name": "Aroma Lady Alison",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Aroma Lady Alison is ready for a battle."
+  ]
+}

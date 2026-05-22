@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_owen"
+name = "Youngster Owen"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:growlithe", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Owen is ready for a battle.", "There’s no cheating with Pokémon. Let’s keep it fair and square!", "I fought fair and square. I don’t regret this at all."]

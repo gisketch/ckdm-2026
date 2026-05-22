@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_school_kid_chance",
+  "name": "School Kid Male Chance",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightshade",
+        "suckerpunch",
+        "confuseray",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you lost? Are you enjoying yourself?",
+    "Whatever happens in life, it\u2019s better to try to enjoy it the best one can. Being in the dark here, I came to realize that."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_alvaro"
+name = "Psychic Alvaro"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:banette", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Alvaro is ready for a battle."]

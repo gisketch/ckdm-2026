@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_french"
+name = "Ace Trainer French"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 47
+maxLevel = 47
+team = [
+  { species = "cobblemon:absol", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychocut", "nightslash", "slash", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "focusblast", "energyball", "chargebeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You! I’ve been waiting for someone like you!", "That was a great fight! Don’t you agree?"]

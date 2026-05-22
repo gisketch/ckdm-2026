@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_glenn_04be",
+  "name": "Swimmer Glenn",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 51,
+  "team": [
+    {
+      "species": "seel",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "dive",
+        "aquatail",
+        "icebeam",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 51,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "hydropump",
+        "psychic",
+        "swift",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

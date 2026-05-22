@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_deandre"
+name = "Youngster Deandre"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 14
+maxLevel = 14
+team = [
+  { species = "cobblemon:zigzagoon", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:aron", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrike", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Deandre is ready for a battle."]

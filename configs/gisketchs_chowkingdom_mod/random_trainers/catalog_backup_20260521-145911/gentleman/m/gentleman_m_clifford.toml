@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_clifford"
+name = "Gentleman Clifford"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:marowak", level = 49, gender = "FEMALE", nature = "lonely", ability = "rockhead", moveset = ["thrash", "fling", "stompingtantrum", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 49, gender = "FEMALE", nature = "calm", ability = "swiftswim", moveset = ["psychic", "psychup", "nastyplot", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Clifford is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

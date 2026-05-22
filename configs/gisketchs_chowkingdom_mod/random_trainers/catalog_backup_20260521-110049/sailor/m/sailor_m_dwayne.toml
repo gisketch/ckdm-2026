@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_dwayne"
+name = "Sailor Dwayne"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:plusle", level = 28, gender = "FEMALE", nature = "hasty", ability = "plus", moveset = ["electroball", "copycat", "charm", "charge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:minun", level = 28, gender = "FEMALE", nature = "quirky", ability = "minus", moveset = ["electroball", "copycat", "faketears", "charge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sailor Dwayne is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

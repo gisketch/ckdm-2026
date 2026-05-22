@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_black_belt_kyle",
+  "name": "Black Belt Kyle",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:machop",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "This karate man\u2019s going to pulverize you!",
+    "It\u2019s obvious I need to train myself and my Pok\u00e9mon harder. Hey, if you\u2019ve got a Vs. Seeker, you\u2019d better put it to good use. Nothing beats some repeated battling for toughening up your Pok\u00e9mon."
+  ]
+}

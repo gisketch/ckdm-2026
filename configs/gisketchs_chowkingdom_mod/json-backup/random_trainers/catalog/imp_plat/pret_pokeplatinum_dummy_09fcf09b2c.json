@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_385",
+  "name": "Pokefan Female Angelica",
+  "title": "Pokefan Female",
+  "gender": "female",
+  "archetype": "pokefan_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "pokefan_female/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokefan Female Angelica is ready for a battle."
+  ]
+}

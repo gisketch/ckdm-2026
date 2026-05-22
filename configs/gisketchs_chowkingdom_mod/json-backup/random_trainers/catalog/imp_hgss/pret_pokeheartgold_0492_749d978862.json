@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0492_pokefan_male_alex",
+  "name": "Pokefan Male Alex",
+  "title": "Pokefan Male",
+  "gender": "male",
+  "archetype": "pokefan_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "pokefan_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:nidoking",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowking",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magikarp",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bow down before my regal Pok\u00e9mon!",
+    "Doesn\u2019t everyone wish to be a ruler someday?"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "rct_trainer_brendan_002c",
+  "name": "Trainer Brendan",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "trainer/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "cobblemon:corphish",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubble",
+        "harden",
+        "visegrip",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:treecko",
+      "level": 8,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "pound",
+        "leer",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

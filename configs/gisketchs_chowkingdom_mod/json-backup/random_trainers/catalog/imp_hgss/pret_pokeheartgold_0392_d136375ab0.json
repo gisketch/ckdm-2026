@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0392_poke_maniac_donald",
+  "name": "Poke Maniac Donald",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I think you have some rare Pok\u00e9mon with you. Let me see them!",
+    "Are you making a Pok\u00e9dex? Here\u2019s a hot tip. You want to battle as many Trainers as you can when you see them on routes and in caves. Their Pok\u00e9mon will be recorded in the Pok\u00e9dex, and they\u2019ll also make your Pok\u00e9mon grow!"
+  ]
+}

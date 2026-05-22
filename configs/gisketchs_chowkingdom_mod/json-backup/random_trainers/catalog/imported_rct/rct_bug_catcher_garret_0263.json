@@ -1,0 +1,33 @@
+{
+  "id": "rct_bug_catcher_garret_0263",
+  "name": "Bug Catcher Garret",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "heracross",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "takedown",
+        "megahorn",
+        "closecombat",
+        "reversal"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

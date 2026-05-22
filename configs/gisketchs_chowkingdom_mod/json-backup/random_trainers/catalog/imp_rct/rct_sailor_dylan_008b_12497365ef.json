@@ -1,0 +1,72 @@
+{
+  "id": "rct_sailor_dylan_008b",
+  "name": "Sailor Dylan",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:horsea",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "sniper",
+      "moveset": [
+        "watergun",
+        "twister",
+        "bubblebeam",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clamperl",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubble",
+        "whirlpool",
+        "irondefense",
+        "aurorabeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ducklett",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "frisk",
+      "moveset": [
+        "featherdance",
+        "icywind",
+        "aquaring",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

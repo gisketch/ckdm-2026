@@ -1,0 +1,97 @@
+{
+  "id": "rct_rival_terry_01b1",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "bravebird",
+        "closecombat",
+        "uturn",
+        "quickattack"
+      ],
+      "heldItem": "sharp_beak",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "darmanitan",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "flareblitz",
+        "rockslide",
+        "earthquake",
+        "uturn"
+      ],
+      "heldItem": "charcoal_stick",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "liquidation",
+        "aquajet",
+        "playrough",
+        "icepunch"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electivire",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "plasmafists",
+        "closecombat",
+        "machpunch",
+        "icepunch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "sleeppowder",
+        "gigadrain",
+        "sludgebomb",
+        "earthpower"
+      ],
+      "heldItem": "mega_showdown:venusaurite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

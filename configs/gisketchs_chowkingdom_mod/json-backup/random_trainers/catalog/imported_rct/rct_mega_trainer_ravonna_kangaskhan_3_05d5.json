@@ -1,0 +1,33 @@
+{
+  "id": "rct_mega_trainer_ravonna_kangaskhan_3_05d5",
+  "name": "Mega Trainer Ravonna",
+  "title": "Mega Trainer Ravonna Kangaskhan",
+  "gender": "any",
+  "archetype": "mega_trainer_ravonna_kangaskhan",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 75,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "kangaskhan",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "parentalbond",
+      "moveset": [
+        "doubleedge",
+        "retaliate",
+        "drainpunch",
+        "sleeptalk"
+      ],
+      "heldItem": "mega_showdown:kangaskhanite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0217_bird_keeper_gs_denis",
+  "name": "Bird Keeper Gs Denis",
+  "title": "Bird Keeper Gs",
+  "gender": "any",
+  "archetype": "bird_keeper_gs",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bird_keeper_gs/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:spearow",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:spearow",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We\u2019re pretty high up here. My bird Pok\u00e9mon are in prime form.",
+    "My bird Pok\u00e9mon trained in Cianwood. Since I\u2019ve lost, maybe we\u2019ll go across the sea."
+  ]
+}

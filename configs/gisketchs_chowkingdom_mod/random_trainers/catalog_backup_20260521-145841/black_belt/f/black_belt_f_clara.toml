@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_f_clara"
+name = "Black Belt Clara"
+title = "Black Belt"
+gender = "female"
+archetype = "black_belt"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "black_belt/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = "standard"
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:mankey", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mankey", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:primeape", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Blackbelt from Fighting Dojo is ready for a battle."]

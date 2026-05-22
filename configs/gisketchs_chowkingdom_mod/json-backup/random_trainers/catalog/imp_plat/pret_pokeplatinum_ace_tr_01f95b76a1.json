@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_skylar",
+  "name": "Ace Trainer Male Skylar",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:loudred",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hypervoice",
+        "bite",
+        "supersonic",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rampardos",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "headsmash",
+        "zenheadbutt",
+        "ancientpower",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "airslash",
+        "waterpulse",
+        "roost",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I was born in Floaroma Town. I\u2019m sure thrilled to be here. It took a long time to get here. We\u2019re not going to lose again!",
+    "You can level all you want, but that won\u2019t guarantee you any wins. But we keep trying to get better. That\u2019s what makes us Trainers."
+  ]
+}

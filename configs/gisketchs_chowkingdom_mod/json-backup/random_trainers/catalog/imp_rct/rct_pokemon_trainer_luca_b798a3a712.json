@@ -1,0 +1,134 @@
+{
+  "id": "rct_pokemon_trainer_lucas_0596",
+  "name": "Pok\u00e9mon Trainer Lucas",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "cobblemon:absol",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "megahorn",
+        "psychocut",
+        "stoneedge",
+        "nightslash"
+      ],
+      "heldItem": [
+        "razor_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kabutops",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "weakarmor",
+      "moveset": [
+        "rockslide",
+        "liquidation",
+        "leechlife",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:espeon",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "magicbounce",
+      "moveset": [
+        "psychic",
+        "psyshock",
+        "grassknot",
+        "dazzlinggleam"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rotom",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "leafstorm",
+        "thunderbolt",
+        "voltswitch",
+        "hex"
+      ],
+      "heldItem": [
+        "choice_specs"
+      ],
+      "shiny": false,
+      "aspects": [
+        "mow-appliance"
+      ]
+    },
+    {
+      "species": "cobblemon:porygonz",
+      "level": 70,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "adaptability",
+      "moveset": [
+        "triattack",
+        "hyperbeam",
+        "thunderwave",
+        "darkpulse"
+      ],
+      "heldItem": [
+        "silk_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:infernape",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "earthquake",
+        "closecombat",
+        "flareblitz",
+        "acrobatics"
+      ],
+      "heldItem": [
+        "white_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

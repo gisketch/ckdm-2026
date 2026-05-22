@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_miguel"
+name = "Fisherman Miguel"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 51
+maxLevel = 51
+team = [
+  { species = "cobblemon:gyarados", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:octillery", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Miguel is ready for a battle.", "Outdoor fishing for the win! Shouting doesn’t help my fishing any, but shout I must!", "Oh, right... My shouting is scaring away the Pokémon."]

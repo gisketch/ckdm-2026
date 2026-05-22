@@ -1,0 +1,56 @@
+{
+  "id": "rct_dragon_tamer_joe_040c",
+  "name": "Dragon Tamer Joe",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:gabite",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "bite",
+        "dragonclaw",
+        "dig"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

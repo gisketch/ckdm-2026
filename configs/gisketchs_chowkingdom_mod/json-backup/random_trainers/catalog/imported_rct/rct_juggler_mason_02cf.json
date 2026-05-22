@@ -1,0 +1,81 @@
+{
+  "id": "rct_juggler_mason_02cf",
+  "name": "Juggler Mason",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "electrode",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "magnetrise",
+        "discharge",
+        "explosion",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pineco",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "explosion",
+        "irondefense",
+        "gyroball",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrode",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "static",
+      "moveset": [
+        "magnetrise",
+        "discharge",
+        "explosion",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pineco",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "explosion",
+        "irondefense",
+        "gyroball",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

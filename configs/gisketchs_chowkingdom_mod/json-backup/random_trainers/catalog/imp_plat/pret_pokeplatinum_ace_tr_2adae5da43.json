@@ -1,0 +1,70 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_breanna",
+  "name": "Ace Trainer Female Breanna",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:bronzor",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzor",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzor",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "By focusing on only one type, you can really see the strengths and weaknesses of that Pok\u00e9mon.",
+    "Start by becoming friendly with your Pok\u00e9mon. I mean really friendly. If you do that, you\u2019ll learn naturally how you should battle with it."
+  ]
+}

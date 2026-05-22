@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_tuber_jared",
+  "name": "Tuber Male Jared",
+  "title": "Tuber Male",
+  "gender": "male",
+  "archetype": "tuber_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "tuber_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:shellos",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Isn\u2019t this nice? I love my inflatable tube!",
+    "Mom blew up my inflatable tube for me. I ran out of breath just opening it!"
+  ]
+}

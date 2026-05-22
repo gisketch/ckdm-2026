@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_x_blue"
+name = "Trainer Blue"
+title = "Trainer"
+gender = "any"
+archetype = "trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "trainer/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 92
+maxLevel = 95
+team = [
+  { species = "cobblemon:empoleon", level = 93, gender = "MALE", nature = "adamant", ability = "defiant", moveset = ["liquidation", "drillpeck", "rockslide", "agility"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:togedemaru", level = 92, gender = "MALE", nature = "timid", ability = "sturdy", moveset = ["nuzzle", "fakeout", "electroweb", "superfang"], heldItem = "['red_card']", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 95, gender = "MALE", nature = "modest", ability = "surgesurfer", moveset = ["thunderbolt", "psyshock", "grassknot", "protect"], heldItem = "['mega_showdown:aloraichium_z', 'electric_gem']", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:rotom", level = 94, gender = "GENDERLESS", nature = "modest", ability = "motordrive", moveset = ["thunderbolt", "leafstorm", "hiddenpower", "willowisp"], heldItem = "['white_herb']", shiny = false, aspects = ["mow-appliance"] },
+  { species = "cobblemon:manectric", level = 95, gender = "FEMALE", nature = "timid", ability = "intimidate", moveset = ["thunderbolt", "flamethrower", "snarl", "protect"], heldItem = "['mega_showdown:manectite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:melmetal", level = 94, gender = "GENDERLESS", nature = "adamant", ability = "ironfist", moveset = ["doubleironbash", "thunderpunch", "icepunch", "highhorsepower"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

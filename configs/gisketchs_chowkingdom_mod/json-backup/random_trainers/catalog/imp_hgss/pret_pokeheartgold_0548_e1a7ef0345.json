@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0548_black_belt_manford",
+  "name": "Black Belt Manford",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:poliwrath",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hydropump",
+        "dynamicpunch",
+        "mudshot",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "How about you just slow down and give me the chance to defeat you!",
+    "Even though you\u2019re so young, you have the spirit of battle within. You must have trained under a well-known master!"
+  ]
+}

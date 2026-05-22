@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_cameraman_tevin_unused",
+  "name": "Cameraman Tevin",
+  "title": "Cameraman",
+  "gender": "any",
+  "archetype": "cameraman",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cameraman/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:machop",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ve spotted a charismatic Trainer! We just might have a scoop here!",
+    "The lively expressions on you and your Pok\u00e9mon\u2019s faces... It sure makes for some great TV!"
+  ]
+}

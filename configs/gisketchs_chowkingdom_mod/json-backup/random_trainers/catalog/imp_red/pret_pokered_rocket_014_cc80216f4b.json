@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_rocket_014",
+  "name": "Rocket Nico",
+  "title": "Rocket",
+  "gender": "any",
+  "archetype": "rocket",
+  "region": "Kanto",
+  "category": "team",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drowzee",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rocket from Rocket Hideout B3F is ready for a battle."
+  ]
+}

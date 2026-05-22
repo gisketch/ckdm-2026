@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_maxwell"
+name = "Psychic Maxwell"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 58
+maxLevel = 62
+team = [
+  { species = "cobblemon:misdreavus", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Male Maxwell is ready for a battle.", "For some reason I was drawn here, and it is here that I met you... I want to know what all this means!", "I feel... I feel some sort of a mystic presence emanating from here..."]

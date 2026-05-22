@@ -1,0 +1,40 @@
+{
+  "id": "rct_lass_briana_037f",
+  "name": "Lass Briana",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "babydolleyes",
+        "quickattack",
+        "charm",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

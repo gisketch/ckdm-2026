@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0212_sailor_terrell",
+  "name": "Sailor Terrell",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Sailors are both kind and strong. How about you?",
+    "Every time I come back to Olivine, I visit the Gym. The Gym Leader\u2019s Pok\u00e9mon type changed without my noticing."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemon_ranger_kyler_04b8",
+  "name": "Pok\u00e9mon Ranger Kyler",
+  "title": "Pok\u00e9mon Ranger",
+  "gender": "any",
+  "archetype": "pok_mon_ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.14,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "worryseed",
+        "leechseed",
+        "gigadrain",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ursaring",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "scaryface",
+        "rest",
+        "snore",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

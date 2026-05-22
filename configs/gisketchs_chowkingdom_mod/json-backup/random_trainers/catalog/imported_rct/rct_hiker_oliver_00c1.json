@@ -1,0 +1,65 @@
+{
+  "id": "rct_hiker_oliver_00c1",
+  "name": "Hiker Oliver",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "nosepass",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "rockslide",
+        "earthpower",
+        "voltswitch",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shuckle",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "sturdy",
+      "moveset": [
+        "rockthrow",
+        "gastroacid",
+        "powertrick",
+        "shellsmash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "baltoy",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "selfdestruct",
+        "extrasensory",
+        "guardsplit",
+        "powersplit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

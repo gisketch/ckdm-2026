@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_adrian"
+name = "Swimmer Adrian"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 26
+maxLevel = 29
+team = [
+  { species = "cobblemon:mantyke", level = 26, gender = "FEMALE", nature = "sassy", ability = "waterabsorb", moveset = ["tackle", "supersonic", "wingattack", "bubblebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:remoraid", level = 29, gender = "FEMALE", nature = "hardy", ability = "sniper", moveset = ["focusenergy", "aurorabeam", "bubblebeam", "bulletseed"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacool", level = 29, gender = "FEMALE", nature = "sassy", ability = "clearbody", moveset = ["poisonsting", "acid", "waterpulse", "hex"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I only live to swim. Teach me what’s so fun about Pokémon!", "It’s what I live for! Pokémon!", "I have trained this team for the road. Challenge me if you are ready."]

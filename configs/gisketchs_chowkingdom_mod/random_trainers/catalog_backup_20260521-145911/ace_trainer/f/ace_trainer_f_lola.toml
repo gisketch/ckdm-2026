@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_lola"
+name = "Ace Trainer Lola"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 35
+maxLevel = 37
+team = [
+  { species = "cobblemon:dratini", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dragonair", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerf Lola is ready for a battle.", "Dragons are sacred Pokémon. They are full of life energy. If you’re not serious, you won’t be able to beat them.", "Dragons are weak against Dragon-type moves."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_felix_049f",
+  "name": "Ace Trainer Felix",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "dusclops",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "willowisp",
+        "nightshade",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "salamence",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragonclaw",
+        "crunch",
+        "flamethrower",
+        "fly"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

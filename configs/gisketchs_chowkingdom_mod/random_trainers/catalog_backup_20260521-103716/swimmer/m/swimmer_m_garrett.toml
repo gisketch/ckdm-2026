@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_garrett"
+name = "Swimmer Garrett"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "very_high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 90
+maxLevel = 93
+team = [
+  { species = "cobblemon:mantine", level = 92, gender = "MALE", nature = "timid", ability = "stormdrain", moveset = ["thunder", "sludgewave", "waterpulse", "hiddenpower"], heldItem = "['air_balloon']", shiny = false, aspects = ["sevii"] },
+  { species = "cobblemon:milotic", level = 90, gender = "MALE", nature = "timid", ability = "competitive", moveset = ["surf"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:greninja", level = 93, gender = "FEMALE", nature = "timid", ability = "protean", moveset = ["surf", "icebeam", "darkpulse", "extrasensory"], heldItem = "['choice_specs']", shiny = false, aspects = [] },
+  { species = "cobblemon:lapras", level = 93, gender = "FEMALE", nature = "modest", ability = "waterabsorb", moveset = ["boomburst", "blizzard", "dracometeor", "thunderbolt"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Garrett is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

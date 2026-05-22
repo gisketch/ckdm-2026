@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_alicia",
+  "name": "Ace Trainer Snow Female Alicia",
+  "title": "Ace Trainer Snow Female",
+  "gender": "female",
+  "archetype": "ace_trainer_snow_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "standard",
+  "minLevel": 40,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:sneasel",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icywind",
+        "slash",
+        "screech",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sneasel",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icywind",
+        "slash",
+        "screech",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you feeling all run-down? But a good Trainer is one who wins no matter the situation!",
+    "The Trainer\u2019s feelings... The Pok\u00e9mon\u2019s feelings... If they are one and the same, you will never lose."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_ivan"
+name = "Fisherman Ivan"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 5
+maxLevel = 7
+team = [
+  { species = "cobblemon:magikarp", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 7, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Ivan is ready for a battle."]

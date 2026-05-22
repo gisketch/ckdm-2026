@@ -1,0 +1,142 @@
+{
+  "id": "rct_gatekeeper_owen_00b0",
+  "name": "Gatekeeper Owen",
+  "title": "Gatekeeper",
+  "gender": "any",
+  "archetype": "gatekeeper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gatekeeper/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 92,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:meloetta",
+      "level": 92,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "serenegrace",
+      "moveset": [
+        "uturn",
+        "bodyslam",
+        "closecombat",
+        "rockslide"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "pirouette"
+      ]
+    },
+    {
+      "species": "cobblemon:mew",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "psychic",
+        "flamethrower",
+        "aurasphere",
+        "icebeam"
+      ],
+      "heldItem": [
+        "mega_showdown:mewnium_z",
+        "psychic_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "hypercutter",
+      "moveset": [
+        "crabhammer",
+        "ironhead",
+        "aquajet",
+        "closecombat"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:giratina",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "hex",
+        "dracometeor",
+        "shadowsneak",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "mega_showdown:griseous_orb",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "origin"
+      ]
+    },
+    {
+      "species": "cobblemon:enamorus",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "overcoat",
+      "moveset": [
+        "moonblast",
+        "uturn",
+        "focusblast",
+        "psychic"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": [
+        "therian"
+      ]
+    },
+    {
+      "species": "cobblemon:zebstrika",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "illuminate",
+      "moveset": [
+        "blizzard",
+        "thunder",
+        "voltswitch",
+        "freezedry"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_team_galactic_grunt_0471",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "croagunk",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "anticipation",
+      "moveset": [
+        "taunt",
+        "revenge",
+        "suckerpunch",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "stunky",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "aftermath",
+      "moveset": [
+        "poisongas",
+        "smokescreen",
+        "acidspray",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glameow",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "owntempo",
+      "moveset": [
+        "growl",
+        "hypnosis",
+        "aerialace",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

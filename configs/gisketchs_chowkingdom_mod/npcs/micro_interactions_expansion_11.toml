@@ -5,6 +5,8 @@ source_tags = ["witcher"]
 target_tags = ["town"]
 line = "New notices on the board. Silver coin jobs."
 response = "Read them. No simple pest work I hope."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["witcher", "monster_hunter"]
 target_tags = ["mentor"]
 line = "Three-toed prints lead into the eastern thicket."
 response = "Follow the deeper impressions. Ignore the false trails."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["class_witcher", "monster_hunter"]
 target_tags = ["town"]
 line = "Oiling my silver edge before dusk falls."
 response = "Good. Dull blades make for long evenings."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["witcher", "monster_hunter"]
 target_tags = ["town"]
 line = "Found a disturbed barrow south of the old well."
 response = "Mark the site. We clear it together at dawn."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["ciri"]
 target_tags = ["mentor", "town"]
 line = "Your pirouette timing grows sharper each week."
 response = "Practice blinks between the strikes. That saves lives."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["geralt"]
 target_tags = ["town", "mentor"]
 line = "Read the notice twice. Take half the coin upfront."
 response = "And always check the alderman for hidden teeth."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["witcher", "sword_technique"]
 target_tags = ["mentor"]
 line = "My parry slides. The weight shift feels wrong."
 response = "Plant the back heel. Let the sword pivot, not your arm."
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["monster_hunter"]
 target_tags = ["town", "mentor"]
 line = "Claw marks on the chapel stones. Bear or barghest?"
 response = "Barghest. Bears drag sideways when they scratch."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["monster_hunter"]
 target_tags = ["pokemon", "researcher"]
 line = "Have you seen nocturnal pokemon near the cairns?"
 response = "Some glow softly. They avoid the plagued ground."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["witcher", "class_witcher"]
 target_tags = ["town"]
 line = "I have three Swallow vials left for the season."
 response = "Share with none but the gravely wounded."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["monster_hunter"]
 target_tags = ["skyland_lore", "mentor"]
 line = "The floating ruins hum with old curse tones."
 response = "Wraith songs. Carry dimeritium before you leap."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["monster_hunter", "witcher"]
 target_tags = ["town"]
 line = "Patrol the west fence tonight. Something digs there."
 response = "I will walk the perimeter until moonrise."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["monster_hunter"]
 line = "These scratch samples are not from any pokemon breed."
 response = "I know. I tracked the creature for three nights."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["witcher"]
 target_tags = ["store_explorer", "town"]
 line = "The board wood is rotting. Replace the oak planks."
 response = "I will craft fresh ones by midday."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["class_witcher", "witcher"]
 target_tags = ["mentor"]
 line = "My Quen sphere flickers under heavy impacts."
 response = "Hold the breath longer. Will the shield into stillness."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["witcher", "fire_wizard"]
 target_tags = ["mentor"]
 line = "Igni scorched the meadow beyond my intent."
 response = "Imagine a candle. Not a bonfire. Focus narrow."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["witcher"]
 target_tags = ["town"]
 line = "Used Aard to clear the landslide on the pass."
 response = "Good. The merchants will reach market tonight."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["witcher", "monster_hunter"]
 target_tags = ["mentor"]
 line = "Yrden glyphs overlap poorly on uneven stone."
 response = "Draw them wider. Slow the fiend, do not cage it."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["witcher", "class_witcher"]
 target_tags = ["town"]
 line = "Axiied a frightened horse near the bridge."
 response = "Use it gently. Coercion leaves marks on the mind."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["zuko", "fire_wizard"]
 target_tags = ["monster_hunter"]
 line = "The eclipse last week moved the fiend pack north."
 response = "I noticed. Fresh tracks near the old watchtower."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["link"]
 target_tags = ["witcher", "sword_technique"]
 line = "Your spin slash recovers faster than mine."
 response = "Yours carries more power. Trade drills at noon?"
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["zelda", "light_magic"]
 target_tags = ["monster_hunter"]
 line = "I sense corrupted light under the southern shrine."
 response = "Then I bring silver and salt. Stand behind me."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["toph", "earth_wizard"]
 target_tags = ["witcher"]
 line = "I feel digging underneath the clay quarry."
 response = "Burrower type. We need shock traps, not swords."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["gandalf", "wizard"]
 target_tags = ["witcher", "monster_hunter"]
 line = "The stars whisper of a hunt beneath the hill."
 response = "I prefer tracks over whispers. But I will go."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["marceline", "nocturnal", "musician"]
 target_tags = ["monster_hunter"]
 line = "Heard a baying song near the cemetery last midnight."
 response = "That is no song. That is a howler on the prowl."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["aloy", "bounty_hunter"]
 target_tags = ["witcher"]
 line = "Your bombs use dimeritium powder? Show me the mix."
 response = "Dimeritium, saltpeter, and a dash of devil's puffball."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["legolas", "war_archer"]
 target_tags = ["witcher"]
 line = "I sighted a wounded griffin on the eastern peak."
 response = "Wounded beasts are the most dangerous. Wait for me."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["traxex", "tundra_archer"]
 target_tags = ["witcher", "monster_hunter"]
 line = "A frost-touched wyrm surfaced near the ice lake."
 response = "I will prepare Northern Wind bombs and heated oil."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["finn", "warrior"]
 target_tags = ["witcher", "sword_technique"]
 line = "I blocked ten of your cuts. Is that a record?"
 response = "You also left your left flank open eleven times."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["invoker", "arcane_wizard"]
 target_tags = ["witcher"]
 line = "The shopkeeper's hex is subtle. I need your signs."
 response = "Yrden on the doorframe. Axii on the mirror. Go."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["elsa", "frost_wizard"]
 target_tags = ["witcher"]
 line = "My ice slows the strigae only for moments."
 response = "Moments are enough. Freeze the legs. I strike."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["katara", "water_wizard"]
 target_tags = ["witcher"]
 line = "That venom spread quickly. Let my water draw it out."
 response = "Grateful. A witcher's kit can only do so much."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["aang", "wind_wizard"]
 target_tags = ["witcher"]
 line = "I swept the northern ridge on my glider. Clear."
 response = "Then we push through the low valley before noon."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["huntress_wizard", "archer"]
 target_tags = ["witcher"]
 line = "My cursed arrows miss. The specter bends the shafts."
 response = "Silver tips. Plain wood. No enchantments to corrupt."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["zagreus", "berserker"]
 target_tags = ["witcher"]
 line = "I charged the wyvern alone and lost two ribs."
 response = "Bravery without plan is just loud dying. Rest."
+source_emote = "facepalm"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["ezio", "rogue"]
 target_tags = ["witcher"]
 line = "The alderman meets cloaked figures at the granary."
 response = "Mark him. I will demand answers after the contract."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["pope_leo", "priest"]
 target_tags = ["witcher"]
 line = "May I bless your blade before the hunt?"
 response = "Steel accepts any help against the spectral kind."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["pope_leo", "priest"]
 target_tags = ["witcher", "monster_hunter"]
 line = "Unsanctified graves disturb the parish grounds."
 response = "Noonwraith soil. I will consecrate it after the purge."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["tarnished", "paladin"]
 target_tags = ["witcher"]
 line = "Stand behind my shield when the barghest pack charges."
 response = "I accept. Cover my flank while I lay Yrden traps."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["vi", "forcemaster"]
 target_tags = ["witcher"]
 line = "I can restrain the golem's left arm for six seconds."
 response = "Six seconds is all I need to reach its core."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["venti", "bard"]
 target_tags = ["witcher"]
 line = "A wandering merchant sang of your griffin contract."
 response = "Then he exaggerated. I did not leap the ravine."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["shoumai", "store_cosmetics"]
 target_tags = ["witcher"]
 line = "I mixed a scent paste to mask human odor."
 response = "Useful. The nekkers track by smell more than sight."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["ciri"]
 target_tags = ["monster_hunter"]
 line = "I felt a temporal ripple near the dolmen stones."
 response = "Anomaly beasts. They phase. Hit only when solid."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["geralt"]
 target_tags = ["witcher", "sword_technique"]
 line = "Remember the half-spin dodge from the school yard."
 response = "Still saves my spine. The young ones prefer rolling."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["link"]
 target_tags = ["witcher", "skyland_survival"]
 line = "An aeromonculus nests on the floating terrace."
 response = "I will climb at first light. Bring ropes and a crossbow."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["bubblegum", "cobblemon_biology"]
 target_tags = ["witcher", "monster_hunter"]
 line = "I need ectoplasm samples from post-wraith battle."
 response = "Bring glass vials and thick gloves. I will collect it."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["witcher"]
 target_tags = ["store_seed", "town"]
 line = "I require arenaria and wolfsbane. Fresh if possible."
 response = "The greenhouse has both. Leave coin or trade signs."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["witcher", "class_witcher"]
 target_tags = ["mentor"]
 line = "What sign halts a pack of drowned dead fastest?"
 response = "Yrden ring. Then Igni the center. Do not hesitate."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["witcher", "monster_hunter"]
 target_tags = ["skyland_lore", "town"]
 line = "I charted lairs across the skyland archipelago."
 response = "Pin it on the contract board. We share the burden."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["witcher", "class_witcher"]
 target_tags = ["fire_wizard", "mentor"]
 line = "Your Igni is fierce, but can it cauterize a neck wound mid-fight?"
 response = "Better question: can your signs ward off a draconic fire spirit?"
+source_emote = "threaten"
+target_emote = "head_scratches"
 weight = 1.0

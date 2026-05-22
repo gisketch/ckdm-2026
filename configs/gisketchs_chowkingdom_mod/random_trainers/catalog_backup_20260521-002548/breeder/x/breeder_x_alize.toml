@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "breeder_x_alize"
+name = "Breeder Alize"
+title = "Breeder"
+gender = "any"
+archetype = "breeder"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "breeder/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:pikachu", level = 53, gender = "MALE", nature = "lax", ability = "static", moveset = ["thunderbolt", "agility", "wildcharge", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefairy", level = 53, gender = "MALE", nature = "hardy", ability = "magicguard", moveset = ["softboiled", "moonblast", "gravity", "meteormash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marill", level = 53, gender = "FEMALE", nature = "naughty", ability = "hugepower", moveset = ["raindance", "doubleedge", "superpower", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

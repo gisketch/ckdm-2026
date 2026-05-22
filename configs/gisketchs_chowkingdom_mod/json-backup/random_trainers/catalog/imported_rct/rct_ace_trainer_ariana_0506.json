@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_ariana_0506",
+  "name": "Ace Trainer Ariana",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "ambipom",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "doublehit",
+        "astonish",
+        "agility",
+        "batonpass"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "flashfire",
+      "moveset": [
+        "flamewheel",
+        "poisonjab",
+        "smartstrike",
+        "flamecharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chansey",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "charm",
+        "softboiled",
+        "disarmingvoice",
+        "covet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

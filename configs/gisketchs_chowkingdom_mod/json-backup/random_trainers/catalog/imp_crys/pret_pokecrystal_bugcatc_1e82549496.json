@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokecrystal_bugcatcher_018_arnie",
+  "name": "Bug Catcher Arnie",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:venomoth",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gust",
+        "supersonic",
+        "psychic",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bug Catcher Arnie is ready for a battle."
+  ]
+}

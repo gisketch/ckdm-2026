@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_deandre"
+name = "Psychic Deandre"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:dusknoir", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shadowpunch", "firepunch", "icepunch", "thunderpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["A battle is a clash of willpower! The one who wants the win the most will emerge the victor!", "Psychic power... I know it isn’t easy to believe in something that you can’t see. But love, friendship... You can’t see those, either."]

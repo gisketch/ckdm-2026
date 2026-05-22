@@ -1,0 +1,49 @@
+{
+  "id": "rct_gentleman_leonardo_0487",
+  "name": "Gentleman Leonardo",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "starly",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hoothoot",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "insomnia",
+      "moveset": [
+        "reflect",
+        "psychoshift",
+        "airslash",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

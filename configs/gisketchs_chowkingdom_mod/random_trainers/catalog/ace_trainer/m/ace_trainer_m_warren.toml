@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_warren"
+name = "Ace Trainer Warren"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 37
+maxLevel = 39
+team = [
+  { species = "cobblemon:marowak", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bonemerang", "headbutt", "leer", "growl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marowak", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bonemerang", "headbutt", "leer", "growl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhyhorn", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["takedown", "rockblast", "furyattack", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorina", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyswipes", "bite", "poisonsting", "doublekick"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoqueen", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bodyslam", "bite", "poisonsting", "doublekick"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Warren is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

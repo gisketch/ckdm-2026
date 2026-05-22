@@ -16,11 +16,11 @@ hurt_messages = ["Ow. I've had worse from Father, but still.", "Careful, mate. I
 wake_messages = ["Already back from the dead? No, just awake.", "If this is an escape attempt, I'm listening.", "Right. Awake. What's trying to kill us?"]
 npc_interaction_messages = ["Asking {other} if this counts as another escape route.", "Comparing underworld hazards with {other}.", "Telling {other} that dying here is less convenient than at home."]
 work_blocks = [
-  { id = "minecraft:grindstone", count = 1, display_name = "weapon grindstone" },
   { id = "minecraft:anvil", count = 1, display_name = "weapon anvil" },
-  { id = "minecraft:barrel", count = 2, display_name = "boon supply barrels" },
+  { id = "minecraft:grindstone", count = 1, display_name = "weapon grindstone" },
   { id = "minecraft:campfire", count = 1, display_name = "training fire" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "supplementaries:candle_holder_soul", count = 1, display_name = "underworld candle holder" },
+  { id = "supplementaries:pedestal", count = 1, display_name = "boon pedestal" },
 ]
 
 [boss]
@@ -166,4 +166,6 @@ pool = [
   { id = "zagreus_food_nether_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Nether Salad And Bring It Back", quest_text = "Prepare nether salad after I ask; terrible name, useful practice.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:nether_salad", fetch_count = 1, filters = { item = "farmersdelight:nether_salad" }, weight = 8 },
   { id = "zagreus_timed_skeletons", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Skeletons In {seconds}s", quest_text = "Clear skeletons before they start feeling like home.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 4, time_window_seconds = 25, filters = { entity = "minecraft:skeleton", dimension = "minecraft:overworld" }, weight = 12 },
   { id = "zagreus_quiz_underworld_escape_and_controlled_fury", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Zagreus's underworld quiz before the next escape attempt.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "underworld escape and controlled fury", weight = 10 },
+  { id = "zagreus_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Zagreus", quest_text = "Zagreus has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "zagreus_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Zagreus", quest_text = "Zagreus wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

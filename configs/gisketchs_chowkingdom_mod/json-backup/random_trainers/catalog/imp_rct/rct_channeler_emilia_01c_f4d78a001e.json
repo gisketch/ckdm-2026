@@ -1,0 +1,40 @@
+{
+  "id": "rct_channeler_emilia_01c4",
+  "name": "Channeler Emilia",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:xatu",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "ominouswind",
+        "confuseray",
+        "wish",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

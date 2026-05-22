@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_maya",
+  "name": "Ace Trainer Female Maya",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 24,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "toxicspikes",
+        "gigadrain",
+        "leechseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ralts",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "magicalleaf",
+        "calmmind",
+        "doubleteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lickitung",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "supersonic",
+        "stomp",
+        "rollout",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m taking the Veilstone Gym challenge. But first...",
+    "I think about Pok\u00e9mon all day long. I was confident, you know."
+  ]
+}

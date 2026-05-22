@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_gentleman_002_edward",
+  "name": "Gentleman Edward",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Gentleman Edward is ready for a battle."
+  ]
+}

@@ -2,11 +2,13 @@
 id = "expansion_06_001"
 topic = "stance_low_guard"
 source_tags = ["warrior"]
+required_spawned_ids = ["finn"]
 target_tags = ["mentor", "warrior"]
 line = "Finn, your low stance still drifts wide."
 response = "My shield arm locks when I rush. I'll drill the narrow base again."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_06_002"
 topic = "shield_angle_breathe"
@@ -14,6 +16,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Keep the rim tilted after your exhale."
 response = "Right. I drop my elbow when I gasp. I'll count breaths between blocks."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Head strikes are off limits until you pass restraint drills."
 response = "Understood. I'll stay shoulder and shield level."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "You stop the bash halfway. Shove through the phantom."
 response = "I hesitate to avoid hurting a partner. Need to trust the padded gear."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Catch the blade on the rim, not the boss."
 response = "Gauntlet scraped again. I'll pivot my wrist earlier."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Draw a circle in the sand and never leave it."
 response = "That forces tight pivots. My toes are sore already."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Three strikes one breath. Exhale only on the third."
 response = "I panic-breathe mid-swing and lose power. I'll chain slower first."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "In a clinch the boss becomes your shortest hammer."
 response = "Turn the rim sideways, drive the center. Got it."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Your eyes flick to the weapon hand only."
 response = "I'll fix my gaze on the collarbone. The shield sees the blade."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Recover the hook strike to guard, never to hip."
 response = "I'm leaving my ribs open. Shield snaps back next rep."
+source_emote = "threaten"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Bash, sweep, shield trap. Slow it to half speed."
 response = "I rushed the trap and bumped your helm. Slower, cleaner."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Retreat at forty-five degrees, never straight back."
 response = "Straight retreat invites a rush. I'll mark the floor with chalk."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Trade shield hands for ten breaths. Build your off-side."
 response = "Feels like a lead weight on the left. But the control improves."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Blindfold on. Raise shield when you hear the scabbard tap."
 response = "I flinched late twice. The ears need as much training as the arms."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "When your lungs burn, that's when form matters most."
 response = "I felt my elbow sag. I'll run a lap then repeat the set."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Match my exhale with every block. Become a bellows."
 response = "I was holding breath on the riposte. Two-count exhale from now on."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Locked knees telegraph a lunge before you move."
 response = "Soft bounce. I'll keep a slight bend even during lectures."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Tap the wooden post one hundred times each edge."
 response = "Counting now. The vibration teaches wrist alignment."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Push into my shield. When I yield, don't stumble."
 response = "I over-committed again. Need to read the give sooner."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "A buckler hides your strike, not your eyes."
 response = "I tucked my chin behind it. Keep sight lines open."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Imagine two allies flanking you. Overlap the shadow rims."
 response = "My phantom wall had gaps. I'll redraw the mental line."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "If the blade fails, the pommel is your second voice."
 response = "I always forget the short game. Reverse grip drill again."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "A charge wins ground but loses footing on loose stone."
 response = "I slipped twice in the quarry. Controlled march from now on."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Catch the practice blade in the rim notch, twist and step."
 response = "Twisting too early. The catch must stick before I rotate."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Shoulders up steals breath and invites a cut."
 response = "Caught myself bunching up. Shake out, reset, breathe."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Two padded partners, one shield. Survive sixty heartbeats."
 response = "I turtled too soon. Need to angle between threats."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "If you fall, roll to the shield side and post."
 response = "I stayed belly-down too long. One motion, up to knee."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "I feint high. You read the hip, not the blade."
 response = "Bought the feint three times. My shield drifted too early."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Lead with the hip when advancing, not the chin."
 response = "I lean forward and lose my rear anchor. Compact steps only."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Drill in full kit until the heat feels normal."
 response = "My gambeson is soaked but my reactions steadied."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Torchlight only. Trust the shield more than your eyes."
 response = "My ears picked up the scabbard creak before the swing."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Jab the padded circle with your rim five times without a miss."
 response = "First two landed wide. I'm overextending the elbow."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "When staggered, find a wall with your shield shoulder."
 response = "Turned my back for a split second. Bad habit. Shield first."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Wrap your knuckles behind the buckler boss."
 response = "My fingers peeked out. I'll choke up on the grip."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Check your shield for splinters every dusk."
 response = "Found a crack near the top rim. I'll sand and wrap it."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Advance five rungs up a ladder with shield strapped."
 response = "Kept hitting the rails. Need to angle the shield flat."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "One whistle: shield wall. Two: open order."
 response = "I froze on the second whistle. Drill until it is reflex."
+source_emote = "hands_in_back"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Bind his blade, pop the shield into his elbow."
 response = "My pop was soft. I'll treat it like a quick exhale jab."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Pass the shield behind your back to free your draw."
 response = "Snagged my belt twice. Higher pass and a hip tilt."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Chalk the grip hand every third bout."
 response = "Lost hold during a clinch. Chalk pouch on my belt now."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Cross the narrow plank with shield centered."
 response = "Leaned too far right and almost fell. Core tight, shield level."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Deflect a thrust with the curved face, not the flat."
 response = "Flat catch jars my wrist. Curve redirects it smoother."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "March three miles with the shield on your back."
 response = "Straps rubbed raw. I'll pad them before the next route march."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "I'll blast your shield with a sandbag. Don't step back."
 response = "Braced better on the third hit. Bent knees absorbed the shock."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Half-sword the blade, trap their hilt under your rim."
 response = "Needed to shorten my grip sooner. Blades tangled once."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Drop the kite shield to cover the lead knee in a crouch."
 response = "I left a gap below the rim. Lower the elbow to seal it."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Tap shields before every bout. It centers the room."
 response = "I forgot twice. The ritual reminds me we build, not break."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Catch the tossed beanbag on your rim without a sound."
 response = "Too loud. I'm stopping the bag instead of guiding it down."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Hold the shield at guard until the sand timer empties."
 response = "My deltoid screamed at the last grain. I'll add one minute weekly."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["warrior"]
 target_tags = ["mentor", "warrior"]
 line = "Let me see your shield grip again. Tighter near the boss."
 response = "Like this? I always want the rim free for a quick bash."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0

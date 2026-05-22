@@ -1,0 +1,56 @@
+{
+  "id": "rct_scientist_travis_0159",
+  "name": "Scientist Travis",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:kabutops",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "sharpness",
+      "moveset": [
+        "endure",
+        "aquajet",
+        "megadrain",
+        "metalsound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:omastar",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "brine",
+        "detect",
+        "ancientpower",
+        "meteorbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

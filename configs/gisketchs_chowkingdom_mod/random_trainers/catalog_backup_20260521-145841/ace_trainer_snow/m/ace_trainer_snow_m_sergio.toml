@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_snow_m_sergio"
+name = "Ace Trainer Snow Sergio"
+title = "Ace Trainer Snow"
+gender = "male"
+archetype = "ace_trainer_snow"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer_snow/male"
+tier = "mid"
+spawnable = true
+height = 1.06
+weight = 1.06
+bustStyle = ""
+minLevel = 41
+maxLevel = 42
+team = [
+  { species = "cobblemon:snover", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["iceshard", "swagger", "icywind", "woodhammer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sneasel", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["icywind", "slash", "feintattack", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["...It’s t-too cold. I can’t even feel my t-tongue.", "The higher up you slide from, the more speed you’ll have to smash those big snowballs."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranchers_m_matt"
+name = "Ranchers Matt"
+title = "Ranchers"
+gender = "male"
+archetype = "ranchers"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ranchers/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:glameow", level = 21, gender = "FEMALE", nature = "relaxed", ability = "limber", moveset = ["fakeout", "growl", "aerialace", "furyswipes"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

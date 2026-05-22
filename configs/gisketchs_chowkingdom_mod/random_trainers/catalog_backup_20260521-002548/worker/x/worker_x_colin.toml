@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_x_colin"
+name = "Worker Colin"
+title = "Worker"
+gender = "any"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 7
+maxLevel = 7
+team = [
+  { species = "cobblemon:geodude", level = 7, gender = "MALE", nature = "quirky", ability = "rockhead", moveset = ["tackle", "defensecurl", "sandstorm", "rockpolish"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 7, gender = "FEMALE", nature = "bold", ability = "rockhead", moveset = ["tackle", "harden", "bind", "rockthrow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fine, all righty then. Just a quick battle on my break!", "I’d better get on back to work... You know, I’d rather be traveling around with Pokémon the way you do.", "I have trained this team for the road. Challenge me if you are ready."]

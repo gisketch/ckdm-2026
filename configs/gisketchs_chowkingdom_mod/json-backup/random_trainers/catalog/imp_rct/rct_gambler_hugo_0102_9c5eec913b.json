@@ -1,0 +1,56 @@
+{
+  "id": "rct_gambler_hugo_0102",
+  "name": "Gambler Hugo",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gambler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bubble",
+        "doubleslap",
+        "raindance",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:falinks",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "battlearmor",
+      "moveset": [
+        "focusenergy",
+        "headbutt",
+        "bulkup",
+        "endure"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

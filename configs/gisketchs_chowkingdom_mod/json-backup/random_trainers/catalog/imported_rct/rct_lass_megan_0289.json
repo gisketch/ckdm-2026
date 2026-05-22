@@ -1,0 +1,96 @@
+{
+  "id": "rct_lass_megan_0289",
+  "name": "Lass Megan",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 46,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "pidgeot",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "tangledfeet",
+      "moveset": [
+        "roost",
+        "agility",
+        "airslash",
+        "mirrormove"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raticate",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "guts",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorino",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonjab",
+        "toxicspikes",
+        "flatter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "persian",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "technician",
+      "moveset": [
+        "shockwave",
+        "powergem",
+        "slash",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raichu",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "thunderbolt",
+        "extremespeed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

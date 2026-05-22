@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_brenna"
+name = "Ace Trainer Brenna"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = "standard"
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:snover", level = 39, gender = "MALE", nature = "relaxed", ability = "snowwarning", moveset = ["iceshard", "razorleaf", "icywind", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,112 @@
+{
+  "id": "rct_leader_whitney_004c",
+  "name": "Whitney",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 95,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "zangoose",
+      "level": 97,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "toxicboost",
+      "moveset": [
+        "facade",
+        "closecombat",
+        "quickattack",
+        "fakeout"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "miltank",
+      "level": 97,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "thunderwave",
+        "stealthrock",
+        "milkdrink"
+      ],
+      "heldItem": "kasib_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "exploud",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "punkrock",
+      "moveset": [
+        "boomburst"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zoroark",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "shadowball",
+        "hypervoice",
+        "flamethrower",
+        "uturn"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "ursaluna",
+      "level": 97,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "facade",
+        "earthquake",
+        "suckerpunch",
+        "shadowclaw"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "curse",
+        "rest",
+        "sleeptalk",
+        "bodyslam"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

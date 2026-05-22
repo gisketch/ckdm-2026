@@ -16,11 +16,11 @@ hurt_messages = ["Please be careful. Fear makes ice sharper.", "That was unwise,
 wake_messages = ["I'm awake. Is everyone safe?", "What happened?", "If there is danger, tell me calmly."]
 npc_interaction_messages = ["Showing {other} how frost can shield without trapping.", "Asking {other} whether anyone feels afraid today.", "Shaping a small snowflake while {other} watches quietly."]
 work_blocks = [
-  { id = "minecraft:blue_ice", count = 4, display_name = "blue ice focus" },
-  { id = "minecraft:snow_block", count = 8, display_name = "snow blocks" },
+  { id = "minecraft:blue_ice", count = 2, display_name = "blue ice focus" },
+  { id = "minecraft:snow_block", count = 2, display_name = "snow sculpture blocks" },
+  { id = "supplementaries:crystal_display", count = 1, display_name = "ice crystal display" },
+  { id = "another_furniture:light_blue_lamp", count = 1, display_name = "frost palace lamp" },
   { id = "minecraft:cauldron", count = 1, display_name = "meltwater cauldron" },
-  { id = "minecraft:lantern", count = 2, display_name = "palace lanterns" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
 ]
 
 [boss]
@@ -166,4 +166,6 @@ pool = [
   { id = "elsa_food_melon_popsicle", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Melon Popsicles And Bring It Back", quest_text = "Prepare melon popsicles after I ask; some cold should make people smile.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 2, fetch_item = "farmersdelight:melon_popsicle", fetch_count = 2, filters = { item = "farmersdelight:melon_popsicle" }, weight = 10 },
   { id = "elsa_timed_strays", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Strays In {seconds}s", quest_text = "Quiet a stray frost volley before it reaches town.", pass_id = "combat", xp = 80, chowcoins = 50, goal = 3, time_window_seconds = 30, filters = { entity = "minecraft:stray" }, weight = 12 },
   { id = "elsa_quiz_frost_restraint_and_calm_control", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Elsa's quiz about control before power.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "frost restraint and calm control", weight = 10 },
+  { id = "elsa_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Elsa", quest_text = "Elsa has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "elsa_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Elsa", quest_text = "Elsa wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

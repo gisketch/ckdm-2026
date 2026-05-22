@@ -1,0 +1,33 @@
+{
+  "id": "rct_pokemon_trainer_lucas_04cd",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "turtwig",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "withdraw",
+        "absorb",
+        "razorleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

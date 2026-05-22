@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_jasmine_003f",
+  "name": "Jasmine",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "bronzong",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "ironhead",
+        "earthquake",
+        "stealthrock",
+        "explosion"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "melmetal",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "doubleironbash",
+        "earthquake",
+        "thunderpunch",
+        "superpower"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "excadrill",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandforce",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "ironhead",
+        "swordsdance"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magnezone",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "magnetpull",
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "flashcannon",
+        "bodypress"
+      ],
+      "heldItem": "magnet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "uturn",
+        "dualwingbeat",
+        "bulletpunch",
+        "superpower"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "heavyslam",
+        "firepunch",
+        "earthquake",
+        "dragonclaw"
+      ],
+      "heldItem": "mega_showdown:aggronite iron_ball",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

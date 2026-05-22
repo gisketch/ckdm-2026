@@ -5,6 +5,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Fresh Oran and Sitrus berries just arrived from the greenhouse."
 response = "Perfect timing. I was running low on field treats for the rookies."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "The new display holds Heavy Balls near the counter."
 response = "I noticed. Fletchling tried to perch on the top shelf already."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "I moved the Incense shelf away from the honey jars."
 response = "Smart. Last week a Combee followed the scent inside."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "All evolution stones now have hand-painted labels."
 response = "Good. A miner almost grabbed a Fire Stone thinking it was citrine."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Trim scissors for the field kits arrived today."
 response = "I will tell the scouts. Their Furfrou spa day is overdue."
+source_emote = "hi"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Check the Potion shelf. It rattled during the tremor."
 response = "Already done. Nothing broke, but a Super Potion rolled behind the crate."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Roto Bundle catalogs are by the door now."
 response = "Handy. Travelers grab one before heading to the skylands."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Max Repel bottles need a lower shelf, too tall for the top."
 response = "I will swap them with the Antidote trays after lunch."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Berry pouch samples are open by the seed rack."
 response = "Nice. Travelers can test the snap clasp before buying."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Magnifying lenses for the field kits are back in stock."
 response = "Bubblegum will be pleased. Her lab assistants need the spare set."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "I sorted potions by cork color, easier for dim light."
 response = "Clever. Rangers grab them fast before dawn patrols."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Poke Dolls moved to the window display."
 response = "Makes the shop feel brighter from the market road."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Escape Ropes hang on wall hooks now, not in bins."
 response = "Good, fewer tangles. Last time a Zubat got caught in the pile."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "I put dust covers on the Lure cases."
 response = "They needed it. Pollen season fills every shelf gap."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Rare Candy stays in the locked cabinet now."
 response = "Wise. We had a Greedent visitor last autumn."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "The Pokedex cradle display is powered up again."
 response = "Bubblegum will test the loaner units for fieldwork."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "TM discs are on the new spindle rack."
 response = "Easier to flip through than the old drawer stack."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Heal Powder scoops match the small paper pouches."
 response = "Neat. No more cloudy dust clouds near the register."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "I rotate the Poke Toy basket weekly."
 response = "Good habit. Even old stock finds a new playmate."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Protein and Iron bottles need front-row alignment."
 response = "Done. The Calcium display looks crisp now as well."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -185,17 +225,21 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Field kits hang on pegboard hooks by size."
 response = "Small kit for solo scouts, large for the patrol unit."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_022"
 topic = "apricorn_shell_jar"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["toph"]
 target_tags = ["town"]
 line = "Apricorn shells fill the glass jar by the door."
 response = "Good lure for visiting crafters. Toph might want the rock shell."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_023"
 topic = "status_berry_tray_label"
@@ -203,26 +247,32 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Status berry trays now have picture labels."
 response = "Helpful. Even new travelers can read the icons."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_024"
 topic = "poke_flute_stand_dusting"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["venti"]
 target_tags = ["town"]
 line = "Poke Flute stands need dusting after the winds."
 response = "I will wipe them before Venti practices near the shop."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_025"
 topic = "bicycle_voucher_notice"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["link"]
 target_tags = ["town"]
 line = "A new stack of Bike Vouchers is behind the counter."
 response = "Link asked about one for riding between patrol posts."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_026"
 topic = "berry_seed_rack_sunlight"
@@ -230,17 +280,21 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Berry seed racks must avoid the noon sun stripe."
 response = "I shifted them left. The Bluk packets were warm."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_027"
 topic = "trade_cable_display_hook"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["link"]
 target_tags = ["town"]
 line = "Link Cables dangle from the circular display hook."
 response = "Looks like a festive wreath. Let us keep it."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_028"
 topic = "placeholder_poke_ball_slot"
@@ -248,6 +302,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "One Poke Ball slot is empty for demo handling."
 response = "Good. Newcomers feel the weight before choosing."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Soothe Bells rest on a velvet tray now."
 response = "They deserve the quiet display. Shoumai would approve."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Bulk Protein jars need wax seals every morning."
 response = "I will add it to the opening checklist."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Everstones now sit in a small labeled box."
 response = "About time. Travelers mistook them for skipping stones."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Sun Stones catch the dawn light on this shelf."
 response = "Intended? It looks like a shrine to morning blessings."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -293,17 +357,21 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Swap Dawn Stones near the window mirror."
 response = "Good. The sparkle draws curious shoppers walking by."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_034"
 topic = "moon_stone_velvet_pouch"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "Moon Stones rest inside a dark velvet pouch."
 response = "Marceline might browse those after sunset."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_035"
 topic = "shiny_stone_cabinet_pad"
@@ -311,35 +379,43 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Shiny Stones have a padded cabinet slot now."
 response = "Good. No scratches like the old metal drawer."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_036"
 topic = "ice_stone_cold_storage"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["elsa"]
 target_tags = ["town"]
 line = "Ice Stones stay in cold storage near Elsa's imports."
 response = "Fitting. They keep the shelf frosty."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_037"
 topic = "thunder_stone_ground_shelf"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["finn"]
 target_tags = ["town"]
 line = "Thunder Stones are grounded on a clay shelf."
 response = "Finn tested the insulation. No static crackle left."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_038"
 topic = "leaf_stone_plant_table"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Leaf Stones sit among potted herbs for humidity."
 response = "Katara waters those herbs. Win-win for the display."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_039"
 topic = "water_stone_soak_bowl"
@@ -347,44 +423,54 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Water Stones rest in a shallow soak bowl."
 response = "Keeps the glow. Also stops stray Staryu from beaching."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_040"
 topic = "fire_stone_heat_mat"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["zuko"]
 target_tags = ["town"]
 line = "Fire Stones sit on a heat-safe ceramic mat."
 response = "Zuko saw it and said it reminded him of hearth tiles."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_041"
 topic = "dusk_stone_shadow_shelf"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "Dusk Stones on the shadow shelf near the back corner."
 response = "Eerie but fitting. Marceline hums near that aisle."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_042"
 topic = "oval_stone_log_slice_display"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["town"]
 line = "Oval Stones rest on polished log slices."
 response = "Looks like nests. Huntress Wizard paused to admire it."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_043"
 topic = "field_guide_stand_rotation"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["town"]
 line = "Field guides rotate monthly near the counter."
 response = "Tarnished read the rock-type volume all afternoon."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_044"
 topic = "cobblemon_research_journal_shelf"
@@ -392,6 +478,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Cobblemon journal issues fill the bottom shelf."
 response = "Bubblegum updates them faster than we can file."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Wet wipes now sit beside the berry blend table."
 response = "Much needed. Sticky hands are a shop hazard."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -410,26 +500,32 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Poke Block mold kits are bundled with berry scoops."
 response = "Smart upsell. I will mention it to bubblegum's research aide."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_15_047"
 topic = "field_kit_flashlight_checkout"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["geralt"]
 target_tags = ["town"]
 line = "Flashlights in field kits charge near the counter."
 response = "Geralt tested one for nocturnal cave scouting."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_048"
 topic = "poke_snack_sample_counter"
 source_tags = ["store_pokemon", "pokemon"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["town"]
 line = "Poke Snack samples on the counter tray."
 response = "Even Zagreus grabbed a handful before patrol."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_15_049"
 topic = "poke_doll_checkout_basket"
@@ -437,6 +533,8 @@ source_tags = ["store_pokemon", "pokemon"]
 target_tags = ["town"]
 line = "Mini Poke Doll basket near the checkout counter."
 response = "Shoumai rearranged the colors by mood yesterday."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["store_pokemon"]
 target_tags = ["town"]
 line = "Fresh berries from our greenhouse shelf. No training required to buy field kits."
 response = "Field kits sound perfect for my Cobblemon observation notes, thanks."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0

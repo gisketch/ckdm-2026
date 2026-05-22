@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cue_ball_m_raul"
+name = "Cue Ball Raul"
+title = "Cue Ball"
+gender = "male"
+archetype = "cue_ball"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "cue_ball/male"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:poliwrath", level = 55, gender = "FEMALE", nature = "impish", ability = "waterabsorb", moveset = ["hypnosis", "doubleslap", "dynamicpunch", "circlethrow"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 55, gender = "FEMALE", nature = "bold", ability = "guts", moveset = ["submission", "bulkup", "crosschop", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cue Ball Raul is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

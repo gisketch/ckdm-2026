@@ -1,0 +1,104 @@
+{
+  "id": "rct_lass_megan_0082",
+  "name": "Lass Megan",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:magby",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "magmaarmor",
+      "moveset": [
+        "flameburst",
+        "confuseray",
+        "firepunch",
+        "lavaplume"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:smoochum",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "forewarn",
+      "moveset": [
+        "meanlook",
+        "faketears",
+        "luckychant",
+        "avalanche"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:comfey",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "triage",
+      "moveset": [
+        "petalblizzard",
+        "synthesis",
+        "sweetscent",
+        "grassknot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:elekid",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "lightscreen",
+        "thunderpunch",
+        "discharge",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kirlia",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "trace",
+      "moveset": [
+        "drainingkiss",
+        "calmmind",
+        "psychic",
+        "imprison"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

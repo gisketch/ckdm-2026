@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0116_ace_trainer_female_lois",
+  "name": "Ace Trainer Female Lois",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:mareep",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thundershock",
+        "cottonspore",
+        "thunderwave",
+        "charge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninetales",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flamethrower",
+        "quickattack",
+        "confuseray",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The red GYARADOS? That sounds scary. It must be red with rage! Me? I\u2019m not angry or anything, but let\u2019s battle!",
+    "Come to think of it, I\u2019ve seen a pink BUTTERFREE."
+  ]
+}

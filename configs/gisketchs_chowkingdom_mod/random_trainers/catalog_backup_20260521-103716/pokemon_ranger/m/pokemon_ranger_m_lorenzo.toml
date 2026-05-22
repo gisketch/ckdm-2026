@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemon_ranger_m_lorenzo"
+name = "Pokemon Ranger Lorenzo"
+title = "Pokemon Ranger"
+gender = "male"
+archetype = "pokemon_ranger"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "pokemon_ranger/male"
+tier = "mid"
+spawnable = true
+height = 1.06
+weight = 1.15
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:seedot", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nuzleaf", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lombre", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemon Ranger Lorenzo is ready for a battle."]

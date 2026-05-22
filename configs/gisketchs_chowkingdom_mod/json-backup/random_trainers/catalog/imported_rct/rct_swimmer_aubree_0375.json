@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_aubree_0375",
+  "name": "Swimmer Aubree",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "azurill",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "slam",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "bounce",
+        "aquatail",
+        "playrough",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

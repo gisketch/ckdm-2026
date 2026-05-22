@@ -1,0 +1,32 @@
+{
+  "id": "rct_aroma_lady_angela_039e",
+  "name": "Aroma Lady Angela",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "turtwig",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "irontail",
+        "bulletseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

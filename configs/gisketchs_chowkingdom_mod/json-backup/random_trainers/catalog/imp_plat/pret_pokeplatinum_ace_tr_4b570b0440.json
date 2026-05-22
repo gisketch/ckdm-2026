@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_dalton",
+  "name": "Ace Trainer Snow Male Dalton",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderbolt",
+        "swift",
+        "quickattack",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmar",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flamethrower",
+        "feintattack",
+        "smog",
+        "willowisp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "This cold is but nothing compared to the fire that burns in my heart!",
+    "The weather clears up sometimes. The view is breathtaking then."
+  ]
+}

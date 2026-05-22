@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "aroma_lady_f_alison"
+name = "Aroma Lady Alison"
+title = "Aroma Lady"
+gender = "female"
+archetype = "aroma_lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "aroma_lady/female"
+tier = "mid"
+spawnable = true
+height = 0.96
+weight = 0.86
+bustStyle = "standard"
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:roselia", level = 23, gender = "MALE", nature = "calm", ability = "poisonpoint", moveset = ["poisonsting", "megadrain", "leechseed", "magicalleaf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Aroma Lady Alison is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

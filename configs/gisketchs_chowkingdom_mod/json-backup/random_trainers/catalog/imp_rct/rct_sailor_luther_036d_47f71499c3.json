@@ -1,0 +1,71 @@
+{
+  "id": "rct_sailor_luther_036d",
+  "name": "Sailor Luther",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:feebas",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "oblivious",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_burglar_arnie_00d8",
+  "name": "Burglar Arnie",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 67,
+  "maxLevel": 69,
+  "team": [
+    {
+      "species": "cobblemon:charizard",
+      "level": 67,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "slash",
+        "flamethrower",
+        "firespin",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:delphox",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "blaze",
+      "moveset": [
+        "wish",
+        "psychic",
+        "sunnyday",
+        "magicroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

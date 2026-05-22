@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_bryce"
+name = "Psychic Bryce"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 43
+maxLevel = 46
+team = [
+  { species = "cobblemon:haunter", level = 43, gender = "FEMALE", nature = "sassy", ability = "levitate", moveset = ["confuseray", "curse", "hex", "darkpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 46, gender = "MALE", nature = "sassy", ability = "innerfocus", moveset = ["recover", "psyshock", "roleplay", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 46, gender = "FEMALE", nature = "sassy", ability = "cursedbody", moveset = ["shadowpunch", "confuseray", "hex", "darkpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

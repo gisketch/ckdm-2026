@@ -1,0 +1,32 @@
+{
+  "id": "rct_biker_0212",
+  "name": "Biker",
+  "title": "Biker 0212",
+  "gender": "any",
+  "archetype": "biker_0212",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

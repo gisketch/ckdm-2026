@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_drew"
+name = "Camper Drew"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Hoenn;Kanto/Sevii;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "mid"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 27
+maxLevel = 28
+team = [
+  { species = "cobblemon:persian", level = 28, gender = "FEMALE", nature = "serious", ability = "furcoat", moveset = ["furyswipes", "screech", "feintattack", "taunt"], heldItem = "", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:palpitoad", level = 27, gender = "FEMALE", nature = "hardy", ability = "swiftswim", moveset = ["bubblebeam", "mudshot", "aquaring", "uproar"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:stunky", level = 28, gender = "MALE", nature = "brave", ability = "stench", moveset = ["acidspray", "bite", "slash", "toxic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:spinda", level = 28, gender = "FEMALE", nature = "naughty", ability = "owntempo", moveset = ["psybeam", "hypnosis", "dizzypunch", "suckerpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Drew is ready for a battle.", "I’ve been to all sorts of places. That means I know tons of things!", "I’m gonna visit new places and find new Pokémon so I’ll be a know-it-all!", "I have trained this team for the road. Challenge me if you are ready."]

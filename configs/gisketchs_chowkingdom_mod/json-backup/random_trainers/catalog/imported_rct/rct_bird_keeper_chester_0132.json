@@ -1,0 +1,65 @@
+{
+  "id": "rct_bird_keeper_chester_0132",
+  "name": "Bird Keeper Chester",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "dodrio",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "doduo",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "drillpeck",
+        "endeavor",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "togekiss",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "serenegrace",
+      "moveset": [
+        "skyattack",
+        "extremespeed",
+        "aurasphere",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

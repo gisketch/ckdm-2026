@@ -1,0 +1,33 @@
+{
+  "id": "rct_channeler_carly_01ba",
+  "name": "Channeler Carly",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "lampent",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "flamebody",
+      "moveset": [
+        "imprison",
+        "hex",
+        "memento",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmer_colton_0371",
+  "name": "Swimmer Colton",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:wingull",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hydration",
+      "moveset": [
+        "quickattack",
+        "waterpulse",
+        "airslash",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:quagsire",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "mudshot",
+        "yawn",
+        "muddywater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "drizzle",
+      "moveset": [
+        "tailwind",
+        "wingattack",
+        "waterpulse",
+        "stockpile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

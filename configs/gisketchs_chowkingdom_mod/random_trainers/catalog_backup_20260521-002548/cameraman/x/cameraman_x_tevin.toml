@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cameraman_x_tevin"
+name = "Cameraman Tevin"
+title = "Cameraman"
+gender = "any"
+archetype = "cameraman"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cameraman/any"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:pachirisu", level = 17, gender = "FEMALE", nature = "sassy", ability = "pickup", moveset = ["charm", "quickattack", "spark", "endure"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cameraman Tevin is ready for a battle.", "I’ve spotted a charismatic Trainer! We just might have a scoop here!", "The lively expressions on you and your Pokémon’s faces... It sure makes for some great TV!", "I have trained this team for the road. Challenge me if you are ready."]

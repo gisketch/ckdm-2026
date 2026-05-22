@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "police_officer_x_caleb"
+name = "Police Officer Caleb"
+title = "Police Officer"
+gender = "any"
+archetype = "police_officer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "police_officer/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1.01
+bustStyle = ""
+minLevel = 17
+maxLevel = 19
+team = [
+  { species = "cobblemon:hoothoot", level = 17, gender = "MALE", nature = "sassy", ability = "keeneye", moveset = ["growl", "confusion", "reflect", "psychoshift"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:meditite", level = 19, gender = "MALE", nature = "hardy", ability = "purepower", moveset = ["confusion", "detect", "feint", "forcepalm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

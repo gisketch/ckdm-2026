@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0094_swimmer_female_wendy",
+  "name": "Swimmer Female Wendy",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:horsea",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubble",
+        "smokescreen",
+        "leer",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:horsea",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "focusenergy",
+        "smokescreen",
+        "leer",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "At night, STARYU gather near the water\u2019s surface.",
+    "The clusters of STARYU light up at the same time. It\u2019s so beautiful, it\u2019s scary."
+  ]
+}

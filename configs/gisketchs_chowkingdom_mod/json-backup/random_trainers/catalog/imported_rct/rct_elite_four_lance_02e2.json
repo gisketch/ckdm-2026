@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_lance_02e2",
+  "name": "Lance",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 66,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "dragondance",
+        "earthquake",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 66,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "earthquake",
+        "dragonclaw",
+        "flamethrower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kingdra",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "sniper",
+      "moveset": [
+        "hyperbeam",
+        "dragondance",
+        "surf",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aerodactyl",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "hyperbeam",
+        "ancientpower",
+        "aerialace",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "outrage",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "heldItem": "persim_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

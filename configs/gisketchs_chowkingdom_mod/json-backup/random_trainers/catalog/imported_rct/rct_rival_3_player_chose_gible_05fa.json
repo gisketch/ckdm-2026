@@ -1,0 +1,65 @@
+{
+  "id": "rct_rival_3_player_chose_gible_05fa",
+  "name": "Rival Wayne",
+  "title": "Rival 3 Player Chose",
+  "gender": "any",
+  "archetype": "rival_3_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "toucannon",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "pluck",
+        "furyattack",
+        "rockblast",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swinub",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "iceshard",
+        "mudbomb",
+        "flail",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pupitar",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "rocktomb",
+        "darkpulse",
+        "bulldoze",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

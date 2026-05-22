@@ -1,0 +1,99 @@
+{
+  "id": "rct_leader_lt_surge_01a0",
+  "name": "Leader Lt. Surge",
+  "title": "Leader Lt",
+  "gender": "any",
+  "archetype": "leader_lt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "pincurchin",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "electricsurge",
+      "moveset": [
+        "voltswitch",
+        "scald",
+        "discharge",
+        "hiddenpower"
+      ],
+      "heldItem": "electric_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raichu",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "surgesurfer",
+      "moveset": [
+        "psyshock",
+        "voltswitch",
+        "nastyplot",
+        "grassknot"
+      ],
+      "heldItem": "twisted_spoon",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "vikavolt",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "voltswitch",
+        "bugbuzz",
+        "energyball",
+        "roost"
+      ],
+      "heldItem": "occa_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "manectric",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "chargebeam",
+        "flameburst",
+        "voltswitch",
+        "hiddenpower"
+      ],
+      "heldItem": "mega_showdown:manectite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "boltund",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "thunderfang",
+        "firefang",
+        "icefang",
+        "psychicfangs"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

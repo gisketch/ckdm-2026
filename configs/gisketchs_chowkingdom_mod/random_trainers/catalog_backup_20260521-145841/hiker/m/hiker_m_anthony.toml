@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_anthony"
+name = "Hiker Anthony"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 34
+maxLevel = 36
+team = [
+  { species = "cobblemon:graveler", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = ["magnitude", "selfdestruct", "defensecurl", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golem", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["magnitude", "selfdestruct", "defensecurl", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = ["karatechop", "vitalthrow", "headbutt", "dig"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Anthony is ready for a battle.", "I came through the cave, but I still have plenty of energy left.", "We Hikers are at our best in the mountains."]

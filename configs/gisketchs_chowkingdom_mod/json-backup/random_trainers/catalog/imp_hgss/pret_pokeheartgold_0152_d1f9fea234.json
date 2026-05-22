@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0152_picnicker_hope",
+  "name": "Picnicker Hope",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:flaaffy",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have a feeling that I can win. Let\u2019s see if I\u2019m right!",
+    "I heard CLEFAIRY appear at Mt. Moon. But where could they be?"
+  ]
+}

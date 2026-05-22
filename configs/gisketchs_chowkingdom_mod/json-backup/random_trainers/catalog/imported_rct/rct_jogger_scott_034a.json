@@ -1,0 +1,33 @@
+{
+  "id": "rct_jogger_scott_034a",
+  "name": "Jogger Scott",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "staravia",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "wingattack",
+        "endeavor",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

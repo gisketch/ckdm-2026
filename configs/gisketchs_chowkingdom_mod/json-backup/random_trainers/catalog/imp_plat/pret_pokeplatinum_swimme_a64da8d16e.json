@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_swimmer_kurt",
+  "name": "Swimmer Male Kurt",
+  "title": "Swimmer Male",
+  "gender": "male",
+  "archetype": "swimmer_male",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 51,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:krabby",
+      "level": 51,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:corphish",
+      "level": 51,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Check out my physique! The rough seas sculpted this awesome body!",
+    "Seeing a Pok\u00e9mon use Surf to carry you out on the sea... It strikes an emotional chord with me somewhere deep down."
+  ]
+}

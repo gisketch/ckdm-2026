@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0117_ace_trainer_female_lola",
+  "name": "Ace Trainer Female Lola",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:dratini",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonair",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Dragons are sacred Pok\u00e9mon. They are full of life energy. If you\u2019re not serious, you won\u2019t be able to beat them.",
+    "Dragons are weak against Dragon-type moves."
+  ]
+}

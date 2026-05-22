@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_tiffany"
+name = "Picnicker Tiffany"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 61
+maxLevel = 61
+team = [
+  { species = "cobblemon:clefable", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gravity", "metronome", "blizzard", "thunder"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Tiffany is ready for a battle.", "Are you going to Lake of Rage, too? Let’s play for a little while!", "I’m having a picnic with Pokémon. Won’t you join us?"]

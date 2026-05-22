@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_lauren"
+name = "Picnicker Lauren"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "low"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:pachirisu", level = 19, gender = "FEMALE", nature = "quirky", ability = "pickup", moveset = ["babydolleyes", "quickattack", "spark", "nuzzle"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Go do it, my Pokémon! I’ll work hard, too!", "I think we’ll visit the TV station in Jubilife City next. Or maybe we should go to the Global Terminal?", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,48 @@
+{
+  "id": "rct_bug_catcher_kent_006c",
+  "name": "Bug Catcher Kent",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "weedle",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "shielddust",
+      "moveset": [
+        "poisonsting",
+        "stringshot",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kricketune",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "technician",
+      "moveset": [
+        "tackle",
+        "growl",
+        "bide",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

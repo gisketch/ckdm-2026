@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_f_katelyn"
+name = "Ranger Katelyn"
+title = "Ranger"
+gender = "female"
+archetype = "ranger"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ranger/female"
+tier = "high"
+spawnable = true
+height = 1.07
+weight = 1.12
+bustStyle = "standard"
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:chansey", level = 56, gender = "FEMALE", nature = "lonely", ability = "serenegrace", moveset = ["eggbomb", "defensecurl", "minimize", "softboiled"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,40 @@
+{
+  "id": "rct_ninja_boy_bruce_0456",
+  "name": "Ninja Boy Bruce",
+  "title": "Ninja Boy",
+  "gender": "male",
+  "archetype": "ninja_boy",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ninja_boy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:stunky",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "stench",
+      "moveset": [
+        "furyswipes",
+        "bite",
+        "venoshock",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

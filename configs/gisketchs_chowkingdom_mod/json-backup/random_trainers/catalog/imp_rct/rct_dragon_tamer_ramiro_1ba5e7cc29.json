@@ -1,0 +1,118 @@
+{
+  "id": "rct_dragon_tamer_ramiro_0134",
+  "name": "Dragon Tamer Ramiro",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "bouncybubble",
+        "thunder",
+        "fakeout",
+        "electroweb"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": [
+        "surfing"
+      ]
+    },
+    {
+      "species": "cobblemon:milotic",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "bouncybubble",
+        "icebeam",
+        "mirrorcoat",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lapras",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "boomburst",
+        "dragonpulse",
+        "thunder",
+        "freezedry"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:goodra",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "gooey",
+      "moveset": [
+        "surf",
+        "dragonpulse",
+        "flashcannon",
+        "thunder"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "cobblemon:dragonite",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "multiscale",
+      "moveset": [
+        "hurricane",
+        "thunder",
+        "hydropump",
+        "icebeam"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

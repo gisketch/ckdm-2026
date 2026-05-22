@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_forrest"
+name = "School Kid Forrest"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:mrmime", level = 44, gender = "FEMALE", nature = "timid", ability = "filter", moveset = ["reflect", "dazzlinggleam", "thunderbolt", "energyball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["This is the toughest Gym in Sinnoh. That’s why I’m here--to learn the best battle techniques around!", "You just showed me that there’s still lots I need to learn. The world of Pokémon is deep!", "I have trained this team for the road. Challenge me if you are ready."]

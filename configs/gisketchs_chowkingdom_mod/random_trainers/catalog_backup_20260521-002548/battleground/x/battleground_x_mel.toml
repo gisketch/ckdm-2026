@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battleground_x_mel"
+name = "Battleground Mel"
+title = "Battleground"
+gender = "any"
+archetype = "battleground"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "battleground/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 81
+maxLevel = 84
+team = [
+  { species = "cobblemon:diggersby", level = 81, gender = "MALE", nature = "adamant", ability = "hugepower", moveset = ["return", "quickattack", "earthquake", "thunderpunch"], heldItem = "['silk_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:blissey", level = 83, gender = "FEMALE", nature = "bold", ability = "naturalcure", moveset = ["seismictoss", "wish", "softboiled", "stealthrock"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:chatot", level = 83, gender = "FEMALE", nature = "modest", ability = "punkrock", moveset = ["boomburst", "chatter", "heatwave", "uturn"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 84, gender = "FEMALE", nature = "jolly", ability = "scrappy", moveset = ["return", "closecombat", "thunderpunch", "fakeout"], heldItem = "['mega_showdown:lopunnite', 'life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:porygonz", level = 84, gender = "GENDERLESS", nature = "timid", ability = "adaptability", moveset = ["triattack", "shadowball", "signalbeam", "icebeam"], heldItem = "['mega_showdown:normalium_z', 'normal_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:avalugg", level = 82, gender = "FEMALE", nature = "careful", ability = "sturdy", moveset = ["avalanche", "recover", "curse", "bodypress"], heldItem = "['rocky_helmet']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

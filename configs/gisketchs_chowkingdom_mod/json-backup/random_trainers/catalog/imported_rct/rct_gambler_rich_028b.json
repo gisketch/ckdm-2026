@@ -1,0 +1,49 @@
+{
+  "id": "rct_gambler_rich_028b",
+  "name": "Gambler Rich",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "firefang",
+        "takedown",
+        "flameburst",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vulpix",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "feintattack",
+        "hex",
+        "flameburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

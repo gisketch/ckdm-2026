@@ -1,0 +1,113 @@
+{
+  "id": "rct_professor_oak_00c8",
+  "name": "Professor Oak",
+  "title": "Professor",
+  "gender": "any",
+  "archetype": "professor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 97,
+  "maxLevel": 99,
+  "team": [
+    {
+      "species": "tauros",
+      "level": 99,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "headcharge",
+        "closecombat",
+        "throatchop",
+        "ironhead"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "exeggutor",
+      "level": 97,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "harvest",
+      "moveset": [
+        "chloroblast",
+        "sleeppowder",
+        "psyshock",
+        "earthpower"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 99,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "dragondance",
+        "flareblitz",
+        "dragonclaw",
+        "earthquake"
+      ],
+      "heldItem": "mega_showdown:charizardite_x life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 98,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "earthquake",
+        "powerwhip"
+      ],
+      "heldItem": "water_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mew",
+      "level": 99,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "nastyplot",
+        "psyshock",
+        "aurasphere",
+        "darkpulse"
+      ],
+      "heldItem": "fighting_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jolteon",
+      "level": 97,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "lastresort",
+        "thunderbolt",
+        "shadowball",
+        "hiddenpower"
+      ],
+      "heldItem": "mega_showdown:eevium_z normal_gem",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

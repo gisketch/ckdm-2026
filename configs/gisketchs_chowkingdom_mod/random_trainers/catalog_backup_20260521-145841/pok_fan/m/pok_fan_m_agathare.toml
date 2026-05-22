@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_fan_m_agathare"
+name = "Pok Fan Agathare"
+title = "Pok Fan"
+gender = "male"
+archetype = "pok_fan"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_fan/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:ekans", level = 5, gender = "FEMALE", nature = "serious", ability = "intimidate", moveset = ["wrap", "leer", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

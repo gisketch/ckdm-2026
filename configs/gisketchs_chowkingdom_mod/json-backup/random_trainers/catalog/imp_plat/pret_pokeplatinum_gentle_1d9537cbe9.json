@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_gentleman_leonardo",
+  "name": "Gentleman Leonardo",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:chatot",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "mimic",
+        "sing",
+        "furyattack",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Gentleman Leonardo is ready for a battle."
+  ]
+}

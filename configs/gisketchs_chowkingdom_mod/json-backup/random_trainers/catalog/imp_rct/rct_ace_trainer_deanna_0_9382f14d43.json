@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_deanna_0505",
+  "name": "Ace Trainer Deanna",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:ampharos",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "powergem",
+        "thunderwave",
+        "firepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tropius",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "leafstorm",
+        "airslash",
+        "sunnyday",
+        "growth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

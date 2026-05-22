@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_catherine_3",
+  "name": "Pokemon Ranger Catherine",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "pokemon_ranger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:gloom",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Ranger Catherine is ready for a battle."
+  ]
+}

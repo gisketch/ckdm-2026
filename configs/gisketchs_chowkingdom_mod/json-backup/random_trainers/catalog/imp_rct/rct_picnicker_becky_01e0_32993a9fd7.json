@@ -1,0 +1,58 @@
+{
+  "id": "rct_picnicker_becky_01e0",
+  "name": "Picnicker Becky",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:raichu",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "thunderbolt",
+        "extremespeed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "surgesurfer",
+      "moveset": [
+        "speedswap",
+        "thundershock",
+        "quickattack",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

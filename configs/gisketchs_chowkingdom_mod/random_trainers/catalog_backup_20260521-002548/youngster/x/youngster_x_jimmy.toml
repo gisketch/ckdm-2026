@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_jimmy"
+name = "Youngster Jimmy"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:raticate", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arbok", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:parasect", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Jimmy is ready for a battle.", "I can run like the wind!", "I wear shorts the whole year round. That’s my fashion policy."]

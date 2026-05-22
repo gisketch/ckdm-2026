@@ -1,0 +1,53 @@
+{
+  "id": "pret_pokefirered_camper_liam",
+  "name": "Camper Liam",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 10,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandshrew",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "scratch",
+        "defensecurl",
+        "sandattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Camper Liam is ready for a battle."
+  ]
+}

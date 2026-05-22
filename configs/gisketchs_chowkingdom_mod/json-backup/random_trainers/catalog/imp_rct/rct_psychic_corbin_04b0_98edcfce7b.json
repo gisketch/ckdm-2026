@@ -1,0 +1,56 @@
+{
+  "id": "rct_psychic_corbin_04b0",
+  "name": "Psychic Corbin",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:shuppet",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "insomnia",
+      "moveset": [
+        "knockoff",
+        "suckerpunch",
+        "shadowsneak",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:duskull",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "curse",
+        "willowisp",
+        "payback",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

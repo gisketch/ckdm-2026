@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_jose",
+  "name": "Ace Trainer Male Jose",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:golduck",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hydropump",
+        "brickbreak",
+        "zenheadbutt",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandslash",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthquake",
+        "crushclaw",
+        "poisonjab",
+        "sandtomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:manectric",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderfang",
+        "firefang",
+        "quickattack",
+        "gigaimpact"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Have you any knowledge of levels or the stats of Pok\u00e9mon? Well, I do!",
+    "Pok\u00e9mon and numbers... Who cares about that stuff? Winning is what\u2019s important. Numbers aren\u2019t everything."
+  ]
+}

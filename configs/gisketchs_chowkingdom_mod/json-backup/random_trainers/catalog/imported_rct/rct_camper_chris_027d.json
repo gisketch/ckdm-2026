@@ -1,0 +1,49 @@
+{
+  "id": "rct_camper_chris_027d",
+  "name": "Camper Chris",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charmander",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "ancientpower",
+        "firefang",
+        "scaryface",
+        "thunderpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

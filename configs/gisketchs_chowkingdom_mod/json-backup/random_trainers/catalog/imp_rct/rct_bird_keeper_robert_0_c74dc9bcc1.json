@@ -1,0 +1,88 @@
+{
+  "id": "rct_bird_keeper_robert_0291",
+  "name": "Bird Keeper Robert",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "agility",
+        "airslash",
+        "mirrormove"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "agility",
+        "airslash",
+        "mirrormove"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "frisk",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "frisk",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

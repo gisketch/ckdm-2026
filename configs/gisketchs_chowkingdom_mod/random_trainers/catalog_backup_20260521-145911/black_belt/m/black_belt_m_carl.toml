@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_carl"
+name = "Black Belt Carl"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 52
+maxLevel = 56
+team = [
+  { species = "cobblemon:croagunk", level = 52, gender = "FEMALE", nature = "hardy", ability = "dryskin", moveset = ["poisonjab", "suckerpunch", "revenge", "flatter"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 56, gender = "FEMALE", nature = "sassy", ability = "noguard", moveset = ["knockoff", "dynamicpunch", "seismictoss", "focusenergy"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["All right, my Pokémon squad! Get out there and kick up a storm!", "Hmm... Gazing out over the sea doesn’t do a thing for toughening up my Pokémon!", "I have trained this team for the road. Challenge me if you are ready."]

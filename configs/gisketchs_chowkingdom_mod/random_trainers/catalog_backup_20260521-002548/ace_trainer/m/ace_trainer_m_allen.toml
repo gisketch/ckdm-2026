@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_allen"
+name = "Ace Trainer Allen"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 21
+maxLevel = 24
+team = [
+  { species = "cobblemon:gastly", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["nightshade", "suckerpunch", "curse", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = ["nightshade", "suckerpunch", "hypnosis", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:haunter", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shadowball", "confuseray", "curse", "meanlook"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Allen is ready for a battle.", "I can tell you’re a good Trainer by looking at you. I’m good at Pokémon, and I can see that you are, too.", "Wow. You have a lot of Badges. No wonder you’re so tough. I wonder if Ecruteak Gym’s Morty is still in training? He really hammered me.", "What, were you just dawdling around hoping I’d notice you for a battle? You know you’re going to get whupped here, don’t you?", "I’ll remember you and your shifty Pokémon, too. I’m watching you..."]

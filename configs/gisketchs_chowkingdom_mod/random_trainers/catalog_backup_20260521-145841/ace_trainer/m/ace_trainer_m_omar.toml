@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_omar"
+name = "Ace Trainer Omar"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 45
+maxLevel = 48
+team = [
+  { species = "cobblemon:mamoswine", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = ["blizzard", "icefang", "rockslide", "gigaimpact"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mothim", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["silverwind", "airslash", "psychic", "toxic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rampardos", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["headsmash", "zenheadbutt", "ancientpower", "screech"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You... One look at you tells me you’re a real contender!", "One day, people will run to the other side of the road when I walk by ’em. It’s a goal of mine I’m working on.", "I have trained this team for the road. Challenge me if you are ready."]

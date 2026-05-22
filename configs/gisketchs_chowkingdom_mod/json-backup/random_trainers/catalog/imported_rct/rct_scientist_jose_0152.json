@@ -1,0 +1,44 @@
+{
+  "id": "rct_scientist_jose_0152",
+  "name": "Scientist Jose",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "eelektross",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "levitate",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "porygon2",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "mild",
+      "ability": "trace",
+      "moveset": [
+        "aeroblast",
+        "triattack",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

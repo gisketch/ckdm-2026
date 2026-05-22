@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_x_gary"
+name = "Worker Gary"
+title = "Worker"
+gender = "any"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:onix", level = 31, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["smackdown", "irontail", "payback", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["A Pokémon Gym isn’t only about seeing how tough your Pokémon happen to be. It’s so much deeper than just that. It’s a test of you as a person.", "I get to work all day with my Pokémon, and even battle sometimes. I get all the fun I need every day!", "I have trained this team for the road. Challenge me if you are ready."]

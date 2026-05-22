@@ -1,0 +1,33 @@
+{
+  "id": "rct_camper_zackary_04ef",
+  "name": "Camper Zackary",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "graveler",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "sandstorm",
+        "earthquake",
+        "doubleedge",
+        "stoneedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

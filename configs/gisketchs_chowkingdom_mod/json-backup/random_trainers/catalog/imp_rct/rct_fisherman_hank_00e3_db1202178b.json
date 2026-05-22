@@ -1,0 +1,40 @@
+{
+  "id": "rct_fisherman_hank_00e3",
+  "name": "Fisherman Hank",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:octillery",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "megalauncher",
+      "moveset": [
+        "bubblebeam",
+        "focusenergy",
+        "wringout",
+        "signalbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

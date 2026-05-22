@@ -1,0 +1,60 @@
+{
+  "id": "rct_bug_catcher_colton_02d9",
+  "name": "Bug Catcher Colton",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "metapod",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "shedskin",
+      "moveset": [
+        "harden",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weedle",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "shielddust",
+      "moveset": [
+        "poisonsting",
+        "stringshot",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "metapod",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "harden",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

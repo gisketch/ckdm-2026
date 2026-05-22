@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_warren_0191",
+  "name": "Ace Trainer Warren",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "marowak",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "bonemerang",
+        "headbutt",
+        "leer",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marowak",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "rockhead",
+      "moveset": [
+        "bonemerang",
+        "headbutt",
+        "leer",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rhyhorn",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "furyattack",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorina",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisontouch",
+      "moveset": [
+        "furyswipes",
+        "bite",
+        "poisonsting",
+        "doublekick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoqueen",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "poisontouch",
+      "moveset": [
+        "bodyslam",
+        "bite",
+        "poisonsting",
+        "doublekick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

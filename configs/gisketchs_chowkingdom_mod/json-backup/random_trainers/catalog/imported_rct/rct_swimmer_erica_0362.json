@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_erica_0362",
+  "name": "Swimmer Erica",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "remoraid",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "hustle",
+      "moveset": [
+        "psybeam",
+        "aurorabeam",
+        "bubblebeam",
+        "lockon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "psyduck",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "furyswipes",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

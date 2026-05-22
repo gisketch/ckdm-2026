@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokered_rocket_017",
+  "name": "Rocket Wes",
+  "title": "Rocket",
+  "gender": "any",
+  "archetype": "rocket",
+  "region": "Kanto",
+  "category": "team",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:ekans",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandshrew",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arbok",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rocket from Rocket Hideout B4F is ready for a battle."
+  ]
+}

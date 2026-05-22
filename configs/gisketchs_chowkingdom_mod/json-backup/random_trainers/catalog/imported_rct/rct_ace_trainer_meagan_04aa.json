@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_meagan_04aa",
+  "name": "Ace Trainer Meagan",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "delcatty",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "cutecharm",
+      "moveset": [
+        "doubleedge",
+        "playrough",
+        "feintattack",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "yanma",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "compoundeyes",
+      "moveset": [
+        "airslash",
+        "hypnosis",
+        "detect",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rct_shadow_admin_marlon_grunt_m00e",
+  "name": "Shadow Admin Marlon & Grunt",
+  "title": "Shadow Admin Marlon",
+  "gender": "any",
+  "archetype": "shadow_admin_marlon",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "duskull",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "shadowsneak",
+        "nightshade",
+        "payback",
+        "destinybond"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cacnea",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterabsorb",
+      "moveset": [
+        "needlearm",
+        "feintattack",
+        "thunderpunch",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swoobat",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "unaware",
+      "moveset": [
+        "confusion",
+        "aircutter",
+        "chargebeam",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sableye",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "nightshade",
+        "fakeout",
+        "willowisp",
+        "torment"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shiftry",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "pickpocket",
+      "moveset": [
+        "leaftornado",
+        "suckerpunch",
+        "extrasensory",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

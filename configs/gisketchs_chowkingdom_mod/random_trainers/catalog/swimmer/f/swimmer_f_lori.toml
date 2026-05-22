@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_lori"
+name = "Swimmer Lori"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:starmie", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "surf", "icebeam", "recover"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "surf", "icebeam", "recover"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["recover", "waterpulse", "thunder", "blizzard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Lori is ready for a battle.", "What an impressive collection of Gym Badges. We should battle!", "Surf is no longer the only HM move you use in water."]

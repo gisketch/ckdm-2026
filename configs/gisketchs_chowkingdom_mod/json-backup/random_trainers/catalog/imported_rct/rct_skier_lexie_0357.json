@@ -1,0 +1,49 @@
+{
+  "id": "rct_skier_lexie_0357",
+  "name": "Skier Lexie",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "marill",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "bounce",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "cutecharm",
+      "moveset": [
+        "charm",
+        "moonlight",
+        "gravity",
+        "meteormash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

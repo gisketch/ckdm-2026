@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_sydney_0385",
+  "name": "Ace Trainer Sydney",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 46,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "clefable",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "moonlight",
+        "meteormash",
+        "cosmicpower",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "woodhammer",
+        "crunch",
+        "synthesis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

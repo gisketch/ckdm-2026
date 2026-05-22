@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_george"
+name = "Ace Trainer George"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 83
+maxLevel = 84
+team = [
+  { species = "cobblemon:exeggutor", level = 83, gender = "FEMALE", nature = "modest", ability = "chlorophyll", moveset = ["sleeppowder", "gigadrain", "dragonpulse", "flamethrower"], heldItem = "['miracle_seed']", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:donphan", level = 84, gender = "FEMALE", nature = "adamant", ability = "technician", moveset = ["bonemerang", "iceshard", "rockblast", "knockoff"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:cloyster", level = 84, gender = "MALE", nature = "jolly", ability = "skilllink", moveset = ["rockblast", "iciclespear", "liquidation", "shellsmash"], heldItem = "['white_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:mienshao", level = 84, gender = "FEMALE", nature = "jolly", ability = "regenerator", moveset = ["fakeout", "closecombat", "uturn", "knockoff"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:pinsir", level = 84, gender = "FEMALE", nature = "jolly", ability = "moldbreaker", moveset = ["quickattack", "xscissor", "doubleedge", "closecombat"], heldItem = "['mega_showdown:pinsirite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer George is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

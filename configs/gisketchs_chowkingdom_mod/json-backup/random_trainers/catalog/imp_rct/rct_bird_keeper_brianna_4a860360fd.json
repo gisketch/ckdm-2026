@@ -1,0 +1,56 @@
+{
+  "id": "rct_bird_keeper_brianna_04e4",
+  "name": "Bird Keeper Brianna",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:noctowl",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "reflect",
+        "airslash",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:noctowl",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "skyattack",
+        "peck",
+        "uproar",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

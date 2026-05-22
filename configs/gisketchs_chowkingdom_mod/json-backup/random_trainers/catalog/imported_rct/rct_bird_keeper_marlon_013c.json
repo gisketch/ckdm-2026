@@ -1,0 +1,65 @@
+{
+  "id": "rct_bird_keeper_marlon_013c",
+  "name": "Bird Keeper Marlon",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "dodrio",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "rockhead",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toucannon",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "frisk",
+      "moveset": [
+        "drillpeck",
+        "bulletseed",
+        "featherdance",
+        "hypervoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "murkrow",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "insomnia",
+      "moveset": [
+        "meanlook",
+        "snarl",
+        "tailwind",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

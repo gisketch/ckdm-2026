@@ -1,0 +1,56 @@
+{
+  "id": "rct_channeler_amanda_01ce",
+  "name": "Channeler Amanda",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:dusclops",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "hex",
+        "shadowball",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cofagrigus",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "mummy",
+      "moveset": [
+        "guardsplit",
+        "shadowball",
+        "grudge",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

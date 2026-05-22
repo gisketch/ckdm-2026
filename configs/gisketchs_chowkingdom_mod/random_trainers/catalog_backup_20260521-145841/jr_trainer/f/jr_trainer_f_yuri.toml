@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jr_trainer_f_yuri"
+name = "Jr Trainer Yuri"
+title = "Jr Trainer"
+gender = "female"
+archetype = "jr_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "jr_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:goldeen", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwag", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:horsea", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jrtrainerf from Route 13 is ready for a battle."]

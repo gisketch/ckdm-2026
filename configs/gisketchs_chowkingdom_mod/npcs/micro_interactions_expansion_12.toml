@@ -5,6 +5,8 @@ source_tags = ["priest"]
 target_tags = ["town"]
 line = "May this lantern light guard your path through tall grass tonight."
 response = "I will keep it burning bright. Thank you for the blessing."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["priest"]
 target_tags = ["mentor"]
 line = "Have you checked the clinic supply for fresh potions this morning?"
 response = "Not yet. I will count bandages and brew a new batch at noon."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["paladin"]
 target_tags = ["mentor"]
 line = "I renewed my vow at the shrine stone before dawn patrol."
 response = "Good discipline. Carry that light into the outer wilds today."
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["priest"]
 target_tags = ["town"]
 line = "Hold still. I will trace a ward upon your scout satchel now."
 response = "I feel safer already. The skylands echo with strange calls."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["paladin"]
 target_tags = ["priest"]
 line = "I rang the dawn bell. The village children came running."
 response = "Let them help polish the old chimes. They learn through wonder."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["priest"]
 target_tags = ["warrior"]
 line = "Bring your warrior limping back. I have clean linen ready."
 response = "He will grumble but accept your aid. I owe you one."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["paladin"]
 target_tags = ["researcher"]
 line = "Any injured cobblemon near your study camp today?"
 response = "A skitty with a scratched paw. Already resting in soft moss."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["priest"]
 target_tags = ["store_explorer"]
 line = "Do you stock blessed tallow or slow-burn lantern oil?"
 response = "Only the slow-burn in back. Take two jars for the shrine."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["paladin"]
 target_tags = ["mentor"]
 line = "Teach me how to speak to frightened villagers after a raid."
 response = "Kneel first. Let them see your eyes before your shield."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["priest"]
 target_tags = ["town"]
 line = "I placed a ward stone beneath the eastern skyland bridge."
 response = "The crossing felt warmer. The whole town noticed your work."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["paladin"]
 target_tags = ["earth_wizard"]
 line = "Will you grow soft moss by the oath stone for kneeling?"
 response = "Already done. The stone drinks dew and holds warmth now."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["priest"]
 target_tags = ["nocturnal"]
 line = "Have you seen strange lights in the graveyard after midnight?"
 response = "Only fireflies and your own lantern. I watch from the tower."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["paladin"]
 target_tags = ["bounty_hunter"]
 line = "Share your trail bread. I will bless it before you depart."
 response = "Plain bread tastes better with your words. Thank you, friend."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["priest"]
 target_tags = ["bard"]
 line = "Could you hum the old healing hymn while I prepare salves?"
 response = "Gladly. My lyre carries the note that opens the green light."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["paladin"]
 target_tags = ["researcher"]
 line = "May I bless your cobblemon sanctuary with a light ward?"
 response = "Please do. The little ones sleep easier under your glow."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["priest"]
 target_tags = ["water_wizard"]
 line = "The bell tower cistern is low. Can you draw a rain cloud?"
 response = "I will call a gentle shower before evening prayer time."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["paladin"]
 target_tags = ["mentor"]
 line = "I marked every patrol signpost with a small blessing charm."
 response = "Smart work. Roving guards will notice and feel watched over."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["priest"]
 target_tags = ["researcher"]
 line = "That injured growlithe you found needs a quiet dark room."
 response = "I cleared my study for him. Bring your softest linen roll."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["paladin"]
 target_tags = ["archer"]
 line = "For the next scout mission, may I bless a quiver of arrows?"
 response = "Twenty shafts wait by the range. Add your light to them."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["priest"]
 target_tags = ["town"]
 line = "Time to light the street lanterns. Walk with me tonight."
 response = "I will carry the long taper. You say the evening verse."
+source_emote = "clap"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["paladin"]
 target_tags = ["forcemaster"]
 line = "My oath shield has a crack. Can you mend the metal?"
 response = "Bring it. I will fold light into the steel as it cools."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["priest"]
 target_tags = ["witcher"]
 line = "Your herb garden thrives. May I speak a growth prayer over it?"
 response = "Speak softly. The mandrake spooks easy but drinks your blessing."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["paladin"]
 target_tags = ["researcher"]
 line = "Help me set up a field heal station near the lake camp."
 response = "I will bring clean water and soft cloth. Good thinking."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["priest"]
 target_tags = ["paladin"]
 line = "I heard your dawn vow echo off the mountain. It was clear."
 response = "The echo gives it weight. I meant every word I spoke."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["paladin"]
 target_tags = ["town"]
 line = "A tired traveler rests by the gate. Light a welcome fire."
 response = "I will share warm soup and a lantern until sundown."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["priest"]
 target_tags = ["skyland_survival"]
 line = "I keep an overlook vigil at the southern floating isle edge."
 response = "Your light is a beacon. We steer our gliders by it."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["paladin"]
 target_tags = ["mentor"]
 line = "Show me the scar you earned defending the old chapel door."
 response = "This one? A reminder that shields break but vows do not."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["priest"]
 target_tags = ["researcher"]
 line = "I kept a prayer candle near the incubator all night long."
 response = "The egg stirred. I think the little one felt your warmth."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["paladin"]
 target_tags = ["town"]
 line = "At dusk I will sing the old psalm from the bell tower."
 response = "We will gather in the square. Your voice carries hope."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["priest"]
 target_tags = ["water_wizard"]
 line = "Fill this basin with fresh spring water for a blessing rite."
 response = "I will cool it with mountain melt. Use it well tonight."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["paladin"]
 target_tags = ["warrior"]
 line = "Kneel. I will bless your breastplate before the next patrol."
 response = "The metal feels lighter already. I will not forget this."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["priest"]
 target_tags = ["wind_wizard"]
 line = "Hung blessed chimes on the eastern gate. Will you test them?"
 response = "A gentle gust will ring them. Each note carries your ward."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["paladin"]
 target_tags = ["researcher"]
 line = "I carved a tiny vow rune on the cobblemon resting stone."
 response = "They gather around it now. Your craft is gentle and true."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["priest"]
 target_tags = ["town"]
 line = "For the festival we need sixty clean torches dipped in wax."
 response = "I will gather helpers from the market. We start at noon."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["paladin"]
 target_tags = ["frost_wizard"]
 line = "Is the frozen shrine still accessible through the northern pass?"
 response = "Barely. I keep the path clear with a soft snowfall spell."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["priest"]
 target_tags = ["mentor"]
 line = "Show me again how to pitch the healing tent in high wind."
 response = "Anchor east corner first. Let the ridgepole catch the breeze."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["paladin"]
 target_tags = ["town"]
 line = "I replaced the faded road marker with a stone bearing light runes."
 response = "Caravans will find the fork now even in thick fog."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["priest"]
 target_tags = ["researcher"]
 line = "I blessed a small pool near the cobblemon research hut."
 response = "Perfect. Thirsty little ones will drink clean and guarded water."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["paladin"]
 target_tags = ["mentor"]
 line = "Which passage do you read before a difficult judgment call?"
 response = "The parable of the cracked bell. It teaches patience, not might."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["priest"]
 target_tags = ["witcher"]
 line = "I spoke a ward at each corner post of your protective garden."
 response = "I felt the thorns hum. Your words hold the boundary tight."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["paladin"]
 target_tags = ["earth_wizard"]
 line = "Can you shape a glowstone lamp for the oath chamber?"
 response = "Already carving one. It will pulse soft gold, never harsh white."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["priest"]
 target_tags = ["town"]
 line = "Bless your voice, town crier. Your news binds the village."
 response = "Thank you. I will ring the bell gently after hard tidings."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["paladin"]
 target_tags = ["bounty_hunter"]
 line = "I will speak a sending prayer at the gate before you ride."
 response = "Stay until the prayer ends. I want the full blessing."
+source_emote = "speaking"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["priest"]
 target_tags = ["researcher"]
 line = "I left blessed berries in a wooden bowl by the tall grass."
 response = "The wild pidgey flock found them at first light. Peaceful feeding."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["paladin"]
 target_tags = ["wind_wizard"]
 line = "Storm clouds gather west. Should I ring the warning bell?"
 response = "Wait for three lightning flashes. Then ring it steady and slow."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["priest"]
 target_tags = ["store_cosmetics"]
 line = "Do you have undyed silk for a prayer banner I must sew?"
 response = "A whole bolt of cream silk. Take it. Bless it well."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["paladin"]
 target_tags = ["mentor"]
 line = "What is the hardest part of keeping a field oath during famine?"
 response = "Giving half your own ration to a stranger who may not live."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["priest"]
 target_tags = ["skyland_survival"]
 line = "Did you check the waystation lantern oil on the floating tier?"
 response = "Refilled all three. Your ward runes still glow beneath the glass."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["paladin"]
 target_tags = ["researcher"]
 line = "Will you let me speak a naming rite for the newborn eevee?"
 response = "Yes. Speak gently. The mother watches from the berry bush."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["priest"]
 target_tags = ["paladin"]
 line = "Join me for final vespers. We will bless the town together."
 response = "I will stand at your left, shield low, lantern raised high."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0

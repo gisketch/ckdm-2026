@@ -1,0 +1,113 @@
+{
+  "id": "rct_breeder_annie_05d8",
+  "name": "Breeder Annie",
+  "title": "Breeder",
+  "gender": "any",
+  "archetype": "breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 71,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "ninetales",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "drought",
+      "moveset": [
+        "fireblast",
+        "extrasensory",
+        "solarbeam",
+        "nastyplot"
+      ],
+      "heldItem": "heat_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cherrim",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flowergift",
+      "moveset": [
+        "solarbeam",
+        "dazzlinggleam",
+        "weatherball",
+        "growth"
+      ],
+      "heldItem": "grass_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefable",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "magicguard",
+      "moveset": [
+        "moonblast",
+        "fireblast",
+        "wish",
+        "thunderwave"
+      ],
+      "heldItem": "zoom_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gardevoir",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "synchronize",
+      "moveset": [
+        "moonblast",
+        "psychic",
+        "mysticalfire",
+        "willowisp"
+      ],
+      "heldItem": "mega_showdown:gardevoirite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "florges",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "flowerveil",
+      "moveset": [
+        "moonblast",
+        "solarbeam",
+        "toxic",
+        "wish"
+      ],
+      "heldItem": "babiri_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "liepard",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "limber",
+      "moveset": [
+        "darkpulse",
+        "burningjealousy",
+        "thunderwave",
+        "nastyplot"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

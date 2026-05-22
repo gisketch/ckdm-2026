@@ -1,0 +1,46 @@
+{
+  "id": "rct_friendly_teacher_0007",
+  "name": "Friendly Teacher",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 100,
+  "team": [
+    {
+      "species": "weezing",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "shadowball",
+        "sludgebomb"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "pikachu",
+      "level": 100,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "splash"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

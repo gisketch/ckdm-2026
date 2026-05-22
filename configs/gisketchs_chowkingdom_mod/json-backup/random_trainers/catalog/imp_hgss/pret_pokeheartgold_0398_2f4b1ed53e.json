@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0398_beauty_valerie",
+  "name": "Beauty Valerie",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:hoppip",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "megadrain",
+        "tailwhip",
+        "tackle",
+        "poisonpowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "megadrain",
+        "tailwhip",
+        "tackle",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hi! Aren\u2019t you a cute Trainer! May I see your Pok\u00e9mon?",
+    "When I see Pok\u00e9mon, it seems to soothe my nerves."
+  ]
+}

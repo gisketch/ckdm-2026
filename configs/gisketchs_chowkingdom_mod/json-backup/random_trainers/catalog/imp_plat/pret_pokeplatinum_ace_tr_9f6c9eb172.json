@@ -1,0 +1,70 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_shannon",
+  "name": "Ace Trainer Female Shannon",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:cherrim",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "petaldance",
+        "magicalleaf",
+        "leechseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:azumarill",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doubleedge",
+        "bubblebeam",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lopunny",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "jumpkick",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Really? So you think you can beat me? I\u2019m an Ace Trainer, you do realize?",
+    "Beaten in battle, but not in spirit. That\u2019s the mark of a real Ace Trainer."
+  ]
+}

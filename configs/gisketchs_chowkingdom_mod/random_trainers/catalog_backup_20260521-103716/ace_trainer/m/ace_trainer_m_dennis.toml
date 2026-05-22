@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_dennis"
+name = "Ace Trainer Dennis"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 59
+maxLevel = 61
+team = [
+  { species = "cobblemon:gliscor", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderfang", "xscissor", "quickattack", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:floatzel", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["aquajet", "swift", "crunch", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drifblim", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swallow", "gust", "stockpile", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll take on anyone! It can only make me stronger!", "In a Pokémon battle, it doesn’t matter how old or young you are. Your gender doesn’t matter, either. Nothing like that means anything!", "Ace Trainer Male Dennis is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

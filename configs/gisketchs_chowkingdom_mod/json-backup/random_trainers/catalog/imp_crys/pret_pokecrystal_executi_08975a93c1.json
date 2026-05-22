@@ -1,0 +1,71 @@
+{
+  "id": "pret_pokecrystal_executivef_002_executive",
+  "name": "Executivef Executive",
+  "title": "Executivef",
+  "gender": "any",
+  "archetype": "executivef",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "executivef/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:arbok",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gloom",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "absorb",
+        "sweetscent",
+        "sleeppowder",
+        "acid"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:murkrow",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "peck",
+        "pursuit",
+        "haze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Executivef Executive is ready for a battle."
+  ]
+}

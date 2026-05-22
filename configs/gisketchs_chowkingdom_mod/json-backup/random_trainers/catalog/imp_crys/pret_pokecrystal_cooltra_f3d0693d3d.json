@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokecrystal_cooltrainerm_008_ryan",
+  "name": "Cooltrainerm Ryan",
+  "title": "Cooltrainerm",
+  "gender": "any",
+  "archetype": "cooltrainerm",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "cooltrainerm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sandattack",
+        "quickattack",
+        "whirlwind",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderpunch",
+        "lightscreen",
+        "swift",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cooltrainerm Ryan is ready for a battle."
+  ]
+}

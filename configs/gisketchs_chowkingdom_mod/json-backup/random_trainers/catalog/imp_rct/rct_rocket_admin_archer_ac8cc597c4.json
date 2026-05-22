@@ -1,0 +1,79 @@
+{
+  "id": "rct_rocket_admin_archer_0035",
+  "name": "Rocket Admin Archer",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rocket_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:gothitelle",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "hiddenpower",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "colbur_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aegislash",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "stancechange",
+      "moveset": [
+        "ironhead",
+        "shadowclaw",
+        "shadowsneak",
+        "kingsshield"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "unnerve",
+      "moveset": [
+        "heatwave",
+        "darkpulse",
+        "scorchingsands",
+        "suckerpunch"
+      ],
+      "heldItem": [
+        "mega_showdown:houndoominite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

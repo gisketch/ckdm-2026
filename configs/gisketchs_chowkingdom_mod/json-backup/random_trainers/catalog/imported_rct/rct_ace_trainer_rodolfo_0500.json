@@ -1,0 +1,33 @@
+{
+  "id": "rct_ace_trainer_rodolfo_0500",
+  "name": "Ace Trainer Rodolfo",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "miltank",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "scrappy",
+      "moveset": [
+        "milkdrink",
+        "bodyslam",
+        "charm",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

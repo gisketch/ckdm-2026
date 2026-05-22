@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_dragon_tamer_keegan",
+  "name": "Dragon Tamer Keegan",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:trapinch",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vibrava",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Dragon Pok\u00e9mon are sacred beings... That\u2019s what my master taught me. And now I\u2019ll prove it to you!",
+    "It\u2019s not good enough for a Pok\u00e9mon to just be tough. It\u2019s not good enough for a Trainer to just work hard. Both have to grow together!"
+  ]
+}

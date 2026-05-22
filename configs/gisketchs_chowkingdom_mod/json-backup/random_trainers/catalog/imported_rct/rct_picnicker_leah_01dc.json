@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_leah_01dc",
+  "name": "Picnicker Leah",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "doduo",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "runaway",
+      "moveset": [
+        "pluck",
+        "doublehit",
+        "agility",
+        "uproar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "poliwhirl",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "bubblebeam",
+        "mudshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

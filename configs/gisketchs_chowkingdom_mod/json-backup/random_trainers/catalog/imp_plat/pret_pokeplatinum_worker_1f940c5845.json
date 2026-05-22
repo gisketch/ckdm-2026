@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_worker_noel",
+  "name": "Worker Noel",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:magnemite",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The working-class hero says hi!",
+    "I used to work here a long time ago, before it shut down. I worked at the ironworks near Floaroma Town, too. You might say I\u2019m drawn by iron as if by magnet!"
+  ]
+}

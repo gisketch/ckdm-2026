@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_tanya"
+name = "Picnicker Tanya"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:exeggutor", level = 49, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gigadrain", "lightscreen", "eggbomb", "hypnosis"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Tanya is ready for a battle.", "Do you think a girls-only Gym is rare?", "Thanks for not going easy on me!"]

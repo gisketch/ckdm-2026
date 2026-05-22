@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_mikayla"
+name = "Ace Trainer Mikayla"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:seviper", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["nightslash", "poisonfang", "wringout", "glare"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:persian", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["nightslash", "powergem", "feintattack", "fakeout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:absol", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["nightslash", "psychocut", "slash", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The world is huge, and there are so many different Pokémon! What kinds of Pokémon are with you? Please, I want to have a look!", "There is always something to like about any Pokémon. It’s so hard to decide which ones I should raise.", "I have trained this team for the road. Challenge me if you are ready."]

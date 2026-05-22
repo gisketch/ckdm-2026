@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_robert"
+name = "Pokefan Robert"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:quagsire", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You really love Pokémon, don’t you? I love Pokémon, too!", "My dearest, very important Pokémon... I won’t forget what you did!"]

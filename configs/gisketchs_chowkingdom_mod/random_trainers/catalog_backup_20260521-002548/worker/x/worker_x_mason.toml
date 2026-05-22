@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_x_mason"
+name = "Worker Mason"
+title = "Worker"
+gender = "any"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 9
+maxLevel = 9
+team = [
+  { species = "cobblemon:machop", level = 9, gender = "FEMALE", nature = "naive", ability = "guts", moveset = ["lowkick", "leer", "focusenergy", "revenge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m gonna let you in on a secret... I snuck my Pokémon to work!", "OK, OK, time for work! I’ll work up a thirst with my Pokémon!", "I have trained this team for the road. Challenge me if you are ready."]

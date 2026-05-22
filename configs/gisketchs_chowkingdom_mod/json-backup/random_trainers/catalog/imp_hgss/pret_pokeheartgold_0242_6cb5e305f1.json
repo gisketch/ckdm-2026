@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0242_juggler_fritz",
+  "name": "Juggler Fritz",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:mr_mime",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "substitute",
+        "psychic",
+        "encore",
+        "doubleslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magmar",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lavaplume",
+        "firepunch",
+        "confuseray",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "focusenergy",
+        "karatechop",
+        "seismictoss",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Urrf... I\u2019m seasick!",
+    "No more ships for me. Next time, I\u2019m taking the Magnet Train."
+  ]
+}

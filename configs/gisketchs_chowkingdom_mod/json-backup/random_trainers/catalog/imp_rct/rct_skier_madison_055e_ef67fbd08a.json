@@ -1,0 +1,40 @@
+{
+  "id": "rct_skier_madison_055e",
+  "name": "Skier Madison",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "skier/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:snover",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "ingrain",
+        "woodhammer",
+        "blizzard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

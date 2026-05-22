@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "triathlete_m_jacob"
+name = "Triathlete Jacob"
+title = "Triathlete"
+gender = "male"
+archetype = "triathlete"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "triathlete/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1.02
+bustStyle = ""
+minLevel = 6
+maxLevel = 14
+team = [
+  { species = "cobblemon:voltorb", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:voltorb", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Triathlete Jacob is ready for a battle."]

@@ -1,0 +1,72 @@
+{
+  "id": "rct_black_belt_luke_035b",
+  "name": "Black Belt Luke",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:croagunk",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "revenge",
+        "venoshock",
+        "suckerpunch",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "sandtomb",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "strength",
+        "dualchop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

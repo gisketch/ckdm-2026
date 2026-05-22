@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ninja_boy_m_fabian"
+name = "Ninja Boy Fabian"
+title = "Ninja Boy"
+gender = "male"
+archetype = "ninja_boy"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ninja_boy/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 23
+maxLevel = 26
+team = [
+  { species = "cobblemon:geodude", level = 23, gender = "FEMALE", nature = "naive", ability = "rockhead", moveset = ["sandstorm", "rockthrow", "smackdown", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 23, gender = "MALE", nature = "naive", ability = "rockhead", moveset = ["harden", "rockthrow", "smackdown", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 26, gender = "MALE", nature = "naive", ability = "rockhead", moveset = ["rockthrow", "smackdown", "bulldoze", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I am one of the Ninja Trio! Being discovered means I must battle!", "My cover is blown, so what should I do? Maybe I’ll go catch some Contests in Hearthome City. Maybe I’ll do that.", "I have trained this team for the road. Challenge me if you are ready."]

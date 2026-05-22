@@ -2,448 +2,549 @@
 id = "expansion_21_001"
 topic = "dragon_echo_recovery"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["aang", "zelda"]
 target_tags = ["mentor", "wind_wizard"]
 line = "Aang the last sky echoes stir in my memory when I meditate."
 response = "Zelda those currents still carry your wingsong from the skylands."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_002"
 topic = "skyland_anchor_offering"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["toph", "zelda"]
 target_tags = ["mentor", "earth_wizard"]
 line = "Toph I once circled a floating island feeling its heartbeat underground."
 response = "The skyland roots still hum with your old weight Zelda."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_003"
 topic = "frost_wing_perspective"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor", "frost_wizard"]
 line = "Elsa from the clouds the northern ice looked like shattered glass."
 response = "I shape snowflakes remembering a dragon shadow across the sun."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_004"
 topic = "water_mirror_skyland"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["katara", "zelda"]
 target_tags = ["mentor", "water_wizard"]
 line = "Katara I saw skylands mirrored in the great sea from above."
 response = "We felt your light ripple across every tidepool Zelda."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_005"
 topic = "ember_draft_reminisce"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zuko"]
 target_tags = ["mentor", "fire_wizard"]
 line = "Zuko my wings once fanned updrafts warm enough to melt permafrost."
 response = "Your thermals still teach me how fire breathes without destroying."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_006"
 topic = "arcane_scale_study"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["invoker", "zelda"]
 target_tags = ["mentor", "arcane_wizard"]
 line = "Invoker I still dream luminous scales that deflect corruption spells."
 response = "Zelda ancient wyrms wove wards into their own keratin."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_007"
 topic = "witcher_silver_recall"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["ciri", "zelda"]
 target_tags = ["ciri", "class_witcher"]
 line = "Ciri I sense echoes of your silver sword crossing skyland runes."
 response = "Your light trail guides witchers through miasma Zelda."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_008"
 topic = "geralt_monster_drake_lore"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["geralt"]
 target_tags = ["geralt", "class_witcher"]
 line = "Geralt I watched lesser drakes from above they fear pure light."
 response = "Then your memory is the bestiary entry I never wrote."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_009"
 topic = "bounty_wing_route"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["aloy", "zelda"]
 target_tags = ["town", "bounty_hunter"]
 line = "Aloy I mapped hidden skyland passes during my long glide."
 response = "Zelda those routes cut three days off my patrol."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_010"
 topic = "archer_skyland_aim"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["legolas"]
 target_tags = ["town", "war_archer"]
 line = "Legolas I watched arrows arc from the floating isles back then."
 response = "My bow still remembers the wind where your wings broke it."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_011"
 topic = "tundra_archer_thermal"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["traxex", "zelda"]
 target_tags = ["town", "tundra_archer"]
 line = "Traxex the thermals above your tundra carried snow-song."
 response = "Zelda I tracked your shadow across frozen lakes to navigate."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_012"
 topic = "bard_dragon_poem"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["venti"]
 target_tags = ["town", "bard"]
 line = "Venti do bards still sing of the light dragon over skyland spires?"
 response = "Every verse I pen borrows a note from your silent wings."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_013"
 topic = "paladin_radiance_lesson"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["tarnished", "zelda"]
 target_tags = ["mentor", "paladin"]
 line = "Tarnished my light felt most pure when shielding skyland towns."
 response = "Zelda that is the holy radiance paladins chase all our lives."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_014"
 topic = "priest_blessing_wind"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["pope_leo"]
 target_tags = ["mentor", "priest"]
 line = "Pope Leo I remember blessing rains that fell from skyland clouds."
 response = "We still thank the dragon-light for every soft morning dew."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_015"
 topic = "gandalf_star_drake"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["mentor", "wizard"]
 line = "Gandalf your fireworks remind me of starlight reflected on my scales."
 response = "And your dragonflight taught me how hope looks from above."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_016"
 topic = "link_skyland_signal"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["link"]
 target_tags = ["link", "sword_technique"]
 line = "Link do you still find my light sigils on the skyland stones?"
 response = "Every one leads me home before I swing the master sword."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_017"
 topic = "link_dragon_glide_memory"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["link"]
 target_tags = ["link", "tears_of_the_kingdom"]
 line = "Link you once clung to my crest as we dove through burning sky."
 response = "I never let go because I felt your heartbeat between the scales."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_018"
 topic = "huntress_drakescent"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["town", "huntress_wizard"]
 line = "Huntress Wizard my scent used to spook the duskdrakes away."
 response = "I noticed peace bloomed wherever your wings had passed overhead."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_019"
 topic = "marceline_nocturnal_sight"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["marceline", "zelda"]
 target_tags = ["marceline", "nocturnal"]
 line = "Marceline night flights painted the moon silver across my scales."
 response = "Zelda your glow was the only light I never wanted to outrun."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_020"
 topic = "marceline_music_wingbeat"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["marceline", "zelda"]
 target_tags = ["marceline", "musician"]
 line = "Marceline my wingbeats had a tempo like a slow nocturne."
 response = "I still sample that cadence for my midnight bass solos Zelda."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_021"
 topic = "bubblegum_research_dragon_cell"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zelda"]
 target_tags = ["bubblegum", "researcher"]
 line = "Bubblegum did my shed scales reveal anything in your lab?"
 response = "Zelda the bioluminescent cells rewrite cobblemon evolution theory."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_022"
 topic = "bubblegum_store_display"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["zelda"]
 target_tags = ["bubblegum", "store_pokemon"]
 line = "Bubblegum the skyland tinctures in your store smell like my old aura."
 response = "I distill them from cloudbloom that remembers your flightpath Zelda."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_023"
 topic = "cobblemon_skyland_habitat"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zelda"]
 target_tags = ["researcher", "cobblemon_biology"]
 line = "Researcher I saw wild cobblemon nesting where skyland roots dangle."
 response = "Zelda your notes confirm we need floating biome sanctuaries."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_024"
 topic = "ezio_freerun_skyland"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["ezio"]
 target_tags = ["town", "rogue"]
 line = "Ezio skyland ruins had handholds only a dragon could spot."
 response = "Your old perch points still guide my leaps after sundown."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_025"
 topic = "zagreus_berserker_wingrush"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zagreus", "zelda"]
 target_tags = ["town", "berserker"]
 line = "Zagreus I once swooped low enough to graze a berserker charge."
 response = "Zelda that draft cooled my blood frenzy into clarity."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_026"
 topic = "finn_warrior_skyland_run"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["finn"]
 target_tags = ["town", "warrior"]
 line = "Finn warriors used to race my shadow across the skyland bridges."
 response = "We still train sprints hoping to catch a glimpse of your light."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_027"
 topic = "forcemaster_barrier_echo"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["vi", "zelda"]
 target_tags = ["town", "forcemaster"]
 line = "Vi my wingbarrier once deflected entire stormfronts over skytowns."
 response = "Zelda I channel that memory to reinforce my force shields."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_028"
 topic = "shoumai_dragon_tint"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town", "store_cosmetics"]
 line = "Shoumai do you still sell the gold pigment named after my light?"
 response = "Dragonlight Gold sells out every solstice Zelda."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_029"
 topic = "seed_store_dragon_bloom"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town", "store_seed"]
 line = "The skyland pods in your seed store remember my nesting season."
 response = "They still sprout only where your radiance touched the soil Zelda."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_030"
 topic = "explorer_store_skyland_map"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town", "store_explorer"]
 line = "Your explorer shelves now sell charts of my old migration loops."
 response = "Maps called the Light Ring sold faster than compasses Zelda."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_031"
 topic = "wind_wizard_skyland_breath"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["aang", "zelda"]
 target_tags = ["mentor", "wind_wizard"]
 line = "Aang teach me to shape the skyland breezes without wings now."
 response = "Zelda your spirit still soars the moment you exhale."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_032"
 topic = "earth_wizard_crystal_memory"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["toph", "zelda"]
 target_tags = ["mentor", "earth_wizard"]
 line = "Toph the crystals in the skyland caves glowed when I passed."
 response = "They still vibrate whenever someone speaks your name Zelda."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_033"
 topic = "water_wizard_cloud_song"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["katara", "zelda"]
 target_tags = ["mentor", "water_wizard"]
 line = "Katara I once drew rain from the sea to keep a skyland alive."
 response = "The island still weeps grateful dew at dawn Zelda."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_034"
 topic = "fire_wizard_dragon_ember"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zuko"]
 target_tags = ["mentor", "fire_wizard"]
 line = "Zuko my breath once kindled hearths on three floating isles."
 response = "I found cinders that still pulse with your light magic."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_035"
 topic = "frost_wizard_ice_path"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["elsa", "zelda"]
 target_tags = ["mentor", "frost_wizard"]
 line = "Elsa I froze clouds into stepping stones across the sky."
 response = "Zelda I walk that same frost bridge in my deepest meditations."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_036"
 topic = "arcane_wizard_rune_scales"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["invoker", "zelda"]
 target_tags = ["mentor", "arcane_wizard"]
 line = "Invoker did my scales leave draconic runes on the high monoliths?"
 response = "Yes and I transcribed seven wards from them Zelda."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_037"
 topic = "witcher_ciri_skyland_portal"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["ciri", "zelda"]
 target_tags = ["ciri", "skyland_lore"]
 line = "Ciri I glimpsed your portal flashes from above the cloud layer."
 response = "Your light acted as a beacon across the spheres Zelda."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_038"
 topic = "geralt_elixir_dragon_residue"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["geralt", "zelda"]
 target_tags = ["geralt", "monster_hunter"]
 line = "Geralt my lingering magic might strengthen a witcher elixir."
 response = "One drop of that light could purify a cursed blade Zelda."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_039"
 topic = "aloy_focus_scan_dragon"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["aloy"]
 target_tags = ["aloy", "bounty_hunter"]
 line = "Aloy your focus device would have traced my aerial patterns."
 response = "I still detect residual light trails older than any machine."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_040"
 topic = "legolas_war_dragon_feather"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["legolas"]
 target_tags = ["legolas", "monster_hunter"]
 line = "Legolas one of my wingfeathers saved a shot from a shadow beast."
 response = "That fletching still guides my arrows through arcane darkness."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_041"
 topic = "traxex_chill_wisp"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["traxex", "zelda"]
 target_tags = ["traxex", "tundra_archer"]
 line = "Traxex the wisps above your tundra danced with my old radiance."
 response = "I bottle them as arrowheads that never shatter Zelda."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_042"
 topic = "venti_instrument_scale"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["venti", "zelda"]
 target_tags = ["venti", "bard"]
 line = "Venti would you craft a lyre string from my donated scales?"
 response = "Zelda its tone would summon a fair wind every dawn."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_043"
 topic = "paladin_vigil_skyland"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["tarnished", "zelda"]
 target_tags = ["tarnished", "paladin"]
 line = "Tarnished the skylands need a paladin vigil beneath the new moon."
 response = "Zelda I will keep watch where your light first broke dawn."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_044"
 topic = "priest_sacred_wing_rite"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["pope_leo", "zelda"]
 target_tags = ["pope_leo", "priest"]
 line = "Pope Leo is there a rite for those who recall the dragon's peace?"
 response = "I wrote one called the Office of Light Wings Zelda."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_045"
 topic = "gandalf_pipeweed_skyland"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["gandalf", "zelda"]
 target_tags = ["gandalf", "skyland_lore"]
 line = "Gandalf your pipeweed grows sweeter where the skylands cast shade."
 response = "I call that leaf Dragon's Rest in your honor Zelda."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_046"
 topic = "link_rescue_echo"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["bubblegum", "link"]
 target_tags = ["link", "skyland_survival"]
 line = "Link you glided from my back straight into a skyland rescue."
 response = "Those we saved still call you the Light Dragon Princess."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_047"
 topic = "huntress_altitude_ambush"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["huntress_wizard", "skyland_survival"]
 line = "Huntress Wizard I once spotted an ambush from two leagues high."
 response = "My highest vantage still only reaches where your eye once sat."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_048"
 topic = "marceline_queen_west_skyland"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["marceline"]
 target_tags = ["marceline", "vampire_queen"]
 line = "Marceline the western skyland keeps a hall I used to circle."
 response = "I claimed its twilight tower as a safe haven for the night."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_049"
 topic = "bubblegum_cobblemon_dragon_type"
 source_tags = ["zelda", "light_magic"]
+required_spawned_ids = ["zelda"]
 target_tags = ["bubblegum", "cobblemon_biology"]
 line = "Bubblegum were any cobblemon drawn to the light dragon aura?"
 response = "Yes Zelda the fairy-dragon types still gravitate to your old roosts."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_21_050"
 topic = "zelda_hope_town"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town", "mentor"]
 line = "I soared so that this town could plant roots beyond the cloud veil."
 response = "Zelda every roof in this town remembers your gentle dawn."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0

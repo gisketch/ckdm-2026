@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_maya_0503",
+  "name": "Ace Trainer Maya",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:glameow",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "retaliate",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "reflect",
+        "allyswitch",
+        "recover",
+        "psyshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

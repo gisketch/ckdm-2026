@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_becky_029d",
+  "name": "Picnicker Becky",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "static",
+      "moveset": [
+        "thunderwave",
+        "feint",
+        "spark",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raichu",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "babydolleyes",
+        "tailwhip",
+        "quickattack",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

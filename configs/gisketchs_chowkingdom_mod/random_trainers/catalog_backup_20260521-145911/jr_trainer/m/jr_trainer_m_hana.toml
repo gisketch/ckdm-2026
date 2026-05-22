@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jr_trainer_m_hana"
+name = "Jr Trainer Hana"
+title = "Jr Trainer"
+gender = "male"
+archetype = "jr_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "jr_trainer/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:rattata", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:diglett", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ekans", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandshrew", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jrtrainerm from Route 9 is ready for a battle."]

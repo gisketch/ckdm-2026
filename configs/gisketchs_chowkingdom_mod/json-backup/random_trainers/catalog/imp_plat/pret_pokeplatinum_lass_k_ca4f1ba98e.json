@@ -1,0 +1,69 @@
+{
+  "id": "pret_pokeplatinum_lass_kaitlin",
+  "name": "Lass Kaitlin",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 4,
+  "maxLevel": 4,
+  "team": [
+    {
+      "species": "cobblemon:bidoof",
+      "level": 4,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:budew",
+      "level": 4,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starly",
+      "level": 4,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:abra",
+      "level": 4,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I found a Trainer while looking for some Pok\u00e9mon!",
+    "I walk through tall grass until I find the Pok\u00e9mon I want."
+  ]
+}

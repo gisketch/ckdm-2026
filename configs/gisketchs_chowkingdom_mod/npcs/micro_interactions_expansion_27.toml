@@ -5,6 +5,8 @@ source_tags = ["wizard"]
 target_tags = ["mentor"]
 line = "We cannot ignore structural mana feedback in skyland stone."
 response = "Skyland foundations amplify cycles. A dampening ward must go first."
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "Raw arcane threads unravel near void crystals."
 response = "Anchor them inside charged lodestone cages."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "A frost barrier that cold can crack mid patrol."
 response = "Layer it with sunlight essence. Ice holds longer."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Light magic burns dark residue but leaves scars."
 response = "Cleanse with running water after each purification pulse."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["wizard"]
 target_tags = ["mentor"]
 line = "Tower ley conduits drift during high moon."
 response = "Recalibrate the azimuth ring every dusk patrol."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "A leaking grimoire cage hums near the dormitory."
 response = "Silence it with null-sand before students return."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "Melt runes overspill into crop terraces."
 response = "Redirect the runoff through a heat siphon array."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Villagers see the light ward and panic."
 response = "Tint it translucent blue. Looks like morning fog."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["wizard"]
 target_tags = ["mentor"]
 line = "The east gate spell alarm triggered twice last night."
 response = "Check for feral corviknight roosting on the sigil."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "Can we reuse spent sunstone dust?"
 response = "Dry it under prism light. One extra cycle only."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "Permafrost bloom spores scatter when disturbed."
 response = "Collect them in sealed glass jars before noon thaw."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Cleansing haze drifts into the pokemon nursery."
 response = "Bubblegum already filed a complaint. Move the site."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["wizard"]
 target_tags = ["mentor"]
 line = "Our patrol scrolls need better obfuscation."
 response = "Enchant the parchment with false-reading glyphs."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "My focus gem has a hairline fracture."
 response = "Submerge it in starlight brine for three nights."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "Humidity weakens the crystal storage ward."
 response = "Line the vault with desert salt bricks."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -140,17 +170,21 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Acolytes faint after prolonged purification shifts."
 response = "Mandatory sunberry tonic after each shift."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_017"
 topic = "wizard_familiars_path"
 source_tags = ["wizard"]
+required_spawned_ids = ["invoker"]
 target_tags = ["mentor"]
 line = "Familiars keep wandering into Invoker's sanctum."
 response = "Invoker will ward the threshold with echo charms."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_018"
 topic = "arcane_theory_echo"
@@ -158,6 +192,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "Echo theory suggests parallel casting is possible."
 response = "Risky. Test it on a small floating islet first."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "Glacial resonance spikes near the old well."
 response = "Seal the well shaft. Something ancient stirs."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -176,17 +214,21 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Excess light energy pools under the bridge plaza."
 response = "Drain it into phosphor-moss planters overnight."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_021"
 topic = "wizard_council_schedule"
 source_tags = ["wizard"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor"]
 line = "Shift the council meeting to after moonpeak."
 response = "Agreed. Elsa needs dark hours for calibrations."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_022"
 topic = "arcane_mirror_shatter"
@@ -194,6 +236,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "A scrying mirror shattered during the last storm."
 response = "Bury the shards separately in charged clay."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "The cold vault doubled as the kitchen icebox."
 response = "Separate them. Ration rot attracts frost mites."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -212,17 +258,21 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Light bindings on shadow essence fail at dawn."
 response = "Reinforce with iron thread soaked in glowspore."
+source_emote = "facepalm"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_025"
 topic = "wizard_skyland_mooring"
 source_tags = ["wizard"]
+required_spawned_ids = ["aang"]
 target_tags = ["mentor"]
 line = "A wandering islet bumped the council spire."
 response = "Chain it to the anchor crystal until Aang returns."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_026"
 topic = "arcane_tome_index"
@@ -230,17 +280,21 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "The library's arcane index skipped three volumes."
 response = "Manually re-scribe the spectral index plates."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_027"
 topic = "frost_barrier_thaw"
 source_tags = ["frost_wizard"]
+required_spawned_ids = ["invoker"]
 target_tags = ["mentor"]
 line = "Outer frost barrier melted along the south ridge."
 response = "Invoker suspects volcanic vent. Send a scout."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_028"
 topic = "light_magic_bloom"
@@ -248,17 +302,21 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Light-rune flowers attract too many combee swarms."
 response = "Plant repellent herbs around the runic beds."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_029"
 topic = "wizard_quartz_supply"
 source_tags = ["wizard"]
+required_spawned_ids = ["zelda"]
 target_tags = ["mentor"]
 line = "The supply of clear quartz is running low."
 response = "Zelda offered to open the sealed inner sanctum."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_030"
 topic = "arcane_miasma_scrub"
@@ -266,6 +324,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "Residual miasma clings to the teleport pad."
 response = "Burn cedar sprigs on the pad every twilight."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -275,44 +335,54 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "Villagers keep slipping on the ice walkway."
 response = "Add crushed glowstone gravel for grip."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_032"
 topic = "light_magic_memory"
 source_tags = ["light_magic"]
+required_spawned_ids = ["zelda"]
 target_tags = ["mentor"]
 line = "Zelda claims light magic still carries dragon memory."
 response = "All the more reason to handle it with reverence."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_033"
 topic = "wizard_sigil_restoration"
 source_tags = ["wizard"]
+required_spawned_ids = ["link"]
 target_tags = ["mentor"]
 line = "The old sigil outside Link's post is fading."
 response = "Repaint it with crushed luminous pearl paste."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_034"
 topic = "arcane_sigil_crosscheck"
 source_tags = ["arcane_wizard"]
+required_spawned_ids = ["invoker"]
 target_tags = ["mentor"]
 line = "Invoker's sigil array is mirrored from ours."
 response = "Intentional. It channels counterpoint protection."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_035"
 topic = "frost_mentor_exchange"
 source_tags = ["frost_wizard"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor"]
 line = "Elsa's method of shaping frost is more elegant."
 response = "Learn it. We must unify elemental pedagogy."
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_036"
 topic = "light_magic_dawnburst"
@@ -320,6 +390,8 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Dawnburst light detection startled patrolling guards."
 response = "Program a softer pre-glow sequence for security."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["wizard"]
 target_tags = ["mentor"]
 line = "An echo fault duplicated my voice down the hall."
 response = "Harmless acoustic leak. We fixed the ward gap."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "The frost spire temperature dips below tolerance."
 response = "Start the secondary hearthstone cycle early."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -347,17 +423,21 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Light threads can be woven into patrol cloaks."
 response = "Test one cloak for ghost type visibility first."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_040"
 topic = "wizard_training_accident"
 source_tags = ["wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["mentor"]
 line = "A trainee's fire bolt hit the archive wall."
 response = "No real damage. Katara already doused it clean."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_041"
 topic = "arcane_ley_junction"
@@ -365,17 +445,21 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "Two ley lines cross beneath the new town plaza."
 response = "Mark it. That junction needs a permanent warden."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_042"
 topic = "frost_mage_supply"
 source_tags = ["frost_wizard"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["mentor"]
 line = "Frost mage supply shipment is stuck at sky dock."
 response = "Zagreus will carry it down before sunset."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_043"
 topic = "light_magic_dewdrop"
@@ -383,6 +467,8 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "Morning dew on light blooms reacts strangely."
 response = "Collect samples for Bubblegum's cobblemon lab."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["wizard"]
 target_tags = ["mentor"]
 line = "Double patrols east where mist thickens at dusk."
 response = "Pair a wizard with a war archer for coverage."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "Arcane owl messenger returned with blank scrolls."
 response = "Scrying block east of the ridge. Use courier."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["mentor"]
 line = "Maintenance runes on ice walls need recharging."
 response = "Assign that to apprentice rotation tomorrow."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -419,17 +511,21 @@ source_tags = ["light_magic"]
 target_tags = ["mentor"]
 line = "A sudden cloudbreak magnified the purification lens."
 response = "Install automatic iris shutters for lens safety."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_048"
 topic = "wizard_guest_lecture"
 source_tags = ["wizard"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["mentor"]
 line = "Gandalf offered to lecture on skyland survival."
 response = "Schedule it after the cobblemon research talk."
+source_emote = "proud"
+target_emote = "hands_in_back"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_27_049"
 topic = "arcane_floating_lamp"
@@ -437,13 +533,18 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "A floating lamp drifted above the pokemon shop."
 response = "Add tether charms. Bubblegum does not need spooks."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_27_050"
 topic = "arcane_core_temperature_control"
 source_tags = ["arcane_wizard"]
+required_spawned_ids = ["elsa"]
 target_tags = ["frost_wizard"]
 line = "Your frost control keeps the core so stable Elsa. No thermal runaway at all."
 response = "Channeling cold is rhythm not force. The arcane lattice does the rest."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0

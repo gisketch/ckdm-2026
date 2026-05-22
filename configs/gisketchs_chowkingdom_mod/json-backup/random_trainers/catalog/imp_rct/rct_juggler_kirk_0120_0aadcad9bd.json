@@ -1,0 +1,88 @@
+{
+  "id": "rct_juggler_kirk_0120",
+  "name": "Juggler Kirk",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 63,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "explosion",
+        "gyroball",
+        "mirrorcoat",
+        "courtchange"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:incineroar",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "scaryface",
+        "flareblitz",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:appletun",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "ripen",
+      "moveset": [
+        "bodyslam",
+        "irondefense",
+        "dragonpulse",
+        "energyball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ariados",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "gunkshot",
+        "megahorn",
+        "stickyweb",
+        "toxicthread"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

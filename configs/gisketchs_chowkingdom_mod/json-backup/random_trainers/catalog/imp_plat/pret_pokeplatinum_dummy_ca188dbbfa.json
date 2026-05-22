@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_349",
+  "name": "Skier Male Mickey",
+  "title": "Skier Male",
+  "gender": "male",
+  "archetype": "skier_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Skier Male Mickey is ready for a battle."
+  ]
+}

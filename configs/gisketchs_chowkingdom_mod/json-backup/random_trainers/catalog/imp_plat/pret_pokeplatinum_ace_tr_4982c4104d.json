@@ -1,0 +1,55 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_jake",
+  "name": "Ace Trainer Male Jake",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:staraptor",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "takedown",
+        "aerialace",
+        "endeavor",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doublehit",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "They call me an Ace Trainer. Allow me to demonstrate the talent that makes me so!",
+    "I think keeping up the effort to better yourself is a talent in itself."
+  ]
+}

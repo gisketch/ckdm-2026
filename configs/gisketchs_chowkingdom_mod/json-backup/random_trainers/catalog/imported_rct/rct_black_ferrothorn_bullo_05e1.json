@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_ferrothorn_bullo_05e1",
+  "name": "Black Ferrothorn Bullo",
+  "title": "Black Ferrothorn",
+  "gender": "any",
+  "archetype": "black_ferrothorn",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "bastiodon",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "metalburst",
+        "swagger",
+        "irondefense",
+        "ironhead"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bisharp",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": [
+        "ironhead",
+        "suckerpunch",
+        "poisonjab",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

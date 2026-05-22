@@ -1,0 +1,81 @@
+{
+  "id": "rct_hiker_nob_00b7",
+  "name": "Hiker Nob",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "phanpy",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "pickup",
+      "moveset": [
+        "flail",
+        "iceshard",
+        "rollout",
+        "magnitude"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandile",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "moxie",
+      "moveset": [
+        "rockthrow",
+        "torment",
+        "sandtomb",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "noguard",
+      "moveset": [
+        "rocktomb",
+        "lowsweep",
+        "seismictoss",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "makuhita",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "guts",
+      "moveset": [
+        "fakeout",
+        "forcepalm",
+        "whirlwind",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

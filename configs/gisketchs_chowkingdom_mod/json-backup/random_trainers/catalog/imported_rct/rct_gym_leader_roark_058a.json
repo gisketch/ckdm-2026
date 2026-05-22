@@ -1,0 +1,110 @@
+{
+  "id": "rct_gym_leader_roark_058a",
+  "name": "Roark",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "tyranitar",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "crunch",
+        "stoneedge",
+        "roar",
+        "stealthrock"
+      ],
+      "heldItem": "smooth_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aerodactyl",
+      "level": 66,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unnerve",
+      "moveset": [
+        "stoneedge",
+        "roar",
+        "roost",
+        "stealthrock"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "armaldo",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "stoneedge",
+        "xscissor",
+        "brine",
+        "earthquake"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "probopass",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "sandforce",
+      "moveset": [
+        "powergem",
+        "flashcannon",
+        "bodypress",
+        "discharge"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "relicanth",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rampardos",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "moveset": [
+        "stoneedge",
+        "irontail",
+        "zenheadbutt",
+        "headsmash"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

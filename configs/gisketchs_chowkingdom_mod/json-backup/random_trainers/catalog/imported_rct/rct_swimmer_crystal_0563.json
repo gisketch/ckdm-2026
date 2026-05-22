@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_crystal_0563",
+  "name": "Swimmer Crystal",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "pelipper",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "drizzle",
+      "moveset": [
+        "tailwind",
+        "growl",
+        "waterpulse",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "peck",
+        "waterfall",
+        "megahorn",
+        "horndrill"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

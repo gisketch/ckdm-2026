@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_gs_x_bert"
+name = "Bird Keeper Gs Bert"
+title = "Bird Keeper Gs"
+gender = "any"
+archetype = "bird_keeper_gs"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bird_keeper_gs/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 43
+maxLevel = 46
+team = [
+  { species = "cobblemon:wingull", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:fearow", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Found it! A Trainer that I can enjoy fighting!", "That was an incredible battle! I’ve got goose bumps!"]

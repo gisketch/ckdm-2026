@@ -1,0 +1,33 @@
+{
+  "id": "rct_channeler_tammy_01bf",
+  "name": "Channeler Tammy",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "mimikyu",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "disguise",
+      "moveset": [
+        "mimic",
+        "feintattack",
+        "charm",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

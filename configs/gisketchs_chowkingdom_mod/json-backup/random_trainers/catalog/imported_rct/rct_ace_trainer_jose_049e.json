@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_jose_049e",
+  "name": "Ace Trainer Jose",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "golduck",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "hydropump",
+        "zenheadbutt",
+        "screech",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandslash",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sandveil",
+      "moveset": [
+        "sandtomb",
+        "dig",
+        "crushclaw",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

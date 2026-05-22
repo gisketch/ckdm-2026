@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_m_donald"
+name = "Pokemaniac Donald"
+title = "Pokemaniac"
+gender = "male"
+archetype = "pokemaniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokemaniac/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 10
+maxLevel = 10
+team = [
+  { species = "cobblemon:slowpoke", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowpoke", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Donald is ready for a battle."]

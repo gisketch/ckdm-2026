@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_jaclyn"
+name = "Psychic Jaclyn"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 52
+maxLevel = 54
+team = [
+  { species = "cobblemon:natu", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "confuseray", "futuresight", "wish"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowbro", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "headbutt", "amnesia", "yawn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "futuresight", "recover", "reflect"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Jaclyn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

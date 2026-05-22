@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_autumn"
+name = "Bird Keeper Autumn"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 53
+maxLevel = 57
+team = [
+  { species = "cobblemon:murkrow", level = 53, gender = "MALE", nature = "bashful", ability = "insomnia", moveset = ["assurance", "taunt", "aircutter", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:honchkrow", level = 57, gender = "MALE", nature = "bashful", ability = "insomnia", moveset = ["astonish", "wingattack", "swagger", "foulplay"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The sharp vision of my bird Pokémon will see through your weaknesses!", "I want to become stronger, but only with my favorite Pokémon.", "I have trained this team for the road. Challenge me if you are ready."]

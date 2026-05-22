@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_ruben"
+name = "Ace Trainer Ruben"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 56
+maxLevel = 57
+team = [
+  { species = "cobblemon:nuzleaf", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["extrasensory", "fakeout", "feintattack", "razorleaf"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["aquatail", "hydropump", "dragondance", "icefang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["There’s something about you... You’re not just anybody. I challenge you!", "You’ve won countless times... That has made you very powerful."]

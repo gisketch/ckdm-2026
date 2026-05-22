@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "breeder_f_jennifer"
+name = "Breeder Jennifer"
+title = "Breeder"
+gender = "female"
+archetype = "breeder"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "breeder/female"
+tier = "high"
+spawnable = true
+height = 0.97
+weight = 0.93
+bustStyle = "standard"
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:roserade", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mr_mime", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefable", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:espeon", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Breeder Female Jennifer is ready for a battle.", "Please, let me battle the Pokémon you’ve raised!", "Raise your Pokémon with lots of love, and they’ll bond closely with you."]

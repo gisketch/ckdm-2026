@@ -1,0 +1,72 @@
+{
+  "id": "rct_breeder_alize_0208",
+  "name": "Breeder Alize",
+  "title": "Breeder",
+  "gender": "any",
+  "archetype": "breeder",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "breeder/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "extremespeed",
+        "thunderbolt",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clefairy",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "magicguard",
+      "moveset": [
+        "luckychant",
+        "bodyslam",
+        "softboiled",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marill",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "hugepower",
+      "moveset": [
+        "raindance",
+        "doubleedge",
+        "superpower",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

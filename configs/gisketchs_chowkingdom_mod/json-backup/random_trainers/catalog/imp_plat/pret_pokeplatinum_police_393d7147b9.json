@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeplatinum_policeman_danny_rematch_1",
+  "name": "Policeman Danny",
+  "title": "Policeman",
+  "gender": "any",
+  "archetype": "policeman",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "policeman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:hoothoot",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Policeman Danny is ready for a battle."
+  ]
+}

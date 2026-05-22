@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_pedro"
+name = "Camper Pedro"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "high"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 45
+maxLevel = 45
+team = [
+  { species = "cobblemon:linoone", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bellydrum", "slash", "dig", "surf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Have you ever gone camping with Pokémon?", "If you forget your blanket when you go camping, you can snuggle up to a Pokémon and it’ll be just as warm!"]

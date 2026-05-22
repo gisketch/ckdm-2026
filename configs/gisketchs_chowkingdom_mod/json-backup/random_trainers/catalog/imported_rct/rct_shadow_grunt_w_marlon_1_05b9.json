@@ -1,0 +1,49 @@
+{
+  "id": "rct_shadow_grunt_w_marlon_1_05b9",
+  "name": "Shadow Grunt",
+  "title": "Shadow Grunt W Marlon",
+  "gender": "any",
+  "archetype": "shadow_grunt_w_marlon",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "sableye",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "prankster",
+      "moveset": [
+        "nightshade",
+        "fakeout",
+        "willowisp",
+        "torment"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shiftry",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "pickpocket",
+      "moveset": [
+        "leaftornado",
+        "suckerpunch",
+        "extrasensory",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

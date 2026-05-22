@@ -1,0 +1,33 @@
+{
+  "id": "rct_tuber_jacky_045b",
+  "name": "Tuber Jacky",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "buizel",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "aquajet",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

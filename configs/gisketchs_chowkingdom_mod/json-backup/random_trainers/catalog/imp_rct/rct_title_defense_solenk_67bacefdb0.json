@@ -1,0 +1,133 @@
+{
+  "id": "rct_title_defense_solenk_05ec",
+  "name": "Title Defense Solenk",
+  "title": "Title Defense",
+  "gender": "any",
+  "archetype": "title_defense",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "title_defense/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 77,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "cobblemon:claydol",
+      "level": 77,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "multiscale",
+      "moveset": [
+        "icebeam",
+        "toxic",
+        "stealthrock",
+        "shoreup"
+      ],
+      "heldItem": [
+        "mental_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:talonflame",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "galewings",
+      "moveset": [
+        "bravebird",
+        "flareblitz",
+        "uturn",
+        "defog"
+      ],
+      "heldItem": [
+        "heavy_duty_boots"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:serperior",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "contrary",
+      "moveset": [
+        "leafstorm",
+        "hiddenpower",
+        "gigadrain",
+        "glare"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:primarina",
+      "level": 79,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "scald",
+        "moonblast",
+        "icebeam",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonite",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "multiscale",
+      "moveset": [
+        "dualwingbeat",
+        "earthquake",
+        "dragondance",
+        "roost"
+      ],
+      "heldItem": [
+        "weakness_policy"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:scizor",
+      "level": 80,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "bulletpunch",
+        "knockoff",
+        "swordsdance",
+        "roost"
+      ],
+      "heldItem": [
+        "mega_showdown:scizorite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

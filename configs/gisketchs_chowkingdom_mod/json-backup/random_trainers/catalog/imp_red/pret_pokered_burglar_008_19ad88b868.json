@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_burglar_008",
+  "name": "Burglar Alina",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:ninetales",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Burglar from Mansion 3F is ready for a battle."
+  ]
+}

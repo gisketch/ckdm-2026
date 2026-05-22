@@ -1,0 +1,119 @@
+{
+  "id": "rct_elite_four_lorelei_004d",
+  "name": "Elite Four Lorelei",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 84,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "ninetales",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "snowwarning",
+      "moveset": [
+        "blizzard",
+        "auroraveil",
+        "freezedry",
+        "hail"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "glaceon",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "slushrush",
+      "moveset": [
+        "blizzard",
+        "earthpower",
+        "freezedry",
+        "hiddenpower"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "voltswitch",
+        "scald",
+        "hail",
+        "thunderwave"
+      ],
+      "heldItem": "wiki_berry",
+      "shiny": false,
+      "aspects": [
+        "wash-appliance"
+      ]
+    },
+    {
+      "species": "azumarill",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "aquajet",
+        "liquidation",
+        "playrough",
+        "knockoff"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "calyrex",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "unnerve",
+      "moveset": [
+        "glaciallance",
+        "highhorsepower",
+        "zenheadbutt",
+        "seedbomb"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": [
+        "ice"
+      ]
+    },
+    {
+      "species": "abomasnow",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "snowwarning",
+      "moveset": [
+        "blizzard",
+        "focusblast",
+        "hiddenpower",
+        "energyball"
+      ],
+      "heldItem": "mega_showdown:abomasite assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "rct_pokemon_trainer_cedric_04c7",
+  "name": "Pok\u00e9mon Trainer Cedric",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:munchlax",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "lick",
+        "covet",
+        "bite",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staraptor",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "quickattack",
+        "doubleteam",
+        "pluck"
+      ],
+      "heldItem": [
+        "quick_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:buizel",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "brine"
+      ],
+      "heldItem": [
+        "mystic_water"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heracross",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "leer",
+        "brickbreak",
+        "pinmissile",
+        "thief"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tailwhip",
+        "agility",
+        "flamewheel",
+        "stomp"
+      ],
+      "heldItem": [
+        "shell_bell"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:torterra",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "razorleaf",
+        "bite",
+        "leechseed",
+        "stealthrock"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

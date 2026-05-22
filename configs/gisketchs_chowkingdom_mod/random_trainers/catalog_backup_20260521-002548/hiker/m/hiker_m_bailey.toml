@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_bailey"
+name = "Hiker Bailey"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 13
+maxLevel = 13
+team = [
+  { species = "cobblemon:geodude", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Bailey is ready for a battle.", "Awright! I’ll show you the power of mountain Pokémon!", "It’s over. I don’t mind. We Hikers are like that."]

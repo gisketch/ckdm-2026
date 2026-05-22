@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_alicia_03a9",
+  "name": "Ace Trainer Alicia",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "sneasel",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "metalclaw",
+        "icywind",
+        "honeclaws",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "clearbody",
+      "moveset": [
+        "bubblebeam",
+        "acidarmor",
+        "icebeam",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

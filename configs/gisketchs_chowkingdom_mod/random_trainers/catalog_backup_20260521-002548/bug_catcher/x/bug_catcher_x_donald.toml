@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_donald"
+name = "Bug Catcher Donald"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 12
+maxLevel = 12
+team = [
+  { species = "cobblemon:burmy", level = 12, gender = "MALE", nature = "docile", ability = "shedskin", moveset = ["protect", "tackle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kricketune", level = 12, gender = "FEMALE", nature = "docile", ability = "swarm", moveset = ["furycutter", "growl", "pound"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My senses tingle... I’ve spotted a rare Pokémon!", "I thought it was a rare Pokémon, but it turned out to be just a Trainer!", "I have trained this team for the road. Challenge me if you are ready."]

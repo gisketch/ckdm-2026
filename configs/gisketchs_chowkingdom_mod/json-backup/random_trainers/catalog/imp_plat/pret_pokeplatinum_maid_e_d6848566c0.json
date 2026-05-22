@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_maid_emily",
+  "name": "Maid Emily",
+  "title": "Maid",
+  "gender": "any",
+  "archetype": "maid",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "maid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "metronome",
+        "encore",
+        "meteormash",
+        "endure"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Maid Emily is ready for a battle."
+  ]
+}

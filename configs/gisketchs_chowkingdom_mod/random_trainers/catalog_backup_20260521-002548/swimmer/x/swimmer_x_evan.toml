@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_evan"
+name = "Swimmer Evan"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 30
+maxLevel = 32
+team = [
+  { species = "cobblemon:golduck", level = 30, gender = "FEMALE", nature = "sassy", ability = "damp", moveset = ["aquajet", "tailwhip", "zenheadbutt", "aquatail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 32, gender = "MALE", nature = "sassy", ability = "damp", moveset = ["furyswipes", "waterpulse", "zenheadbutt", "aquatail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

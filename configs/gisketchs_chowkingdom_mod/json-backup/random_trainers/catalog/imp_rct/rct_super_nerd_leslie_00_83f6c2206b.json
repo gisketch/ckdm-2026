@@ -1,0 +1,40 @@
+{
+  "id": "rct_super_nerd_leslie_00ad",
+  "name": "Super Nerd Leslie",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "super_nerd/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:weezing",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "sludge",
+        "selfdestruct",
+        "sludge",
+        "smokescreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

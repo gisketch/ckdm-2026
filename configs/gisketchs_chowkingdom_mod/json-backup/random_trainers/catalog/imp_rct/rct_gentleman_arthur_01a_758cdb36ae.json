@@ -1,0 +1,56 @@
+{
+  "id": "rct_gentleman_arthur_01a6",
+  "name": "Gentleman Arthur",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:nidorino",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "poisontouch",
+      "moveset": [
+        "doublekick",
+        "poisonsting",
+        "furyattack",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zangoose",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "toughclaws",
+      "moveset": [
+        "pursuit",
+        "honeclaws",
+        "slash",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

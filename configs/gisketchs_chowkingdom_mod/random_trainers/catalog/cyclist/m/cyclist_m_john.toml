@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_m_john"
+name = "Cyclist John"
+title = "Cyclist"
+gender = "male"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cyclist/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:staraptor", level = 58, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["growl", "takedown", "bravebird", "finalgambit"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:staraptor", level = 58, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["quickattack", "closecombat", "takedown", "bravebird"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cyclist Male John is ready for a battle.", "That Bike you’ve got there...it’s the type that can change gears! You gotta love that! Sure, I’ll give you a battle!", "The 3-speed makes for easy turning, and the 4-speed’s for going fast. I love them both!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_anthony"
+name = "Camper Anthony"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:ponyta", level = 19, gender = "FEMALE", nature = "hasty", ability = "runaway", moveset = ["tackle", "growl", "tailwhip", "flamecharge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Go for it, my Pokémon! I’ll do my best, too!", "Dig for Fossils in the Underground. The mining museum might be able to bring back the ancient Pokémon!", "I have trained this team for the road. Challenge me if you are ready."]

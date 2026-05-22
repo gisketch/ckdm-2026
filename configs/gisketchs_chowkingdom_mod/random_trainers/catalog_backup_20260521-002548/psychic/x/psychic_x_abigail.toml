@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_abigail"
+name = "Psychic Abigail"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:gengar", level = 58, gender = "MALE", nature = "timid", ability = "cursedbody", moveset = ["confuseray", "payback", "nightshade", "darkpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:misdreavus", level = 57, gender = "FEMALE", nature = "timid", ability = "levitate", moveset = ["psybeam", "payback", "shadowball", "powergem"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 59, gender = "MALE", nature = "timid", ability = "synchronize", moveset = ["recover", "psyshock", "psychic", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

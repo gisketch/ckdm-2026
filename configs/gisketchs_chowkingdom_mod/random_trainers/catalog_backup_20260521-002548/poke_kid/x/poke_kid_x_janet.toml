@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_kid_x_janet"
+name = "Poke Kid Janet"
+title = "Poke Kid"
+gender = "any"
+archetype = "poke_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "poke_kid/any"
+tier = "mid"
+spawnable = true
+height = 0.88
+weight = 0.93
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:pikachu", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bika bikabika! Pigachu!", "Pika... I’ll need a lot more practice to become a real PIKACHU..."]

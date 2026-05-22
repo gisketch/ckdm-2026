@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_m_conrad"
+name = "Worker Conrad"
+title = "Worker"
+gender = "male"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:rapidash", level = 33, gender = "MALE", nature = "sassy", ability = "runaway", moveset = ["smartstrike", "poisonjab", "tailwhip", "flamewheel"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Are you maybe getting annoyed by where the floor panels take you?", "The sweat of a working man is beautiful to behold... There is also beauty in the tears wept from defeat...", "I have trained this team for the road. Challenge me if you are ready."]

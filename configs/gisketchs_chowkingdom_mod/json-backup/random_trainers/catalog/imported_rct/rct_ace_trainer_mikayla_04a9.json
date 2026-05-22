@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_mikayla_04a9",
+  "name": "Ace Trainer Mikayla",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "meowth",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "taunt",
+        "playrough",
+        "feint",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "persian",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "fakeout",
+        "slash",
+        "taunt",
+        "payday"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hypno",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "insomnia",
+      "moveset": [
+        "futuresight",
+        "psychic",
+        "hypnosis",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

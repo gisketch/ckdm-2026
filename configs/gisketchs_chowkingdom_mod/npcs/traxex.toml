@@ -17,10 +17,10 @@ wake_messages = ["I was listening to the snow.", "Speak quietly. The night carri
 npc_interaction_messages = ["Asking {other} which trail freezes first after dusk.", "Marking silent sightlines with {other}.", "Teaching {other} why footprints lie in fresh snow."]
 work_blocks = [
   { id = "minecraft:fletching_table", count = 1, display_name = "fletching table" },
-  { id = "minecraft:target", count = 2, display_name = "training targets" },
+  { id = "minecraft:target", count = 1, display_name = "training target" },
   { id = "minecraft:powder_snow_cauldron", count = 1, display_name = "powder snow cauldron" },
-  { id = "minecraft:barrel", count = 2, display_name = "arrow barrels" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "another_furniture:spruce_shelf", count = 1, display_name = "frost arrow shelf" },
+  { id = "minecraft:barrel", count = 1, display_name = "arrow barrel" },
 ]
 
 [boss]
@@ -167,4 +167,6 @@ pool = [
   { id = "traxex_food_grilled_salmon", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Grilled Salmon And Bring It Back", quest_text = "Prepare grilled salmon after I ask; warmth is a tool, not comfort.", pass_id = "cozy", xp = 85, chowcoins = 60, goal = 1, fetch_item = "farmersdelight:grilled_salmon", fetch_count = 1, filters = { item = "farmersdelight:grilled_salmon" }, weight = 10 },
   { id = "traxex_fish_caught", category = "task", event = "minecraft:fish_caught", event_desc = "Catch {goal} Fish", quest_text = "Catch fish from cold water and waste nothing.", pass_id = "cozy", xp = 60, chowcoins = 30, goal = 3, weight = 8 },
   { id = "traxex_quiz_tundra_archery_and_silent_routes", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Traxex's tundra quiz. Briefly.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "tundra archery and silent routes", weight = 10 },
+  { id = "traxex_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Traxex", quest_text = "Traxex has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "traxex_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Traxex", quest_text = "Traxex wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

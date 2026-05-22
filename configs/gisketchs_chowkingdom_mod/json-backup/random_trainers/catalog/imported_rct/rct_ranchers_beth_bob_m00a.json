@@ -1,0 +1,49 @@
+{
+  "id": "rct_ranchers_beth_bob_m00a",
+  "name": "Ranchers Beth & Bob",
+  "title": "Ranchers Beth",
+  "gender": "any",
+  "archetype": "ranchers_beth",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "ponyta",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "watergun",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_sophia"
+name = "Swimmer Sophia"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 50
+maxLevel = 52
+team = [
+  { species = "cobblemon:mantyke", level = 50, gender = "FEMALE", nature = "calm", ability = "waterabsorb", moveset = ["hydropump", "aquaring", "supersonic", "airslash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mantine", level = 52, gender = "FEMALE", nature = "calm", ability = "waterabsorb", moveset = ["hydropump", "bounce", "aquaring", "airslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

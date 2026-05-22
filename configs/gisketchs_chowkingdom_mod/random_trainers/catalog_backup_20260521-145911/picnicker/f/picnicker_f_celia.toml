@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_celia"
+name = "Picnicker Celia"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:delcatty", level = 58, gender = "MALE", nature = "rash", ability = "wonderskin", moveset = ["sing", "attract", "round", "hypervoice"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Celia is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

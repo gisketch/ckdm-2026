@@ -1,0 +1,32 @@
+{
+  "id": "rct_team_galactic_grunt_0583",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "glameow",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "scratch",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

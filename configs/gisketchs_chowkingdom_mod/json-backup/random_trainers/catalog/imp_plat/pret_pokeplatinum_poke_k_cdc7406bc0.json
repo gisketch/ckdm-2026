@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_poke_kid_ariel_rematch_1",
+  "name": "Poke Kid Ariel",
+  "title": "Poke Kid",
+  "gender": "any",
+  "archetype": "poke_kid",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "poke_kid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.88,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:pichu",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Poke Kid Ariel is ready for a battle."
+  ]
+}

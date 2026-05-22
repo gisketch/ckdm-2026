@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_breeder_albert_04e7",
+  "name": "Pokémon Breeder Albert",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "sudowoodo",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "woodhammer",
+        "flail",
+        "rockthrow",
+        "tearfullook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roselia",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "megadrain",
+        "leechseed",
+        "magicalleaf",
+        "toxicspikes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "electroball",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "rct_picnicker_isabelle_0276",
+  "name": "Picnicker Isabelle",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgey",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

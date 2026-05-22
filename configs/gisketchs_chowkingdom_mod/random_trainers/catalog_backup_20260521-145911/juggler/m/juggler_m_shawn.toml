@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_shawn"
+name = "Juggler Shawn"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 63
+maxLevel = 63
+team = [
+  { species = "cobblemon:magmortar", level = 63, gender = "FEMALE", nature = "sassy", ability = "magmaarmor", moveset = ["sunnyday", "flamethrower", "fireblast", "hyperbeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hypno", level = 63, gender = "MALE", nature = "jolly", ability = "forewarn", moveset = ["swagger", "nastyplot", "psyshock", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Shawn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_bird_keeper_audrey",
+  "name": "Bird Keeper Audrey",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 51,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:taillow",
+      "level": 51,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:farfetchd",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I let my bird Pok\u00e9mon carry me to wherever. And so, here I am!",
+    "I was born in the Hoenn region. I\u2019ve only just recently flown here."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemaniac_mark_00a2",
+  "name": "Pokémaniac Mark",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "rhyperior",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "stoneedge",
+        "earthquake",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickilicky",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "owntempo",
+      "moveset": [
+        "screech",
+        "powerwhip",
+        "wringout",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

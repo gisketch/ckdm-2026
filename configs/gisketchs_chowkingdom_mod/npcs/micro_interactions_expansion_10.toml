@@ -5,6 +5,8 @@ source_tags = ["berserker"]
 target_tags = ["mentor"]
 line = "Every exhale must match your heartbeat. Do not let fury speed it up."
 response = "I count my pulse. One breath for four beats. Calm inside the storm."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["berserker"]
 target_tags = ["mentor"]
 line = "The moon pulls at your blood. Do you feel it twisting tonight?"
 response = "I feel it. But I keep my feet planted and my mind anchored."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["berserker"]
 target_tags = ["town"]
 line = "I spar under the waning moon. Every strike I pull back from the edge."
 response = "Your control is sharper than any blade. The town sleeps safer for it."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["berserker"]
 target_tags = ["bard"]
 line = "Play something steady. Slow at first. I will match my breath to it."
 response = "Watch your shoulders. They rise when the tempo quickens. That is your trap."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["berserker"]
 target_tags = ["wind_wizard"]
 line = "Your eyes swirl like cyclone season. Ground yourself with me."
 response = "I picture a mountain unmoved by wind. The rage passes beneath my feet."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["berserker"]
 target_tags = ["water_wizard"]
 line = "My blood runs hot after dusk patrols. Teach me to cool it."
 response = "Imagine a glacier lake under your skin. Every breath pulls cold from its depths."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["berserker"]
 target_tags = ["earth_wizard"]
 line = "I broke three training posts tonight. My stance crumbles when I swing."
 response = "Your feet must root like oak. Anger burns in the arms, not the earth."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["berserker"]
 target_tags = ["fire_wizard"]
 line = "I channel fire but I incinerate everything. I need a narrower focus."
 response = "Fire is a needle, not a wildfire. Pinpoint your will before your strike."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["berserker"]
 target_tags = ["frost_wizard"]
 line = "My pulse beats so loud I cannot hear my own thoughts after a fight."
 response = "Press snow against your wrists. Count the sting until your mind stills."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["berserker"]
 target_tags = ["arcane_wizard"]
 line = "My fury shatters spells before I finish casting them. Help me contain it."
 response = "Weave a mental lattice around the rage. Let only one thread loose at a time."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["berserker", "nocturnal"]
 target_tags = ["musician", "marceline"]
 line = "Your bass hums like a slow heartbeat. I train my breathing to its tempo."
 response = "Good. A berserker who keeps time with silence is twice as dangerous."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["berserker"]
 target_tags = ["link"]
 line = "Your sword breathes between strikes. Show me that rhythm again."
 response = "Parry, exhale. Thrust, inhale. The steel tells you when to breathe."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["berserker"]
 target_tags = ["monster_hunter"]
 line = "You hunt Wulfs without a single wasted step. I flail in my frenzy."
 response = "Frenzy is a tool. Carve a path for it before you let it run."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["berserker"]
 target_tags = ["class_witcher"]
 line = "Your potions sharpen senses. Do you ever struggle to slow the bloodlust?"
 response = "Every witcher does. We sip, never gulp. Impatience is the true poison."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["berserker"]
 target_tags = ["ciri"]
 line = "You vanish mid-swing. My eyes chase phantoms and my wrath wastes away."
 response = "I blink to make you wait. A berserker who waits is truly frightening."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["berserker"]
 target_tags = ["priest"]
 line = "The sanctuary candles flicker with my pulse. I need a quieter flame."
 response = "Sit in the pews at moonrise. Let the wax drip count your seconds."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["berserker"]
 target_tags = ["paladin"]
 line = "Your oath keeps your shield steady. My rage buckles my own guard."
 response = "Speak your vow aloud before every bout. Words anchor the wild heart."
+source_emote = "threaten"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["berserker"]
 target_tags = ["archer"]
 line = "You loose arrows between heartbeats. I swing between gasps. How do you time it?"
 response = "I sing the shot in my head. A song keeps my pulse on a leash."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["berserker"]
 target_tags = ["war_archer"]
 line = "Long battles drain my restraint. How do you hold focus past moonpeak?"
 response = "I notch the arrow and count to five. By the sixth count, the fury sleeps."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["berserker"]
 target_tags = ["tundra_archer"]
 line = "Frigid air claws my lungs. I rage just to stay warm. Show me stillness."
 response = "Sink into the snowdrift. Let the cold be your anchor, not your enemy."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["berserker"]
 target_tags = ["rogue"]
 line = "You melt into shadow. I burn like a bonfire. How do you throttle the light?"
 response = "Breathe through your nose and count ceiling beams. Shadow follows stillness."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["berserker"]
 target_tags = ["bounty_hunter"]
 line = "You capture targets alive. I break mine. I need your patience."
 response = "Carry silk rope, not chains. Silk reminds you that living is the goal."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["berserker"]
 target_tags = ["zelda", "light_magic"]
 line = "Your sealing magic pauses time itself. I want to freeze my inner fire."
 response = "The Light Dragon taught me patience. Close your eyes and remember dawn."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["berserker"]
 target_tags = ["zelda", "dragon_memory"]
 line = "You flew as a dragon beyond ages. Did the sky teach you serenity?"
 response = "The wind has no fists. It only moves. Try moving with your rage instead."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["berserker"]
 target_tags = ["skyland_lore"]
 line = "The floating isle winds howl at dusk. I howl back. Train me to hum instead."
 response = "Follow the wind chimes on the merchant clouds. Match your voice to bronze."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["berserker"]
 target_tags = ["skyland_survival"]
 line = "I almost fell off the sky bridge during drills. My lunge is too wild."
 response = "Pivot from your center, not your shoulders. Let the void remind you to stay tight."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["berserker"]
 target_tags = ["pokemon", "researcher"]
 line = "Primeape in your study never calmed. Is it possible for something like me?"
 response = "Primeape can learn Rest. We have notes. Come read them after your patrol."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["berserker"]
 target_tags = ["cobblemon_biology"]
 line = "Bubblegum tracks Cobblemon pulses. Can she measure a berserker frenzy?"
 response = "She fitted me with a wrist band. The graph shows calm valleys between spikes."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["berserker"]
 target_tags = ["bubblegum"]
 line = "You graphed my rage spikes over three full moons. Is there a pattern?"
 response = "The spikes cluster before dawn. Your body fights the sunrise. We can adjust."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["berserker"]
 target_tags = ["store_cosmetics"]
 line = "I asked Shoumai for a balm that cools the skin when tempers rise."
 response = "She gave me camellia paste. Apply it across the collarbone. It slows the pulse."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["berserker"]
 target_tags = ["store_explorer"]
 line = "My climbing ropes snap from brute force. Recommend gear that teaches patience."
 response = "Use silk ropes with a tension gauge. The needle will train your pull strength."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["berserker"]
 target_tags = ["store_seed"]
 line = "I want to grow something that requires daily care. A focus for my hands."
 response = "Try moonpetal sprouts. They bloom only if watered at the exact same hour."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["berserker"]
 target_tags = ["store_pokemon"]
 line = "Bubblegum stocks a Heal Ball said to soothe wild hearts. Does it affect me?"
 response = "She tested it on a Mankey yesterday. The aura calmed it for three whole minutes."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["berserker", "adventure_time"]
 target_tags = ["marceline"]
 line = "You have walked centuries. Did the hunger ever quiet, or did you cage it?"
 response = "I sang it to sleep. Every night a new verse. The hunger grew tired of waiting."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["berserker"]
 target_tags = ["wizard"]
 line = "Your staff glows gently after battle. Mine would shatter in the same grip."
 response = "Hold the staff as if it were a sleeping bird. Grip with curiosity, not fury."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["berserker"]
 target_tags = ["arcane_wizard"]
 line = "Your orbs float in perfect stillness. I cannot hold one without shattering it."
 response = "Let the orb rest in your palm, open. Fury closes; focus opens. Try again."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["berserker"]
 target_tags = ["berserker"]
 line = "You have died a thousand times. Does the rage ever grow quieter with practice?"
 response = "Quieter, no. More familiar, yes. I call it by name and it sits beside me."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["berserker"]
 target_tags = ["link", "tears_of_the_kingdom"]
 line = "You fused a mushroom to a shield and somehow fought calmly. Teach me that."
 response = "I let the Fuse surprise me. When you play, the battle becomes a melody."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["berserker"]
 target_tags = ["wind_wizard"]
 line = "You taught me to meditate in a gale. The wind drank my shouts before they left."
 response = "Shout into the gale until your throat is empty. Then the silence truly begins."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["berserker"]
 target_tags = ["water_wizard"]
 line = "A water whip can slice steel or caress silk. How do you modulate it?"
 response = "I picture the target after the strike. A whole branch, not splinters. Start there."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["berserker"]
 target_tags = ["earth_wizard"]
 line = "I stomp and crack cobblestone. You feel every ant. What am I missing?"
 response = "You listen with your soles. Your rage is screaming too loud to hear the ground."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["berserker"]
 target_tags = ["fire_wizard"]
 line = "After our duel I smoldered for an hour. You put your flames out instantly."
 response = "I used to burn for days after a fight. I learned to ask the fire to rest."
+source_emote = "hi"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["berserker"]
 target_tags = ["frost_wizard"]
 line = "Your ice palace never melts. Is there a secret to eternal self-control?"
 response = "No secret. Every morning I rebuild one flake that cracked. Discipline is repetition."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["berserker", "nocturnal"]
 target_tags = ["marceline"]
 line = "Draw a moon circle on the ground for me. I will spar only within its rim."
 response = "Thirteen foot radius. Any step outside and you owe me a song. Your pick."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["berserker"]
 target_tags = ["geralt", "class_witcher"]
 line = "You oil your silver sword between every Wraith. The pause must be a discipline."
 response = "The pause is the difference between a killer and a swordsman. Never skip it."
+source_emote = "hands_in_back"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["berserker"]
 target_tags = ["war_archer"]
 line = "You nock three arrows before I finish one breath. Is your pulse invisible?"
 response = "My heartbeat slows before the draw. The bowstring hums the rhythm for me."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["berserker"]
 target_tags = ["bounty_hunter", "aloy"]
 line = "You stalk a machine for an hour before striking. I cannot wait ten seconds."
 response = "Count the machine's lens clicks. Each click is one breath. By thirty, you move."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["berserker"]
 target_tags = ["town"]
 line = "Before the sun rises, I walk the wall. Not to fight, just to breathe."
 response = "The baker told me you pass by at the same time every morning. That is growth."
+source_emote = "threaten"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["berserker", "nocturnal"]
 target_tags = ["mentor", "wind_wizard"]
 line = "Your breathing sounds ragged. Remember to exhale on strikes."
 response = "Hard habit when the moon sings so loud. I'll steady it."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["berserker"]
 target_tags = ["frost_wizard", "mentor"]
 line = "Fury burns hot inside. How do you teach icy precision?"
 response = "You do not douse the fire. You give it a narrow channel."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0

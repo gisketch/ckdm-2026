@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battleground_x_tessy"
+name = "Battleground Tessy"
+title = "Battleground"
+gender = "any"
+archetype = "battleground"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "battleground/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 81
+maxLevel = 84
+team = [
+  { species = "cobblemon:kingdra", level = 82, gender = "MALE", nature = "modest", ability = "swiftswim", moveset = ["hydropump", "hurricane", "dracometeor", "surf"], heldItem = "['mega_showdown:waterium_z', 'water_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:toxapex", level = 83, gender = "FEMALE", nature = "impish", ability = "regenerator", moveset = ["knockoff", "toxic", "recover", "haze"], heldItem = "['aguav_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 81, gender = "MALE", nature = "adamant", ability = "swiftswim", moveset = ["fishiousrend", "smartstrike", "drillrun", "poisonjab"], heldItem = "['mystic_water']", shiny = false, aspects = [] },
+  { species = "cobblemon:goodra", level = 84, gender = "MALE", nature = "adamant", ability = "hydration", moveset = ["powerwhip", "irontail", "earthquake", "rest"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:swampert", level = 84, gender = "FEMALE", nature = "adamant", ability = "swiftswim", moveset = ["liquidation", "earthquake", "icepunch", "poweruppunch"], heldItem = "['mega_showdown:swampertite', 'leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:latias", level = 83, gender = "FEMALE", nature = "timid", ability = "levitate", moveset = ["surf", "thunder", "icebeam", "calmmind"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

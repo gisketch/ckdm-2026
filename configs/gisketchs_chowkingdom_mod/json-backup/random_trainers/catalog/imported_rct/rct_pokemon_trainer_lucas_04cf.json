@@ -1,0 +1,32 @@
+{
+  "id": "rct_pokemon_trainer_lucas_04cf",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "piplup",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "pound",
+        "growl",
+        "watergun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmer_vanessa_0365",
+  "name": "Swimmer Vanessa",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "golduck",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "tailwhip",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

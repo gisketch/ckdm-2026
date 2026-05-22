@@ -1,0 +1,81 @@
+{
+  "id": "rct_gym_leader_candice_03da",
+  "name": "Gym Leader Candice",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "snover",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "snowwarning",
+      "moveset": [
+        "mist",
+        "razorleaf",
+        "waterpulse",
+        "avalanche"
+      ],
+      "heldItem": "icy_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sneasel",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickpocket",
+      "moveset": [
+        "metalclaw",
+        "honeclaws",
+        "dig",
+        "avalanche"
+      ],
+      "heldItem": "chople_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "medicham",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "icepunch",
+        "bulkup",
+        "brickbreak",
+        "rockslide"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "abomasnow",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "snowwarning",
+      "moveset": [
+        "auroraveil",
+        "gigadrain",
+        "earthquake",
+        "blizzard"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

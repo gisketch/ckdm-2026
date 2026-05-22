@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_kent"
+name = "Bug Catcher Kent"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 12
+maxLevel = 13
+team = [
+  { species = "cobblemon:weedle", level = 13, gender = "FEMALE", nature = "sassy", ability = "shielddust", moveset = ["poisonsting", "stringshot", "bugbite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kricketune", level = 12, gender = "FEMALE", nature = "calm", ability = "technician", moveset = ["tackle", "growl", "bide", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Kent is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,114 @@
+{
+  "id": "rct_elite_four_lucian_05a1",
+  "name": "Lucian",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 69,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "cobblemon:mrmime",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "lightscreen",
+        "reflect",
+        "psychic",
+        "dazzlinggleam"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:espeon",
+      "level": 71,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "magicbounce",
+      "moveset": [
+        "psychic",
+        "dazzlinggleam",
+        "shadowball",
+        "lightscreen"
+      ],
+      "heldItem": [
+        "mental_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzong",
+      "level": 70,
+      "gender": "GENDERLESS",
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "gyroball",
+        "earthquake",
+        "payback",
+        "rockslide"
+      ],
+      "heldItem": [
+        "muscle_band"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "nastyplot",
+        "psychic",
+        "dazzlinggleam",
+        "shockwave"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gallade",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "justified",
+      "moveset": [
+        "closecombat",
+        "psychocut",
+        "poisonjab",
+        "shadowsneak"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

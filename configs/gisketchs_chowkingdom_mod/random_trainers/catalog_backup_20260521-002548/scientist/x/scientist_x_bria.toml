@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_bria"
+name = "Scientist Bria"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 34
+maxLevel = 34
+team = [
+  { species = "cobblemon:koffing", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:voltorb", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist from Unused is ready for a battle."]

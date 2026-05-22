@@ -1,0 +1,97 @@
+{
+  "id": "rct_pokemon_trainer_cedric_044b",
+  "name": "Pokémon Trainer Cedric",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "staravia",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "pluck"
+      ],
+      "heldItem": "quick_claw",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "brine"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "leer",
+        "aerialace",
+        "brickbreak",
+        "thief"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ponyta",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tailwhip",
+        "agility",
+        "flamewheel",
+        "stomp"
+      ],
+      "heldItem": "shell_bell",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grotle",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "overgrow",
+      "moveset": [
+        "razorleaf",
+        "bite",
+        "leechseed",
+        "stealthrock"
+      ],
+      "heldItem": "big_root",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sage_m_chow"
+name = "Sage Chow"
+title = "Sage"
+gender = "male"
+archetype = "sage"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "sage/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 3
+maxLevel = 3
+team = [
+  { species = "cobblemon:bellsprout", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sage Chow is ready for a battle.", "We stand guard in this tower. Here, we express our gratitude to show our respect for all Pokémon.", "All living beings coexist through cooperation. We must always be thankful for this."]

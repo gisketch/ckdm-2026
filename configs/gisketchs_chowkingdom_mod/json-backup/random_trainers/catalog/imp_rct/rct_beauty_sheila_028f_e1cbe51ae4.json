@@ -1,0 +1,56 @@
+{
+  "id": "rct_beauty_sheila_028f",
+  "name": "Beauty Sheila",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "cutecharm",
+      "moveset": [
+        "bodyslam",
+        "softboiled",
+        "moonblast",
+        "gravity"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "limber",
+      "moveset": [
+        "powergem",
+        "slash",
+        "nastyplot",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

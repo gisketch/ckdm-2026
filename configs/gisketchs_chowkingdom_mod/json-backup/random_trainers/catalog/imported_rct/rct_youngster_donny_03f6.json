@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_donny_03f6",
+  "name": "Youngster Donny",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "gastly",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "meanlook",
+        "payback",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "haunter",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "lick",
+        "meanlook",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

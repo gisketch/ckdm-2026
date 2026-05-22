@@ -1,0 +1,115 @@
+{
+  "id": "rct_leader_morty_001c",
+  "name": "Morty",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 96,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "mimikyu",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "disguise",
+      "moveset": [
+        "shadowclaw",
+        "playrough",
+        "shadowsneak",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:ghostium_z ghost_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marshadow",
+      "level": 97,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "bulkup",
+        "drainpunch",
+        "spectralthief",
+        "shadowsneak"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "silvally",
+      "level": 96,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "battlearmor",
+      "moveset": [
+        "thunderwave",
+        "multiattack",
+        "flamethrower",
+        "partingshot"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": [
+        "fairy"
+      ]
+    },
+    {
+      "species": "urshifu",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unseenfist",
+      "moveset": [
+        "uturn",
+        "closecombat",
+        "wickedblow",
+        "suckerpunch"
+      ],
+      "heldItem": "black_glasses",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 97,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "sludgewave",
+        "focusblast",
+        "thunderbolt"
+      ],
+      "heldItem": "mega_showdown:gengarite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zarude",
+      "level": 96,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "leafguard",
+      "moveset": [
+        "uturn",
+        "powerwhip",
+        "knockoff",
+        "closecombat"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

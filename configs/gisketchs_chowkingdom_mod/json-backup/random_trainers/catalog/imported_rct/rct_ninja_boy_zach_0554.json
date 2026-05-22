@@ -1,0 +1,65 @@
+{
+  "id": "rct_ninja_boy_zach_0554",
+  "name": "Ninja Boy Zach",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "golbat",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "astonish",
+        "poisonfang",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crobat",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "tailwind",
+        "crosspoison",
+        "toxic",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crobat",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "toxic",
+        "aircutter",
+        "venoshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

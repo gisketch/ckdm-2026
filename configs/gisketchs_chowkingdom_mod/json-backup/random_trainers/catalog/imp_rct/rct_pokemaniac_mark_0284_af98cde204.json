@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemaniac_mark_0284",
+  "name": "Pok\u00e9maniac Mark",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:rhydon",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "drillrun",
+        "takedown",
+        "stoneedge",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lickitung",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "owntempo",
+      "moveset": [
+        "mefirst",
+        "refresh",
+        "screech",
+        "powerwhip"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

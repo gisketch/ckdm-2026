@@ -1,0 +1,65 @@
+{
+  "id": "rct_team_galactic_grunt_0579",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cascoon",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "shielddust",
+      "moveset": [
+        "poisonpowder",
+        "venoshock",
+        "leechlife",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beautifly",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "gust",
+        "aircutter",
+        "leechlife",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_riley_iron_island",
+  "name": "Trainer Riley Riley",
+  "title": "Trainer Riley",
+  "gender": "any",
+  "archetype": "trainer_riley",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "trainer_riley/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:lucario",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "metalclaw",
+        "forcepalm",
+        "quickattack",
+        "bonerush"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Trainer Riley Riley is ready for a battle."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rct_ace_trainer_breanna_03b5",
+  "name": "Ace Trainer Breanna",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:azumarill",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "hugepower",
+      "moveset": [
+        "playrough",
+        "irontail",
+        "bulldoze",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

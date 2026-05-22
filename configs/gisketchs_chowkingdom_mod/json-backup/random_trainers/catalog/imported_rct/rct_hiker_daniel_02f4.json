@@ -1,0 +1,81 @@
+{
+  "id": "rct_hiker_daniel_02f4",
+  "name": "Hiker Daniel",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "geodude",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bidoof",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

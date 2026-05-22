@@ -1,0 +1,88 @@
+{
+  "id": "rct_bug_catcher_jonah_0264",
+  "name": "Bug Catcher Jonah",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:yanma",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "pursuit",
+        "ancientpower",
+        "hypnosis",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beedrill",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "swarm",
+      "moveset": [
+        "poisonjab",
+        "agility",
+        "endeavor",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:yanma",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "compoundeyes",
+      "moveset": [
+        "ancientpower",
+        "hypnosis",
+        "wingattack",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:beedrill",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "swarm",
+      "moveset": [
+        "poisonjab",
+        "agility",
+        "endeavor",
+        "fellstinger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

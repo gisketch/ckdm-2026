@@ -1,0 +1,22 @@
+{
+  "name": "Wattson",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 2,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:manectric",
+      "level": 24,
+      "moveset": [
+        "tackle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_scientist_ted_014f",
+  "name": "Scientist Ted",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 67,
+  "maxLevel": 69,
+  "team": [
+    {
+      "species": "cobblemon:electrode",
+      "level": 67,
+      "gender": "GENDERLESS",
+      "nature": "gentle",
+      "ability": "static",
+      "moveset": [
+        "explosion",
+        "gyroball",
+        "mirrorcoat",
+        "courtchange"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:porygon2",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "mild",
+      "ability": "download",
+      "moveset": [
+        "triattack",
+        "magiccoat",
+        "zapcannon",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

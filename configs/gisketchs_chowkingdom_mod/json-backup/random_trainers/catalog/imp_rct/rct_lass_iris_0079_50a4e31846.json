@@ -1,0 +1,40 @@
+{
+  "id": "rct_lass_iris_0079",
+  "name": "Lass Iris",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:milcery",
+      "level": 16,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sweetveil",
+      "moveset": [
+        "covet",
+        "sweetkiss",
+        "sweetscent",
+        "drainingkiss"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

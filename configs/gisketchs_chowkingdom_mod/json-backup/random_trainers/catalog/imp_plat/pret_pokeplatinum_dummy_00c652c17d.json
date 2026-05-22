@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_211",
+  "name": "Ace Trainer Snow Male Mickey",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ace Trainer Snow Male Mickey is ready for a battle."
+  ]
+}

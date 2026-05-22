@@ -1,0 +1,115 @@
+{
+  "id": "rct_rocker_luca_011d",
+  "name": "Rocker Luca",
+  "title": "Rocker",
+  "gender": "any",
+  "archetype": "rocker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "rotom",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "blizzard",
+        "voltswitch",
+        "thunderwave",
+        "thunderbolt"
+      ],
+      "heldItem": "never_melt_ice",
+      "shiny": false,
+      "aspects": [
+        "frost-appliance"
+      ]
+    },
+    {
+      "species": "heliolisk",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "dryskin",
+      "moveset": [
+        "boomburst",
+        "surf",
+        "weatherball",
+        "voltswitch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoqueen",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "earthpower",
+        "blizzard",
+        "fireblast",
+        "thunderbolt"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "yanmega",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "tintedlens",
+      "moveset": [
+        "bugbuzz",
+        "airslash",
+        "uturn",
+        "gigadrain"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blastoise",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "raindish",
+      "moveset": [
+        "shellsmash",
+        "blizzard",
+        "aurasphere",
+        "darkpulse"
+      ],
+      "heldItem": "mega_showdown:blastoisinite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "walrein",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "icebody",
+      "moveset": [
+        "blizzard",
+        "substitute",
+        "protect",
+        "toxic"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_skylar"
+name = "Ace Trainer Skylar"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 58
+maxLevel = 59
+team = [
+  { species = "cobblemon:loudred", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hypervoice", "bite", "supersonic", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rampardos", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["headsmash", "zenheadbutt", "ancientpower", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["airslash", "waterpulse", "roost", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I was born in Floaroma Town. I’m sure thrilled to be here. It took a long time to get here. We’re not going to lose again!", "You can level all you want, but that won’t guarantee you any wins. But we keep trying to get better. That’s what makes us Trainers."]

@@ -1,0 +1,72 @@
+{
+  "id": "rct_aroma_lady_jenna_039d",
+  "name": "Aroma Lady Jenna",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 13,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:budew",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:budew",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:budew",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

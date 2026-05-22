@@ -1,0 +1,60 @@
+{
+  "id": "rct_crush_girl_sharon_02b3",
+  "name": "Crush Girl Sharon",
+  "title": "Crush Girl",
+  "gender": "female",
+  "archetype": "crush_girl",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "crush_girl/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:mankey",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "vitalspirit",
+      "moveset": [
+        "stompingtantrum",
+        "outrage",
+        "crosschop",
+        "finalgambit"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:primeape",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "vitalspirit",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

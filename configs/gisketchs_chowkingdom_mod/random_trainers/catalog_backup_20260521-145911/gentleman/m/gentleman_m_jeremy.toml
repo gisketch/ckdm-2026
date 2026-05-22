@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_jeremy"
+name = "Gentleman Jeremy"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:chatot", level = 60, gender = "MALE", nature = "timid", ability = "tangledfeet", moveset = ["hypervoice", "chatter", "confide", "roost"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Jeremy is ready for a battle.", "If it pleases you, may I challenge you to a battle?", "Hahaha! I was invited by the master of the Pokémon Mansion. He’s promised to show me through his prized garden of Pokémon.", "I have trained this team for the road. Challenge me if you are ready."]

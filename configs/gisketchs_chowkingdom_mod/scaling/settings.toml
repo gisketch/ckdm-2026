@@ -1,0 +1,20 @@
+# Chow Kingdom config: settings.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: enabled.
+enabled = true
+# Config value: cache_refresh_ticks.
+cache_refresh_ticks = 100
+# Config value: mob_reapply_ticks.
+mob_reapply_ticks = 40
+# Config value: boss_reapply_ticks.
+boss_reapply_ticks = 5
+# Config value: inspect_range.
+inspect_range = 24.0
+# Config value: warning_enabled.
+warning_enabled = true
+# Config value: warning_interval_ticks.
+warning_interval_ticks = 80
+# Config value: warning_cooldown_ticks.
+warning_cooldown_ticks = 24000
+# Config value: debug_commands.
+debug_commands = true

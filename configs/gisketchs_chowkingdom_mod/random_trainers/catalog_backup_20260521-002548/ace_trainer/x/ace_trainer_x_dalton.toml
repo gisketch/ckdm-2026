@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_dalton"
+name = "Ace Trainer Dalton"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:raichu", level = 54, gender = "MALE", nature = "timid", ability = "static", moveset = ["nuzzle", "electroball", "agility", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 54, gender = "FEMALE", nature = "timid", ability = "keeneye", moveset = ["airslash", "tailwind", "waterpulse", "roost"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hippopotas", level = 54, gender = "FEMALE", nature = "relaxed", ability = "sandstream", moveset = ["yawn", "crunch", "earthquake", "slackoff"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

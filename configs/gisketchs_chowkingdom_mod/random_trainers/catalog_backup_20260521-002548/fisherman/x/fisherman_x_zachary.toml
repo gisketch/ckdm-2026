@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_zachary"
+name = "Fisherman Zachary"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 14
+maxLevel = 16
+team = [
+  { species = "cobblemon:magikarp", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I fished up some tough Pokémon! Let’s have ourselves a battle!", "My feet are tangled, too! Ouch! Ouch!"]

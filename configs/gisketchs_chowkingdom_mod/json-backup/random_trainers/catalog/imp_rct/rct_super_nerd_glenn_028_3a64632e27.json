@@ -1,0 +1,72 @@
+{
+  "id": "rct_super_nerd_glenn_028a",
+  "name": "Super Nerd Glenn",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "super_nerd/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:muk",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "stickyhold",
+      "moveset": [
+        "disable",
+        "sludge",
+        "mudbomb",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "stickyhold",
+      "moveset": [
+        "disable",
+        "sludge",
+        "mudbomb",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "stickyhold",
+      "moveset": [
+        "disable",
+        "sludge",
+        "mudbomb",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

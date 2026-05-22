@@ -1,0 +1,88 @@
+{
+  "id": "rct_bug_catcher_cale_006e",
+  "name": "Bug Catcher Cale",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:karrablast",
+      "level": 16,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "swarm",
+      "moveset": [
+        "leer",
+        "endure",
+        "furycutter",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:joltik",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "compoundeyes",
+      "moveset": [
+        "thunderwave",
+        "screech",
+        "strugglebug",
+        "electroweb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kricketune",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "technician",
+      "moveset": [
+        "growl",
+        "bide",
+        "rocktomb",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ledyba",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "lightscreen",
+        "reflect",
+        "safeguard",
+        "machpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

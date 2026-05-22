@@ -1,0 +1,65 @@
+{
+  "id": "rct_dragon_tamer_drake_049a",
+  "name": "Dragon Tamer Drake",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "vibrava",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "earthquake",
+        "superpower",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seadra",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "agility",
+        "hydropump",
+        "dragonpulse",
+        "twister"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonair",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "shedskin",
+      "moveset": [
+        "thunderwave",
+        "raindance",
+        "aquatail",
+        "dragonrush"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

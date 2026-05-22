@@ -1,0 +1,65 @@
+{
+  "id": "rct_biker_alex_00c6",
+  "name": "Biker Alex",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "drapion",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "battlearmor",
+      "moveset": [
+        "smokescreen",
+        "wickedblow",
+        "poisonjab",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxicroak",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "anticipation",
+      "moveset": [
+        "screech",
+        "sludgebomb",
+        "vacuumwave",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "pressure",
+      "moveset": [
+        "smokescreen",
+        "tripleaxel",
+        "iceshard",
+        "nightslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "medium_f_georgina"
+name = "Medium Georgina"
+title = "Medium"
+gender = "female"
+archetype = "medium"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "medium/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = "standard"
+minLevel = 16
+maxLevel = 16
+team = [
+  { species = "cobblemon:gastly", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastly", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Can you inflict any damage on our Pokémon?", "We use only Ghost-type Pokémon. No Normal-type attack can harm them!"]

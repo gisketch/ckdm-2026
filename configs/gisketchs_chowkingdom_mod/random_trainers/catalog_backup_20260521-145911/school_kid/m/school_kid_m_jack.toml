@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_jack"
+name = "School Kid Jack"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 43
+maxLevel = 52
+team = [
+  { species = "cobblemon:electrode", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["charge", "chargebeam", "swift", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vileplume", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["solarbeam", "gigadrain", "moonlight", "sunnyday"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arcanine", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["extremespeed", "flamethrower", "crunch", "reversal"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The world is deep. There are still lots of things we don’t know. But I know more than you do!", "There is a lot to learn. For example... There are more than 90 kinds of TMs. And traded Pokémon level up faster.", "School Kid Male Jack is ready for a battle."]

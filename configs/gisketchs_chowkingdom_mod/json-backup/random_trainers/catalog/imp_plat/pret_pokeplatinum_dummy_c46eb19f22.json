@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_217",
+  "name": "Psychic Male Mickey",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Male Mickey is ready for a battle."
+  ]
+}

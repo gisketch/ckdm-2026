@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_arthur_040f",
+  "name": "Ace Trainer Arthur",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "raichu",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thunderpunch",
+        "nuzzle",
+        "lightscreen",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "bodyslam",
+        "muddywater",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

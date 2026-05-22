@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_maya_0503",
+  "name": "Ace Trainer Maya",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "glameow",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "retaliate",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "reflect",
+        "allyswitch",
+        "recover",
+        "psyshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

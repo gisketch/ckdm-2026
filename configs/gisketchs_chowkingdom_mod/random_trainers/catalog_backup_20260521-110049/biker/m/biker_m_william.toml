@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_william"
+name = "Biker William"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "very_high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 89
+maxLevel = 93
+team = [
+  { species = "cobblemon:magnezone", level = 89, gender = "GENDERLESS", nature = "naive", ability = "sturdy", moveset = ["thunder", "voltswitch", "explosion", "bodypress"], heldItem = "['custap_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:bisharp", level = 93, gender = "MALE", nature = "jolly", ability = "defiant", moveset = ["swordsdance", "knockoff", "suckerpunch", "ironhead"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:whiscash", level = 93, gender = "FEMALE", nature = "jolly", ability = "waterbubble", moveset = ["dragondance", "waterfall", "earthquake", "bounce"], heldItem = "['rindo_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:salamence", level = 89, gender = "FEMALE", nature = "naive", ability = "intimidate", moveset = ["hurricane", "dragonpulse", "hydropump", "earthquake"], heldItem = "['yache_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 93, gender = "GENDERLESS", nature = "timid", ability = "analytic", moveset = ["flipturn", "hydropump", "thunder", "psychic"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Biker William is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

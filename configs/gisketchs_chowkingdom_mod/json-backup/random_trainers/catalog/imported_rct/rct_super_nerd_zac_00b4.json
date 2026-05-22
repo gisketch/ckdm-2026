@@ -1,0 +1,49 @@
+{
+  "id": "rct_super_nerd_zac_00b4",
+  "name": "Super Nerd Zac",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 70,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "arcanine",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "flashfire",
+      "moveset": [
+        "firefang",
+        "flareblitz",
+        "helpinghand",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "houndoom",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "fierywrath",
+        "nastyplot",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

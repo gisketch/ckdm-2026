@@ -1,0 +1,33 @@
+{
+  "id": "rct_pokemon_trainer_buck_04cb",
+  "name": "Pokémon Trainer Buck",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "claydol",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "ancientpower",
+        "cosmicpower",
+        "extrasensory",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

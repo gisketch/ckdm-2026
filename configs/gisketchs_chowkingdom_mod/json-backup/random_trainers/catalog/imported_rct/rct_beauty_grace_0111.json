@@ -1,0 +1,49 @@
+{
+  "id": "rct_beauty_grace_0111",
+  "name": "Beauty Grace",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "clefable",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "magicguard",
+      "moveset": [
+        "doubleslap",
+        "metronome",
+        "teleport",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wigglytuff",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "competitive",
+      "moveset": [
+        "sing",
+        "disable",
+        "covet",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

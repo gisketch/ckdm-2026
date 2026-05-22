@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_garret"
+name = "Bug Catcher Garret"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:heracross", level = 49, gender = "FEMALE", nature = "timid", ability = "swarm", moveset = ["takedown", "megahorn", "closecombat", "reversal"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Garret is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

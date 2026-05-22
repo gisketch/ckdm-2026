@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_f_angelica"
+name = "Ranger Angelica"
+title = "Ranger"
+gender = "female"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/female"
+tier = "low"
+spawnable = true
+height = 1.06
+weight = 1.07
+bustStyle = "standard"
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ranger Female Angelica is ready for a battle."]

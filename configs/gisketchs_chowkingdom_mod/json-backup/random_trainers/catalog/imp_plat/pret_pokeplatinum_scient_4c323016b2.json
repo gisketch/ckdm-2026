@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_scientist_darrius",
+  "name": "Scientist Darrius",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:porygon2",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "signalbeam",
+        "icebeam",
+        "triattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I won\u2019t let you disrupt our research! This is for Team Galactic!",
+    "Our boss is a scientific genius! He will make the power of mythical Pok\u00e9mon his own!"
+  ]
+}

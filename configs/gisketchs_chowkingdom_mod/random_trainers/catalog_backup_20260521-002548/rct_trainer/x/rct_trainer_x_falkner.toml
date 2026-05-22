@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_falkner"
+name = "Rct Trainer Falkner"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 95
+maxLevel = 97
+team = [
+  { species = "cobblemon:pidgeot", level = 97, gender = "MALE", nature = "timid", ability = "tangledfeet", moveset = ["hurricane", "heatwave", "focusblast", "uturn"], heldItem = "['mega_showdown:pidgeotite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:yanmega", level = 97, gender = "FEMALE", nature = "timid", ability = "frisk", moveset = ["bugbuzz", "airslash", "gigadrain", "uturn"], heldItem = "['choice_specs']", shiny = false, aspects = [] },
+  { species = "cobblemon:shaymin", level = 96, gender = "GENDERLESS", nature = "timid", ability = "serenegrace", moveset = ["seedflare", "airslash", "earthpower", "hiddenpower"], heldItem = "['focus_sash']", shiny = false, aspects = ["sky"] },
+  { species = "cobblemon:enamorus", level = 95, gender = "FEMALE", nature = "jolly", ability = "contrary", moveset = ["superpower", "acrobatics", "playrough", "knockoff"], heldItem = "['flying_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:hooh", level = 97, gender = "GENDERLESS", nature = "jolly", ability = "regenerator", moveset = ["bravebird", "sacredfire", "earthquake", "roost"], heldItem = "['lum_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 95, gender = "FEMALE", nature = "jolly", ability = "moxie", moveset = ["dragondance", "waterfall", "earthquake", "bounce"], heldItem = "['mega_showdown:flyinium_z', 'flying_gem']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

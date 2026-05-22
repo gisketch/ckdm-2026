@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefanm_x_alex"
+name = "Pokefanm Alex"
+title = "Pokefanm"
+gender = "any"
+archetype = "pokefanm"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokefanm/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:nidoking", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slowking", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokefanm Alex is ready for a battle."]

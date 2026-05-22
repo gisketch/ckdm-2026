@@ -1,0 +1,30 @@
+{
+  "id": "rct_school_kid_christine_03f1",
+  "name": "School Kid Christine",
+  "title": "School Kid",
+  "gender": "any",
+  "archetype": "school_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "abra",
+      "level": 6,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "chargebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

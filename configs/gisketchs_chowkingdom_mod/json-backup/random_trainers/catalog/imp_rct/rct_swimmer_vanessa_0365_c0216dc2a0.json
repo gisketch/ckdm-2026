@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmer_vanessa_0365",
+  "name": "Swimmer Vanessa",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:golduck",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "tailwhip",
+        "zenheadbutt",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

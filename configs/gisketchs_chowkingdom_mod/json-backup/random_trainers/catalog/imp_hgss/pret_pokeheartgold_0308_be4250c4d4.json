@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0308_camper_jerry",
+  "name": "Camper Jerry",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:rhydon",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "rockslide",
+        "avalanche",
+        "hammerarm",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The Trainers of this Gym use Rock-type Pok\u00e9mon. Rock-type Pok\u00e9mon have high Defense. Battles could end up going a long time. Are you ready for this?",
+    "Hey, you! Trainer from Johto! Brock is tough. He\u2019ll punish you if you don\u2019t take him seriously."
+  ]
+}

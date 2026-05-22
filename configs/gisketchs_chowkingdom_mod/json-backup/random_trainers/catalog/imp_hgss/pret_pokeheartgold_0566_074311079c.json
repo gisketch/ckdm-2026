@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0566_school_kid_male_connor",
+  "name": "School Kid Male Connor",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:zigzagoon",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bellydrum",
+        "rest",
+        "flail",
+        "secretpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I can\u2019t wait to go home and drop off my Bag!",
+    "Don\u2019t rush, and take the road one step at a time. Great advice!"
+  ]
+}

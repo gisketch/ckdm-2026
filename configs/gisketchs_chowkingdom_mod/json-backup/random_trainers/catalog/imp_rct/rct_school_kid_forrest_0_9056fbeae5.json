@@ -1,0 +1,40 @@
+{
+  "id": "rct_school_kid_forrest_03ed",
+  "name": "School Kid Forrest",
+  "title": "School Kid",
+  "gender": "any",
+  "archetype": "school_kid",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "school_kid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.92,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:mrmime",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "reflect",
+        "dazzlinggleam",
+        "thunderbolt",
+        "energyball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

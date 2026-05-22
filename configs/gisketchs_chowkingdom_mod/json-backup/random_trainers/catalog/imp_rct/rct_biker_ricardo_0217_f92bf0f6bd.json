@@ -1,0 +1,74 @@
+{
+  "id": "rct_biker_ricardo_0217",
+  "name": "Biker Ricardo",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:weezing",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "sludge",
+        "explosion",
+        "tackle",
+        "poisongas"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "sludge",
+        "smog",
+        "explosion",
+        "strangesteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "cobblemon:salazzle",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "corrosion",
+      "moveset": [
+        "minimize",
+        "sludge",
+        "disable",
+        "flameburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

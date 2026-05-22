@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_200",
+  "name": "Scientist Mickey",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Scientist Mickey is ready for a battle."
+  ]
+}

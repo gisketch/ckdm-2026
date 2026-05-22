@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_teddy"
+name = "Biker Teddy"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 46
+maxLevel = 46
+team = [
+  { species = "cobblemon:seviper", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, that’s a cool Bike you’re riding!", "I love the way you do battle, too! Consider me a fan!"]

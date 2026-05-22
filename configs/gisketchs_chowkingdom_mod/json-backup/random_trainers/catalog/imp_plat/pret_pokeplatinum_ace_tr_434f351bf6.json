@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_rodolfo",
+  "name": "Ace Trainer Male Rodolfo",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:starmie",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "recover",
+        "psychic",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vibrava",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "dragonbreath",
+        "earthquake",
+        "feintattack",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "There is something missing in the way I battle... I\u2019ve come here to find it.",
+    "Battling you was an eye-opener. I learned something very important in that short time."
+  ]
+}

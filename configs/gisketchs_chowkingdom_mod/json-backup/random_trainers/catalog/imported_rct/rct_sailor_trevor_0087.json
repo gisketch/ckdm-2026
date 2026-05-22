@@ -1,0 +1,49 @@
+{
+  "id": "rct_sailor_trevor_0087",
+  "name": "Sailor Trevor",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 90,
+  "team": [
+    {
+      "species": "cramorant",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "gulpmissile",
+      "moveset": [
+        "surf",
+        "uturn",
+        "airslash",
+        "safeguard"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoqueen",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "surf",
+        "scorchingsands",
+        "sludge",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

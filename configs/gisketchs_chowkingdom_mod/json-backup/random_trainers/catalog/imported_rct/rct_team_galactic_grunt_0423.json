@@ -1,0 +1,32 @@
+{
+  "id": "rct_team_galactic_grunt_0423",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

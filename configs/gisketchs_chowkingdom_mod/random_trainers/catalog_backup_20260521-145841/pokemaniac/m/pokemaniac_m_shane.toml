@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_m_shane"
+name = "Pokemaniac Shane"
+title = "Pokemaniac"
+gender = "male"
+archetype = "pokemaniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokemaniac/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 16
+maxLevel = 16
+team = [
+  { species = "cobblemon:nidorina", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorino", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Shane is ready for a battle."]

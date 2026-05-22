@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_krystal"
+name = "Bird Keeper Krystal"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:dodrio", level = 55, gender = "FEMALE", nature = "impish", ability = "earlybird", moveset = ["drillpeck", "lunge", "quickattack", "swordsdance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:fearow", level = 55, gender = "FEMALE", nature = "hardy", ability = "keeneye", moveset = ["drillrun", "drillpeck", "roost", "assurance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:honchkrow", level = 55, gender = "FEMALE", nature = "docile", ability = "insomnia", moveset = ["nightslash", "swagger", "foulplay", "wingattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["With one mighty flap, my birds blow away the embers of aggression!", "The HM Fly isn’t useful inside caves. It’s such a shame.", "I have trained this team for the road. Challenge me if you are ready."]

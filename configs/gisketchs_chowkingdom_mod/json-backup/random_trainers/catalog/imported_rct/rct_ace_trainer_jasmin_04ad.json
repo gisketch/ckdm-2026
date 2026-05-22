@@ -1,0 +1,33 @@
+{
+  "id": "rct_ace_trainer_jasmin_04ad",
+  "name": "Ace Trainer Jasmin",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "drapion",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "battlearmor",
+      "moveset": [
+        "crunch",
+        "xscissor",
+        "crosspoison",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

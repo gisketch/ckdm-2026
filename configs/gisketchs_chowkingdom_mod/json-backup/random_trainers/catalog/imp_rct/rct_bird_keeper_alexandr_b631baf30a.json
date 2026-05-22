@@ -1,0 +1,40 @@
+{
+  "id": "rct_bird_keeper_alexandra_0326",
+  "name": "Bird Keeper Alexandra",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:hoothoot",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "peck",
+        "echoedvoice",
+        "confusion",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

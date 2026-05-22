@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battle_girl_f_jocelyn"
+name = "Battle Girl Jocelyn"
+title = "Battle Girl"
+gender = "female"
+archetype = "battle_girl"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "battle_girl/female"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 0.95
+bustStyle = "standard"
+minLevel = 13
+maxLevel = 13
+team = [
+  { species = "cobblemon:meditite", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Battle Girl Jocelyn is ready for a battle."]

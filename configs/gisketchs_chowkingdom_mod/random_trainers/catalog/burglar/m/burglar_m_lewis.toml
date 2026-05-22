@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_m_lewis"
+name = "Burglar Lewis"
+title = "Burglar"
+gender = "male"
+archetype = "burglar"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "burglar/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 69
+maxLevel = 70
+team = [
+  { species = "cobblemon:arcanine", level = 70, gender = "FEMALE", nature = "sassy", ability = "flashfire", moveset = ["firefang", "flareblitz", "helpinghand", "retaliate"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 69, gender = "MALE", nature = "timid", ability = "flashfire", moveset = ["fireblast", "bounce", "flareblitz", "jumpkick"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Burglar Lewis is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

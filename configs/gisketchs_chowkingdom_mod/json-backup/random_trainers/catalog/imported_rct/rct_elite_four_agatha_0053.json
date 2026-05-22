@@ -1,0 +1,115 @@
+{
+  "id": "rct_elite_four_agatha_0053",
+  "name": "Elite Four Agatha",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 84,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "zoroark",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "taunt",
+        "darkpulse",
+        "flamethrower",
+        "sludgebomb"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spectrier",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "grimneigh",
+      "moveset": [
+        "shadowball",
+        "hiddenpower",
+        "darkpulse",
+        "sleeptalk"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aegislash",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stancechange",
+      "moveset": [
+        "shadowball",
+        "toxic",
+        "flashcannon",
+        "kingsshield"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "silvally",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "battlearmor",
+      "moveset": [
+        "multiattack",
+        "flamethrower",
+        "thunderwave",
+        "partingshot"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": [
+        "dark"
+      ]
+    },
+    {
+      "species": "marshadow",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "spectralthief",
+        "closecombat",
+        "shadowsneak",
+        "bulkup"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "sludgewave",
+        "nastyplot",
+        "thunderbolt"
+      ],
+      "heldItem": "mega_showdown:gengarite expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

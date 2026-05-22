@@ -1,0 +1,67 @@
+{
+  "id": "rct_shadow_admin_ivory_1_05ba",
+  "name": "Shadow Admin Ivory",
+  "title": "Shadow Admin Ivory",
+  "gender": "any",
+  "archetype": "shadow_admin_ivory",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "misdreavus",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "hex",
+        "willowisp",
+        "meanlook",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "psybeam",
+        "knockoff",
+        "thunderwave",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "persian",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "furcoat",
+      "moveset": [
+        "punishment",
+        "aerialace",
+        "hypnosis",
+        "swagger"
+      ],
+      "heldItem": "wide_lens",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

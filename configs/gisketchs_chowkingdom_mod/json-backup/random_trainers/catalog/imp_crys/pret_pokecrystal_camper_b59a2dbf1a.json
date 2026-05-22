@@ -1,0 +1,88 @@
+{
+  "id": "pret_pokecrystal_camper_021_todd",
+  "name": "Camper Todd",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:graveler",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "selfdestruct",
+        "rockthrow",
+        "harden",
+        "magnitude"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "selfdestruct",
+        "rockthrow",
+        "harden",
+        "magnitude"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magcargo",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "rockthrow",
+        "harden",
+        "amnesia",
+        "flamethrower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "disable",
+        "psychic",
+        "surf",
+        "psychup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Camper Todd is ready for a battle."
+  ]
+}

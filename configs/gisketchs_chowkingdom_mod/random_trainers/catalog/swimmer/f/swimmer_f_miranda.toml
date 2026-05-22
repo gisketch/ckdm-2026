@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_miranda"
+name = "Swimmer Miranda"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:lumineon", level = 60, gender = "MALE", nature = "timid", ability = "swiftswim", moveset = ["attract", "raindance", "whirlpool", "bounce"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m determined to go to the Pokémon League, no matter how hard it is.", "Losing won’t make me quit. I mean, this is my dream! The Pokémon League isn’t going anywhere, either.", "Swimmer Female Miranda is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,81 @@
+{
+  "id": "rct_tamer_john_012b",
+  "name": "Tamer John",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "rhyhorn",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "lightningrod",
+      "moveset": [
+        "rockblast",
+        "drillrun",
+        "takedown",
+        "stoneedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primeape",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "vitalspirit",
+      "moveset": [
+        "assurance",
+        "punishment",
+        "thrash",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arbok",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "poisonfang",
+        "coil"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tauros",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "payback",
+        "workup",
+        "takedown",
+        "zenheadbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

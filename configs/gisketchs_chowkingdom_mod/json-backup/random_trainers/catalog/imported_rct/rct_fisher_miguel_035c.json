@@ -1,0 +1,49 @@
+{
+  "id": "rct_fisher_miguel_035c",
+  "name": "Fisher Miguel",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "twister",
+        "brine",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "flail",
+        "icefang",
+        "waterfall",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

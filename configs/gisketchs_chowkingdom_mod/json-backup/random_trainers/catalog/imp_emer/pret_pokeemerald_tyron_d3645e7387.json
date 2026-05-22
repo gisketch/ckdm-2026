@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_tyron",
+  "name": "Camper Tyron",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:sandshrew",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Camper Tyron is ready for a battle."
+  ]
+}

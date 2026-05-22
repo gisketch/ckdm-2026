@@ -1,0 +1,33 @@
+{
+  "id": "rct_parasol_lady_sabrina_03e2",
+  "name": "Parasol Lady Sabrina",
+  "title": "Parasol Lady",
+  "gender": "any",
+  "archetype": "parasol_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "psyduck",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "furyswipes",
+        "waterpulse",
+        "zenheadbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

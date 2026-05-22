@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_jonah"
+name = "Ace Trainer Jonah"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 35
+maxLevel = 38
+team = [
+  { species = "cobblemon:quagsire", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:staraptor", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hippopotas", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["If we were to battle, your Pokémon would become tougher. Likewise, my Pokémon would also become tougher. It’s all good. This calls for a battle!", "This mine’s been abandoned, but now it’s home to many Pokémon. I guess everything finds a place to call home someday..."]

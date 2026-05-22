@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_poke_kid_danielle_rematch_3",
+  "name": "Poke Kid Danielle",
+  "title": "Poke Kid",
+  "gender": "any",
+  "archetype": "poke_kid",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "poke_kid/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.88,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:raichu",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Poke Kid Danielle is ready for a battle."
+  ]
+}

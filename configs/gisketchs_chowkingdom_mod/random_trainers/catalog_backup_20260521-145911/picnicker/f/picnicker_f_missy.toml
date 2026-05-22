@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_missy"
+name = "Picnicker Missy"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 64
+maxLevel = 64
+team = [
+  { species = "cobblemon:palpitoad", level = 64, gender = "MALE", nature = "calm", ability = "hydration", moveset = ["flail", "echoedvoice", "hydropump", "hypervoice"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastrodon", level = 64, gender = "MALE", nature = "naughty", ability = "stormdrain", moveset = ["raindance", "bodyslam", "muddywater", "recover"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Missy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

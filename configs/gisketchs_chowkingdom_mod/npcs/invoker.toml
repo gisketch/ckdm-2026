@@ -16,10 +16,11 @@ hurt_messages = ["A mere scratch. I have endured the collapse of civilizations."
 wake_messages = ["I was meditating upon the curvature of spacetime. This had better matter.", "Disturbing an archmage mid-reverie. How delightfully bold.", "Speak. My consciousness was cataloguing stellar fusion sequences."]
 npc_interaction_messages = ["Explaining to {other} why their elemental theory is fundamentally infantile.", "Debating with {other} whether redstone qualifies as a fifth element.", "Reciting a twelve-stanza ode about quas particles while {other} pretends to understand."]
 work_blocks = [
-  { id = "minecraft:enchanting_table", count = 1, display_name = "enchanting table" },
-  { id = "minecraft:bookshelf", count = 6, display_name = "arcane bookshelves" },
-  { id = "minecraft:brewing_stand", count = 1, display_name = "alchemical station" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "ars_nouveau:enchanting_apparatus", count = 1, display_name = "enchanting apparatus" },
+  { id = "ars_nouveau:arcane_core", count = 1, display_name = "arcane core" },
+  { id = "ars_nouveau:source_jar", count = 1, display_name = "source jar" },
+  { id = "supplementaries:crystal_display", count = 1, display_name = "orb display" },
+  { id = "minecraft:lectern", count = 1, display_name = "spell lectern" },
 ]
 
 [boss]
@@ -166,4 +167,6 @@ pool = [
   { id = "invoker_timed_blazes", category = "timed", event = "minecraft:entity_killed", event_desc = "Defeat {goal} Blazes In {seconds}s", quest_text = "Drop a blaze pattern before the fire ruins the equation.", pass_id = "combat", xp = 130, chowcoins = 100, goal = 3, time_window_seconds = 30, filters = { entity = "minecraft:blaze", dimension = "minecraft:the_nether" }, weight = 4 },
   { id = "invoker_food_glow_berry_custard", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Glow Berry Custard And Bring It Back", quest_text = "Prepare glow berry custard after I ask; luminous ingredients focus the mind.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:glow_berry_custard", fetch_count = 1, filters = { item = "farmersdelight:glow_berry_custard" }, weight = 8 },
   { id = "invoker_quiz_arcane_vectors_and_spell_discipline", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Invoker's arcane quiz and do try to keep up.", pass_id = "cozy", xp = 50, chowcoins = 35, quiz_topic = "arcane vectors and spell discipline", weight = 10 },
+  { id = "invoker_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Invoker", quest_text = "Invoker has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "invoker_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Invoker", quest_text = "Invoker wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

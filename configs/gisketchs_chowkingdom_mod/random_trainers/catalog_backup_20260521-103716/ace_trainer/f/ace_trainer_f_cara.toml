@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_cara"
+name = "Ace Trainer Cara"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = "standard"
+minLevel = 33
+maxLevel = 35
+team = [
+  { species = "cobblemon:horsea", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "leer", "whirlpool", "twister"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:horsea", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "leer", "whirlpool", "twister"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seadra", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "leer", "waterfall", "twister"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerf Cara is ready for a battle."]

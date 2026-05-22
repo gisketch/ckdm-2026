@@ -1,0 +1,65 @@
+{
+  "id": "rct_tamer_edgar_0127",
+  "name": "Tamer Edgar",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "arbok",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "coil",
+        "jawlock",
+        "belch",
+        "haze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoking",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rivalry",
+      "moveset": [
+        "chipaway",
+        "thrash",
+        "earthpower",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bewear",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "klutz",
+      "moveset": [
+        "thrash",
+        "painsplit",
+        "doubleedge",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

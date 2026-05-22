@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_chance"
+name = "School Kid Chance"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:haunter", level = 30, gender = "MALE", nature = "modest", ability = "levitate", moveset = ["confuseray", "suckerpunch", "shadowball", "darkpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Are you lost? Are you enjoying yourself?", "Whatever happens in life, it’s better to try to enjoy it the best one can. Being in the dark here, I came to realize that.", "I have trained this team for the road. Challenge me if you are ready."]

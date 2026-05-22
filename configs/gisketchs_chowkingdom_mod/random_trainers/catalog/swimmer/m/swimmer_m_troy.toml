@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_troy"
+name = "Swimmer Troy"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:gyarados", level = 43, gender = "FEMALE", nature = "sassy", ability = "intimidate", moveset = ["scaryface", "raindance", "aquatail", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Yes, I know I can surf, but I’d rather swim instead. It does seem weird, I agree.", "If you don’t know how, I’m willing to show you how to swim.", "I have trained this team for the road. Challenge me if you are ready."]

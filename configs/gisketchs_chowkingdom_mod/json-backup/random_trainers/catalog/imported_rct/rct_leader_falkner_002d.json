@@ -1,0 +1,65 @@
+{
+  "id": "rct_leader_falkner_002d",
+  "name": "Falkner",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "rufflet",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": [
+        "aerialace",
+        "slash",
+        "rocksmash",
+        "roost"
+      ],
+      "heldItem": "berry_juice",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "emolga",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "shockwave",
+        "aircutter",
+        "sleeptalk",
+        "roost"
+      ],
+      "heldItem": "berry_juice",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "corvisquire",
+      "level": 14,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "unnerve",
+      "moveset": [
+        "pluck",
+        "roost",
+        "rocksmash",
+        "honeclaws"
+      ],
+      "heldItem": "berry_juice",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

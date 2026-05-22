@@ -1,0 +1,97 @@
+{
+  "id": "rct_bird_keeper_sebastian_012c",
+  "name": "Bird Keeper Sebastian",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "gliscor",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "poisonheal",
+      "moveset": [
+        "uturn",
+        "earthquake",
+        "stealthrock",
+        "dualwingbeat"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "dragondance",
+        "flareblitz",
+        "dragonclaw",
+        "earthquake"
+      ],
+      "heldItem": "mega_showdown:charizardite_x life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "togekiss",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "serenegrace",
+      "moveset": [
+        "airslash",
+        "fireblast",
+        "thunderwave",
+        "roost"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blaziken",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "speedboost",
+      "moveset": [
+        "swordsdance",
+        "flareblitz",
+        "closecombat",
+        "thunderpunch"
+      ],
+      "heldItem": "charcoal_stick",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tropius",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "chlorophyll",
+      "moveset": [
+        "growth",
+        "gigadrain",
+        "weatherball",
+        "dragonpulse"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

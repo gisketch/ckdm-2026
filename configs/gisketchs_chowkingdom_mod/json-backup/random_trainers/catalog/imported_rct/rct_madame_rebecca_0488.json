@@ -1,0 +1,49 @@
+{
+  "id": "rct_madame_rebecca_0488",
+  "name": "Madame Rebecca",
+  "title": "Madame",
+  "gender": "any",
+  "archetype": "madame",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "lopunny",
+      "level": 22,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "cutecharm",
+      "moveset": [
+        "mirrorcoat",
+        "magiccoat",
+        "babydolleyes",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glameow",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "growl",
+        "aerialace",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

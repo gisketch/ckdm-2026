@@ -1,0 +1,72 @@
+{
+  "id": "rct_youngster_timmy_01f8",
+  "name": "Youngster Timmy",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ekans",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "shedskin",
+      "moveset": [
+        "suckerpunch",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "sniper",
+      "moveset": [
+        "confuseray",
+        "aircutter",
+        "meanlook",
+        "poisonfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

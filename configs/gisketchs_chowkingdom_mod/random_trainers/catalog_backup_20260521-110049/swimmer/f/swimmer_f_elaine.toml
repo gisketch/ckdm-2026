@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_elaine"
+name = "Swimmer Elaine"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:staryu", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Elaine is ready for a battle.", "Are you going to Cianwood? How about a quick battle first?", "I’d say I’m a better swimmer than you. Yeah!"]

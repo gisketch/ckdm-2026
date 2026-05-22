@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokefirered_pkmn_ranger_jackson_2",
+  "name": "Pokemon Ranger Jackson",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "pokemon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:tangela",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "slam",
+        "megadrain",
+        "bind",
+        "ingrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggutor",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "confusion",
+        "eggbomb",
+        "stunspore",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggutor",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "confusion",
+        "eggbomb",
+        "sleeppowder",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Ranger Jackson is ready for a battle."
+  ]
+}

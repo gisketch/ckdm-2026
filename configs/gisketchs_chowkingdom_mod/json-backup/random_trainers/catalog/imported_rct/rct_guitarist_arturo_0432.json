@@ -1,0 +1,49 @@
+{
+  "id": "rct_guitarist_arturo_0432",
+  "name": "Guitarist Arturo",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "meanlook",
+        "poisonfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zubat",
+      "level": 16,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "meanlook",
+        "poisonfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

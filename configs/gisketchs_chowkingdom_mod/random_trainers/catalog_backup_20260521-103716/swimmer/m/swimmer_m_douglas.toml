@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_douglas"
+name = "Swimmer Douglas"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 61
+maxLevel = 63
+team = [
+  { species = "cobblemon:azumarill", level = 61, gender = "FEMALE", nature = "rash", ability = "hugepower", moveset = ["raindance", "doubleedge", "superpower", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 61, gender = "FEMALE", nature = "rash", ability = "liquidooze", moveset = ["hex", "sludgewave", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 62, gender = "FEMALE", nature = "timid", ability = "liquidooze", moveset = ["hex", "sludgewave", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lumineon", level = 63, gender = "FEMALE", nature = "naughty", ability = "stormdrain", moveset = ["tailwind", "uturn", "bounce", "tailglow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Douglas is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

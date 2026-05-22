@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemaniac_hector_0249",
+  "name": "Pokémaniac Hector",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "rhyhorn",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "stoneedge",
+        "earthquake",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kangaskhan",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "earlybird",
+      "moveset": [
+        "crunch",
+        "endure",
+        "outrage",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

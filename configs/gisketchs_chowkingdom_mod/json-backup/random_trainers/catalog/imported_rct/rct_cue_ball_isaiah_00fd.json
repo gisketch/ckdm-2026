@@ -1,0 +1,49 @@
+{
+  "id": "rct_cue_ball_isaiah_00fd",
+  "name": "Cue Ball Isaiah",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "zangoose",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "toughclaws",
+      "moveset": [
+        "fakeout",
+        "taunt",
+        "swordsdance",
+        "closecombat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seviper",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "merciless",
+      "moveset": [
+        "belch",
+        "coil",
+        "wringout",
+        "gunkshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

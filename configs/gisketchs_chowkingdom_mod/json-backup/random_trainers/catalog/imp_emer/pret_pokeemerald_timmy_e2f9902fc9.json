@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_timmy",
+  "name": "Youngster Timmy",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:aron",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrike",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Youngster Timmy is ready for a battle."
+  ]
+}

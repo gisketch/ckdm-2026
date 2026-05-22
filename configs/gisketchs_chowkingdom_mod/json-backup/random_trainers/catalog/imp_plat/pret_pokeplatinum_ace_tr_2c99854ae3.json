@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_cesar",
+  "name": "Ace Trainer Male Cesar",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:scizor",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "metalclaw",
+        "xscissor",
+        "slash",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "An ace has the knowledge and experience of battling at high levels. I\u2019ll demonstrate what that means to a noob like you!",
+    "Your earnest enthusiasm... I guess that kinda makes you an ace. Maybe you\u2019re a Trainer who has the potential to surpass aces!"
+  ]
+}

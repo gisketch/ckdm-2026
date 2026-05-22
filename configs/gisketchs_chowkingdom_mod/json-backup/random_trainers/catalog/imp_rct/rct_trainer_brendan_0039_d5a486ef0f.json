@@ -1,0 +1,136 @@
+{
+  "id": "rct_trainer_brendan_0039",
+  "name": "Trainer Brendan",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 61,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:metagross",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "stealthrock",
+        "meteormash",
+        "explosion",
+        "earthquake"
+      ],
+      "heldItem": [
+        "air_balloon"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:medicham",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "psychocut",
+        "closecombat",
+        "thunderpunch",
+        "icepunch"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crawdaunt",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "adaptability",
+      "moveset": [
+        "aquajet",
+        "liquidation",
+        "crunch",
+        "superpower"
+      ],
+      "heldItem": [
+        "choice_band"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exploud",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "punkrock",
+      "moveset": [
+        "boomburst",
+        "surf",
+        "flamethrower",
+        "shadowball"
+      ],
+      "heldItem": [
+        "silk_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gardevoir",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "trace",
+      "moveset": [
+        "focusblast",
+        "moonblast",
+        "psychic",
+        "thunderbolt"
+      ],
+      "heldItem": [
+        "mega_showdown:pixie_plate",
+        "fairy_feather"
+      ],
+      "shiny": false,
+      "aspects": [
+        "fairy-plate"
+      ]
+    },
+    {
+      "species": "cobblemon:sceptile",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "swordsdance",
+        "bulletseed",
+        "dualchop",
+        "earthquake"
+      ],
+      "heldItem": [
+        "mega_showdown:sceptilite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

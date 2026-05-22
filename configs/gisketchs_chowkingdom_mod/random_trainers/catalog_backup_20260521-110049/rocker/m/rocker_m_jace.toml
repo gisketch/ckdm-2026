@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rocker_m_jace"
+name = "Rocker Jace"
+title = "Rocker"
+gender = "male"
+archetype = "rocker"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "rocker/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:voltorb", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rocker from Route 12 is ready for a battle."]

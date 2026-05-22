@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "guitarist_m_joseph"
+name = "Guitarist Joseph"
+title = "Guitarist"
+gender = "male"
+archetype = "guitarist"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "guitarist/male"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 14
+maxLevel = 14
+team = [
+  { species = "cobblemon:electrike", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:voltorb", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Guitarist Joseph is ready for a battle."]

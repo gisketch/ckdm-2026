@@ -1,0 +1,88 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0446",
+  "name": "Pok\u00e9mon Trainer Cedric",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "pluck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:buizel",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "quickattack",
+        "watergun",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "megadrain",
+        "leechseed",
+        "grassknot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:monferno",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "machpunch",
+        "leer",
+        "flamewheel",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

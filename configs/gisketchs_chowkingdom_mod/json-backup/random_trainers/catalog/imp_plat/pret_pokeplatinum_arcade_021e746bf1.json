@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_arcade_star_dahlia_dummy",
+  "name": "Arcade Star Dahlia",
+  "title": "Arcade Star",
+  "gender": "any",
+  "archetype": "arcade_star",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "arcade_star/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Arcade Star Dahlia is ready for a battle."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0023_poke_maniac_larry",
+  "name": "Poke Maniac Larry",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I roam far and wide in search of Pok\u00e9mon. Are you looking for Pok\u00e9mon, too? Then you\u2019re my collecting rival!",
+    "Every Friday, you can hear Pok\u00e9mon roars from deep inside the cave."
+  ]
+}

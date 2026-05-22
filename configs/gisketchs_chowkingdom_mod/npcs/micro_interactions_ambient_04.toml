@@ -1,0 +1,359 @@
+[[solo_moments]]
+id = "ambient_04_001"
+topic = "pokemon_roam"
+source_tags = ["pokemon_trainer"]
+activities = ["pokemon_roam"]
+line = "Grass shifts first when a wild Pokemon is close."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_002"
+topic = "pokemon_roam"
+source_tags = ["pokemon_trainer"]
+activities = ["pokemon_roam"]
+line = "Every route has a rhythm if the team walks quietly."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_003"
+topic = "training"
+source_tags = ["pokemon_trainer"]
+activities = ["pokemon_roam", "meetup"]
+line = "A clean switch can save more than a stronger move."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_004"
+topic = "training"
+source_tags = ["pokemon_trainer"]
+activities = ["pokemon_roam"]
+line = "Good trainers count steps, turns, and tempers."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_005"
+topic = "team_care"
+source_tags = ["pokemon_trainer"]
+activities = ["work", "pokemon_roam"]
+line = "A rested team listens better than a rushed one."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_006"
+topic = "badge_path"
+source_tags = ["pokemon_trainer"]
+activities = ["meetup"]
+line = "Badges mean little without the habits earned between them."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_007"
+topic = "gym_floor"
+source_tags = ["gym_leader"]
+activities = ["work"]
+line = "The gym floor tells me which challengers panic."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_008"
+topic = "gym_lesson"
+source_tags = ["gym_leader"]
+activities = ["work", "meetup"]
+line = "A gym battle should teach even when it ends fast."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_009"
+topic = "gym_badge"
+source_tags = ["gym_leader"]
+activities = ["work"]
+line = "A badge is a promise that the next road will test."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_010"
+topic = "gym_strategy"
+source_tags = ["gym_leader"]
+activities = ["work"]
+line = "Type advantage matters less when timing falls apart."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_011"
+topic = "gym_challenge"
+source_tags = ["gym_leader"]
+activities = ["meetup"]
+line = "The best challengers watch before they command."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_012"
+topic = "gym_upkeep"
+source_tags = ["gym_leader"]
+activities = ["work"]
+line = "Fresh markings keep the arena honest."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_013"
+topic = "league_readiness"
+source_tags = ["elite_four"]
+activities = ["meetup"]
+line = "League pressure reveals the training no one sees."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_014"
+topic = "league_readiness"
+source_tags = ["elite_four"]
+activities = ["work"]
+line = "A calm first turn can decide an entire match."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_015"
+topic = "league_standards"
+source_tags = ["elite_four"]
+activities = ["work", "meetup"]
+line = "At this level, every mistake arrives on schedule."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_016"
+topic = "league_halls"
+source_tags = ["elite_four"]
+activities = ["work"]
+line = "These halls make footsteps sound like decisions."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_017"
+topic = "league_strategy"
+source_tags = ["elite_four"]
+activities = ["meetup"]
+line = "A strong team still needs a clean plan."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_018"
+topic = "league_focus"
+source_tags = ["elite_four"]
+activities = ["work"]
+line = "Pressure is just another field condition."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_019"
+topic = "champion_watch"
+source_tags = ["champion"]
+activities = ["meetup"]
+line = "The whole region changes when new talent appears."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_020"
+topic = "champion_standard"
+source_tags = ["champion"]
+activities = ["work"]
+line = "A champion must respect the first route and the final match."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_021"
+topic = "champion_team"
+source_tags = ["champion"]
+activities = ["pokemon_roam"]
+line = "Even the strongest team needs ordinary walks."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_022"
+topic = "champion_league"
+source_tags = ["champion"]
+activities = ["work", "meetup"]
+line = "The title is lighter when the region keeps growing."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_023"
+topic = "champion_match"
+source_tags = ["champion"]
+activities = ["meetup"]
+line = "A final battle should feel earned before it begins."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_024"
+topic = "champion_focus"
+source_tags = ["champion"]
+activities = ["work"]
+line = "Winning once is proof. Staying ready is the work."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_025"
+topic = "rival_training"
+source_tags = ["rival"]
+activities = ["pokemon_roam"]
+line = "A rival's pace can sharpen every step on the route."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_026"
+topic = "rival_focus"
+source_tags = ["rival"]
+activities = ["meetup"]
+line = "Next time, the opener has to be cleaner."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_027"
+topic = "rival_team"
+source_tags = ["rival"]
+activities = ["pokemon_roam", "work"]
+line = "My team knows when I am holding back."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_028"
+topic = "rival_badges"
+source_tags = ["rival"]
+activities = ["meetup"]
+line = "Every badge route leaves a different kind of lesson."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_029"
+topic = "rival_strategy"
+source_tags = ["rival"]
+activities = ["work"]
+line = "If the first plan fails, the second one better be ready."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_030"
+topic = "rival_pace"
+source_tags = ["rival"]
+activities = ["pokemon_roam"]
+line = "Falling behind is only useful if it teaches the next push."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_031"
+topic = "field_research"
+source_tags = ["professor"]
+activities = ["work", "pokemon_roam"]
+line = "A good field note starts before the Pokemon notices you."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_032"
+topic = "field_research"
+source_tags = ["professor"]
+activities = ["pokemon_roam"]
+line = "Habitat behavior changes faster than old charts admit."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_033"
+topic = "research_notes"
+source_tags = ["professor"]
+activities = ["work"]
+line = "The smallest observation can repair a whole theory."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_034"
+topic = "research_tools"
+source_tags = ["professor"]
+activities = ["work"]
+line = "Clean instruments make patient questions easier."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_035"
+topic = "starter_advice"
+source_tags = ["professor"]
+activities = ["meetup"]
+line = "A first partner teaches more than any lecture."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_036"
+topic = "pokemon_ecology"
+source_tags = ["professor"]
+activities = ["pokemon_roam"]
+line = "Pokemon choose paths for reasons trainers rarely see."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_037"
+topic = "store_supplies"
+source_tags = ["store_pokemon"]
+activities = ["work"]
+line = "Potions sell fast when a gym challenge is close."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_038"
+topic = "store_supplies"
+source_tags = ["store_pokemon"]
+activities = ["work"]
+line = "A good trainer checks supplies before pride."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_039"
+topic = "store_pokemon"
+source_tags = ["store_pokemon"]
+activities = ["work", "meetup"]
+line = "Every shelf tells a little story about local battles."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_040"
+topic = "store_pokemon"
+source_tags = ["store_pokemon"]
+activities = ["work"]
+line = "Fresh stock matters most after a long route."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_041"
+topic = "league_prep"
+source_tags = ["pokemon_trainer", "rival"]
+activities = ["meetup"]
+line = "League prep starts with knowing which habits break under pressure."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_042"
+topic = "pokemon_teamwork"
+source_tags = ["pokemon_trainer", "gym_leader"]
+activities = ["pokemon_roam", "work"]
+line = "Trust shows up before the command is spoken."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_043"
+topic = "league_standard"
+source_tags = ["gym_leader", "elite_four", "champion"]
+activities = ["work", "meetup"]
+line = "Strong battles are built from quiet repetition."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_04_044"
+topic = "research_battle"
+source_tags = ["professor", "pokemon_trainer"]
+activities = ["pokemon_roam"]
+line = "Every battle leaves data in the dust."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_04_045"
+topic = "pokemon_care"
+source_tags = ["store_pokemon", "professor"]
+activities = ["work", "pokemon_roam"]
+line = "Careful preparation keeps Pokemon curious and safe."
+weight = 2.0

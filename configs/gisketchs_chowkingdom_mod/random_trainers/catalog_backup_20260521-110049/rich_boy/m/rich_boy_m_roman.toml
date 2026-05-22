@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rich_boy_m_roman"
+name = "Rich Boy Roman"
+title = "Rich Boy"
+gender = "male"
+archetype = "rich_boy"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "rich_boy/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.03
+bustStyle = ""
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:sudowoodo", level = 23, gender = "FEMALE", nature = "naive", ability = "sturdy", moveset = ["stoneedge", "hammerarm", "woodhammer", "flail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rich Boy Roman is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

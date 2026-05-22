@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0407_ace_trainer_male_allen",
+  "name": "Ace Trainer Male Allen",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:charmeleon",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "ember",
+        "smokescreen",
+        "firefang",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spark",
+        "thunderwave",
+        "supersonic",
+        "metalsound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I can tell you\u2019re a good Trainer by looking at you. I\u2019m good at Pok\u00e9mon, and I can see that you are, too.",
+    "Wow. You have a lot of Badges. No wonder you\u2019re so tough. I wonder if Ecruteak Gym\u2019s Morty is still in training? He really hammered me."
+  ]
+}

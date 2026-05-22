@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_breeder_jennifer_04ea",
+  "name": "Pokémon Breeder Jennifer",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "mimejr",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "pound",
+        "copycat",
+        "encore",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roselia",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "megadrain",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "cutecharm",
+      "moveset": [
+        "pound",
+        "disarmingvoice",
+        "charm",
+        "moonlight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

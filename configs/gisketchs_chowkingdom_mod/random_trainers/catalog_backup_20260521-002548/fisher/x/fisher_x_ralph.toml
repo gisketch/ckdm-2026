@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisher_x_ralph"
+name = "Fisher Ralph"
+title = "Fisher"
+gender = "any"
+archetype = "fisher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "fisher/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 35
+maxLevel = 39
+team = [
+  { species = "cobblemon:qwilfish", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["toxic", "minimize", "surf", "pinmissile"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["endure", "flail", "furyattack", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisher Ralph is ready for a battle."]

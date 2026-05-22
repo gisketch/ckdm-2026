@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_micah",
+  "name": "Ace Trainer Male Micah",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:metang",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bulletpunch",
+        "zenheadbutt",
+        "pursuit",
+        "meteormash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ludicolo",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "zenheadbutt",
+        "energyball",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When Trainers lock eyes... That\u2019s right! It\u2019s time to let their Pok\u00e9mon go wild!",
+    "Whether you\u2019re talking to people or Pok\u00e9mon, it\u2019s important to always look them square in the eyes."
+  ]
+}

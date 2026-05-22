@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_m_keegan"
+name = "Dragon Tamer Keegan"
+title = "Dragon Tamer"
+gender = "male"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:gyarados", level = 58, gender = "MALE", nature = "relaxed", ability = "intimidate", moveset = ["raindance", "hydropump", "hyperbeam", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Dragon Pokémon are sacred beings... That’s what my master taught me. And now I’ll prove it to you!", "It’s not good enough for a Pokémon to just be tough. It’s not good enough for a Trainer to just work hard. Both have to grow together!", "I have trained this team for the road. Challenge me if you are ready."]

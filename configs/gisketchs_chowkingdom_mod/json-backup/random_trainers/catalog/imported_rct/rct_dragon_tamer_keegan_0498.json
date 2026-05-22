@@ -1,0 +1,33 @@
+{
+  "id": "rct_dragon_tamer_keegan_0498",
+  "name": "Dragon Tamer Keegan",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "raindance",
+        "hydropump",
+        "hyperbeam",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

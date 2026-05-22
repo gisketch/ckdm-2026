@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_jonathan"
+name = "Hiker Jonathan"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:onix", level = 19, gender = "MALE", nature = "relaxed", ability = "sturdy", moveset = ["harden", "bind", "smackdown", "curse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["If I beat you, will you share some food with me?", "Sigh... I feel even hungrier... Maybe I’ll chow down some Berries... But that’s kind of gross. What am I, a Pokémon?", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0203_hiker_phillip",
+  "name": "Hiker Phillip",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "It\u2019s been a while since I last saw another person. Don\u2019t be shy. Let\u2019s battle!",
+    "I\u2019ve been lost for a long time... I don\u2019t mind it here, but I am soooo hungry!"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0501_ace_trainer_female_piper",
+  "name": "Ace Trainer Female Piper",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:horsea",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "smokescreen",
+        "leer",
+        "brine",
+        "twister"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:horsea",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "smokescreen",
+        "leer",
+        "brine",
+        "twister"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "agility",
+        "leer",
+        "waterfall",
+        "twister"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You shouldn\u2019t be in here!",
+    "Soon I\u2019m going to get permission from our Master to use dragons. When I do, I\u2019m going to become an admirable Dragon Tamer and gain our Master\u2019s approval."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0447",
+  "name": "Pokémon Trainer Cedric",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "starly",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "quickattack",
+        "doubleteam",
+        "endeavor",
+        "pluck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roselia",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "growth",
+        "stunspore",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ponyta",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "tackle",
+        "growl",
+        "flamecharge",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "prinplup",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "bubblebeam",
+        "stealthrock",
+        "grassknot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

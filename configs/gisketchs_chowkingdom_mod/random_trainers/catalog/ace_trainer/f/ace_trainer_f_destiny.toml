@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_destiny"
+name = "Ace Trainer Destiny"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 47
+maxLevel = 48
+team = [
+  { species = "cobblemon:electabuzz", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "shockwave", "quickattack", "irontail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "dig", "thunderwave", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m not just looking for tough Trainers to battle. I’ve been battling here because I want to feel the rush!", "I’m so glad that there are Pokémon! There isn’t much else that gives me the thrill that Pokémon do!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_beauty_sheila_028f",
+  "name": "Beauty Sheila",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "cutecharm",
+      "moveset": [
+        "bodyslam",
+        "softboiled",
+        "moonblast",
+        "gravity"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "persian",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "limber",
+      "moveset": [
+        "powergem",
+        "slash",
+        "nastyplot",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

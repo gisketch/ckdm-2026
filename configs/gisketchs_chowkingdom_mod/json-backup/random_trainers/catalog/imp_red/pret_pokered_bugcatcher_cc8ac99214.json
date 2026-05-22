@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokered_bugcatcher_007",
+  "name": "Bugcatcher Yuri",
+  "title": "Bugcatcher",
+  "gender": "any",
+  "archetype": "bugcatcher",
+  "region": "Kanto",
+  "category": "specialist",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "bugcatcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:weedle",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kakuna",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Bugcatcher from Mt. Moon 1F is ready for a battle."
+  ]
+}

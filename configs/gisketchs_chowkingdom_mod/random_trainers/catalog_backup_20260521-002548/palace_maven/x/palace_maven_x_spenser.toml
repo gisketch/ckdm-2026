@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "palace_maven_x_spenser"
+name = "Palace Maven Spenser"
+title = "Palace Maven"
+gender = "any"
+archetype = "palace_maven"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "palace_maven/any"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:beldum", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Palace Maven Spenser is ready for a battle."]

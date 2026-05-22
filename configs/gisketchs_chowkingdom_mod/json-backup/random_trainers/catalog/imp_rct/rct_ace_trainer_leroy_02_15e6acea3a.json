@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_leroy_02d6",
+  "name": "Ace Trainer Leroy",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:rhydon",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "rockhead",
+      "moveset": [
+        "earthquake",
+        "horndrill",
+        "rockblast",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "headbutt",
+        "amnesia",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "scrappy",
+      "moveset": [
+        "dizzypunch",
+        "bite",
+        "endure",
+        "reversal"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "crosschop",
+        "vitalthrow",
+        "revenge",
+        "seismictoss"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ursaring",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "quickfeet",
+      "moveset": [
+        "slash",
+        "feintattack",
+        "snore",
+        "rest"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

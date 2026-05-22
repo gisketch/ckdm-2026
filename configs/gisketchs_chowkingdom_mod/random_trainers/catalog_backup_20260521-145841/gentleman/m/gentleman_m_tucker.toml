@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_tucker"
+name = "Gentleman Tucker"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:electabuzz", level = 29, gender = "FEMALE", nature = "lonely", ability = "static", moveset = ["shockwave", "thunderwave", "electroball", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Tucker is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

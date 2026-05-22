@@ -1,0 +1,56 @@
+{
+  "id": "rct_gentleman_clifford_025d",
+  "name": "Gentleman Clifford",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:marowak",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "fling",
+        "stompingtantrum",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "swiftswim",
+      "moveset": [
+        "psychic",
+        "psychup",
+        "nastyplot",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

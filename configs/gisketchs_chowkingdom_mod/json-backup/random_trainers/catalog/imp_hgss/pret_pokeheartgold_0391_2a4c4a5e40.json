@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeheartgold_0391_poke_maniac_issac",
+  "name": "Poke Maniac Issac",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 12,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "cobblemon:lickitung",
+      "level": 12,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lick",
+        "supersonic",
+        "cut"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My Pok\u00e9mon just got a haircut! I\u2019ll show you how strong it is!",
+    "Your Pok\u00e9mon will like you more if you give them haircuts."
+  ]
+}

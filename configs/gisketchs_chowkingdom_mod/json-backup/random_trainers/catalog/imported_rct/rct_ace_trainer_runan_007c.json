@@ -1,0 +1,113 @@
+{
+  "id": "rct_ace_trainer_runan_007c",
+  "name": "Ace Trainer Runan",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 93,
+  "maxLevel": 95,
+  "team": [
+    {
+      "species": "krookodile",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "highhorsepower",
+        "stoneedge",
+        "closecombat",
+        "wickedblow"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "enamorus",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "contrary",
+      "moveset": [
+        "fleurcannon",
+        "psychic",
+        "superpower",
+        "mysticalfire"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "salamence",
+      "level": 94,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "dragonrush",
+        "hypervoice",
+        "fireblast"
+      ],
+      "heldItem": "mega_showdown:salamencite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aegislash",
+      "level": 95,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "stancechange",
+      "moveset": [
+        "kingsshield",
+        "shadowball",
+        "flashcannon",
+        "sacredsword"
+      ],
+      "heldItem": "mega_showdown:ghostium_z ghost_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "victini",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "victorystar",
+      "moveset": [
+        "vcreate",
+        "boltstrike",
+        "glaciate",
+        "zenheadbutt"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "keldeo",
+      "level": 94,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "sharpness",
+      "moveset": [
+        "hydropump",
+        "sacredsword",
+        "icywind",
+        "protect"
+      ],
+      "heldItem": "water_gem",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

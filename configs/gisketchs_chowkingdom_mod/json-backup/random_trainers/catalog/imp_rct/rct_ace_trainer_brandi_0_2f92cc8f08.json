@@ -1,0 +1,72 @@
+{
+  "id": "rct_ace_trainer_brandi_0411",
+  "name": "Ace Trainer Brandi",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "nuzzle",
+        "swift",
+        "superfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:azumarill",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "playrough",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:blissey",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "disarmingvoice",
+        "lifedew",
+        "lightscreen",
+        "lastresort"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

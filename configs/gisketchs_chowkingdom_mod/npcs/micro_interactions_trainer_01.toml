@@ -5,6 +5,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "I've studied your team composition."
 response = "Knowledge alone doesn't win battles."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -16,6 +18,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "Are you ready for my gym test?"
 response = "Yes, I have counters for each type."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -27,6 +31,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "I picked the wrong starter."
 response = "No regrets. Make it work."
+source_emote = "facepalm"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -38,6 +44,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Your champion match is tomorrow."
 response = "I sharpened my team's movesets."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -49,6 +57,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["pokemon_trainer"]
 line = "Which lead do you open with?"
 response = "A fast physical sweeper, you?"
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -60,6 +70,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "I set up entry hazards."
 response = "Time to bring a spinner."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -71,6 +83,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "Your badge is mine tomorrow."
 response = "Bold words for a rookie."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -82,6 +96,8 @@ source_tags = ["professor"]
 target_tags = ["pokemon_trainer"]
 line = "Did you stock healing items?"
 response = "Full restore and revives."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -93,6 +109,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "You lack type coverage."
 response = "I teach coverage moves tonight."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -104,6 +122,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "I saw your battle simulations."
 response = "They revealed holes in my team."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -115,6 +135,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["pokemon_trainer"]
 line = "What terrain do you prefer?"
 response = "Electric terrain boosts my Regieleki."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -126,6 +148,8 @@ source_tags = ["gym_leader"]
 target_tags = ["elite_four"]
 line = "I rotate my gym team weekly."
 response = "That keeps challengers guessing."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -137,6 +161,8 @@ source_tags = ["rival"]
 target_tags = ["champion"]
 line = "One win and I surpass you."
 response = "Come with a full team."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -148,6 +174,8 @@ source_tags = ["professor"]
 target_tags = ["gym_leader"]
 line = "These new trainers are sharp."
 response = "I adjust my team each season."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -159,6 +187,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["elite_four"]
 line = "I memorized your battle patterns."
 response = "I change them for you."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -170,6 +200,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "Your confidence is admirable."
 response = "It carries me through tough fights."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -181,6 +213,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "I have a sticky Web lead."
 response = "I packed Defog on my Corviknight."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -192,6 +226,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "Your items look standard."
 response = "I carry a focus Sash on two."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -203,6 +239,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "Should I EV train for speed?"
 response = "Speed ties decide many matches."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -214,6 +252,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "I practiced switch predictions."
 response = "That is the key to winning."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -222,13 +262,13 @@ weight = 1.0
 id = "trainer_01_0021"
 topic = "match_prep"
 source_tags = ["gym_leader"]
+required_spawned_ids = ["link"]
 target_tags = ["rival"]
 line = "You use a Cinccino lead?"
 response = "Yes, Skill Link breaks Focus Sash."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
-
-
 [[trainer_exchanges]]
 id = "trainer_01_0022"
 topic = "match_prep"
@@ -236,6 +276,8 @@ source_tags = ["professor"]
 target_tags = ["elite_four"]
 line = "Weather teams are popular again."
 response = "I run a sand core."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -247,6 +289,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Your roster lacks a Steel type."
 response = "I swap Excadrill for Ferrothorn."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -258,6 +302,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "I brought a Ghost type counter."
 response = "My Normal type will handle it."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -269,6 +315,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "You rely on one sweeper."
 response = "I have a backup setup sweeper."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -280,6 +328,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["professor"]
 line = "I changed my Tera type."
 response = "To which? That changes everything."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -291,6 +341,8 @@ source_tags = ["gym_leader"]
 target_tags = ["professor"]
 line = "The league updates move pools."
 response = "My Swampert learns Flip Turn now."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -302,6 +354,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "Fire beats Grass but loses to Rock."
 response = "And Ground beats Rock. Know your chain."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -313,6 +367,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "Ghost is immune to Fighting."
 response = "Normal is immune to Ghost too."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -324,6 +380,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "Dark resists Ghost now?"
 response = "Yes. Dark took two resistances."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -335,6 +393,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Fairy Dragon is a strong core."
 response = "Steel Fairy walls most of it."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -346,6 +406,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["pokemon_trainer"]
 line = "Ice beats Dragon and Flying."
 response = "Ice is weak to Rock and Fire."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -357,6 +419,8 @@ source_tags = ["gym_leader"]
 target_tags = ["rival"]
 line = "Bug resists Fighting and Ground."
 response = "But Bug is weak to Fire and Rock."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -368,6 +432,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Electric tera removes weaknesses."
 response = "Water tera adds only a Grass weakness."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -379,6 +445,8 @@ source_tags = ["professor"]
 target_tags = ["gym_leader"]
 line = "Steel resists eleven types."
 response = "It is the best defensive type."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -390,6 +458,8 @@ source_tags = ["rival"]
 target_tags = ["elite_four"]
 line = "Fighting hits five types super effectively."
 response = "But fails against Ghost."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -401,6 +471,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "Poison beats Fairy now."
 response = "That changed the meta heavily."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -412,6 +484,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "Water resists Fire and Ice."
 response = "But Water is weak to Electric."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -423,6 +497,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "Psychic fails against Dark."
 response = "I bring a Dark type in reserve."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -434,6 +510,8 @@ source_tags = ["champion"]
 target_tags = ["professor"]
 line = "Ground is immune to Electric."
 response = "But Ground loses to Grass and Ice."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -445,6 +523,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["pokemon_trainer"]
 line = "Flying is immune to Ground."
 response = "But Rock hits Flying super effectively."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -456,6 +536,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "Steel resists Dragon too."
 response = "Yes. Dragon is no longer special."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -467,6 +549,8 @@ source_tags = ["gym_leader"]
 target_tags = ["elite_four"]
 line = "Normal resists nothing but Ghost."
 response = "Skill gets you more than typing."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -478,6 +562,8 @@ source_tags = ["professor"]
 target_tags = ["pokemon_trainer"]
 line = "Grass resists Water and Electric."
 response = "Grass has too many weaknesses though."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -489,6 +575,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "Dark Ghost has no weakness."
 response = "Except Fairy. Always carry one."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -500,6 +588,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "Fire resists Bug and Steel."
 response = "Fire is weak to Water and Rock."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -511,6 +601,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "Ice resists only itself."
 response = "That is why Ice types are frail."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -522,6 +614,8 @@ source_tags = ["gym_leader"]
 target_tags = ["champion"]
 line = "Fairy resists Fighting and Bug."
 response = "Fairy also resists Dark."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -533,6 +627,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "Rock resists Normal and Flying."
 response = "Rock is weak to Water and Grass."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -544,6 +640,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "Fighting is weak to Flying."
 response = "Surprise Flying Press hurts Fighting."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -555,6 +653,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Electric resists Flying and Steel."
 response = "But Electric is weak to Ground."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -566,6 +666,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "Water resists Fire and Ice."
 response = "And Water is immune to Water itself."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -577,6 +679,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "Bug resists Fighting and Ground."
 response = "But Bug is weak to Flying and Rock."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -588,6 +692,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "You hold the speedrun record."
 response = "I beat the league in nineteen minutes."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -599,6 +705,8 @@ source_tags = ["gym_leader"]
 target_tags = ["elite_four"]
 line = "Who has most gym badges ever?"
 response = "A trainer in Kanto has twenty."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -610,6 +718,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "What is the longest win streak?"
 response = "Over 300 in a single region."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -621,6 +731,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "I was undefeated for two years."
 response = "Until a rookie beat me last month."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -632,6 +744,8 @@ source_tags = ["champion"]
 target_tags = ["gym_leader"]
 line = "The youngest champion was twelve."
 response = "She used a single Lilligant."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -643,6 +757,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["pokemon_trainer"]
 line = "Most badges collected in one day?"
 response = "Seven badges. I was exhausted."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -654,6 +770,8 @@ source_tags = ["professor"]
 target_tags = ["rival"]
 line = "The oldest champion is forty."
 response = "He started his journey at ten."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -665,6 +783,8 @@ source_tags = ["gym_leader"]
 target_tags = ["champion"]
 line = "Who holds the KO record?"
 response = "A fighting type specialist at 5000."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -676,6 +796,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Regional leagues track win rates."
 response = "Mine is ninety-seven percent."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -687,6 +809,8 @@ source_tags = ["rival"]
 target_tags = ["pokemon_trainer"]
 line = "Your record is fifty wins?"
 response = "Undefeated in official matches."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -698,6 +822,8 @@ source_tags = ["champion"]
 target_tags = ["elite_four"]
 line = "Elite four records are separate."
 response = "I have the highest E4 score."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -709,6 +835,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "What is the quickest badge earn?"
 response = "Three minutes against a Grass gym."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -720,6 +848,8 @@ source_tags = ["professor"]
 target_tags = ["champion"]
 line = "Your team has a perfect IV record."
 response = "I bred for months to get it."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -731,6 +861,8 @@ source_tags = ["gym_leader"]
 target_tags = ["rival"]
 line = "I hold a type record."
 response = "Most wins with Electric types."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -742,6 +874,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "Your streak ends at fifty?"
 response = "I will break it tonight."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -753,6 +887,8 @@ source_tags = ["rival"]
 target_tags = ["champion"]
 line = "I want your record next year."
 response = "Prove you can beat my best."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -764,6 +900,8 @@ source_tags = ["champion"]
 target_tags = ["professor"]
 line = "Who updates the league leaderboard?"
 response = "The Elite Four committee does."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -775,6 +913,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["elite_four"]
 line = "You rank third in the region."
 response = "I aim for first next season."
+source_emote = "hands_in_back"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -786,6 +926,8 @@ source_tags = ["gym_leader"]
 target_tags = ["professor"]
 line = "We keep a gym challenge log."
 response = "Trainers review logs to improve."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -797,6 +939,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "Your badge count is legendary."
 response = "I have all eight in every region."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -808,6 +952,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "Records mean nothing in a fight."
 response = "They tell me what you value."
+source_emote = "threaten"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -819,6 +965,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Most badges in one region."
 response = "Some regions have twelve gyms."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -830,6 +978,8 @@ source_tags = ["professor"]
 target_tags = ["elite_four"]
 line = "Longest battle time recorded?"
 response = "Three hours in a mud stall."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -841,6 +991,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "You broke my streak last week."
 response = "That was my best match ever."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -852,6 +1004,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "The league keeps a hall of fame."
 response = "Your name is already on it."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -863,6 +1017,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "My record against water is flawless."
 response = "Water is my specialty too."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -874,6 +1030,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "You always use the same lead."
 response = "It sets the tone for battle."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -885,6 +1043,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "I rotate puzzles every month."
 response = "Keeps challengers on their toes."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -896,6 +1056,8 @@ source_tags = ["rival"]
 target_tags = ["champion"]
 line = "Gym leaders have signature moves."
 response = "Mine is a well-timed Protect."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -907,6 +1069,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Some gyms use Double Battles."
 response = "It changes the whole strategy."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -918,6 +1082,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "The gym leader taunts a lot."
 response = "It is psychological pressure."
+source_emote = "hands_in_back"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -929,6 +1095,8 @@ source_tags = ["champion"]
 target_tags = ["gym_leader"]
 line = "You use items during battle."
 response = "I heal only when necessary."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -940,6 +1108,8 @@ source_tags = ["professor"]
 target_tags = ["elite_four"]
 line = "Gym leaders often have a theme."
 response = "Mine is weather manipulation."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -951,6 +1121,8 @@ source_tags = ["gym_leader"]
 target_tags = ["rival"]
 line = "I always let trainers heal first."
 response = "That is honorable of you."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -962,6 +1134,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "Gym leaders use consistent teams."
 response = "But they have hidden aces too."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -973,6 +1147,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "I mimic gym leader strategies."
 response = "Learn from them but innovate."
+source_emote = "hands_in_back"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -984,6 +1160,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "Gym leaders always accept rematches."
 response = "After you collect seven badges."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -995,6 +1173,8 @@ source_tags = ["gym_leader"]
 target_tags = ["elite_four"]
 line = "I wear my badge as a necklace."
 response = "Each badge tells a story."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1006,6 +1186,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Gym leaders study challengers beforehand."
 response = "I look at their gym records."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1017,6 +1199,8 @@ source_tags = ["professor"]
 target_tags = ["rival"]
 line = "Some gyms have type specialists."
 response = "I prefer balanced gym rosters."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1028,6 +1212,8 @@ source_tags = ["elite_four"]
 target_tags = ["gym_leader"]
 line = "You ban certain items in gym."
 response = "No items except held ones."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1039,6 +1225,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "Your gym has a sand theme."
 response = "I train in the desert mostly."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1050,6 +1238,8 @@ source_tags = ["rival"]
 target_tags = ["elite_four"]
 line = "Gym leaders have gym trainers."
 response = "They soften challengers before me."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1061,6 +1251,8 @@ source_tags = ["champion"]
 target_tags = ["professor"]
 line = "I designed my gym layout."
 response = "It favors my team's movement."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1072,6 +1264,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "I hand out TM rewards."
 response = "Which TM did you give me?"
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1083,6 +1277,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "Gym leaders keep a strict schedule."
 response = "That builds discipline in trainers."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -1094,6 +1290,8 @@ source_tags = ["professor"]
 target_tags = ["champion"]
 line = "Some gyms have no puzzles."
 response = "Pure battle gyms are rare."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1105,6 +1303,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["elite_four"]
 line = "Gym leaders use full restores."
 response = "Only once per battle though."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1116,6 +1316,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "Your gym is always cold."
 response = "Ice types require low temperatures."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1127,6 +1329,8 @@ source_tags = ["champion"]
 target_tags = ["gym_leader"]
 line = "You close gym during league tournaments."
 response = "I support the event as a judge."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1138,6 +1342,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "Your gym uniform is intimidating."
 response = "It shows my rank and status."
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -1149,6 +1355,8 @@ source_tags = ["professor"]
 target_tags = ["rival"]
 line = "Some gyms change leaders yearly."
 response = "I would miss my gym too much."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1160,6 +1368,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "Our rivalry pushes us forward."
 response = "That is why I train hard."
+source_emote = "threaten"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1171,6 +1381,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Rivalries create the best trainers."
 response = "I have had the same rival for years."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1182,6 +1394,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "Your rival beat you last time."
 response = "I will even the score today."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1193,6 +1407,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "How do I surpass my rival?"
 response = "Study their battle style deeply."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1204,6 +1420,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "My rival uses a stall team."
 response = "Then pack a bulk-up sweeper."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1215,6 +1433,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "You change teams every fight."
 response = "Keeps my rival guessing always."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1226,6 +1446,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Rival battles are high pressure."
 response = "That is why they improve us."
+source_emote = "threaten"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1237,6 +1459,8 @@ source_tags = ["professor"]
 target_tags = ["gym_leader"]
 line = "Rivalries can become friendships."
 response = "Only after the final battle."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1248,6 +1472,8 @@ source_tags = ["rival"]
 target_tags = ["elite_four"]
 line = "I picked the starter you hate."
 response = "That makes our rivalry personal."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1259,6 +1485,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "You are my final rival."
 response = "Then give me your best fight."
+source_emote = "threaten"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -1270,6 +1498,8 @@ source_tags = ["gym_leader"]
 target_tags = ["rival"]
 line = "You two share a type advantage."
 response = "We counter each other perfectly."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1281,6 +1511,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "He always leads with his ace."
 response = "I save my ace for last."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1292,6 +1524,8 @@ source_tags = ["champion"]
 target_tags = ["professor"]
 line = "A true rival respects your growth."
 response = "He congratulated me after my win."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1303,6 +1537,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "I stole his TM last week."
 response = "That is dirty but effective."
+source_emote = "threaten"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1314,6 +1550,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "Our battle record is tied."
 response = "Today decides the tiebreaker."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1325,6 +1563,8 @@ source_tags = ["professor"]
 target_tags = ["elite_four"]
 line = "Rivalries encourage type experimentation."
 response = "He taught me to use Trick Room."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1336,6 +1576,8 @@ source_tags = ["gym_leader"]
 target_tags = ["champion"]
 line = "Your rival beat you twice."
 response = "I learned more from those losses."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1347,6 +1589,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "You fight your rival before me."
 response = "Yes. It warms me up."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1358,6 +1602,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Rival battles test your adaptability."
 response = "I adapt on the fly now."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1369,6 +1615,8 @@ source_tags = ["rival"]
 target_tags = ["professor"]
 line = "He copied my team comp."
 response = "Imitation is the best flattery."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1380,6 +1628,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "My rival uses legendaries."
 response = "Then you must use strategy."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1391,6 +1641,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Rivalry can be toxic or constructive."
 response = "Ours made us both champions."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1402,6 +1654,8 @@ source_tags = ["professor"]
 target_tags = ["rival"]
 line = "You two started together."
 response = "Yes. He got the better nature."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1413,6 +1667,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "I see rivalry as training fuel."
 response = "It pushes me past my limits."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1424,6 +1680,8 @@ source_tags = ["champion"]
 target_tags = ["elite_four"]
 line = "The best rivals complement each other."
 response = "We cover each other's weaknesses."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1435,6 +1693,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["professor"]
 line = "My team is exhausted from battle."
 response = "Rest them at a Pokemon Center."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1446,6 +1706,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "You should heal before facing me."
 response = "I already used a Full Restore."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1457,6 +1719,8 @@ source_tags = ["rival"]
 target_tags = ["champion"]
 line = "I faint half my team daily."
 response = "Revives are cheap. Use them."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1468,6 +1732,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Which recovery item is best?"
 response = "Sitrus Berry for battle. Leftovers for sustain."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1479,6 +1745,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "You rely on potions too much."
 response = "I prefer held items for recovery."
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1490,6 +1758,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "After a loss I rest my team."
 response = "A day off works wonders."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1501,6 +1771,8 @@ source_tags = ["rival"]
 target_tags = ["pokemon_trainer"]
 line = "I always carry Leppa Berries."
 response = "For PP recovery. Smart move."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1512,6 +1784,8 @@ source_tags = ["gym_leader"]
 target_tags = ["champion"]
 line = "Your team looks fully healed."
 response = "I used a Full Heal before coming."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1523,6 +1797,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "How do you recover status conditions?"
 response = "Lum Berry cures everything at once."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1534,6 +1810,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "I need to restore my PP."
 response = "Ether and Elixir are your friends."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1545,6 +1823,8 @@ source_tags = ["professor"]
 target_tags = ["gym_leader"]
 line = "Pokemon Centers are everywhere now."
 response = "But I still carry potions for routes."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1556,6 +1836,8 @@ source_tags = ["rival"]
 target_tags = ["elite_four"]
 line = "Your Garchomp is always healthy."
 response = "I give it a Sitrus Berry."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1567,6 +1849,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "You faint often in training."
 response = "That is how I learn."
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1578,6 +1862,8 @@ source_tags = ["gym_leader"]
 target_tags = ["professor"]
 line = "Healing items are banned in serious matches."
 response = "I rely on my mons' natural endurance."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1589,6 +1875,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Resting between battles is crucial."
 response = "I take a five minute break."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1600,6 +1888,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "I always heal before a big match."
 response = "Smart. A full team is half the win."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1611,6 +1901,8 @@ source_tags = ["champion"]
 target_tags = ["gym_leader"]
 line = "Do you use healing moves in battle?"
 response = "Recover and Roost are staples."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1622,6 +1914,8 @@ source_tags = ["professor"]
 target_tags = ["pokemon_trainer"]
 line = "Berry trees are good for recovery."
 response = "I grow Sitrus and Leppa Berries."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1633,6 +1927,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "You faint three times a session."
 response = "I learn from each faint."
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1644,6 +1940,8 @@ source_tags = ["gym_leader"]
 target_tags = ["elite_four"]
 line = "After a tough loss, rest your mind."
 response = "I analyze the battle first."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1655,6 +1953,8 @@ source_tags = ["rival"]
 target_tags = ["champion"]
 line = "Your Quick Claw healed your mon?"
 response = "No, it activated and gave priority."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1666,6 +1966,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["professor"]
 line = "How to recover after a losing streak?"
 response = "Switch to casual battles for fun."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1677,6 +1979,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "Your team is completely paralyzed."
 response = "I use Full Heal immediately."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1688,6 +1992,8 @@ source_tags = ["elite_four"]
 target_tags = ["pokemon_trainer"]
 line = "You faint because you overextend."
 response = "Recovery teaches patience."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1699,6 +2005,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "I clean switch to counter your mon."
 response = "You predicted my attack perfectly."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -1710,6 +2018,8 @@ source_tags = ["rival"]
 target_tags = ["champion"]
 line = "I bait switches with fake moves."
 response = "Predict the bait correctly and win."
+source_emote = "facepalm"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1721,6 +2031,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Clean switches rely on scouting."
 response = "Use Protect to scout moves."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1732,6 +2044,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "You switched into a predicted move."
 response = "Now my counter is in play."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1743,6 +2057,8 @@ source_tags = ["professor"]
 target_tags = ["gym_leader"]
 line = "Volt Switch and U-turn are clean."
 response = "They pivot while dealing damage."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1754,6 +2070,8 @@ source_tags = ["rival"]
 target_tags = ["pokemon_trainer"]
 line = "You switched to a Ghost type."
 response = "To absorb Normal and Fighting moves."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1765,6 +2083,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "I double switched into a Blissey."
 response = "That walls special attackers completely."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1776,6 +2096,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Teleport is a clean switch move."
 response = "It takes you to the back safely."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1787,6 +2109,8 @@ source_tags = ["rival"]
 target_tags = ["gym_leader"]
 line = "I switched into a resist."
 response = "Now I resist the super effective hit."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1798,6 +2122,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["champion"]
 line = "Clean switches win more games than raw power."
 response = "That is a mark of a skilled trainer."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1809,6 +2135,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Batton Pass is a clean switch chain."
 response = "It passes boosts to a sweeper."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1820,6 +2148,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "You switched on a free turn."
 response = "Because you used a status move."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1831,6 +2161,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["elite_four"]
 line = "Clean switches work with hazard removal."
 response = "Rapid Spin then switch to a wall."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1842,6 +2174,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "I earned my eighth badge today."
 response = "You are ready for the league."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1853,6 +2187,8 @@ source_tags = ["gym_leader"]
 target_tags = ["pokemon_trainer"]
 line = "Badges represent hard-earned victories."
 response = "This one is my favorite design."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1864,6 +2200,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Badges boost obedience levels."
 response = "Higher badges mean stronger Pokemon."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1875,6 +2213,8 @@ source_tags = ["champion"]
 target_tags = ["rival"]
 line = "Your badge case is full."
 response = "I collected them in order."
+source_emote = "proud"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -1886,6 +2226,8 @@ source_tags = ["professor"]
 target_tags = ["gym_leader"]
 line = "Some badges can be traded."
 response = "But earning them is more honorable."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1897,6 +2239,8 @@ source_tags = ["rival"]
 target_tags = ["pokemon_trainer"]
 line = "Your badges are oxidized."
 response = "I polish them every week."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1908,6 +2252,8 @@ source_tags = ["elite_four"]
 target_tags = ["rival"]
 line = "Each badge has a unique shape."
 response = "My Water badge looks like a wave."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1919,6 +2265,8 @@ source_tags = ["champion"]
 target_tags = ["pokemon_trainer"]
 line = "Badges are proof of growth."
 response = "I remember each gym battle."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1930,6 +2278,8 @@ target_tags = ["pokemon_trainer"]
 source_tags = ["rival"]
 line = "Your badges are fake?"
 response = "No, I earned every single one."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1941,6 +2291,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["gym_leader"]
 line = "I lost my badge to a thief."
 response = "The league reissues lost badges."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1952,6 +2304,8 @@ source_tags = ["elite_four"]
 target_tags = ["champion"]
 line = "Badge cases are a status symbol."
 response = "They show your journey visually."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1963,6 +2317,8 @@ source_tags = ["rival"]
 target_tags = ["elite_four"]
 line = "I need one more badge."
 response = "The Psychic gym is next."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1974,6 +2330,8 @@ source_tags = ["professor"]
 target_tags = ["rival"]
 line = "You wear your badges on a belt."
 response = "It intimidates other trainers."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1985,6 +2343,8 @@ source_tags = ["gym_leader"]
 target_tags = ["elite_four"]
 line = "I engrave each badge with a date."
 response = "To remember every victory."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1996,6 +2356,8 @@ source_tags = ["elite_four"]
 target_tags = ["professor"]
 line = "Badges from different regions vary."
 response = "The color palette is always unique."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2007,6 +2369,8 @@ source_tags = ["pokemon_trainer"]
 target_tags = ["rival"]
 line = "I dropped my badge in a lake."
 response = "Divers helped me retrieve it."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 

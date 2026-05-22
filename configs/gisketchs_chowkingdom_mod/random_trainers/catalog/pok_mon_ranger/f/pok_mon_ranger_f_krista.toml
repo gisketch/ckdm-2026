@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_ranger_f_krista"
+name = "Pok Mon Ranger Krista"
+title = "Pok Mon Ranger"
+gender = "female"
+archetype = "pok_mon_ranger"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_ranger/female"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.14
+bustStyle = "standard"
+minLevel = 54
+maxLevel = 56
+team = [
+  { species = "cobblemon:trapinch", level = 54, gender = "FEMALE", nature = "hardy", ability = "hypercutter", moveset = ["crunch", "sandtomb", "dig", "sandstorm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vibrava", level = 56, gender = "MALE", nature = "impish", ability = "levitate", moveset = ["supersonic", "bugbuzz", "earthpower", "dragonbreath"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

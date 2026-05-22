@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "winstrate_x_vicky"
+name = "Winstrate Vicky"
+title = "Winstrate"
+gender = "any"
+archetype = "winstrate"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "winstrate/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:meditite", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hijumpkick", "meditate", "confusion", "detect"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Winstrate Vicky is ready for a battle."]

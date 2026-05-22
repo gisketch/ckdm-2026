@@ -1,0 +1,49 @@
+{
+  "id": "rct_police_officer_danny_053c",
+  "name": "Police Officer Danny",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "psychoshift",
+        "airslash",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "lowsweep",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

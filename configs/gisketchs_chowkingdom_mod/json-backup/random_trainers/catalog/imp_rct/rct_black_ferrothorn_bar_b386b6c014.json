@@ -1,0 +1,95 @@
+{
+  "id": "rct_black_ferrothorn_barbs_05e8",
+  "name": "Black Ferrothorn Barbs",
+  "title": "Black Ferrothorn",
+  "gender": "any",
+  "archetype": "black_ferrothorn",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_ferrothorn/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "superluck",
+      "moveset": [
+        "darkpulse",
+        "aircutter",
+        "heatwave",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heracross",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "pinmissile",
+        "brickbreak",
+        "rockblast",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "mega_showdown:heracronite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "poisontouch",
+      "moveset": [
+        "gunkshot",
+        "crunch",
+        "icepunch",
+        "minimize"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "ironbarbs",
+      "moveset": [
+        "powerwhip",
+        "gyroball",
+        "leechseed",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

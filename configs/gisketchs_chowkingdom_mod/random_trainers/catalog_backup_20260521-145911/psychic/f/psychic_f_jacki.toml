@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_jacki"
+name = "Psychic Jacki"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = "standard"
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:lunatone", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Jacki is ready for a battle."]

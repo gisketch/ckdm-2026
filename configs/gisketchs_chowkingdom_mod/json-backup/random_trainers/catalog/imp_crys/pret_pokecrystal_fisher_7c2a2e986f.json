@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokecrystal_fisher_011_edgar",
+  "name": "Fisher Edgar",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "fisher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:remoraid",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lockon",
+        "psybeam",
+        "aurorabeam",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:remoraid",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lockon",
+        "psybeam",
+        "aurorabeam",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Fisher Edgar is ready for a battle."
+  ]
+}

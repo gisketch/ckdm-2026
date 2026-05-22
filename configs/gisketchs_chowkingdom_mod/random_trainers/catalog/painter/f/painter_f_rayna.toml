@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "painter_f_rayna"
+name = "Painter Rayna"
+title = "Painter"
+gender = "female"
+archetype = "painter"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "painter/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = "standard"
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:smeargle", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["crosschop", "megahorn", "doubleedge", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Painter Rayna is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

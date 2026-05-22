@@ -1,0 +1,39 @@
+{
+  "id": "rct_hiker_allen_00be",
+  "name": "Hiker Allen",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:golett",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "bashful",
+      "ability": "klutz",
+      "moveset": [
+        "magnitude",
+        "shadowpunch",
+        "magnitude"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

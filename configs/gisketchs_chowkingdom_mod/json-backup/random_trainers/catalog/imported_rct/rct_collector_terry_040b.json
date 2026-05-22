@@ -1,0 +1,65 @@
+{
+  "id": "rct_collector_terry_040b",
+  "name": "Collector Terry",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "gastly",
+      "level": 12,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "confuseray",
+        "meanlook",
+        "payback"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastly",
+      "level": 13,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "confuseray",
+        "meanlook",
+        "payback"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastly",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "confuseray",
+        "payback",
+        "spite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_camper_diego_0407",
+  "name": "Camper Diego",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:cascoon",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "shedskin",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dustox",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "shielddust",
+      "moveset": [
+        "gust",
+        "confusion",
+        "poisonpowder",
+        "moonlight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_police_officer_alex_0330",
+  "name": "Police Officer Alex",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "confusion",
+        "reflect",
+        "psychoshift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "revenge",
+        "lowsweep",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

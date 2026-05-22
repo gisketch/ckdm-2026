@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_lucas_veilstone_city_turtwig",
+  "name": "Dp Player Male Lucas",
+  "title": "Dp Player Male",
+  "gender": "male",
+  "archetype": "dp_player_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dp_player_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "metronome",
+        "gravity",
+        "wakeupslap",
+        "sing"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psybeam",
+        "psychocut",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:prinplup",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubblebeam",
+        "metalclaw",
+        "peck",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Dp Player Male Lucas is ready for a battle."
+  ]
+}

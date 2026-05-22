@@ -1,0 +1,65 @@
+{
+  "id": "rct_gym_leader_wake_03d7",
+  "name": "Gym Leader Wake",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "brine",
+        "icefang",
+        "crunch",
+        "flail"
+      ],
+      "heldItem": "wide_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "quagsire",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "damp",
+      "moveset": [
+        "raindance",
+        "haze",
+        "mudshot",
+        "scald"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "floatzel",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "brine",
+        "icefang",
+        "bite",
+        "aquajet"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

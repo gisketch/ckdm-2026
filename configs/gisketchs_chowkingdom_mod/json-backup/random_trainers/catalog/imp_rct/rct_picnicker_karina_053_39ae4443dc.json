@@ -1,0 +1,40 @@
+{
+  "id": "rct_picnicker_karina_0538",
+  "name": "Picnicker Karina",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:empoleon",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "aquajet",
+        "brine",
+        "drillpeck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

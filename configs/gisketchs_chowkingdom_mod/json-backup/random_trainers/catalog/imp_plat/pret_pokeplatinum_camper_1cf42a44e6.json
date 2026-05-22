@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_camper_anthony",
+  "name": "Camper Anthony",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:chimchar",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Go for it, my Pok\u00e9mon! I\u2019ll do my best, too!",
+    "Dig for Fossils in the Underground. The mining museum might be able to bring back the ancient Pok\u00e9mon!"
+  ]
+}

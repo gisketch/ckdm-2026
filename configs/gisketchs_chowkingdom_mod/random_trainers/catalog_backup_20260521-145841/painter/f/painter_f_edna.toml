@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "painter_f_edna"
+name = "Painter Edna"
+title = "Painter"
+gender = "female"
+archetype = "painter"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "painter/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = "standard"
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:smeargle", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["fakeout", "extremespeed", "protect", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Painter Edna is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

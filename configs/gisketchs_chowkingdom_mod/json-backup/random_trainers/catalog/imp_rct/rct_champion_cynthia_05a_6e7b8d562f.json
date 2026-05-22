@@ -1,0 +1,132 @@
+{
+  "id": "rct_champion_cynthia_05a2",
+  "name": "Cynthia",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 74,
+  "maxLevel": 78,
+  "team": [
+    {
+      "species": "cobblemon:spiritomb",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "shadowball",
+        "darkpulse",
+        "willowisp",
+        "suckerpunch"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roserade",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "dazzlinggleam",
+        "shadowball",
+        "sludgebomb",
+        "energyball"
+      ],
+      "heldItem": [
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:togekiss",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "airslash",
+        "dazzlinggleam",
+        "aurasphere",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lucario",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "aurasphere",
+        "dragonpulse",
+        "flashcannon",
+        "psychic"
+      ],
+      "heldItem": [
+        "wise_glasses"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:milotic",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "marvelscale",
+      "moveset": [
+        "recover",
+        "mirrorcoat",
+        "icebeam",
+        "scald"
+      ],
+      "heldItem": [
+        "flame_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:garchomp",
+      "level": 78,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "roughskin",
+      "moveset": [
+        "dragonclaw",
+        "earthquake",
+        "swordsdance",
+        "poisonjab"
+      ],
+      "heldItem": [
+        "yache_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_cheyenne"
+name = "Picnicker Cheyenne"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeheartgold;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:drifloon", level = 28, gender = "FEMALE", nature = "calm", ability = "aftermath", moveset = ["gust", "stockpile", "swallow", "spitup"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:misdreavus", level = 28, gender = "MALE", nature = "modest", ability = "levitate", moveset = ["confuseray", "meanlook", "hex", "psybeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["When I was a kid, I only played inside the house. Now I love playing outside with Pokémon!", "If I’m with Pokémon, I don’t mind losing so much!", "I’m not afraid of picnicking anywhere, so I’ve learned all sorts of things.", "I’ve learned that Pokémon are fun ’cause everyone plays with ’em!", "I have trained this team for the road. Challenge me if you are ready."]

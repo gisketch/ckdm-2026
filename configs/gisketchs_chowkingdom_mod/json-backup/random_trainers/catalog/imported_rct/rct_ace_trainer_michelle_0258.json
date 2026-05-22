@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_michelle_0258",
+  "name": "Ace Trainer Michelle",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "persian",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "limber",
+      "moveset": [
+        "slash",
+        "screech",
+        "feintattack",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dewgong",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "thickfat",
+      "moveset": [
+        "icebeam",
+        "takedown",
+        "icywind",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ninetales",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "confuseray",
+        "willowisp",
+        "grudge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "reckless",
+      "moveset": [
+        "bounce",
+        "agility",
+        "firespin",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "girafarig",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "sapsipper",
+      "moveset": [
+        "crunch",
+        "psybeam",
+        "stomp",
+        "odorsleuth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

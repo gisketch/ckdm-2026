@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_tori"
+name = "Picnicker Tori"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "low"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:silcoon", level = 15, gender = "FEMALE", nature = "jolly", ability = "shedskin", moveset = ["tackle", "stringshot", "poisonsting", "harden"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 15, gender = "FEMALE", nature = "timid", ability = "swarm", moveset = ["stringshot", "gust", "absorb", "stunspore"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Where am I? Am I lost? Who are you? Are you a Pokémon Trainer?", "I just wanted to have a picnic under the Cycling Road. I didn’t think I would get lost in a place like this...", "I have trained this team for the road. Challenge me if you are ready."]

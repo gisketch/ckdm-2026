@@ -1,0 +1,65 @@
+{
+  "id": "rct_tuber_amira_02bd",
+  "name": "Tuber Amira",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "damp",
+      "moveset": [
+        "bubblebeam",
+        "mudshot",
+        "bellydrum",
+        "wakeupslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "poliwhirl",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "damp",
+      "moveset": [
+        "bubblebeam",
+        "mudshot",
+        "bellydrum",
+        "wakeupslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "poliwhirl",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "damp",
+      "moveset": [
+        "bubblebeam",
+        "mudshot",
+        "bellydrum",
+        "wakeupslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

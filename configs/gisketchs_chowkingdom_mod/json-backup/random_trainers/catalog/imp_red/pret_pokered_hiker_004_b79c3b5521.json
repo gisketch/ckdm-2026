@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_hiker_004",
+  "name": "Hiker Leon",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Kanto",
+  "category": "specialist",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker from Route 25 is ready for a battle."
+  ]
+}

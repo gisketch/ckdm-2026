@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_lenny"
+name = "Hiker Lenny"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 31
+maxLevel = 32
+team = [
+  { species = "cobblemon:anorith", level = 32, gender = "FEMALE", nature = "relaxed", ability = "battlearmor", moveset = ["metalclaw", "ancientpower", "bugbite", "brine"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lileep", level = 31, gender = "FEMALE", nature = "hasty", ability = "suctioncups", moveset = ["ancientpower", "brine", "gigadrain", "gastroacid"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cranidos", level = 31, gender = "FEMALE", nature = "rash", ability = "moldbreaker", moveset = ["takedown", "scaryface", "assurance", "chipaway"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shieldon", level = 32, gender = "FEMALE", nature = "jolly", ability = "sturdy", moveset = ["takedown", "irondefense", "swagger", "ancientpower"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Lenny is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

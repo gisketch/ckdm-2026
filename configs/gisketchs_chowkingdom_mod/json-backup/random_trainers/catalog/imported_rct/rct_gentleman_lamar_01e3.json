@@ -1,0 +1,49 @@
+{
+  "id": "rct_gentleman_lamar_01e3",
+  "name": "Gentleman Lamar",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "ponyta",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "lowkick",
+        "willowisp",
+        "flamecharge",
+        "firespin"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "herdier",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "sandrush",
+      "moveset": [
+        "takedown",
+        "workup",
+        "retaliate",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

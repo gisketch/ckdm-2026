@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokefirered_hiker_daryl",
+  "name": "Hiker Daryl",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:sudowoodo",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hiker Daryl is ready for a battle."
+  ]
+}

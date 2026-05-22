@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_x_alex"
+name = "Biker Alex"
+title = "Biker"
+gender = "any"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/any"
+tier = "high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:drapion", level = 57, gender = "FEMALE", nature = "lax", ability = "battlearmor", moveset = ["smokescreen", "wickedblow", "poisonjab", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:toxicroak", level = 57, gender = "FEMALE", nature = "docile", ability = "anticipation", moveset = ["screech", "sludgebomb", "vacuumwave", "nastyplot"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weavile", level = 57, gender = "MALE", nature = "lax", ability = "pressure", moveset = ["smokescreen", "tripleaxel", "iceshard", "nightslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Alex is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

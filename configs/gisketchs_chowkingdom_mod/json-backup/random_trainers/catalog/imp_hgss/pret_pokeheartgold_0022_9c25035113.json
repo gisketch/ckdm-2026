@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0022_lass_carrie",
+  "name": "Lass Carrie",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:snubbull",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "scaryface",
+        "charm",
+        "bite",
+        "lick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You shouldn\u2019t let your guard down just \u2019cause I don\u2019t look tough!",
+    "Who do you think are stronger-- boys or girls?"
+  ]
+}

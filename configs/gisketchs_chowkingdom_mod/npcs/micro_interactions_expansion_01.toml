@@ -5,17 +5,21 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Do you smell fresh bread from the bakery? The baker starts before dawn."
 response = "Every morning. I swear that smoke carries enchantments."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_002"
 topic = "patrol_route"
 source_tags = ["town"]
+required_spawned_ids = ["ezio", "legolas"]
 target_tags = ["town"]
 line = "The east gate patrol just left. Did you see who went?"
 response = "Looked like Ezio and Legolas. Quiet as shadows."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_003"
 topic = "sleepy_shopkeep"
@@ -23,6 +27,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Shoumai was yawning behind her counter again."
 response = "She brews that strange tea all night. I dont blame her."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -32,17 +38,21 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The skyland bridges catch the first light beautifully."
 response = "Makes the early watch almost worth waking for."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_005"
 topic = "garden_chores"
 source_tags = ["town"]
+required_spawned_ids = ["toph"]
 target_tags = ["town"]
 line = "The community garden needs watering before the sun climbs."
 response = "I saw Toph already raising moisture from the deep soil."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_006"
 topic = "cobblemon_breakfast"
@@ -50,53 +60,65 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Bubblegum feeds her research Cobblemon at sunrise."
 response = "I heard her muttering about fairy-type dietary needs."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_007"
 topic = "rooftop_tuning"
 source_tags = ["town"]
+required_spawned_ids = ["venti"]
 target_tags = ["town"]
 line = "Venti was tuning his lyre on the tavern roof at dawn."
 response = "He claims the morning breeze carries the best acoustics."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_008"
 topic = "fountain_cleaning"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara cleaned the town fountain again this morning."
 response = "She bends the water so gently not a drop spills."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_009"
 topic = "armor_polish"
 source_tags = ["town"]
+required_spawned_ids = ["finn"]
 target_tags = ["town"]
 line = "Finn was polishing his armor by the well at dawn."
 response = "Old habits. He says rust never sleeps in the mountain air."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_010"
 topic = "skyland_patrol"
 source_tags = ["town"]
+required_spawned_ids = ["aang", "elsa"]
 target_tags = ["town"]
 line = "Aang and Elsa took the high skyland patrol today."
 response = "Good pairing. Wind and frost cover the upper ridges fast."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_011"
 topic = "bounty_board"
 source_tags = ["town"]
+required_spawned_ids = ["aloy"]
 target_tags = ["town"]
 line = "Aloy checked the bounty board before breakfast."
 response = "She always grabs the earliest posting. Never takes a rest day."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_012"
 topic = "market_setup"
@@ -104,26 +126,32 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The market stalls are opening. I smell herbs from the seed shop."
 response = "If Bubblegum is selling rare berries, I need to hurry."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_013"
 topic = "library_return"
 source_tags = ["town"]
+required_spawned_ids = ["invoker"]
 target_tags = ["town"]
 line = "Invoker left a stack of tomes at the library before sunrise."
 response = "Arcane research. He never sleeps, just blinks between spells."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_014"
 topic = "vigil_end"
 source_tags = ["town"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "Marceline finally came down from the bell tower at dawn."
 response = "She keeps the night watch. Says the stars sing to her up there."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_015"
 topic = "smithy_smoke"
@@ -131,44 +159,54 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Zukos forge is already smoking. He works before the heat rises."
 response = "He says flamebending in cool air makes cleaner steel."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_016"
 topic = "trail_check"
 source_tags = ["town"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["town"]
 line = "Geralt checked the southern trail for monster tracks at dawn."
 response = "Ciri went with him. They move like a single shadow."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_017"
 topic = "archery_range"
 source_tags = ["town"]
+required_spawned_ids = ["huntress_wizard", "traxex"]
 target_tags = ["town"]
 line = "Huntress Wizard and Traxex were at the range before sunrise."
 response = "Arrow fletching and quiet rivalry. Neither one talks much."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_018"
 topic = "choir_prayer"
 source_tags = ["town"]
+required_spawned_ids = ["pope_leo", "zagreus"]
 target_tags = ["town"]
 line = "Pope Leo led morning prayers at the small chapel again."
 response = "His voice carries peace. Even Zagreus stopped to listen."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_019"
 topic = "dock_inspection"
 source_tags = ["town"]
+required_spawned_ids = ["link", "zelda"]
 target_tags = ["town"]
 line = "Link walked the skyland docks at dawn checking ropes."
 response = "Zelda joined him. They still inspect everything together."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_020"
 topic = "stray_cobblemon"
@@ -176,26 +214,32 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "A wild Snom wandered into the town square this morning."
 response = "Bubblegum nearly tripped over her notes trying to catch it."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_021"
 topic = "gate_unlock"
 source_tags = ["town"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["town"]
 line = "The Tarnished unlocked the main gate before the bell rang."
 response = "He stands guard like a statue until the first patrols return."
+source_emote = "shrug"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_022"
 topic = "wind_mill"
 source_tags = ["town"]
+required_spawned_ids = ["aang"]
 target_tags = ["town"]
 line = "Aang spun the windmill sails to grind grain this morning."
 response = "Free wind power. The bakers already lining up for flour."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_023"
 topic = "cosmetic_stock"
@@ -203,17 +247,21 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Shoumai said her new dyes arrive from the lowlands today."
 response = "Finally. My cloak has looked dull since the last rainstorm."
+source_emote = "speaking"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_024"
 topic = "frost_warning"
 source_tags = ["town"]
+required_spawned_ids = ["elsa"]
 target_tags = ["town"]
 line = "Elsa warned of frost on the upper bridges this morning."
 response = "She always knows. I saw her breath frost on the railings to test."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_025"
 topic = "seed_shop_open"
@@ -221,26 +269,32 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The explorer shop opened early. Someone needs climbing gear."
 response = "Probably a skyland expedition forming. I should ask around."
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_026"
 topic = "meditation_spot"
 source_tags = ["town"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["town"]
 line = "Gandalf was sitting silent on the eastern ledge at dawn."
 response = "He says the sunrise over the clouds sharpens old memory."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_027"
 topic = "sword_practice"
 source_tags = ["town"]
+required_spawned_ids = ["finn", "vi"]
 target_tags = ["town"]
 line = "Vi and Finn sparred with wooden swords by the fountain."
 response = "Vi won three rounds. Her stance is terrifying for a forcemaster."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_028"
 topic = "berry_stock"
@@ -248,26 +302,32 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Bubblegum restocked the Pokemon shop berry shelf at dawn."
 response = "Good. My Cobblemon refuses the field berries. Picky creature."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_029"
 topic = "tavern_leftovers"
 source_tags = ["town"]
+required_spawned_ids = ["venti"]
 target_tags = ["town"]
 line = "Venti left a half-written song on the tavern table overnight."
 response = "Something about skylands and forgotten winds. Sounded unfinished."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_030"
 topic = "monster_report"
 source_tags = ["town"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["town"]
 line = "Zagreus turned in a monster report before dawn."
 response = "He fights through the night and writes notes by candlelight. Relentless."
+source_emote = "hands_in_back"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_031"
 topic = "fabric_delivery"
@@ -275,80 +335,98 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "A skycart brought fabric rolls for Shoumai this morning."
 response = "She will have the shop bursting with new patterns by noon."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_032"
 topic = "cave_mapping"
 source_tags = ["town"]
+required_spawned_ids = ["toph"]
 target_tags = ["town"]
 line = "Toph mentioned mapping a new cave under the eastern ridge."
 response = "She feels the stone better in the morning quiet, she says."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_033"
 topic = "breakfast_stew"
 source_tags = ["town"]
+required_spawned_ids = ["geralt"]
 target_tags = ["town"]
 line = "The tavern cooked a morning stew with mushrooms from the grove."
 response = "Smells like Geralt foraged those. He knows every safe fungus by scent."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_034"
 topic = "bell_tower_check"
 source_tags = ["town"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town"]
 line = "Zelda inspected the bell tower for loose stones at dawn."
 response = "She says structures remember dragonflight. She would know."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_035"
 topic = "quiver_count"
 source_tags = ["town"]
+required_spawned_ids = ["legolas"]
 target_tags = ["town"]
 line = "Legolas counted his arrows three times before the patrol."
 response = "He says one missing shaft can mean silence when it matters."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_036"
 topic = "wisp_sighting"
 source_tags = ["town"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["town"]
 line = "Ciri saw wisps near the old ruins before first light."
 response = "She told Geralt. Now they are debating which monster leaves them."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_037"
 topic = "water_basin"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Katara filled the public water basins before the crowd woke."
 response = "Bless her. She never makes anyone wait for clean water."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_038"
 topic = "training_dummy"
 source_tags = ["town"]
+required_spawned_ids = ["ezio"]
 target_tags = ["town"]
 line = "The training yard dummy already has fresh cuts from this morning."
 response = "Probably Ezio. He practices before the sun touches the posts."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_039"
 topic = "unusual_quiet"
 source_tags = ["town"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "The town felt unusually quiet at dawn today."
 response = "Even the birds stayed low. Marceline said the sky felt heavy."
+source_emote = "shrug"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_040"
 topic = "cobblemon_notes"
@@ -356,89 +434,109 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Bubblegum left research notes on the town notice board."
 response = "Something about Cobblemon evolution and moon phases. Too complex for me."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_01_041"
 topic = "roof_repair"
 source_tags = ["town"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["town"]
 line = "The Tarnished patched the chapel roof before the morning prayer."
 response = "He does the quiet work no one asks for. A paladin indeed."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_042"
 topic = "firewood_stack"
 source_tags = ["town"]
+required_spawned_ids = ["zuko"]
 target_tags = ["town"]
 line = "Zuko stacked firewood by the forge with precise flame cuts."
 response = "Every piece is exactly the same length. He says fire respects order."
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_043"
 topic = "footprint_trail"
 source_tags = ["town"]
+required_spawned_ids = ["aloy"]
 target_tags = ["town"]
 line = "Aloy found strange footprints on the western path at dawn."
 response = "She sketched them. Now she is checking old hunter journals."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_044"
 topic = "potion_brew"
 source_tags = ["town"]
+required_spawned_ids = ["invoker"]
 target_tags = ["town"]
 line = "Invoker brewed something that glowed green at his window."
 response = "He muttered about morning dew amplifying the arcane catalyst."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_045"
 topic = "cloak_mend"
 source_tags = ["town"]
+required_spawned_ids = ["huntress_wizard", "traxex"]
 target_tags = ["town"]
 line = "Traxex sat mending her cloak fringe on the bench at sunrise."
 response = "She works in silence. Huntress Wizard sat nearby sharpening heads."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_046"
 topic = "zeldas_mapping"
 source_tags = ["town"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town"]
 line = "Zelda updated the skyland map near the town hall entrance."
 response = "She added new islands. Her knowledge of the sky is unmatched."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_047"
 topic = "shop_sign"
 source_tags = ["town"]
+required_spawned_ids = ["link"]
 target_tags = ["town"]
 line = "The Pokemon shop sign was crooked after last nights wind."
 response = "I saw Link straighten it without a word. Just nodded and walked on."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_048"
 topic = "chapel_light"
 source_tags = ["town"]
+required_spawned_ids = ["pope_leo"]
 target_tags = ["town"]
 line = "The morning light through the chapel window looked golden today."
 response = "Pope Leo says light magic lingers there from old blessings."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_049"
 topic = "restless_night"
 source_tags = ["town"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["town"]
 line = "Geralt looked like he had not slept when I saw him at dawn."
 response = "Ciri said his medallion hummed all night. Something stirred below."
+source_emote = "lookout"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_01_050"
 topic = "morning_bell"
@@ -446,4 +544,6 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The morning bell rang five minutes early today."
 response = "Someones eager. The whole town wakes to new tasks now."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0

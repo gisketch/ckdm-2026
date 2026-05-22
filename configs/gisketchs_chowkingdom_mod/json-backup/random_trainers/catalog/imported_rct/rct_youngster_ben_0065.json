@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_ben_0065",
+  "name": "Youngster Ben",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "rattata",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "quickattack",
+        "focusenergy",
+        "hyperfang",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ekans",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "shedskin",
+      "moveset": [
+        "bite",
+        "glare",
+        "poisontail",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

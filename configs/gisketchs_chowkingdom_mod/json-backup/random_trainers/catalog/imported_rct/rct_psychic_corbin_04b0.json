@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_corbin_04b0",
+  "name": "Psychic Corbin",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "shuppet",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "insomnia",
+      "moveset": [
+        "knockoff",
+        "suckerpunch",
+        "shadowsneak",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "duskull",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "curse",
+        "willowisp",
+        "payback",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

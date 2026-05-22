@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmerm_reece_00ec",
+  "name": "Swimmer\u2642 Reece",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:seaking",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "waterveil",
+      "moveset": [
+        "agility",
+        "waterfall",
+        "soak",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sharpedo",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "agility",
+        "skullbash",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "illuminate",
+      "moveset": [
+        "rapidspin",
+        "recover",
+        "psybeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

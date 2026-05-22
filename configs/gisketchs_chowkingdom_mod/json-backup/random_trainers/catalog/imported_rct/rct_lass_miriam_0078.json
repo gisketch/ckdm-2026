@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_miriam_0078",
+  "name": "Lass Miriam",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 14,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "applin",
+      "level": 14,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "ripen",
+      "moveset": [
+        "astonish",
+        "withdraw",
+        "megadrain",
+        "dragonbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "healer",
+      "moveset": [
+        "helpinghand",
+        "babydolleyes",
+        "refresh",
+        "disarmingvoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

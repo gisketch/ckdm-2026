@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_pat"
+name = "Super Nerd Pat"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 47
+maxLevel = 47
+team = [
+  { species = "cobblemon:porygon", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["chargebeam", "signalbeam", "icebeam", "solarbeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Pat is ready for a battle.", "Mufufufu... I have nothing to do with the six-pack Trainers. I waited here to beat you when you were tired out by all the battles.", "I’m sorry... I won’t cheat anymore..."]

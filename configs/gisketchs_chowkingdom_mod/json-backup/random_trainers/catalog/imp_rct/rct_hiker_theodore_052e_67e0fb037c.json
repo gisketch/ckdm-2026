@@ -1,0 +1,56 @@
+{
+  "id": "rct_hiker_theodore_052e",
+  "name": "Hiker Theodore",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "screech",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "smackdown",
+        "curse",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

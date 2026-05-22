@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "grunt_f_mina"
+name = "Grunt Mina"
+title = "Grunt"
+gender = "female"
+archetype = "grunt"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "grunt/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = "standard"
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:gloom", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gloom", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gruntf Grunt is ready for a battle."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_aubree_0375",
+  "name": "Swimmer Aubree",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:azurill",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "slam",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:azumarill",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "bounce",
+        "aquatail",
+        "playrough",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_riley"
+name = "Camper Riley"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "high"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 49
+maxLevel = 50
+team = [
+  { species = "cobblemon:pinsir", level = 49, gender = "MALE", nature = "naughty", ability = "moldbreaker", moveset = ["stormthrow", "swordsdance", "thrash", "superpower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:heracross", level = 50, gender = "MALE", nature = "hardy", ability = "guts", moveset = ["takedown", "megahorn", "closecombat", "reversal"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Riley is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

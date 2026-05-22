@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "aroma_lady_f_miah"
+name = "Aroma Lady Miah"
+title = "Aroma Lady"
+gender = "female"
+archetype = "aroma_lady"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "aroma_lady/female"
+tier = "high"
+spawnable = true
+height = 0.96
+weight = 0.86
+bustStyle = "standard"
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:bellossom", level = 50, gender = "FEMALE", nature = "sassy", ability = "chlorophyll", moveset = ["stunspore", "sunnyday", "petalblizzard", "petaldance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellossom", level = 50, gender = "FEMALE", nature = "naughty", ability = "chlorophyll", moveset = ["stunspore", "sunnyday", "petalblizzard", "petaldance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Aroma Lady Miah is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

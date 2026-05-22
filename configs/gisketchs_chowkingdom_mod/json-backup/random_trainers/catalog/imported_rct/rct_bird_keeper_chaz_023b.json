@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_chaz_023b",
+  "name": "Bird Keeper Chaz",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "spearow",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "frisk",
+      "moveset": [
+        "agility",
+        "focusenergy",
+        "roost",
+        "drillpeck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

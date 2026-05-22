@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_f_lexie"
+name = "Skier Lexie"
+title = "Skier"
+gender = "female"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "skier/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:marill", level = 35, gender = "MALE", nature = "quirky", ability = "thickfat", moveset = ["bubblebeam", "charm", "bounce", "playrough"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clefairy", level = 35, gender = "MALE", nature = "timid", ability = "cutecharm", moveset = ["charm", "moonlight", "gravity", "meteormash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve been skiing with Pokémon since I was just five years old.", "The scenery doesn’t change very much around here. Don’t go getting lost!", "I have trained this team for the road. Challenge me if you are ready."]

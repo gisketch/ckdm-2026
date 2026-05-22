@@ -1,0 +1,53 @@
+{
+  "id": "pret_pokecrystal_falkner_001_falkner",
+  "name": "Falkner Dante",
+  "title": "Falkner",
+  "gender": "any",
+  "archetype": "falkner",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "falkner/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:pidgey",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "mudslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "mudslap",
+        "gust"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Falkner Falkner is ready for a battle."
+  ]
+}

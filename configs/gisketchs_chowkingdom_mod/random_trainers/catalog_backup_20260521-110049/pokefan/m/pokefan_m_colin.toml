@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_colin"
+name = "Pokefan Colin"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:delibird", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["present", "aerialace", "avalanche"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, kid! Want to battle with me?", "You’re traveling all alone? Isn’t your mom worried?"]

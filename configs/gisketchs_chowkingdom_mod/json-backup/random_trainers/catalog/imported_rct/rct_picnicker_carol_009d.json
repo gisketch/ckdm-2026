@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_carol_009d",
+  "name": "Picnicker Carol",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "mimejr",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "solidrock",
+      "moveset": [
+        "reflect",
+        "psybeam",
+        "substitute",
+        "recycle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "technician",
+      "moveset": [
+        "mirrormove",
+        "assurance",
+        "agility",
+        "dualwingbeat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

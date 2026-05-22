@@ -17,10 +17,10 @@ wake_messages = ["I was not sleeping so deeply as you hoped.", "Speak, then. Tim
 npc_interaction_messages = ["Discussing old roads and darker powers with {other}.", "Asking {other} what rumors move through town.", "Teaching {other} that wisdom begins with listening."]
 work_blocks = [
   { id = "minecraft:enchanting_table", count = 1, display_name = "enchanting table" },
-  { id = "minecraft:bookshelf", count = 6, display_name = "bookshelves" },
   { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
+  { id = "supplementaries:book_pile", count = 1, display_name = "old book pile" },
+  { id = "supplementaries:crystal_display", count = 1, display_name = "staff crystal display" },
   { id = "minecraft:campfire", count = 1, display_name = "hearth fire" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
 ]
 
 [boss]
@@ -167,4 +167,6 @@ pool = [
   { id = "gandalf_food_mushroom_rice", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Mushroom Rice And Bring It Back", quest_text = "Prepare mushroom rice after I ask; simple meals steady long roads.", pass_id = "cozy", xp = 85, chowcoins = 60, goal = 1, fetch_item = "farmersdelight:mushroom_rice", fetch_count = 1, filters = { item = "farmersdelight:mushroom_rice" }, weight = 10 },
   { id = "gandalf_fetch_books", category = "fetch", event_desc = "Bring {goal} Books", quest_text = "Bring books before somebody mistakes guessing for wisdom.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:book", fetch_count = 3, weight = 10 },
   { id = "gandalf_quiz_wizard_lore_and_wise_timing", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Gandalf's question about wisdom, timing, and trouble.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "wizard lore and wise timing", weight = 10 },
+  { id = "gandalf_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Gandalf", quest_text = "Gandalf has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "gandalf_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Gandalf", quest_text = "Gandalf wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_f_kaitlyn"
+name = "Skier Kaitlyn"
+title = "Skier"
+gender = "female"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "skier/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 36
+maxLevel = 38
+team = [
+  { species = "cobblemon:swinub", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The fun things about winter! One, skiing! Two, Pokémon!", "If it was skiing, I wouldn’t lose. I should go ski with my Pokémon..."]

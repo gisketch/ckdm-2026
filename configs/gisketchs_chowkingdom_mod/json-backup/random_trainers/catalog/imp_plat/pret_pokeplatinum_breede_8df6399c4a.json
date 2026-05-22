@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_breeder_kahlil",
+  "name": "Breeder Male Kahlil",
+  "title": "Breeder Male",
+  "gender": "male",
+  "archetype": "breeder_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "breeder_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:elekid",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:happiny",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey, check this out! Look at the luster of my Pok\u00e9mon\u2019s fur!",
+    "The Veilstone Department Store is pretty impressive! Did you know they even sell Poffins?"
+  ]
+}

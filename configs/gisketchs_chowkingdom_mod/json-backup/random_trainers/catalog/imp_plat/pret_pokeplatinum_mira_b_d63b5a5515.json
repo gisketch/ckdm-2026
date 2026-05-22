@@ -1,0 +1,104 @@
+{
+  "id": "pret_pokeplatinum_mira_battleground",
+  "name": "Trainer Mira Mira",
+  "title": "Trainer Mira",
+  "gender": "any",
+  "archetype": "trainer_mira",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "trainer_mira/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 61,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:porygon_z",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "triattack",
+        "psychic",
+        "thunderbolt",
+        "darkpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gengar",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "shadowball",
+        "psychic",
+        "sludgebomb",
+        "energyball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnezone",
+      "level": 62,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunder",
+        "flashcannon",
+        "thunderwave",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:togekiss",
+      "level": 63,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "extremespeed",
+        "airslash",
+        "aurasphere",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "focusblast",
+        "calmmind",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Trainer Mira Mira is ready for a battle."
+  ]
+}

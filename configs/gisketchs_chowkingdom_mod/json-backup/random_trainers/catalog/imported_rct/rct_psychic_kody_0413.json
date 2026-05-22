@@ -1,0 +1,33 @@
+{
+  "id": "rct_psychic_kody_0413",
+  "name": "Psychic Kody",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "meditite",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "confusion",
+        "detect",
+        "feint"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

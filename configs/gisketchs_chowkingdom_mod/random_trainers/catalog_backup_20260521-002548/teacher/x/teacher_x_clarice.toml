@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "teacher_x_clarice"
+name = "Teacher Clarice"
+title = "Teacher"
+gender = "any"
+archetype = "teacher"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "teacher/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 41
+maxLevel = 43
+team = [
+  { species = "cobblemon:zigzagoon", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bellydrum", "flail", "return", "irontail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:roselia", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["ingrain", "synthesis", "toxic", "petaldance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["All right, let’s get this Pokémon battle started!", "Don’t relax just ’cause you won. Once you get home, you should do a full review!"]

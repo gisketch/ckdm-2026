@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_wesley_055f",
+  "name": "Swimmer Wesley",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "floatzel",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "aquajet",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "liquidooze",
+      "moveset": [
+        "acidarmor",
+        "poisonjab",
+        "sludgewave",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

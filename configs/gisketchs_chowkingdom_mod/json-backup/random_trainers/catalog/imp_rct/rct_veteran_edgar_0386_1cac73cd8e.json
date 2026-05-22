@@ -1,0 +1,72 @@
+{
+  "id": "rct_veteran_edgar_0386",
+  "name": "Veteran Edgar",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "clearbody",
+      "moveset": [
+        "reflecttype",
+        "bubblebeam",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golem",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "sandstorm",
+        "smackdown",
+        "heavyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "brine",
+        "aquajet",
+        "metalclaw",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

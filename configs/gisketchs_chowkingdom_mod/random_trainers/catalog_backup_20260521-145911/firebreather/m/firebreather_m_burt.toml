@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "firebreather_m_burt"
+name = "Firebreather Burt"
+title = "Firebreather"
+gender = "male"
+archetype = "firebreather"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "firebreather/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 42
+maxLevel = 45
+team = [
+  { species = "cobblemon:weezing", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flamethrower", "explosion", "doublehit", "sludge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magcargo", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = ["lavaplume", "amnesia", "ancientpower", "recover"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Firebreather Burt is ready for a battle.", "Step right up and take a look!", "The greatest fire-breather in Kanto, that’s me. But not the best Trainer..."]

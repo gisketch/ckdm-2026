@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_opal"
+name = "Youngster Opal"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:sandshrew", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:zubat", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster from Route 11 is ready for a battle."]

@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_cyclist_john_rematch_3",
+  "name": "Cyclist Male John",
+  "title": "Cyclist Male",
+  "gender": "male",
+  "archetype": "cyclist_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cyclist_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:farfetchd",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dodrio",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staraptor",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Cyclist Male John is ready for a battle."
+  ]
+}

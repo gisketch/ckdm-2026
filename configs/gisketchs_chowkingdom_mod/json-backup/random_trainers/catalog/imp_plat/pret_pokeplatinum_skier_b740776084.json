@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_skier_edward",
+  "name": "Skier Male Edward",
+  "title": "Skier Male",
+  "gender": "male",
+  "archetype": "skier_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:sneasel",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Are you a novice? Or around midlevel?",
+    "You know how to play your Pok\u00e9mon with an edge!"
+  ]
+}

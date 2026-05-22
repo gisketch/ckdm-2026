@@ -1,0 +1,78 @@
+{
+  "id": "rct_crush_girl_cyndy_024f",
+  "name": "Crush Girl Cyndy",
+  "title": "Crush Girl",
+  "gender": "female",
+  "archetype": "crush_girl",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "crush_girl/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:primeape",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "angerpoint",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmontop",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "technician",
+      "moveset": [
+        "agility",
+        "gyroball",
+        "wideguard",
+        "quickguard"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "noguard",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_m_braden"
+name = "Worker Braden"
+title = "Worker"
+gender = "male"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:graveler", level = 33, gender = "MALE", nature = "relaxed", ability = "sturdy", moveset = ["defensecurl", "sandstorm", "rollout", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["While I’m making sure the lifts are safe, I’ll focus on a battle with you!", "I routinely check the lifts here. You can be sure of their safety!", "I have trained this team for the road. Challenge me if you are ready."]

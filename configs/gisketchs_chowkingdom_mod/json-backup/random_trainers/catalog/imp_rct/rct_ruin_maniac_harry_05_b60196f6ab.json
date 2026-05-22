@@ -1,0 +1,40 @@
+{
+  "id": "rct_ruin_maniac_harry_051f",
+  "name": "Ruin Maniac Harry",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ruin_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:bronzor",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "relaxed",
+      "ability": "heatproof",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

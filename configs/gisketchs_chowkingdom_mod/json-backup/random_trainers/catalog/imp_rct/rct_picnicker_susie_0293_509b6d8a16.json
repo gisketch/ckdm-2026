@@ -1,0 +1,104 @@
+{
+  "id": "rct_picnicker_susie_0293",
+  "name": "Picnicker Susie",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "tangledfeet",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "technician",
+      "moveset": [
+        "shockwave",
+        "powergem",
+        "slash",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "guts",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "extremespeed",
+        "thunderbolt",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:persian",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "technician",
+      "moveset": [
+        "shockwave",
+        "powergem",
+        "slash",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

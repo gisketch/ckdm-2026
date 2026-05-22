@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_alice"
+name = "Lass Alice"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 41
+maxLevel = 45
+team = [
+  { species = "cobblemon:gloom", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["toxic", "sludgebomb", "sweetscent", "drainpunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arbok", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = ["poisonjab", "screech", "crunch", "mudbomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vileplume", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["toxic", "sludgebomb", "attract", "drainpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Alice is ready for a battle."]

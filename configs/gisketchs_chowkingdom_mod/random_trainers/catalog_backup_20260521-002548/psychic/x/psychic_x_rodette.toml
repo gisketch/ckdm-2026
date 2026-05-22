@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_rodette"
+name = "Psychic Rodette"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:natu", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "confuseray", "wish", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hypno", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "disable", "psychup", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hypno", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "hypnosis", "psychup", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Rodette is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

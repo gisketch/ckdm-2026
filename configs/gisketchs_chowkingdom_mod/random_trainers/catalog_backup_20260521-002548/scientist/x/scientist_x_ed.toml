@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_ed"
+name = "Scientist Ed"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 44
+maxLevel = 45
+team = [
+  { species = "cobblemon:accelgor", level = 44, gender = "FEMALE", nature = "lax", ability = "hydration", moveset = ["bugbuzz", "gigadrain", "sludgebomb", "uturn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:heliolisk", level = 45, gender = "FEMALE", nature = "bashful", ability = "dryskin", moveset = ["thunderbolt", "hypervoice", "grassknot", "voltswitch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:archeops", level = 44, gender = "FEMALE", nature = "quirky", ability = "defeatist", moveset = ["acrobatics", "rockslide", "supersonic", "zenheadbutt"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Ed is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

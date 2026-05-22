@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_miguel_3",
+  "name": "Pokefan Miguel",
+  "title": "Pokefan",
+  "gender": "any",
+  "archetype": "pokefan",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "pokefan/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:skitty",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokefan Miguel is ready for a battle."
+  ]
+}

@@ -5,6 +5,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Saw some wild Fidough near the skyland edge at 3am."
 response = "Three AM? I should log if they spawn more under a full moon."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["bubblegum", "pokemon"]
 target_tags = ["marceline", "nocturnal"]
 line = "My Eevee refused to evolve near a bright light source today."
 response = "Hah! Even Pokemon get the urge to ditch the sun."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "The Zubat flock follow the same flight path you mapped."
 response = "Then the cave temperature log was correct. I will update the chart."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["bubblegum", "pokemon"]
 target_tags = ["marceline", "nocturnal"]
 line = "Could you play something quiet? I want to test sleep move resistance."
 response = "One lullaby for science. If they snooze, you owe me a berry cake."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["marceline", "musician"]
 target_tags = ["bubblegum", "pokemon"]
 line = "My bass amp made a Loudred flinch from three blocks away."
 response = "That matches the decibel threshold I calculated. Do it again."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "store_pokemon"]
 line = "Running low on red berries. Any spares from your shop crate?"
 response = "Take a stack, but mark the crate log. I track inventory daily."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Rain at midnight boosts Wooper spawn chance by twelve percent."
 response = "I knew the marshland felt busier. I will patrol there tonight."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "You are still awake? The lab window was lit past moonpeak."
 response = "Breeding simulator. A new egg pattern showed up near dawn."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["bubblegum", "cobblemon_biology"]
 target_tags = ["marceline", "musician"]
 line = "The healing jingle calms them faster than any berry I mixed."
 response = "Music is just math you feel. I told you that last century."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Counted eighteen Pidgey circling the floating wheat platform."
 response = "Eighteen? Last week it was fifteen. Migration might be starting."
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "musician"]
 line = "My microphone array crackles when you sing above G-sharp."
 response = "I can dial it back, or you can build a tougher amp."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "What if you set an Eviolite shard in a silver pendant?"
 response = "Aesthetic and functional. The training shop might trade for it."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["bubblegum", "store_pokemon"]
 target_tags = ["marceline", "nocturnal"]
 line = "Farmers ask if Rare Candy is ethical. What is your take?"
 response = "Life is weird. A beets-sugar lump never hurt a Boldore."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "cobblemon_biology"]
 line = "Clefairy danced on the hill during the first crescent tonight."
 response = "Then moonstone resonance is definitely tied to the phase angle."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Midday or Midnight Lycanroc? You are the night expert."
 response = "Midnight. Fierce eyes. Reminds me of a good mosh pit."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "store_pokemon"]
 line = "Got five Sleep Herbs from a shaman barter. Want them?"
 response = "Yes. I can make a drag-out pouch for skittish Pokemon."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Do you see better in darkness than a Noctowl?"
 response = "Girl, I AM the darkness. But Noctowl colors are prettier."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "cobblemon_biology"]
 line = "A Nickit stole one of my guitar picks. Bold little thief."
 response = "They hoard shiny objects. Leave a coin and you get it back."
+source_emote = "facepalm"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "musician"]
 line = "Can you shout in the crystal cave? I need the echo delay."
 response = "Only if I get to name the echo pattern after myself."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Nightshade petals grow near the Nether portal. I grabbed ten."
 response = "Perfect. Potent Awakening potions need exactly ten per batch."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "An Unown shaped like V floated through the library wall."
 response = "Probably spelling VIBE. Those things have taste."
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["marceline", "musician"]
 target_tags = ["bubblegum", "pokemon"]
 line = "My feedback loop startled a wild Toxel into charging its sacs."
 response = "Electric-types love vibrations. You might be a walking TM."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["bubblegum", "skyland_survival"]
 target_tags = ["marceline", "nocturnal"]
 line = "The eastern bridge plank decayed. Avoid it on patrol."
 response = "Got it. I will float across and mark it with a red torch."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "cobblemon_biology"]
 line = "You sit on your Pokemon eggs? That is way more patience than me."
 response = "Flame Body ability helps. I just multitask with a book."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "musician"]
 line = "Play something upbeat while I assemble forty pokeballs."
 response = "You get one hour of battle-riffs. Then you owe me coffee."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "cobblemon_biology"]
 line = "Saw a tiny Wailmer in a pond. Thought it was a blue melon."
 response = "Size variance is real! Can you get a scale photo?"
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["town", "mentor"]
 line = "If the town Halloween event spawns pumpkins, I will DJ."
 response = "The wizard mentors asked for a dusk-to-midnight schedule."
+source_emote = "proud"
+target_emote = "hands_in_back"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "A wild Abra teleported inside the incubator room again."
 response = "I can ward the doorway with shadow sigils if you want."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["marceline", "musician"]
 target_tags = ["bubblegum", "researcher"]
 line = "Found a vinyl of ancient bell chimes. Might help your calm-mind tests."
 response = "Bell chimes plus psychic types? Yes please. Trade for a berry crate."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["bubblegum", "cobblemon_biology"]
 target_tags = ["marceline", "nocturnal"]
 line = "Shadow Ball moves differently when a Ghost type is happy."
 response = "Emotion-charged spectral mass? Makes total sense to me."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "pokemon"]
 line = "Thinking of training a Noibat and a Houndoom. Too on-brand?"
 response = "On-brand and stat-balanced. Fire-Dark plus Flying-Dragon works."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "musician"]
 line = "Your last bassline gave me an idea for a pulse-healing beacon."
 response = "Healing by sick beats? Finally, medicine I can respect."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "cobblemon_biology"]
 line = "Woobat are way cuter than Zubat. Fluffy heart-nose beats no-nose."
 response = "I need to measure fluff density. It may impact sonar."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["bubblegum", "skyland_lore"]
 target_tags = ["marceline", "nocturnal"]
 line = "A Drifloon hovered near the old windmill at sunset."
 response = "That is a wandering spirit for sure. I will add it to the ghost log."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["marceline", "monster_hunter"]
 target_tags = ["bubblegum", "pokemon"]
 line = "Going on a Duskull cull near the mausoleum. Need a scanner?"
 response = "Take the ecto-meter. It beeps for high-density Ghost energy."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Spilled Awakening on a Petilil. It stayed awake for two days."
 response = "Hyperactive grass baby. You should sell that brew."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["marceline", "musician"]
 target_tags = ["bubblegum", "researcher"]
 line = "Heard relic-song echoes near the temple ruins."
 response = "Could be a Meloetta spawn trigger. I will set up recorders."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["shoumai", "store_cosmetics"]
 line = "Shoumai, do you have a new cape that does not glow?"
 response = "Matte velvet in black or crimson. Non-reflective for stealth."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Baked sweet Poffins. Try one before the lab assistant eats them all."
 response = "Not bad. Needs more shadowberry. I will bring some tonight."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Midnight patrol was dead silent. No wild calls at all."
 response = "That means a strong predator passed through. Log it."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "musician"]
 line = "Dusk Stone resonates when you play an E-flat note."
 response = "Time to write a song that evolves a Misdreavus on cue."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["shoumai", "store_cosmetics"]
 line = "Can you sew a pouch for pokeballs into my tour jacket?"
 response = "Three inner pockets, red stitching, and a quick-release flap."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["bubblegum", "skyland_survival"]
 target_tags = ["marceline", "nocturnal"]
 line = "Mentor council approved your night-watch post. Show up at moonrise."
 response = "I am there every moonrise anyway. But thanks for the badge."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["marceline", "musician"]
 target_tags = ["bubblegum", "pokemon"]
 line = "What if the Pokemon shop had a battle-remix theme song?"
 response = "If it boosts trainer morale, I will commission you officially."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["bubblegum", "cobblemon_biology"]
 target_tags = ["marceline", "nocturnal"]
 line = "Rest TM mechanics changed. Now it heals based on max HP."
 response = "Good. That move was weak before. Nighttime tank builds rejoice."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Shiny Gastly. Full moon. Cemetery southwest corner. Not kidding."
 response = "Marking coordinates now. If true, this is a huge data point."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "musician"]
 line = "The centrifuge keeps humming an F-sharp. It is driving me crazy."
 response = "Tune it down a half-step. Or add a bassline and call it industrial."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Spotted a Snorunt shivering in the basement dungeon."
 response = "That is odd. Ice types prefer cold biome caves. I will check temperature."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["bubblegum", "researcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Should we ask mentors to lift curfew for researchers at night?"
 response = "Yes. Science does not sleep, and neither do I."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["marceline", "nocturnal"]
 target_tags = ["bubblegum", "researcher"]
 line = "Same time tomorrow? Bring the echo-scanner and your best notes."
 response = "Deal. I will also bring hot cocoa. The cave gets cold."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0

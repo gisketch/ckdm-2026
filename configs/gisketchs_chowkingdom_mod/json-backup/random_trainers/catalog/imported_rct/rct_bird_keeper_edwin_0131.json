@@ -1,0 +1,83 @@
+{
+  "id": "rct_bird_keeper_edwin_0131",
+  "name": "Bird Keeper Edwin",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "tangledfeet",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "farfetchd",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "steadfast",
+      "moveset": [
+        "brickbreak",
+        "swordsdance",
+        "slam",
+        "leafblade"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "swoobat",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "klutz",
+      "moveset": [
+        "futuresight",
+        "psychic",
+        "endeavor",
+        "heatwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeot",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "tangledfeet",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

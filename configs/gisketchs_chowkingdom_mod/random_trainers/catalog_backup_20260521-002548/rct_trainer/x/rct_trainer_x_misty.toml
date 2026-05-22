@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_misty"
+name = "Rct Trainer Misty"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 95
+maxLevel = 97
+team = [
+  { species = "cobblemon:pikachu", level = 96, gender = "FEMALE", nature = "timid", ability = "lightningrod", moveset = ["thunder", "hurricane", "electroweb", "fakeout"], heldItem = "['light_ball']", shiny = false, aspects = ["flying"] },
+  { species = "cobblemon:kyogre", level = 96, gender = "GENDERLESS", nature = "timid", ability = "drizzle", moveset = ["icebeam", "waterspout", "originpulse", "thunder"], heldItem = "['damp_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:goodra", level = 95, gender = "MALE", nature = "bold", ability = "gooey", moveset = ["dracometeor", "flashcannon", "thunder", "muddywater"], heldItem = "['assault_vest']", shiny = false, aspects = ["hisuian"] },
+  { species = "cobblemon:kingdra", level = 95, gender = "MALE", nature = "timid", ability = "swiftswim", moveset = ["dracometeor", "hydropump", "muddywater", "hurricane"], heldItem = "['mega_showdown:waterium_z', 'water_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:drednaw", level = 97, gender = "MALE", nature = "jolly", ability = "battlearmor", moveset = ["jawlock", "liquidation", "crunch", "shellsmash"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:floatzel", level = 96, gender = "FEMALE", nature = "jolly", ability = "technician", moveset = ["surgingstrikes", "fakeout", "flipturn", "pursuit"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

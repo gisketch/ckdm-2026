@@ -1,0 +1,134 @@
+{
+  "id": "rct_professor_oak_00d2",
+  "name": "Professor Oak",
+  "title": "Professor",
+  "gender": "any",
+  "archetype": "professor",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "professor/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 97,
+  "maxLevel": 99,
+  "team": [
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 98,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "frisk",
+      "moveset": [
+        "hurricane",
+        "heatwave",
+        "focusblast",
+        "uturn"
+      ],
+      "heldItem": [
+        "mega_showdown:pidgeotite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:blastoise",
+      "level": 99,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "shellsmash",
+        "waterpulse",
+        "darkpulse",
+        "aurasphere"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flareon",
+      "level": 98,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "toxicboost",
+      "moveset": [
+        "sacredfire",
+        "lastresort",
+        "wildcharge",
+        "superpower"
+      ],
+      "heldItem": [
+        "mega_showdown:eevium_z",
+        "normal_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zapdos",
+      "level": 97,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "pressure",
+      "moveset": [
+        "boltbeak",
+        "bravebird",
+        "uturn",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "flying_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 99,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "noguard",
+      "moveset": [
+        "dynamicpunch",
+        "machpunch",
+        "stoneedge",
+        "knockoff"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoking",
+      "level": 99,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "sludgewave",
+        "earthpower",
+        "flamethrower",
+        "icebeam"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

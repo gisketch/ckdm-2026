@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_amara"
+name = "Swimmer Amara"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 92
+maxLevel = 93
+team = [
+  { species = "cobblemon:milotic", level = 93, gender = "MALE", nature = "modest", ability = "competitive", moveset = ["hydropump", "icebeam", "hiddenpower", "haze"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:milotic", level = 92, gender = "FEMALE", nature = "modest", ability = "serenegrace", moveset = ["scorchingsands", "moonblast", "scald", "recover"], heldItem = "['leftovers']", shiny = false, aspects = ["sevii"] },
+  { species = "cobblemon:dewgong", level = 92, gender = "FEMALE", nature = "calm", ability = "icescales", moveset = ["scald", "icebeam", "rest", "sleeptalk"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Female Amara is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

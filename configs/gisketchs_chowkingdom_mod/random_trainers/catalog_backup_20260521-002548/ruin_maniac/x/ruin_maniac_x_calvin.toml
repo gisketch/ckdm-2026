@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_maniac_x_calvin"
+name = "Ruin Maniac Calvin"
+title = "Ruin Maniac"
+gender = "any"
+archetype = "ruin_maniac"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ruin_maniac/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 21
+maxLevel = 23
+team = [
+  { species = "cobblemon:bronzor", level = 21, gender = "GENDERLESS", nature = "hardy", ability = "levitate", moveset = ["confusion", "confuseray", "payback", "gyroball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shieldon", level = 23, gender = "MALE", nature = "relaxed", ability = "sturdy", moveset = ["taunt", "metalsound", "takedown", "irondefense"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m a treasure hunter. Today, the loot is a victory from you!", "If one’s after treasures, maybe the Underground is the better choice.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_m_parker"
+name = "Camper Parker"
+title = "Camper"
+gender = "male"
+archetype = "camper"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/male"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:buizel", level = 15, gender = "FEMALE", nature = "naive", ability = "swiftswim", moveset = ["growl", "tailwhip", "quickattack", "watergun"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shinx", level = 15, gender = "FEMALE", nature = "docile", ability = "intimidate", moveset = ["leer", "thundershock", "charge", "bite"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Huh? Are you lost too? No? It doesn’t matter. Let’s have a quick Pokémon battle!", "I got separated from my friends... I’ve got my Pokémon with me, so I’m OK, but...", "I have trained this team for the road. Challenge me if you are ready."]

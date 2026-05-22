@@ -1,0 +1,40 @@
+{
+  "id": "rct_twins_liz_02f1",
+  "name": "Twin Liz",
+  "title": "Twin",
+  "gender": "any",
+  "archetype": "twin",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "twin/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

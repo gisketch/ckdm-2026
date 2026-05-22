@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_kyler_04b8",
+  "name": "Pokémon Ranger Kyler",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "exeggcute",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "worryseed",
+        "leechseed",
+        "gigadrain",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ursaring",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "scaryface",
+        "rest",
+        "snore",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_hiker_jonathan",
+  "name": "Hiker Jonathan",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If I beat you, will you share some food with me?",
+    "Sigh... I feel even hungrier... Maybe I\u2019ll chow down some Berries... But that\u2019s kind of gross. What am I, a Pok\u00e9mon?"
+  ]
+}

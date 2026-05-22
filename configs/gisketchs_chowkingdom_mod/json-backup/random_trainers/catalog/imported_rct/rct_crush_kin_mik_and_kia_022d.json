@@ -1,0 +1,81 @@
+{
+  "id": "rct_crush_kin_mik_and_kia_022d",
+  "name": "Crush Kin Mik & Kia",
+  "title": "Crush Kin Mik And",
+  "gender": "any",
+  "archetype": "crush_kin_mik_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 92,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "infernape",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "fakeout",
+        "pyroball",
+        "closecombat",
+        "thunderpunch"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grapploct",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "armthrust",
+        "liquidation",
+        "machpunch",
+        "aquajet"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "metagross",
+      "level": 92,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "zenheadbutt",
+        "icepunch",
+        "earthquake"
+      ],
+      "heldItem": "mega_showdown:metagrossite assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lycanroc",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "stoneedge",
+        "closecombat",
+        "accelerock",
+        "psychicfangs"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rct_mega_trainer_osean_05cd",
+  "name": "Mega Trainer Osean",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "pelipper",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "surf",
+        "airslash",
+        "knockoff",
+        "uturn"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kingdra",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "surf",
+        "dragonpulse",
+        "flashcannon",
+        "icebeam"
+      ],
+      "heldItem": "haban_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ludicolo",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "hydropump",
+        "energyball",
+        "naturepower",
+        "teeterdance"
+      ],
+      "heldItem": "water_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "samurott",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "torrent",
+      "moveset": [
+        "liquidation",
+        "megahorn",
+        "revenge",
+        "retaliate"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "moldbreaker",
+      "moveset": [
+        "aquatail",
+        "crunch",
+        "icefang",
+        "dragondance"
+      ],
+      "heldItem": "mega_showdown:gyaradosite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

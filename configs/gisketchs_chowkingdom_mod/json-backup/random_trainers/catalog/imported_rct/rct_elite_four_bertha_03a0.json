@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_bertha_03a0",
+  "name": "Elite Four Bertha",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "quagsire",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterabsorb",
+      "moveset": [
+        "recover",
+        "toxic",
+        "earthquake",
+        "surf"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sudowoodo",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "doubleedge",
+        "headsmash",
+        "suckerpunch",
+        "lowkick"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golem",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "rockpolish",
+        "heavyslam",
+        "earthquake",
+        "stoneedge"
+      ],
+      "heldItem": "soft_sand",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "whiscash",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "hydration",
+      "moveset": [
+        "bulldoze",
+        "icebeam",
+        "belch",
+        "hydropump"
+      ],
+      "heldItem": "rindo_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hippowdon",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "icefang",
+        "earthquake",
+        "crunch",
+        "rest"
+      ],
+      "heldItem": "chesto_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

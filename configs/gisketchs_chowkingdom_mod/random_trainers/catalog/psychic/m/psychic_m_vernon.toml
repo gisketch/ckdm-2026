@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_vernon"
+name = "Psychic Vernon"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:espeon", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Wow, look at all those Badges! I’m impressed. But you’re not satisfied by just collecting them, right?", "People and Pokémon grow from their experiences. Don’t get lazy and complacent."]

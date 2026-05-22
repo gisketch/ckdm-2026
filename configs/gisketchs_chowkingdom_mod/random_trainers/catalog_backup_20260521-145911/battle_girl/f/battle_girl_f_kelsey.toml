@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battle_girl_f_kelsey"
+name = "Battle Girl Kelsey"
+title = "Battle Girl"
+gender = "female"
+archetype = "battle_girl"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "battle_girl/female"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 0.95
+bustStyle = "standard"
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:machop", level = 15, gender = "MALE", nature = "jolly", ability = "noguard", moveset = ["lowkick", "leer", "focusenergy", "lowsweep"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiyah! There’s no holding anything back!", "Hiyah! You put me in my place! I appreciate it!", "I have trained this team for the road. Challenge me if you are ready."]

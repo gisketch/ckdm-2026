@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_leah"
+name = "Picnicker Leah"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 34
+maxLevel = 35
+team = [
+  { species = "cobblemon:doduo", level = 34, gender = "FEMALE", nature = "hasty", ability = "runaway", moveset = ["pluck", "doublehit", "agility", "uproar"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwhirl", level = 35, gender = "FEMALE", nature = "careful", ability = "waterabsorb", moveset = ["raindance", "bodyslam", "bubblebeam", "mudshot"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Leah is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -32,9 +32,11 @@ wake_messages = ["Mmph... {player}? I was sleeping.", "I'm awake. Is everything 
 npc_interaction_messages = ["Swapping quest theories with {other}.", "Telling {other} this place needs more heroic patrol routes.", "Asking {other} if this counts as a side quest."]
 # Config value: work_blocks.
 work_blocks = [
-  { id = "minecraft:barrel", count = 3, display_name = "barrels" },
-  { id = "minecraft:item_frame", count = 2, display_name = "item frames" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "minecraft:campfire", count = 1, display_name = "adventure campfire" },
+  { id = "minecraft:barrel", count = 1, display_name = "loot barrel" },
+  { id = "supplementaries:item_shelf", count = 1, display_name = "hero gear shelf" },
+  { id = "another_furniture:oak_bench", count = 1, display_name = "story bench" },
+  { id = "cluttered:basket_of_produce", count = 1, display_name = "snack basket" },
 ]
 
 [boss]
@@ -278,4 +280,6 @@ pool = [
   { id = "finn_fetch_cooked_beef", category = "fetch", event_desc = "Bring {goal} Cooked Beef", quest_text = "Bring cooked beef for the next patrol.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:cooked_beef", fetch_count = 4, weight = 14 },
   { id = "finn_craft_torches", category = "task", event = "minecraft:item_crafted", event_desc = "Craft {goal} Torches", quest_text = "Craft torches so the next cave is less rude.", pass_id = "cozy", xp = 55, chowcoins = 25, goal = 32, filters = { item = "minecraft:torch" }, weight = 12 },
   { id = "finn_quiz_hero_choices_and_boss_contract_manners", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Finn's adventure quiz before charging ahead.", pass_id = "cozy", xp = 50, chowcoins = 35, quiz_topic = "hero choices and boss contract manners", weight = 10 },
+  { id = "finn_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Finn", quest_text = "Finn has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "finn_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Finn", quest_text = "Finn wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

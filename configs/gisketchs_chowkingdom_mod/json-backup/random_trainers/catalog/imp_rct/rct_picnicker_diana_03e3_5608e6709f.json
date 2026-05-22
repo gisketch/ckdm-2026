@@ -1,0 +1,55 @@
+{
+  "id": "rct_picnicker_diana_03e3",
+  "name": "Picnicker Diana",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:budew",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:psyduck",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cloudnine",
+      "moveset": [
+        "scratch",
+        "tailwhip",
+        "watergun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

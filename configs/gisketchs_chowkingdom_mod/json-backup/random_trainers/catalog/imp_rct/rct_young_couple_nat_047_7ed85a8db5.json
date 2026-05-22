@@ -1,0 +1,40 @@
+{
+  "id": "rct_young_couple_nat_047f",
+  "name": "Nat",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:misdreavus",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confusion",
+        "astonish",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

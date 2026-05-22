@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "friendly_coach_x_spa"
+name = "Friendly Coach Spa"
+title = "Friendly Coach"
+gender = "any"
+archetype = "friendly_coach"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "friendly_coach/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 1
+maxLevel = 1
+team = [
+  { species = "cobblemon:beautifly", level = 1, gender = "MALE", nature = "relaxed", ability = "swarm", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 1, gender = "MALE", nature = "naive", ability = "swarm", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 1, gender = "FEMALE", nature = "serious", ability = "swarm", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 1, gender = "MALE", nature = "adamant", ability = "swarm", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 1, gender = "MALE", nature = "timid", ability = "swarm", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 1, gender = "FEMALE", nature = "impish", ability = "swarm", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_biker_malik_00c4",
+  "name": "Biker Malik",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:seviper",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "shedskin",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "gigadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roserade",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "poisontouch",
+      "moveset": [
+        "screech",
+        "gigadrain",
+        "sludgebomb",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

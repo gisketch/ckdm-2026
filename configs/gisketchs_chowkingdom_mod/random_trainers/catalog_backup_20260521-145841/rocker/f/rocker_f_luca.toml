@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rocker_f_luca"
+name = "Rocker Luca"
+title = "Rocker"
+gender = "female"
+archetype = "rocker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "rocker/female"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = "standard"
+minLevel = 89
+maxLevel = 93
+team = [
+  { species = "cobblemon:rotom", level = 93, gender = "GENDERLESS", nature = "timid", ability = "levitate", moveset = ["blizzard", "voltswitch", "thunderwave", "thunderbolt"], heldItem = "['never_melt_ice']", shiny = false, aspects = ["frost-appliance"] },
+  { species = "cobblemon:heliolisk", level = 89, gender = "FEMALE", nature = "timid", ability = "dryskin", moveset = ["boomburst", "surf", "weatherball", "voltswitch"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoqueen", level = 93, gender = "FEMALE", nature = "timid", ability = "sheerforce", moveset = ["earthpower", "blizzard", "fireblast", "thunderbolt"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:yanmega", level = 92, gender = "FEMALE", nature = "timid", ability = "tintedlens", moveset = ["bugbuzz", "airslash", "uturn", "gigadrain"], heldItem = "['choice_specs']", shiny = false, aspects = [] },
+  { species = "cobblemon:blastoise", level = 90, gender = "MALE", nature = "timid", ability = "raindish", moveset = ["shellsmash", "blizzard", "aurasphere", "darkpulse"], heldItem = "['mega_showdown:blastoisinite', 'leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:walrein", level = 91, gender = "MALE", nature = "bold", ability = "icebody", moveset = ["blizzard", "substitute", "protect", "toxic"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["Rocker Luca is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

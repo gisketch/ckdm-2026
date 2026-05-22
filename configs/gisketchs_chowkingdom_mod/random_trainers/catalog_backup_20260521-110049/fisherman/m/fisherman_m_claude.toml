@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_claude"
+name = "Fisherman Claude"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 64
+maxLevel = 65
+team = [
+  { species = "cobblemon:basculin", level = 64, gender = "FEMALE", nature = "hardy", ability = "reckless", moveset = ["finalgambit", "liquidation", "headsmash", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dhelmise", level = 65, gender = "GENDERLESS", nature = "sassy", ability = "steelworker", moveset = ["heavyslam", "phantomforce", "powerwhip", "spiritshackle"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Claude is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

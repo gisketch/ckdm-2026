@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sage_x_nico"
+name = "Sage Nico"
+title = "Sage"
+gender = "any"
+archetype = "sage"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "sage/any"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 3
+maxLevel = 3
+team = [
+  { species = "cobblemon:bellsprout", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sage Nico is ready for a battle.", "However hard we battle, the tower will stand strong.", "The flexible pillar protects the tower, even from earthquakes."]

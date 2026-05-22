@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_f_christine"
+name = "School Kid Christine"
+title = "School Kid"
+gender = "female"
+archetype = "school_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "school_kid/female"
+tier = "low"
+spawnable = true
+height = 0.86
+weight = 0.87
+bustStyle = "standard"
+minLevel = 6
+maxLevel = 6
+team = [
+  { species = "cobblemon:bidoof", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["School Kid Female Christine is ready for a battle."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_maniac_x_beckett"
+name = "Poke Maniac Beckett"
+title = "Poke Maniac"
+gender = "any"
+archetype = "poke_maniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "poke_maniac/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:slowbro", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I love Pokémon! That’s why I started--and why I’ll keep on collecting Pokémon!", "What else do I like besides Pokémon? Mary, on the radio. I bet she’s cute!"]

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0579_biker_ernest",
+  "name": "Biker Ernest",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:teddiursa",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marill",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Vroom vroom! Baribaribaribaribari! What do you think of my engine imitation?",
+    "We don\u2019t put out any exhaust fumes. We\u2019re a biker club that\u2019s kind to nature!"
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "supernerd_f_rina"
+name = "Supernerd Rina"
+title = "Supernerd"
+gender = "female"
+archetype = "supernerd"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "supernerd/female"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = "standard"
+minLevel = 11
+maxLevel = 11
+team = [
+  { species = "cobblemon:magnemite", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:voltorb", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Supernerd from Mt. Moon 1F is ready for a battle."]

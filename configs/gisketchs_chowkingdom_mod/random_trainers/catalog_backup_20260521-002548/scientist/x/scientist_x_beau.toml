@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_beau"
+name = "Scientist Beau"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:magneton", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["spark", "thunderwave", "sonicboom", "supersonic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "sludge", "smog", "tackle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "sludge", "smog", "tackle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["spark", "thunderwave", "sonicboom", "supersonic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Beau is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

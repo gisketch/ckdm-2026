@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_maniac_m_layton"
+name = "Ruin Maniac Layton"
+title = "Ruin Maniac"
+gender = "male"
+archetype = "ruin_maniac"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "ruin_maniac/male"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:sandslash", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandslash", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ruin Maniac Layton is ready for a battle."]

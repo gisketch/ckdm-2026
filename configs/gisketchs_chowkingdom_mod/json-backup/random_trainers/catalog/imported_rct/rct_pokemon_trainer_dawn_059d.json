@@ -1,0 +1,110 @@
+{
+  "id": "rct_pokemon_trainer_dawn_059d",
+  "name": "Pokémon Trainer Dawn",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "togekiss",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "dazzlinggleam",
+        "airslash",
+        "aurasphere",
+        "thunderwave"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bellossom",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "moonblast",
+        "petaldance",
+        "toxic",
+        "quiverdance"
+      ],
+      "heldItem": "persim_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mamoswine",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "iceshard",
+        "earthquake",
+        "stoneedge",
+        "avalanche"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "typhlosion",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "eruption"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lopunny",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "klutz",
+      "moveset": [
+        "highjumpkick",
+        "thunderwave",
+        "sweetkiss",
+        "switcheroo"
+      ],
+      "heldItem": "iron_ball",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "flashcannon",
+        "icebeam",
+        "grassknot"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

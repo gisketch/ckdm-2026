@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_swimmer_mallory",
+  "name": "Swimmer Female Mallory",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:surskit",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lombre",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m a mermaid drifting among the waves... And a high-spirited gal who battles with Pok\u00e9mon!",
+    "A mermaid\u2019s tears are so salty..."
+  ]
+}

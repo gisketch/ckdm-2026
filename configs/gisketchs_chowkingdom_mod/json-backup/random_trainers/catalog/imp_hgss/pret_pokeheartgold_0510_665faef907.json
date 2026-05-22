@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeheartgold_0510_youngster_joey",
+  "name": "Youngster Joey",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hyperfang",
+        "quickattack",
+        "substitute",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Youngster Joey is ready for a battle."
+  ]
+}

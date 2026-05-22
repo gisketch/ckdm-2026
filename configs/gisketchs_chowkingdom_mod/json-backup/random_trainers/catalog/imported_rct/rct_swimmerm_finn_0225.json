@@ -1,0 +1,81 @@
+{
+  "id": "rct_swimmerm_finn_0225",
+  "name": "Swimmer♂ Finn",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "overqwil",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "poisonjab",
+        "throatchop",
+        "toxicspikes",
+        "destinybond"
+      ],
+      "heldItem": "custap_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barraskewda",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "waterfall",
+        "flipturn",
+        "closecombat",
+        "psychicfangs"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cloyster",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "shellsmash",
+        "waterfall",
+        "iciclespear",
+        "rockblast"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drednaw",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "strongjaw",
+      "moveset": [
+        "liquidation",
+        "jawlock",
+        "icefang",
+        "rockpolish"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

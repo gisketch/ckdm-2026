@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_dwayne"
+name = "Biker Dwayne"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "mid"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 38
+maxLevel = 41
+team = [
+  { species = "cobblemon:koffing", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Dwayne is ready for a battle.", "We’re the Kanto Pokémon Federation Trainer group. We’ll drive you under our wheels!", "The Kanto Pokémon Federation will never fall!"]

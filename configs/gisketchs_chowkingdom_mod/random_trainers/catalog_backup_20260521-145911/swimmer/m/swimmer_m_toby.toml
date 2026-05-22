@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_toby"
+name = "Swimmer Toby"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:poliwhirl", level = 48, gender = "FEMALE", nature = "bashful", ability = "waterabsorb", moveset = ["mudshot", "bellydrum", "wakeupslap", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacool", level = 48, gender = "FEMALE", nature = "rash", ability = "clearbody", moveset = ["screech", "hex", "sludgewave", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 48, gender = "MALE", nature = "timid", ability = "clearbody", moveset = ["scald", "screech", "hex", "sludgewave"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Toby is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

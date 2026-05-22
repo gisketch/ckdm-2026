@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_channeler_012",
+  "name": "Channeler Opal",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Channeler from Pok\u00e9mon Tower 4F is ready for a battle."
+  ]
+}

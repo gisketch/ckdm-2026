@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tamer_m_jason"
+name = "Tamer Jason"
+title = "Tamer"
+gender = "male"
+archetype = "tamer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "tamer/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:rhyhorn", level = 43, gender = "MALE", nature = "quiet", ability = "rockhead", moveset = ["rockblast", "drillrun", "takedown", "stoneedge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Tamer Jason is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

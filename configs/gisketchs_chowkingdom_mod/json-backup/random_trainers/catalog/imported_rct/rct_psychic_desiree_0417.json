@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_desiree_0417",
+  "name": "Psychic Desiree",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "allyswitch",
+        "psyshock",
+        "psychic",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "recover",
+        "psyshock",
+        "futuresight",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

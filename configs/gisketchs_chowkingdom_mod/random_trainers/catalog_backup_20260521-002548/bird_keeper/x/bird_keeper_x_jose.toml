@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_jose"
+name = "Bird Keeper Jose"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:farfetchd", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyattack", "detect", "fly", "slash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Jose is ready for a battle."]

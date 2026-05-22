@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmer_kurt_04bf",
+  "name": "Swimmer Kurt",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "crawdaunt",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "hypercutter",
+      "moveset": [
+        "taunt",
+        "nightslash",
+        "crabhammer",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

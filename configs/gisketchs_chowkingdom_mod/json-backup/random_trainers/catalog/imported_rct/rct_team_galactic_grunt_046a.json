@@ -1,0 +1,33 @@
+{
+  "id": "rct_team_galactic_grunt_046a",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "bronzor",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "serious",
+      "ability": "heatproof",
+      "moveset": [
+        "confuseray",
+        "extrasensory",
+        "heavyslam",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

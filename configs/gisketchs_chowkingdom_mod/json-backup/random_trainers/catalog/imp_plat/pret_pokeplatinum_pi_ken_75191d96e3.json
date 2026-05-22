@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_pi_kendrick",
+  "name": "Pi Kendrick",
+  "title": "Pi",
+  "gender": "any",
+  "archetype": "pi",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "pi/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "horndrill",
+        "reversal"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pi Kendrick is ready for a battle."
+  ]
+}

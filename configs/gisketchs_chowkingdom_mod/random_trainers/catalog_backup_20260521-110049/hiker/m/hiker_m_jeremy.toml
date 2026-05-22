@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_jeremy"
+name = "Hiker Jeremy"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:machop", level = 30, gender = "FEMALE", nature = "hasty", ability = "guts", moveset = ["revenge", "knockoff", "vitalthrow", "wakeupslap"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:stunfisk", level = 30, gender = "FEMALE", nature = "brave", ability = "static", moveset = ["camouflage", "mudbomb", "discharge", "endure"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Jeremy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

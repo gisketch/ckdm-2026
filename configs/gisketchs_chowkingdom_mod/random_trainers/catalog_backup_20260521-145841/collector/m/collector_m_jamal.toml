@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_m_jamal"
+name = "Collector Jamal"
+title = "Collector"
+gender = "male"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 21
+maxLevel = 24
+team = [
+  { species = "cobblemon:buizel", level = 21, gender = "MALE", nature = "relaxed", ability = "swiftswim", moveset = ["growl", "tailwhip", "watergun", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:buizel", level = 21, gender = "FEMALE", nature = "relaxed", ability = "swiftswim", moveset = ["tailwhip", "watergun", "bite", "swift"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:buizel", level = 24, gender = "MALE", nature = "relaxed", ability = "swiftswim", moveset = ["tailwhip", "bite", "swift", "aquajet"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["To find my favorite Pokémon, I’ll go east, west, or any which way!", "If you’re trying to find the Pokémon you want, you need to go everywhere! Not just east and west, either. South and north are important, too!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,33 @@
+{
+  "id": "rct_scientist_emilio_048e",
+  "name": "Scientist Emilio",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "psybeam",
+        "reflect",
+        "allyswitch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

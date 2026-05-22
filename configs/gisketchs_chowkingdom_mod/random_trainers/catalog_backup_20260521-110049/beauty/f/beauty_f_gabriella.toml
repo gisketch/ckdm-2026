@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_gabriella"
+name = "Beauty Gabriella"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:finneon", level = 23, gender = "FEMALE", nature = "bashful", ability = "swiftswim", moveset = ["attract", "raindance", "gust", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Gabriella is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

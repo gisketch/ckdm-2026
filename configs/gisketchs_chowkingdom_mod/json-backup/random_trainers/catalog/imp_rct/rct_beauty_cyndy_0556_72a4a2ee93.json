@@ -1,0 +1,40 @@
+{
+  "id": "rct_beauty_cyndy_0556",
+  "name": "Beauty Cyndy",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:purugly",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "aerialace",
+        "bodyslam",
+        "attract",
+        "honeclaws"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

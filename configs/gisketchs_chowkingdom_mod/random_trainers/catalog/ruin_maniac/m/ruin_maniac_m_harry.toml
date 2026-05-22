@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_maniac_m_harry"
+name = "Ruin Maniac Harry"
+title = "Ruin Maniac"
+gender = "male"
+archetype = "ruin_maniac"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ruin_maniac/male"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:bronzor", level = 56, gender = "GENDERLESS", nature = "relaxed", ability = "heatproof", moveset = ["confuseray", "payback", "gyroball", "irondefense"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Whilst exploring the ruins, I spotted a Trainer! I must investigate!", "Celestic Town is an old town. I’m sure to find something cool.", "Ruin Maniac Harry is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

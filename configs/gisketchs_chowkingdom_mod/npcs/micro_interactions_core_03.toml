@@ -5,6 +5,8 @@ source_ids = ["gandalf"]
 target_ids = ["invoker"]
 line = "The spark of magic is but a thought given will."
 response = "You oversimplify. Will alone cannot shape the arcane weave."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -16,6 +18,8 @@ source_ids = ["invoker"]
 target_ids = ["gandalf"]
 line = "Recite the seven incantations exactly or fail utterly."
 response = "Precision matters, yet the heart behind the words matters more."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -27,6 +31,8 @@ source_ids = ["venti"]
 target_ids = ["gandalf"]
 line = "I sing my magic on the wind. No formulas needed."
 response = "A wilder path, but the tune must still obey the song."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -38,6 +44,8 @@ source_ids = ["gandalf"]
 target_ids = ["pope_leo"]
 line = "The light you call divine is but a deeper magic."
 response = "All light flows from the One. Your magic is a borrowed ray."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -49,6 +57,8 @@ source_ids = ["pope_leo"]
 target_ids = ["invoker"]
 line = "Your incantations lack humility. Pray before you cast."
 response = "Prayer is a crutch. I trust only the art I mastered."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -60,6 +70,8 @@ source_ids = ["tarnished"]
 target_ids = ["gandalf"]
 line = "My blade holds no magic, only discipline and faith."
 response = "Faith is a conduit stronger than any staff or rod."
+source_emote = "hands_in_back"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -71,6 +83,8 @@ source_ids = ["zagreus"]
 target_ids = ["invoker"]
 line = "Down in the House, magic tastes like blood and darkness."
 response = "Chaos magic has its own logic. You survive thus you learn."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -82,6 +96,8 @@ source_ids = ["gandalf"]
 target_ids = ["zagreus"]
 line = "Your underworld gifts are not curses. They are choices."
 response = "Tell that to the Furies. But I take your meaning, grey one."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -93,6 +109,8 @@ source_ids = ["invoker"]
 target_ids = ["zagreus"]
 line = "Your flames lack structure. Let me teach you a proper glyph."
 response = "I prefer flames that work. Yours sound too rigid for me."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -104,6 +122,8 @@ source_ids = ["venti"]
 target_ids = ["invoker"]
 line = "Your orbs spin too fast. Slow them down. Feel the rhythm."
 response = "Rhythm is irrelevant. Speed and precision define victory."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -115,6 +135,8 @@ source_ids = ["pope_leo"]
 target_ids = ["tarnished"]
 line = "Your oaths channel holy light. That is the purest school."
 response = "I do not see it as school. I see it as duty made weapon."
+source_emote = "shrug"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -126,6 +148,8 @@ source_ids = ["venti"]
 target_ids = ["pope_leo"]
 line = "Even cathedral choirs steal tunes from the wind."
 response = "Borrow perhaps. But we return them sanctified."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -137,6 +161,8 @@ source_ids = ["venti"]
 target_ids = ["gandalf"]
 line = "Sing with me! A ballad of old roads and fallen stars."
 response = "I recall that tune from before the Third Age. I will hum along."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -148,6 +174,8 @@ source_ids = ["gandalf"]
 target_ids = ["venti"]
 line = "That melody carries echoes of the Music of the Ainur."
 response = "Ooh, then I have to learn it properly. Let me try again."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -159,6 +187,8 @@ source_ids = ["invoker"]
 target_ids = ["venti"]
 line = "Your lutes are toys. A true song is a coded invocation."
 response = "You never danced with the tones. Pity. You miss the joy."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -170,6 +200,8 @@ source_ids = ["venti"]
 target_ids = ["invoker"]
 line = "Invocation is just a rigid song. Let the notes loose."
 response = "Chaos produces noise. I produce results."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -181,6 +213,8 @@ source_ids = ["pope_leo"]
 target_ids = ["venti"]
 line = "Our hymnals echo the same eternal harmony you chase."
 response = "Then your choir and my lyre are siblings under the sky."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -192,6 +226,8 @@ source_ids = ["tarnished"]
 target_ids = ["venti"]
 line = "I only know the dirge of lost comrades on the march."
 response = "Even a dirge can lift spirits if the breath is full."
+source_emote = "facepalm"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -203,6 +239,8 @@ source_ids = ["zagreus"]
 target_ids = ["venti"]
 line = "Orpheus taught me a few underworld tunes. Want to hear?"
 response = "Yes! I bet they are bittersweet. That is the best kind."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -214,6 +252,8 @@ source_ids = ["gandalf"]
 target_ids = ["zagreus"]
 line = "Music binds the world together. Even your realm echoes it."
 response = "Echoes? No, the Styx hums its own constant low note."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -225,6 +265,8 @@ source_ids = ["venti"]
 target_ids = ["tarnished"]
 line = "Your whistle carries the weight of a hundred battles."
 response = "Each note is a memory. Some sharp, some soft."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -236,6 +278,8 @@ source_ids = ["pope_leo"]
 target_ids = ["invoker"]
 line = "The Gregorian chants predate your schools by millennia."
 response = "Antiquity is not accuracy. But I respect the endurance."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -247,6 +291,8 @@ source_ids = ["zagreus"]
 target_ids = ["pope_leo"]
 line = "Do the dead sing in your heaven? Down here we hum."
 response = "They sing eternally. It is the reward of the faithful."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -258,6 +304,8 @@ source_ids = ["gandalf"]
 target_ids = ["pope_leo"]
 line = "Eru's music underpins all creation. Your hymns touch it."
 response = "Then we are both servants of the same melody."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -269,6 +317,8 @@ source_ids = ["pope_leo"]
 target_ids = ["venti"]
 line = "Bell towers call the flock. Even the wind must pause."
 response = "The wind carries the bell's voice farther than stone."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -280,6 +330,8 @@ source_ids = ["venti"]
 target_ids = ["pope_leo"]
 line = "I can make the bells sing a different tune with a gust."
 response = "Do not mock holy instruments. They mark sacred hours."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -291,6 +343,8 @@ source_ids = ["gandalf"]
 target_ids = ["pope_leo"]
 line = "I have heard the bells of Numenor toll beneath the sea."
 response = "A haunting sound. Bells remember what people forget."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -302,6 +356,8 @@ source_ids = ["invoker"]
 target_ids = ["pope_leo"]
 line = "Bells are just percussion. Their resonance can amplify spells."
 response = "Their first purpose is worship, not your arcane experiments."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -313,6 +369,8 @@ source_ids = ["tarnished"]
 target_ids = ["pope_leo"]
 line = "The bell at the Roundtable calls us to rest."
 response = "And to rise again. Rest is preparation for the next vigil."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -324,6 +382,8 @@ source_ids = ["zagreus"]
 target_ids = ["pope_leo"]
 line = "Our ferryman Charon rings a bell for passage. It is final."
 response = "A stark contrast. Our bells welcome; yours dismiss."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -335,6 +395,8 @@ source_ids = ["gandalf"]
 target_ids = ["tarnished"]
 line = "Your watch bell is a small act of devotion to order."
 response = "It keeps the camp honest. A small rhythm of safety."
+source_emote = "hands_in_back"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -346,6 +408,8 @@ source_ids = ["invoker"]
 target_ids = ["zagreus"]
 line = "If you forge a bell from Stygian iron, it can banish shades."
 response = "That sounds interesting. Would it keep Thanatos away?"
+source_emote = "clap"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -357,6 +421,8 @@ source_ids = ["venti"]
 target_ids = ["zagreus"]
 line = "Let me hang wind chimes in your Tower. Skeletons love them."
 response = "Only if they play something less mournful than the usual."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -368,6 +434,8 @@ source_ids = ["tarnished"]
 target_ids = ["gandalf"]
 line = "I swore to mend the Elden Ring. That oath is my breath."
 response = "A heavy burden. Let it bend you, never break you."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -379,6 +447,8 @@ source_ids = ["gandalf"]
 target_ids = ["tarnished"]
 line = "Do not confuse duty with destiny. One you choose."
 response = "I chose the duty. It became my destiny. Same path."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -390,6 +460,8 @@ source_ids = ["pope_leo"]
 target_ids = ["tarnished"]
 line = "Your vow echoes the ancient chivalric oaths we recite."
 response = "Then you understand the weight. There is no stepping down."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -401,6 +473,8 @@ source_ids = ["zagreus"]
 target_ids = ["tarnished"]
 line = "I escape every day. Is that duty or stubbornness?"
 response = "Both. You are duty-bound to prove your own worth."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -412,6 +486,8 @@ source_ids = ["invoker"]
 target_ids = ["tarnished"]
 line = "Your purpose is singular. That is efficient. I approve."
 response = "Efficiency is not the point. Faith in the mission is."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -423,6 +499,8 @@ source_ids = ["venti"]
 target_ids = ["tarnished"]
 line = "Must you always be so serious? Duty can have a tune."
 response = "The tune is a march. It keeps us moving forward."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -434,6 +512,8 @@ source_ids = ["gandalf"]
 target_ids = ["zagreus"]
 line = "Your escape is also a return. Duty has two faces."
 response = "Return? Maybe I go back because leaving is not enough."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -445,6 +525,8 @@ source_ids = ["pope_leo"]
 target_ids = ["zagreus"]
 line = "You carry the torch for the less lucky souls below."
 response = "That torch is heavy. But I will not drop it."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -456,6 +538,8 @@ source_ids = ["invoker"]
 target_ids = ["gandalf"]
 line = "Order your priorities. Duty is just a list. Complete it."
 response = "Some items on the list require patience, not haste."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -467,6 +551,8 @@ source_ids = ["tarnished"]
 target_ids = ["pope_leo"]
 line = "I heard your sermons. Duty to the Erdtree mirrors my oath."
 response = "Then we are brothers in purpose though our altars differ."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -478,6 +564,8 @@ source_ids = ["venti"]
 target_ids = ["gandalf"]
 line = "Where does the road go next? I want to follow the wind."
 response = "It goes where it always has. The question is who travels."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -489,6 +577,8 @@ source_ids = ["gandalf"]
 target_ids = ["venti"]
 line = "The path is not always visible. Trust the step you take."
 response = "I trust my feet. They have never led me to a dull place."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -500,6 +590,8 @@ source_ids = ["invoker"]
 target_ids = ["venti"]
 line = "Roads are vectors. Plot the most efficient route always."
 response = "Efficient is boring. The detours are where songs are born."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -511,6 +603,8 @@ source_ids = ["pope_leo"]
 target_ids = ["venti"]
 line = "Every road is a pilgrimage if you walk it with intent."
 response = "Then I have made many pilgrimages to the nearest tavern."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -522,6 +616,8 @@ source_ids = ["tarnished"]
 target_ids = ["venti"]
 line = "I have walked the Mistwood so long I forgot the sun."
 response = "Then let me play a song that reminds you of the sky."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -533,6 +629,8 @@ source_ids = ["zagreus"]
 target_ids = ["venti"]
 line = "The road from the Styx always leads back to the House."
 response = "That sounds like a round trip with no layovers. Rough."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -544,6 +642,8 @@ source_ids = ["gandalf"]
 target_ids = ["pope_leo"]
 line = "I have walked many roads. The one to Minas Tirith was long."
 response = "All roads that lead to salvation are long and steep."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -555,6 +655,8 @@ source_ids = ["invoker"]
 target_ids = ["tarnished"]
 line = "The road to the Erdtree is a fixed path. Study its geometry."
 response = "I have memorized every stone. It does not make it easier."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -566,6 +668,8 @@ source_ids = ["zagreus"]
 target_ids = ["gandalf"]
 line = "You ever get lost in a cave and end up somewhere else entirely?"
 response = "Frequently. Some of my best discoveries came that way."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -577,6 +681,8 @@ source_ids = ["gandalf"]
 target_ids = ["tarnished"]
 line = "The road you walk is yours alone. Companions help."
 response = "They do. But in the end, the summit is a solo claim."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -588,6 +694,8 @@ source_ids = ["invoker"]
 target_ids = ["zagreus"]
 line = "Your road is cyclical. That is inefficient. Break the loop."
 response = "I am trying. That is the whole point of escaping."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -599,6 +707,8 @@ source_ids = ["pope_leo"]
 target_ids = ["invoker"]
 line = "Even the most direct road bends sometimes by divine will."
 response = "Divine will is just an unknown variable. Account for it."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -610,6 +720,8 @@ source_ids = ["zagreus"]
 target_ids = ["gandalf"]
 line = "I die every day and get to try again. What is that called?"
 response = "Grace. A rare grace that teaches through failure."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -621,6 +733,8 @@ source_ids = ["gandalf"]
 target_ids = ["zagreus"]
 line = "Gandalf fell and returned. I know something of second try."
 response = "Then we are both stubborn ghosts who refused to stay dead."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -632,6 +746,8 @@ source_ids = ["tarnished"]
 target_ids = ["zagreus"]
 line = "I died and came back too. The guidance of grace pulled me."
 response = "Our deaths are different. Yours seems quieter than mine."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -643,6 +759,8 @@ source_ids = ["pope_leo"]
 target_ids = ["zagreus"]
 line = "Repentance is a second chance for the soul."
 response = "Repentance? I just say sorry to Meg and try not to die."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -654,6 +772,8 @@ source_ids = ["invoker"]
 target_ids = ["zagreus"]
 line = "Your repeated deaths are wasted potential. Learn faster."
 response = "I learn at my own pace. The Styx teaches patience."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -665,6 +785,8 @@ source_ids = ["venti"]
 target_ids = ["zagreus"]
 line = "Every new day is a new verse. Make it a good one."
 response = "I try. Some verses are just repeats of the last failure."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -676,6 +798,8 @@ source_ids = ["gandalf"]
 target_ids = ["tarnished"]
 line = "The grace of the Erdtree is a second chance woven into fate."
 response = "If I fail, I return to the site of grace. Always."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -687,6 +811,8 @@ source_ids = ["pope_leo"]
 target_ids = ["tarnished"]
 line = "You are given as many chances as you have humility to accept."
 response = "My humility is tested every time I meet a demi-god."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -698,6 +824,8 @@ source_ids = ["invoker"]
 target_ids = ["tarnished"]
 line = "Your repeated attempts to claim the Ring are suboptimal."
 response = "Suboptimal is still progress. I do not quit."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -709,6 +837,8 @@ source_ids = ["venti"]
 target_ids = ["tarnished"]
 line = "If you fall, I will write a ballad about how you got up."
 response = "Make it a short one. I plan to get up quickly."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -720,6 +850,8 @@ source_ids = ["tarnished"]
 target_ids = ["gandalf"]
 line = "You fell into shadow and returned wiser. How?"
 response = "I chose not to remain in the dark. That is the whole secret."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -731,6 +863,8 @@ source_ids = ["zagreus"]
 target_ids = ["venti"]
 line = "You ever mess up a performance and have to restart?"
 response = "All the time. I just call it an interlude and try again."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -742,6 +876,8 @@ source_ids = ["tarnished"]
 target_ids = ["gandalf"]
 line = "I train daily with the sword. Yet stars fell still die."
 response = "Train the mind as hard as the arm. That is the real shield."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -753,6 +889,8 @@ source_ids = ["gandalf"]
 target_ids = ["tarnished"]
 line = "A blade's edge is nothing without a steady heart."
 response = "My heart is steady. But my hands still tremble after fog."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -764,6 +902,8 @@ source_ids = ["invoker"]
 target_ids = ["tarnished"]
 line = "Repetition of forms builds muscle memory. Do it one thousand times."
 response = "I have swung this blade ten thousand. It helps little."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -775,6 +915,8 @@ source_ids = ["venti"]
 target_ids = ["tarnished"]
 line = "Box step is good footwork. Try dodging like a dance."
 response = "I will try. Anything that keeps me alive longer helps."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -786,6 +928,8 @@ source_ids = ["pope_leo"]
 target_ids = ["tarnished"]
 line = "Fast before dawn. The body learns humility in the cold."
 response = "I train among the graves. Cold keeps me awake."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -797,6 +941,8 @@ source_ids = ["zagreus"]
 target_ids = ["tarnished"]
 line = "I spar with Skelly in the courtyard. He never stays dead."
 response = "That sounds useful. My sparring partners usually stay dead."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -808,6 +954,8 @@ source_ids = ["gandalf"]
 target_ids = ["zagreus"]
 line = "Your training in the House is unorthodox but effective."
 response = "It has to be. Formal drills get you killed down there."
+source_emote = "proud"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -819,6 +967,8 @@ source_ids = ["invoker"]
 target_ids = ["zagreus"]
 line = "Your cast sequence is sloppy. Let me teach you a rotation."
 response = "My sequence works for me. Spontaneity beats rigidity."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -830,6 +980,8 @@ source_ids = ["venti"]
 target_ids = ["zagreus"]
 line = "Practice your dash timing with the rhythm of a jig."
 response = "I will give it a shot. If I trip, it is your fault."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -841,6 +993,8 @@ source_ids = ["pope_leo"]
 target_ids = ["zagreus"]
 line = "Each death is a drill. Reflect on what you did wrong."
 response = "I reflect while I am in the Styx. It is a long wait."
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -852,6 +1006,8 @@ source_ids = ["gandalf"]
 target_ids = ["invoker"]
 line = "Your arcane drills are perfect. But can you adapt to chaos?"
 response = "Chaos is just ordered randomness. I can compute it."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -863,6 +1019,8 @@ source_ids = ["invoker"]
 target_ids = ["gandalf"]
 line = "Your staff work is sloppy. Hold it at a precise angle."
 response = "The staff is a guide, not a weapon. The mind wields it."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -874,6 +1032,8 @@ source_ids = ["venti"]
 target_ids = ["pope_leo"]
 line = "Practice your sermons in front of a crowd of sheep."
 response = "I practice before the altar. The silence is my audience."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -885,6 +1045,8 @@ source_ids = ["venti"]
 target_ids = ["pope_leo"]
 line = "The farmers are gloomy. A festival would lift their hearts."
 response = "A feast day is due. I will bless the harvest tables."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -896,6 +1058,8 @@ source_ids = ["pope_leo"]
 target_ids = ["venti"]
 line = "Morale flows from faith. Remind them of the coming light."
 response = "I can sing about the light while they dance and forget hunger."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -907,6 +1071,8 @@ source_ids = ["gandalf"]
 target_ids = ["venti"]
 line = "The people need stories of hope, not just ale."
 response = "Ale helps the stories go down easier, old friend."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -918,6 +1084,8 @@ source_ids = ["invoker"]
 target_ids = ["gandalf"]
 line = "Morale is irrational. Data shows rations matter more."
 response = "A full belly and a full heart together build a town."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -929,6 +1097,8 @@ source_ids = ["tarnished"]
 target_ids = ["gandalf"]
 line = "I see despair in their eyes. They need a protector."
 response = "Sometimes they need a protector. Sometimes a listening ear."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -940,6 +1110,8 @@ source_ids = ["zagreus"]
 target_ids = ["venti"]
 line = "Down in Asphodel, morale is low too. Music helps there."
 response = "Then I will play for both worlds. The Styx can be a venue."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -951,6 +1123,8 @@ source_ids = ["pope_leo"]
 target_ids = ["tarnished"]
 line = "Your presence alone stiffens their spine. Keep patrolling."
 response = "I will walk the walls at dusk. A visible guard reassures."
+source_emote = "wave"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -962,6 +1136,8 @@ source_ids = ["gandalf"]
 target_ids = ["pope_leo"]
 line = "A small miracle, a light in the square. That lifts spirits."
 response = "I will pray for a gentle rain. It is simple and good."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -973,6 +1149,8 @@ source_ids = ["invoker"]
 target_ids = ["venti"]
 line = "Repair the water pump. That is concrete morale. Not ballads."
 response = "I will sing while you fix the pump. That is both."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -984,6 +1162,8 @@ source_ids = ["venti"]
 target_ids = ["zagreus"]
 line = "Come to the town square. I will teach them a drinking song."
 response = "I will bring nectar from the House. It is potent."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -995,6 +1175,8 @@ source_ids = ["gandalf"]
 target_ids = ["tarnished"]
 line = "A victory against a small bandit group will embolden them."
 response = "I will ride out at dawn. They will see the banner return."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1006,6 +1188,8 @@ source_ids = ["pope_leo"]
 target_ids = ["invoker"]
 line = "Your calculations ignore the soul. The soul needs kindness."
 response = "Kindness is inefficient. But I yield to your expertise."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1017,5 +1201,7 @@ source_ids = ["gandalf"]
 target_ids = ["zagreus"]
 line = "Tell them a tale from the House. It makes their troubles small."
 response = "I can tell them about Theseus. That always gets a laugh."
+source_emote = "speaking"
+target_emote = "speaking"
 weight = 1.0
 

@@ -1,0 +1,49 @@
+{
+  "id": "rct_rocker_luca_028e",
+  "name": "Rocker Luca",
+  "title": "Rocker",
+  "gender": "any",
+  "archetype": "rocker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "electrode",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "impish",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "electroball",
+        "selfdestruct",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrode",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "lonely",
+      "ability": "soundproof",
+      "moveset": [
+        "swift",
+        "electroball",
+        "selfdestruct",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

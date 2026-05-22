@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_maid_belinda",
+  "name": "Maid Belinda",
+  "title": "Maid",
+  "gender": "any",
+  "archetype": "maid",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "maid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "metronome",
+        "minimize",
+        "meteormash",
+        "endure"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Maid Belinda is ready for a battle."
+  ]
+}

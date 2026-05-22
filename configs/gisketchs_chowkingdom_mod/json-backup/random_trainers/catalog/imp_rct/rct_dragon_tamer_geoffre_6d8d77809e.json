@@ -1,0 +1,56 @@
+{
+  "id": "rct_dragon_tamer_geoffrey_0496",
+  "name": "Dragon Tamer Geoffrey",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:dratini",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "shedskin",
+      "moveset": [
+        "dragonrush",
+        "dragondance",
+        "outrage",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonair",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "dragonrush",
+        "dragondance",
+        "aquatail",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

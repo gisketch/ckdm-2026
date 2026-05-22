@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_dana"
+name = "Ace Trainer Dana"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 55
+maxLevel = 56
+team = [
+  { species = "cobblemon:mightyena", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["crunch", "suckerpunch", "irontail", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kirlia", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "magicalleaf", "shockwave", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You’re willing to battle? Let me see what you have?", "I grew up together with Felix and my team, right from my childhood. All our memories, we’ve always shared them."]

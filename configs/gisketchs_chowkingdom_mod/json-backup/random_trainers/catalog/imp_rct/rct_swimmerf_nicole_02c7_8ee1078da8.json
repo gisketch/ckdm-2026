@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmerf_nicole_02c7",
+  "name": "Swimmer\u2640 Nicole",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:marill",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "thickfat",
+      "moveset": [
+        "raindance",
+        "doubleedge",
+        "superpower",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

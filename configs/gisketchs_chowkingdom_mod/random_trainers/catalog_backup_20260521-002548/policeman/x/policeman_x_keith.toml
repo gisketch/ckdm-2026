@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "policeman_x_keith"
+name = "Policeman Keith"
+title = "Policeman"
+gender = "any"
+archetype = "policeman"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "policeman/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:growlithe", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What’s with you? What are you doing?", "The group stealing other people’s Pokémon seems to be growing lately. You should be careful, too."]

@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmerf_connie_0116",
+  "name": "Swimmer\u2640 Connie",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:floatzel",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "waterveil",
+      "moveset": [
+        "doublehit",
+        "whirlpool",
+        "aquatail",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floatzel",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "waterveil",
+      "moveset": [
+        "doublehit",
+        "whirlpool",
+        "aquatail",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floatzel",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "waterveil",
+      "moveset": [
+        "doublehit",
+        "whirlpool",
+        "aquatail",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

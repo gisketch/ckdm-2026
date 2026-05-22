@@ -1,0 +1,49 @@
+{
+  "id": "rct_cameraman_darryl_0483",
+  "name": "Cameraman Darryl",
+  "title": "Cameraman",
+  "gender": "any",
+  "archetype": "cameraman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "charge",
+        "bite",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "tailwhip",
+        "growl",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

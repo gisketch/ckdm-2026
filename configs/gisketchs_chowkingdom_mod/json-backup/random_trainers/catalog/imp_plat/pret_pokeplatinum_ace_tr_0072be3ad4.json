@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_ruben",
+  "name": "Ace Trainer Male Ruben",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:nuzleaf",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "extrasensory",
+        "fakeout",
+        "feintattack",
+        "razorleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "aquatail",
+        "hydropump",
+        "dragondance",
+        "icefang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "There\u2019s something about you... You\u2019re not just anybody. I challenge you!",
+    "You\u2019ve won countless times... That has made you very powerful."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_sinnoh_leader_candice_05da",
+  "name": "Sinnoh Leader Candice",
+  "title": "Sinnoh Leader",
+  "gender": "any",
+  "archetype": "sinnoh_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "sneasel",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "innerfocus",
+      "moveset": [
+        "feintattack",
+        "iceshard",
+        "aerialace",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "piloswine",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "snowcloak",
+      "moveset": [
+        "icefang",
+        "bulldoze",
+        "rocktomb",
+        "hail"
+      ],
+      "heldItem": "icy_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glaceon",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "snowcloak",
+      "moveset": [
+        "freezedry",
+        "shadowball",
+        "waterpulse",
+        "mirrorcoat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "snowcloak",
+      "moveset": [
+        "icywind",
+        "ominouswind",
+        "waterpulse",
+        "doubleteam"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

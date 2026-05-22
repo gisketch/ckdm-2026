@@ -1,0 +1,96 @@
+{
+  "id": "rct_trainer_brendan_0032",
+  "name": "Trainer Brendan",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:loudred",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "punkrock",
+      "moveset": [
+        "hypervoice",
+        "brickbreak",
+        "icebeam",
+        "shadowball"
+      ],
+      "heldItem": [
+        "chople_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lunatone",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "psyshock",
+        "powergem",
+        "hypnosis",
+        "calmmind"
+      ],
+      "heldItem": [
+        "colbur_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crawdaunt",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "adaptability",
+      "moveset": [
+        "aquajet",
+        "waterfall",
+        "knockoff",
+        "xscissor"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:grovyle",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "poweruppunch",
+        "aerialace",
+        "leafblade",
+        "rocktomb"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

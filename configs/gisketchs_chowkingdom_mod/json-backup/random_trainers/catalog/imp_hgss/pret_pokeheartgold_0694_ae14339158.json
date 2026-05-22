@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeheartgold_0694_scientist_gs_daniel",
+  "name": "Scientist Gs Daniel",
+  "title": "Scientist Gs",
+  "gender": "any",
+  "archetype": "scientist_gs",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "scientist_gs/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:ninetales",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "overheat",
+        "willowisp",
+        "quickattack",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Scientist Gs Daniel is ready for a battle."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_trainer_lucas_04d5",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "cutecharm",
+      "moveset": [
+        "sing",
+        "disarmingvoice",
+        "growl",
+        "lifedew"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "psybeam",
+        "reflect",
+        "allyswitch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "prinplup",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "growl",
+        "peck",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

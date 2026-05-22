@@ -28,12 +28,11 @@ hurt_messages = ["Ow! Fascinating. Your punch has terrible accuracy, {player}.",
 wake_messages = ["Mmm? I was calculating encounter tables in my dreams.", "Awake! Mostly. Did a Pokemon evolve?", "Yes yes, {player}, the professor is conscious and only slightly drooling."]
 # Config value: work_blocks.
 work_blocks = [
-  { id = "minecraft:lectern", count = 1, display_name = "lectern" },
-  { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
-  { id = "minecraft:cartography_table", count = 1, display_name = "field map table" },
-  { id = "minecraft:cauldron", count = 1, display_name = "sample cauldron" },
-  { id = "minecraft:barrel", count = 1, display_name = "supply barrel" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "cobblemon:lectern", count = 1, display_name = "professor lectern" },
+  { id = "cobblemon:display_case", count = 1, display_name = "specimen display case" },
+  { id = "cobblemon:healing_machine", count = 1, display_name = "healing machine" },
+  { id = "supplementaries:blackboard", count = 1, display_name = "field notes blackboard" },
+  { id = "supplementaries:globe", count = 1, display_name = "biome globe" },
 ]
 
 [boss]
@@ -250,6 +249,7 @@ pool = [
   { id = "prof_chowfan_food_fried_rice", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Fried Rice And Bring It Back", quest_text = "Cook fried rice after I ask; science works better when fed.", pass_id = "cozy", xp = 90, chowcoins = 70, goal = 1, fetch_item = "farmersdelight:fried_rice", fetch_count = 1, filters = { item = "farmersdelight:fried_rice" }, weight = 10 },
   { id = "prof_chowfan_cutting_board_prep", category = "task", event = "farmersdelight:cutting_board_used", event_desc = "Use A Cutting Board {goal} Times", quest_text = "Use the cutting board for clean sample prep.", pass_id = "cozy", xp = 60, chowcoins = 30, goal = 3, weight = 8 },
   { id = "prof_chowfan_quiz_cobblemon_research_and_field_safety", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Professor Chowfan's field quiz, assistant.", pass_id = "cozy", xp = 50, chowcoins = 35, quiz_topic = "Cobblemon research and field safety", weight = 10 },
+  { id = "prof_chowfan_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Chowfan", quest_text = "Chowfan has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
 ]
 
 

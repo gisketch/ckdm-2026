@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_brenna",
+  "name": "Ace Trainer Snow Female Brenna",
+  "title": "Ace Trainer Snow Female",
+  "gender": "female",
+  "archetype": "ace_trainer_snow_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "standard",
+  "minLevel": 40,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:sneasel",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "iceshard",
+        "slash",
+        "feintattack",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snorunt",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icefang",
+        "crunch",
+        "hail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snover",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "iceshard",
+        "woodhammer",
+        "ingrain",
+        "grasswhistle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ve only been involved with Pok\u00e9mon for a short time. I managed to get this far because skilled friends toughened me up!",
+    "If you have wonderful friends, there is no limit to how far you can go."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_m_quinn"
+name = "Burglar Quinn"
+title = "Burglar"
+gender = "male"
+archetype = "burglar"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "burglar/male"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 72
+maxLevel = 74
+team = [
+  { species = "cobblemon:incineroar", level = 72, gender = "FEMALE", nature = "naughty", ability = "blaze", moveset = ["scaryface", "flareblitz", "outrage", "crosschop"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:delphox", level = 73, gender = "FEMALE", nature = "timid", ability = "blaze", moveset = ["wish", "psychic", "sunnyday", "magicroom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:emboar", level = 74, gender = "FEMALE", nature = "bold", ability = "reckless", moveset = ["flamethrower", "headsmash", "jumpkick", "flareblitz"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Burglar Quinn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

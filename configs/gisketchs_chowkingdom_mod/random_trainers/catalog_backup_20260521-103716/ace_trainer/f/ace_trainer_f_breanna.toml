@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_breanna"
+name = "Ace Trainer Breanna"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 35
+maxLevel = 38
+team = [
+  { species = "cobblemon:bronzor", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gyroball", "extrasensory", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bronzor", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gyroball", "extrasensory", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bronzor", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gyroball", "extrasensory", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["By focusing on only one type, you can really see the strengths and weaknesses of that Pokémon.", "Start by becoming friendly with your Pokémon. I mean really friendly. If you do that, you’ll learn naturally how you should battle with it.", "I have trained this team for the road. Challenge me if you are ready."]

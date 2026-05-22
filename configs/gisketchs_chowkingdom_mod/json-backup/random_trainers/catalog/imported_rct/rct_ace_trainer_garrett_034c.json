@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_garrett_034c",
+  "name": "Ace Trainer Garrett",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "filter",
+      "moveset": [
+        "copycat",
+        "batonpass",
+        "encore",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "strength"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sneasel",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "leer",
+        "metalclaw",
+        "icywind",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

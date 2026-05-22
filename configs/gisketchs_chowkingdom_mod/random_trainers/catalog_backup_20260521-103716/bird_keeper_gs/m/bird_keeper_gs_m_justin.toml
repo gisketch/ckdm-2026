@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_gs_m_justin"
+name = "Bird Keeper Gs Justin"
+title = "Bird Keeper Gs"
+gender = "male"
+archetype = "bird_keeper_gs"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bird_keeper_gs/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 39
+maxLevel = 44
+team = [
+  { species = "cobblemon:xatu", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:noctowl", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Huh? The wind has changed direction!", "Since the wind has changed, I’ll lay low..."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "painter_x_daisy"
+name = "Painter Daisy"
+title = "Painter"
+gender = "any"
+archetype = "painter"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "painter/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:smeargle", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dynamicpunch", "dizzypunch", "focuspunch", "megapunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Painter Daisy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

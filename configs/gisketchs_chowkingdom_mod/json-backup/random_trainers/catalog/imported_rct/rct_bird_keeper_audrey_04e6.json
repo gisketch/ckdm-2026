@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_audrey_04e6",
+  "name": "Bird Keeper Audrey",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "farfetchd",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "slash",
+        "falseswipe",
+        "knockoff",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swellow",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "quickattack",
+        "endeavor",
+        "bravebird",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

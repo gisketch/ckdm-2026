@@ -1,0 +1,49 @@
+{
+  "id": "rct_fisher_cameron_0333",
+  "name": "Fisher Cameron",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "goldeen",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "waterveil",
+      "moveset": [
+        "tailwhip",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barboach",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

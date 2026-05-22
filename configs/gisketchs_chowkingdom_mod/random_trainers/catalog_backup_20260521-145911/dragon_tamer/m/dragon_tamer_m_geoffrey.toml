@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_m_geoffrey"
+name = "Dragon Tamer Geoffrey"
+title = "Dragon Tamer"
+gender = "male"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 61
+maxLevel = 61
+team = [
+  { species = "cobblemon:dragonair", level = 61, gender = "FEMALE", nature = "adamant", ability = "shedskin", moveset = ["dragonrush", "dragondance", "outrage", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dragonair", level = 61, gender = "FEMALE", nature = "jolly", ability = "shedskin", moveset = ["dragonrush", "dragondance", "aquatail", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Dragon Tamer Geoffrey is ready for a battle.", "See the potential of dragon Pokémon! The Championship is within my sights!", "A Dragon Tamer Champion... I’ll need to train so much more to even come close to coming close...", "I have trained this team for the road. Challenge me if you are ready."]

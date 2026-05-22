@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_x_carly"
+name = "Channeler Carly"
+title = "Channeler"
+gender = "any"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:lampent", level = 39, gender = "MALE", nature = "quiet", ability = "flamebody", moveset = ["imprison", "hex", "memento", "inferno"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Carly is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_daniel"
+name = "Hiker Daniel"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Johto/Kanto;Sinnoh"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 11
+maxLevel = 11
+team = [
+  { species = "cobblemon:geodude", level = 11, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["tackle", "defensecurl", "rockpolish", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machop", level = 11, gender = "MALE", nature = "relaxed", ability = "noguard", moveset = ["lowkick", "leer", "focusenergy", "revenge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 11, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["tackle", "defensecurl", "rockpolish", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bidoof", level = 11, gender = "MALE", nature = "hardy", ability = "unaware", moveset = ["tackle", "growl", "defensecurl", "rollout"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Daniel is ready for a battle.", "Whoa! What a surprise! I didn’t expect to see anyone here!", "I was conned into buying a SlowpokeTail. I feel sorry for the poor Pokémon.", "There’s no mountain here, but I’m dressed to hike! Gahaha! Here goes!", "You can find the same kinds of Pokémon in all sorts of places. There’s no law saying a Hiker can’t go searching off in the mountains!", "I have trained this team for the road. Challenge me if you are ready."]

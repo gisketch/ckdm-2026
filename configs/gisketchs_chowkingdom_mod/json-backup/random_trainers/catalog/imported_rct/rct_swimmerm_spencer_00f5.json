@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerm_spencer_00f5",
+  "name": "Swimmer♂ Spencer",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "inteleon",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "liquidation",
+        "soak",
+        "raindance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

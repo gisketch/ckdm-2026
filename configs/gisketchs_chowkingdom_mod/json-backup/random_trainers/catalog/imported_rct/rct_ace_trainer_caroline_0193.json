@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_caroline_0193",
+  "name": "Ace Trainer Caroline",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 83,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "bellossom",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "quiverdance",
+        "strengthsap",
+        "moonblast"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "parasect",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "dryskin",
+      "moveset": [
+        "spore",
+        "leafblade",
+        "leechlife",
+        "crabhammer"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vileplume",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sludgebomb",
+        "gigadrain",
+        "sleeppowder",
+        "strengthsap"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "amoonguss",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "regenerator",
+      "moveset": [
+        "spore",
+        "foulplay",
+        "gigadrain",
+        "clearsmog"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lopunny",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "klutz",
+      "moveset": [
+        "closecombat",
+        "fakeout",
+        "frustration",
+        "quickattack"
+      ],
+      "heldItem": "mega_showdown:lopunnite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

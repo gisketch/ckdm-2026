@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_zachariah"
+name = "Sailor Zachariah"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "high"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 55
+maxLevel = 58
+team = [
+  { species = "cobblemon:pelipper", level = 55, gender = "MALE", nature = "bold", ability = "drizzle", moveset = ["tailwind", "waterpulse", "roost", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 58, gender = "MALE", nature = "adamant", ability = "noguard", moveset = ["knockoff", "dualchop", "bulkup", "dynamicpunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastrodon", level = 58, gender = "FEMALE", nature = "modest", ability = "stormdrain", moveset = ["recover", "ancientpower", "muddywater", "earthpower"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I came out here because I wanted to see the Pokémon League for myself.", "The way I battle now, well, I can only look at the Pokémon League! You, go on! You go to the Pokémon League for me, too!", "Sailor Zachariah is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

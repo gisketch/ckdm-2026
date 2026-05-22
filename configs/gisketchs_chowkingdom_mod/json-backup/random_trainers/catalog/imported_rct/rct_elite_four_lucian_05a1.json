@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_lucian_05a1",
+  "name": "Lucian",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 69,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "lightscreen",
+        "reflect",
+        "psychic",
+        "dazzlinggleam"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "espeon",
+      "level": 71,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "magicbounce",
+      "moveset": [
+        "psychic",
+        "dazzlinggleam",
+        "shadowball",
+        "lightscreen"
+      ],
+      "heldItem": "mental_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzong",
+      "level": 70,
+      "gender": "GENDERLESS",
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "gyroball",
+        "earthquake",
+        "payback",
+        "rockslide"
+      ],
+      "heldItem": "muscle_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alakazam",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "nastyplot",
+        "psychic",
+        "dazzlinggleam",
+        "shockwave"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gallade",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "justified",
+      "moveset": [
+        "closecombat",
+        "psychocut",
+        "poisonjab",
+        "shadowsneak"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

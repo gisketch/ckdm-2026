@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokecrystal_mysticalman_001_eusine",
+  "name": "Mysticalman Eusine",
+  "title": "Mysticalman",
+  "gender": "any",
+  "archetype": "mysticalman",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "mysticalman/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:drowzee",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "dreameater",
+        "hypnosis",
+        "disable",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lick",
+        "hypnosis",
+        "meanlook",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrode",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "screech",
+        "sonicboom",
+        "thunder",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Mysticalman Eusine is ready for a battle."
+  ]
+}

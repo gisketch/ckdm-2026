@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_x_mackenzie"
+name = "School Kid Mackenzie"
+title = "School Kid"
+gender = "any"
+archetype = "school_kid"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "school_kid/any"
+tier = "mid"
+spawnable = true
+height = 0.91
+weight = 0.92
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:drifloon", level = 28, gender = "MALE", nature = "calm", ability = "aftermath", moveset = ["gust", "stockpile", "swallow", "spitup"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drifloon", level = 28, gender = "FEMALE", nature = "timid", ability = "flareboost", moveset = ["minimize", "focusenergy", "payback", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

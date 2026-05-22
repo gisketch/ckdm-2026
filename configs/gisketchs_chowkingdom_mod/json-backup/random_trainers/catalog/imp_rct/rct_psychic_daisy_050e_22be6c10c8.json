@@ -1,0 +1,56 @@
+{
+  "id": "rct_psychic_daisy_050e",
+  "name": "Psychic Daisy",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:slowbro",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "oblivious",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "surf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

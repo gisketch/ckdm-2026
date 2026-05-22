@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmerm_roland_00f8",
+  "name": "Swimmer♂ Roland",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bellydrum",
+        "wakeupslap",
+        "hydropump",
+        "mudbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ludicolo",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "swiftswim",
+      "moveset": [
+        "astonish",
+        "growl",
+        "megadrain",
+        "naturepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seismitoad",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "swiftswim",
+      "moveset": [
+        "drainpunch",
+        "echoedvoice",
+        "hydropump",
+        "hypervoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

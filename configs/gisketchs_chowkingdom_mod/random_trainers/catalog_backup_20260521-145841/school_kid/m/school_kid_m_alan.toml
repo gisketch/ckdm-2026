@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_alan"
+name = "School Kid Alan"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 47
+maxLevel = 54
+team = [
+  { species = "cobblemon:xatu", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tangrowth", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:quagsire", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:yanmega", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I can properly prepare for any Pokémon adversary!", "Sniffle... I study for five hours straight every day... If you only read the textbook, I guess you miss out on a lot.", "School Kid Male Alan is ready for a battle."]

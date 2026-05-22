@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_agatha_019c",
+  "name": "Agatha",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "gengar",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "toxic",
+        "doubleteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "infiltrator",
+      "moveset": [
+        "confuseray",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "haunter",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "levitate",
+      "moveset": [
+        "hypnosis",
+        "dreameater",
+        "curse",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arbok",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "intimidate",
+      "moveset": [
+        "sludgebomb",
+        "screech",
+        "irontail",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "sludgebomb",
+        "hypnosis",
+        "nightmare"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

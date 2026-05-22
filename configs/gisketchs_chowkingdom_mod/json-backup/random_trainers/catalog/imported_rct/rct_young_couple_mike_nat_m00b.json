@@ -1,0 +1,49 @@
+{
+  "id": "rct_young_couple_mike_nat_m00b",
+  "name": "Young Couple Mike & Nat",
+  "title": "Young Couple Mike",
+  "gender": "any",
+  "archetype": "young_couple_mike",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "murkrow",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "peck",
+        "astonish",
+        "gust",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "misdreavus",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confusion",
+        "astonish",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

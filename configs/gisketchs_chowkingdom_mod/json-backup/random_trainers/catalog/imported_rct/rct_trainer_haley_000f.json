@@ -1,0 +1,113 @@
+{
+  "id": "rct_trainer_haley_000f",
+  "name": "Trainer Haley",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "magnezone",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "voltswitch",
+        "flashcannon",
+        "hiddenpower",
+        "thunderbolt"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hawlucha",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unburden",
+      "moveset": [
+        "skyattack",
+        "acrobatics",
+        "closecombat",
+        "swordsdance"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magmortar",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flamebody",
+      "moveset": [
+        "meteorbeam",
+        "flamethrower",
+        "steameruption",
+        "thunderbolt"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cursola",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "unburden",
+      "moveset": [
+        "meteorbeam",
+        "shadowball",
+        "icebeam",
+        "mysticalfire"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "analytic",
+      "moveset": [
+        "meteorbeam",
+        "surf",
+        "icebeam",
+        "psyshock"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandaconda",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "shedskin",
+      "moveset": [
+        "bodyslam",
+        "rest",
+        "sleeptalk",
+        "coil"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

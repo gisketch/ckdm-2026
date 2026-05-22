@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_edgar"
+name = "Fisherman Edgar"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:remoraid", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["lockon", "psybeam", "aurorabeam", "bubblebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:remoraid", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["lockon", "psybeam", "aurorabeam", "bubblebeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I fish until I can’t anymore. I also battle until I drop. That’s my relationship with my Pokémon.", "That’s 100 wins to 101 losses. I won’t battle again for a while."]

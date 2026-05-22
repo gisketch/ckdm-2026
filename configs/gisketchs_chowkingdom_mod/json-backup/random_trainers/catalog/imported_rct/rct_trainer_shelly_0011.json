@@ -1,0 +1,81 @@
+{
+  "id": "rct_trainer_shelly_0011",
+  "name": "Trainer Shelly",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "dodrio",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "pursuit",
+        "bravebird",
+        "doubleedge",
+        "jumpkick"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "granbull",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "playrough",
+        "thunderwave",
+        "firepunch"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "appletun",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "dracometeor",
+        "superpower",
+        "leafstorm",
+        "recover"
+      ],
+      "heldItem": "eject_pack",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cinccino",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "tailslap",
+        "tripleaxel",
+        "rockblast",
+        "bulletseed"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

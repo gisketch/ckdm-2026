@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_f_ruth"
+name = "Channeler Ruth"
+title = "Channeler"
+gender = "female"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:doublade", level = 38, gender = "FEMALE", nature = "adamant", ability = "sharpness", moveset = ["retaliate", "slash", "irondefense", "nightslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Ruth is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

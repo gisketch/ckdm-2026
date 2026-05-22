@@ -1,0 +1,112 @@
+{
+  "id": "rct_champion_terry_01b6",
+  "name": "Champion Terry",
+  "title": "Champion",
+  "gender": "any",
+  "archetype": "champion",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "pheromosa",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "beastboost",
+      "moveset": [
+        "uturn",
+        "closecombat",
+        "tripleaxel",
+        "poisonjab"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "metagross",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "bulletpunch",
+        "zenheadbutt",
+        "firepunch",
+        "meteormash"
+      ],
+      "heldItem": "mega_showdown:metagrossite assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "groudon",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "careful",
+      "ability": "drought",
+      "moveset": [
+        "firepunch",
+        "precipiceblades",
+        "thunderwave",
+        "stoneedge"
+      ],
+      "heldItem": "mega_showdown:red_orb",
+      "shiny": false,
+      "aspects": [
+        "primal"
+      ]
+    },
+    {
+      "species": "yveltal",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "darkaura",
+      "moveset": [
+        "oblivionwing",
+        "darkpulse",
+        "heatwave",
+        "suckerpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "eternatus",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "meteorbeam",
+        "sludgebomb",
+        "flamethrower",
+        "dynamaxcannon"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ditto",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "imposter",
+      "moveset": [
+        "transform"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

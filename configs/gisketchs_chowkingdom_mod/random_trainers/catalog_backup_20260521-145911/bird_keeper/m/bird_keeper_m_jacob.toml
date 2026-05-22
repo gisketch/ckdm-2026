@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_m_jacob"
+name = "Bird Keeper Jacob"
+title = "Bird Keeper"
+gender = "male"
+archetype = "bird_keeper"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/male"
+tier = "very_high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 89
+maxLevel = 93
+team = [
+  { species = "cobblemon:cramorant", level = 91, gender = "FEMALE", nature = "timid", ability = "gulpmissile", moveset = ["surf", "hurricane", "icebeam", "roost"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:decidueye", level = 89, gender = "FEMALE", nature = "naive", ability = "tintedlens", moveset = ["uturn", "hurricane", "spiritshackle", "leafblade"], heldItem = "['spell_tag']", shiny = false, aspects = [] },
+  { species = "cobblemon:porygon2", level = 93, gender = "GENDERLESS", nature = "bold", ability = "trace", moveset = ["thunder", "icebeam", "foulplay", "teleport"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+  { species = "cobblemon:basculegion", level = 89, gender = "FEMALE", nature = "modest", ability = "adaptability", moveset = ["hydropump", "icebeam", "flipturn", "shadowball"], heldItem = "['weakness_policy']", shiny = false, aspects = ["f"] },
+  { species = "cobblemon:nidoqueen", level = 92, gender = "FEMALE", nature = "timid", ability = "sheerforce", moveset = ["thunder", "earthpower", "sludgewave", "bubblebeam"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Jacob is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

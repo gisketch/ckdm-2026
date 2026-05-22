@@ -1,0 +1,97 @@
+{
+  "id": "rct_shadow_admin_marlon_2_05be",
+  "name": "Shadow Admin Marlon",
+  "title": "Shadow Admin Marlon",
+  "gender": "any",
+  "archetype": "shadow_admin_marlon",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "zapdos",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "discharge",
+        "hurricane",
+        "ancientpower",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dusclops",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "nightshade",
+        "icepunch",
+        "confuseray",
+        "willowisp"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sharpedo",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "aquajet",
+        "crunch",
+        "poisonfang",
+        "icefang"
+      ],
+      "heldItem": "mega_showdown:sharpedonite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swoobat",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "simple",
+      "moveset": [
+        "psychic",
+        "airslash",
+        "shadowball",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "krookodile",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "stompingtantrum",
+        "crunch",
+        "stoneedge",
+        "poweruppunch"
+      ],
+      "heldItem": "black_glasses",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

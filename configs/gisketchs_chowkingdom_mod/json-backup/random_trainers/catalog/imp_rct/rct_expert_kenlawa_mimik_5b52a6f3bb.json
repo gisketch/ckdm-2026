@@ -1,0 +1,43 @@
+{
+  "id": "rct_expert_kenlawa_mimikyu_3_05e7",
+  "name": "Expert Kenlawa",
+  "title": "Expert",
+  "gender": "any",
+  "archetype": "expert",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "expert/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 82,
+  "maxLevel": 82,
+  "team": [
+    {
+      "species": "cobblemon:mimikyu",
+      "level": 82,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "drainpunch",
+        "thunderwave",
+        "protect"
+      ],
+      "heldItem": [
+        "mega_showdown:mimikium_z",
+        "fairy_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

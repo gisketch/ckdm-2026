@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_reli_01f5",
+  "name": "Lass Reli",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "pidgey",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoranf",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "poisontouch",
+      "moveset": [
+        "tailwhip",
+        "doublekick",
+        "poisonsting",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

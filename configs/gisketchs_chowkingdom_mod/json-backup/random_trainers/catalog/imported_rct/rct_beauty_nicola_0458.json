@@ -1,0 +1,33 @@
+{
+  "id": "rct_beauty_nicola_0458",
+  "name": "Beauty Nicola",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "lopunny",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "cutecharm",
+      "moveset": [
+        "mirrorcoat",
+        "doublekick",
+        "charm",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

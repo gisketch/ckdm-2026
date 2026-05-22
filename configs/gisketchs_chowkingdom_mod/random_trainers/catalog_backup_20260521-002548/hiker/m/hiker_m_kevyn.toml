@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_kevyn"
+name = "Hiker Kevyn"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 15
+maxLevel = 17
+team = [
+  { species = "cobblemon:geodude", level = 15, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["tackle", "defensecurl", "rockpolish", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 16, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["tackle", "rockpolish", "harden", "rockthrow"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:zubat", level = 17, gender = "FEMALE", nature = "sassy", ability = "innerfocus", moveset = ["absorb", "supersonic", "astonish", "poisonfang"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 16, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["tackle", "rockpolish", "harden", "rockthrow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

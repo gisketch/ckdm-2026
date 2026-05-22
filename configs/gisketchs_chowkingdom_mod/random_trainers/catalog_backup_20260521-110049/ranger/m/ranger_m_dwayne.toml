@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_m_dwayne"
+name = "Ranger Dwayne"
+title = "Ranger"
+gender = "male"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.15
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:skarmory", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:donphan", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We go on patrol to make sure there’s nothing strange going on. And occasionally, we battle!", "Using the Pokémon ability Pickup for gathering dropped items is a good thing. I think it’s ecological, even. I am cleaning up the environment!"]

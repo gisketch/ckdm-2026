@@ -1,0 +1,65 @@
+{
+  "id": "rct_poke_fan_leonard_0479",
+  "name": "Poké Fan Leonard",
+  "title": "Poke Fan",
+  "gender": "any",
+  "archetype": "poke_fan",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "pichu",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pichu",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "thundershock",
+        "quickattack",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

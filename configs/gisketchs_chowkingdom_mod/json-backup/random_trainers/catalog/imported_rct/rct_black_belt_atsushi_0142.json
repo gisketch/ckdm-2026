@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_belt_atsushi_0142",
+  "name": "Black Belt Atsushi",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crabrawler",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "ironfist",
+      "moveset": [
+        "dizzypunch",
+        "payback",
+        "reversal",
+        "crabhammer"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_battleground_mirskle_05f2",
+  "name": "Leader Mirskle",
+  "title": "Battleground",
+  "gender": "any",
+  "archetype": "battleground",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "roserade",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "technician",
+      "moveset": [
+        "magicalleaf",
+        "sludgebomb",
+        "hiddenpower",
+        "protect"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "florges",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "flowerveil",
+      "moveset": [
+        "dazzlinggleam",
+        "helpinghand",
+        "protect",
+        "flash"
+      ],
+      "heldItem": "bright_powder",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vileplume",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "appleacid",
+        "sludgebomb",
+        "strengthsap",
+        "sweetscent"
+      ],
+      "heldItem": "utility_umbrella",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "comfey",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "triage",
+      "moveset": [
+        "drainingkiss",
+        "calmmind",
+        "sweetscent",
+        "floralhealing"
+      ],
+      "heldItem": "big_root",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "thickfat",
+      "moveset": [
+        "gigadrain",
+        "sludgebomb",
+        "earthpower",
+        "sweetscent"
+      ],
+      "heldItem": "mega_showdown:venusaurite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "breloom",
+      "level": 82,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bulletseed",
+        "machpunch",
+        "rocktomb",
+        "spore"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

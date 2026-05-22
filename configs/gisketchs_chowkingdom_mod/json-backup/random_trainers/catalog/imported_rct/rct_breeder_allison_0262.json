@@ -1,0 +1,65 @@
+{
+  "id": "rct_breeder_allison_0262",
+  "name": "Breeder Allison",
+  "title": "Breeder",
+  "gender": "any",
+  "archetype": "breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "magicguard",
+      "moveset": [
+        "luckychant",
+        "bodyslam",
+        "softboiled",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "magicguard",
+      "moveset": [
+        "luckychant",
+        "bodyslam",
+        "softboiled",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefable",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "sing",
+        "doubleslap",
+        "metronome",
+        "teleport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

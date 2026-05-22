@@ -1,0 +1,81 @@
+{
+  "id": "rct_gym_leader_volkner_03db",
+  "name": "Gym Leader Volkner",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 46,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "raichu",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "voltswitch",
+        "surf",
+        "chargebeam"
+      ],
+      "heldItem": "shuca_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ambipom",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "technician",
+      "moveset": [
+        "fakeout",
+        "thunderbolt",
+        "doublehit",
+        "lastresort"
+      ],
+      "heldItem": "chople_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "octillery",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sniper",
+      "moveset": [
+        "octazooka",
+        "focusenergy",
+        "aurorabeam",
+        "chargebeam"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "luxray",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "thunderfang",
+        "icefang",
+        "crunch",
+        "irontail"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_swimmerm_douglas_00ee",
+  "name": "Swimmer♂ Douglas",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "azumarill",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "hugepower",
+      "moveset": [
+        "raindance",
+        "doubleedge",
+        "superpower",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lumineon",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "stormdrain",
+      "moveset": [
+        "tailwind",
+        "uturn",
+        "bounce",
+        "tailglow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

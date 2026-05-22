@@ -1,0 +1,55 @@
+{
+  "id": "rct_fisher_alec_036a",
+  "name": "Fisher Alec",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "fisher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:magikarp",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

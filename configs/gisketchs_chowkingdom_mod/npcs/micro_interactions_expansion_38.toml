@@ -2,38 +2,46 @@
 id = "expansion_38_001"
 topic = "cobblemon_habitat_patterns"
 source_tags = ["researcher"]
+required_spawned_ids = ["bubblegum"]
 target_tags = ["mentor"]
 line = "I spotted a Fuecoco near the old lava tubes south of town."
 response = "Really? That matches the old survey data Princess Bubblegum archived."
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_002"
 topic = "spell_margin_annotations"
 source_tags = ["wizard"]
+required_spawned_ids = ["gandalf", "zuko"]
 target_tags = ["town"]
 line = "Gandalf found a fire spell margin note. It mentions a 'skyland ignition.'"
 response = "Sounds like Zuko's advanced techniques. He trained near skyland vents."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_003"
 topic = "old_map_fragment"
 source_tags = ["researcher"]
+required_spawned_ids = ["aang"]
 target_tags = ["mentor"]
 line = "This map fragment shows a pre-split skyland cluster. It's unlabeled."
 response = "Aang might know it. He mapped wind currents over those isles years ago."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_004"
 topic = "ancient_library_catalog"
 source_tags = ["wizard"]
+required_spawned_ids = ["invoker", "zelda"]
 target_tags = ["town"]
 line = "Invoker found a library catalog entry for 'Dragon Memory Volume Two.'"
 response = "Zelda recovered Volume One after the Light Dragon transformation."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_005"
 topic = "pokemon_record_anomaly"
@@ -41,35 +49,43 @@ source_tags = ["researcher"]
 target_tags = ["researcher"]
 line = "Bubblegum's Pokedex log has a gap during the skyland convergence week."
 response = "I can fill that. My patrol scanned a Riolu surge near crystal spires."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_38_006"
 topic = "wind_magic_tome"
 source_tags = ["wizard"]
+required_spawned_ids = ["aang"]
 target_tags = ["mentor"]
 line = "This tome details wind magic for seed dispersal over barren skylands."
 response = "Aang taught me that. We planted berry patches on three floating isles."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_007"
 topic = "sword_technique_record"
 source_tags = ["warrior"]
+required_spawned_ids = ["link"]
 target_tags = ["mentor"]
 line = "Link documented a Skyward Strike variant using charged light energy."
 response = "I saw that in a TotK mural fragment. It breaks gloom barriers."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_008"
 topic = "night_serum_study"
 source_tags = ["town"]
+required_spawned_ids = ["marceline"]
 target_tags = ["nocturnal"]
 line = "Marceline transcribed a night serum recipe from a dusty alchemy shelf."
 response = "Good. I mix that for nocturnal patrols. It sharpens my vision."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_009"
 topic = "cobblemon_evolution_notes"
@@ -77,89 +93,109 @@ source_tags = ["researcher"]
 target_tags = ["town"]
 line = "Bubblegum's notes show a trade evolution for Machoke using a skyland cable."
 response = "Ezios trade routes can procure that cable from the upper market."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_38_010"
 topic = "water_purification_spell"
 source_tags = ["wizard"]
+required_spawned_ids = ["elsa", "katara"]
 target_tags = ["mentor"]
 line = "Katara's purification spell has a margin note about reverse contamination."
 response = "Elsa and I adapted it to cleanse frost-corrupted ponds. It works."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_011"
 topic = "berzerker_mantra_script"
 source_tags = ["berserker"]
+required_spawned_ids = ["venti", "zagreus"]
 target_tags = ["bard"]
 line = "Zagreus left a rage mantra script on the reading table. Yours?"
 response = "No, but the rhythm resembles a war chant Venti performed last solstice."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_012"
 topic = "paladin_elixir_recipe"
 source_tags = ["paladin"]
+required_spawned_ids = ["pope_leo", "tarnished"]
 target_tags = ["priest"]
 line = "Tarnished scribbled an elixir recipe for light-infused regeneration."
 response = "Pope Leo blessed those ingredients during the last dawn vigil."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_013"
 topic = "venom_sample_log"
 source_tags = ["bounty_hunter"]
+required_spawned_ids = ["aloy"]
 target_tags = ["researcher"]
 line = "Aloy logged a Toxic Spikes sample from a wild Roserade near the swamp."
 response = "I can analyze it against Bubblegum's poison-type reference table."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_014"
 topic = "frost_magic_study"
 source_tags = ["wizard"]
+required_spawned_ids = ["elsa", "toph"]
 target_tags = ["mentor"]
 line = "Elsa's notes describe binding frost to a Pokemon move called Ice Beam."
 response = "Toph suggested anchoring the cold into bedrock to prevent thawing."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_015"
 topic = "rogue_shadow_step"
 source_tags = ["rogue"]
+required_spawned_ids = ["ezio", "huntress_wizard"]
 target_tags = ["archer"]
 line = "Ezio sketched a shadow-step technique that melds with tall grass."
 response = "Huntress Wizard uses similar cover to stalk prey without a sound."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_016"
 topic = "bardic_lore_chant"
 source_tags = ["bard"]
+required_spawned_ids = ["aang", "venti"]
 target_tags = ["town"]
 line = "Venti composed a chant about the first skyland seed brought by wind."
 response = "Aang says that seed grew the great tree anchoring the east market."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_017"
 topic = "forge_blueprint"
 source_tags = ["warrior"]
+required_spawned_ids = ["finn"]
 target_tags = ["town"]
 line = "Finn found a forge blueprint for a shield that reflects Pokemon sparks."
 response = "Bubblegum can coat it with rubberized candy polymer at the shop."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_018"
 topic = "witcher_bestiary_add"
 source_tags = ["witcher"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["researcher"]
 line = "Geralt added a Araquanid entry. It hunts along the skyland waterfalls."
 response = "Ciri confirmed that. She saw one snag a Drifloon mid-flight."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_019"
 topic = "cosmetic_ink_log"
@@ -167,242 +203,296 @@ source_tags = ["town"]
 target_tags = ["store_cosmetics"]
 line = "Shoumai logged a vibrant ink made from crushed Cheri Berry petals."
 response = "I stock that ink. It's popular for map coloring and rune tracing."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_38_020"
 topic = "seismic_scout_pattern"
 source_tags = ["wizard"]
+required_spawned_ids = ["link", "toph"]
 target_tags = ["mentor"]
 line = "Toph's seismic scout pattern detects underground Pokemon dens near bedrock."
 response = "Link used that data to mark a Dunsparce tunnel for new patrols."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_021"
 topic = "archer_fletching_jig"
 source_tags = ["archer"]
+required_spawned_ids = ["finn", "legolas"]
 target_tags = ["warrior"]
 line = "Legolas designed a fletching jig using Doduo feathers. It's precise."
 response = "Finn wants one for his shortbow. He trains against wild Spearow."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_022"
 topic = "monster_lure_blueprint"
 source_tags = ["monster_hunter"]
+required_spawned_ids = ["ciri"]
 target_tags = ["researcher"]
 line = "Ciri drew a monster lure blueprint that channels Aura Sphere energy."
 response = "That might attract Lucario. Bubblegum can test the frequency range."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_023"
 topic = "dragon_memory_sketch"
 source_tags = ["town"]
+required_spawned_ids = ["zelda"]
 target_tags = ["zelda"]
 line = "Zelda sketched a Light Dragon scale pattern from her memories."
 response = "I recognize that iridescence. It matches the sword's tear slots."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_024"
 topic = "seed_shop_inventory"
 source_tags = ["store_seed"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "The seed shop logs a shipment of Tamato Berries for spicy bait."
 response = "Katara mixes those into a gel that repels wild Water-types. Saves crops."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_025"
 topic = "explorer_pack_catalog"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["aloy"]
 target_tags = ["bounty_hunter"]
 line = "The explorer pack catalog now lists a grapple hook for skyland vines."
 response = "Aloy uses a similar tool. I'll order two for the next cliff patrol."
+source_emote = "clap"
+target_emote = "hands_in_back"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_026"
 topic = "fire_conduit_tome"
 source_tags = ["wizard"]
+required_spawned_ids = ["invoker", "zuko"]
 target_tags = ["mentor"]
 line = "Zuko's fire conduit tome mentions channeling Flamethrower through a staff."
 response = "Invoker tried it with a focus crystal. The staff didn't overheat."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_027"
 topic = "pokemon_egg_watch"
 source_tags = ["researcher"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "Bubblegum monitors a warm egg in the shop incubator. It glows faintly."
 response = "Marceline sang to it last night. The glow pulsed in rhythm."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_028"
 topic = "poetry_margin_scroll"
 source_tags = ["bard"]
+required_spawned_ids = ["gandalf", "venti"]
 target_tags = ["wizard"]
 line = "Venti found poetry in a spell margin. It rhymes with 'arid skyland.'"
 response = "Gandalf says old wind wizards hid messages in lyrical spells."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_029"
 topic = "forcemaster_training_log"
 source_tags = ["forcemaster"]
+required_spawned_ids = ["tarnished", "vi"]
 target_tags = ["warrior"]
 line = "Vi logged a training drill that channels force into a shield bash."
 response = "Tarnished wants to weave that into a paladin guard stance."
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_030"
 topic = "priest_purification_rite"
 source_tags = ["priest"]
+required_spawned_ids = ["elsa", "pope_leo"]
 target_tags = ["wizard"]
 line = "Pope Leo's purification rite cleanses corrosion from old rune stones."
 response = "Elsa tested it on a frozen rune. The script became legible again."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_031"
 topic = "tundra_arrow_batch"
 source_tags = ["archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["town"]
 line = "Traxex fletched arrows with Corvisquire feather vanes. Very silent."
 response = "I'll stock those in the explorer store. Hunters request quiet gear."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_032"
 topic = "skyland_survival_log"
 source_tags = ["town"]
+required_spawned_ids = ["link"]
 target_tags = ["mentor"]
 line = "The skyland survival log recommends a Sunflora beacon for cloudy days."
 response = "Link placed one on the east isle. It guided a lost courier home."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_033"
 topic = "arcane_resonance_test"
 source_tags = ["wizard"]
+required_spawned_ids = ["invoker"]
 target_tags = ["researcher"]
 line = "Invoker tested an arcane resonance on a Psyduck. It stopped its headache."
 response = "Bubblegum wants data on that. It could calm wild Pokemon during research."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_034"
 topic = "cobblemon_biology_sketch"
 source_tags = ["researcher"]
+required_spawned_ids = ["finn"]
 target_tags = ["town"]
 line = "Bubblegum sketched a Mareanie spine cross-section. Highly porous."
 response = "Finn says that spine tip can pierce a leather bracer clean through."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_035"
 topic = "sword_hilt_engrave"
 source_tags = ["warrior"]
+required_spawned_ids = ["link", "zelda"]
 target_tags = ["mentor"]
 line = "Link engraved a technique pattern onto his sword hilt. It glows softly."
 response = "That's a memory seal. Zelda's light magic stabilized the engraving."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_036"
 topic = "witch_oil_recipe"
 source_tags = ["witcher"]
+required_spawned_ids = ["geralt", "marceline"]
 target_tags = ["town"]
 line = "Geralt left an oil recipe effective against Ghost-type Cobblemon."
 response = "Marceline says the base oil smells like wild lavender. She approves."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_037"
 topic = "light_dragon_ledger"
 source_tags = ["zelda"]
+required_spawned_ids = ["zelda"]
 target_tags = ["researcher"]
 line = "Zelda's ledger records light energy readings during a full moon."
 response = "That's when wild Clefairy gather. Bubblegum tracks their dance sites."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_038"
 topic = "war_archer_tactic"
 source_tags = ["archer"]
+required_spawned_ids = ["legolas", "tarnished"]
 target_tags = ["warrior"]
 line = "Legolas wrote a tactic to fire arrows through a Friend Guard field."
 response = "Tarnished trained his team to hold that guard. The combo is lethal."
+source_emote = "threaten"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_039"
 topic = "brew_barrel_log"
 source_tags = ["berserker"]
+required_spawned_ids = ["huntress_wizard", "zagreus"]
 target_tags = ["town"]
 line = "Zagreus tapped a barrel aged with Pinap Berry concentrate."
 response = "The cafe sells that brew now. Huntress Wizard buys it before night hunts."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_040"
 topic = "glacier_map_clue"
 source_tags = ["wizard"]
+required_spawned_ids = ["elsa", "toph"]
 target_tags = ["mentor"]
 line = "Elsa found a map clue about a frozen dungeon under the north skyland."
 response = "Toph can't sense it through ice. We need a fire-magic scout team."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_041"
 topic = "amethyst_dust_study"
 source_tags = ["wizard"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["store_pokemon"]
 line = "Gandalf tested amethyst dust on a Gastly. It stabilized its gas form."
 response = "Bubblegum sells that dust as a focus item for Ghost-type bonding."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_042"
 topic = "ranger_scroll_cache"
 source_tags = ["bounty_hunter"]
+required_spawned_ids = ["aloy"]
 target_tags = ["explorer"]
 line = "Aloy found a cache of ranger scrolls buried under a fallen sky oak."
 response = "Those scrolls map berry groves. The seed shop will thank us."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_043"
 topic = "vampire_lore_book"
 source_tags = ["nocturnal"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "Marceline donated a book on nocturnal Pokemon behavior. It's handwritten."
 response = "That explains why Zubat swarm during the new moon. Great reference."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_044"
 topic = "wind_chime_log"
 source_tags = ["bard"]
+required_spawned_ids = ["aang", "venti"]
 target_tags = ["mentor"]
 line = "Venti hung wind chimes tuned to Flying-type chatter frequencies."
 response = "Aang says the chimes calm Rufflet near the town gates. Smart."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_045"
 topic = "duel_technique_memo"
 source_tags = ["warrior"]
+required_spawned_ids = ["ezio", "finn"]
 target_tags = ["sword_technique"]
 line = "Finn wrote a duel memo about sidestepping a Discharge attack mid-swing."
 response = "Ezio can refine that with a rogue pivot. I'll share it with him."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_046"
 topic = "potion_substitute_trial"
@@ -410,26 +500,32 @@ source_tags = ["researcher"]
 target_tags = ["town"]
 line = "Bubblegum trialed a Potion substitute made from boiled Oran paste."
 response = "Shoumai tried the leftover paste as a face mask. She liked it."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_38_047"
 topic = "crystal_harvest_method"
 source_tags = ["wizard"]
+required_spawned_ids = ["invoker", "zuko"]
 target_tags = ["mentor"]
 line = "Invoker detailed a crystal harvest method using precise fire bursts."
 response = "Zuko can teach controlled ignition. The crystal spires need that."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_048"
 topic = "stealth_perfume_log"
 source_tags = ["rogue"]
+required_spawned_ids = ["ezio"]
 target_tags = ["store_cosmetics"]
 line = "Ezio formulated a stealth perfume that masks human scent from wild Pokemon."
 response = "Shoumai bottles it as 'Shadowscent.' It sells out before patrols."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_38_049"
 topic = "sunstone_charging_log"
@@ -437,13 +533,18 @@ source_tags = ["town"]
 target_tags = ["researcher"]
 line = "The library's sunstone charging station logged a full charge at dawn."
 response = "Good. Bubblegum needs that for the second incubator batch today."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_38_050"
 topic = "full_moon_ritual_note"
 source_tags = ["priest"]
+required_spawned_ids = ["marceline", "pope_leo"]
 target_tags = ["nocturnal"]
 line = "Pope Leo left a ritual note for blessing items under a full moon."
 response = "Marceline joined the last one. She said the light felt like morning."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0

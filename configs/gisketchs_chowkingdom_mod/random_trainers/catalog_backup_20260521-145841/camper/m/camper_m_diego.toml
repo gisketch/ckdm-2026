@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_m_diego"
+name = "Camper Diego"
+title = "Camper"
+gender = "male"
+archetype = "camper"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/male"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 13
+maxLevel = 17
+team = [
+  { species = "cobblemon:cascoon", level = 13, gender = "MALE", nature = "naive", ability = "shedskin", moveset = ["tackle", "stringshot", "poisonsting", "harden"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 17, gender = "MALE", nature = "hasty", ability = "shielddust", moveset = ["gust", "confusion", "poisonpowder", "moonlight"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Humph! You’re lost, aren’t you? I’ll guide you if you can beat me.", "I’m not lost, I tell you! I’m camping! That’s my story!", "I have trained this team for the road. Challenge me if you are ready."]

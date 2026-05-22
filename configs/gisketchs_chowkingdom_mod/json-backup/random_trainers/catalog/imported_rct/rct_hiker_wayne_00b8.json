@@ -1,0 +1,33 @@
+{
+  "id": "rct_hiker_wayne_00b8",
+  "name": "Hiker Wayne",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "nosepass",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "magnetpull",
+      "moveset": [
+        "bulldoze",
+        "thunderwave",
+        "rest",
+        "discharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

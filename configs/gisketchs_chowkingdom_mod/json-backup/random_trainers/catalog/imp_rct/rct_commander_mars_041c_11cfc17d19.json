@@ -1,0 +1,74 @@
+{
+  "id": "rct_commander_mars_041c",
+  "name": "Commander Mars",
+  "title": "Commander",
+  "gender": "any",
+  "archetype": "commander",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "commander/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "astonish",
+        "poisonfang",
+        "bite",
+        "uturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzor",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:purugly",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "slash",
+        "uturn"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

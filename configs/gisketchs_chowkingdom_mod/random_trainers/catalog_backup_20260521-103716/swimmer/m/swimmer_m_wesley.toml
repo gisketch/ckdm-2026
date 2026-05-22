@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_wesley"
+name = "Swimmer Wesley"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:floatzel", level = 58, gender = "FEMALE", nature = "jolly", ability = "swiftswim", moveset = ["icefang", "crunch", "aquajet", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 58, gender = "MALE", nature = "timid", ability = "liquidooze", moveset = ["acidarmor", "poisonjab", "sludgewave", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve decided! I’m off to the Pokémon League if I win!", "It’s OK. Just let me float away like driftwood...", "Swimmer Male Wesley is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

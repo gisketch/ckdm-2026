@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_x_zac"
+name = "Super Nerd Zac"
+title = "Super Nerd"
+gender = "any"
+archetype = "super_nerd"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "super_nerd/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 70
+maxLevel = 72
+team = [
+  { species = "cobblemon:arcanine", level = 70, gender = "FEMALE", nature = "careful", ability = "flashfire", moveset = ["firefang", "flareblitz", "helpinghand", "retaliate"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:houndoom", level = 72, gender = "MALE", nature = "jolly", ability = "flashfire", moveset = ["flamethrower", "fierywrath", "nastyplot", "inferno"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Zac is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

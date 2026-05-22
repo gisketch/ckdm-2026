@@ -1,0 +1,83 @@
+{
+  "id": "rct_black_emboar_james_05d9",
+  "name": "Black Emboar James",
+  "title": "Black Emboar",
+  "gender": "any",
+  "archetype": "black_emboar",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "accelgor",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "hydration",
+      "moveset": [
+        "strugglebug",
+        "acidspray",
+        "megadrain",
+        "toxicspikes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grimer",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonfang",
+        "bite",
+        "icepunch",
+        "minimize"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "pignite",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "flamecharge",
+        "lowsweep",
+        "rocktomb",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "koffing",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "sludge",
+        "assurance",
+        "painsplit",
+        "poisongas"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

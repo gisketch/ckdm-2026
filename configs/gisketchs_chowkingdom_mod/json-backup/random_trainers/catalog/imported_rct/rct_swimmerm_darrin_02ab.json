@@ -1,0 +1,81 @@
+{
+  "id": "rct_swimmerm_darrin_02ab",
+  "name": "Swimmer♂ Darrin",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "seadra",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seadra",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seadra",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seadra",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

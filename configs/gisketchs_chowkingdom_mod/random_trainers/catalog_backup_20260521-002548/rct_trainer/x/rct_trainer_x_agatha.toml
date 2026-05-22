@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_agatha"
+name = "Rct Trainer Agatha"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 65
+maxLevel = 70
+team = [
+  { species = "cobblemon:gengar", level = 66, gender = "FEMALE", nature = "lax", ability = "levitate", moveset = ["shadowball", "psychic", "confuseray", "hypnosis"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:crobat", level = 66, gender = "FEMALE", nature = "bashful", ability = "infiltrator", moveset = ["sludgebomb", "aircutter", "shadowball", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:misdreavus", level = 65, gender = "MALE", nature = "docile", ability = "levitate", moveset = ["shadowball", "psychic", "thunderbolt", "attract"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:arbok", level = 68, gender = "FEMALE", nature = "serious", ability = "intimidate", moveset = ["sludgebomb", "earthquake", "gigadrain", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 70, gender = "FEMALE", nature = "naughty", ability = "levitate", moveset = ["shadowball", "psychic", "thunderbolt", "sludgebomb"], heldItem = "['chesto_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

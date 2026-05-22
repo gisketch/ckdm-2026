@@ -1,0 +1,48 @@
+{
+  "id": "rct_trainer_brendan_002c",
+  "name": "Trainer Brendan",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "corphish",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "battlearmor",
+      "moveset": [
+        "bubble",
+        "harden",
+        "visegrip",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "treecko",
+      "level": 8,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "overgrow",
+      "moveset": [
+        "pound",
+        "leer",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

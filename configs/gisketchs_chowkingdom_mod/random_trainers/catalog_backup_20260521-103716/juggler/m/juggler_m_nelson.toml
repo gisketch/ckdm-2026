@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_nelson"
+name = "Juggler Nelson"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 76
+maxLevel = 82
+team = [
+  { species = "cobblemon:hypno", level = 80, gender = "FEMALE", nature = "naive", ability = "insomnia", moveset = ["swagger", "nastyplot", "psyshock", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 81, gender = "GENDERLESS", nature = "adamant", ability = "soundproof", moveset = ["explosion", "gyroball", "mirrorcoat", "courtchange"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:meowstic", level = 76, gender = "MALE", nature = "quirky", ability = "prankster", moveset = ["imprison", "suckerpunch", "mistyterrain", "quickguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gothitelle", level = 82, gender = "MALE", nature = "relaxed", ability = "frisk", moveset = ["psychic", "charm", "magicroom", "psychoboost"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Nelson is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

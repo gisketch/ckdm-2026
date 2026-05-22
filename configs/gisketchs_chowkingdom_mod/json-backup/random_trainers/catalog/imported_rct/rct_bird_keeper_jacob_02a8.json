@@ -1,0 +1,81 @@
+{
+  "id": "rct_bird_keeper_jacob_02a8",
+  "name": "Bird Keeper Jacob",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "fearow",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "technician",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spearow",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "technician",
+      "moveset": [
+        "furyattack",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "technician",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spearow",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "furyattack",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

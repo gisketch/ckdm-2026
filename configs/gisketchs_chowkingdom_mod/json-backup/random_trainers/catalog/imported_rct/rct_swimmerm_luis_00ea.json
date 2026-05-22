@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerm_luis_00ea",
+  "name": "Swimmer♂ Luis",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "shellder",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "battlearmor",
+      "moveset": [
+        "withdraw",
+        "supersonic",
+        "iciclespear",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tirtouga",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "solidrock",
+      "moveset": [
+        "bite",
+        "detect",
+        "aquajet",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

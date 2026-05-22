@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0104_ace_trainer_male_brian",
+  "name": "Ace Trainer Male Brian",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:mareep",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "signalbeam",
+        "cottonspore",
+        "tackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hm? You\u2019re good, aren\u2019t you?",
+    "A good Trainer can recognize other good Trainers."
+  ]
+}

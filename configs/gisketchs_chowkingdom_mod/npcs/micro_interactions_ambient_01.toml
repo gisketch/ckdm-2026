@@ -1,0 +1,183 @@
+[[solo_moments]]
+id = "town_workplace_no_assignment"
+topic = "missing_workplace"
+source_tags = ["town"]
+activities = ["work"]
+line = "I should set up a proper workplace soon."
+weight = 3.0
+
+[[solo_moments]]
+id = "town_checks_paths"
+topic = "roam"
+source_tags = ["town"]
+line = "These paths tell you where people really walk."
+weight = 2.0
+
+[[solo_moments]]
+id = "town_plaza_count"
+topic = "plaza"
+source_tags = ["town"]
+activities = ["meetup"]
+line = "The plaza feels different when everyone passes through."
+weight = 2.0
+
+[[solo_moments]]
+id = "mentor_training_ground"
+topic = "training"
+source_tags = ["mentor"]
+activities = ["work", "meetup"]
+line = "Good training starts before anyone draws a weapon."
+weight = 2.0
+
+[[solo_moments]]
+id = "mentor_weather_read"
+topic = "weather"
+source_tags = ["mentor"]
+line = "Weather changes footwork more than students expect."
+weight = 1.5
+
+[[solo_moments]]
+id = "pokemon_trainer_tracks"
+topic = "pokemon"
+source_tags = ["pokemon_trainer"]
+activities = ["pokemon_roam"]
+line = "Fresh tracks. Something strong passed through here."
+weight = 3.0
+
+[[solo_moments]]
+id = "pokemon_trainer_stance"
+topic = "pokemon"
+source_tags = ["pokemon_trainer"]
+activities = ["pokemon_roam"]
+line = "That battle stance is worth remembering."
+weight = 3.0
+
+[[solo_moments]]
+id = "researcher_field_notes"
+topic = "research"
+source_tags = ["researcher"]
+line = "Field notes matter more when the field keeps moving."
+weight = 2.0
+
+[[solo_moments]]
+id = "shopkeeper_stock_route"
+topic = "shop_stock"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "Stock moves faster when the route makes sense."
+weight = 2.0
+
+[[solo_moments]]
+id = "store_pokemon_observation"
+topic = "pokemon"
+source_tags = ["store_pokemon"]
+activities = ["pokemon_roam", "work"]
+line = "No sample beats watching Pokemon in motion."
+weight = 2.0
+
+[[solo_moments]]
+id = "store_cosmetics_display"
+topic = "shop_stock"
+source_tags = ["store_cosmetics"]
+activities = ["work"]
+line = "A good display starts with the light."
+weight = 2.0
+
+[[solo_moments]]
+id = "store_seed_soil"
+topic = "gardens"
+source_tags = ["store_seed"]
+activities = ["work"]
+line = "Soil tells the truth if you slow down."
+weight = 2.0
+
+[[solo_moments]]
+id = "bard_listens_to_town"
+topic = "songs"
+source_tags = ["bard"]
+line = "Every town has a rhythm if you stop talking."
+weight = 2.0
+
+[[solo_moments]]
+id = "rogue_checks_corners"
+topic = "stealth"
+source_tags = ["rogue"]
+line = "Corners teach more than open roads."
+weight = 2.0
+
+[[solo_moments]]
+id = "warrior_patrol_breath"
+topic = "patrol"
+source_tags = ["warrior"]
+line = "A quiet patrol still counts as training."
+weight = 2.0
+
+[[solo_moments]]
+id = "wizard_reads_air"
+topic = "magic_theory"
+source_tags = ["wizard"]
+line = "The air has a pattern today."
+weight = 2.0
+
+[[solo_moments]]
+id = "fire_wizard_heat"
+topic = "elements"
+source_tags = ["fire_wizard"]
+line = "Heat moves before flame does."
+weight = 2.0
+
+[[solo_moments]]
+id = "water_wizard_current"
+topic = "elements"
+source_tags = ["water_wizard"]
+line = "Water remembers the shape of every path."
+weight = 2.0
+
+[[solo_moments]]
+id = "earth_wizard_ground"
+topic = "elements"
+source_tags = ["earth_wizard"]
+line = "The ground says who has been rushing."
+weight = 2.0
+
+[[solo_moments]]
+id = "wind_wizard_breeze"
+topic = "elements"
+source_tags = ["wind_wizard"]
+line = "The breeze keeps changing its mind."
+weight = 2.0
+
+[[solo_moments]]
+id = "frost_wizard_silence"
+topic = "frost"
+source_tags = ["frost_wizard"]
+line = "Cold makes every small sound honest."
+weight = 2.0
+
+[[solo_moments]]
+id = "witcher_tracks"
+topic = "tracks"
+source_tags = ["witcher"]
+line = "Old tracks, light steps, no panic. Good."
+weight = 2.0
+
+[[solo_moments]]
+id = "paladin_watch"
+topic = "duty"
+source_tags = ["paladin"]
+line = "A quiet watch is still a vow kept."
+weight = 2.0
+
+[[solo_moments]]
+id = "berserker_pace"
+topic = "training"
+source_tags = ["berserker"]
+line = "Pacing keeps the blood honest."
+weight = 2.0
+
+[[solo_moments]]
+id = "archer_wind_line"
+topic = "bows"
+source_tags = ["archer"]
+line = "Wind first, string second."
+weight = 2.0

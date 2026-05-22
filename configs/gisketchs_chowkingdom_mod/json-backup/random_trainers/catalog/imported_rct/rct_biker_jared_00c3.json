@@ -1,0 +1,97 @@
+{
+  "id": "rct_biker_jared_00c3",
+  "name": "Biker Jared",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "crustle",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "stealthrock",
+        "spikes",
+        "stoneedge",
+        "earthquake"
+      ],
+      "heldItem": "custap_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "leavanny",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarblade",
+        "swordsdance",
+        "xscissor",
+        "sacredsword"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "camerupt",
+      "level": 88,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "solidrock",
+      "moveset": [
+        "fireblast",
+        "earthpower",
+        "solarbeam",
+        "ancientpower"
+      ],
+      "heldItem": "mega_showdown:cameruptite assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "eelektross",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "fireblast",
+        "gigadrain",
+        "voltswitch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mamoswine",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "headlongrush",
+        "iciclecrash",
+        "iceshard",
+        "rocktomb"
+      ],
+      "heldItem": "soft_sand",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

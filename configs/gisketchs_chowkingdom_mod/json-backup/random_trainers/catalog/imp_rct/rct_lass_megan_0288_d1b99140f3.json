@@ -1,0 +1,104 @@
+{
+  "id": "rct_lass_megan_0288",
+  "name": "Lass Megan",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "tangledfeet",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoranm",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "rivalry",
+      "moveset": [
+        "doublekick",
+        "poisonsting",
+        "furyattack",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meowth",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "technician",
+      "moveset": [
+        "fakeout",
+        "bulletseed",
+        "furyswipes",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "quickattack",
+        "electroball",
+        "thunderwave",
+        "feint"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

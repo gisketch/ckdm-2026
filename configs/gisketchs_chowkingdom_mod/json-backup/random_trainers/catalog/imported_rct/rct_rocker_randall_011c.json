@@ -1,0 +1,65 @@
+{
+  "id": "rct_rocker_randall_011c",
+  "name": "Rocker Randall",
+  "title": "Rocker",
+  "gender": "any",
+  "archetype": "rocker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "voltorb",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "rash",
+      "ability": "static",
+      "moveset": [
+        "rollout",
+        "screech",
+        "chargebeam",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magnemite",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "magnetbomb",
+        "lightscreen",
+        "sonicboom",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "voltorb",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "rollout",
+        "screech",
+        "chargebeam",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

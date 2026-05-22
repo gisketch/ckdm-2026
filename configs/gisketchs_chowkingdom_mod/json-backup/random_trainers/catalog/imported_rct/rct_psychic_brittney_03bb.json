@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_brittney_03bb",
+  "name": "Psychic Brittney",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "medicham",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "purepower",
+      "moveset": [
+        "highjumpkick",
+        "psychup",
+        "reversal",
+        "feint"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alakazam",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "calmmind",
+        "psychic",
+        "futuresight",
+        "psyshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

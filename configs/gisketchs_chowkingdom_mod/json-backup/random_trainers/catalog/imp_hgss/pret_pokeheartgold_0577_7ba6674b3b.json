@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0577_biker_markey",
+  "name": "Biker Markey",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:skorupi",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey hey hey! You\u2019re in my way! IN MY WAY!",
+    "Won\u2019t you give it a try? Would you like to join my team?"
+  ]
+}

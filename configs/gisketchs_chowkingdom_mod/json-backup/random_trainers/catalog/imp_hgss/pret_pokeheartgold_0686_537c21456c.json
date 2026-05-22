@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0686_boarder_bryce",
+  "name": "Boarder Bryce",
+  "title": "Boarder",
+  "gender": "any",
+  "archetype": "boarder",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "boarder/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:dewgong",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lapras",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What did you come all the way out here for, I wonder.",
+    "Trainers are everywhere."
+  ]
+}

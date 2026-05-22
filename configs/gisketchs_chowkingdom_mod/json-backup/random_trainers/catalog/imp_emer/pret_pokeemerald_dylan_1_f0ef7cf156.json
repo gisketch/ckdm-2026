@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_dylan_1",
+  "name": "Triathlete Dylan",
+  "title": "Triathlete",
+  "gender": "any",
+  "archetype": "triathlete",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "triathlete/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:doduo",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Triathlete Dylan is ready for a battle."
+  ]
+}

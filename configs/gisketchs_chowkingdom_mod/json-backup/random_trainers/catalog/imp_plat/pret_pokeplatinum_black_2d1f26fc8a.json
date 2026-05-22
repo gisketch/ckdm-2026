@@ -1,0 +1,69 @@
+{
+  "id": "pret_pokeplatinum_black_belt_colby",
+  "name": "Black Belt Colby",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "karatechop",
+        "leer",
+        "foresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lowkick",
+        "foresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "submission",
+        "leer",
+        "foresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We\u2019re the Karate Quads! I will strike a blow for love with my fist! Hiyah, looooooooove!",
+    "Your Pok\u00e9mon sure are tough! But our Gym Leader Maylene will break you like a stack of bricks!"
+  ]
+}

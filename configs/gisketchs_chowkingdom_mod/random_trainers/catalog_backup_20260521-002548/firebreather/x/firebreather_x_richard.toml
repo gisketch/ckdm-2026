@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "firebreather_x_richard"
+name = "Firebreather Richard"
+title = "Firebreather"
+gender = "any"
+archetype = "firebreather"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "firebreather/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:charmeleon", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m practicing my fire breathing in the Burned Tower! Don’t try this at home!", "Oops, please don’t misunderstand! I’m not the reason that this tower is burned up!"]

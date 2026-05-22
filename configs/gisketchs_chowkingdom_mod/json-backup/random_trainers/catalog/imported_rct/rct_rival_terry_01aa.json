@@ -1,0 +1,81 @@
+{
+  "id": "rct_rival_terry_01aa",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "staravia",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "wingattack",
+        "endeavor",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lycanroc",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "toughclaws",
+      "moveset": [
+        "rockthrow",
+        "odorsleuth",
+        "rocktomb",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kirlia",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "trace",
+      "moveset": [
+        "magicalleaf",
+        "healpulse",
+        "drainingkiss",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wartortle",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "torrent",
+      "moveset": [
+        "waterpulse",
+        "bite",
+        "fakeout",
+        "detect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

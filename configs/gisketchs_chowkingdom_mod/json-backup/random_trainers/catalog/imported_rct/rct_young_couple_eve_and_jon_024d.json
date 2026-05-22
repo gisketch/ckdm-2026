@@ -1,0 +1,49 @@
+{
+  "id": "rct_young_couple_eve_and_jon_024d",
+  "name": "Young Couple Eve & Jon",
+  "title": "Young Couple Eve And",
+  "gender": "any",
+  "archetype": "young_couple_eve_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "golduck",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "cloudnine",
+      "moveset": [
+        "psychic",
+        "psychup",
+        "nastyplot",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "psyduck",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "cloudnine",
+      "moveset": [
+        "psychup",
+        "amnesia",
+        "hydropump",
+        "wonderroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

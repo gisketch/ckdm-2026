@@ -1,0 +1,128 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0450",
+  "name": "Pok\u00e9mon Trainer Cedric",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:staraptor",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "pluck",
+        "raindance",
+        "uturn"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roserade",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "grassyterrain",
+        "petalblizzard",
+        "stunspore",
+        "shadowball"
+      ],
+      "heldItem": [
+        "black_sludge"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heracross",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "pinmissile",
+        "swordsdance",
+        "rockslide",
+        "thief"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "smartstrike",
+        "megahorn",
+        "poisonjab",
+        "flamewheel"
+      ],
+      "heldItem": [
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snorlax",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "covet",
+        "yawn",
+        "crunch",
+        "highhorsepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "charm",
+        "grassknot",
+        "brine",
+        "flashcannon"
+      ],
+      "heldItem": [
+        "quick_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

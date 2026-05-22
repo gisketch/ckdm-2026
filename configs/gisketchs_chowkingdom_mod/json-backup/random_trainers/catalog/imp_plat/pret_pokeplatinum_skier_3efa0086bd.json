@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_skier_bjorn",
+  "name": "Skier Male Bjorn",
+  "title": "Skier Male",
+  "gender": "male",
+  "archetype": "skier_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:swinub",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sneasel",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We Skiers feel Mother Nature through the soles of our feet!",
+    "Trainers get an appreciation of life through Pok\u00e9mon. At least I think so."
+  ]
+}

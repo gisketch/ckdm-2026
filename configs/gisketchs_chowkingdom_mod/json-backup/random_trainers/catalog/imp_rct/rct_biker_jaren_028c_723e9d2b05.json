@@ -1,0 +1,56 @@
+{
+  "id": "rct_biker_jaren_028c",
+  "name": "Biker Jaren",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:muk",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "stickyhold",
+      "moveset": [
+        "disable",
+        "sludge",
+        "mudbomb",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "stickyhold",
+      "moveset": [
+        "sludge",
+        "mudbomb",
+        "fling",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

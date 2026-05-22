@@ -1,0 +1,33 @@
+{
+  "id": "rct_black_belt_philip_0523",
+  "name": "Black Belt Philip",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "machamp",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "knockoff",
+        "dualchop",
+        "bulkup",
+        "dynamicpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

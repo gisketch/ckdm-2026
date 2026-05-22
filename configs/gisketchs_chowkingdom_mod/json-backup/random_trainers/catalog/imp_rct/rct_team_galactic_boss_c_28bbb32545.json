@@ -1,0 +1,96 @@
+{
+  "id": "rct_team_galactic_boss_cyrus_041b",
+  "name": "Team Galactic Boss Cyrus",
+  "title": "Team Galactic Boss",
+  "gender": "any",
+  "archetype": "team_galactic_boss",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic_boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "aircutter",
+        "nightslash",
+        "steelwing",
+        "defog"
+      ],
+      "heldItem": [
+        "scope_lens"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crobat",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "moveset": [
+        "crosspoison",
+        "tailwind",
+        "aircutter",
+        "uturn"
+      ],
+      "heldItem": [
+        "quick_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "earthquake"
+      ],
+      "heldItem": [
+        "wacan_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weavile",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pickpocket",
+      "moveset": [
+        "metalclaw",
+        "fling",
+        "dig",
+        "aerialace"
+      ],
+      "heldItem": [
+        "chople_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

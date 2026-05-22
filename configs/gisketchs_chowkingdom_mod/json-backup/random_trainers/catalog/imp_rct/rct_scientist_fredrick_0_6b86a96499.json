@@ -1,0 +1,56 @@
+{
+  "id": "rct_scientist_fredrick_0576",
+  "name": "Scientist Fredrick",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "reflect",
+        "psyshock",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "reflect",
+        "recover",
+        "psyshock",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_cue_ball_corey_0100",
+  "name": "Cue Ball Corey",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "huntail",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "coil",
+        "crunch",
+        "waterfall",
+        "shellsmash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoking",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonsting",
+        "chipaway",
+        "thrash",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

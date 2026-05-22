@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeheartgold_0389_psychic_male_nelson",
+  "name": "Psychic Male Nelson",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "growl",
+        "watergun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "curse",
+        "headbutt",
+        "watergun",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Let me see what your Pok\u00e9mon are capable of.",
+    "You know how Pok\u00e9mon have different abilities? People are like that, too. Everyone has different potential."
+  ]
+}

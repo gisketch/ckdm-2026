@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeheartgold_0162_kimono_girl_zuki",
+  "name": "Kimono Girl Zuki",
+  "title": "Kimono Girl",
+  "gender": "female",
+  "archetype": "kimono_girl",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "kimono_girl/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:umbreon",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lastresort",
+        "darkpulse",
+        "confuseray",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Kimono Girl Zuki is ready for a battle."
+  ]
+}

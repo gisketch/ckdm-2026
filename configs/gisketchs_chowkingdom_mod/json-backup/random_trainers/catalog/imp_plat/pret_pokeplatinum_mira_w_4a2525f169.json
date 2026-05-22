@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_mira_wayward_cave",
+  "name": "Trainer Mira Mira",
+  "title": "Trainer Mira",
+  "gender": "any",
+  "archetype": "trainer_mira",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "trainer_mira/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "confusion",
+        "shockwave",
+        "flash",
+        "kinesis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Trainer Mira Mira is ready for a battle."
+  ]
+}

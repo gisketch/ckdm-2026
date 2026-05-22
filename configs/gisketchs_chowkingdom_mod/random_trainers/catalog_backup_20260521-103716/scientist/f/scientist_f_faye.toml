@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_f_faye"
+name = "Scientist Faye"
+title = "Scientist"
+gender = "female"
+archetype = "scientist"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "scientist/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = "standard"
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:electrode", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:muk", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist from Silph Co. 7F is ready for a battle."]

@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_rocket_004",
+  "name": "Rocket Wes",
+  "title": "Rocket",
+  "gender": "any",
+  "archetype": "rocket",
+  "region": "Kanto",
+  "category": "team",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "rocket/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rocket from Mt. Moon B2F is ready for a battle."
+  ]
+}

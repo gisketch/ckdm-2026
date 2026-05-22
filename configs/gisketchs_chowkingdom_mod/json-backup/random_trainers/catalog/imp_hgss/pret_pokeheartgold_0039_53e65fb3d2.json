@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0039_sailor_eugene",
+  "name": "Sailor Eugene",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krabby",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I just got back to Olivine. So, how about a Pok\u00e9mon battle?",
+    "My Pok\u00e9mon were caught and raised overseas. They\u2019re my companions on those long voyages."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokecrystal_schoolboy_009_billy",
+  "name": "Schoolboy Billy",
+  "title": "Schoolboy",
+  "gender": "male",
+  "archetype": "schoolboy",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "schoolboy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.93,
+  "weight": 0.96,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:paras",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:paras",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ditto",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Schoolboy Billy is ready for a battle."
+  ]
+}

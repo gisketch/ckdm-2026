@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "socialite_f_reina"
+name = "Socialite Reina"
+title = "Socialite"
+gender = "female"
+archetype = "socialite"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "socialite/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = "standard"
+minLevel = 61
+maxLevel = 61
+team = [
+  { species = "cobblemon:roselia", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve never battled a young Trainer like yourself. It’s quite nerve wracking.", "Usually, I’ll have matches with members of my social club.", "Socialite Reina is ready for a battle."]

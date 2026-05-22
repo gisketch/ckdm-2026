@@ -1,0 +1,33 @@
+{
+  "id": "rct_pokemon_trainer_cheryl_04c8",
+  "name": "Pokémon Trainer Cheryl",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "chansey",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "healer",
+      "moveset": [
+        "sweetkiss",
+        "disarmingvoice",
+        "tailwhip",
+        "lifedew"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

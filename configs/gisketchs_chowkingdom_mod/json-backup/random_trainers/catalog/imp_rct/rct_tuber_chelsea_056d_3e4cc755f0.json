@@ -1,0 +1,40 @@
+{
+  "id": "rct_tuber_chelsea_056d",
+  "name": "Tuber Chelsea",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tuber/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:bibarel",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "aquajet",
+        "headbutt",
+        "crunch",
+        "superfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

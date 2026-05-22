@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_cindy_4",
+  "name": "Lady Cindy",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:linoone",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lady Cindy is ready for a battle."
+  ]
+}

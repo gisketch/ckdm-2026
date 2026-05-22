@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_dillon_0062",
+  "name": "Youngster Dillon",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "phanpy",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "pickup",
+      "moveset": [
+        "rollout",
+        "magnitude",
+        "endure",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "woobat",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "unaware",
+      "moveset": [
+        "heartstamp",
+        "imprison",
+        "aircutter",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

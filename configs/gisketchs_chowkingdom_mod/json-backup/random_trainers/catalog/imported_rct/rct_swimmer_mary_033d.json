@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_mary_033d",
+  "name": "Swimmer Mary",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "marill",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwhip",
+        "bubblebeam",
+        "playrough",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pelipper",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "airslash",
+        "growl",
+        "wingattack",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

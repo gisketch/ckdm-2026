@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_shelly_seafloor_cavern",
+  "name": "Aqua Admin Shelly",
+  "title": "Aqua Admin",
+  "gender": "any",
+  "archetype": "aqua_admin",
+  "region": "Hoenn",
+  "category": "unique",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "aqua_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:sharpedo",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mightyena",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Aqua Admin Shelly is ready for a battle."
+  ]
+}

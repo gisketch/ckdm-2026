@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cue_ball_x_jamal"
+name = "Cue Ball Jamal"
+title = "Cue Ball"
+gender = "any"
+archetype = "cue_ball"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "cue_ball/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 55
+maxLevel = 56
+team = [
+  { species = "cobblemon:feraligatr", level = 55, gender = "FEMALE", nature = "sassy", ability = "sheerforce", moveset = ["crunch", "chipaway", "slash", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 55, gender = "MALE", nature = "quirky", ability = "flashfire", moveset = ["fireblast", "bounce", "flareblitz", "jumpkick"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:obstagoon", level = 56, gender = "FEMALE", nature = "docile", ability = "guts", moveset = ["scaryface", "counter", "taunt", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dodrio", level = 56, gender = "MALE", nature = "relaxed", ability = "earlybird", moveset = ["jumpkick", "doubleedge", "endeavor", "thrash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cue Ball Jamal is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_ruben_03b4",
+  "name": "Ace Trainer Ruben",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "damp",
+      "moveset": [
+        "hydropump",
+        "hypnosis",
+        "earthpower",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "icefang",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

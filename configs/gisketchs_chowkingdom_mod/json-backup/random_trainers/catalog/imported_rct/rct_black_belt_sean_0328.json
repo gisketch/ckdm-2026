@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_sean_0328",
+  "name": "Black Belt Sean",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "croagunk",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "poisonsting",
+        "mudslap",
+        "revenge",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meditite",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "detect",
+        "forcepalm",
+        "psybeam",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "focusenergy",
+        "revenge",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

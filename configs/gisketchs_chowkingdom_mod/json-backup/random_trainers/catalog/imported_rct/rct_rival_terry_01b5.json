@@ -1,0 +1,113 @@
+{
+  "id": "rct_rival_terry_01b5",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 80,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "uturn",
+        "bravebird",
+        "doubleedge",
+        "closecombat"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electivire",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "plasmafists",
+        "closecombat",
+        "machpunch",
+        "icepunch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kartana",
+      "level": 81,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "beastboost",
+      "moveset": [
+        "leafblade",
+        "sacredsword",
+        "smartstrike",
+        "xscissor"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barbaracle",
+      "level": 81,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "toughclaws",
+      "moveset": [
+        "shellsmash",
+        "liquidation",
+        "stoneedge",
+        "earthquake"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hatterene",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "magicbounce",
+      "moveset": [
+        "calmmind",
+        "drainingkiss",
+        "psychic",
+        "mysticalfire"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "dragondance",
+        "earthquake",
+        "flareblitz",
+        "dragonclaw"
+      ],
+      "heldItem": "mega_showdown:charizardite_x life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

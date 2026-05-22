@@ -1,0 +1,98 @@
+{
+  "id": "rct_aroma_lady_violet_022e",
+  "name": "Aroma Lady Violet",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "flapple",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "gluttony",
+      "moveset": [
+        "dracometeor",
+        "gravapple",
+        "suckerpunch"
+      ],
+      "heldItem": "eject_pack",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arcanine",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash",
+        "flareblitz",
+        "accelerock",
+        "closecombat"
+      ],
+      "heldItem": "rock_gem",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "excadrill",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "ironhead",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chandelure",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shadowtag",
+      "moveset": [
+        "flamethrower",
+        "shadowball",
+        "energyball",
+        "scorchingsands"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primarina",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "liquidvoice",
+      "moveset": [
+        "calmmind",
+        "substitute",
+        "drainingkiss",
+        "hypervoice"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

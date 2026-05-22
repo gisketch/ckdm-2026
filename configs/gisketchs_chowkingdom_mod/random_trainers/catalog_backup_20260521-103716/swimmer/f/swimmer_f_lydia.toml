@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_lydia"
+name = "Swimmer Lydia"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 52
+maxLevel = 52
+team = [
+  { species = "cobblemon:bibarel", level = 52, gender = "MALE", nature = "careful", ability = "simple", moveset = ["superfang", "takedown", "amnesia", "aquajet"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:azumarill", level = 52, gender = "FEMALE", nature = "impish", ability = "thickfat", moveset = ["superpower", "aquatail", "doubleedge", "playrough"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sealeo", level = 52, gender = "MALE", nature = "bold", ability = "thickfat", moveset = ["surf", "blizzard", "rest", "snore"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I want to be with my water Pokémon! That’s why I swim!", "I thought that everyone would be all dedicated to training out here. But most people are really laid back. It’s not like what I imagined. I guess being with Pokémon, people get all mellowed out.", "I have trained this team for the road. Challenge me if you are ready."]

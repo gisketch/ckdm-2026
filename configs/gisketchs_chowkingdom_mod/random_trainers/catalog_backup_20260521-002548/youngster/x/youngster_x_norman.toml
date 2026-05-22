@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_norman"
+name = "Youngster Norman"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 24
+maxLevel = 25
+team = [
+  { species = "cobblemon:chatot", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyattack", "sing", "growl", "peck"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cherrim", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = ["petaldance", "sunnyday", "magicalleaf", "helpinghand"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You’re a Pokémon Trainer, and so am I. When Trainers lock eyes, that means a battle is on!", "With Pokémon that tough, I bet you could go anywhere in Sinnoh!"]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_breeder_x_kaylee"
+name = "Pok Mon Breeder Kaylee"
+title = "Pok Mon Breeder"
+gender = "any"
+archetype = "pok_mon_breeder"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_breeder/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:stunky", level = 21, gender = "FEMALE", nature = "impish", ability = "stench", moveset = ["poisongas", "acidspray", "furyswipes", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:buizel", level = 21, gender = "MALE", nature = "impish", ability = "swiftswim", moveset = ["growl", "watergun", "bite", "swift"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

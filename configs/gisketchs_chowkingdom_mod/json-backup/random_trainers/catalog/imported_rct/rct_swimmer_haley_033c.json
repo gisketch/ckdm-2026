@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_haley_033c",
+  "name": "Swimmer Haley",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "marill",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "playrough",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tackle",
+        "bubblebeam",
+        "bounce",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

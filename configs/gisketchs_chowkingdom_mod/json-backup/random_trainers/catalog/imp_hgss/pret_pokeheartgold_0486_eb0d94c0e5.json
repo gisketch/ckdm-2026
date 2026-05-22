@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeheartgold_0486_executive_proton_proton",
+  "name": "Executive Proton Proton",
+  "title": "Executive Proton",
+  "gender": "any",
+  "archetype": "executive_proton",
+  "region": "Johto/Kanto",
+  "category": "unique",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "executive_proton/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 8,
+  "maxLevel": 12,
+  "team": [
+    {
+      "species": "cobblemon:zubat",
+      "level": 8,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 12,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "It doesn\u2019t matter where we go, there\u2019s always someone who doesn\u2019t agree with us..."
+  ]
+}

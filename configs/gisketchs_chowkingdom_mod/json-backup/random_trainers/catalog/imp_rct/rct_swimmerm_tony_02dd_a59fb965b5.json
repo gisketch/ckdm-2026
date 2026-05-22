@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_tony_02dd",
+  "name": "Swimmer\u2642 Tony",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:seadra",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisontouch",
+      "moveset": [
+        "focusenergy",
+        "brine",
+        "agility",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "poisontouch",
+      "moveset": [
+        "focusenergy",
+        "brine",
+        "agility",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

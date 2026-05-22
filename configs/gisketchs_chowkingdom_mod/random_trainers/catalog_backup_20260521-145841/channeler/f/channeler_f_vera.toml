@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_f_vera"
+name = "Channeler Vera"
+title = "Channeler"
+gender = "female"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "channeler/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:gastly", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler 3 is ready for a battle."]

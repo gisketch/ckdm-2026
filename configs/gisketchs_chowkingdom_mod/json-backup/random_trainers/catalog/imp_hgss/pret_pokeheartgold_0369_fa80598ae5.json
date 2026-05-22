@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0369_medium_darcy",
+  "name": "Medium Darcy",
+  "title": "Medium",
+  "gender": "any",
+  "archetype": "medium",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "medium/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "skillswap",
+        "amnesia",
+        "disable",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "skillswap",
+        "slackoff",
+        "psychic",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Fufufufu... I see it clearly. I can see into your spirit!",
+    "Oops! I forgot that I predicted I would lose to you."
+  ]
+}

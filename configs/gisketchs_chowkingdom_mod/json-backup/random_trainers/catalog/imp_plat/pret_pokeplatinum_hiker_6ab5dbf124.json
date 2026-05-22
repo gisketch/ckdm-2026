@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_hiker_lorenzo",
+  "name": "Hiker Lorenzo",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Wandering around, I got hungry, so I ate some wild mushrooms... They gave me gas, and now I can\u2019t stop burping! Bluurrf!",
+    "I hear there\u2019s a Pok\u00e9mon that has mushrooms growing on its back. Not around here, somewhere far away. I wonder if they taste any good?"
+  ]
+}

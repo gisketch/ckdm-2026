@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_owen_018e",
+  "name": "Ace Trainer Owen",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "nidorino",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "scratch",
+        "poisonsting",
+        "doublekick",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorina",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "poisontouch",
+      "moveset": [
+        "hornattack",
+        "poisonsting",
+        "doublekick",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raticate",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "runaway",
+      "moveset": [
+        "superfang",
+        "pursuit",
+        "scaryface",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandslash",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "sandveil",
+      "moveset": [
+        "furyswipes",
+        "swift",
+        "slash",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rhyhorn",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "lightningrod",
+      "moveset": [
+        "rockblast",
+        "scaryface",
+        "stomp",
+        "tailwhip"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

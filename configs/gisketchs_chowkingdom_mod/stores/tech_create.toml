@@ -1,0 +1,230 @@
+# CKDM Tech Store: Bulma's Create Workshop
+#
+# Design:
+# - Daily stock covers belts, shafts, funnels, pipes, and starter workshop tools.
+# - Weekly stock adds convenience machinery without selling major progression skips.
+# - Excluded by design: precision mechanisms, blaze burners, brass bulk, trains,
+#   mechanical crafters, creative items, and high-power CreateAddition machines.
+
+id = "tech_create"
+display_name = "Bulma's Create Workshop"
+time_zone = "GMT+8"
+reset_hour = 5
+reset_minute = 0
+
+
+[[categories]]
+id = "motion_parts"
+item_types_to_sell = 5
+daily_item_types_to_sell = 5
+weekly_item_types_to_sell = 0
+
+[[categories.daily_items]]
+id = "create_motion_daily_andesite_alloy"
+item = "create:andesite_alloy"
+price_amount = 180
+stock_count = 24
+weight = 6
+
+[[categories.daily_items]]
+id = "create_motion_daily_shaft"
+item = "create:shaft"
+price_amount = 120
+stock_count = 32
+weight = 6
+
+[[categories.daily_items]]
+id = "create_motion_daily_cogwheel"
+item = "create:cogwheel"
+price_amount = 180
+stock_count = 16
+weight = 5
+
+[[categories.daily_items]]
+id = "create_motion_daily_large_cogwheel"
+item = "create:large_cogwheel"
+price_amount = 260
+stock_count = 12
+weight = 4
+
+[[categories.daily_items]]
+id = "create_motion_daily_belt_connector"
+item = "create:belt_connector"
+price_amount = 240
+stock_count = 20
+weight = 5
+
+[[categories.daily_items]]
+id = "create_motion_daily_fluid_pipe"
+item = "create:fluid_pipe"
+price_amount = 240
+stock_count = 16
+weight = 4
+
+[[categories.daily_items]]
+id = "create_motion_daily_chute"
+item = "create:chute"
+price_amount = 260
+stock_count = 12
+weight = 4
+
+[[categories.daily_items]]
+id = "create_motion_daily_super_glue"
+item = "create:super_glue"
+price_amount = 650
+stock_count = 4
+weight = 3
+
+[[categories.daily_items]]
+id = "create_motion_daily_filter"
+item = "create:filter"
+price_amount = 700
+stock_count = 4
+weight = 3
+
+[[categories.daily_items]]
+id = "create_motion_daily_wrench"
+item = "create:wrench"
+price_amount = 1400
+stock_count = 1
+weight = 2
+
+
+[[categories]]
+id = "workshop_blocks"
+item_types_to_sell = 3
+daily_item_types_to_sell = 3
+weekly_item_types_to_sell = 0
+
+[[categories.daily_items]]
+id = "create_workshop_daily_depot"
+item = "create:depot"
+price_amount = 500
+stock_count = 4
+weight = 5
+
+[[categories.daily_items]]
+id = "create_workshop_daily_basin"
+item = "create:basin"
+price_amount = 600
+stock_count = 4
+weight = 5
+
+[[categories.daily_items]]
+id = "create_workshop_daily_andesite_funnel"
+item = "create:andesite_funnel"
+price_amount = 450
+stock_count = 8
+weight = 4
+
+[[categories.daily_items]]
+id = "create_workshop_daily_andesite_tunnel"
+item = "create:andesite_tunnel"
+price_amount = 520
+stock_count = 6
+weight = 4
+
+[[categories.daily_items]]
+id = "create_workshop_daily_encased_fan"
+item = "create:encased_fan"
+price_amount = 3000
+stock_count = 1
+weight = 2
+
+[[categories.daily_items]]
+id = "create_workshop_daily_mechanical_press"
+item = "create:mechanical_press"
+price_amount = 3200
+stock_count = 1
+weight = 2
+
+[[categories.daily_items]]
+id = "create_workshop_daily_millstone"
+item = "create:millstone"
+price_amount = 2800
+stock_count = 1
+weight = 2
+
+[[categories.daily_items]]
+id = "create_workshop_daily_mechanical_mixer"
+item = "create:mechanical_mixer"
+price_amount = 3600
+stock_count = 1
+weight = 2
+
+
+[[categories]]
+id = "special_orders"
+item_types_to_sell = 2
+daily_item_types_to_sell = 0
+weekly_item_types_to_sell = 2
+
+[[categories.weekly_items]]
+id = "create_special_weekly_mechanical_saw"
+item = "create:mechanical_saw"
+price_amount = 4200
+stock_count = 1
+weight = 3
+
+[[categories.weekly_items]]
+id = "create_special_weekly_mechanical_drill"
+item = "create:mechanical_drill"
+price_amount = 4200
+stock_count = 1
+weight = 3
+
+[[categories.weekly_items]]
+id = "create_special_weekly_mechanical_pump"
+item = "create:mechanical_pump"
+price_amount = 3600
+stock_count = 1
+weight = 3
+
+[[categories.weekly_items]]
+id = "create_special_weekly_smart_fluid_pipe"
+item = "create:smart_fluid_pipe"
+price_amount = 1100
+stock_count = 4
+weight = 3
+
+[[categories.weekly_items]]
+id = "create_special_weekly_electron_tube"
+item = "create:electron_tube"
+price_amount = 1700
+stock_count = 4
+weight = 2
+
+[[categories.weekly_items]]
+id = "create_special_weekly_rose_quartz"
+item = "create:rose_quartz"
+price_amount = 900
+stock_count = 6
+weight = 2
+
+[[categories.weekly_items]]
+id = "create_special_weekly_copper_wire"
+item = "createaddition:copper_wire"
+price_amount = 320
+stock_count = 24
+weight = 3
+
+[[categories.weekly_items]]
+id = "create_special_weekly_connector"
+item = "createaddition:connector"
+price_amount = 480
+stock_count = 12
+weight = 3
+
+[[categories.weekly_items]]
+id = "create_special_weekly_small_light_connector"
+item = "createaddition:small_light_connector"
+price_amount = 650
+stock_count = 8
+weight = 2
+
+[[categories.weekly_items]]
+id = "create_special_weekly_portable_storage_interface"
+item = "create:portable_storage_interface"
+price_amount = 5200
+stock_count = 1
+weight = 1

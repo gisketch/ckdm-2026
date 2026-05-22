@@ -1,0 +1,40 @@
+{
+  "id": "rct_camper_ricky_0272",
+  "name": "Camper Ricky",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:wartortle",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "skullbash",
+        "irondefense",
+        "raindance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_x_arlo"
+name = "Burglar Arlo"
+title = "Burglar"
+gender = "any"
+archetype = "burglar"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "burglar/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:vulpix", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charmander", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ponyta", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Burglar 3 is ready for a battle."]

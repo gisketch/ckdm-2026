@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_davis"
+name = "Bug Catcher Davis"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "mid"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:pinsir", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Davis is ready for a battle."]

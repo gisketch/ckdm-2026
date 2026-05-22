@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_vanessa"
+name = "Swimmer Vanessa"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:golduck", level = 33, gender = "MALE", nature = "calm", ability = "damp", moveset = ["aquajet", "tailwhip", "zenheadbutt", "aquatail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["One thing about Water-type Pokémon: There’s a huge variety! I’ll show you the Water-type Pokémon I chose and why I’m so proud of them!", "Sure I lost, but watch me! I’ll get tougher with water Pokémon.", "I have trained this team for the road. Challenge me if you are ready."]

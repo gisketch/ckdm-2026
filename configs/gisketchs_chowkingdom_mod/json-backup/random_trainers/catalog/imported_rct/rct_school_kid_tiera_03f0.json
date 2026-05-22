@@ -1,0 +1,33 @@
+{
+  "id": "rct_school_kid_tiera_03f0",
+  "name": "School Kid Tiera",
+  "title": "School Kid",
+  "gender": "any",
+  "archetype": "school_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "pachirisu",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "spark",
+        "nuzzle",
+        "dig"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

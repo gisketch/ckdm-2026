@@ -1,0 +1,113 @@
+{
+  "id": "rct_gym_leader_fantina_058e",
+  "name": "Fantina",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 65,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "drifblim",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flareboost",
+      "moveset": [
+        "shadowball",
+        "thunderbolt",
+        "psychic",
+        "strengthsap"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "banette",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowsneak",
+        "suckerpunch",
+        "snatch",
+        "trick"
+      ],
+      "heldItem": "iron_ball",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dusknoir",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "shadowsneak",
+        "earthquake",
+        "willowisp",
+        "confuseray"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mismagius",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "energyball",
+        "mysticalfire",
+        "dazzlinggleam"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "hex",
+        "frostbreath",
+        "willowisp",
+        "destinybond"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "hex",
+        "sludgebomb",
+        "focusblast",
+        "toxic"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

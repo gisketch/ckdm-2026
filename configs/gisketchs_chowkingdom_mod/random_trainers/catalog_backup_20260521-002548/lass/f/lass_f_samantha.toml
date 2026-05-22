@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_samantha"
+name = "Lass Samantha"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:budew", level = 19, gender = "FEMALE", nature = "timid", ability = "poisonpoint", moveset = ["absorb", "growth", "stunspore", "worryseed"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["May I please trouble you for a battle?", "Maybe I could have won if my Pokémon was holding a Berry...", "Lass Samantha is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

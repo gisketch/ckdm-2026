@@ -1,0 +1,65 @@
+{
+  "id": "rct_burglar_quinn_00d5",
+  "name": "Burglar Quinn",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 72,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "incineroar",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "scaryface",
+        "flareblitz",
+        "outrage",
+        "crosschop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "delphox",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "wish",
+        "psychic",
+        "sunnyday",
+        "magicroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "emboar",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "reckless",
+      "moveset": [
+        "flamethrower",
+        "headsmash",
+        "jumpkick",
+        "flareblitz"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

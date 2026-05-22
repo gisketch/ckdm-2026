@@ -1,0 +1,33 @@
+{
+  "id": "rct_fisher_walter_0419",
+  "name": "Fisher Walter",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "barboach",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "oblivious",
+      "moveset": [
+        "mudslap",
+        "waterpulse",
+        "aquatail",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

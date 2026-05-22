@@ -1,0 +1,113 @@
+{
+  "id": "rct_elite_four_arabella_05b5",
+  "name": "Elite Four Arabella",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 74,
+  "maxLevel": 76,
+  "team": [
+    {
+      "species": "ribombee",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shielddust",
+      "moveset": [
+        "moonblast",
+        "reflect",
+        "lightscreen",
+        "stickyweb"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sylveon",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "pixilate",
+      "moveset": [
+        "hypervoice",
+        "mysticalfire",
+        "wish",
+        "calmmind"
+      ],
+      "heldItem": "fairy_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "togekiss",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "airslash",
+        "dazzlinggleam",
+        "flamethrower",
+        "wish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "hugepower",
+      "moveset": [
+        "aquatail",
+        "playrough",
+        "superpower",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mawile",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "ironhead",
+        "playrough",
+        "suckerpunch",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:mawilite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tapufini",
+      "level": 76,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "mistysurge",
+      "moveset": [
+        "moonblast",
+        "surf",
+        "naturesmadness",
+        "taunt"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

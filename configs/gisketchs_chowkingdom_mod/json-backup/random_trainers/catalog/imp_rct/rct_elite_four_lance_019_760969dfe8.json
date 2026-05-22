@@ -1,0 +1,106 @@
+{
+  "id": "rct_elite_four_lance_019d",
+  "name": "Lance",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:gyarados",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "dragonrage",
+        "twister",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonair",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "dragonrage",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonair",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "thunderwave",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aerodactyl",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "hyperbeam",
+        "ancientpower",
+        "wingattack",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonite",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "outrage",
+        "wingattack"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

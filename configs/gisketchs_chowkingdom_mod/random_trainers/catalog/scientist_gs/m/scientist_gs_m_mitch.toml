@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_gs_m_mitch"
+name = "Scientist Gs Mitch"
+title = "Scientist Gs"
+gender = "male"
+archetype = "scientist_gs"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "scientist_gs/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = ""
+minLevel = 24
+maxLevel = 24
+team = [
+  { species = "cobblemon:ditto", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I don’t care that Pokémon are hurt by our experiment.", "If we turn up the power of our radio signal for broadcast nationwide... The very thought excites me!"]

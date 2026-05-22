@@ -1,0 +1,56 @@
+{
+  "id": "rct_black_ferrothorn_chad_05dd",
+  "name": "Black Ferrothorn Chad",
+  "title": "Black Ferrothorn",
+  "gender": "any",
+  "archetype": "black_ferrothorn",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_ferrothorn/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:krookodile",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "powertrip",
+        "dig",
+        "thunderfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "ironbarbs",
+      "moveset": [
+        "ironhead",
+        "powerwhip",
+        "payback",
+        "pinmissile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

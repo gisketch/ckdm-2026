@@ -1,0 +1,69 @@
+{
+  "id": "pret_pokeheartgold_0007_juggler_irwin",
+  "name": "Juggler Irwin",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 2,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:voltorb",
+      "level": 2,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 14,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Behold my dexterity and grace!",
+    "I was going to dazzle you with my prize Pok\u00e9mon. But your prowess electrified me!"
+  ]
+}

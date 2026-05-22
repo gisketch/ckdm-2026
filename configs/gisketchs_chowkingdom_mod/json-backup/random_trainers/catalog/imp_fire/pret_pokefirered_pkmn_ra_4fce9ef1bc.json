@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokefirered_pkmn_ranger_madeline",
+  "name": "Pokemon Ranger Madeline",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "pokemon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 51,
+  "maxLevel": 51,
+  "team": [
+    {
+      "species": "cobblemon:gloom",
+      "level": 51,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "petaldance",
+        "acid",
+        "sweetscent",
+        "poisonpowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vileplume",
+      "level": 51,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "petaldance",
+        "moonlight",
+        "acid",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Ranger Madeline is ready for a battle."
+  ]
+}

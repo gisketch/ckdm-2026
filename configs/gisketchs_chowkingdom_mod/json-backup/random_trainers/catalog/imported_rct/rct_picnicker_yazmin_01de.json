@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_yazmin_01de",
+  "name": "Picnicker Yazmin",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "weepinbell",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "chlorophyll",
+      "moveset": [
+        "gastroacid",
+        "razorleaf",
+        "poisonjab",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "leavanny",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "entrainment",
+        "swordsdance",
+        "leafstorm",
+        "sacredsword"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alcremie",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "sweetveil",
+      "moveset": [
+        "dazzlinggleam",
+        "recover",
+        "mistyterrain",
+        "entrainment"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

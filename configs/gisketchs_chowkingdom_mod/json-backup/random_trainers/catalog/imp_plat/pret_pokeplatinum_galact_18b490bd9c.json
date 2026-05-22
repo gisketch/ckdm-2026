@@ -1,0 +1,104 @@
+{
+  "id": "pret_pokeplatinum_galactic_boss_cyrus_distortion_world",
+  "name": "Galactic Boss Cyrus",
+  "title": "Galactic Boss",
+  "gender": "any",
+  "archetype": "galactic_boss",
+  "region": "Sinnoh",
+  "category": "unique",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:houndoom",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flamethrower",
+        "darkpulse",
+        "willowisp",
+        "thunderfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "drillpeck",
+        "nightslash",
+        "heatwave",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crobat",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "crosspoison",
+        "airslash",
+        "toxic",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gigaimpact",
+        "waterfall",
+        "icefang",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weavile",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightslash",
+        "icepunch",
+        "fakeout",
+        "xscissor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Galactic Boss Cyrus is ready for a battle."
+  ]
+}

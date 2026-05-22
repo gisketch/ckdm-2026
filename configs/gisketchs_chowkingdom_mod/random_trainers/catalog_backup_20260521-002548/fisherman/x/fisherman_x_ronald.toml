@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_ronald"
+name = "Fisherman Ronald"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 64
+maxLevel = 64
+team = [
+  { species = "cobblemon:seaking", level = 64, gender = "FEMALE", nature = "gentle", ability = "lightningrod", moveset = ["waterfall", "soak", "megahorn", "fishiousrend"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sharpedo", level = 64, gender = "FEMALE", nature = "quiet", ability = "roughskin", moveset = ["crunch", "agility", "skullbash", "taunt"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cloyster", level = 64, gender = "MALE", nature = "impish", ability = "battlearmor", moveset = ["spikecannon", "iceshard", "spikes", "iciclecrash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shellder", level = 64, gender = "FEMALE", nature = "brave", ability = "battlearmor", moveset = ["irondefense", "icebeam", "shellsmash", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Ronald is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

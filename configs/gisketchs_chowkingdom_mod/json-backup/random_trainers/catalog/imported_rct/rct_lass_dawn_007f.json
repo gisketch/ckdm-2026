@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_dawn_007f",
+  "name": "Lass Dawn",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "kirlia",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "magicalleaf",
+        "healpulse",
+        "drainingkiss",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "morpeko",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hungerswitch",
+      "moveset": [
+        "powertrip",
+        "quickattack",
+        "flatter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

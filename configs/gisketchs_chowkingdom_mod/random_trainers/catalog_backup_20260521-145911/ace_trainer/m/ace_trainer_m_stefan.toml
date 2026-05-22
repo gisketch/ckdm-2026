@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_stefan"
+name = "Ace Trainer Stefan"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:larvitar", level = 57, gender = "FEMALE", nature = "impish", ability = "guts", moveset = ["stoneedge", "earthquake", "crunch", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magcargo", level = 57, gender = "FEMALE", nature = "relaxed", ability = "flamebody", moveset = ["flamethrower", "ancientpower", "clearsmog", "bodyslam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let me ask to see if you know. What is time?", "For me, time is the fabric woven by memories, one after another...", "I have trained this team for the road. Challenge me if you are ready."]

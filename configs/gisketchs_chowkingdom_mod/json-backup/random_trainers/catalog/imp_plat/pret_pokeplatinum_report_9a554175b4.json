@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_reporter_valerie",
+  "name": "Reporter Valerie",
+  "title": "Reporter",
+  "gender": "any",
+  "archetype": "reporter",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "reporter/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:kirlia",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Reporter Valerie is ready for a battle."
+  ]
+}

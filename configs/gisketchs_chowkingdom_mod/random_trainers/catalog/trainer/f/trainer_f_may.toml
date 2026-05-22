@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_f_may"
+name = "Trainer May"
+title = "Trainer"
+gender = "female"
+archetype = "trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "trainer/female"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 71
+maxLevel = 73
+team = [
+  { species = "cobblemon:solrock", level = 71, gender = "GENDERLESS", nature = "jolly", ability = "levitate", moveset = ["stealthrock", "photongeyser", "explosion", "earthquake"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:breloom", level = 71, gender = "MALE", nature = "jolly", ability = "poisonheal", moveset = ["spore", "substitute", "focuspunch", "rockslide"], heldItem = "['toxic_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:manectric", level = 72, gender = "FEMALE", nature = "timid", ability = "lightningrod", moveset = ["voltswitch", "thunderbolt", "overheat", "switcheroo"], heldItem = "['choice_specs']", shiny = false, aspects = [] },
+  { species = "cobblemon:relicanth", level = 72, gender = "FEMALE", nature = "adamant", ability = "rockhead", moveset = ["waterfall", "headsmash", "earthquake", "zenheadbutt"], heldItem = "['choice_band']", shiny = false, aspects = [] },
+  { species = "cobblemon:flygon", level = 72, gender = "MALE", nature = "hasty", ability = "tintedlens", moveset = ["earthquake", "dracometeor", "fireblast", "outrage"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:blaziken", level = 73, gender = "FEMALE", nature = "adamant", ability = "speedboost", moveset = ["swordsdance", "closecombat", "flareblitz", "rockslide"], heldItem = "['mega_showdown:blazikenite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

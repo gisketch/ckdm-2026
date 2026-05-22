@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "expert_x_ryuzoji"
+name = "Expert Ryuzoji"
+title = "Expert"
+gender = "any"
+archetype = "expert"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "expert/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 82
+maxLevel = 82
+team = [
+  { species = "cobblemon:mimikyu", level = 82, gender = "FEMALE", nature = "adamant", ability = "disguise", moveset = ["playrough", "bulkup", "thunderwave", "protect"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

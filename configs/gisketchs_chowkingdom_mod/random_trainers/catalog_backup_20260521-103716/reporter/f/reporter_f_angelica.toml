@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "reporter_f_angelica"
+name = "Reporter Angelica"
+title = "Reporter"
+gender = "female"
+archetype = "reporter"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "reporter/female"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = "standard"
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Reporter Angelica is ready for a battle."]

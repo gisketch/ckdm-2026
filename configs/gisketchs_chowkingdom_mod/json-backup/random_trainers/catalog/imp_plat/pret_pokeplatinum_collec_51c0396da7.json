@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_collector_douglas",
+  "name": "Collector Douglas",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "collector/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:jolteon",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vaporeon",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flareon",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "For the sake of my collection, I take on people I know I can\u2019t beat. That\u2019s what a Collector does.",
+    "I take pride in having Pok\u00e9mon that others don\u2019t. Oh, I\u2019m also proud about winning second prize in one of Jubilife TV\u2019s drawings."
+  ]
+}

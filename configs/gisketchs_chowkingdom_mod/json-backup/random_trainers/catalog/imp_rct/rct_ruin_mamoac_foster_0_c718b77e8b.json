@@ -1,0 +1,40 @@
+{
+  "id": "rct_ruin_mamoac_foster_0246",
+  "name": "Ruin Mamoac Foster",
+  "title": "Ruin Mamoac",
+  "gender": "any",
+  "archetype": "ruin_mamoac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ruin_mamoac/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:golem",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "earthquake",
+        "explosion",
+        "headlongrush",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

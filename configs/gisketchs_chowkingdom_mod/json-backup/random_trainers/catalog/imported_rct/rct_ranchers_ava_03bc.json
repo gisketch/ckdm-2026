@@ -1,0 +1,33 @@
+{
+  "id": "rct_ranchers_ava_03bc",
+  "name": "Ranchers Ava",
+  "title": "Ranchers",
+  "gender": "any",
+  "archetype": "ranchers",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "stunky",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "smokescreen",
+        "acidspray",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

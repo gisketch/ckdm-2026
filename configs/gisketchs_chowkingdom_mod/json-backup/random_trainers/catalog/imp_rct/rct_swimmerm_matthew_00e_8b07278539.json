@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_matthew_00ed",
+  "name": "Swimmer\u2642 Matthew",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "damp",
+      "moveset": [
+        "bellydrum",
+        "wakeupslap",
+        "hydropump",
+        "mudbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "owntempo",
+      "moveset": [
+        "amnesia",
+        "psychic",
+        "raindance",
+        "psychup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

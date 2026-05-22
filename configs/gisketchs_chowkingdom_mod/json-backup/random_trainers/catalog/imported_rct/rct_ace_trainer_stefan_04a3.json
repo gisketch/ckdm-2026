@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_stefan_04a3",
+  "name": "Ace Trainer Stefan",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "larvitar",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "guts",
+      "moveset": [
+        "stoneedge",
+        "earthquake",
+        "crunch",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magcargo",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "flamebody",
+      "moveset": [
+        "flamethrower",
+        "ancientpower",
+        "clearsmog",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

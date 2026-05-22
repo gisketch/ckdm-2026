@@ -1,0 +1,88 @@
+{
+  "id": "pret_pokecrystal_morty_001_morty",
+  "name": "Morty Galen",
+  "title": "Morty",
+  "gender": "any",
+  "archetype": "morty",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "morty/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lick",
+        "spite",
+        "meanlook",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hypnosis",
+        "mimic",
+        "curse",
+        "nightshade"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gengar",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hypnosis",
+        "shadowball",
+        "meanlook",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spite",
+        "meanlook",
+        "mimic",
+        "nightshade"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Morty Morty is ready for a battle."
+  ]
+}

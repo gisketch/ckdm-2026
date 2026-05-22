@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_nathaniel_0349",
+  "name": "Black Belt Nathaniel",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "croagunk",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "anticipation",
+      "moveset": [
+        "poisonsting",
+        "mudslap",
+        "flatter",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meditite",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "feint",
+        "forcepalm",
+        "psybeam",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 22,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

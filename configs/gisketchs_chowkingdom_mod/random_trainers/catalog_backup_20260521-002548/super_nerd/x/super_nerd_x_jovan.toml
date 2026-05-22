@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_x_jovan"
+name = "Super Nerd Jovan"
+title = "Super Nerd"
+gender = "any"
+archetype = "super_nerd"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "super_nerd/any"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 13
+maxLevel = 14
+team = [
+  { species = "cobblemon:magnemite", level = 13, gender = "GENDERLESS", nature = "modest", ability = "sturdy", moveset = ["shockwave", "thunderwave", "magnetbomb", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:toxel", level = 14, gender = "MALE", nature = "lonely", ability = "static", moveset = ["acid", "growl", "tearfullook", "nuzzle"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Jovan is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

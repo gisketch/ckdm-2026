@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0149_camper_dean",
+  "name": "Camper Dean",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:golduck",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandslash",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I came to explore Rock Tunnel.",
+    "My Pok\u00e9mon were hurt before even entering Rock Tunnel. I\u2019d better take them to a Pok\u00e9mon Center right away."
+  ]
+}

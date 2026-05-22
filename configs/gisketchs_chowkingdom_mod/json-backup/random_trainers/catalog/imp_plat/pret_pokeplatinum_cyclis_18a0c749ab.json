@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_cyclist_ryan",
+  "name": "Cyclist Male Ryan",
+  "title": "Cyclist Male",
+  "gender": "male",
+  "archetype": "cyclist_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cyclist_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "A bike will carry you a long way. The only thing that limits you is your own endurance!",
+    "My Pok\u00e9mon and I are plumb worn out. We should be getting home to rest..."
+  ]
+}

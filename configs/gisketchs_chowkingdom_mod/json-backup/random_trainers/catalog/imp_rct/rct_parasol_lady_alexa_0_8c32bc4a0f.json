@@ -1,0 +1,56 @@
+{
+  "id": "rct_parasol_lady_alexa_0533",
+  "name": "Parasol Lady Alexa",
+  "title": "Parasol Lady",
+  "gender": "female",
+  "archetype": "parasol_lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "parasol_lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 28,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:goldeen",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:buizel",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

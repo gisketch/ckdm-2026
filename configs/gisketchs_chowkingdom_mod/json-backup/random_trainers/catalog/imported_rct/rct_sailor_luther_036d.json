@@ -1,0 +1,64 @@
+{
+  "id": "rct_sailor_luther_036d",
+  "name": "Sailor Luther",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "feebas",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "oblivious",
+      "moveset": [
+        "splash",
+        "tackle",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

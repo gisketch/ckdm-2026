@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_trainer_dawn_04da",
+  "name": "Pokémon Trainer Dawn",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "cutecharm",
+      "moveset": [
+        "sing",
+        "disarmingvoice",
+        "growl",
+        "lifedew"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "psybeam",
+        "reflect",
+        "allyswitch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "monferno",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "machpunch",
+        "leer",
+        "taunt",
+        "flamewheel"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

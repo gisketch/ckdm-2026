@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_lucian"
+name = "Rct Trainer Lucian"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 79
+maxLevel = 85
+team = [
+  { species = "cobblemon:mrmime", level = 79, gender = "MALE", nature = "bold", ability = "filter", moveset = ["lightscreen", "reflect", "psychic", "dazzlinggleam"], heldItem = "['light_clay']", shiny = false, aspects = [] },
+  { species = "cobblemon:espeon", level = 81, gender = "MALE", nature = "timid", ability = "magicbounce", moveset = ["psychic", "dazzlinggleam", "shadowball", "lightscreen"], heldItem = "['mental_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:bronzong", level = 80, gender = "GENDERLESS", nature = "brave", ability = "levitate", moveset = ["gyroball", "earthquake", "payback", "rockslide"], heldItem = "['muscle_band']", shiny = false, aspects = [] },
+  { species = "cobblemon:alakazam", level = 82, gender = "MALE", nature = "timid", ability = "magicguard", moveset = ["nastyplot", "psychic", "dazzlinggleam", "shockwave"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:slowbro", level = 82, gender = "MALE", nature = "bold", ability = "regenerator", moveset = ["scald", "psychic", "flamethrower", "slackoff"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:gallade", level = 85, gender = "MALE", nature = "jolly", ability = "justified", moveset = ["closecombat", "psychocut", "poisonjab", "shadowsneak"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

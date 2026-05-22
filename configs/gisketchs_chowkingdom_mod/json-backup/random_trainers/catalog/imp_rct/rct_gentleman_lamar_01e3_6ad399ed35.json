@@ -1,0 +1,56 @@
+{
+  "id": "rct_gentleman_lamar_01e3",
+  "name": "Gentleman Lamar",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "flashfire",
+      "moveset": [
+        "lowkick",
+        "willowisp",
+        "flamecharge",
+        "firespin"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:herdier",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "sandrush",
+      "moveset": [
+        "takedown",
+        "workup",
+        "retaliate",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

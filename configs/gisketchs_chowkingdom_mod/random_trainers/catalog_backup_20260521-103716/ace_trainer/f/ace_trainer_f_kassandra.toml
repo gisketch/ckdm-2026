@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_kassandra"
+name = "Ace Trainer Kassandra"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 59
+team = [
+  { species = "cobblemon:jumpluff", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["memento", "gigadrain", "toxic", "bounce"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["stoneedge", "earthquake", "irontail", "dragonbreath"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ampharos", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderpunch", "powergem", "signalbeam", "firepunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You’ve come all this way for Pokémon? You must be dedicated.", "The Pokémon here must battle each other all the time. That must be why they are so strong in this area.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,40 @@
+{
+  "id": "rct_hiker_nicholas_02f5",
+  "name": "Hiker Nicholas",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 14,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

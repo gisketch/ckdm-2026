@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_dale"
+name = "Fisherman Dale"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:tentacool", level = 27, gender = "FEMALE", nature = "lonely", ability = "clearbody", moveset = ["waterpulse", "acidspray", "sludge", "bubblebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clobbopus", level = 27, gender = "FEMALE", nature = "serious", ability = "limber", moveset = ["bind", "detect", "lowsweep", "bulkup"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:corphish", level = 27, gender = "MALE", nature = "docile", ability = "hypercutter", moveset = ["doublehit", "aquajet", "knockoff", "nightslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Dale is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

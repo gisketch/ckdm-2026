@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_m_dean"
+name = "Collector Dean"
+title = "Collector"
+gender = "male"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "collector/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:umbreon", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:espeon", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m proud of my Pokémon! Here, I’ll show you why!", "Oh, what have we here? That’s a Pokédex! It records Pokémon data upon sight? I’ve never seen one before! I heard you can move the sun or moon icon to check the Pokémon habitat map by time of day!"]

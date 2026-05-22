@@ -1,0 +1,49 @@
+{
+  "id": "rct_aroma_lady_miah_024c",
+  "name": "Aroma Lady Miah",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "bellossom",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sunnyday",
+        "petalblizzard",
+        "petaldance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bellossom",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sunnyday",
+        "petalblizzard",
+        "petaldance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

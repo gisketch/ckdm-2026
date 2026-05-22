@@ -1,0 +1,104 @@
+{
+  "id": "rct_swimmerm_axle_00f1",
+  "name": "Swimmer\u2642 Axle",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 61,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:tentacool",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 62,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "naturalcure",
+      "moveset": [
+        "recover",
+        "psybeam",
+        "confuseray",
+        "meteorbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "battlearmor",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

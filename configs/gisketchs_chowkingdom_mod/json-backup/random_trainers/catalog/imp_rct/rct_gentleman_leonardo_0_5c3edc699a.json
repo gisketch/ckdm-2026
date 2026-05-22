@@ -1,0 +1,56 @@
+{
+  "id": "rct_gentleman_leonardo_0487",
+  "name": "Gentleman Leonardo",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hoothoot",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "insomnia",
+      "moveset": [
+        "reflect",
+        "psychoshift",
+        "airslash",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

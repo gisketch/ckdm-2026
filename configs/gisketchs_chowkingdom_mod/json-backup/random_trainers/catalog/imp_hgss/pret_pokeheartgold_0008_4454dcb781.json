@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0008_youngster_joey",
+  "name": "Youngster Joey",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 4,
+  "maxLevel": 4,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 4,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I just lost, so I\u2019m trying to find more Pok\u00e9mon. Wait! You look weak! Come on, let\u2019s battle!",
+    "I knew it--if you don\u2019t have many Pok\u00e9mon, battles are harder! I need to catch more Pok\u00e9mon!"
+  ]
+}

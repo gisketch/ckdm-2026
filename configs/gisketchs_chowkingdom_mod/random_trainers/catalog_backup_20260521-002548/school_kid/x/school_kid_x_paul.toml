@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_x_paul"
+name = "School Kid Paul"
+title = "School Kid"
+gender = "any"
+archetype = "school_kid"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "school_kid/any"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.92
+bustStyle = ""
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:numel", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:oddish", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wingull", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["School Kid Paul is ready for a battle."]

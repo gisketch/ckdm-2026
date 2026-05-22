@@ -1,0 +1,65 @@
+{
+  "id": "rct_beauty_lauren_0113",
+  "name": "Beauty Lauren",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "weepinbell",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sludge",
+        "megadrain",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bellsprout",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sludge",
+        "megadrain",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weepinbell",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "sludge",
+        "megadrain",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

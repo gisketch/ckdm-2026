@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_tyron"
+name = "Psychic Tyron"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:mrmime", level = 53, gender = "MALE", nature = "modest", ability = "solidrock", moveset = ["taunt", "psychic", "roleplay", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 53, gender = "FEMALE", nature = "sassy", ability = "innerfocus", moveset = ["recover", "psychic", "roleplay", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Tyron is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

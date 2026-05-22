@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_f_portia"
+name = "Mega Trainer Portia"
+title = "Mega Trainer"
+gender = "female"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/female"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = "standard"
+minLevel = 75
+maxLevel = 77
+team = [
+  { species = "cobblemon:typhlosion", level = 76, gender = "MALE", nature = "timid", ability = "drought", moveset = ["heatwave", "solarbeam", "scorchingsands", "naturepower"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:charizard", level = 77, gender = "MALE", nature = "timid", ability = "drought", moveset = ["heatwave", "airslash", "scorchingsands", "solarbeam"], heldItem = "['mega_showdown:charizardite_y', 'expert_belt']", shiny = false, aspects = ["mega_y"] },
+  { species = "cobblemon:torkoal", level = 75, gender = "FEMALE", nature = "relaxed", ability = "drought", moveset = ["heatwave", "bodypress", "eruption", "protect"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

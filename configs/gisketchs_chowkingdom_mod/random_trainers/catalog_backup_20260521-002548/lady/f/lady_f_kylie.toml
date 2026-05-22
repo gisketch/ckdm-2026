@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lady_f_kylie"
+name = "Lady Kylie"
+title = "Lady"
+gender = "female"
+archetype = "lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lady/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:bonsly", level = 21, gender = "FEMALE", nature = "jolly", ability = "sturdy", moveset = ["copycat", "flail", "rockthrow", "rocktomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pichu", level = 21, gender = "MALE", nature = "jolly", ability = "static", moveset = ["thundershock", "tailwhip", "nuzzle", "charm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lady Kylie is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

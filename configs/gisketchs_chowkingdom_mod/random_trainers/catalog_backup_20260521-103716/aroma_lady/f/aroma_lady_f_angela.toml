@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "aroma_lady_f_angela"
+name = "Aroma Lady Angela"
+title = "Aroma Lady"
+gender = "female"
+archetype = "aroma_lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "aroma_lady/female"
+tier = "low"
+spawnable = true
+height = 0.96
+weight = 0.86
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:roselia", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = ["megadrain", "poisonsting", "stunspore"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Even concealed, there is no hiding the aroma of flowers.", "Your next opponent is under four flowers.", "I have trained this team for the road. Challenge me if you are ready."]

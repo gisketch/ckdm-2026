@@ -1,0 +1,113 @@
+{
+  "id": "rct_boss_giovanni_0045",
+  "name": "Boss Giovanni",
+  "title": "Boss",
+  "gender": "any",
+  "archetype": "boss",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 80,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "scrafty",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "moxie",
+      "moveset": [
+        "roar",
+        "knockoff",
+        "drainpunch",
+        "icepunch"
+      ],
+      "heldItem": "psychic_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tapulele",
+      "level": 80,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "psychicsurge",
+      "moveset": [
+        "moonblast",
+        "psychic",
+        "thunderbolt",
+        "focusblast"
+      ],
+      "heldItem": "terrain_extender",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "excadrill",
+      "level": 80,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "highhorsepower",
+        "ironhead",
+        "rockslide",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tyranitar",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sandstream",
+      "moveset": [
+        "crunch",
+        "rockslide",
+        "highhorsepower",
+        "firepunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "celesteela",
+      "level": 80,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "beastboost",
+      "moveset": [
+        "autotomize",
+        "meteorbeam",
+        "flamethrower",
+        "airslash"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mewtwo",
+      "level": 80,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "expandingforce",
+        "psystrike",
+        "aurasphere",
+        "flamethrower"
+      ],
+      "heldItem": "mega_showdown:mewtwonite_y expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

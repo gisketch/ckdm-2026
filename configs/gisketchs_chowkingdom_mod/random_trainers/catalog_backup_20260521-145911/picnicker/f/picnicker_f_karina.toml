@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_karina"
+name = "Picnicker Karina"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:empoleon", level = 55, gender = "MALE", nature = "hasty", ability = "torrent", moveset = ["metalclaw", "aquajet", "brine", "drillpeck"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Karina is ready for a battle.", "Oh, I don’t know. Should I play a little?", "Listen very closely... Can you hear the cries of Pokémon?", "I have trained this team for the road. Challenge me if you are ready."]

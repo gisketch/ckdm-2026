@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_leonard"
+name = "Pokefan Leonard"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 19
+maxLevel = 22
+team = [
+  { species = "cobblemon:pichu", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pichu", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I can’t explain it... Being here compels me to battle!", "The desire to do battle lingers on... Do such spirits of Pokémon still roam within these walls?"]

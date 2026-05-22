@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_andrew"
+name = "Ace Trainer Andrew"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 93
+maxLevel = 95
+team = [
+  { species = "cobblemon:infernape", level = 93, gender = "FEMALE", nature = "jolly", ability = "blaze", moveset = ["pyroball", "closecombat", "thunderpunch", "stealthrock"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:sceptile", level = 95, gender = "FEMALE", nature = "jolly", ability = "overgrow", moveset = ["swordsdance", "bulletseed", "scaleshot", "rocktomb"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:torterra", level = 94, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["shellsmash", "woodhammer", "headlongrush", "headsmash"], heldItem = "['yache_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:blaziken", level = 93, gender = "FEMALE", nature = "jolly", ability = "reckless", moveset = ["closecombat", "flareblitz", "knockoff", "uturn"], heldItem = "['mega_showdown:blazikenite', 'life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:greninja", level = 95, gender = "MALE", nature = "careful", ability = "battlebond", moveset = ["hydrocannon", "darkpulse", "icebeam", "uturn"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:inteleon", level = 95, gender = "FEMALE", nature = "timid", ability = "sniper", moveset = ["snipeshot", "icebeam", "hiddenpower", "uturn"], heldItem = "['scope_lens']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

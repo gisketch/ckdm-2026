@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_wendy"
+name = "Swimmer Wendy"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:horsea", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bubble", "smokescreen", "leer", "watergun"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:horsea", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dragonrage", "smokescreen", "leer", "watergun"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Wendy is ready for a battle.", "At night, STARYU gather near the water’s surface.", "The clusters of STARYU light up at the same time. It’s so beautiful, it’s scary."]

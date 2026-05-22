@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_julia"
+name = "Beauty Julia"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 44
+maxLevel = 47
+team = [
+  { species = "cobblemon:paras", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gigadrain", "spore", "slash", "attract"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:carnivine", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gigadrain", "wringout", "ingrain", "attract"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:parasect", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gigadrain", "spore", "attract", "xscissor"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Julia is ready for a battle.", "How can I get you to understand my hobby? Which is... talking in a deep voice!", "The kindness of a woman and the strength of a man... I want to be a Trainer with both those qualities!"]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_camper_jeff_0092",
+  "name": "Camper Jeff",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:doduo",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "runaway",
+      "moveset": [
+        "furyattack",
+        "pursuit",
+        "pluck",
+        "doublehit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electrike",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "static",
+      "moveset": [
+        "spark",
+        "odorsleuth",
+        "thunderfang",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_light_of_ruin_aklove_3_05c5",
+  "name": "Ruin Leader Aklove",
+  "title": "Light Of Ruin Aklove",
+  "gender": "any",
+  "archetype": "light_of_ruin_aklove",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "meloetta",
+      "level": 81,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "expandingforce",
+        "shadowball",
+        "hiddenpower",
+        "energyball"
+      ],
+      "heldItem": "mega_showdown:adrenaline_orb salac_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tapulele",
+      "level": 83,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "psychicsurge",
+      "moveset": [
+        "storedpower",
+        "dazzlinggleam",
+        "thunderbolt",
+        "psychicterrain"
+      ],
+      "heldItem": "red_card",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "manaphy",
+      "level": 83,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "soulheart",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "energyball",
+        "tailglow"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tapukoko",
+      "level": 83,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "electricsurge",
+      "moveset": [
+        "closecombat",
+        "wildcharge",
+        "acrobatics",
+        "grassknot"
+      ],
+      "heldItem": "electric_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "melmetal",
+      "level": 83,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "doubleironbash",
+        "highhorsepower",
+        "icepunch",
+        "thunderpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "diancie",
+      "level": 84,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "magicbounce",
+      "moveset": [
+        "diamondstorm",
+        "moonblast",
+        "earthpower",
+        "mysticalfire"
+      ],
+      "heldItem": "mega_showdown:diancite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

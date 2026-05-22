@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_brianna"
+name = "Bird Keeper Brianna"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 59
+maxLevel = 59
+team = [
+  { species = "cobblemon:skarmory", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["nightslash", "slash", "airslash", "steelwing"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:noctowl", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hypnosis", "psychic", "roost", "airslash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:noctowl", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hypnosis", "psychic", "roost", "airslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Brianna is ready for a battle.", "I’ll teach you about the charms of bird Pokémon!", "The sight of you battling... It was simply a wonder to watch!", "I have trained this team for the road. Challenge me if you are ready."]

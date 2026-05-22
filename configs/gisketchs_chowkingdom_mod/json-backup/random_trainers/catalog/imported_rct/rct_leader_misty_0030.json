@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_misty_0030",
+  "name": "Misty",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "politoed",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "hypnosis",
+        "flipturn"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "greninja",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "protean",
+      "moveset": [
+        "darkpulse",
+        "watershuriken",
+        "icebeam",
+        "grassknot"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gorebyss",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "shellsmash",
+        "surf",
+        "moonblast",
+        "icebeam"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kingdra",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "dragonpulse",
+        "surf",
+        "hurricane",
+        "icebeam"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "inteleon",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sniper",
+      "moveset": [
+        "snipeshot",
+        "darkpulse",
+        "icebeam",
+        "airslash"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "crunch",
+        "earthquake"
+      ],
+      "heldItem": "mega_showdown:gyaradosite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

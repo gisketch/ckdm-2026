@@ -1,0 +1,54 @@
+{
+  "id": "pret_pokeplatinum_lass_carrie_unused_1",
+  "name": "Lass Carrie",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 23,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:bonsly",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "block",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mime_jr",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "reflect",
+        "lightscreen",
+        "doubleslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hi, what kinds of Pok\u00e9mon do you have with you? I\u2019ll show you my Pok\u00e9mon while we have a battle.",
+    "You\u2019re too tough! I won\u2019t battle you again! Just joking! I\u2019ll challenge you again when I level up my Pok\u00e9mon."
+  ]
+}

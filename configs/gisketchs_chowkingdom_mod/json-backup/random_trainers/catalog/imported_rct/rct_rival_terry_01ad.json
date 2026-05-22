@@ -1,0 +1,96 @@
+{
+  "id": "rct_rival_terry_01ad",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "tangledfeet",
+      "moveset": [
+        "quickattack",
+        "takedown",
+        "whirlwind",
+        "return"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "growlithe",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "flashfire",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "exeggcute",
+      "level": 22,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "chlorophyll",
+      "moveset": [
+        "stunspore",
+        "megadrain",
+        "poisonpowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "innerfocus",
+      "moveset": [
+        "teleport",
+        "confusion",
+        "hiddenpower",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wartortle",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "waterpulse",
+        "bite",
+        "fakeout",
+        "detect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

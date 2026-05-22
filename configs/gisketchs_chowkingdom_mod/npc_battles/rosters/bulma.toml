@@ -1,0 +1,40 @@
+# Chow Kingdom config: bulma.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: name.
+name = "Bulma"
+# Config value: battleFormat.
+battleFormat = "GEN_9_SINGLES"
+# Config value: team.
+team = [
+  { species = "cobblemon:porygon", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 4, spa = 252, spe = 252 }, moveset = [] },
+  { species = "cobblemon:porygon2", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { hp = 252, spa = 4, spd = 252 }, moveset = [] },
+  { species = "cobblemon:porygon_z", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 4, spa = 252, spe = 252 }, moveset = [] },
+  { species = "cobblemon:rotom", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 4, spa = 252, spe = 252 }, moveset = [] },
+  { species = "cobblemon:magnezone", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { hp = 252, spa = 252, spe = 4 }, moveset = [] },
+  { species = "cobblemon:metagross", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 252, spa = 4, spe = 252 }, moveset = [] },
+  { species = "cobblemon:ampharos", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { hp = 252, spa = 252, spe = 4 }, moveset = [] },
+  { species = "cobblemon:manectric", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 4, spa = 252, spe = 252 }, moveset = [] },
+  { species = "cobblemon:jolteon", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 4, spa = 252, spe = 252 }, moveset = [] },
+  { species = "cobblemon:luxray", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 252, spa = 4, spe = 252 }, moveset = [] },
+  { species = "cobblemon:scizor", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 252, spa = 4, spe = 252 }, moveset = [] },
+  { species = "cobblemon:skarmory", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { hp = 252, def = 252, spe = 4 }, moveset = [] },
+  { species = "cobblemon:aggron", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 252, spa = 4, spe = 252 }, moveset = [] },
+  { species = "cobblemon:bronzong", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { hp = 252, def = 252, spa = 4 }, moveset = [] },
+  { species = "cobblemon:tinkaton", level = 50, ivs = { hp = 31, atk = 31, def = 31, spa = 31, spd = 31, spe = 31 }, evs = { atk = 252, spa = 4, spe = 252 }, moveset = [] },
+]
+
+# Config value: ai.
+[ai]
+# Config value: ai.type.
+type = "rct"
+
+# Config value: battleRules.
+[battleRules]
+# Config value: battleRules.maxItemUses.
+maxItemUses = 0
+# Config value: battleRules.healPlayers.
+healPlayers = true
+# Config value: battleRules.adjustPlayerLevels.
+adjustPlayerLevels = false
+# Config value: battleRules.adjustNPCLevels.
+adjustNPCLevels = false

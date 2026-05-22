@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_ranger_dwayne",
+  "name": "Ranger Male Dwayne",
+  "title": "Ranger Male",
+  "gender": "male",
+  "archetype": "ranger_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:skarmory",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:donphan",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We go on patrol to make sure there\u2019s nothing strange going on. And occasionally, we battle!",
+    "Using the Pok\u00e9mon ability Pickup for gathering dropped items is a good thing. I think it\u2019s ecological, even. I am cleaning up the environment!"
+  ]
+}

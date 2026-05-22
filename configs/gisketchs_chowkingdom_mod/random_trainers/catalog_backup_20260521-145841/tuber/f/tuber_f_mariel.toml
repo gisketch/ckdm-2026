@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_f_mariel"
+name = "Tuber Mariel"
+title = "Tuber"
+gender = "female"
+archetype = "tuber"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "tuber/female"
+tier = "mid"
+spawnable = true
+height = 0.86
+weight = 0.84
+bustStyle = "standard"
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:marill", level = 29, gender = "MALE", nature = "quirky", ability = "thickfat", moveset = ["charm", "aquatail", "aquaring", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marill", level = 29, gender = "FEMALE", nature = "quirky", ability = "thickfat", moveset = ["slam", "bounce", "aquatail", "playrough"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I can’t swim without my inflatable tube. But my Pokémon might be strong!", "My mommy said that Professor Rowan is really kindhearted.", "I have trained this team for the road. Challenge me if you are ready."]

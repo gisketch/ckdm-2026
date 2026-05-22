@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_alfred"
+name = "Gentleman Alfred"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:noctowl", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hypnosis", "dreameater", "airslash", "reflect"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Alfred is ready for a battle.", "Eh? This is no place for playing.", "Up top is a Pokémon that keeps the Lighthouse lit. Pokémon glow when they are healthy, just like people."]

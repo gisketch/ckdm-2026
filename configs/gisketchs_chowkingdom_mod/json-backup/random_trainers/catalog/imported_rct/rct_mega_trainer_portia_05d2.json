@@ -1,0 +1,67 @@
+{
+  "id": "rct_mega_trainer_portia_05d2",
+  "name": "Mega Trainer Portia",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 75,
+  "maxLevel": 77,
+  "team": [
+    {
+      "species": "typhlosion",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "drought",
+      "moveset": [
+        "heatwave",
+        "solarbeam",
+        "scorchingsands",
+        "naturepower"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 77,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "drought",
+      "moveset": [
+        "heatwave",
+        "airslash",
+        "scorchingsands",
+        "solarbeam"
+      ],
+      "heldItem": "mega_showdown:charizardite_y expert_belt",
+      "shiny": false,
+      "aspects": [
+        "mega_y"
+      ]
+    },
+    {
+      "species": "torkoal",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "drought",
+      "moveset": [
+        "heatwave",
+        "bodypress",
+        "eruption",
+        "protect"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

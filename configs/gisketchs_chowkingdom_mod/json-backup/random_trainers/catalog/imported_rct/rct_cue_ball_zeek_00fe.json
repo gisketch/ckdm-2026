@@ -1,0 +1,33 @@
+{
+  "id": "rct_cue_ball_zeek_00fe",
+  "name": "Cue Ball Zeek",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "hitmonchan",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "frisk",
+      "moveset": [
+        "skyuppercut",
+        "megapunch",
+        "suckerpunch",
+        "focuspunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

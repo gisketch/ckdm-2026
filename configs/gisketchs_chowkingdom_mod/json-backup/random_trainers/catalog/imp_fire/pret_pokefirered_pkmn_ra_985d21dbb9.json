@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokefirered_pkmn_ranger_logan",
+  "name": "Pokemon Ranger Logan",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "pokemon_ranger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sleeppowder",
+        "poisonpowder",
+        "stunspore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggutor",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "eggbomb",
+        "stomp",
+        "confusion",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Ranger Logan is ready for a battle."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_psychic_preston_011b",
+  "name": "Psychic Preston",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "bronzong",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "heatproof",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "payback",
+        "healblock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_painter_celina_0232",
+  "name": "Painter Celina",
+  "title": "Painter",
+  "gender": "any",
+  "archetype": "painter",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "smeargle",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "owntempo",
+      "moveset": [
+        "fly",
+        "dig",
+        "dive",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

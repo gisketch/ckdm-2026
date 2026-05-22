@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_alyssa_031c",
+  "name": "Ace Trainer Alyssa",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "ponyta",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "runaway",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "ember",
+        "flamewheel"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grotle",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "overgrow",
+      "moveset": [
+        "razorleaf",
+        "curse",
+        "bite",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

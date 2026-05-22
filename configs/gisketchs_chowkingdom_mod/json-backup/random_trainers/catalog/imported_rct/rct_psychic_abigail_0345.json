@@ -1,0 +1,65 @@
+{
+  "id": "rct_psychic_abigail_0345",
+  "name": "Psychic Abigail",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 22,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "gastly",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "lick",
+        "confuseray",
+        "payback",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "misdreavus",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "confusion",
+        "astonish",
+        "confuseray",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "psychocut"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

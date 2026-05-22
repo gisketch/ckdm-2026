@@ -5,6 +5,8 @@ source_tags = ["store_seed"]
 target_tags = ["town"]
 line = "These plots near the sky bridge catch morning light best for Skyland mint."
 response = "I saw them sprouting. Farmer Gregg says they taste like cloud petals."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["store_seed"]
 target_tags = ["mentor"]
 line = "The roots under the east walk are breaking through the cobble. Should I trench?"
 response = "Dig a soft channel beside the path. The roots will follow your kindness."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["archer"]
 target_tags = ["store_seed"]
 line = "I keep watch while you weed. Wild starly scatter the seed beds at dusk."
 response = "Thank you. I have extra glossy-herb bundles for your fletching kit."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["store_seed"]
 target_tags = ["earth_wizard"]
 line = "Moss on the garden stones glows faint green when I touch it. Earth magic?"
 response = "A little. The stone remembers every seed that rooted here."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["store_seed"]
 target_tags = ["wind_wizard"]
 line = "I planted a sunbloom row under the spinning weather vane. Good for focus?"
 response = "Best spot. The breeze circles there and carries clarity."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["archer"]
 target_tags = ["mentor"]
 line = "I showed the young ones how to stake seedlings with spare arrow shafts."
 response = "Clever. The archery yard used to be an herb field, long ago."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["store_seed"]
 target_tags = ["frost_wizard"]
 line = "Do you stock frost mint? I need it for a cooling rune experiment."
 response = "I keep a small tray under the shade cloth. Trade me a cool breeze."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["town"]
 target_tags = ["store_seed"]
 line = "The green path you planted leads everyone gently to the square."
 response = "Paths made of creeping thyme slow a walker into peace."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["mentor"]
 target_tags = ["store_seed"]
 line = "Your bean trellis lattice is art. The town children hide beneath it."
 response = "Good. A trellis should be a shelter as well as a ladder."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["store_seed"]
 target_tags = ["bounty_hunter"]
 line = "I need sharp-eye balm herbs for a long pursuit across the skylands."
 response = "Try the silver-sight petals dried by the garden shrine. Travel safe."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["mentor"]
 target_tags = ["town"]
 line = "Sit. That elder herb was brought by the first wind mage a century ago."
 response = "I always wondered why it smelled of lemon and thunder."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["bubblegum"]
 target_tags = ["store_seed"]
 line = "The soil under the berry nursery has faint phosphor traces. Pokemon related?"
 response = "Maybe old Apricorn pollen. I will save you a sample jar."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["archer"]
 target_tags = ["store_seed"]
 line = "Beans cultivated nearby make bowstring wax. Ever tried it?"
 response = "No, but I can trade you a block for a bundle of your spare feathers."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -122,17 +148,21 @@ source_tags = ["water_wizard"]
 target_tags = ["store_seed"]
 line = "May I sing a bending ripple over the sprouting beds? They look thirsty."
 response = "Please. The well water has been thin this week. Your voice is rain."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_18_015"
 topic = "ciri_witcher_herb_collection"
 source_tags = ["ciri"]
+required_spawned_ids = ["geralt"]
 target_tags = ["store_seed"]
 line = "Geralt sent me for celandine. Do you have any dried under the eaves?"
 response = "Yes, wrapped in waxed linen. Take extra for the road."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_18_016"
 topic = "finn_warrior_weeding_during_rest"
@@ -140,6 +170,8 @@ source_tags = ["warrior"]
 target_tags = ["archer"]
 line = "I pulled weeds for an hour near the carrot patch. It felt like training."
 response = "Stamina for the back, patience for the mind. Good drill."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["store_seed"]
 line = "I bent stone dividers for the new root vegetable quarter. Sturdy enough?"
 response = "Perfect. The carrots will not wander into the parsnip trench."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["tarnished"]
 target_tags = ["mentor"]
 line = "Rosemary by the gate. In my homeland we burn it before a vigil."
 response = "Then take a sprig. Vigil keeping is a quiet art."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["archer"]
 target_tags = ["war_archer"]
 line = "The old pine leaks golden sap. I use it to fix broadheads."
 response = "Show me the tree. I need sap for my practice arrows too."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["bubblegum"]
 target_tags = ["store_seed"]
 line = "I am researching medicinal leeks for Pokemon recovery balms. Any strong stock?"
 response = "The blue-ribbon leeks in the back row. Crossbred with wild skyland bulbs."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["town"]
 target_tags = ["store_seed"]
 line = "Why do sunsprouts turn their leaves all day? Are they dancing?"
 response = "They follow the sun like tiny green compasses. Smart, not dancing."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["geralt"]
 target_tags = ["store_seed"]
 line = "Cave moss grows on your damp stone wall. May I take some for a potion?"
 response = "Of course. But the glow moss near the bottom is still young."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["priest"]
 target_tags = ["mentor"]
 line = "May I speak a blessing over the first cutting row? The leaves lean low."
 response = "Do so. Every blade cut in gratitude heals faster."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["rogue"]
 target_tags = ["store_seed"]
 line = "Got any nightbloom seeds? Good for shadow stepping practices after dusk."
 response = "Check the locked cabinet. I keep moonpetal and duskbell there."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["warrior"]
 target_tags = ["store_seed"]
 line = "I brought river gravel for the soggy corner. Should I mix it in?"
 response = "Yes, fork it into the topsoil. The lavender will thank you."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -230,17 +280,21 @@ source_tags = ["tundra_archer"]
 target_tags = ["archer"]
 line = "These hardy shrubs remind me of the tundra nursery in Ice Hills."
 response = "I would trade seeds with them someday. Cold breeds resilience."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_18_027"
 topic = "bard_singing_to_seed_rows"
 source_tags = ["bard"]
+required_spawned_ids = ["venti"]
 target_tags = ["town"]
 line = "Venti sang to the melon rows last evening. They grew a finger overnight."
 response = "Music is a gardener. No wonder he loiters near the soil."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_18_028"
 topic = "cobblemon_biology_budding_sprig"
@@ -248,6 +302,8 @@ source_tags = ["cobblemon_biology"]
 target_tags = ["store_seed"]
 line = "That budding sprig has cells reminiscent of a grass-type pokedream."
 response = "I have been saying these seeds carry old cobble spark."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["store_seed"]
 target_tags = ["arcane_wizard"]
 line = "Arcane rune herbs need grounding soil. Do you have magnetized peat?"
 response = "I mix volcanic ash with peat from the crater bog. Try that."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["forcemaster"]
 target_tags = ["archer"]
 line = "I brace the tallest sunflower stalks with force-columns. They never droop."
 response = "Show the town children that trick. They love tall things."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["war_archer"]
 target_tags = ["store_seed"]
 line = "Sylvan mint grows true within your borders. Elves would trade for it."
 response = "I harvest baskets for the adventurers. Always spare for friends."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["bounty_hunter"]
 target_tags = ["store_seed"]
 line = "I am setting a soil snare near the cabbages. Rogue corviknight at night."
 response = "Warn the scouts. I will plant scare-brambles beside your trap."
+source_emote = "clap"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "Bark from your fallen birch makes a light shield. Need any?"
 response = "Yes, my target stand is worn flat. Birch is perfect."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["store_seed"]
 line = "I can channel seed pods on a river of air to the outlying farms."
 response = "Teach me the chant so I can send cloud-seeds to the skylands."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["marceline"]
 target_tags = ["store_seed"]
 line = "Shade blossom only opens at midnight. I keep a chair near it."
 response = "Leave a journal note next time. I would have brought spiced cider."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["link"]
 target_tags = ["mentor"]
 line = "These green plots remind me of the sage gardens in Zora's Domain."
 response = "Then you know water stones. Help me place them below the pond lilies."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["zelda"]
 target_tags = ["store_seed"]
 line = "Some seeds hold light from before I was restored. I can feel it."
 response = "Plant one here. We will name it after your return."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -338,17 +412,21 @@ source_tags = ["zagreus"]
 target_tags = ["archer"]
 line = "My feet leave hot prints. Show me where the new sprouts are."
 response = "Stick to the slate path. I marked the fragile rows with blue flags."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_18_039"
 topic = "vi_forcemaster_staking_perimeter"
 source_tags = ["forcemaster"]
+required_spawned_ids = ["vi"]
 target_tags = ["store_seed"]
 line = "I pulverized boulders into gravel stakes for the perimeter hedge."
 response = "Thank you, Vi. Those stakes will last through three storm seasons."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_18_040"
 topic = "elsa_frost_climate_talk"
@@ -356,6 +434,8 @@ source_tags = ["frost_wizard"]
 target_tags = ["town"]
 line = "If the garden ever freezes, I can keep one greenhouse glade warm."
 response = "In exchange, you may take all the icebloom seeds you need."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["store_seed"]
 line = "Do you have blush herb? I want to make petal rouge for the festival."
 response = "I grow just enough behind the hedge. I'll bring a packet tomorrow."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["rogue"]
 target_tags = ["archer"]
 line = "I stash smoke pouches in the tool shed. Hope the gardeners mind not."
 response = "As long as you keep them away from the dry hay bales."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["priest"]
 target_tags = ["store_seed"]
 line = "I wish to plant cloister thyme around the chapel. Have you cuttings?"
 response = "Take from the mother plant beside the sundial. It never stops."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["wizard"]
 target_tags = ["store_seed"]
 line = "I am blending herb tea to sharpen the mind. Suggest a third leaf."
 response = "Moonpetal for calm, but only one leaf per pot. Too much dulls."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["arcane_wizard"]
 target_tags = ["mentor"]
 line = "In the deep weald, magic grew like kudzu. Your garden is tamer."
 response = "Tamed magic still dreams of the wild. I let a corner run free."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["monster_hunter"]
 target_tags = ["store_seed"]
 line = "Plant garlic around the outer fence. Lesser monsters turn away."
 response = "Fact? Then I will double the border tomorrow at dawn."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -419,17 +511,21 @@ source_tags = ["tarnished"]
 target_tags = ["mentor"]
 line = "I swore an oath on sage and hyssop once. This garden smells the same."
 response = "Then rest. Oaths tend to bloom when you stop grasping them."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_18_048"
 topic = "adventure_time_sprout_memory"
 source_tags = ["adventure_time"]
+required_spawned_ids = ["finn"]
 target_tags = ["store_seed"]
 line = "Finn says this sprout reminds him of a bean that grew a door."
 response = "Do not climb it without me. I always miss the big adventures."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_18_049"
 topic = "pokemon_cobble_scent_pollination"
@@ -437,6 +533,8 @@ source_tags = ["pokemon"]
 target_tags = ["store_seed"]
 line = "A ribombee visited your squash blossoms. Pollen was sparkling pink."
 response = "Good omen. I will mark those fruits for Bubblegum's research."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["store_seed"]
 target_tags = ["town", "mentor"]
 line = "The herb bed settled once the earth wizard hummed a low note."
 response = "Stonesong wakes roots. These will sprout twice as hearty now."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0

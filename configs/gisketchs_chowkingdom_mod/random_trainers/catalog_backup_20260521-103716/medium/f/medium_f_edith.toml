@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "medium_f_edith"
+name = "Medium Edith"
+title = "Medium"
+gender = "female"
+archetype = "medium"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "medium/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = "standard"
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:haunter", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.", "Where did Pokémon come from?"]

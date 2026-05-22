@@ -1,0 +1,72 @@
+{
+  "id": "rct_bug_catcher_keigo_006f",
+  "name": "Bug Catcher Keigo",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:ledian",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "ironfist",
+      "moveset": [
+        "reflect",
+        "safeguard",
+        "machpunch",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mothim",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "swarm",
+      "moveset": [
+        "aircutter",
+        "detect",
+        "bugbite",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:karrablast",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "endure",
+        "furycutter",
+        "bugbite",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

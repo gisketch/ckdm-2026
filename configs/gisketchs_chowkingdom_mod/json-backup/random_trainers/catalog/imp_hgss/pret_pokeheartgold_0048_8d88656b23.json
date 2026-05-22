@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0048_bug_catcher_rob",
+  "name": "Bug Catcher Rob",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:beedrill",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:butterfree",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My bug Pok\u00e9mon are tough. Prepare to lose!",
+    "I\u2019m going to look for stronger bug Pok\u00e9mon."
+  ]
+}

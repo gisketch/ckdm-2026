@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_trainer_x_lucas"
+name = "Pok Mon Trainer Lucas"
+title = "Pok Mon Trainer"
+gender = "any"
+archetype = "pok_mon_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 68
+maxLevel = 74
+team = [
+  { species = "cobblemon:dusknoir", level = 68, gender = "FEMALE", nature = "brave", ability = "pressure", moveset = ["brickbreak", "earthquake", "trickroom", "willowisp"], heldItem = "['lum_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:flareon", level = 69, gender = "MALE", nature = "adamant", ability = "guts", moveset = ["flareblitz", "facade", "irontail", "willowisp"], heldItem = "['toxic_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:rampardos", level = 70, gender = "MALE", nature = "adamant", ability = "moldbreaker", moveset = ["headsmash", "earthquake", "irontail", "zenheadbutt"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:rotom", level = 69, gender = "GENDERLESS", nature = "modest", ability = "levitate", moveset = ["hydropump", "thunderbolt", "voltswitch", "hex"], heldItem = "['choice_specs']", shiny = false, aspects = ["wash-appliance"] },
+  { species = "cobblemon:dunsparce", level = 70, gender = "MALE", nature = "jolly", ability = "serenegrace", moveset = ["rockslide", "roost", "coil", "glare"], heldItem = "['kings_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:torterra", level = 74, gender = "MALE", nature = "brave", ability = "overgrow", moveset = ["earthquake", "synthesis", "leechseed", "curse"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

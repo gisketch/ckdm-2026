@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_x_dawson"
+name = "Pokemaniac Dawson"
+title = "Pokemaniac"
+gender = "any"
+archetype = "pokemaniac"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "pokemaniac/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:charmeleon", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lapras", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lickitung", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Dawson is ready for a battle."]

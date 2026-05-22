@@ -1,0 +1,92 @@
+{
+  "id": "rct_ace_trainer_brooke_0197",
+  "name": "Ace Trainer Brooke",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "tangela",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "bind",
+        "megadrain",
+        "ingrain"
+      ],
+      "heldItem": "hyper_potion",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gloom",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "stench",
+      "moveset": [
+        "moonlight",
+        "sleeppowder",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vileplume",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "effectspore",
+      "moveset": [
+        "acid",
+        "stunspore",
+        "aromatherapy"
+      ],
+      "heldItem": "ability_capsule",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ivysaur",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sweetscent",
+        "growl",
+        "leechseed"
+      ],
+      "heldItem": "x_attack",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "growth",
+        "sleeppowder",
+        "poisonpowder"
+      ],
+      "heldItem": "x_attack",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

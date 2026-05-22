@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_caitlin"
+name = "Picnicker Caitlin"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "very_high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 92
+maxLevel = 93
+team = [
+  { species = "cobblemon:smeargle", level = 92, gender = "MALE", nature = "jolly", ability = "owntempo", moveset = ["vcreate", "dragonascent", "trick", "closecombat"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:spinda", level = 93, gender = "FEMALE", nature = "jolly", ability = "contrary", moveset = ["assist"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sneasel", level = 93, gender = "MALE", nature = "bashful", ability = "innerfocus", moveset = ["assist"], heldItem = "['eviolite']", shiny = false, aspects = ["hisuian"] },
+  { species = "cobblemon:liepard", level = 93, gender = "MALE", nature = "bashful", ability = "prankster", moveset = ["assist"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Caitlin is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

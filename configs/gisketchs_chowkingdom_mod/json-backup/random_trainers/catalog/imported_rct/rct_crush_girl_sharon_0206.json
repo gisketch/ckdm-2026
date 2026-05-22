@@ -1,0 +1,83 @@
+{
+  "id": "rct_crush_girl_sharon_0206",
+  "name": "Crush Girl Sharon",
+  "title": "Crush Girl",
+  "gender": "any",
+  "archetype": "crush_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "grapploct",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "brutalswing",
+        "aquajet",
+        "machpunch",
+        "drainpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gallade",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "steadfast",
+      "moveset": [
+        "psychocut",
+        "sacredsword",
+        "swordsdance",
+        "nightslash"
+      ],
+      "heldItem": "mega_showdown:galladite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "darmanitan",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "zenmode",
+      "moveset": [
+        "flareblitz",
+        "iciclecrash",
+        "uturn",
+        "earthquake"
+      ],
+      "heldItem": "charcoal_stick",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "nidoking",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "earthpower",
+        "sludgewave",
+        "icebeam",
+        "flamethrower"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

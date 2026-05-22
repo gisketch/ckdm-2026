@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_ray"
+name = "Black Belt Ray"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 53
+maxLevel = 58
+team = [
+  { species = "cobblemon:tyrogue", level = 53, gender = "FEMALE", nature = "serious", ability = "steadfast", moveset = ["tackle", "helpinghand", "fakeout", "focusenergy"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marowak", level = 57, gender = "FEMALE", nature = "impish", ability = "rockhead", moveset = ["bonemerang", "bonerush", "thrash", "stompingtantrum"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:breloom", level = 58, gender = "MALE", nature = "jolly", ability = "poisonheal", moveset = ["spore", "drainpunch", "leechseed", "machpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Pokémon can destroy anything. And you think you can win?!", "Even though my team could break bricks and shatter boulders, they failed to dent your spirits!", "I have trained this team for the road. Challenge me if you are ready."]

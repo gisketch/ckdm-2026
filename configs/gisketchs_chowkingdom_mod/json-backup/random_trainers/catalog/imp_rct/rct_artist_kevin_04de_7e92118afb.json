@@ -1,0 +1,56 @@
+{
+  "id": "rct_artist_kevin_04de",
+  "name": "Artist Kevin",
+  "title": "Artist",
+  "gender": "any",
+  "archetype": "artist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "artist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:mrmime",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "encore",
+        "copycat",
+        "pound",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sudowoodo",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "flail",
+        "woodhammer",
+        "tearfullook",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

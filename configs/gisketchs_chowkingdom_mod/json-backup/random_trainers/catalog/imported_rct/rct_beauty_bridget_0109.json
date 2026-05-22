@@ -1,0 +1,81 @@
+{
+  "id": "rct_beauty_bridget_0109",
+  "name": "Beauty Bridget",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "oddish",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sludge",
+        "moonlight",
+        "gigadrain",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bellsprout",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sludge",
+        "megadrain",
+        "knockoff",
+        "gastroacid"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cherubi",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sunnyday",
+        "worryseed",
+        "takedown",
+        "solarbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roselia",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "poisontouch",
+      "moveset": [
+        "toxicspikes",
+        "sleeppowder",
+        "ingrain",
+        "petalblizzard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

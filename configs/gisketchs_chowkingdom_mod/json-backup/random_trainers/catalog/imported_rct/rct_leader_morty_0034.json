@@ -1,0 +1,117 @@
+{
+  "id": "rct_leader_morty_0034",
+  "name": "Morty",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 96,
+  "team": [
+    {
+      "species": "mimikyu",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "shadowclaw",
+        "shadowsneak",
+        "swordsdance"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dusknoir",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hustle",
+      "moveset": [
+        "shadowpunch",
+        "shadowsneak",
+        "dynamicpunch",
+        "willowisp"
+      ],
+      "heldItem": "reaper_cloth",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zoroark",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "illusion",
+      "moveset": [
+        "hypervoice",
+        "shadowball",
+        "flamethrower",
+        "nastyplot"
+      ],
+      "heldItem": "colbur_berry",
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "typhlosion",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "infernalparade",
+        "focusblast",
+        "hiddenpower"
+      ],
+      "heldItem": "charcoal_stick",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "gengar",
+      "level": 94,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "sludgewave",
+        "shadowball",
+        "focusblast",
+        "nastyplot"
+      ],
+      "heldItem": "mega_showdown:gengarite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "infiltrator",
+      "moveset": [
+        "knockoff",
+        "tripleaxel",
+        "iceshard",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

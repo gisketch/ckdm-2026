@@ -1,0 +1,65 @@
+{
+  "id": "rct_team_galactic_boss_cyrus_041a",
+  "name": "Team Galactic Boss Cyrus",
+  "title": "Team Galactic Boss",
+  "gender": "any",
+  "archetype": "team_galactic_boss",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "murkrow",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "insomnia",
+      "moveset": [
+        "wingattack",
+        "nightshade",
+        "assurance",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "screech",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sneasel",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "metalclaw",
+        "icywind",
+        "honeclaws",
+        "beatup"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

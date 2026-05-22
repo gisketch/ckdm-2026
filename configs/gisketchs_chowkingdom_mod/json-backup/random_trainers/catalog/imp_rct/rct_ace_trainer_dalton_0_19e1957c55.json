@@ -1,0 +1,72 @@
+{
+  "id": "rct_ace_trainer_dalton_0353",
+  "name": "Ace Trainer Dalton",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:raichu",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "electroball",
+        "agility",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "airslash",
+        "tailwind",
+        "waterpulse",
+        "stockpile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hippopotas",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sandstream",
+      "moveset": [
+        "yawn",
+        "sandtomb",
+        "crunch",
+        "rest"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "rct_trainer_cole_0012",
+  "name": "Trainer Cole",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:yanmega",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "frisk",
+      "moveset": [
+        "airslash",
+        "bugbuzz",
+        "gigadrain",
+        "uturn"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tyrantrum",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "dragondance",
+        "headsmash",
+        "dragonclaw",
+        "earthquake"
+      ],
+      "heldItem": [
+        "shuca_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "sludgebomb",
+        "strangesteam",
+        "flamethrower",
+        "haze"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "cobblemon:ferrothorn",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "ironbarbs",
+      "moveset": [
+        "leechseed",
+        "powerwhip",
+        "gyroball",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "scald",
+        "recover",
+        "earthpower",
+        "mirrorcoat"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:centiskorch",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "flashfire",
+      "moveset": [
+        "coil",
+        "leechlife",
+        "firelash",
+        "knockoff"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

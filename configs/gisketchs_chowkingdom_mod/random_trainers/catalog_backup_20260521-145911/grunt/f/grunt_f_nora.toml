@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "grunt_f_nora"
+name = "Grunt Nora"
+title = "Grunt"
+gender = "female"
+archetype = "grunt"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "grunt/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = "standard"
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:arbok", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gruntf Grunt is ready for a battle."]

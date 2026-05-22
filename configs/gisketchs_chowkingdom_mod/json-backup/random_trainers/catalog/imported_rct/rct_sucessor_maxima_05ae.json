@@ -1,0 +1,99 @@
+{
+  "id": "rct_sucessor_maxima_05ae",
+  "name": "Sucessor Maxima",
+  "title": "Sucessor",
+  "gender": "any",
+  "archetype": "sucessor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "azumarill",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "aquatail",
+        "playrough",
+        "aquajet",
+        "bellydrum"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "serperior",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "leafblade",
+        "aquatail",
+        "leechseed",
+        "protect"
+      ],
+      "heldItem": "big_root",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "defiant",
+      "moveset": [
+        "aquajet",
+        "bulldoze",
+        "rockslide",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ninetales",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "snowcloak",
+      "moveset": [
+        "icebeam",
+        "dazzlinggleam",
+        "psyshock",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "altaria",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "pixilate",
+      "moveset": [
+        "dragonpulse",
+        "hypervoice",
+        "flamethrower",
+        "tailwind"
+      ],
+      "heldItem": "mega_showdown:altarianite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

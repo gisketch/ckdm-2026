@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_chelan"
+name = "Swimmer Chelan"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:azumarill", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterfall", "rollout", "defensecurl", "dig"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I love bikinis! If I had an electric bikini, I could wear it even in winter!", "I suppose if you tried to swim in an electric bikini, you’d get a shock!"]

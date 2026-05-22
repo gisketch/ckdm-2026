@@ -1,0 +1,56 @@
+{
+  "id": "rct_lass_julia_0083",
+  "name": "Lass Julia",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "magicguard",
+      "moveset": [
+        "wish",
+        "storedpower",
+        "metronome",
+        "cosmicpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:munna",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "zenheadbutt",
+        "synchronoise",
+        "nightmare",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

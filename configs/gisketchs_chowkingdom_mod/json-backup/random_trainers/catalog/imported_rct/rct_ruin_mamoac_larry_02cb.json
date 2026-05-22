@@ -1,0 +1,49 @@
+{
+  "id": "rct_ruin_mamoac_larry_02cb",
+  "name": "Ruin Mamoac Larry",
+  "title": "Ruin Mamoac",
+  "gender": "any",
+  "archetype": "ruin_mamoac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "machoke",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "noguard",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

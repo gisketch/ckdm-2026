@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_kimonogirl_002_naoko",
+  "name": "Kimono Girl Naoko",
+  "title": "Kimono Girl",
+  "gender": "female",
+  "archetype": "kimono_girl",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "kimono_girl/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.9,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:flareon",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Kimono Girl Naoko is ready for a battle."
+  ]
+}

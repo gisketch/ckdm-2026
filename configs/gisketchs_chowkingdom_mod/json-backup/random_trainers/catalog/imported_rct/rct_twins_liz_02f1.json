@@ -1,0 +1,33 @@
+{
+  "id": "rct_twins_liz_02f1",
+  "name": "Twin Liz",
+  "title": "Twins",
+  "gender": "any",
+  "archetype": "twins",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "pachirisu",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

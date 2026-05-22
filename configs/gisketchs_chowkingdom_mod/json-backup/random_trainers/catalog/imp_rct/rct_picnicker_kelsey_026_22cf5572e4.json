@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_kelsey_026e",
+  "name": "Picnicker Kelsey",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:nidorino",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonsting",
+        "furyattack",
+        "hornattack",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidorina",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonsting",
+        "furyswipes",
+        "bite",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_swimmer_crystal",
+  "name": "Swimmer Female Crystal",
+  "title": "Swimmer Female",
+  "gender": "female",
+  "archetype": "swimmer_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "swimmer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 42,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:wingull",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Your Pok\u00e9mon doesn\u2019t seem to be tiring at all from carrying you on its back. Let me see how strong it is!",
+    "While floating here, I think about everything and nothing. Like how I should battle next, and what\u2019s for dinner tomorrow, and..."
+  ]
+}

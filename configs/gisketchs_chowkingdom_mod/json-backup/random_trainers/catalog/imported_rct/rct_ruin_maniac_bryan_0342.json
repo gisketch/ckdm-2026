@@ -1,0 +1,65 @@
+{
+  "id": "rct_ruin_maniac_bryan_0342",
+  "name": "Ruin Maniac Bryan",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 22,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cranidos",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "moldbreaker",
+      "moveset": [
+        "headbutt",
+        "leer",
+        "scaryface",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "geodude",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "sandstorm",
+        "harden",
+        "smackdown",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzor",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "confusion",
+        "confuseray",
+        "payback",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

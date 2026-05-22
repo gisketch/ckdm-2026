@@ -1,0 +1,132 @@
+{
+  "id": "rct_gym_leader_volkner_0591",
+  "name": "Volkner",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 66,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "cobblemon:pelipper",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "hydropump",
+        "hurricane",
+        "icebeam",
+        "uturn"
+      ],
+      "heldItem": [
+        "damp_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "thunder",
+        "surf",
+        "focusblast",
+        "voltswitch"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:luxray",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "playrough",
+        "voltswitch",
+        "electricterrain"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lanturn",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunder",
+        "surf",
+        "icebeam",
+        "voltswitch"
+      ],
+      "heldItem": [
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:jolteon",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "quickfeet",
+      "moveset": [
+        "thunder",
+        "reflect",
+        "shadowball",
+        "voltswitch"
+      ],
+      "heldItem": [
+        "toxic_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:electivire",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "motordrive",
+      "moveset": [
+        "thunder",
+        "flamethrower",
+        "crosschop",
+        "earthquake"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

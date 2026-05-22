@@ -1,0 +1,59 @@
+{
+  "id": "rct_lass_anne_0004",
+  "name": "Lass Anne",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "togepi",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "serenegrace",
+      "moveset": [
+        "metronome"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "magicguard",
+      "moveset": [
+        "metronome"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "klutz",
+      "moveset": [
+        "swagger",
+        "protect",
+        "wish",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

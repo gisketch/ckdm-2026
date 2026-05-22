@@ -1,0 +1,49 @@
+{
+  "id": "rct_juggler_nate_0125",
+  "name": "Juggler Nate",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 63,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "skuntank",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "stench",
+      "moveset": [
+        "venomdrench",
+        "suckerpunch",
+        "belch",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

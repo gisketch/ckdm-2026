@@ -1,0 +1,96 @@
+{
+  "id": "rct_ace_trainer_colby_018a",
+  "name": "Ace Trainer Colby",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 83,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "feraligatr",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "dragondance",
+        "liquidation",
+        "icefang",
+        "jawlock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swanna",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "noguard",
+      "moveset": [
+        "hurricane",
+        "hydropump",
+        "icebeam"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "walrein",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "furcoat",
+      "moveset": [
+        "surf",
+        "toxic",
+        "protect",
+        "icebeam"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sharpedo",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": [
+        "crunch",
+        "icefang",
+        "aquajet",
+        "liquidation"
+      ],
+      "heldItem": "mega_showdown:sharpedonite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "competitive",
+      "moveset": [
+        "calmmind",
+        "scald",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

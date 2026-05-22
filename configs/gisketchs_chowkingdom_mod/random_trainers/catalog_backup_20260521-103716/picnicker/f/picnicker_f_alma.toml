@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_alma"
+name = "Picnicker Alma"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "very_high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 89
+maxLevel = 93
+team = [
+  { species = "cobblemon:krookodile", level = 93, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["stealthrock", "wickedblow", "earthquake", "rockslide"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:tangrowth", level = 91, gender = "MALE", nature = "timid", ability = "chlorophyll", moveset = ["solarbeam", "hiddenpower", "sludgebomb", "knockoff"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:chansey", level = 90, gender = "FEMALE", nature = "bold", ability = "naturalcure", moveset = ["thunderwave", "seismictoss", "teleport", "softboiled"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+  { species = "cobblemon:chandelure", level = 91, gender = "FEMALE", nature = "timid", ability = "shadowtag", moveset = ["fireblast", "solarbeam", "shadowball", "trick"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:altaria", level = 89, gender = "MALE", nature = "bold", ability = "naturalcure", moveset = ["fireblast", "hypervoice", "roost", "earthquake"], heldItem = "['mega_showdown:altarianite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Alma is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,113 @@
+{
+  "id": "rct_trainer_may_003d",
+  "name": "Trainer May",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 71,
+  "maxLevel": 73,
+  "team": [
+    {
+      "species": "solrock",
+      "level": 71,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "levitate",
+      "moveset": [
+        "stealthrock",
+        "photongeyser",
+        "explosion",
+        "earthquake"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "breloom",
+      "level": 71,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "poisonheal",
+      "moveset": [
+        "spore",
+        "substitute",
+        "focuspunch",
+        "rockslide"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "manectric",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "voltswitch",
+        "thunderbolt",
+        "overheat",
+        "switcheroo"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "relicanth",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "rockhead",
+      "moveset": [
+        "waterfall",
+        "headsmash",
+        "earthquake",
+        "zenheadbutt"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flygon",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "tintedlens",
+      "moveset": [
+        "earthquake",
+        "dracometeor",
+        "fireblast",
+        "outrage"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blaziken",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "speedboost",
+      "moveset": [
+        "swordsdance",
+        "closecombat",
+        "flareblitz",
+        "rockslide"
+      ],
+      "heldItem": "mega_showdown:blazikenite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_daisy_050e",
+  "name": "Psychic Daisy",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "slowbro",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "slowbro",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "oblivious",
+      "moveset": [
+        "psychic",
+        "amnesia",
+        "slackoff",
+        "surf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

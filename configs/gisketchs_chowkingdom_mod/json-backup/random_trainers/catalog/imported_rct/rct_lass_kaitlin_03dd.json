@@ -1,0 +1,61 @@
+{
+  "id": "rct_lass_kaitlin_03dd",
+  "name": "Lass Kaitlin",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 4,
+  "maxLevel": 4,
+  "team": [
+    {
+      "species": "bidoof",
+      "level": 4,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "budew",
+      "level": 4,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starly",
+      "level": 4,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

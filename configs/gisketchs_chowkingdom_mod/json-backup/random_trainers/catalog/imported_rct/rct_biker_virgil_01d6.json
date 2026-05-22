@@ -1,0 +1,64 @@
+{
+  "id": "rct_biker_virgil_01d6",
+  "name": "Biker Virgil",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "klinklang",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "bashful",
+      "ability": "clearbody",
+      "moveset": [
+        "smokescreen",
+        "geargrind",
+        "wildcharge",
+        "shiftgear"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seismitoad",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "swiftswim",
+      "moveset": [
+        "smokescreen",
+        "scald",
+        "earthpower",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bouffalant",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": [
+        "smokescreen",
+        "headcharge",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

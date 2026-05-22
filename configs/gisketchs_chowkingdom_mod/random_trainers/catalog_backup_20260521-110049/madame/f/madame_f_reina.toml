@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "madame_f_reina"
+name = "Madame Reina"
+title = "Madame"
+gender = "female"
+archetype = "madame"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "madame/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:roselia", level = 60, gender = "FEMALE", nature = "timid", ability = "poisonpoint", moveset = ["gigadrain", "toxic", "ingrain", "petaldance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

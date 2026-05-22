@@ -1,0 +1,46 @@
+{
+  "id": "rct_bug_catcher_anthony_0213",
+  "name": "Bug Catcher Anthony",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cascoon",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "harden",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "surskit",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "swiftswim",
+      "moveset": [
+        "bubble",
+        "signalbeam",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

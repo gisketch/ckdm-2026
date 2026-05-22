@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_harley"
+name = "Beauty Harley"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:psyduck", level = 23, gender = "FEMALE", nature = "calm", ability = "damp", moveset = ["tailwhip", "furyswipes", "waterpulse", "zenheadbutt"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Harley is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

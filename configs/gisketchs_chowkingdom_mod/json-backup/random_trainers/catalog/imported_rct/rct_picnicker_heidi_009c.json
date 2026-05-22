@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_heidi_009c",
+  "name": "Picnicker Heidi",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "thunderwave",
+        "feint",
+        "spark",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefable",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "magicguard",
+      "moveset": [
+        "sing",
+        "doubleslap",
+        "metronome",
+        "teleport"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

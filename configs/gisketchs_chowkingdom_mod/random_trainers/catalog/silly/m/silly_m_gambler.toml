@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "silly_m_gambler"
+name = "Silly Gambler"
+title = "Silly"
+gender = "male"
+archetype = "silly"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "silly/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:starmie", level = 38, gender = "GENDERLESS", nature = "docile", ability = "illuminate", moveset = ["watergun", "rapidspin", "recover", "psybeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

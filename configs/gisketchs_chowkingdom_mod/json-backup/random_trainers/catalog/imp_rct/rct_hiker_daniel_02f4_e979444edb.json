@@ -1,0 +1,88 @@
+{
+  "id": "rct_hiker_daniel_02f4",
+  "name": "Hiker Daniel",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy",
+        "revenge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:geodude",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bidoof",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

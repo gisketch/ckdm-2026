@@ -1,0 +1,49 @@
+{
+  "id": "rct_police_officer_caleb_0339",
+  "name": "Police Officer Caleb",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "confusion",
+        "reflect",
+        "psychoshift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meditite",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "confusion",
+        "detect",
+        "feint",
+        "forcepalm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

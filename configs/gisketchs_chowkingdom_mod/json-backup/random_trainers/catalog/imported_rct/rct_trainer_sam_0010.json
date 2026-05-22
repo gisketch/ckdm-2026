@@ -1,0 +1,65 @@
+{
+  "id": "rct_trainer_sam_0010",
+  "name": "Trainer Sam",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "luvdisc",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "soulheart",
+      "moveset": [
+        "lovelykiss",
+        "dazzlinggleam",
+        "hydropump",
+        "icebeam"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flapple",
+      "level": 44,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "hustle",
+      "moveset": [
+        "scaleshot",
+        "gravapple",
+        "dracometeor",
+        "suckerpunch"
+      ],
+      "heldItem": "eject_pack",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "farfetchd",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sharpness",
+      "moveset": [
+        "bravebird",
+        "sacredsword",
+        "leafblade",
+        "nightslash"
+      ],
+      "heldItem": "medicinal_leek",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

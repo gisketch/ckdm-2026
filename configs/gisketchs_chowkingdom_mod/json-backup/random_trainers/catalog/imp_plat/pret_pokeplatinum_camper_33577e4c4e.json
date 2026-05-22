@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_camper_zackary",
+  "name": "Camper Zackary",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 14,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "cobblemon:aipom",
+      "level": 14,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "It\u2019s a long way between Floaroma and Eterna City. So, let\u2019s battle!",
+    "Camping with Pok\u00e9mon! Do you have any idea how fun that is?"
+  ]
+}

@@ -16,12 +16,11 @@ wake_messages = ["Oh, good morning. Or afternoon. Hard to tell here.", "I was in
 npc_interaction_messages = ["Asking {other} whether Cobblemon react to candy chemistry.", "Explaining sample safety protocols to {other}.", "Comparing Ooo biology and Pokemon evolution with {other}."]
 interaction_tags = ["science", "cobblemon_biology", "shop", "pokemon", "adventure_time", "researcher"]
 work_blocks = [
-  { id = "minecraft:lectern", count = 1, display_name = "lectern" },
-  { id = "minecraft:brewing_stand", count = 1, display_name = "brewing stand" },
-  { id = "minecraft:cartography_table", count = 1, display_name = "field map table" },
-  { id = "minecraft:cauldron", count = 1, display_name = "sample cauldron" },
-  { id = "minecraft:barrel", count = 1, display_name = "supply barrel" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "cobblemon:healing_machine", count = 1, display_name = "healing machine" },
+  { id = "cobblemon:restoration_tank", count = 1, display_name = "restoration tank" },
+  { id = "cobblemon:display_case", count = 1, display_name = "sample display case" },
+  { id = "supplementaries:blackboard", count = 1, display_name = "research blackboard" },
+  { id = "cluttered:assorted_glass_jars", count = 1, display_name = "candy science jars" },
 ]
 
 [boss]
@@ -172,4 +171,5 @@ pool = [
   { id = "bubblegum_cutting_board_prep", category = "task", event = "farmersdelight:cutting_board_used", event_desc = "Use A Cutting Board {goal} Times", quest_text = "Use the cutting board for clean prep samples.", pass_id = "cozy", xp = 60, chowcoins = 30, goal = 3, weight = 10 },
   { id = "bubblegum_villager_research_trade", category = "task", event = "minecraft:villager_traded", event_desc = "Trade With Villagers {goal} Times", quest_text = "Gather trade data from villagers without causing a diplomatic incident.", pass_id = "cozy", xp = 70, chowcoins = 40, goal = 3, weight = 10 },
   { id = "bubblegum_quiz_candy_science_and_pokemon_field_research", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Princess Bubblegum's research quiz with actual precision.", pass_id = "cozy", xp = 50, chowcoins = 35, quiz_topic = "candy science and Pokemon field research", weight = 10 },
+  { id = "bubblegum_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Princess Bubblegum", quest_text = "Princess Bubblegum has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
 ]

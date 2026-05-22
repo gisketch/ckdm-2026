@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokefirered_burglar_ramon",
+  "name": "Burglar Ramon",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Burglar Ramon is ready for a battle."
+  ]
+}

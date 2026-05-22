@@ -1,0 +1,33 @@
+{
+  "id": "rct_jogger_raul_03cf",
+  "name": "Jogger Raul",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "staravia",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "wingattack",
+        "doubleteam",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

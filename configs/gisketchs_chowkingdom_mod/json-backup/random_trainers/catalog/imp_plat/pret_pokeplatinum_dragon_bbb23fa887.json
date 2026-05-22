@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_dragon_tamer_darien",
+  "name": "Dragon Tamer Darien",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:dragonite",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My Pok\u00e9mon and I seek only victory!",
+    "I failed my Pok\u00e9mon! I wasn\u2019t prepared enough to lead it! I don\u2019t ever want my precious Pok\u00e9mon to be humiliated again!"
+  ]
+}

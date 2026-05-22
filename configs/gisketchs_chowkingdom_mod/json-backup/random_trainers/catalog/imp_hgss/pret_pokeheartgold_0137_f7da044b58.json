@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0137_bird_keeper_gs_vance",
+  "name": "Bird Keeper Gs Vance",
+  "title": "Bird Keeper Gs",
+  "gender": "any",
+  "archetype": "bird_keeper_gs",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bird_keeper_gs/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:hoothoot",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Do you know about the legendary bird Pok\u00e9mon?",
+    "ARTICUNO, ZAPDOS, and MOLTRES are the three legendary bird Pok\u00e9mon. I heard there are other legendary birds, though."
+  ]
+}

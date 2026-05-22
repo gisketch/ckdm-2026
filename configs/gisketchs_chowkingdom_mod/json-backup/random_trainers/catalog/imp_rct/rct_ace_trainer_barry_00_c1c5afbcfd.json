@@ -1,0 +1,135 @@
+{
+  "id": "rct_ace_trainer_barry_0058",
+  "name": "Ace Trainer Barry",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 93,
+  "maxLevel": 95,
+  "team": [
+    {
+      "species": "cobblemon:landorus",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "stealthrock",
+        "uturn"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": [
+        "therian"
+      ]
+    },
+    {
+      "species": "cobblemon:corviknight",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "mirrorarmor",
+      "moveset": [
+        "bulkup",
+        "agility",
+        "powertrip",
+        "roost"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 94,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "nastyplot",
+        "psychic",
+        "focusblast",
+        "shadowball"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kommoo",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "soundproof",
+      "moveset": [
+        "clangingscales",
+        "closecombat",
+        "poisonjab",
+        "rockslide"
+      ],
+      "heldItem": [
+        "mega_showdown:kommonium_z",
+        "dragon_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:latias",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "dracometeor",
+        "psyshock",
+        "surf",
+        "calmmind"
+      ],
+      "heldItem": [
+        "weakness_policy"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:toxtricity",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "punkrock",
+      "moveset": [
+        "boomburst",
+        "overdrive",
+        "sludgewave",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

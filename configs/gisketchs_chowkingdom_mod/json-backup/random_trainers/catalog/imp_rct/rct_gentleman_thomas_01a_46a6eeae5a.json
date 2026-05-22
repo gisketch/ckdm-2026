@@ -1,0 +1,56 @@
+{
+  "id": "rct_gentleman_thomas_01a5",
+  "name": "Gentleman Thomas",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 26,
+  "team": [
+    {
+      "species": "cobblemon:growlithe",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:litleo",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "rivalry",
+      "moveset": [
+        "headbutt",
+        "nobleroar",
+        "takedown",
+        "firefang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_x_ernesto"
+name = "Mega Trainer Ernesto"
+title = "Mega Trainer"
+gender = "any"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:archeops", level = 59, gender = "MALE", nature = "jolly", ability = "klutz", moveset = ["rockslide", "acrobatics", "crunch", "uturn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:walrein", level = 59, gender = "MALE", nature = "calm", ability = "regenerator", moveset = ["frostbreath", "surf", "aquaring", "yawn"], heldItem = "['chople_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:vileplume", level = 57, gender = "FEMALE", nature = "bold", ability = "chlorophyll", moveset = ["solarbeam", "sunnyday", "moonlight", "sleeppowder"], heldItem = "['coba_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:leavanny", level = 58, gender = "MALE", nature = "jolly", ability = "swarm", moveset = ["leafblade", "xscissor", "throatchop", "swordsdance"], heldItem = "['occa_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:medicham", level = 59, gender = "FEMALE", nature = "jolly", ability = "purepower", moveset = ["highjumpkick", "zenheadbutt", "firepunch", "icepunch"], heldItem = "['mega_showdown:medichamite', 'choice_scarf']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_lady_jacki_020d",
+  "name": "Lady Jacki",
+  "title": "Lady",
+  "gender": "any",
+  "archetype": "lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "hoppip",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "leafguard",
+      "moveset": [
+        "uturn",
+        "worryseed",
+        "gigadrain",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skiploom",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "leafguard",
+      "moveset": [
+        "ragepowder",
+        "cottonspore",
+        "uturn",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

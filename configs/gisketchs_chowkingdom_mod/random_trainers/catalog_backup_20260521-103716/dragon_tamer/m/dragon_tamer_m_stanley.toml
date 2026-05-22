@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_m_stanley"
+name = "Dragon Tamer Stanley"
+title = "Dragon Tamer"
+gender = "male"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:seadra", level = 56, gender = "MALE", nature = "sassy", ability = "poisonpoint", moveset = ["dragonpulse", "hydropump", "agility", "focusenergy"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 56, gender = "FEMALE", nature = "relaxed", ability = "intimidate", moveset = ["dragondance", "hyperbeam", "waterfall", "thrash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["How do you do? I’m Stanley, and I’m a Dragon Tamer. What do you say we let our Pokémon have it out? Sound OK to you?", "It seems to me, there’s this certain image that goes with a Dragon Tamer. But me, I’d much sooner take it easy, take it slow, and take it my own way. I figure there’s more than my style that I need to work on first.", "I have trained this team for the road. Challenge me if you are ready."]

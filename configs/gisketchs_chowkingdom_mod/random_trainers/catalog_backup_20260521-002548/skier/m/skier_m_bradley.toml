@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_m_bradley"
+name = "Skier Bradley"
+title = "Skier"
+gender = "male"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "skier/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:snorunt", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:swinub", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m skiing right now, but OK. As we Skiers say, “Spur thing!”", "I quite enjoyed that battle! Let us meet again. Slalom!"]

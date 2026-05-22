@@ -1,0 +1,49 @@
+{
+  "id": "rct_gambler_darian_027c",
+  "name": "Gambler Darian",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "reversal",
+        "firefang",
+        "takedown",
+        "flameburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vulpix",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "feintattack",
+        "hex",
+        "flameburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

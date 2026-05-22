@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_f_reena"
+name = "Mega Trainer Reena"
+title = "Mega Trainer"
+gender = "female"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = "standard"
+minLevel = 59
+maxLevel = 61
+team = [
+  { species = "cobblemon:tsareena", level = 59, gender = "FEMALE", nature = "jolly", ability = "queenlymajesty", moveset = ["powerwhip", "highjumpkick", "rapidspin", "teeterdance"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:dragonite", level = 61, gender = "MALE", nature = "jolly", ability = "multiscale", moveset = ["dragonclaw", "firepunch", "thunderpunch", "dragondance"], heldItem = "['yache_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 60, gender = "MALE", nature = "jolly", ability = "moxie", moveset = ["flareblitz", "poisonjab", "playrough", "drillrun"], heldItem = "['shuca_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:milotic", level = 60, gender = "MALE", nature = "modest", ability = "multiscale", moveset = ["hydropump", "icebeam", "mirrorcoat", "recover"], heldItem = "['blunder_policy']", shiny = false, aspects = [] },
+  { species = "cobblemon:sableye", level = 61, gender = "FEMALE", nature = "calm", ability = "magicbounce", moveset = ["foulplay", "willowisp", "recover", "protect"], heldItem = "['mega_showdown:sablenite', 'leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

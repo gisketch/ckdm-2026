@@ -1,0 +1,31 @@
+{
+  "id": "rct_rival_terry_0147",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "bulbasaur",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

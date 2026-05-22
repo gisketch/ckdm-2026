@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "battleground_big_m_mo"
+name = "Battleground Big Mo"
+title = "Battleground Big"
+gender = "male"
+archetype = "battleground_big"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "battleground_big/male"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 81
+maxLevel = 84
+team = [
+  { species = "cobblemon:mudsdale", level = 81, gender = "FEMALE", nature = "impish", ability = "stamina", moveset = ["earthquake", "bodypress", "smackdown", "roar"], heldItem = "['rocky_helmet']", shiny = false, aspects = [] },
+  { species = "cobblemon:wailord", level = 84, gender = "MALE", nature = "modest", ability = "waterveil", moveset = ["waterspout", "surf", "icebeam", "toxic"], heldItem = "['mystic_water']", shiny = false, aspects = [] },
+  { species = "cobblemon:hariyama", level = 83, gender = "FEMALE", nature = "adamant", ability = "guts", moveset = ["stormthrow", "knockoff", "icepunch", "facade"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:snorlax", level = 84, gender = "MALE", nature = "adamant", ability = "thickfat", moveset = ["return", "darkestlariat", "earthquake", "firepunch"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:aggron", level = 83, gender = "FEMALE", nature = "careful", ability = "filter", moveset = ["ironhead", "bodypress", "roar", "curse"], heldItem = "['mega_showdown:aggronite', 'iron_ball']", shiny = false, aspects = [] },
+  { species = "cobblemon:guzzlord", level = 82, gender = "GENDERLESS", nature = "modest", ability = "beastboost", moveset = ["darkpulse", "chatter", "flamethrower", "sludgewave"], heldItem = "['mega_showdown:darkinium_z', 'dark_gem']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

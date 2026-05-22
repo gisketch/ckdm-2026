@@ -1,0 +1,49 @@
+{
+  "id": "rct_sis_and_bro_lil_and_ian_01eb",
+  "name": "Sis And Bro Lil & Ian",
+  "title": "Sis And Bro Lil And",
+  "gender": "any",
+  "archetype": "sis_and_bro_lil_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "crawdaunt",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "battlearmor",
+      "moveset": [
+        "swordsdance",
+        "crunch",
+        "crabhammer",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sharpedo",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "agility",
+        "skullbash",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

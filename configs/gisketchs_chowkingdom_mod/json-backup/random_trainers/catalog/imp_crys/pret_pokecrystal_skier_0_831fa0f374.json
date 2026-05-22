@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_skier_002_clarissa",
+  "name": "Skier Clarissa",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "skier/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:dewgong",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Skier Clarissa is ready for a battle."
+  ]
+}

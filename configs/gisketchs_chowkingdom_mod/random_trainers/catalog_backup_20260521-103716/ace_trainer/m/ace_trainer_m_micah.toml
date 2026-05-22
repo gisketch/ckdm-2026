@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_micah"
+name = "Ace Trainer Micah"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:bibarel", level = 54, gender = "MALE", nature = "hardy", ability = "simple", moveset = ["aquajet", "crunch", "swordsdance", "superpower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 54, gender = "MALE", nature = "sassy", ability = "runaway", moveset = ["smartstrike", "flamewheel", "firespin", "inferno"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 54, gender = "FEMALE", nature = "hardy", ability = "swarm", moveset = ["stunspore", "aircutter", "bugbuzz", "quiverdance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["When Trainers lock eyes... That’s right! It’s time to let their Pokémon go wild!", "Whether you’re talking to people or Pokémon, it’s important to always look them square in the eyes.", "I have trained this team for the road. Challenge me if you are ready."]

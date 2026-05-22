@@ -1,0 +1,88 @@
+{
+  "id": "rct_team_rocket_grunt_0169",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:krokorok",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "crunch",
+        "dig",
+        "scaryface",
+        "foulplay"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mightyena",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "strongjaw",
+      "moveset": [
+        "scaryface",
+        "crunch",
+        "taunt",
+        "embargo"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gumshoos",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "strongjaw",
+      "moveset": [
+        "icefang",
+        "superfang",
+        "takedown",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:stunky",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "aftermath",
+      "moveset": [
+        "nightslash",
+        "poisonjab",
+        "venomdrench",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

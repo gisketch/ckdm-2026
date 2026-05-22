@@ -1,0 +1,67 @@
+{
+  "id": "rct_biker_lao_00c7",
+  "name": "Biker Lao",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "mienshao",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "fakeout",
+        "closecombat",
+        "knockoff",
+        "uturn"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heliolisk",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sandveil",
+      "moveset": [
+        "voltswitch",
+        "boomburst",
+        "weatherball",
+        "surf"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dugtrio",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "sandforce",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "suckerpunch",
+        "stoneedge"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

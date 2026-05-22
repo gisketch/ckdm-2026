@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_lorelei_02df",
+  "name": "Lorelei",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 63,
+  "maxLevel": 66,
+  "team": [
+    {
+      "species": "dewgong",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "icescales",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "signalbeam",
+        "doubleteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cloyster",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "skilllink",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "supersonic",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "piloswine",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "snowcloak",
+      "moveset": [
+        "blizzard",
+        "earthquake",
+        "doubleedge",
+        "rockslide"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jynx",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "forewarn",
+      "moveset": [
+        "icebeam",
+        "psychic",
+        "lovelykiss",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lapras",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "hydration",
+      "moveset": [
+        "icebeam",
+        "surf",
+        "psychic",
+        "thunder"
+      ],
+      "heldItem": "cheri_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

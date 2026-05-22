@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_snow_m_blake"
+name = "Ace Trainer Snow Blake"
+title = "Ace Trainer Snow"
+gender = "male"
+archetype = "ace_trainer_snow"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer_snow/male"
+tier = "mid"
+spawnable = true
+height = 1.06
+weight = 1.06
+bustStyle = ""
+minLevel = 39
+maxLevel = 40
+team = [
+  { species = "cobblemon:ambipom", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["doublehit", "uturn", "sandattack", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:porygon2", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psybeam", "signalbeam", "conversion2", "recover"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m an elite battler, but cold is my nemesis!", "I’d rather be asleep in the lodge’s bed... I can’t take this cold..."]

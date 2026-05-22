@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_aaron_059e",
+  "name": "Aaron",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 65,
+  "maxLevel": 69,
+  "team": [
+    {
+      "species": "yanmega",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "speedboost",
+      "moveset": [
+        "bugbuzz",
+        "airslash",
+        "detect",
+        "ancientpower"
+      ],
+      "heldItem": "wise_glasses",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bulletpunch",
+        "xscissor",
+        "nightslash",
+        "swordsdance"
+      ],
+      "heldItem": "occa_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vespiquen",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "unnerve",
+      "moveset": [
+        "powergem",
+        "attackorder",
+        "aerialace",
+        "defendorder"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 67,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "facade",
+        "closecombat"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drapion",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sniper",
+      "moveset": [
+        "crosspoison",
+        "nightslash",
+        "earthquake",
+        "xscissor"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

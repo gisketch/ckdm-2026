@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_brandon"
+name = "Bug Catcher Brandon"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:kricketune", level = 53, gender = "MALE", nature = "timid", ability = "swarm", moveset = ["absorb", "sing", "focusenergy", "bugbuzz"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 53, gender = "FEMALE", nature = "timid", ability = "swarm", moveset = ["aircutter", "gigadrain", "bugbuzz", "quiverdance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, hey, let me show off my bug Pokémon!", "Bug Pokémon grow quickly, and they do stuff like poison and paralyze, and they’re cute and yet cool. You gotta believe me. They’re good!", "Bug Catcher Brandon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

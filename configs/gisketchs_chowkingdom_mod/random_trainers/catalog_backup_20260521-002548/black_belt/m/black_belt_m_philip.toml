@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_philip"
+name = "Black Belt Philip"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:machamp", level = 57, gender = "MALE", nature = "jolly", ability = "noguard", moveset = ["knockoff", "dualchop", "bulkup", "dynamicpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I can withstand this cold. That means I can take any kind of attack!", "Oh, gosh, this is bad! I think I’m losing feeling all over my body!", "Black Belt Philip is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

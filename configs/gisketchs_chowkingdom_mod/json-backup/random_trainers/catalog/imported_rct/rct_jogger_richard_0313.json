@@ -1,0 +1,33 @@
+{
+  "id": "rct_jogger_richard_0313",
+  "name": "Jogger Richard",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "charge",
+        "bite",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

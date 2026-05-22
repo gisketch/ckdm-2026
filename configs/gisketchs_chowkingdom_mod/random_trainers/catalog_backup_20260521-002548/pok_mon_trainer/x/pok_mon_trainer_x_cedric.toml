@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_trainer_x_cedric"
+name = "Pok Mon Trainer Cedric"
+title = "Pok Mon Trainer"
+gender = "any"
+archetype = "pok_mon_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 68
+maxLevel = 74
+team = [
+  { species = "cobblemon:staraptor", level = 68, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["closecombat", "pluck", "raindance", "uturn"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:roserade", level = 69, gender = "MALE", nature = "timid", ability = "naturalcure", moveset = ["sludgebomb", "gigadrain", "stunspore", "shadowball"], heldItem = "['black_sludge']", shiny = false, aspects = [] },
+  { species = "cobblemon:heracross", level = 70, gender = "MALE", nature = "jolly", ability = "swarm", moveset = ["megahorn", "swordsdance", "rockslide", "closecombat"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 69, gender = "MALE", nature = "jolly", ability = "flashfire", moveset = ["smartstrike", "megahorn", "poisonjab", "flareblitz"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:snorlax", level = 70, gender = "MALE", nature = "adamant", ability = "thickfat", moveset = ["covet", "yawn", "crunch", "highhorsepower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:empoleon", level = 74, gender = "MALE", nature = "timid", ability = "torrent", moveset = ["aquajet", "grassknot", "surf", "flashcannon"], heldItem = "['quick_claw']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,115 @@
+{
+  "id": "rct_pokemon_trainer_lucas_0596",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "absol",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "megahorn",
+        "psychocut",
+        "stoneedge",
+        "nightslash"
+      ],
+      "heldItem": "razor_claw",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kabutops",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "weakarmor",
+      "moveset": [
+        "rockslide",
+        "liquidation",
+        "leechlife",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "espeon",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "magicbounce",
+      "moveset": [
+        "psychic",
+        "psyshock",
+        "grassknot",
+        "dazzlinggleam"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "leafstorm",
+        "thunderbolt",
+        "voltswitch",
+        "hex"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": [
+        "mow-appliance"
+      ]
+    },
+    {
+      "species": "porygonz",
+      "level": 70,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "adaptability",
+      "moveset": [
+        "triattack",
+        "hyperbeam",
+        "thunderwave",
+        "darkpulse"
+      ],
+      "heldItem": "silk_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "infernape",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "earthquake",
+        "closecombat",
+        "flareblitz",
+        "acrobatics"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

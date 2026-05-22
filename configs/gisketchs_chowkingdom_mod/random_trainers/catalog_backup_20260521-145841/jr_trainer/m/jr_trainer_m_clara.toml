@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jr_trainer_m_clara"
+name = "Jr Trainer Clara"
+title = "Jr Trainer"
+gender = "male"
+archetype = "jr_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "jr_trainer/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = ""
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:diglett", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:diglett", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandshrew", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jrtrainerm from Pewter Gym is ready for a battle.", "Jrtrainerm from Unused is ready for a battle."]

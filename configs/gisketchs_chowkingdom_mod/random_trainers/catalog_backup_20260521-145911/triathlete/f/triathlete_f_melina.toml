@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "triathlete_f_melina"
+name = "Triathlete Melina"
+title = "Triathlete"
+gender = "female"
+archetype = "triathlete"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "triathlete/female"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1.02
+bustStyle = "standard"
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:doduo", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Triathlete Melina is ready for a battle."]

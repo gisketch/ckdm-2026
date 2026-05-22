@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "winstrate_f_victoria"
+name = "Winstrate Victoria"
+title = "Winstrate"
+gender = "female"
+archetype = "winstrate"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "winstrate/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = "standard"
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:roselia", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Winstrate Victoria is ready for a battle."]

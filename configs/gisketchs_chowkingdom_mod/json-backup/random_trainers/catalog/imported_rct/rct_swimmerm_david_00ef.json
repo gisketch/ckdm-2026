@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmerm_david_00ef",
+  "name": "Swimmer♂ David",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "hurricane",
+        "raindance",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dewgong",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "icescales",
+      "moveset": [
+        "takedown",
+        "dive",
+        "aquatail",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lanturn",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "illuminate",
+      "moveset": [
+        "hydropump",
+        "iondeluge",
+        "paraboliccharge",
+        "charge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

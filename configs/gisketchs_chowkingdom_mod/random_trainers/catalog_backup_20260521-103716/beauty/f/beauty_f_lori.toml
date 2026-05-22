@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_lori"
+name = "Beauty Lori"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:exeggutor", level = 36, gender = "FEMALE", nature = "calm", ability = "chlorophyll", moveset = ["hypnosis", "confusion", "psyshock", "eggbomb"], heldItem = "", shiny = false, aspects = ["alolan"] },
+]
+dialogue = ["Beauty Lori is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

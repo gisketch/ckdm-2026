@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_morty"
+name = "Rct Trainer Morty"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 96
+maxLevel = 97
+team = [
+  { species = "cobblemon:mimikyu", level = 96, gender = "FEMALE", nature = "jolly", ability = "disguise", moveset = ["shadowclaw", "playrough", "shadowsneak", "swordsdance"], heldItem = "['mega_showdown:ghostium_z', 'ghost_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:marshadow", level = 97, gender = "GENDERLESS", nature = "jolly", ability = "technician", moveset = ["bulkup", "drainpunch", "spectralthief", "shadowsneak"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:silvally", level = 96, gender = "GENDERLESS", nature = "timid", ability = "battlearmor", moveset = ["thunderwave", "multiattack", "flamethrower", "partingshot"], heldItem = "['leftovers']", shiny = false, aspects = ["fairy"] },
+  { species = "cobblemon:urshifu", level = 96, gender = "FEMALE", nature = "jolly", ability = "unseenfist", moveset = ["uturn", "closecombat", "wickedblow", "suckerpunch"], heldItem = "['black_glasses']", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 97, gender = "MALE", nature = "timid", ability = "levitate", moveset = ["shadowball", "sludgewave", "focusblast", "thunderbolt"], heldItem = "['mega_showdown:gengarite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:zarude", level = 96, gender = "GENDERLESS", nature = "jolly", ability = "leafguard", moveset = ["uturn", "powerwhip", "knockoff", "closecombat"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

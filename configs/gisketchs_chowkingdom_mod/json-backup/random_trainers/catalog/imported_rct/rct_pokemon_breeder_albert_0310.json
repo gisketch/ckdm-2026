@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_breeder_albert_0310",
+  "name": "Pokémon Breeder Albert",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "bonsly",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "copycat",
+        "flail",
+        "rockthrow",
+        "mimic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "budew",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pichu",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "playnice",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

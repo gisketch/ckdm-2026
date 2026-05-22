@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_naomi_0196",
+  "name": "Ace Trainer Naomi",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 83,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "ambipom",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "fakeout",
+        "tailslap",
+        "armthrust",
+        "uturn"
+      ],
+      "heldItem": "silk_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bruxish",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "psychicfangs",
+        "aquajet",
+        "liquidation",
+        "crunch"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "galvantula",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "bugbuzz",
+        "thunder",
+        "gigadrain",
+        "voltswitch"
+      ],
+      "heldItem": "magnet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shedinja",
+      "level": 83,
+      "gender": "GENDERLESS",
+      "nature": "bashful",
+      "ability": "wonderguard",
+      "moveset": [
+        "shadowsneak",
+        "xscissor",
+        "willowisp",
+        "phantomforce"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "absol",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "playrough",
+        "nightslash",
+        "suckerpunch",
+        "superpower"
+      ],
+      "heldItem": "mega_showdown:absolite expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

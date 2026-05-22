@@ -1,0 +1,33 @@
+{
+  "id": "rct_breeder_bethany_0261",
+  "name": "Breeder Bethany",
+  "title": "Breeder",
+  "gender": "any",
+  "archetype": "breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "chansey",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "serenegrace",
+      "moveset": [
+        "fling",
+        "healpulse",
+        "eggbomb",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

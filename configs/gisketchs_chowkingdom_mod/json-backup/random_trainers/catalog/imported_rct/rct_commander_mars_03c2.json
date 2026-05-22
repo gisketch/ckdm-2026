@@ -1,0 +1,49 @@
+{
+  "id": "rct_commander_mars_03c2",
+  "name": "Commander Mars",
+  "title": "Commander",
+  "gender": "any",
+  "archetype": "commander",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 14,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish",
+        "uturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "purugly",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "fakeout",
+        "scratch",
+        "growl",
+        "thief"
+      ],
+      "heldItem": "oran_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

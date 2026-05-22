@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "aroma_lady_f_nikki"
+name = "Aroma Lady Nikki"
+title = "Aroma Lady"
+gender = "female"
+archetype = "aroma_lady"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "aroma_lady/female"
+tier = "very_high"
+spawnable = true
+height = 0.96
+weight = 0.86
+bustStyle = "standard"
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:sableye", level = 93, gender = "FEMALE", nature = "calm", ability = "prankster", moveset = ["recover", "toxic", "foulplay", "willowisp"], heldItem = "['mega_showdown:sablenite', 'leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:tangrowth", level = 93, gender = "FEMALE", nature = "timid", ability = "regenerator", moveset = ["gigadrain", "earthquake", "knockoff", "focusblast"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:blissey", level = 92, gender = "FEMALE", nature = "bold", ability = "naturalcure", moveset = ["teleport", "softboiled", "seismictoss", "thunderwave"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:toxapex", level = 91, gender = "MALE", nature = "impish", ability = "regenerator", moveset = ["toxicspikes", "scald", "knockoff", "recover"], heldItem = "['black_sludge']", shiny = false, aspects = [] },
+  { species = "cobblemon:reuniclus", level = 91, gender = "MALE", nature = "modest", ability = "regenerator", moveset = ["futuresight", "psyshock", "focusblast", "teleport"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:drapion", level = 91, gender = "FEMALE", nature = "jolly", ability = "sniper", moveset = ["wickedblow", "poisonjab", "earthquake", "leechlife"], heldItem = "['choice_band']", shiny = false, aspects = [] },
+]
+dialogue = ["Aroma Lady Nikki is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

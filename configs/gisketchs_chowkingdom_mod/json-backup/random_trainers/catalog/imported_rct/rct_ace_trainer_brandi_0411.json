@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_brandi_0411",
+  "name": "Ace Trainer Brandi",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "pachirisu",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "pickup",
+      "moveset": [
+        "charm",
+        "nuzzle",
+        "swift",
+        "superfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "playrough",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blissey",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "disarmingvoice",
+        "lifedew",
+        "lightscreen",
+        "lastresort"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

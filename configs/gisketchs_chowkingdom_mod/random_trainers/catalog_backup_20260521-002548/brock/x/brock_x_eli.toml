@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "brock_x_eli"
+name = "Brock Eli"
+title = "Brock"
+gender = "any"
+archetype = "brock"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "brock/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 41
+maxLevel = 44
+team = [
+  { species = "cobblemon:graveler", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["defensecurl", "rockslide", "rollout", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rhyhorn", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = ["furyattack", "scaryface", "earthquake", "horndrill"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:omastar", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bite", "surf", "protect", "spikecannon"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bind", "rockslide", "bide", "sandstorm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kabutops", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["slash", "surf", "endure", "gigadrain"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Brock Brock is ready for a battle."]

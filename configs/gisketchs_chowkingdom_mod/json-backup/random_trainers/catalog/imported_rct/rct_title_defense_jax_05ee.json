@@ -1,0 +1,113 @@
+{
+  "id": "rct_title_defense_jax_05ee",
+  "name": "Title Defense Jax",
+  "title": "Title Defense",
+  "gender": "any",
+  "archetype": "title_defense",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 78,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "naganadel",
+      "level": 79,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "beastboost",
+      "moveset": [
+        "dragonpulse",
+        "sludgebomb",
+        "heatwave",
+        "tailwind"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmontop",
+      "level": 78,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "suckerpunch",
+        "fakeout",
+        "helpinghand"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magnezone",
+      "level": 78,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "hiddenpower",
+        "bodypress"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 78,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "earthpower",
+        "icebeam",
+        "recover",
+        "protect"
+      ],
+      "heldItem": "aguav_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "salamence",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "aerilate",
+      "moveset": [
+        "doubleedge",
+        "brickbreak",
+        "rockslide",
+        "flamethrower"
+      ],
+      "heldItem": "mega_showdown:salamencite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "moltres",
+      "level": 79,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "berserk",
+      "moveset": [
+        "heatwave",
+        "aeroblast",
+        "scorchingsands",
+        "tailwind"
+      ],
+      "heldItem": "charti_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

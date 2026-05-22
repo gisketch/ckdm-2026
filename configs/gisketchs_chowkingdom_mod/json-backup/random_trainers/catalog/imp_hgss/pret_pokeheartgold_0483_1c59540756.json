@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0483_boarder_patton",
+  "name": "Boarder Patton",
+  "title": "Boarder",
+  "gender": "any",
+  "archetype": "boarder",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "boarder/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:swinub",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swinub",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "This Gym has a slippery floor. It\u2019s fun, isn\u2019t it? But hey--we\u2019re not playing games here!",
+    "This Gym is great. I love snowboarding with my Pok\u00e9mon!"
+  ]
+}

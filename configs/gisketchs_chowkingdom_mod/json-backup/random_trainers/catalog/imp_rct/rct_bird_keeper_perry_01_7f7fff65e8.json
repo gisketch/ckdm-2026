@@ -1,0 +1,114 @@
+{
+  "id": "rct_bird_keeper_perry_012d",
+  "name": "Bird Keeper Perry",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 89,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "cobblemon:rhyperior",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "solidrock",
+      "moveset": [
+        "stealthrock",
+        "stoneedge",
+        "earthquake",
+        "firepunch"
+      ],
+      "heldItem": [
+        "rindo_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sunflora",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "solarpower",
+      "moveset": [
+        "solarbeam",
+        "fierydance",
+        "earthpower",
+        "sludgebomb"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gardevoir",
+      "level": 89,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "trace",
+      "moveset": [
+        "calmmind",
+        "psychic",
+        "moonblast",
+        "mysticalfire"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "firelash",
+        "solarblade",
+        "jumpkick",
+        "highhorsepower"
+      ],
+      "heldItem": [
+        "charcoal_stick"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragapult",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowball",
+        "dragondarts",
+        "fireblast",
+        "uturn"
+      ],
+      "heldItem": [
+        "spell_tag"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

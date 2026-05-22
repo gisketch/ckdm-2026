@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_emboar_m_james"
+name = "Black Emboar James"
+title = "Black Emboar"
+gender = "male"
+archetype = "black_emboar"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "black_emboar/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 26
+maxLevel = 28
+team = [
+  { species = "cobblemon:accelgor", level = 27, gender = "MALE", nature = "modest", ability = "hydration", moveset = ["strugglebug", "acidspray", "megadrain", "toxicspikes"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:grimer", level = 28, gender = "MALE", nature = "adamant", ability = "poisontouch", moveset = ["poisonfang", "bite", "icepunch", "minimize"], heldItem = "['black_sludge']", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:pignite", level = 28, gender = "MALE", nature = "adamant", ability = "blaze", moveset = ["flamecharge", "lowsweep", "rocktomb", "assurance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 26, gender = "MALE", nature = "calm", ability = "levitate", moveset = ["sludge", "assurance", "painsplit", "poisongas"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

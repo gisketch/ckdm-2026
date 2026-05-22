@@ -1,0 +1,49 @@
+{
+  "id": "rct_artist_william_030f",
+  "name": "Artist William",
+  "title": "Artist",
+  "gender": "any",
+  "archetype": "artist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "mimejr",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "copycat",
+        "encore",
+        "confusion",
+        "roleplay"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bonsly",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "faketears",
+        "copycat",
+        "flail",
+        "mimic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "rct_leader_misty_0020",
+  "name": "Misty",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 95,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "thunder",
+        "hurricane",
+        "electroweb",
+        "fakeout"
+      ],
+      "heldItem": "light_ball",
+      "shiny": false,
+      "aspects": [
+        "flying"
+      ]
+    },
+    {
+      "species": "kyogre",
+      "level": 96,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "drizzle",
+      "moveset": [
+        "icebeam",
+        "waterspout",
+        "originpulse",
+        "thunder"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goodra",
+      "level": 95,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "gooey",
+      "moveset": [
+        "dracometeor",
+        "flashcannon",
+        "thunder",
+        "muddywater"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "kingdra",
+      "level": 95,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "dracometeor",
+        "hydropump",
+        "muddywater",
+        "hurricane"
+      ],
+      "heldItem": "mega_showdown:waterium_z water_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drednaw",
+      "level": 97,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "battlearmor",
+      "moveset": [
+        "jawlock",
+        "liquidation",
+        "crunch",
+        "shellsmash"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "floatzel",
+      "level": 96,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "surgingstrikes",
+        "fakeout",
+        "flipturn",
+        "pursuit"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

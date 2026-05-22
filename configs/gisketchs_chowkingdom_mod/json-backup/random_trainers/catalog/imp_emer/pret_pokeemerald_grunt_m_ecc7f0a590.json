@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_grunt_magma_hideout_5",
+  "name": "Team Magma Grunt",
+  "title": "Team Magma",
+  "gender": "any",
+  "archetype": "team_magma",
+  "region": "Hoenn",
+  "category": "team",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "team_magma/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:baltoy",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:numel",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Team Magma Grunt is ready for a battle."
+  ]
+}

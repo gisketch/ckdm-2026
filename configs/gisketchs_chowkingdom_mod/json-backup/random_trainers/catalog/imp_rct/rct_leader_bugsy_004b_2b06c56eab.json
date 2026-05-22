@@ -1,0 +1,141 @@
+{
+  "id": "rct_leader_bugsy_004b",
+  "name": "Bugsy",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 95,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "cobblemon:pheromosa",
+      "level": 97,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "beastboost",
+      "moveset": [
+        "closecombat",
+        "icebeam",
+        "uturn",
+        "drillrun"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clawitzer",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "megalauncher",
+      "moveset": [
+        "waterpulse",
+        "darkpulse",
+        "aurasphere",
+        "bugbuzz"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "cobblemon:genesect",
+      "level": 95,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "download",
+      "moveset": [
+        "uturn",
+        "technoblast",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "heldItem": [
+        "mega_showdown:douse_drive",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": [
+        "douse"
+      ]
+    },
+    {
+      "species": "cobblemon:magnezone",
+      "level": 95,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "magnetpull",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "voltswitch",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arceus",
+      "level": 96,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "multitype",
+      "moveset": [
+        "xscissor",
+        "earthquake",
+        "ironhead",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "mega_showdown:buginium_z",
+        "bug_gem"
+      ],
+      "shiny": false,
+      "aspects": [
+        "bug"
+      ]
+    },
+    {
+      "species": "cobblemon:pinsir",
+      "level": 97,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "hypercutter",
+      "moveset": [
+        "megahorn",
+        "extremespeed",
+        "closecombat",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "mega_showdown:pinsirite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

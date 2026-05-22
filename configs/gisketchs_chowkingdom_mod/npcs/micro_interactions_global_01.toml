@@ -5,6 +5,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Need sharp steel for the coming storm?"
 response = "Aye, grind my blade true, friend."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -16,6 +18,8 @@ source_tags = ["bard","playful"]
 target_tags = ["town"]
 line = "Rain tonight, I smell it on the wind."
 response = "Then we dance indoors, by the hearth."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -27,6 +31,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["warrior"]
 line = "Your stance is wide, feet too far apart."
 response = "Show me the guard again, master."
+source_emote = "proud"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -38,6 +44,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","quiet"]
 line = "Fresh bread from the stone oven, still hot."
 response = "I'll take two loaves, wrap them in cloth."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -49,6 +57,8 @@ source_tags = ["fire","warrior"]
 target_tags = ["fire"]
 line = "Goblins in the eastern pass again."
 response = "Torch oil and steel, we ride at dusk."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -60,6 +70,8 @@ source_tags = ["town","professor"]
 target_tags = ["arcane","quiet"]
 line = "Rest is necessary for memory recall."
 response = "I'll sleep after I finish this chapter."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -71,6 +83,8 @@ source_tags = ["town","warrior"]
 target_tags = ["town","archer"]
 line = "You take the north wall, I'll watch south."
 response = "Keep your eyes on the treeline, sir."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -82,6 +96,8 @@ source_tags = ["bard","playful"]
 target_tags = ["warrior","wise"]
 line = "Sing us a tale of the old king's fall."
 response = "That song is too long for one fire."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -93,6 +109,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town"]
 line = "Bring water from the well before sundown."
 response = "Already drawn two buckets, mother."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -104,6 +122,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "Mud on the high road, carts get stuck."
 response = "I'll send a crew with planks and rope."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -115,6 +135,8 @@ source_tags = ["town","bard"]
 target_tags = ["town"]
 line = "The herald calls a meeting at noon bell."
 response = "I need to finish this crate first."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -126,6 +148,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Corn tall this year, ears heavy as stone."
 response = "Good, we'll have flour through winter."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -137,6 +161,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["paladin"]
 line = "Five more laps, shield up, no slouching."
 response = "Yes, sergeant, my arms burn already."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -148,6 +174,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "West wind carries smoke from the hills."
 response = "Forest fire or camp cookfire? Hard to tell."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -159,6 +187,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "New shipment of steel ingots arrived."
 response = "Save me three bars, I'll pay double."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -170,6 +200,8 @@ source_tags = ["town","witcher"]
 target_tags = ["town"]
 line = "Strange tracks near the graveyard wall."
 response = "Could be a ghoul or a stray dog."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -181,6 +213,8 @@ source_tags = ["frost","bounty_hunter"]
 target_tags = ["town","paladin"]
 line = "Yeti seen on the glacier, three nights ago."
 response = "We need silver bolts and fire salts."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -192,6 +226,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The inn's best room smells of damp wool."
 response = "A dry straw pallet under the eaves, then."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -203,6 +239,8 @@ source_tags = ["mentor","playful"]
 target_tags = ["berserker"]
 line = "Control your rage, or the rage controls you."
 response = "Hard lesson, master. I keep trying."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -214,6 +252,8 @@ source_tags = ["bard","wise"]
 target_tags = ["town","quiet"]
 line = "I heard a song about the silver tower."
 response = "Sing it softly, the night is listening."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -225,6 +265,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","archer"]
 line = "Feathers for fletching, hawk and eagle."
 response = "I need a dozen straight eagle shafts."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -236,6 +278,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Sweep the porch before the mayor visits."
 response = "Already swept and sprinkled vinegar."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -247,6 +291,8 @@ source_tags = ["earth","warrior"]
 target_tags = ["town","rogue"]
 line = "Bandits dug pits on the old trade road."
 response = "I'll scout ahead and mark the traps."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -258,6 +304,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "Dancing bears and jugglers at the square."
 response = "I'll bring my lute, we'll make coin."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -269,6 +317,8 @@ source_tags = ["wind","witcher"]
 target_tags = ["town","wise"]
 line = "Air tastes of iron and old rot today."
 response = "Something died in the woods last night."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -280,6 +330,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Apples bruised from hail, make cider quick."
 response = "I'll buy the lot at half price, deal?"
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -291,6 +343,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["forcemaster"]
 line = "Focus the energy, don't let it scatter."
 response = "I feel the flow, I just can't hold it."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -302,6 +356,8 @@ source_tags = ["arcane","quiet"]
 target_tags = ["town","warrior"]
 line = "Shadow thing in the cellar ate the cat."
 response = "I'll bring a torch and a silver knife."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -313,6 +369,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The evening bell marks prayer hour."
 response = "I hear it. One more minute, please."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -324,6 +382,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","wise"]
 line = "Tax collector comes tomorrow, be ready."
 response = "I'll hide the good stock in the cellar."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -335,6 +395,8 @@ source_tags = ["fire","warrior"]
 target_tags = ["fire","paladin"]
 line = "Relieve the west gate guard at midnight."
 response = "I'll bring extra torches, it's pitch dark."
+source_emote = "threaten"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -346,6 +408,8 @@ source_tags = ["bard","playful"]
 target_tags = ["town","berserker"]
 line = "Your axe throw broke the stump apart."
 response = "I aimed for the knot. Good enough."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -357,6 +421,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "Ferryman says the bridge is rotten."
 response = "I'll send lumber for a quick repair."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -368,6 +434,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The ink has dried in the pot again."
 response = "Add a drop of vinegar, it thins quickly."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -379,6 +447,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","quiet"]
 line = "Salt from the coast, coarse and white."
 response = "Fill a sack, I'm curing meat tonight."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -390,6 +460,8 @@ source_tags = ["wind","warcher"]
 target_tags = ["town","quiet"]
 line = "Fog rolling in, can't see ten feet ahead."
 response = "Light the beacon on the tower roof."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -401,6 +473,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["paladin"]
 line = "A shield is not a wall, it's a weapon."
 response = "I practice the bash, not just the block."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -412,6 +486,8 @@ source_tags = ["frost","bounty_hunter"]
 target_tags = ["town","warrior"]
 line = "Wolves with blue eyes, bigger than normal."
 response = "Werewolves or enchanted, bring silver."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -423,6 +499,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","bard"]
 line = "You kept me up with your lute until dawn."
 response = "Sorry friend, inspiration struck late."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -434,6 +512,8 @@ source_tags = ["town","playful"]
 target_tags = ["town","professor"]
 line = "The well has a frog in it again."
 response = "A frog? Or a water spirit? Check closely."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -445,6 +525,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Sheep need shearing before the rains."
 response = "I'll send my son with sharp shears."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -456,6 +538,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "Another stranger in the tavern asking questions."
 response = "I'll keep an ear on his conversation."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -467,6 +551,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "Midday bell is late today. Broken rope?"
 response = "I'll climb the tower and check myself."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -478,6 +564,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Locks and keys, finest steel pins."
 response = "Show me the pick-resistant models."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -489,6 +577,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["archer"]
 line = "You release too early. Feel the anchor."
 response = "I'll hold one extra breath every shot."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -500,6 +590,8 @@ source_tags = ["water","bard"]
 target_tags = ["town","wise"]
 line = "Cold night. Pour more wine into the pot."
 response = "My turn to stir the mull mix, cheers."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -511,6 +603,8 @@ source_tags = ["fire","warrior"]
 target_tags = ["fire","witcher"]
 line = "Basilisk nest under the old mill."
 response = "I'll bait it out with a goat carcass."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -522,6 +616,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","warrior"]
 line = "Landslide on the pass to the mines."
 response = "We need pickaxes and shovels, fast."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -533,6 +629,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The candles have burned down to nubs."
 response = "Melt the ends together, we have more."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -544,6 +642,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "North wind tastes of snow and ice."
 response = "Winter comes early this year, stock up."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -555,6 +655,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "The inn mattress has lumps the size of fists."
 response = "Sleep on the floor then, it's softer."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -566,6 +668,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Dried meat and hardtack, a week's ration."
 response = "Pack it with salt, I'm marching east."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -577,6 +681,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["forcemaster"]
 line = "The mind is the weapon. Steel is a tool."
 response = "I try to quiet my thoughts, still hard."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -588,6 +694,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Check the drainage ditch for tracks."
 response = "Mud prints heading toward the granary."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -599,6 +707,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "I saw a juggler drop three skulls yesterday."
 response = "Not skulls, painted gourds. Very realistic."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -610,6 +720,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Chickens stopped laying, maybe a fox."
 response = "I'll set a live trap by the coop door."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -621,6 +733,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The mayor's son is in the stocks again."
 response = "Petty theft. A night there might teach him."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -632,6 +746,8 @@ source_tags = ["water","bounty_hunter"]
 target_tags = ["town","warrior"]
 line = "River serpent sighted near the ford."
 response = "Harpoons and nets, we hunt at low tide."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -643,6 +759,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "Funeral bell tolls nine times. Who died?"
 response = "Old Lena, in her sleep. Peaceful."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -654,6 +772,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","archer"]
 line = "New sinew for longbows, cured three weeks."
 response = "I'll take two lengths, price fair?"
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -665,6 +785,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["berserker"]
 line = "Breathe through the pain, don't let it stop you."
 response = "Easier said when you're not bleeding."
+source_emote = "facepalm"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -676,6 +798,8 @@ source_tags = ["wind","bard"]
 target_tags = ["town","wise"]
 line = "The stars are clear tonight. Good omen."
 response = "Or a cold front. Stars mean frost soon."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -687,6 +811,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "The old bridge creaks, only one cart at time."
 response = "I'll send a carpenter with iron brackets."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -698,6 +824,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The roof leaks when it rains hard."
 response = "Patch it with tar cloth for now."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -709,6 +837,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Hailstones the size of acorns yesterday."
 response = "Damaged the barley field, I heard."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -720,6 +850,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "I dreamed I was a fish in a barrel."
 response = "You eat too much cheese before sleep."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -731,6 +863,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Beeswax for your bowstring, pure and smooth."
 response = "Rub a thin layer, makes the string last."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -742,6 +876,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["witcher"]
 line = "Know your prey before the fight starts."
 response = "I spent an hour reading its tracks."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -753,6 +889,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Smoke on the horizon, east side."
 response = "I'll ride out with a bucket brigade."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -764,6 +902,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The fountain is clogged with leaves again."
 response = "I'll take my net and scoop them out."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -775,6 +915,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Hay bales need turning, wet underneath."
 response = "I'll send the stable boy with a pitchfork."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -786,6 +928,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The herbalist is out of feverfew again."
 response = "Gather wild chamomile, it works too."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -797,6 +941,8 @@ source_tags = ["arcane","quiet"]
 target_tags = ["town","warrior"]
 line = "Phantom wails from the church crypt."
 response = "I'll bring a censer and holy water."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -808,6 +954,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The loud bell cracked. We need the smith."
 response = "I'll fetch him, he owes me a favor."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -819,6 +967,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Fine leather gloves with hidden blade slits."
 response = "How many coins for that pair?"
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -830,6 +980,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["paladin"]
 line = "Shield wall, keep the line, no gaps."
 response = "I locked my arm with the man beside."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -841,6 +993,8 @@ source_tags = ["water","bard"]
 target_tags = ["town","wise"]
 line = "Pass the bottle, my throat is dry."
 response = "Last swig. Save some for the road."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -852,6 +1006,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","warrior"]
 line = "Muddy ruts deep enough to break a wheel."
 response = "We need gravel, and fast. I'll see the mayor."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -863,6 +1019,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The map is stained with wine again."
 response = "Trace the lines fresh with ink."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -874,6 +1032,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Crows flying inland, storm is coming."
 response = "Secure the livestock. I'll tie the thatch."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -885,6 +1045,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "I woke up with straw in my underwear."
 response = "The inn's pallets need a good beating."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -896,6 +1058,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Footprints near the powder magazine."
 response = "Double the guard and check the fuse."
+source_emote = "wave"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -907,6 +1071,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The town crier lost his voice shouting."
 response = "I'll play a fanfare to get their attention."
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -918,6 +1084,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Pigs broke the fence, now in the garden."
 response = "Chase them out and mend the posts."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -929,6 +1097,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The blacksmith's apprentice ran away."
 response = "He'll be back when he gets hungry."
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -940,6 +1110,8 @@ source_tags = ["water","bounty_hunter"]
 target_tags = ["town","warrior"]
 line = "Kraken tentacles in the fishing nets."
 response = "Cut the nets, better than a capsized boat."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -951,6 +1123,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "Wedding bells ring three times. Who's tying?"
 response = "The baker's daughter and the miller's son."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -962,6 +1136,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Poisons for your arrow tips, very potent."
 response = "Show me the fast-acting kind. Good."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -973,6 +1149,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["forcemaster"]
 line = "Hold the concentration, even if I hit you."
 response = "I flinch, but I'm getting better."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -984,6 +1162,8 @@ source_tags = ["wind","bard"]
 target_tags = ["town","wise"]
 line = "The fire is low. Who's on wood duty?"
 response = "I'll split another log from the pile."
+source_emote = "hands_in_back"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -995,6 +1175,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "They found a body in the ditch last night."
 response = "Robbery, I bet. Loose lips in the tavern."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1006,6 +1188,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The garden needs weeding before noon."
 response = "I'll do it after I finish the ledger."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1017,6 +1201,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Thunder clouds from the east, no rain yet."
 response = "The lightning starts the fires. Be ready."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1028,6 +1214,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "I shared a bed with three strangers last night."
 response = "A full inn. At least it was warm."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1039,6 +1227,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Leather oil and saddle soap, best quality."
 response = "Rub it in slow, keeps the leather soft."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1050,6 +1240,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["witcher"]
 line = "Use your senses fully, not just your eyes."
 response = "I smelled it before I saw the trap."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1061,6 +1253,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Lanterns need oil for the night watch."
 response = "Fill them from the barrel at the gate."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1072,6 +1266,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The statue has a pigeon living on its head."
 response = "That's terrible luck. Shoo it away."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1083,6 +1279,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The well level dropped a foot this month."
 response = "Drought coming. We'll dig a new one."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1094,6 +1292,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The playwright wants actors for the festival."
 response = "I'd rather be the stage hand."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1105,6 +1305,8 @@ source_tags = ["arcane","quiet"]
 target_tags = ["town","warrior"]
 line = "Rats with red eyes in the grain silo."
 response = "Feed them poison, or I will burn them."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1116,6 +1318,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The dusk bell rings six short dings."
 response = "Means curfew for children, get indoors."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1127,6 +1331,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Glass vials with corks, various sizes."
 response = "I'll take a dozen small ones for potions."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1138,6 +1344,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["paladin"]
 line = "Hold that pose until your legs shake."
 response = "They already shake. Can I rest?"
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1149,6 +1357,8 @@ source_tags = ["water","bard"]
 target_tags = ["town","wise"]
 line = "A riddle, for a sip of wine each."
 response = "I'm terrible at riddles. Tell it slowly."
+source_emote = "hi"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -1160,6 +1370,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","warrior"]
 line = "A tree fell across the market road."
 response = "Bring an axe and rope, clear it now."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1171,6 +1383,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The inkwell is empty. I need more."
 response = "Make some from soot and gum arabic."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1182,6 +1396,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Sun dogs on both sides of the sun."
 response = "Means a storm in two days, prepare."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1193,6 +1409,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "The bedbugs left welts on my arm."
 response = "Change the straw, burn the old batch."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1204,6 +1422,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Carrots and onions, fresh from the field."
 response = "I'll take a bundle, soup for tonight."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1215,6 +1435,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Suspicious noise from the old keep ruins."
 response = "I'll scout with a torch and a sword."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1226,6 +1448,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The chess players argue over a move."
 response = "They started fighting with the board."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1237,6 +1461,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "Goats got into the dye shed, colored wool."
 response = "Sell it as festival cloth, higher price."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1248,6 +1474,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The smith is sick, no horseshoes today."
 response = "I'll shoe my own horse, watched him once."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1259,6 +1487,8 @@ source_tags = ["fire","warrior"]
 target_tags = ["fire","witcher"]
 line = "Imp fire trails in the barn at night."
 response = "Salt circles and cold iron, I know it."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1270,6 +1500,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The midnight bell rang twice, false alarm."
 response = "Someone pulled the rope as a joke."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1281,6 +1513,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Smoke bombs and flash powders. Special order."
 response = "I'll prepay half now, rest on delivery."
+source_emote = "hands_in_back"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1292,6 +1526,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["archer"]
 line = "Keep your elbow up, you drop it under stress."
 response = "I drilled that, but the real fight is different."
+source_emote = "proud"
+target_emote = "threaten"
 weight = 1.0
 
 
@@ -1303,6 +1539,8 @@ source_tags = ["wind","bard"]
 target_tags = ["town","wise"]
 line = "Let me tell you about the ice queen."
 response = "Save it. I know that tale by heart."
+source_emote = "speaking"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1314,6 +1552,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "Caravan guards found smashed crates."
 response = "Bandits or animals. Either way, loss."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1325,6 +1565,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The horse needs a new set of shoes."
 response = "I'll lead it to the smith after lunch."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1336,6 +1578,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Frost on the grass this morning."
 response = "Cover the herbs with cloth tonight."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1347,6 +1591,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "I need a new pillow, old one flat as paper."
 response = "Fold your cloak under your head. Works."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1358,6 +1604,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Rope and canvas, heavy duty for tents."
 response = "Cut me twenty yards, ship it to the camp."
+source_emote = "hands_in_back"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1369,6 +1617,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["forcemaster"]
 line = "Do not force the energy. Let it flow."
 response = "I relax, but it feels like falling."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1380,6 +1630,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Guard report: strange lights on the hill."
 response = "Probably a traveler's camp. Still check."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1391,6 +1643,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "Kids chase a hoop with sticks again."
 response = "At least they're not throwing stones."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1402,6 +1656,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The barley turned yellow too early."
 response = "Fungus, I think. Burn the infected stalks."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1413,6 +1669,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The tailor is making a winter coat for me."
 response = "Ask for extra lining, the north wind bites."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1424,6 +1682,8 @@ source_tags = ["frost","bounty_hunter"]
 target_tags = ["town","warrior"]
 line = "Mammoth tracks near the frozen lake."
 response = "Do not hunt it. It will hunt you."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1435,6 +1695,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The alarm bell sounds three short bursts."
 response = "Fire in the east quarter, grab buckets."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1446,6 +1708,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Marbles and caltrops for distractions."
 response = "I'll scatter them behind me if chased."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1457,6 +1721,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["paladin"]
 line = "You ate too much before practice. Vomit, then continue."
 response = "Ugh. Fine. Don't watch."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1468,6 +1734,8 @@ source_tags = ["water","bard"]
 target_tags = ["town","wise"]
 line = "Tell me a story of the deep sea."
 response = "Only if you promise not to sleep."
+source_emote = "speaking"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1479,6 +1747,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","warrior"]
 line = "Merchant says the mountain pass has snow."
 response = "Turn back. We take the coastal route."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1490,6 +1760,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The dog is muddy again from the creek."
 response = "Brush it outside. It will roll in mud again."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1501,6 +1773,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Swallows flying low, rain before dusk."
 response = "I'll bring the washing in now."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1512,6 +1786,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "The innkeeper charged extra for a blanket."
 response = "Dispute it. Blankets are included."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1523,6 +1799,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Salt pork and dried beans for the road."
 response = "Good. Pack it in oiled cloth."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1534,6 +1812,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["witcher"]
 line = "A witcher must know when to retreat."
 response = "I ran from a Leshen. Smart move."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1545,6 +1825,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "The gate lock is jammed, need oil."
 response = "I'll bring the grease from the armory."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1556,6 +1838,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The juggler uses torches now, risky."
 response = "I love the smell of burning oil."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1567,6 +1851,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The scarecrow fell over, crows in the corn."
 response = "Prop it up, put a hat on it, works."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1578,6 +1864,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The well water tastes of copper today."
 response = "Check the bucket, maybe it's rusting."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1589,6 +1877,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The morning bell sounds flat, needs tuning."
 response = "I'll call the bell maker tomorrow."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1600,6 +1890,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Crowbar with a magnetic tip, useful."
 response = "Plus a lockpick set. How much total?"
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1611,6 +1903,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["berserker"]
 line = "Your howl is weak. From the gut, not the throat."
 response = "Like this? (loud howl) Better?"
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1622,6 +1916,8 @@ source_tags = ["wind","bard"]
 target_tags = ["town","wise"]
 line = "We need more fuel. Night is long."
 response = "I saw dead oak branches an hour east."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1633,6 +1929,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "The signpost points the wrong way again."
 response = "Someone rotated it for a prank. Fix it."
+source_emote = "facepalm"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1644,6 +1942,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The chimney smoke blows back into the room."
 response = "Sweep the soot, maybe a bird nest."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1655,6 +1955,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Fog this thick is unnatural."
 response = "Wraith mist. Stay indoors until noon."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1666,6 +1968,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "I miss my hammock from the south."
 response = "Tie one between two trees in the yard."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1677,6 +1981,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Dried apples and raisins, sweet ration."
 response = "Good for energy on long marches."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1688,6 +1994,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["archer"]
 line = "Breathe after the release, not before."
 response = "I always hold my breath when aiming."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1699,6 +2007,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Rope on the battlement needs replacing."
 response = "I'll get the new coil from storage."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1710,6 +2020,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The butcher gives free bones to the dogs."
 response = "The dogs love him. He loves them back."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1721,6 +2033,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The pumpkin vines died overnight, wilted."
 response = "Cut them, burn the vines, try again."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1732,6 +2046,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The night watchman fell asleep on duty."
 response = "Put him on day duty for a week."
+source_emote = "hands_in_back"
+target_emote = "hands_in_back"
 weight = 1.0
 
 
@@ -1743,6 +2059,8 @@ source_tags = ["water","bounty_hunter"]
 target_tags = ["town","warrior"]
 line = "Sea serpent scales washed up at dawn."
 response = "It is close. Prepare harpoons."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1754,6 +2072,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The bell rope snapped during a pull."
 response = "I'll splice it. Have a spare rope."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1765,6 +2085,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Earring with a hidden pick, very subtle."
 response = "I'll wear it. Best piece I've seen."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1776,6 +2098,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["forcemaster"]
 line = "No magic can replace discipline. Drill again."
 response = "Yes, master. Until my arms fall off."
+source_emote = "hands_in_back"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1787,6 +2111,8 @@ source_tags = ["water","bard"]
 target_tags = ["town","wise"]
 line = "The wine is sour. Did someone drop herbs in?"
 response = "Yes, rosemary. It is not sour, it is flavored."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1798,6 +2124,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","warrior"]
 line = "The bridge over the gorge is missing planks."
 response = "We will make a rope bridge for now."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1809,6 +2137,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The bookbinding glue is too thick."
 response = "Warm it over the fire, stir slowly."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1820,6 +2150,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "The clouds have an oily sheen. Tornado?"
 response = "Maybe. Head to the storm cellar now."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1831,6 +2163,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "A mouse ran across my face in the night."
 response = "Catch it and give it to the cat."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1842,6 +2176,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "New saddles, leather and brass fittings."
 response = "I need one for a warhorse, larger girth."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -1853,6 +2189,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["paladin"]
 line = "Your oath is your shield when steel fails."
 response = "I remember my vows. They guide me."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1864,6 +2202,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "The armory is missing a sword."
 response = "Find whose post it was. Ask them."
+source_emote = "lookout"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -1875,6 +2215,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The baker threw bread at the thief."
 response = "Stale bread, but it worked."
+source_emote = "facepalm"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1886,6 +2228,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The ox has a sore hoof, limping."
 response = "Call the vet. I will cover the cost."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1897,6 +2241,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The water mill stopped turning. No flour."
 response = "Check the wheel for debris or damage."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1908,6 +2254,8 @@ source_tags = ["frost","bounty_hunter"]
 target_tags = ["town","warrior"]
 line = "Ice wraith froze the entire south pasture."
 response = "Fire mage needed. I know one."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1919,6 +2267,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The bell tolls once for a stillbirth."
 response = "Bless the soul. I will light a candle."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -1930,6 +2280,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Nailed boots for climbing walls."
 response = "Do they work on stone, not just wood?"
+source_emote = "clap"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -1941,6 +2293,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["berserker"]
 line = "You lost your shield. Now fight without it."
 response = "I will use my left arm to block."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1952,6 +2306,8 @@ source_tags = ["wind","bard"]
 target_tags = ["town","wise"]
 line = "I will sing a ballad about the fallen king."
 response = "Only if you reach the high notes right."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -1963,6 +2319,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "The ferry is stuck on a sandbar."
 response = "Wait for the tide. It will float free."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -1974,6 +2332,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The cat knocked over the ink bottle again."
 response = "Scoop up the sand, blot the pages."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -1985,6 +2345,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Hail came, broken tiles on the roof."
 response = "I will patch with shale slabs."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -1996,6 +2358,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "The snorer next door kept everyone awake."
 response = "Throw a boot at the wall. Works."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -2007,6 +2371,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Garlic braids, hang them in the stable."
 response = "Keeps flies away. I will take four."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2018,6 +2384,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["witcher"]
 line = "A monster's lair always has an escape route."
 response = "I found a hidden tunnel behind the altar."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2029,6 +2397,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "The moat is low, exposed mud and trash."
 response = "Open the sluice gate from the river."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -2040,6 +2410,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The acrobat fell and hurt her ankle."
 response = "She will heal. I hope she continues."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2051,6 +2423,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The beehive is empty, no honey this fall."
 response = "The bees swarmed. I saw them head west."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2062,6 +2436,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The stranger paid with old coins, out of circulation."
 response = "Silver or copper? Silver is still worth it."
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -2073,6 +2449,8 @@ source_tags = ["arcane","quiet"]
 target_tags = ["town","warrior"]
 line = "Poltergeist in the inn. Cups floating."
 response = "I will bless the room with salt and iron."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -2084,6 +2462,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The noon bell marks the end of silence."
 response = "Time to speak again, good."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
 
 
@@ -2095,6 +2475,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Grappling hook with folding prongs."
 response = "Compact and strong. I will test it."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -2106,6 +2488,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["archer"]
 line = "Stand straight, both feet on the line."
 response = "It is harder on wet grass."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2117,6 +2501,8 @@ source_tags = ["water","bard"]
 target_tags = ["town","wise"]
 line = "The embers glow blue. Not just wood."
 response = "Copper in the fire pit. Old metal."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -2128,6 +2514,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","warrior"]
 line = "Dust cloud on the horizon. Riders, many."
 response = "Form up, we do not know if friends."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2139,6 +2527,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The chalkboard is grey, needs fresh wash."
 response = "I will mix new chalk paint tonight."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2150,6 +2540,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "The south wind tastes of salt and iron."
 response = "Sea battle or dead whale on the shore."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2161,6 +2553,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "The roof drips into a pot by the bed."
 response = "Constant drip. Hard to sleep."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -2172,6 +2566,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "Wax candles, slow burn, no smoke."
 response = "I will buy a box for the long nights."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 
@@ -2183,6 +2579,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["forcemaster"]
 line = "The ball of energy is a feeling, not a shape."
 response = "I try to cup it like water. Hard."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2194,6 +2592,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "Fresh hoof prints near the west wall."
 response = "Riders pass within the hour. Alert."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2205,6 +2605,8 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The flower seller gave a rose to a child."
 response = "That child will remember it forever."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2216,6 +2618,8 @@ source_tags = ["earth","quiet"]
 target_tags = ["town","shopkeeper"]
 line = "The milk churn is half empty this morning."
 response = "Did the cow get milked late? Check."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2227,6 +2631,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","wise"]
 line = "The cobbler is moving to the capital."
 response = "That is a loss. His boots were the best."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -2238,6 +2644,8 @@ source_tags = ["fire","warrior"]
 target_tags = ["fire","witcher"]
 line = "Fire salamander under the forge brickwork."
 response = "Smoke it out with bellows and water."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -2249,6 +2657,8 @@ source_tags = ["town","priest"]
 target_tags = ["town","quiet"]
 line = "The chapel bell rings happy sounds."
 response = "A wedding is inside. Smile."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 
@@ -2260,6 +2670,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","rogue"]
 line = "Silk rope, stronger than hemp, thin."
 response = "Good for climbing. Price steep, but I buy."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2271,6 +2683,8 @@ source_tags = ["mentor","strict"]
 target_tags = ["paladin"]
 line = "No mercy in training. Pain teaches you."
 response = "I will remember this lesson, master."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2282,6 +2696,8 @@ source_tags = ["wind","bard"]
 target_tags = ["town","wise"]
 line = "The logs popped and sent sparks high."
 response = "Watch your cloak, sparks hole wool."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2293,6 +2709,8 @@ source_tags = ["water","rogue"]
 target_tags = ["town","shopkeeper"]
 line = "The ford is flooded after last night's rain."
 response = "We wait until noon, water will drop."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 
@@ -2304,6 +2722,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","professor"]
 line = "The firewood pile is low for winter."
 response = "I will split logs all day tomorrow."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2315,6 +2735,8 @@ source_tags = ["wind","archer"]
 target_tags = ["town","quiet"]
 line = "Ice on the pond, thick enough to walk."
 response = "Do not test it. Not yet. Wait a week."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2326,6 +2748,8 @@ source_tags = ["town","quiet"]
 target_tags = ["town","playful"]
 line = "I dreamed I was a king, but lost my crown."
 response = "Dreams reflect your worries today."
+source_emote = "facepalm"
+target_emote = "proud"
 weight = 1.0
 
 
@@ -2337,6 +2761,8 @@ source_tags = ["town","shopkeeper"]
 target_tags = ["town","warrior"]
 line = "New knives, bone handle, good balance."
 response = "I need a skinner. This one, how much?"
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 
@@ -2348,6 +2774,8 @@ source_tags = ["mentor","wise"]
 target_tags = ["berserker"]
 line = "Your strength is nothing without control."
 response = "I am learning control, slowly."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 
@@ -2359,6 +2787,8 @@ source_tags = ["fire","paladin"]
 target_tags = ["fire","warrior"]
 line = "The watchtower ladder has a broken rung."
 response = "I will fix it before sunset."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 
@@ -2370,5 +2800,7 @@ source_tags = ["town","bard"]
 target_tags = ["town","playful"]
 line = "The sun sets orange behind the old keep."
 response = "Beautiful. Let me tune my lute for tonight."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "veteran_m_armando"
+name = "Veteran Armando"
+title = "Veteran"
+gender = "male"
+archetype = "veteran"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "veteran/male"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 59
+maxLevel = 62
+team = [
+  { species = "cobblemon:ninjask", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["batonpass", "xscissor", "swordsdance", "silverwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:absol", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychocut", "taunt", "nightslash", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:slaking", level = 62, gender = "GENDERLESS", nature = "", ability = "", moveset = ["counter", "gigaimpact", "shadowclaw", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve seen countless Trainers and even more Pokémon! So, what kind of a Trainer are you?", "I’ve seen countless Trainers and even more Pokémon. You’re a strong Trainer. Moreover, your heart is strong.", "Veteran Armando is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

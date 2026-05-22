@@ -1,0 +1,32 @@
+{
+  "id": "rct_lass_sarah_02ed",
+  "name": "Lass Sarah",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "bidoof",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

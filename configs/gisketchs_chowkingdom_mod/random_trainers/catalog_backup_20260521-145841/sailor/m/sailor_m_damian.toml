@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_damian"
+name = "Sailor Damian"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 24
+maxLevel = 24
+team = [
+  { species = "cobblemon:wingull", level = 24, gender = "MALE", nature = "jolly", ability = "keeneye", moveset = ["growl", "waterpulse", "roost", "pluck"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wingull", level = 24, gender = "MALE", nature = "adamant", ability = "keeneye", moveset = ["quickattack", "waterpulse", "steelwing", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ve been around the world, going from place to place training Pokémon. It’s this Gym I’ve chosen to make my home! You can bet it’s tough!", "If you were to go around the world, I’m sure you’d meet tougher Pokémon.", "I have trained this team for the road. Challenge me if you are ready."]

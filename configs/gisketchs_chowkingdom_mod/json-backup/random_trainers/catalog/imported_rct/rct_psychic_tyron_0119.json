@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_tyron_0119",
+  "name": "Psychic Tyron",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "solidrock",
+      "moveset": [
+        "taunt",
+        "psychic",
+        "roleplay",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "recover",
+        "psychic",
+        "roleplay",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0118_ace_trainer_female_kate",
+  "name": "Ace Trainer Female Kate",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:shellder",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Kate: You sure were mean to my little sisters!",
+    "Kate: You\u2019re too strong. I didn\u2019t stand a chance. Here. You deserve this."
+  ]
+}

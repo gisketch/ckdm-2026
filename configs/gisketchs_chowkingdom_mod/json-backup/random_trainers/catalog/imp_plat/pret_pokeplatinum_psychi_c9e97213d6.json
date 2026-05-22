@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeplatinum_psychic_brittney_rematch",
+  "name": "Psychic Female Brittney",
+  "title": "Psychic Female",
+  "gender": "female",
+  "archetype": "psychic_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "psychic_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 59,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "cobblemon:hypno",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hypnosis",
+        "psychic",
+        "shadowball",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "recover",
+        "psychic",
+        "calmmind",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Female Brittney is ready for a battle."
+  ]
+}

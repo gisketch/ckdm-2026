@@ -1,0 +1,78 @@
+{
+  "id": "rct_biker_lukas_00cf",
+  "name": "Biker Lukas",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "toxicroak",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "dryskin",
+      "moveset": [
+        "smokescreen",
+        "drainpunch",
+        "poisonjab",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragalge",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "poisontouch",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swalot",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "stickyhold",
+      "moveset": [
+        "screech",
+        "sludgebomb",
+        "gigadrain",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weezing",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "smokescreen",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

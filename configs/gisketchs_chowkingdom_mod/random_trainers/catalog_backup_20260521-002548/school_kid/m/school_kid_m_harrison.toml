@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_harrison"
+name = "School Kid Harrison"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 6
+maxLevel = 6
+team = [
+  { species = "cobblemon:starly", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = ["quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["School Kid Male Harrison is ready for a battle."]

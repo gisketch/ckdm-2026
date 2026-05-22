@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokecrystal_lass_001_carrie",
+  "name": "Lass Carrie",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:snubbull",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "scaryface",
+        "charm",
+        "bite",
+        "lick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lass Carrie is ready for a battle."
+  ]
+}

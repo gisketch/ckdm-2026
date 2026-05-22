@@ -1,0 +1,97 @@
+{
+  "id": "rct_rocket_admin_ariana_0044",
+  "name": "Rocket Admin Ariana",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rocket_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 77,
+  "maxLevel": 79,
+  "team": [
+    {
+      "species": "cobblemon:hatterene",
+      "level": 77,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "magicbounce",
+      "moveset": [
+        "trickroom",
+        "psychic",
+        "dazzlinggleam",
+        "mysticalfire"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rhyperior",
+      "level": 78,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "solidrock",
+      "moveset": [
+        "earthquake",
+        "rockblast",
+        "icepunch",
+        "heatcrash"
+      ],
+      "heldItem": [
+        "weakness_policy"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 78,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "suckerpunch",
+        "nightslash",
+        "drillpeck",
+        "superpower"
+      ],
+      "heldItem": [
+        "scope_lens"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mawile",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "suckerpunch",
+        "ironhead",
+        "playrough",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "mega_showdown:mawilite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

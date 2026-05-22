@@ -2,448 +2,549 @@
 id = "expansion_20_001"
 topic = "moonlit_errand"
 source_tags = ["nocturnal", "town"]
+required_spawned_ids = ["finn", "marceline"]
 target_tags = ["town"]
 line = "Marceline hums low, her axe catching pale moonlight. 'Late scouting? Leftover cocoa.'"
 response = "Finn chuckled, strapping gloves. 'Nocturnal ops. Dungeons wait for no one.'"
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_002"
 topic = "quiet_patrol"
 source_tags = ["nocturnal", "musician"]
+required_spawned_ids = ["gandalf", "venti"]
 target_tags = ["mentor"]
 line = "Venti tuned his lyre beneath a lamp. 'Night patrol? I'll ward the sky road.'"
 response = "Gandalf nodded, staff aglow. 'Even a breeze can warn of creeping shadows.'"
+source_emote = "lookout"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_003"
 topic = "skyland_survival_check"
 source_tags = ["nocturnal", "skyland_survival"]
+required_spawned_ids = ["link", "toph"]
 target_tags = ["mentor"]
 line = "Link TOTK landed silent on a floating isle. 'Glide ring secure for midnight runs?'"
 response = "Toph stomped. 'I feel every tremor up here. East anchor's solid.'"
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_004"
 topic = "cobblemon_biology_night"
 source_tags = ["researcher", "pokemon"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["town"]
 line = "Bubblegum held a glowstone lantern. 'Nocturnal Cobblemon spore patterns shift.'"
 response = "Huntress Wizard nocked an arrow. 'I'll mark the grove, no zap-spores near camp.'"
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_005"
 topic = "frost_warden_duty"
 source_tags = ["frost_wizard", "town"]
+required_spawned_ids = ["elsa", "invoker"]
 target_tags = ["mentor"]
 line = "Elsa breathed a crystal mist. 'Frost sentries up. Nothing slips the bridge.'"
 response = "Invoker whispered three orbs aloft. 'Cold mirrors sight. I complement.'"
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_006"
 topic = "witcher_trail_shift"
 source_tags = ["nocturnal", "monster_hunter"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["witcher", "mentor"]
 line = "Ciri traced a silver sword rune. 'Wraith sign south by the old well.'"
 response = "Geralt quaffed a cat potion. 'Take the west hedge. Leshen never sleep.'"
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_007"
 topic = "bard_tales_late"
 source_tags = ["nocturnal", "bard"]
+required_spawned_ids = ["marceline", "venti"]
 target_tags = ["town"]
 line = "Venti strummed a soft chord. 'Song of the moonstone bridge for the late crowd?'"
 response = "Marceline smirked, bass quiet. 'Play it slow. I'll add harmony at the break.'"
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_008"
 topic = "archer_rooftop_watch"
 source_tags = ["archer", "town"]
+required_spawned_ids = ["huntress_wizard", "legolas"]
 target_tags = ["nocturnal"]
 line = "Huntress Wizard perched on the apothecary roof. 'Movement by the south gate.'"
 response = "Legolas drew a single shaft. 'I see a fox. Still, I hold the post.'"
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_009"
 topic = "earth_wizard_sentry"
 source_tags = ["earth_wizard", "mentor"]
+required_spawned_ids = ["link", "toph", "zuko"]
 target_tags = ["nocturnal"]
 line = "Toph pressed her heel. 'Someone's jogging 200 paces east. Light armor.'"
 response = "Zuko lit a small flame. 'That's Link. I told him to check the shrine.'"
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_010"
 topic = "water_wizard_harbor"
 source_tags = ["water_wizard", "town"]
+required_spawned_ids = ["katara", "marceline"]
 target_tags = ["nocturnal"]
 line = "Katara shepherded a moonbeam tide. 'Boats lashed. Nothing drowns tonight.'"
 response = "Marceline drifted past. 'Bay's quiet. Even the squids are asleep.'"
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_011"
 topic = "wind_wizard_skylight"
 source_tags = ["wind_wizard", "skyland_lore"]
+required_spawned_ids = ["aang", "ezio"]
 target_tags = ["town"]
 line = "Aang swooped low, glider furled. 'High wind's shifting. Don't light bonfires.'"
 response = "Ezio held a candle anyway. 'I'll keep the leather dry, thanks.'"
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_012"
 topic = "rogue_scout_route"
 source_tags = ["rogue", "town"]
+required_spawned_ids = ["ezio", "pope_leo"]
 target_tags = ["mentor"]
 line = "Ezio vanished on a rooftop line. 'Warehouse locks double-checked, Father Leo.'"
 response = "Pope Leo crossed himself. 'Blessed shadows. Continue your circuit, child.'"
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_013"
 topic = "paladin_vigil"
 source_tags = ["paladin", "town"]
+required_spawned_ids = ["gandalf", "tarnished"]
 target_tags = ["mentor"]
 line = "Tarnished knelt at the chapel step. 'I'll keep the moonlit gravel safe.'"
 response = "Gandalf touched the hilt. 'Starlight and steel, a good combination.'"
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_014"
 topic = "priest_late_chant"
 source_tags = ["priest", "town"]
+required_spawned_ids = ["pope_leo", "vi"]
 target_tags = ["nocturnal"]
 line = "Pope Leo sang plainsong low. 'Midnight office. Join or pass on tiptoe.'"
 response = "Vi muted her gauntlets. 'Respect. I'll circle the apse instead.'"
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_015"
 topic = "berserker_cool_down"
 source_tags = ["berserker", "nocturnal"]
+required_spawned_ids = ["finn", "zagreus"]
 target_tags = ["town"]
 line = "Zagreus wiped cinder from his cheek. 'Short fuse. I'll walk east battlements.'"
 response = "Finn bumped fists. 'Cool-down run? I'll do the west wall.'"
+source_emote = "hi"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_016"
 topic = "warrior_gear_check"
 source_tags = ["warrior", "town"]
+required_spawned_ids = ["finn", "marceline"]
 target_tags = ["nocturnal"]
 line = "Finn tested a night lamp on his vambrace. 'Gel charge good. Backup axe?'"
 response = "Marceline flipped a spare hand-axe. 'Always. Let's sweep the lower trade row.'"
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_017"
 topic = "cosmetics_shop_lockup"
 source_tags = ["store_cosmetics", "town"]
+required_spawned_ids = ["traxex"]
 target_tags = ["nocturnal"]
 line = "Shoumai latched the shutter. 'Third night quiet. Night crowd?'"
 response = "Traxex emerged from shadow. 'Still prowling. I'll loop past your alley.'"
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_018"
 topic = "explorer_store_close"
 source_tags = ["store_explorer", "town"]
+required_spawned_ids = ["aloy", "link"]
 target_tags = ["nocturnal"]
 line = "Aloy restocked rope coils. 'I'll leave a glowspore by the back gate.'"
 response = "Link TOTK nodded. 'I'll sweep the ruins. Signal if you hear a horn.'"
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_019"
 topic = "seed_shop_late"
 source_tags = ["store_seed", "town"]
+required_spawned_ids = ["elsa", "huntress_wizard"]
 target_tags = ["nocturnal"]
 line = "Huntress Wizard gathered nightshade seeds. 'Moonflowers need cold soil. Frost help?'"
 response = "Elsa raised a palm. 'I'll chill the east bed before dawn patrol.'"
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_020"
 topic = "pokemon_shop_inventory"
 source_tags = ["store_pokemon", "researcher"]
+required_spawned_ids = ["marceline"]
 target_tags = ["nocturnal"]
 line = "Bubblegum stacked dusk balls. 'No sales until sunrise, but Marceline can browse.'"
 response = "Marceline peeked. 'Just checking the new Hoothoot plush. Don't judge.'"
+source_emote = "shrug"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_021"
 topic = "zelda_dragon_memory_dream"
 source_tags = ["zelda", "dragon_memory"]
+required_spawned_ids = ["link", "zelda"]
 target_tags = ["town"]
 line = "Zelda TOTK stared at the sky island. 'I still recall the silent light.'"
 response = "Link TOTK handed her warm tea. 'I'm just glad you're back. Light or no light.'"
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_022"
 topic = "link_moonlit_restock"
 source_tags = ["link", "skyland_lore"]
+required_spawned_ids = ["legolas", "link"]
 target_tags = ["town"]
 line = "Link TOTK refilled his quicksand arrow quiver. 'Sky shrine locked. Dusk bow dry.'"
 response = "Legolas offered a fresh string. 'Elven silk. Spare it for the night run.'"
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_023"
 topic = "marceline_lullaby_practice"
 source_tags = ["marceline", "musician"]
+required_spawned_ids = ["marceline", "venti"]
 target_tags = ["nocturnal"]
 line = "Marceline strummed a velvet chord. 'New lullaby. No mind tricks, promise.'"
 response = "Venti lifted his flute. 'Counterpoint in D minor? One steady stanza.'"
+source_emote = "shrug"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_024"
 topic = "bubblegum_night_research"
 source_tags = ["bubblegum", "cobblemon_biology"]
+required_spawned_ids = ["toph"]
 target_tags = ["nocturnal"]
 line = "Bubblegum scanned a Zubat earbone. 'Echolocation readings spike past two am.'"
 response = "Toph stamped twice. 'I feel the clicks. They're looping the west cave.'"
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_025"
 topic = "ciri_moon_blade_oil"
 source_tags = ["ciri", "monster_hunter"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["witcher"]
 line = "Ciri sharpened her Zireael. 'Specter oil or black blood for this hour?'"
 response = "Geralt handed her a vial. 'Specter. No necrophage tracks tonight.'"
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_026"
 topic = "geralt_medallion_check"
 source_tags = ["geralt", "class_witcher"]
+required_spawned_ids = ["geralt", "pope_leo"]
 target_tags = ["town"]
 line = "Geralt's medallion quivered faintly. 'Small curse, maybe a hexling.'"
 response = "Pope Leo offered a benediction pouch. 'Salt and seal. Walk in peace.'"
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_027"
 topic = "gandalf_moth_dispatch"
 source_tags = ["light_magic", "mentor"]
+required_spawned_ids = ["aang", "gandalf"]
 target_tags = ["nocturnal"]
 line = "Gandalf released a tiny moth. 'Message to Rohan. Winds are kind at night.'"
 response = "Aang caught the draft. 'I'll carry it past the west headland, easy.'"
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_028"
 topic = "invoker_quas_wex_exort"
 source_tags = ["arcane_wizard", "mentor"]
+required_spawned_ids = ["invoker", "legolas"]
 target_tags = ["town"]
 line = "Invoker suspended three orbs. 'Quas Wex lends silence to the plaza.'"
 response = "Legolas inclined his head. 'A gentle hush. I welcome the calm.'"
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_029"
 topic = "elsa_ice_torch"
 source_tags = ["frost_wizard", "town"]
+required_spawned_ids = ["elsa"]
 target_tags = ["nocturnal"]
 line = "Elsa crafted an ice torch. 'No melt, no smoke. Safe for the library stroll.'"
 response = "Bubblegum adjusted her glasses. 'Ingenious. I'll catalog the refraction.'"
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_030"
 topic = "ezio_double_shift"
 source_tags = ["ezio", "rogue"]
+required_spawned_ids = ["ezio", "finn"]
 target_tags = ["town"]
 line = "Ezio tugged his hood. 'Second circuit. Any late bakery deliveries?'"
 response = "Finn pointed a gauntlet. 'Muffin crate at the east dock. I'll spot you.'"
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_031"
 topic = "aloy_focus_pulse"
 source_tags = ["bounty_hunter", "town"]
+required_spawned_ids = ["aloy", "link"]
 target_tags = ["nocturnal"]
 line = "Aloy's focus pulsed. 'Machine signature? No, just a stuck piston lamp.'"
 response = "Link TOTK climbed down. 'I'll oil it before someone trips.'"
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_032"
 topic = "legolas_star_arrow"
 source_tags = ["war_archer", "town"]
+required_spawned_ids = ["legolas", "tarnished"]
 target_tags = ["mentor"]
 line = "Legolas fletched by starlight. 'Silver arrow for the midnight beacon.'"
 response = "Tarnished blessed the tip. 'Light of the Erdtree guides your aim.'"
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_033"
 topic = "traxex_hunters_call"
 source_tags = ["tundra_archer", "town"]
+required_spawned_ids = ["huntress_wizard", "traxex"]
 target_tags = ["nocturnal"]
 line = "Traxex coiled her net. 'Arctic hare migration due. I'll set snares at two.'"
 response = "Huntress Wizard checked the wind. 'I'll cover the eastern scrub.'"
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_034"
 topic = "venti_wind_prayer"
 source_tags = ["venti", "bard"]
+required_spawned_ids = ["aang", "venti"]
 target_tags = ["nocturnal"]
 line = "Venti prayed to the Thousand Winds. 'Carry our notes above the clouds.'"
 response = "Aang orbited once. 'I heard that harmony. My turn.'"
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_035"
 topic = "vi_gate_tension"
 source_tags = ["vi", "forcemaster"]
+required_spawned_ids = ["vi", "zagreus"]
 target_tags = ["town"]
 line = "Vi tested the portcullis chain. 'Holds 800 kilos. No surprise charges.'"
 response = "Zagreus laughed. 'I'll test it one day. Not tonight.'"
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_036"
 topic = "tarnished_night_prayer"
 source_tags = ["tarnished", "paladin"]
+required_spawned_ids = ["pope_leo", "tarnished"]
 target_tags = ["mentor"]
 line = "Tarnished murmured a gilt prayer. 'Grace lights my halberd. Walk with me.'"
 response = "Pope Leo lit a candle. 'St. Trina watches the night road.'"
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_037"
 topic = "zagreus_styx_check"
 source_tags = ["zagreus", "berserker"]
+required_spawned_ids = ["ciri", "zagreus"]
 target_tags = ["nocturnal"]
 line = "Zagreus checked a small obsidian vial. 'Styx water. Chills if enemies close.'"
 response = "Ciri tapped her medallion. 'Mine's still. So we're clear for now.'"
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_038"
 topic = "toph_night_pulse"
 source_tags = ["toph", "earth_wizard"]
+required_spawned_ids = ["invoker", "toph"]
 target_tags = ["town"]
 line = "Toph lay flat on the flagstones. 'Night pulse clear. Foundations settled.'"
 response = "Invoker whispered. 'Good. I'll recalibrate the sunstone clock.'"
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_039"
 topic = "zuko_dawn_prep"
 source_tags = ["zuko", "fire_wizard"]
+required_spawned_ids = ["katara", "zuko"]
 target_tags = ["nocturnal"]
 line = "Zuko lit the first watch-brazier with a snap. 'Low flame. Dawn drill.'"
 response = "Katara cooled the rim. 'I'll damp the sparks. Sleep well, town.'"
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_040"
 topic = "katara_moon_reflection"
 source_tags = ["katara", "water_wizard"]
+required_spawned_ids = ["katara", "zelda"]
 target_tags = ["nocturnal"]
 line = "Katara bent a lunar reflection on the fountain. 'Water shows the sky.'"
 response = "Zelda TOTK traced the light. 'I once flew under that same moon.'"
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_041"
 topic = "aang_fountain_hop"
 source_tags = ["aang", "wind_wizard"]
+required_spawned_ids = ["aang"]
 target_tags = ["town"]
 line = "Aang balanced on the fountain edge. 'Last spin before bed. Quiet, I promise.'"
 response = "Shoumai laughed softly. 'Just don't ruffle the mannequins, please.'"
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_042"
 topic = "finn_dungeon_map"
 source_tags = ["finn", "warrior"]
+required_spawned_ids = ["finn", "geralt"]
 target_tags = ["nocturnal"]
 line = "Finn unfolded a scrawl map. 'Night entry dungeon. Floor one only.'"
 response = "Geralt studied it. 'Leave a torch trail. Mark doors with chalk.'"
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_043"
 topic = "huntress_beast_call"
 source_tags = ["huntress", "archer"]
+required_spawned_ids = ["huntress_wizard", "legolas"]
 target_tags = ["nocturnal"]
 line = "Huntress Wizard whistled twice. 'Wolf pups safe. Sows are nesting.'"
 response = "Legolas returned the call. 'I'll circle the den every hour.'"
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_044"
 topic = "shoumai_midnight_display"
 source_tags = ["shoumai", "store_cosmetics"]
+required_spawned_ids = ["traxex"]
 target_tags = ["nocturnal"]
 line = "Shoumai adjusted a twilight sash. 'Night window gets the cobalt set.'"
 response = "Traxex paused. 'Matches the moonlight. I'll keep an eye on it.'"
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_045"
 topic = "bubblegum_coffee_supply"
 source_tags = ["bubblegum", "researcher"]
+required_spawned_ids = ["marceline"]
 target_tags = ["nocturnal"]
 line = "Bubblegum measured coffee grounds. 'All-nighter for the evolution paper.'"
 response = "Marceline floated by. 'I'll bring you roasted beans at three.'"
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_046"
 topic = "link_sword_polish"
 source_tags = ["link", "sword_technique"]
+required_spawned_ids = ["link", "tarnished"]
 target_tags = ["nocturnal"]
 line = "Link TOTK polished the Master Sword under a torch. 'Perfect edge.'"
 response = "Tarnished approved. 'My claymore could use that whetstone.'"
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_047"
 topic = "zelda_skyland_poem"
 source_tags = ["zelda", "tears_of_the_kingdom"]
+required_spawned_ids = ["venti", "zelda"]
 target_tags = ["town"]
 line = "Zelda TOTK read a found poem. 'The dragon wept light over the reef.'"
 response = "Venti strummed. 'I'll set that to a nocturne in four verses.'"
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_048"
 topic = "ciri_blink_practice"
 source_tags = ["ciri", "witcher"]
+required_spawned_ids = ["ciri", "invoker"]
 target_tags = ["mentor"]
 line = "Ciri blinked between two lampposts. 'Stable jumps. No distortion.'"
 response = "Invoker observed. 'Spatial weave tight. Excellent focus.'"
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_049"
 topic = "zagreus_night_run"
 source_tags = ["zagreus", "berserker"]
+required_spawned_ids = ["vi", "zagreus"]
 target_tags = ["nocturnal"]
 line = "Zagreus jogged with burning soles. 'Two laps around the sky bridge.'"
 response = "Vi clocked it. 'Faster than yesterday. I'll spot the last sprint.'"
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_20_050"
 topic = "marceline_sunrise_curfew"
 source_tags = ["marceline", "nocturnal"]
+required_spawned_ids = ["gandalf", "marceline"]
 target_tags = ["town"]
 line = "Marceline yawned, parasol ready. 'Sun in forty minutes. Great shift, folks.'"
 response = "Gandalf smiled. 'Sleep well. Day watch takes the next round.'"
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0

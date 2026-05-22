@@ -1,0 +1,56 @@
+{
+  "id": "rct_hiker_trent_0287",
+  "name": "Hiker Trent",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "dragonbreath",
+        "slam",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "bulldoze",
+        "selfdestruct",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

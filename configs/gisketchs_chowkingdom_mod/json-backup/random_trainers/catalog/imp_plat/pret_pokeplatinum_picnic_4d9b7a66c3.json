@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_picnicker_lauren",
+  "name": "Picnicker Lauren",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:pachirisu",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spark",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Go do it, my Pok\u00e9mon! I\u2019ll work hard, too!",
+    "I think we\u2019ll visit the TV station in Jubilife City next. Or maybe we should go to the Global Terminal?"
+  ]
+}

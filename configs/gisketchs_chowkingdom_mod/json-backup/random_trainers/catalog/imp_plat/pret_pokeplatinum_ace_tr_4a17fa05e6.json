@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_blake",
+  "name": "Ace Trainer Snow Male Blake",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:ambipom",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doublehit",
+        "uturn",
+        "sandattack",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:porygon2",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psybeam",
+        "signalbeam",
+        "conversion2",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m an elite battler, but cold is my nemesis!",
+    "I\u2019d rather be asleep in the lodge\u2019s bed... I can\u2019t take this cold..."
+  ]
+}

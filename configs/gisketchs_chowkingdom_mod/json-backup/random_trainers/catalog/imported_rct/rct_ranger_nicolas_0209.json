@@ -1,0 +1,49 @@
+{
+  "id": "rct_ranger_nicolas_0209",
+  "name": "Ranger Nicolas",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 51,
+  "team": [
+    {
+      "species": "weepinbell",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "acid",
+        "sweetscent",
+        "wrap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "victreebel",
+      "level": 51,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "acid",
+        "sleeppowder",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_fran"
+name = "Ace Trainer Fran"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:seadra", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerf Fran is ready for a battle.", "I’ve been training hard with Clair. There’s no way I can lose!", "Oh... Looks like I need more training, huh?"]

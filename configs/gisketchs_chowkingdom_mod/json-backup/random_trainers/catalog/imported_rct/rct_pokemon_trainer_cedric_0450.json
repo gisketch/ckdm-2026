@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_cedric_0450",
+  "name": "Pokémon Trainer Cedric",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "pluck",
+        "raindance",
+        "uturn"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "grassyterrain",
+        "petalblizzard",
+        "stunspore",
+        "shadowball"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "pinmissile",
+        "swordsdance",
+        "rockslide",
+        "thief"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flashfire",
+      "moveset": [
+        "smartstrike",
+        "megahorn",
+        "poisonjab",
+        "flamewheel"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "covet",
+        "yawn",
+        "crunch",
+        "highhorsepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "torrent",
+      "moveset": [
+        "charm",
+        "grassknot",
+        "brine",
+        "flashcannon"
+      ],
+      "heldItem": "quick_claw",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

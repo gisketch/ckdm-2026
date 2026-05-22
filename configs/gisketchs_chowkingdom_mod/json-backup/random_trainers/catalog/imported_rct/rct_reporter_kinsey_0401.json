@@ -1,0 +1,33 @@
+{
+  "id": "rct_reporter_kinsey_0401",
+  "name": "Reporter Kinsey",
+  "title": "Reporter",
+  "gender": "any",
+  "archetype": "reporter",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "chatot",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "keeneye",
+      "moveset": [
+        "hypervoice",
+        "taunt",
+        "growl",
+        "sing"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

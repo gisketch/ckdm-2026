@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_corbin"
+name = "Psychic Corbin"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:xatu", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gallade", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Male Corbin is ready for a battle.", "You’re going to win! That’s the future I saw!", "I lost, but my vision of the future came true..."]

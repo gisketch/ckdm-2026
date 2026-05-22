@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_kai"
+name = "Fisherman Kai"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:barboach", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Kai is ready for a battle."]

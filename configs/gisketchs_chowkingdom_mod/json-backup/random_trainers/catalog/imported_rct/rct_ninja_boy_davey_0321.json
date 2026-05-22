@@ -1,0 +1,33 @@
+{
+  "id": "rct_ninja_boy_davey_0321",
+  "name": "Ninja Boy Davey",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "dustox",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "shielddust",
+      "moveset": [
+        "poisonpowder",
+        "venoshock",
+        "leechlife",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

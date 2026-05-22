@@ -1,0 +1,65 @@
+{
+  "id": "rct_hiker_damon_043b",
+  "name": "Hiker Damon",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smackdown",
+        "curse",
+        "screech",
+        "sandtomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "poisonfang",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

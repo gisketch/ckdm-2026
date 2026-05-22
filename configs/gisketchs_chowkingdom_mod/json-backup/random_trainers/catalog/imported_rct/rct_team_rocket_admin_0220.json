@@ -1,0 +1,65 @@
+{
+  "id": "rct_team_rocket_admin_0220",
+  "name": "Team Rocket Admin",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "golbat",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "sniper",
+      "moveset": [
+        "confuseray",
+        "sludgebomb",
+        "aircutter",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weezing",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "sludgebomb",
+        "thunderbolt",
+        "explosion",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "houndoom",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "crunch",
+        "irontail",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

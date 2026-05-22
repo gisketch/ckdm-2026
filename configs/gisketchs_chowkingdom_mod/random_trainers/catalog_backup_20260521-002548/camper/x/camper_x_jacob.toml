@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_jacob"
+name = "Camper Jacob"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 14
+maxLevel = 14
+team = [
+  { species = "cobblemon:ponyta", level = 14, gender = "MALE", nature = "hasty", ability = "flashfire", moveset = ["tackle", "growl", "tailwhip", "ember"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, how about you and me battle before I go into Eterna Forest?", "I heard that really tough Pokémon appear in Eterna Forest. I need to be more prepared than this!", "I have trained this team for the road. Challenge me if you are ready."]

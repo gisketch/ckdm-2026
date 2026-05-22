@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_marley_victory_road",
+  "name": "Trainer Marley Marley",
+  "title": "Trainer Marley",
+  "gender": "any",
+  "archetype": "trainer_marley",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "trainer_marley/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:arcanine",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "extremespeed",
+        "firefang",
+        "helpinghand",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Trainer Marley Marley is ready for a battle."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_lucas_0592",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "mothim",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "tintedlens",
+      "moveset": [
+        "bugbuzz",
+        "airslash",
+        "energyball",
+        "quiverdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "milotic",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "marvelscale",
+      "moveset": [
+        "scald",
+        "substitute",
+        "calmmind",
+        "recover"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gallade",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "justified",
+      "moveset": [
+        "psychocut",
+        "closecombat",
+        "stoneedge",
+        "swordsdance"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magmortar",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "vitalspirit",
+      "moveset": [
+        "fireblast",
+        "thunderbolt",
+        "focusblast",
+        "willowisp"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefable",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "unaware",
+      "moveset": [
+        "moonblast",
+        "calmmind",
+        "moonlight",
+        "minimize"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "synthesis",
+        "leechseed",
+        "curse"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_tamer_phil_0126",
+  "name": "Tamer Phil",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:copperajah",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "heavymetal",
+      "moveset": [
+        "strength",
+        "ironhead",
+        "playrough",
+        "highhorsepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seviper",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "merciless",
+      "moveset": [
+        "belch",
+        "coil",
+        "wringout",
+        "gunkshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

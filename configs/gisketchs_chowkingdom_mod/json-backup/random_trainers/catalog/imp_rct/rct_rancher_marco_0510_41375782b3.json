@@ -1,0 +1,72 @@
+{
+  "id": "rct_rancher_marco_0510",
+  "name": "Rancher Marco",
+  "title": "Rancher",
+  "gender": "any",
+  "archetype": "rancher",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rancher/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:ambipom",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "sandattack",
+        "screech",
+        "doublehit",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "cloudnine",
+      "moveset": [
+        "aquajet",
+        "confusion",
+        "waterpulse",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "innerfocus",
+      "moveset": [
+        "growl",
+        "stomp",
+        "crunch",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

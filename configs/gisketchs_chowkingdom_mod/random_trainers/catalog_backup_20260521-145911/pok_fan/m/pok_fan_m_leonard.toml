@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_fan_m_leonard"
+name = "Pok Fan Leonard"
+title = "Pok Fan"
+gender = "male"
+archetype = "pok_fan"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_fan/male"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 15
+maxLevel = 18
+team = [
+  { species = "cobblemon:pichu", level = 15, gender = "FEMALE", nature = "sassy", ability = "static", moveset = ["thundershock", "tailwhip", "playnice", "nuzzle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pichu", level = 15, gender = "MALE", nature = "sassy", ability = "static", moveset = ["thundershock", "tailwhip", "playnice", "nuzzle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 18, gender = "FEMALE", nature = "sassy", ability = "static", moveset = ["nuzzle", "thundershock", "quickattack", "electroball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

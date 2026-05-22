@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0043_sage_chow",
+  "name": "Sage Chow",
+  "title": "Sage",
+  "gender": "any",
+  "archetype": "sage",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sage/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 3,
+  "maxLevel": 3,
+  "team": [
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We stand guard in this tower. Here, we express our gratitude to show our respect for all Pok\u00e9mon.",
+    "All living beings coexist through cooperation. We must always be thankful for this."
+  ]
+}

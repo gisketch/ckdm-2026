@@ -1,0 +1,33 @@
+{
+  "id": "rct_double_team_jo_038e",
+  "name": "Double Team Jo",
+  "title": "Double Team",
+  "gender": "any",
+  "archetype": "double_team",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "waterfall",
+        "crunch",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

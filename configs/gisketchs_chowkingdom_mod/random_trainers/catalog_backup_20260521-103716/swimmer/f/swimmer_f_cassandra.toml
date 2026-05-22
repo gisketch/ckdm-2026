@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_cassandra"
+name = "Swimmer Cassandra"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:finneon", level = 41, gender = "FEMALE", nature = "bashful", ability = "stormdrain", moveset = ["attract", "raindance", "gust", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 41, gender = "MALE", nature = "bold", ability = "drizzle", moveset = ["wingattack", "waterpulse", "stockpile", "swallow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Did you know, I was crowned the champion of a swimsuit contest! So now, I’m trying to win a title at a Pokémon Contest!", "I shouldn’t be worried about what bikini to wear. The first thing to do is consider what Pokémon I should be using!", "I have trained this team for the road. Challenge me if you are ready."]

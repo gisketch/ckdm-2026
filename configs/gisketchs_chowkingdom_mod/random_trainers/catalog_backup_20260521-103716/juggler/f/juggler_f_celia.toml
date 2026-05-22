@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_f_celia"
+name = "Juggler Celia"
+title = "Juggler"
+gender = "female"
+archetype = "juggler"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "juggler/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = "standard"
+minLevel = 34
+maxLevel = 34
+team = [
+  { species = "cobblemon:drowzee", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler from Fuchsia Gym is ready for a battle."]

@@ -1,0 +1,65 @@
+{
+  "id": "rct_commander_saturn_0420",
+  "name": "Commander Saturn",
+  "title": "Commander",
+  "gender": "any",
+  "archetype": "commander",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "reflect",
+        "psychic",
+        "raindance"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzor",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxicroak",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "dryskin",
+      "moveset": [
+        "mudslap",
+        "toxic",
+        "thief",
+        "brickbreak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

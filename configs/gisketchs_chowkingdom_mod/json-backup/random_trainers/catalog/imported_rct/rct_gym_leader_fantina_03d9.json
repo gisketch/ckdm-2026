@@ -1,0 +1,65 @@
+{
+  "id": "rct_gym_leader_fantina_03d9",
+  "name": "Gym Leader Fantina",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "drifblim",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "aftermath",
+      "moveset": [
+        "strengthsap",
+        "hex",
+        "fly",
+        "willowisp"
+      ],
+      "heldItem": "zoom_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowclaw",
+        "confuseray",
+        "sludgebomb",
+        "dazzlinggleam"
+      ],
+      "heldItem": "colbur_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mismagius",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "phantomforce",
+        "magicalleaf",
+        "dazzlinggleam"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

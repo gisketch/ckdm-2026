@@ -1,0 +1,88 @@
+{
+  "id": "pret_pokecrystal_blackbelt_003_kenji",
+  "name": "Blackbelt Kenji",
+  "title": "Blackbelt",
+  "gender": "any",
+  "archetype": "blackbelt",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "blackbelt/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 33,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bind",
+        "rockthrow",
+        "toxic",
+        "dig"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "headbutt",
+        "swagger",
+        "thunderpunch",
+        "vitalthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthquake",
+        "rockthrow",
+        "irontail",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmonlee",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doubleteam",
+        "hijumpkick",
+        "mudslap",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Blackbelt Kenji is ready for a battle."
+  ]
+}

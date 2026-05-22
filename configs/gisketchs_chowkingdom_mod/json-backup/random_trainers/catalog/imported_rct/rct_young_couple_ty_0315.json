@@ -1,0 +1,33 @@
+{
+  "id": "rct_young_couple_ty_0315",
+  "name": "Ty",
+  "title": "Young Couple",
+  "gender": "any",
+  "archetype": "young_couple",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "machop",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "focusenergy",
+        "lowsweep",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

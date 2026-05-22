@@ -1,0 +1,95 @@
+{
+  "id": "rct_friendly_coach_000b",
+  "name": "Friendly Coach (Def)",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 1,
+  "maxLevel": 1,
+  "team": [
+    {
+      "species": "coalossal",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "coalossal",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "coalossal",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "coalossal",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "coalossal",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "coalossal",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "flamebody",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -5,6 +5,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I weave two wards at once: one shimmering, one still. The overlap doubles the trap."
 response = "Clever. Use water threads next time. They hold longer against firebreath."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "My fire ward keeps wild blaze-cats out, but the rune burns out by midnight."
 response = "Add crushed nether quartz to the chalk. It anchors the cycle."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I froze a phantom inside my warning glyph. It still whispers."
 response = "Let it. A ward with a voice frightens looters more than silence."
+source_emote = "threaten"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "Stone pillars set in a star pattern jarred a skyland tremor today."
 response = "Excellent. Next time sink the pillars knee-deep in damp clay."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A gale ward turned a charging ravager sideways. It looked confused."
 response = "Wind blockades reward timing. Weave yours in three-second pulses."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I birthed an arcane eye that triggers only when magic is cast nearby."
 response = "Refine the eye to squint. Less mana drain, same alert."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A sunlight sigil dried a bog patch in minutes. Plants thrived."
 response = "Pair it with a moon sigil for balanced regrowth."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -68,17 +82,21 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "My water curtain ward washed away a phantom's trail completely."
 response = "Good. Now freeze the curtain edge to make it last longer."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_07_009"
 topic = "frost_rune_cascade"
 source_tags = ["wizard", "mentor"]
+required_spawned_ids = ["link"]
 target_tags = ["mentor"]
 line = "Three frost runes chained flared at once. Overkill for a single crow."
 response = "Link them in sequence, not parallel. Saves half the ether."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_07_010"
 topic = "air_cushion"
@@ -86,6 +104,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "An air cushion ward broke a falling stone block midair."
 response = "Tether it to a charged feather. It will hover longer."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I stretched a ward of thin ember threads across a cave mouth."
 response = "Thin threads snare small pests. For trolls use braided blaze-wool."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A damp clay ring around the well kept sneasels out all week."
 response = "Press crushed iron flakes into the clay. It grounds static."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "My ward echoes a harp chord when stepped on. Beautiful and loud."
 response = "Tune the chord to a minor third. Less false triggers from wind."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A mist barrier confused a pack of zubat until sunrise."
 response = "Mix moonwater into the mist. It clings to wings better."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A sunstone ward bathed my garden through the night. Crops doubled."
 response = "Cap the stone at half glow or the soil dries out."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "My gate asks for a riddle answer before unlatching."
 response = "Change the riddle weekly. Intruders share answers fast."
+source_emote = "speaking"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A frost mirror ward reflected a will-o-wisp back into the bog."
 response = "Polish it with snow salt. Smudged mirrors scatter the beam."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "Wind chimes tipped with arcane powder ring only for ill intent."
 response = "Add a pinch of glowstone dust. It lights up the intruder."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I taught a cobblestone to hum the last spell cast near it."
 response = "Use granite. It holds memory twice as long as cobble."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A lure ward made of bottled dawn drew a stray ponyta home."
 response = "Dim it gradually or the ponyta panics at threshold."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I stitched a torn ward with pure arcane thread. It held."
 response = "Excellent field fix. Carry pre-spun thread in waxed linen."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A water mark on the library door slides open only for scholars."
 response = "Bind it to ink, not water. Ink remembers the quill owner."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A tiny frost pin ward froze a burglar's lockpick solid."
 response = "Keep the pin on the latch plate. Door edges catch frostbite."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "My dust devil ward swept the training yard clean in seconds."
 response = "Tame the spin radius or it scatters practice dummies."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A fire brand ward on my staff deters thieves with a hiss."
 response = "Add dried sulfur to the brand. The smell lingers on hands."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "An earth dome ward sealed a falling debris pocket until help came."
 response = "Line the dome inner wall with moss. It purifies stale air."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "Foxfire wards along the path lit only for the patrol party."
 response = "Tie them to badge sigils. No badge, no glow."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A wind shear net ward caught a diving aerodactyl unharmed."
 response = "Soften the net knots with cloud cotton or it bruises wings."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I froze the threshold of the seed store. Only boots melted it."
 response = "Carve a hairline rune for bare paws. Helpless skiddos stay safe."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A cage of hard light held a raging gurdurr till it calmed."
 response = "Tint the light blue. It mimics twilight and soothes quicker."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "An arcane echo ward repeats the last shouted warning for hours."
 response = "Give it a cooldown gap or echoes overlap into noise."
+source_emote = "threaten"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A steam curtain cooked a slime that slid under the gate."
 response = "Direct the steam downward next time. Slimes leap high."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I shaped an air pane ward to block crossbow bolts."
 response = "Excellent. Reinforce its corners with woven feathergrass."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A chain of frost glyphs froze a rogue stream before the mill."
 response = "Break the chain before morning or the mill wheel cracks."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "All town wards hum in harmony now. We call it the dusk chord."
 response = "Beautiful. Record the chord. A mute ward can be spotted."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A moonlit puddle ward swallowed a gremlin ankle-deep."
 response = "Fill the puddle with silver sand next time. It grips faster."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "I bound a firebat to a charcoal stick ward. No more raids."
 response = "Replace the stick every new moon or it crumbles to ash."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "Living vine wards grew over the archery range fence. Arrows stick."
 response = "Train the vines to bow outward. Less arrow loss."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A brew vapor ward steeped the alchemy tent in calming mist."
 response = "Use only one herb per vapor. Mixed fumes can backfire."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A compass needle ward always points to the central plaza."
 response = "Anchor it with lodestone dust or it drifts after storms."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A rain skirt ward sheds water five paces from the shop door."
 response = "Taper the skirt arc or wind blows the rain sideways."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "Thirty ember hooves thundered past the ward but nothing burned."
 response = "You tuned the heat threshold perfectly. A gold star day."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A knotted rope ward tightens only when a grudge-bearer passes."
 response = "Dangerous. Unknot it with forgiveness water every fortnight."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A starlight circle ward feeds on skyland crystal echoes."
 response = "Magnificent. Set a backup sunstone in case of cloud cover."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "An ink veil ward blinds ill-wishers who stare too long."
 response = "Charge the ink with squid essence. Freshness matters."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A breeze corridor ward vents forge smoke straight up the cliff."
 response = "Line the corridor with soot-lily leaves. Filters ash."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A stillness basin ward stopped a tremor before it cracked the kiln."
 response = "Fine work. Now link it to the forge anvil for wider reach."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "A candle ward flickers when a shadow step enters the bakery."
 response = "Dip the wick in glowberry juice. No smoke, cleaner signal."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "An aura mirror ward shows a creature's temper before it charges."
 response = "Polish weekly with sand from the creature's own biome."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["wizard", "mentor"]
 target_tags = ["mentor"]
 line = "The town vault sings a hymn. Only the friendly hum back."
 response = "Teach the hymn to every mentor. One missed note locks all."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0

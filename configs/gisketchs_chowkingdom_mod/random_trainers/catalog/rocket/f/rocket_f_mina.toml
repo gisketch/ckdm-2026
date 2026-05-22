@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rocket_f_mina"
+name = "Rocket Mina"
+title = "Rocket"
+gender = "female"
+archetype = "rocket"
+region = "Kanto"
+category = "team"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "rocket/female"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = "standard"
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:machop", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drowzee", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rocket from Silph Co. 4F is ready for a battle."]

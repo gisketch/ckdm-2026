@@ -1,0 +1,40 @@
+{
+  "id": "rct_pokemaniac_winston_00a6",
+  "name": "Pok\u00e9maniac Winston",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:magneton",
+      "level": 34,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "mirrorshot",
+        "metalsound",
+        "electroball",
+        "flashcannon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

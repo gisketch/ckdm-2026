@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_cassandra_0378",
+  "name": "Swimmer Cassandra",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:finneon",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "stormdrain",
+      "moveset": [
+        "attract",
+        "raindance",
+        "gust",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "wingattack",
+        "waterpulse",
+        "stockpile",
+        "swallow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

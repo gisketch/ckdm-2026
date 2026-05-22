@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_allen",
+  "name": "Ace Trainer Male Allen",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightshade",
+        "suckerpunch",
+        "curse",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastly",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightshade",
+        "suckerpunch",
+        "hypnosis",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "shadowball",
+        "confuseray",
+        "curse",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What, were you just dawdling around hoping I\u2019d notice you for a battle? You know you\u2019re going to get whupped here, don\u2019t you?",
+    "I\u2019ll remember you and your shifty Pok\u00e9mon, too. I\u2019m watching you..."
+  ]
+}

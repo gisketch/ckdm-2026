@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_isabelle"
+name = "Picnicker Isabelle"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 47
+maxLevel = 50
+team = [
+  { species = "cobblemon:pidgeotto", level = 47, gender = "FEMALE", nature = "gentle", ability = "frisk", moveset = ["agility", "airslash", "mirrormove", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeotto", level = 47, gender = "FEMALE", nature = "naive", ability = "frisk", moveset = ["agility", "airslash", "mirrormove", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeot", level = 50, gender = "MALE", nature = "serious", ability = "frisk", moveset = ["agility", "airslash", "mirrormove", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Isabelle is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

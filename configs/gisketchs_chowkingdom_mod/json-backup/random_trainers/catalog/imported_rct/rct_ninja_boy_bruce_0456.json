@@ -1,0 +1,33 @@
+{
+  "id": "rct_ninja_boy_bruce_0456",
+  "name": "Ninja Boy Bruce",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "stunky",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "stench",
+      "moveset": [
+        "furyswipes",
+        "bite",
+        "venoshock",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

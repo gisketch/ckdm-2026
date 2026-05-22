@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "breeder_m_albert"
+name = "Breeder Albert"
+title = "Breeder"
+gender = "male"
+archetype = "breeder"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "breeder/male"
+tier = "high"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 51
+maxLevel = 51
+team = [
+  { species = "cobblemon:roserade", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:umbreon", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let me see how much you’ve raised your Pokémon.", "It’s obvious you raise your Pokémon with a lot of love.", "Breeder Male Albert is ready for a battle."]

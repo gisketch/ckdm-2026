@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0469_scientist_gs_mitch",
+  "name": "Scientist Gs Mitch",
+  "title": "Scientist Gs",
+  "gender": "any",
+  "archetype": "scientist_gs",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "scientist_gs/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:ditto",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I don\u2019t care that Pok\u00e9mon are hurt by our experiment.",
+    "If we turn up the power of our radio signal for broadcast nationwide... The very thought excites me!"
+  ]
+}

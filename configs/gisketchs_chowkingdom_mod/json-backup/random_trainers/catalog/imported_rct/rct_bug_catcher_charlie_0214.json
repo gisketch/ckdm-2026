@@ -1,0 +1,60 @@
+{
+  "id": "rct_bug_catcher_charlie_0214",
+  "name": "Bug Catcher Charlie",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 6,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "nincada",
+      "level": 6,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "scratch",
+        "harden",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spewpa",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "shedskin",
+      "moveset": [
+        "detect",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "metapod",
+      "level": 8,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "shedskin",
+      "moveset": [
+        "harden",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

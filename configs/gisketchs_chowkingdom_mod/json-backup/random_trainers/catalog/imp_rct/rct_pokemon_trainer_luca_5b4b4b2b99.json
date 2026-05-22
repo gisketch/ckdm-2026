@@ -1,0 +1,40 @@
+{
+  "id": "rct_pokemon_trainer_lucas_04cd",
+  "name": "Pok\u00e9mon Trainer Lucas",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "cobblemon:turtwig",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "withdraw",
+        "absorb",
+        "razorleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

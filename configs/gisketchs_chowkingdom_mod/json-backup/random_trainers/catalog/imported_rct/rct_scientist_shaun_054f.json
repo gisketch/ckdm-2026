@@ -1,0 +1,49 @@
+{
+  "id": "rct_scientist_shaun_054f",
+  "name": "Scientist Shaun",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "teleport",
+        "reflect",
+        "psyshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "disable",
+        "psybeam",
+        "psychocut",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_haley"
+name = "Swimmer Haley"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:marill", level = 31, gender = "MALE", nature = "bashful", ability = "thickfat", moveset = ["charm", "aquatail", "playrough", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:azumarill", level = 31, gender = "MALE", nature = "bashful", ability = "thickfat", moveset = ["tackle", "bubblebeam", "bounce", "playrough"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hi, wave-riding Trainer! How about a battle on the sea?", "Maybe I should switch to surfing, too...", "I have trained this team for the road. Challenge me if you are ready."]

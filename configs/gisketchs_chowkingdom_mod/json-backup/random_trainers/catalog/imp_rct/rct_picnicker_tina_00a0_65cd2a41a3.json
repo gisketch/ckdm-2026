@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_tina_00a0",
+  "name": "Picnicker Tina",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:breloom",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "feint",
+        "counter",
+        "forcepalm",
+        "mindreader"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:quilladin",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "bulletproof",
+      "moveset": [
+        "leechseed",
+        "pinmissile",
+        "takedown",
+        "seedbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

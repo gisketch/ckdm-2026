@@ -1,0 +1,65 @@
+{
+  "id": "rct_pi_carlos_051a",
+  "name": "PI Carlos",
+  "title": "Pi",
+  "gender": "any",
+  "archetype": "pi",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "waterveil",
+      "moveset": [
+        "tailwhip",
+        "supersonic",
+        "waterpulse",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "aquaring",
+        "waterfall",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterveil",
+      "moveset": [
+        "agility",
+        "flail",
+        "waterfall",
+        "horndrill"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

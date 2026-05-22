@@ -1,0 +1,104 @@
+{
+  "id": "rct_biker_ernest_00c5",
+  "name": "Biker Ernest",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:weezing",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "explosion",
+        "smog",
+        "painsplit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "willowisp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "thunderbolt",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:salazzle",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "corrosion",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "nastyplot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gengar",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "minimize",
+        "sludgebomb",
+        "shadowball",
+        "destinybond"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

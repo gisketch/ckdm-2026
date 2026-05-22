@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeplatinum_school_kid_mackenzie",
+  "name": "School Kid Female Mackenzie",
+  "title": "School Kid Female",
+  "gender": "female",
+  "archetype": "school_kid_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "school_kid_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.86,
+  "weight": 0.87,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:drifloon",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "payback",
+        "gust",
+        "astonish",
+        "minimize"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drifloon",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spitup",
+        "swallow",
+        "stockpile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Eek! That\u2019s so bright! Surprise attack!",
+    "I\u2019m going over the reasons why I lost. That way, I\u2019ll win next time."
+  ]
+}

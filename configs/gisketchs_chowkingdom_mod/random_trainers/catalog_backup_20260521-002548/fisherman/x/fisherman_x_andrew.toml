@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_andrew"
+name = "Fisherman Andrew"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii;Sinnoh"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "very_high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 88
+maxLevel = 91
+team = [
+  { species = "cobblemon:froslass", level = 88, gender = "FEMALE", nature = "timid", ability = "snowcloak", moveset = ["auroraveil", "blizzard", "shadowball", "freezedry"], heldItem = "['light_clay']", shiny = false, aspects = [] },
+  { species = "cobblemon:barbaracle", level = 91, gender = "MALE", nature = "jolly", ability = "toughclaws", moveset = ["shellsmash", "liquidation", "closecombat", "stoneedge"], heldItem = "['white_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:arctozolt", level = 89, gender = "GENDERLESS", nature = "naive", ability = "slushrush", moveset = ["boltbeak", "blizzard", "lowkick", "stoneedge"], heldItem = "['magnet']", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Andrew is ready for a battle.", "Nothing’s biting... I could use a break, I suppose.", "! Yank your fishing rod when that appears. That’s how you fish.", "I have trained this team for the road. Challenge me if you are ready."]

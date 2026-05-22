@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0047_youngster_mikey",
+  "name": "Youngster Mikey",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 2,
+  "maxLevel": 4,
+  "team": [
+    {
+      "species": "cobblemon:pidgey",
+      "level": 2,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rattata",
+      "level": 4,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You\u2019re a Pok\u00e9mon Trainer, right? Then you have to battle!",
+    "Becoming a good Trainer is really tough. I\u2019m going to battle other people to get better."
+  ]
+}

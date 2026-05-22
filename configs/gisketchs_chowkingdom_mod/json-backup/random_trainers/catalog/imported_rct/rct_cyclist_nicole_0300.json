@@ -1,0 +1,49 @@
+{
+  "id": "rct_cyclist_nicole_0300",
+  "name": "Cyclist Nicole",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "starly",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ponyta",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

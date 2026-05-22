@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_theodore"
+name = "Hiker Theodore"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "high"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:steelix", level = 57, gender = "MALE", nature = "impish", ability = "sturdy", moveset = ["screech", "stealthrock", "sandstorm", "stoneedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:steelix", level = 59, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["crunch", "dig", "stoneedge", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Theodore is ready for a battle.", "Whoa! You startled me! Well, we may as well battle!", "We Hikers are bighearted guys! Losing doesn’t bother us!", "I have trained this team for the road. Challenge me if you are ready."]

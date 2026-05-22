@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_x_ravonna"
+name = "Mega Trainer Ravonna"
+title = "Mega Trainer"
+gender = "any"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 75
+maxLevel = 75
+team = [
+  { species = "cobblemon:kangaskhan", level = 75, gender = "FEMALE", nature = "impish", ability = "innerfocus", moveset = ["circlethrow", "suckerpunch", "wish", "protect"], heldItem = "['rocky_helmet']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_hiker_robert",
+  "name": "Hiker Robert",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:nosepass",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Gahahaha! You\u2019re just a little kid! How\u2019re you supposed to beat a big man like me?",
+    "Wow, you\u2019re sure impressive! I guess it makes no difference if you\u2019re young or old in battles."
+  ]
+}

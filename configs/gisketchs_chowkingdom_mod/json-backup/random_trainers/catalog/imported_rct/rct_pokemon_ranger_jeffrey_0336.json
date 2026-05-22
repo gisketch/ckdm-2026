@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_jeffrey_0336",
+  "name": "Pokémon Ranger Jeffrey",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "prinplup",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "charm",
+        "peck",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "prinplup",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "torrent",
+      "moveset": [
+        "metalclaw",
+        "tackle",
+        "peck",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

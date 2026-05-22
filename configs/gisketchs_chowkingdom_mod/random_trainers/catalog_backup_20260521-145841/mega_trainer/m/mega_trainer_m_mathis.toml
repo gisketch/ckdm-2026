@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_m_mathis"
+name = "Mega Trainer Mathis"
+title = "Mega Trainer"
+gender = "male"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 52
+maxLevel = 53
+team = [
+  { species = "cobblemon:hawlucha", level = 52, gender = "FEMALE", nature = "jolly", ability = "limber", moveset = ["flyingpress", "skydrop", "rockslide", "quickguard"], heldItem = "['black_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 53, gender = "FEMALE", nature = "adamant", ability = "scrappy", moveset = ["dizzypunch", "jumpkick", "brutalswing", "fakeout"], heldItem = "['mega_showdown:lopunnite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

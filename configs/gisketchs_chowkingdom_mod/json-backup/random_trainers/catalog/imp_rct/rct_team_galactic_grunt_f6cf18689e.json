@@ -1,0 +1,54 @@
+{
+  "id": "rct_team_galactic_grunt_03c6",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 10,
+  "maxLevel": 10,
+  "team": [
+    {
+      "species": "cobblemon:wurmple",
+      "level": 10,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:glameow",
+      "level": 10,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "scratch",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

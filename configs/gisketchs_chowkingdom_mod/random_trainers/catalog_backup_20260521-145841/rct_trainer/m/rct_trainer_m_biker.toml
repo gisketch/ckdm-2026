@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_m_biker"
+name = "Rct Trainer Biker"
+title = "Rct Trainer"
+gender = "male"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/male"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:ekans", level = 5, gender = "FEMALE", nature = "modest", ability = "intimidate", moveset = ["wrap", "leer", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

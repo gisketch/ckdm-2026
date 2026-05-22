@@ -1,0 +1,32 @@
+{
+  "id": "rct_camper_curtis_03a3",
+  "name": "Camper Curtis",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "shinx",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "intimidate",
+      "moveset": [
+        "tackle",
+        "leer",
+        "thundershock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

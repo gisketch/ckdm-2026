@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_f_tasha"
+name = "Channeler Tasha"
+title = "Channeler"
+gender = "female"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 53
+maxLevel = 55
+team = [
+  { species = "cobblemon:gengar", level = 55, gender = "MALE", nature = "hasty", ability = "levitate", moveset = ["dreameater", "darkpulse", "destinybond", "hex"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:xatu", level = 54, gender = "MALE", nature = "serious", ability = "earlybird", moveset = ["psychoshift", "futuresight", "powerswap", "guardswap"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:froslass", level = 53, gender = "FEMALE", nature = "hardy", ability = "snowcloak", moveset = ["captivate", "bittermalice", "frostbreath", "blizzard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Tasha is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

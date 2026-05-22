@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "parasol_lady_f_angelica"
+name = "Parasol Lady Angelica"
+title = "Parasol Lady"
+gender = "female"
+archetype = "parasol_lady"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "parasol_lady/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.9
+bustStyle = "standard"
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:castform", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["raindance", "weatherball", "thunder", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Parasol Lady Angelica is ready for a battle."]

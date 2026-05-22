@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_f_beverly"
+name = "Pokefan Beverly"
+title = "Pokefan"
+gender = "female"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/female"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = "standard"
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:granbull", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Pokémon is simply darling. Let me tell you how proud my darling makes me.", "I must say, your Pokémon are quite cute, too.", "Pokefan Beverly is ready for a battle."]

@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemaniac_cooprt_00a4",
+  "name": "Pokémaniac Cooprt",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "mightyena",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "poisonfang",
+        "assurance",
+        "scaryface",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flareon",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "flashfire",
+      "moveset": [
+        "firefang",
+        "firespin",
+        "scaryface",
+        "smog"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "porygon",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "docile",
+      "ability": "trace",
+      "moveset": [
+        "recover",
+        "magnetrise",
+        "signalbeam",
+        "recycle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

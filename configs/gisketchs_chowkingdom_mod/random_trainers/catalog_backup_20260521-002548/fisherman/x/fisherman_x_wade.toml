@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_wade"
+name = "Fisherman Wade"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 62
+maxLevel = 70
+team = [
+  { species = "cobblemon:magikarp", level = 70, gender = "FEMALE", nature = "gentle", ability = "swiftswim", moveset = ["splash", "tackle", "flail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:feebas", level = 70, gender = "FEMALE", nature = "bold", ability = "swiftswim", moveset = ["splash", "tackle", "flail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 64, gender = "MALE", nature = "naughty", ability = "intimidate", moveset = ["dragondance", "hurricane", "raindance", "hyperbeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:milotic", level = 63, gender = "FEMALE", nature = "lax", ability = "marvelscale", moveset = ["safeguard", "coil", "hydropump", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:alomomola", level = 62, gender = "FEMALE", nature = "jolly", ability = "healer", moveset = ["whirlpool", "helpinghand", "healingwish", "wideguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:luvdisc", level = 65, gender = "MALE", nature = "modest", ability = "swiftswim", moveset = ["lovelykiss", "soak", "hydropump", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Wade is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

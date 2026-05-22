@@ -1,0 +1,81 @@
+{
+  "id": "rct_super_nerd_aavery_00b2",
+  "name": "Super Nerd Aavery",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 71,
+  "maxLevel": 73,
+  "team": [
+    {
+      "species": "heatmor",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "gluttony",
+      "moveset": [
+        "spitup",
+        "swallow",
+        "flareblitz",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "firespin",
+        "inferno",
+        "heatwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "talonflame",
+      "level": 73,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "flamebody",
+      "moveset": [
+        "mefirst",
+        "tailwind",
+        "steelwing",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "oricorio",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "dancer",
+      "moveset": [
+        "mirrormove",
+        "agility",
+        "hurricane",
+        "quiverdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

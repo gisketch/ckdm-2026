@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_ernest"
+name = "Ace Trainer Ernest"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 31
+maxLevel = 34
+team = [
+  { species = "cobblemon:scyther", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["slash", "wingattack", "pursuit", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:probopass", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderwave", "rockslide", "magnetbomb", "irondefense"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:luxio", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "crunch", "swagger", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You seem to have a lot of confidence. Let’s see if it’s justified!", "You seem to have an abundance of talent. It’s pretty amazing.", "I have trained this team for the road. Challenge me if you are ready."]

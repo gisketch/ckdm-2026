@@ -1,0 +1,55 @@
+{
+  "id": "rct_aroma_lady_teighler_02ef",
+  "name": "Aroma Lady Teighler",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:budew",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cherubi",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "morningsun",
+        "tackle",
+        "leafage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

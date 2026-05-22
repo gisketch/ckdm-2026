@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_benny"
+name = "Bug Catcher Benny"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 7
+maxLevel = 12
+team = [
+  { species = "cobblemon:weedle", level = 7, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kakuna", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 12, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Benny is ready for a battle.", "Bug Pokémon evolve young. So they get stronger that much faster.", "If you want to meet the Gym Leader, you have to move the web using the switch."]

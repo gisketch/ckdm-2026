@@ -5,6 +5,8 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["town", "mentor"]
 line = "I noticed habitat temperature shifts egg shell patterns by at least three variants."
 response = "Fascinating. Our old notes didn't track ambient substrate at all. Let's log it."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -14,197 +16,241 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["town", "mentor"]
 line = "Fresh hatched Wooloo recorded my whistle and returned the exact pitch this morning."
 response = "That means imprint windows open earlier than we thought. Add it to the nursery guide."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_14_003"
 topic = "nocturnal_berry_preference"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["marceline"]
 target_tags = ["marceline"]
 line = "Marceline, do wild Hoothoot prefer lum berries because of your night aura?"
 response = "They flutter closer when I hum. It might be the berry's glow matching my resonance."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_004"
 topic = "river_mineral_migration"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["katara"]
 target_tags = ["katara"]
 line = "Katara, we tracked Piplup following mineral veins right through the skyland falls."
 response = "The water here carries trace electrum. They're using it to preen waterproof coats."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_005"
 topic = "cave_spore_cycle"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["toph"]
 target_tags = ["toph"]
 line = "Toph, you sensed that Paras colony vibrating in the deep shelf. What rhythm?"
 response = "Thrum matched dripping flowstone tempo. They're farming fungi on seismic beat cycles."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_006"
 topic = "flight_ceiling_skyloft"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["aang"]
 target_tags = ["aang"]
 line = "Aang, do wild Swablu glide above the loft clouds with the same currents you ride?"
 response = "They spiral my tailwind perfectly. The loft thermals lift them to rest midair."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_007"
 topic = "flame_sac_calibration"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["zuko"]
 target_tags = ["zuko"]
 line = "Zuko, does a Charmander's tail flame respond to your breath control exercises?"
 response = "It dims when I exhale slow, then flares bright on snap ignition. Controlled fuel."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_008"
 topic = "powder_snow_dormancy"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["elsa"]
 target_tags = ["elsa"]
 line = "Elsa, your frost flakes triggered a Snorunt to burrow instead of fleeing. Why?"
 response = "My powder mimics seasonal cover. They think winter arrived early and dig in."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_009"
 topic = "arcane_scent_lure"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["invoker"]
 target_tags = ["invoker"]
 line = "Invoker, your summoned orbs attract Abra like a beacon. What scent do they emit?"
 response = "Diluted dream mist residue. Young Abra feed on latent psychic dew around orbs."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_010"
 topic = "sword_blade_resonance"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["link"]
 target_tags = ["link"]
 line = "Link, Honedge hover closer every time you draw the restored blade. Coincidence?"
 response = "They sense blade memory. The sword's light edge hums a tone they respect."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_011"
 topic = "dragon_scale_shedding"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["zelda"]
 target_tags = ["zelda"]
 line = "Zelda, Dragonair scales we found match the Light Dragon's old shed pattern."
 response = "Yes, the iridescence is near identical. They share a distant sky spirit lineage."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_012"
 topic = "blade_training_distraction"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["finn"]
 target_tags = ["finn"]
 line = "Finn, your clashing drills sent Dunsparce into a happy burrow frenzy. Why?"
 response = "Rhythmic thuds mimic ground type courtship. They think it's a festival down there."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_013"
 topic = "arrow_shadow_tracking"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["huntress_wizard"]
 line = "Huntress, your spectral arrows made Noctowl track the afterimage, not the shaft."
 response = "They hunt echo essence. The shadow trail holds more weight than wood for them."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_014"
 topic = "witcher_sign_stimulus"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["ciri"]
 target_tags = ["ciri"]
 line = "Ciri, your Quen pulse startled a Riolu into an aura burst. Was that a reflex?"
 response = "It read my shield as a challenge pulse. Riolu answered with a flare of its own."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_015"
 topic = "elixir_bait_behavior"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["geralt"]
 target_tags = ["geralt"]
 line = "Geralt, diluted Swallow potion on bait drew Breloom from deep thickets. Toxin link?"
 response = "Breloom absorb fermented catalysts. My potion base mimics jungle rot they crave."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_016"
 topic = "staff_light_mimicry"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["gandalf"]
 line = "Gandalf, your staff light pulsed and a Volbeat flock matched the cadence exactly."
 response = "They interpret my beacon as a rival swarm leader. Beautiful negotiation of glow."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_017"
 topic = "parkour_ledges_nest"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["ezio"]
 target_tags = ["ezio"]
 line = "Ezio, your rooftop dash dislodged a Fletchling nest into a perfect perch leap."
 response = "The fledgling used my vault momentum as a flight lesson. Quick learner, that one."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_018"
 topic = "trap_trigger_curiosity"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["aloy"]
 target_tags = ["aloy"]
 line = "Aloy, your tripcaster wires caught a curious Sentret grooming the tension line."
 response = "Sentret treat taut wires as communal grooming posts. It's a social stop for them."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_019"
 topic = "elf_path_migration"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["legolas"]
 target_tags = ["legolas"]
 line = "Legolas, the Stantler herd follows your forest path exactly, even around boulders."
 response = "Elf stride leaves no crushed moss. They trust the green silence I preserve."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_020"
 topic = "tundra_stalk_mimic"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["traxex"]
 target_tags = ["traxex"]
 line = "Traxex, your drift stalk posture made a Glaceon mirror your steps perfectly. Why?"
 response = "Glaceon learn by shadowing apex hunters. My stance reads as pack leader drill."
+source_emote = "head_scratches"
+target_emote = "hands_in_back"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_021"
 topic = "song_note_translation"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["venti"]
 target_tags = ["venti"]
 line = "Venti, your lyre trill got a Chatot to repeat the tune with added harmony. Intentional?"
 response = "It's a duet offer. Chatot like improvising over bard strings. We should record it."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_022"
 topic = "gauntlet_pressure_gauge"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["vi"]
 target_tags = ["vi"]
 line = "Vi, your gauntlet ground impact registered on our seismograph via Diglett echoes."
 response = "They ping back pressure waves. It's like they're mapping the forge below us."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_023"
 topic = "holy_incense_attract"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["tarnished"]
 line = "Tarnished, your sacred order incense pulled a Ralts from the mist. Why now?"
 response = "It senses the old gold in the censer. Ralts trust relics. They read intent, not words."
+source_emote = "hands_in_back"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_024"
 topic = "benediction_calm_effect"
@@ -212,17 +258,21 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["pope_leo"]
 line = "Father Leo, your dawn benediction settled an agitated Primeape in seconds. How?"
 response = "Structured blessing rhythm mimics maternal heartbeat. Primeape yield to steady calm."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_14_025"
 topic = "frenzy_aftermath_nest"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["zagreus"]
 line = "Zagreus, after your spar a Litleo claimed the scorched ring as a sunning spot."
 response = "Residual heat from my dash makes perfect basking stone. Litleo know good turf."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_026"
 topic = "perfume_confusion_ward"
@@ -230,6 +280,8 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["shoumai"]
 line = "Shoumai, your experimental petal blend confused a Spinda into peaceful circles."
 response = "Spinda navigate by scent trails. My perfume looped their path into safe spirals."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["bubblegum"]
 line = "Bubblegum, Snubbull refuse standard balls but accept your pink lacquer shell."
 response = "The cosmetic coat masks the metallic tang. They prefer berry-scented resin."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -248,80 +302,98 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["town"]
 line = "I'm reformulating berry rations. The Sitrus to Oran ratio needs field testing."
 response = "Take a batch to the east meadow. The wild Skiddo there are gentle tasters."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_14_029"
 topic = "egg_warming_shift"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["zuko"]
 target_tags = ["fire_wizard"]
 line = "Zuko, could you rotate the egg incubator with low warmth during the night cycle?"
 response = "Set it to a slow ember wave. I'll pulse it gently so shells stay even."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_030"
 topic = "float_stone_migration"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["aang"]
 target_tags = ["wind_wizard"]
 line = "Aang, the Drifloon cluster drifts exactly along your morning meditation route. Why?"
 response = "My breathing lifts light air masses. They ride the calm pressure dome I create."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_031"
 topic = "mud_habitat_mapping"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["toph"]
 target_tags = ["earth_wizard"]
 line = "Toph, can you feel Barboach nests in the river silt without disturbing them?"
 response = "They vibrate a soft gurgle. I'll draw you a mud map by noon. No digging needed."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_032"
 topic = "frost_berry_storage"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["elsa"]
 target_tags = ["frost_wizard"]
 line = "Elsa, the perishable berry crate needs a stable cold shelf. Can you set a layer?"
 response = "I'll lay a thin frost shelf that won't burn the skins. It holds exactly two days."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_033"
 topic = "teleport_dream_shield"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["invoker"]
 target_tags = ["arcane_wizard"]
 line = "Invoker, Abra keep teleporting into the lab. Can you anchor a soft dream barrier?"
 response = "I'll weave a gentle psychic net. They'll snooze outside but stay safe from rain."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_034"
 topic = "sword_repel_ghost"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["link"]
 target_tags = ["link"]
 line = "Link, can you unsheathe the sword near the dusk grove? Gastly scatter politely."
 response = "The blade glow asserts a boundary. They respect it without any malice. It's safe."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_035"
 topic = "sky_blessing_aerial"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["zelda"]
 target_tags = ["zelda"]
 line = "Zelda, wild Togetic gather when you bless the loft shrine. Is that a sky signal?"
 response = "My light prayer resonates with their wing scales. They circle in appreciation."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_036"
 topic = "bard_whistle_catalog"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["venti"]
 target_tags = ["venti"]
 line = "Venti, we're cataloging Jigglypuff lullaby frequencies. Can you notate them?"
 response = "Easy. Their puff melodies sit in a low breeze register. I'll score them tonight."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_037"
 topic = "scent_marking_resource"
@@ -329,121 +401,150 @@ source_tags = ["pokemon", "researcher", "cobblemon_biology"]
 target_tags = ["shoumai"]
 line = "Shoumai, Zangoose sniff your accessory case daily. Is there a citrus musk?"
 response = "Yes, the pomander blend has Seviper-repelling zest. They check it for news."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_14_038"
 topic = "shield_practice_bond"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["tarnished"]
 line = "Tarnished, your shield drill drew a Shieldon from the excavation. It mirrored you."
 response = "It tested its guard against my stance. Steady pressure taught it a new brace."
+source_emote = "proud"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_039"
 topic = "nocturnal_pollen_trail"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["marceline"]
 target_tags = ["marceline"]
 line = "Marceline, Morelull follow your midnight flight path in a glowing line. Purposeful?"
 response = "They sip the star motes my cape sheds. Harmless hitchhikers, they just glow along."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_040"
 topic = "archer_sky_sentry"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["huntress_wizard"]
 line = "Huntress, the Pidgeotto pair patrols the same air rings you use for range drills."
 response = "They adopted my overwatch arcs. Now they signal intruders before I draw."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_041"
 topic = "river_otter_escort"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["katara"]
 target_tags = ["water_wizard"]
 line = "Katara, Buizel escort your healing boat every evening. Do they expect something?"
 response = "They just like riding the gentle wake I bend. It's their free water slide service."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_042"
 topic = "warrior_stance_train"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["finn"]
 target_tags = ["finn"]
 line = "Finn, your sword drill cadence made a Farfetch'd practice its leek swing alongside."
 response = "It's copying my pattern. Little warrior bird just wants to sharpen its technique."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_043"
 topic = "silver_dust_curious"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["geralt"]
 target_tags = ["geralt"]
 line = "Geralt, your silver sword polish leaves dust that Mawile collect in their jaw."
 response = "Silver particulate might sharpen their horn edges. I'll leave a clean sample."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_044"
 topic = "blink_dash_follow"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["ciri"]
 target_tags = ["ciri"]
 line = "Ciri, your dash left a faint trail that an Eevee mimicked with Quick Attack."
 response = "Eevee learn movement by copying speed vectors. That one has good potential."
+source_emote = "threaten"
+target_emote = "head_scratches"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_045"
 topic = "staff_bridge_perch"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["gandalf"]
 line = "Gandalf, Pikipek use your staff as a bridge perch during rest hour. Allowed?"
 response = "They're light as leaves. Let them rest, it's a small kindness between journeys."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_046"
 topic = "rogue_silent_gait"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["ezio"]
 target_tags = ["ezio"]
 line = "Ezio, wild Meowth follow your rooftop route without a single tile click. Trained?"
 response = "They studied my foot placement. City Meowth are natural apprentices of silence."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_047"
 topic = "bounty_trap_food"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["aloy"]
 target_tags = ["aloy"]
 line = "Aloy, your supply cache attracted a Teddiursa who opened the latch cleanly. Smart?"
 response = "It smelled the honeycomb and solved the slide bolt. Clever paws on that one."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_048"
 topic = "tundra_archer_call"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["traxex"]
 target_tags = ["traxex"]
 line = "Traxex, the Cubchoo pack echoes your frost breath pattern during morning drills."
 response = "They mimic the steam shape. It's their way of warming up before hunting weald."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_049"
 topic = "war_archer_flock"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["legolas"]
 target_tags = ["legolas"]
 line = "Legolas, your volley whistle brings a Starly flock to perch on the target posts."
 response = "They follow the flight path of every arrow. Young Starly learn wind drift that way."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_14_050"
 topic = "guardian_spirit_dance"
 source_tags = ["pokemon", "researcher", "cobblemon_biology"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["zagreus"]
 line = "Zagreus, a Riolu shadowboxes your footwork after every arena bout. See it?"
 response = "It's got fighter spirit. Riolu memorize combos from anyone who leaves the ring."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0

@@ -1,0 +1,56 @@
+{
+  "id": "rct_skier_bjorn_0559",
+  "name": "Skier Bjorn",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "skier/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:mantine",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "waterabsorb",
+      "moveset": [
+        "psybeam",
+        "roost",
+        "bubblebeam",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sneasel",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "metalclaw",
+        "icywind",
+        "furyswipes",
+        "honeclaws"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

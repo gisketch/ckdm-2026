@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_allison_054a",
+  "name": "Pokémon Ranger Allison",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "ambipom",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "dualchop",
+        "tickle",
+        "doublehit",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "bounce",
+        "playrough",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

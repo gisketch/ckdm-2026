@@ -1,0 +1,81 @@
+{
+  "id": "rct_leader_vega_05ab",
+  "name": "Leader Vega",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "liepard",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "unburden",
+      "moveset": [
+        "thief",
+        "playrough",
+        "fakeout",
+        "pursuit"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "absol",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "knockoff",
+        "psychocut",
+        "feint",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "pressure",
+      "moveset": [
+        "punishment",
+        "iceshard",
+        "swagger",
+        "fakeout"
+      ],
+      "heldItem": "dark_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "honchkrow",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "superluck",
+      "moveset": [
+        "punishment",
+        "aircutter",
+        "nightshade",
+        "swagger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

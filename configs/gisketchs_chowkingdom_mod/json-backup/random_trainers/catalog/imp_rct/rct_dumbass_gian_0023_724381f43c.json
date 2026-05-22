@@ -1,0 +1,145 @@
+{
+  "id": "rct_dumbass_gian_0023",
+  "name": "Silly Gian",
+  "title": "Silly",
+  "gender": "any",
+  "archetype": "silly",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "silly/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:magearna",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "soulheart",
+      "moveset": [
+        "helpinghand",
+        "moonblast",
+        "flashcannon",
+        "protect"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": [
+        "original"
+      ]
+    },
+    {
+      "species": "cobblemon:swampert",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "damp",
+      "moveset": [
+        "highhorsepower",
+        "icepunch",
+        "waterfall",
+        "flipturn"
+      ],
+      "heldItem": [
+        "mega_showdown:swampertite",
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:necrozma",
+      "level": 91,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "prismarmor",
+      "moveset": [
+        "sunsteelstrike",
+        "dragondance",
+        "stoneedge",
+        "psychicfangs"
+      ],
+      "heldItem": [
+        "mega_showdown:solganium_z",
+        "steel_gem"
+      ],
+      "shiny": false,
+      "aspects": [
+        "dusk_mane"
+      ]
+    },
+    {
+      "species": "cobblemon:greninja",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "battlebond",
+      "moveset": [
+        "watershuriken",
+        "darkpulse",
+        "icebeam",
+        "hydropump"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "ash"
+      ]
+    },
+    {
+      "species": "cobblemon:palkia",
+      "level": 91,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "hydropump",
+        "spacialrend",
+        "thunder",
+        "aurasphere"
+      ],
+      "heldItem": [
+        "mega_showdown:lustrous_orb",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "origin"
+      ]
+    },
+    {
+      "species": "cobblemon:shaymin",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "seedflare",
+        "hurricane",
+        "earthpower",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "choice_specs"
+      ],
+      "shiny": false,
+      "aspects": [
+        "sky"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

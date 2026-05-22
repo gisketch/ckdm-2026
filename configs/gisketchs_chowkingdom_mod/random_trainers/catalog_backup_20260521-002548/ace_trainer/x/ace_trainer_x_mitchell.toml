@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_mitchell"
+name = "Ace Trainer Mitchell"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:lunatone", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["explosion", "reflect", "lightscreen", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:solrock", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["explosion", "reflect", "lightscreen", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Mitchell is ready for a battle."]

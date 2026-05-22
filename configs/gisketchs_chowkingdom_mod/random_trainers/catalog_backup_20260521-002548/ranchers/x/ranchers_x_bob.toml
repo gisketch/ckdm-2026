@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranchers_x_bob"
+name = "Ranchers Bob"
+title = "Ranchers"
+gender = "any"
+archetype = "ranchers"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ranchers/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:buizel", level = 19, gender = "MALE", nature = "relaxed", ability = "swiftswim", moveset = ["growl", "quickattack", "watergun", "bite"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

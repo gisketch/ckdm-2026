@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_gs_m_ross"
+name = "Scientist Gs Ross"
+title = "Scientist Gs"
+gender = "male"
+archetype = "scientist_gs"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "scientist_gs/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = ""
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:koffing", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I used to work for Silph, but now I run research for Team Rocket. A meddlesome child like you needs to be punished.", "A radio signal that drives Pokémon mad... My experiment is a complete success. My promotion is assured. This loss means absolutely nothing."]

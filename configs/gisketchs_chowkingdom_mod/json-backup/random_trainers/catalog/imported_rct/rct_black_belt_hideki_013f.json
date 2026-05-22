@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_belt_hideki_013f",
+  "name": "Black Belt Hideki",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "conkeldurr",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "guts",
+      "moveset": [
+        "rockslide",
+        "dynamicpunch",
+        "scaryface",
+        "hammerarm"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "breloom",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "effectspore",
+      "moveset": [
+        "forcepalm",
+        "mindreader",
+        "skyuppercut",
+        "seedbomb"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

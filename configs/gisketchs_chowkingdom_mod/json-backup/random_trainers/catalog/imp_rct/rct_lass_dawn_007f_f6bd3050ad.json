@@ -1,0 +1,56 @@
+{
+  "id": "rct_lass_dawn_007f",
+  "name": "Lass Dawn",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 27,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:kirlia",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "synchronize",
+      "moveset": [
+        "magicalleaf",
+        "healpulse",
+        "drainingkiss",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:morpeko",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hungerswitch",
+      "moveset": [
+        "powertrip",
+        "quickattack",
+        "flatter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

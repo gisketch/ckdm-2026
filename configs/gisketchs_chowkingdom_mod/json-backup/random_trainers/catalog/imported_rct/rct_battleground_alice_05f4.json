@@ -1,0 +1,115 @@
+{
+  "id": "rct_battleground_alice_05f4",
+  "name": "Battleground Alice",
+  "title": "Battleground",
+  "gender": "any",
+  "archetype": "battleground",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": [
+        "bravebird",
+        "doubleedge",
+        "closecombat",
+        "uturn"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gliscor",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "poisonheal",
+      "moveset": [
+        "earthquake",
+        "rockslide",
+        "toxic",
+        "protect"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skarmory",
+      "level": 81,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "bravebird",
+        "whirlwind",
+        "roost",
+        "defog"
+      ],
+      "heldItem": "rocky_helmet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "archeops",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "klutz",
+      "moveset": [
+        "dualwingbeat",
+        "stoneedge",
+        "earthquake",
+        "aquatail"
+      ],
+      "heldItem": "mega_showdown:groundium_z ground_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeot",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "noguard",
+      "moveset": [
+        "hurricane",
+        "heatwave",
+        "ominouswind",
+        "workup"
+      ],
+      "heldItem": "mega_showdown:pidgeotite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "thundurus",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunderbolt",
+        "incinerate",
+        "hiddenpower",
+        "nastyplot"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": [
+        "therian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

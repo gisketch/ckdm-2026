@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_ray_04b6",
+  "name": "Black Belt Ray",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "tyrogue",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "steadfast",
+      "moveset": [
+        "tackle",
+        "helpinghand",
+        "fakeout",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marowak",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "bonemerang",
+        "bonerush",
+        "thrash",
+        "stompingtantrum"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "breloom",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "poisonheal",
+      "moveset": [
+        "spore",
+        "drainpunch",
+        "leechseed",
+        "machpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

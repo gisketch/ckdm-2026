@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "executivef_x_executive"
+name = "Executivef Executive"
+title = "Executivef"
+gender = "any"
+archetype = "executivef"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "executivef/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:arbok", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["wrap", "poisonsting", "bite", "glare"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vileplume", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["absorb", "sweetscent", "sleeppowder", "acid"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:murkrow", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["peck", "pursuit", "haze", "nightshade"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Executivef Executive is ready for a battle."]

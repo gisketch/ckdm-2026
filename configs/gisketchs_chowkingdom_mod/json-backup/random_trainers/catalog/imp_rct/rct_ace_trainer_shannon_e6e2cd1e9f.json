@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_shannon_0195",
+  "name": "Ace Trainer Shannon",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:beedrill",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swarm",
+      "moveset": [
+        "pinmissile",
+        "twineedle",
+        "agility",
+        "pursuit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:butterfree",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "compoundeyes",
+      "moveset": [
+        "safeguard",
+        "psybeam",
+        "gust",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:parasect",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "dryskin",
+      "moveset": [
+        "spore",
+        "leechlife",
+        "slash",
+        "growth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:venonat",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "tintedlens",
+      "moveset": [
+        "psybeam",
+        "stunspore",
+        "leechlife",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:venomoth",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "tintedlens",
+      "moveset": [
+        "psybeam",
+        "gust",
+        "supersonic",
+        "leechlife"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

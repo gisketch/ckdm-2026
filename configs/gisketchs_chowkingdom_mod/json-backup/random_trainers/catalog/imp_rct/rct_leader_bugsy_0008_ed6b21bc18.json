@@ -1,0 +1,133 @@
+{
+  "id": "rct_leader_bugsy_0008",
+  "name": "Bugsy",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 93,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "cobblemon:kleavor",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "stealthrock",
+        "rockblast",
+        "uturn",
+        "bulldoze"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:scizor",
+      "level": 97,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "bulletpunch",
+        "dualwingbeat",
+        "uturn",
+        "rocksmash"
+      ],
+      "heldItem": [
+        "mega_showdown:scizorite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:scyther",
+      "level": 96,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "swordsdance",
+        "dualwingbeat",
+        "bugbite",
+        "rocksmash"
+      ],
+      "heldItem": [
+        "eviolite"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heracross",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moxie",
+      "moveset": [
+        "megahorn",
+        "closecombat",
+        "stoneedge",
+        "bulletseed"
+      ],
+      "heldItem": [
+        "coba_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:araquanid",
+      "level": 94,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterbubble",
+      "moveset": [
+        "xscissor",
+        "liquidation",
+        "protect",
+        "toxic"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vikavolt",
+      "level": 96,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "thunder",
+        "bugbuzz",
+        "voltswitch",
+        "energyball"
+      ],
+      "heldItem": [
+        "magnet"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

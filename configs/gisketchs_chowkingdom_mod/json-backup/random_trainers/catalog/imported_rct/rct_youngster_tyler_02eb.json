@@ -1,0 +1,45 @@
+{
+  "id": "rct_youngster_tyler_02eb",
+  "name": "Youngster Tyler",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "magikarp",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "swiftswim",
+      "moveset": [
+        "splash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starly",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "tackle",
+        "growl",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

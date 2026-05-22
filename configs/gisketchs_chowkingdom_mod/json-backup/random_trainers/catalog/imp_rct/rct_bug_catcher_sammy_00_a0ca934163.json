@@ -1,0 +1,39 @@
+{
+  "id": "rct_bug_catcher_sammy_0068",
+  "name": "Bug Catcher Sammy",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:grubbin",
+      "level": 9,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "swarm",
+      "moveset": [
+        "visegrip",
+        "stringshot",
+        "mudslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

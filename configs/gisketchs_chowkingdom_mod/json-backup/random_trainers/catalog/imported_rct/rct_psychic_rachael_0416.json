@@ -1,0 +1,33 @@
+{
+  "id": "rct_psychic_rachael_0416",
+  "name": "Psychic Rachael",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "psyduck",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "confusion",
+        "furyswipes",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

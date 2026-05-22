@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0683_ace_trainer_female_salma",
+  "name": "Ace Trainer Female Salma",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 50,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:slowking",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "surf",
+        "psychic",
+        "flamethrower",
+        "trickroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lickilicky",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "wringout",
+        "thunderbolt",
+        "earthquake",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What do you think? You\u2019ve never seen such a wonderful Gym before, have you?",
+    "There are many kinds of Gyms in the world, but I really like this one!"
+  ]
+}

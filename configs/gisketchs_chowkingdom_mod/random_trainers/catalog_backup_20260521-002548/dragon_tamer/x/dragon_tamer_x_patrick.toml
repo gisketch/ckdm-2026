@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_x_patrick"
+name = "Dragon Tamer Patrick"
+title = "Dragon Tamer"
+gender = "any"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 63
+maxLevel = 63
+team = [
+  { species = "cobblemon:gabite", level = 63, gender = "FEMALE", nature = "jolly", ability = "sandveil", moveset = ["bite", "dragonclaw", "dig", "sandstorm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Dragon Tamer Patrick is ready for a battle.", "Try not to be shocked when you lay your eyes on my Pokémon!", "A dragon Pokémon’s real power is nothing like mine!", "I have trained this team for the road. Challenge me if you are ready."]

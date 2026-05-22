@@ -1,0 +1,51 @@
+{
+  "id": "rct_hiker_franklin_00b6",
+  "name": "Hiker Franklin",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "timburr",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "bide",
+        "lowkick",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "geodude",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "rollout",
+        "spark",
+        "rockthrow",
+        "smackdown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

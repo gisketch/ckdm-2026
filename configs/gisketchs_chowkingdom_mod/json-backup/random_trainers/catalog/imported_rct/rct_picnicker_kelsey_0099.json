@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_kelsey_0099",
+  "name": "Picnicker Kelsey",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "nidorino",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "peck",
+        "focusenergy",
+        "doublekick",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cherubi",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "leechseed",
+        "helpinghand",
+        "sleeppowder",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rct_swimmerm_axle_00f1",
+  "name": "Swimmer♂ Axle",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "tentacool",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "clearbody",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pelipper",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 62,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "naturalcure",
+      "moveset": [
+        "recover",
+        "psybeam",
+        "confuseray",
+        "meteorbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cloyster",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "battlearmor",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

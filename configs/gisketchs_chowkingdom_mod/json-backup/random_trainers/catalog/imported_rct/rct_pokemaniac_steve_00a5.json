@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemaniac_steve_00a5",
+  "name": "Pokémaniac Steve",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "braixen",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "blaze",
+      "moveset": [
+        "psybeam",
+        "firespin",
+        "luckychant",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cubone",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "battlearmor",
+      "moveset": [
+        "rage",
+        "falseswipe",
+        "thrash",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_black_belt_davon",
+  "name": "Black Belt Davon",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:tyrogue",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:makuhita",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My quest for power brought me here. It was beneath the desert sand that I toughened my body and soul. Accept my challenge! Uraah!",
+    "I thought I couldn\u2019t win before it became a fact... I\u2019ve let down my Pok\u00e9mon... They go to battle with faith in their Trainer..."
+  ]
+}

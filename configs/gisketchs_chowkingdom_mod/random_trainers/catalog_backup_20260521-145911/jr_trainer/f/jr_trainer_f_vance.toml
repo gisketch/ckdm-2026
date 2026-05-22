@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jr_trainer_f_vance"
+name = "Jr Trainer Vance"
+title = "Jr Trainer"
+gender = "female"
+archetype = "jr_trainer"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "jr_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:meowth", level = 23, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jrtrainerf from Route 9 is ready for a battle."]

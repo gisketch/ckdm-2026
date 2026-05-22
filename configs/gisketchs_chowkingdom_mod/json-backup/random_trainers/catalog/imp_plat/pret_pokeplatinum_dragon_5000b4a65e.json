@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_dragon_tamer_stanley",
+  "name": "Dragon Tamer Stanley",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:dratini",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:altaria",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "How do you do? I\u2019m Stanley, and I\u2019m a Dragon Tamer. What do you say we let our Pok\u00e9mon have it out? Sound OK to you?",
+    "It seems to me, there\u2019s this certain image that goes with a Dragon Tamer. But me, I\u2019d much sooner take it easy, take it slow, and take it my own way. I figure there\u2019s more than my style that I need to work on first."
+  ]
+}

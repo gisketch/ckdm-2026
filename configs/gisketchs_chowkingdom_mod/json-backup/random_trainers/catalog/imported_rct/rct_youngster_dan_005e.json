@@ -1,0 +1,33 @@
+{
+  "id": "rct_youngster_dan_005e",
+  "name": "Youngster Dan",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "slowpoke",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "thunderwave",
+        "psybeam",
+        "disable",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

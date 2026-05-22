@@ -1,0 +1,117 @@
+{
+  "id": "rct_leader_pryce_003a",
+  "name": "Pryce",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 62,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "ninetales",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "snowwarning",
+      "moveset": [
+        "auroraveil",
+        "freezedry",
+        "blizzard",
+        "moonblast"
+      ],
+      "heldItem": "icy_rock",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "arctozolt",
+      "level": 62,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "slushrush",
+      "moveset": [
+        "boltbeak",
+        "iciclecrash",
+        "stompingtantrum",
+        "rockslide"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "frosmoth",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "icescales",
+      "moveset": [
+        "quiverdance",
+        "icebeam",
+        "bugbuzz",
+        "gigadrain"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandslash",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "icescales",
+      "moveset": [
+        "earthquake",
+        "iciclecrash",
+        "ironhead",
+        "iceshard"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "beartic",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "slushrush",
+      "moveset": [
+        "playrough",
+        "tripleaxel",
+        "superpower",
+        "swordsdance"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "glalie",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "icebody",
+      "moveset": [
+        "doubleedge",
+        "earthquake",
+        "crunch",
+        "iceshard"
+      ],
+      "heldItem": "mega_showdown:glalitite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

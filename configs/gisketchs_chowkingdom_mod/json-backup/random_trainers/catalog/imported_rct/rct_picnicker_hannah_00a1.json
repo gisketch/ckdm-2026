@@ -1,0 +1,97 @@
+{
+  "id": "rct_picnicker_hannah_00a1",
+  "name": "Picnicker Hannah",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "pidgey",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meowth",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "pickup",
+      "moveset": [
+        "bulletseed",
+        "furyswipes",
+        "screech",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rattata",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "runaway",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "assurance",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "quickattack",
+        "electroball",
+        "thunderwave",
+        "feint"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meowth",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "pickup",
+      "moveset": [
+        "bulletseed",
+        "furyswipes",
+        "screech",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

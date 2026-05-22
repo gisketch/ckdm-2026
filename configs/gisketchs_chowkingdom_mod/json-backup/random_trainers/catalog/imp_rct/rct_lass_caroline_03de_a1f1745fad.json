@@ -1,0 +1,55 @@
+{
+  "id": "rct_lass_caroline_03de",
+  "name": "Lass Caroline",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:cherubi",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sunnyday",
+        "morningsun",
+        "growth",
+        "leafage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "leafguard",
+      "moveset": [
+        "stunspore",
+        "megadrain",
+        "leechseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

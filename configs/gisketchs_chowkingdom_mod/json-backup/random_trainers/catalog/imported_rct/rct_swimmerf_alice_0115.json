@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerf_alice_0115",
+  "name": "Swimmer♀ Alice",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "hurricane",
+        "raindance",
+        "hyperbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wishiwashi",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "schooling",
+      "moveset": [
+        "aquatail",
+        "doubleedge",
+        "endeavor",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "madame_x_rebecca"
+name = "Madame Rebecca"
+title = "Madame"
+gender = "any"
+archetype = "madame"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "madame/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 20
+maxLevel = 22
+team = [
+  { species = "cobblemon:lopunny", level = 22, gender = "FEMALE", nature = "careful", ability = "cutecharm", moveset = ["mirrorcoat", "magiccoat", "babydolleyes", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:glameow", level = 20, gender = "FEMALE", nature = "impish", ability = "limber", moveset = ["fakeout", "growl", "aerialace", "furyswipes"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

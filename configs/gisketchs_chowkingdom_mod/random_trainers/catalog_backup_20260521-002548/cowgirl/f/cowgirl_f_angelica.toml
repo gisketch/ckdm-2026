@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cowgirl_f_angelica"
+name = "Cowgirl Angelica"
+title = "Cowgirl"
+gender = "female"
+archetype = "cowgirl"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "cowgirl/female"
+tier = "low"
+spawnable = true
+height = 0.97
+weight = 0.94
+bustStyle = "standard"
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:rattata", level = 5, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cowgirl Angelica is ready for a battle."]

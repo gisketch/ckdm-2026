@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokefirered_boss_giovanni_2",
+  "name": "Boss Giovanni",
+  "title": "Boss",
+  "gender": "any",
+  "archetype": "boss",
+  "region": "Kanto/Sevii",
+  "category": "unique",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:nidorino",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoqueen",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Boss Giovanni is ready for a battle."
+  ]
+}

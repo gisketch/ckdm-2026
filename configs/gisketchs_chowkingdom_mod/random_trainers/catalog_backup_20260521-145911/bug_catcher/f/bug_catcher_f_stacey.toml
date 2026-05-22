@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_f_stacey"
+name = "Bug Catcher Stacey"
+title = "Bug Catcher"
+gender = "female"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/female"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = "standard"
+minLevel = 52
+maxLevel = 60
+team = [
+  { species = "cobblemon:metapod", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:metapod", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:metapod", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Wow, that’s a HUGE Pokémon! ... ...What kind of Trainer?!", "Has anyone ever told you that from behind you look like a VENONAT?"]

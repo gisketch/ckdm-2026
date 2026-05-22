@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_f_jennifer"
+name = "Channeler Jennifer"
+title = "Channeler"
+gender = "female"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:chimecho", level = 39, gender = "FEMALE", nature = "jolly", ability = "levitate", moveset = ["extrasensory", "healbell", "uproar", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Jennifer is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

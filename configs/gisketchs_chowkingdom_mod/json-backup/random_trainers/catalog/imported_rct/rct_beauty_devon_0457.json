@@ -1,0 +1,33 @@
+{
+  "id": "rct_beauty_devon_0457",
+  "name": "Beauty Devon",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "wormadam",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "anticipation",
+      "moveset": [
+        "quiverdance",
+        "suckerpunch",
+        "bugbite",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

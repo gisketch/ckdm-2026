@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_boone"
+name = "Pokefan Boone"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 41
+maxLevel = 43
+team = [
+  { species = "cobblemon:spinda", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:volbeat", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, your Pokémon... Show me. Show me. Show me!", "When you battle Pokémon, you get to see a bunch of Pokémon you’ve never seen before. It’s so great!"]

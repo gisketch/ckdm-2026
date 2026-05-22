@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeplatinum_youngster_jonathon",
+  "name": "Youngster Jonathon",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You avoided the long way around? Let\u2019s see why you\u2019d do that!",
+    "You should go whichever way you want, shortcut or the long way!"
+  ]
+}

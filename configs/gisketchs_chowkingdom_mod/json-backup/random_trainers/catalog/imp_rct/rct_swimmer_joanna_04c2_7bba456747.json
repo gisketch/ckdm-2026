@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_joanna_04c2",
+  "name": "Swimmer Joanna",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:luvdisc",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "swiftswim",
+      "moveset": [
+        "aquaring",
+        "flail",
+        "brine",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lapras",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icebeam",
+        "brine",
+        "confuseray",
+        "iceshard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

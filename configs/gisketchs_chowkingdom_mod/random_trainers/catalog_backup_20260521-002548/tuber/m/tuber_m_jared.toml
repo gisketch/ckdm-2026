@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_m_jared"
+name = "Tuber Jared"
+title = "Tuber"
+gender = "male"
+archetype = "tuber"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "tuber/male"
+tier = "high"
+spawnable = true
+height = 0.92
+weight = 0.93
+bustStyle = ""
+minLevel = 51
+maxLevel = 51
+team = [
+  { species = "cobblemon:gastrodon", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastrodon", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gastrodon", level = 51, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Tuber Male Jared is ready for a battle.", "Isn’t this nice? I love my inflatable tube!", "Mom blew up my inflatable tube for me. I ran out of breath just opening it!"]

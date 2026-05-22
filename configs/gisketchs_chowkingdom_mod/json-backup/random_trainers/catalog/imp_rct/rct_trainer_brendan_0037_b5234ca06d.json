@@ -1,0 +1,79 @@
+{
+  "id": "rct_trainer_brendan_0037",
+  "name": "Trainer Brendan",
+  "title": "Trainer",
+  "gender": "any",
+  "archetype": "trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:masquerain",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "intimidate",
+      "moveset": [
+        "bugbuzz",
+        "scald",
+        "gigadrain",
+        "stunspore"
+      ],
+      "heldItem": [
+        "iapapa_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exploud",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "punkrock",
+      "moveset": [
+        "flamethrower",
+        "surf",
+        "focusblast",
+        "hypervoice"
+      ],
+      "heldItem": [
+        "silk_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sceptile",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "unburden",
+      "moveset": [
+        "megadrain",
+        "dragonbreath",
+        "focusblast",
+        "hiddenpower"
+      ],
+      "heldItem": [
+        "mega_showdown:sceptilite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

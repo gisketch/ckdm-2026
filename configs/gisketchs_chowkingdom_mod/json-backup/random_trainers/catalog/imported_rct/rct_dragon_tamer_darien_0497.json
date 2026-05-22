@@ -1,0 +1,33 @@
+{
+  "id": "rct_dragon_tamer_darien_0497",
+  "name": "Dragon Tamer Darien",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "icefang",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

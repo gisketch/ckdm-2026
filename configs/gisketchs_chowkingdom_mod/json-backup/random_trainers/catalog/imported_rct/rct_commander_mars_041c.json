@@ -1,0 +1,65 @@
+{
+  "id": "rct_commander_mars_041c",
+  "name": "Commander Mars",
+  "title": "Commander",
+  "gender": "any",
+  "archetype": "commander",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "golbat",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "astonish",
+        "poisonfang",
+        "bite",
+        "uturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzor",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "payback",
+        "gyroball",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "purugly",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "slash",
+        "uturn"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "veteran_m_brenden"
+name = "Veteran Brenden"
+title = "Veteran"
+gender = "male"
+archetype = "veteran"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "veteran/male"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:forretress", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flashcannon", "rockslide", "stealthrock", "toxicspikes"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "aquatail", "icefang", "dragonpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hippowdon", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dig", "crunch", "protect", "rest"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll wheel out some wicked Pokémon and even wickeder moves!", "I don’t see what my age has to do with playing with Pokémon, frankly.", "I have trained this team for the road. Challenge me if you are ready."]

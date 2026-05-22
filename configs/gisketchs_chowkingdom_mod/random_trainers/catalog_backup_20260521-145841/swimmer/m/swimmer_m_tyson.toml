@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_tyson"
+name = "Swimmer Tyson"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:quagsire", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "yawn", "surf", "amnesia"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:octillery", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["signalbeam", "wringout", "octazooka", "aurorabeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gotta keep going!", "This arrogant guy was at Cinnabar’s volcano."]

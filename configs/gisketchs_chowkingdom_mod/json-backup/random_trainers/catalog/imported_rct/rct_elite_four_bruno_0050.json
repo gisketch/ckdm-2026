@@ -1,0 +1,115 @@
+{
+  "id": "rct_elite_four_bruno_0050",
+  "name": "Elite Four Bruno",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 84,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "infernape",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "taunt",
+        "pyroball",
+        "stealthrock",
+        "closecombat"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "conkeldurr",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "ironfist",
+      "moveset": [
+        "drainpunch",
+        "machpunch",
+        "knockoff",
+        "icepunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "urshifu",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unseenfist",
+      "moveset": [
+        "uturn",
+        "closecombat",
+        "wickedblow",
+        "poisonjab"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kommoo",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "overcoat",
+      "moveset": [
+        "clangingscales",
+        "clangoroussoul",
+        "aurasphere",
+        "flashcannon"
+      ],
+      "heldItem": "throat_spray",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zacian",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "intrepidsword",
+      "moveset": [
+        "swordsdance",
+        "behemothblade",
+        "closecombat",
+        "crunch"
+      ],
+      "heldItem": "mega_showdown:rusted_sword",
+      "shiny": false,
+      "aspects": [
+        "crowned"
+      ]
+    },
+    {
+      "species": "lucario",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "bulletpunch",
+        "meteormash",
+        "closecombat",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:lucarionite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

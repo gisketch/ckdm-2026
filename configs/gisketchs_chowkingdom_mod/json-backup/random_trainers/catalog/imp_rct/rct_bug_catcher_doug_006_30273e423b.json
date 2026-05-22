@@ -1,0 +1,68 @@
+{
+  "id": "rct_bug_catcher_doug_0067",
+  "name": "Bug Catcher Doug",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:kakuna",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "shedskin",
+      "moveset": [
+        "harden",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:spinarak",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "swarm",
+      "moveset": [
+        "poisonsting",
+        "stringshot",
+        "constrict",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ledyba",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "swarm",
+      "moveset": [
+        "tackle",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

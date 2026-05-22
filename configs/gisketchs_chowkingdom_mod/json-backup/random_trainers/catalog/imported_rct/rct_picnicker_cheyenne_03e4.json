@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_cheyenne_03e4",
+  "name": "Picnicker Cheyenne",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "drifloon",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "aftermath",
+      "moveset": [
+        "gust",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "misdreavus",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "meanlook",
+        "hex",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

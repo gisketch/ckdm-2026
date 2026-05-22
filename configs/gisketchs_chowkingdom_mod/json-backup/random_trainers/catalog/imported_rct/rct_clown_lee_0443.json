@@ -1,0 +1,33 @@
+{
+  "id": "rct_clown_lee_0443",
+  "name": "Clown Lee",
+  "title": "Clown",
+  "gender": "any",
+  "archetype": "clown",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "filter",
+      "moveset": [
+        "powerswap",
+        "pound",
+        "encore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

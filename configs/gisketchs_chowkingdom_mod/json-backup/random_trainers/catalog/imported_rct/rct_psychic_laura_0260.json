@@ -1,0 +1,65 @@
+{
+  "id": "rct_psychic_laura_0260",
+  "name": "Psychic Laura",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "natu",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "earlybird",
+      "moveset": [
+        "psychoshift",
+        "futuresight",
+        "powerswap",
+        "guardswap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "natu",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "earlybird",
+      "moveset": [
+        "psychoshift",
+        "futuresight",
+        "powerswap",
+        "guardswap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "xatu",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "earlybird",
+      "moveset": [
+        "psychic",
+        "miracleeye",
+        "psychoshift",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

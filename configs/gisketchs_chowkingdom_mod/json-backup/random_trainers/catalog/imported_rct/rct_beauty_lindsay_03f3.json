@@ -1,0 +1,32 @@
+{
+  "id": "rct_beauty_lindsay_03f3",
+  "name": "Beauty Lindsay",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "roselia",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "toxic",
+        "leechseed",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

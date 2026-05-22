@@ -1,0 +1,42 @@
+{
+  "id": "rct_beauty_lori_010b",
+  "name": "Beauty Lori",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:exeggutor",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "hypnosis",
+        "confusion",
+        "psyshock",
+        "eggbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_colby"
+name = "Black Belt Colby"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:machoke", level = 25, gender = "MALE", nature = "jolly", ability = "guts", moveset = ["leer", "revenge", "knockoff", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 25, gender = "FEMALE", nature = "impish", ability = "guts", moveset = ["leer", "revenge", "dig", "bulkup"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 25, gender = "MALE", nature = "impish", ability = "guts", moveset = ["leer", "revenge", "earthquake", "bulkup"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We’re the Karate Quads! I will strike a blow for love with my fist! Hiyah, looooooooove!", "Your Pokémon sure are tough! But our Gym Leader Maylene will break you like a stack of bricks!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,54 @@
+{
+  "id": "pret_pokeplatinum_commander_mars_valley_windworks",
+  "name": "Commander Mars Mars",
+  "title": "Commander Mars",
+  "gender": "any",
+  "archetype": "commander_mars",
+  "region": "Sinnoh",
+  "category": "unique",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "commander_mars/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:zubat",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bite",
+        "leechlife",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:purugly",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "feintattack",
+        "scratch",
+        "fakeout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Commander Mars Mars is ready for a battle."
+  ]
+}

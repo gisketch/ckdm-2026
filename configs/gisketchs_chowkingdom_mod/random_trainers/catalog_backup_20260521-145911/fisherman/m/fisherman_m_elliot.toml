@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_elliot"
+name = "Fisherman Elliot"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 35
+maxLevel = 37
+team = [
+  { species = "cobblemon:whiscash", level = 35, gender = "FEMALE", nature = "mild", ability = "hydration", moveset = ["rest", "snore", "waterpulse", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:luvdisc", level = 36, gender = "MALE", nature = "bashful", ability = "swiftswim", moveset = ["heartstamp", "flail", "sweetkiss", "takedown"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 37, gender = "MALE", nature = "hasty", ability = "lightningrod", moveset = ["aquajet", "aquaring", "agility", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seadra", level = 35, gender = "FEMALE", nature = "bold", ability = "poisontouch", moveset = ["twister", "bubblebeam", "focusenergy", "brine"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Elliot is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

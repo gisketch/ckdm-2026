@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_yasu"
+name = "Youngster Yasu"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 47
+maxLevel = 47
+team = [
+  { species = "cobblemon:raticate", level = 47, gender = "FEMALE", nature = "hardy", ability = "runaway", moveset = ["return", "superfang", "doubleedge", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raticate", level = 47, gender = "FEMALE", nature = "timid", ability = "runaway", moveset = ["return", "superfang", "doubleedge", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raticate", level = 47, gender = "MALE", nature = "naughty", ability = "runaway", moveset = ["return", "superfang", "doubleedge", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Yasu is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

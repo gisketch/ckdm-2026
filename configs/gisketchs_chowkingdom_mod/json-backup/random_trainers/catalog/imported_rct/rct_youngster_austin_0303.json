@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_austin_0303",
+  "name": "Youngster Austin",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "starly",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "quickattack",
+        "wingattack",
+        "doubleteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "geodude",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "defensecurl",
+        "sandstorm",
+        "rockpolish",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chimchar",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "leer",
+        "taunt",
+        "furyswipes",
+        "flamewheel"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

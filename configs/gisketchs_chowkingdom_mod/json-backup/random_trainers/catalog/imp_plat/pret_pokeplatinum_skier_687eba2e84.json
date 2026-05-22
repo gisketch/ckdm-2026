@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_skier_madison",
+  "name": "Skier Female Madison",
+  "title": "Skier Female",
+  "gender": "female",
+  "archetype": "skier_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:snorunt",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rainy days make me feel blue... But the instant it starts to snow, I\u2019m as happy as can be!",
+    "Can any of your Pok\u00e9mon use that hidden move to climb cliffs?"
+  ]
+}

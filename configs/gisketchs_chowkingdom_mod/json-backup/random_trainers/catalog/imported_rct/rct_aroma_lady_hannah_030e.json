@@ -1,0 +1,49 @@
+{
+  "id": "rct_aroma_lady_hannah_030e",
+  "name": "Aroma Lady Hannah",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 16,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "combee",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "honeygather",
+      "moveset": [
+        "sweetscent",
+        "gust",
+        "strugglebug",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roselia",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "poisonpoint",
+      "moveset": [
+        "poisonsting",
+        "megadrain",
+        "leechseed",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

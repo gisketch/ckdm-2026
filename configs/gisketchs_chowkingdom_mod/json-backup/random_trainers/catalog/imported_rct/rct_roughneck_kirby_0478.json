@@ -1,0 +1,33 @@
+{
+  "id": "rct_roughneck_kirby_0478",
+  "name": "Roughneck Kirby",
+  "title": "Roughneck",
+  "gender": "any",
+  "archetype": "roughneck",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cleffa",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "cutecharm",
+      "moveset": [
+        "sing",
+        "sweetkiss",
+        "disarmingvoice",
+        "encore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

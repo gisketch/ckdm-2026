@@ -1,0 +1,37 @@
+{
+  "id": "pret_pokeemerald_jaclyn",
+  "name": "Psychic Jaclyn",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "Hoenn",
+  "category": "specialist",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:abra",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hiddenpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Jaclyn is ready for a battle."
+  ]
+}

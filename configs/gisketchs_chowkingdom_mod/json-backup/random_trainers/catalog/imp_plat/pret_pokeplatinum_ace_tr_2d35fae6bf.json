@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_stefan",
+  "name": "Ace Trainer Male Stefan",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 58,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "cobblemon:pupitar",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:torterra",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Let me ask to see if you know. What is time?",
+    "For me, time is the fabric woven by memories, one after another..."
+  ]
+}

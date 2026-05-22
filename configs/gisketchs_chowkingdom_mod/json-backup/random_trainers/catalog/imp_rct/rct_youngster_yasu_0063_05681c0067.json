@@ -1,0 +1,74 @@
+{
+  "id": "rct_youngster_yasu_0063",
+  "name": "Youngster Yasu",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "runaway",
+      "moveset": [
+        "pursuit",
+        "assurance",
+        "crunch",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:greedent",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "cheekpouch",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "bodyslam",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raticate",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "gluttony",
+      "moveset": [
+        "hyperfang",
+        "pursuit",
+        "zenheadbutt",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

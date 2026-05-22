@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_jasmine_001d",
+  "name": "Jasmine",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "excadrill",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "rapidspin",
+        "earthquake",
+        "rocktomb",
+        "stealthrock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magearna",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "soulheart",
+      "moveset": [
+        "shiftgear",
+        "thunderbolt",
+        "icebeam",
+        "flashcannon"
+      ],
+      "heldItem": "mega_showdown:steelium_z steel_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heatran",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "flashfire",
+      "moveset": [
+        "lavaplume",
+        "toxic",
+        "earthpower",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "latios",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "psychic",
+        "aurasphere",
+        "thunderbolt",
+        "calmmind"
+      ],
+      "heldItem": "mega_showdown:latiosite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "togekiss",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "airslash",
+        "dazzlinggleam",
+        "flamethrower",
+        "trick"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "copperajah",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "heavymetal",
+      "moveset": [
+        "doubleironbash",
+        "superpower",
+        "heatcrash",
+        "earthquake"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

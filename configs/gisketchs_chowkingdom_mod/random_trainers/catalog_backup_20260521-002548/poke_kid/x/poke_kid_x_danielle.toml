@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_kid_x_danielle"
+name = "Poke Kid Danielle"
+title = "Poke Kid"
+gender = "any"
+archetype = "poke_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "poke_kid/any"
+tier = "high"
+spawnable = true
+height = 0.88
+weight = 0.93
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:raichu", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hi, hi! I’m a Pokémon!", "I don’t want to be a Trainer. I want to be a Pokémon!", "Poke Kid Danielle is ready for a battle."]

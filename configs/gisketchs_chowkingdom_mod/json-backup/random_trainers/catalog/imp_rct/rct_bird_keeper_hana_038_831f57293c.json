@@ -1,0 +1,56 @@
+{
+  "id": "rct_bird_keeper_hana_038b",
+  "name": "Bird Keeper Hana",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 46,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:noctowl",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "skyattack",
+        "takedown",
+        "roost",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:staraptor",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "quickattack",
+        "endeavor",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

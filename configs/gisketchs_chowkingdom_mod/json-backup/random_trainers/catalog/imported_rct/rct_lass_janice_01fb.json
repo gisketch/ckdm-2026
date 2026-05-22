@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_janice_01fb",
+  "name": "Lass Janice",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "frisk",
+      "moveset": [
+        "gust",
+        "quickattack",
+        "takedown",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

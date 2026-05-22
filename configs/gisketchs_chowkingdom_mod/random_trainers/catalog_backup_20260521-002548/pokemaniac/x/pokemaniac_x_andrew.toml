@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokemaniac_x_andrew"
+name = "Pokemaniac Andrew"
+title = "Pokemaniac"
+gender = "any"
+archetype = "pokemaniac"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokemaniac/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = ""
+minLevel = 24
+maxLevel = 24
+team = [
+  { species = "cobblemon:marowak", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marowak", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokemaniac Andrew is ready for a battle."]

@@ -1,0 +1,117 @@
+{
+  "id": "rct_leader_pryce_004f",
+  "name": "Pryce",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 95,
+  "maxLevel": 97,
+  "team": [
+    {
+      "species": "abomasnow",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "soundproof",
+      "moveset": [
+        "earthpower",
+        "blizzard",
+        "woodhammer",
+        "hiddenpower"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "calyrex",
+      "level": 95,
+      "gender": "GENDERLESS",
+      "nature": "brave",
+      "ability": "unnerve",
+      "moveset": [
+        "trickroom",
+        "glaciallance",
+        "zenheadbutt",
+        "highhorsepower"
+      ],
+      "heldItem": "mental_herb",
+      "shiny": false,
+      "aspects": [
+        "ice"
+      ]
+    },
+    {
+      "species": "kyurem",
+      "level": 95,
+      "gender": "GENDERLESS",
+      "nature": "quiet",
+      "ability": "pressure",
+      "moveset": [
+        "blizzard",
+        "dracometeor",
+        "earthpower",
+        "freezedry"
+      ],
+      "heldItem": "mega_showdown:icium_z ice_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wishiwashi",
+      "level": 97,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "schooling",
+      "moveset": [
+        "shadowball",
+        "dracometeor",
+        "thunderbolt",
+        "trickroom"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "donphan",
+      "level": 97,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "technician",
+      "moveset": [
+        "iceshard",
+        "rocktomb",
+        "bonemerang",
+        "knockoff"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "moxie",
+      "moveset": [
+        "armthrust",
+        "bulletseed",
+        "pinmissile",
+        "rockblast"
+      ],
+      "heldItem": "mega_showdown:heracronite expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

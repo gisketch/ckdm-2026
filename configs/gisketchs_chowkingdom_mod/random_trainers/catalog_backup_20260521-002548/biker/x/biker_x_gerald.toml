@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_x_gerald"
+name = "Biker Gerald"
+title = "Biker"
+gender = "any"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/any"
+tier = "mid"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:koffing", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "sludge", "smog", "tackle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:muk", level = 29, gender = "GENDERLESS", nature = "", ability = "", moveset = ["screech", "minimize", "sludge", "disable"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Gerald is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

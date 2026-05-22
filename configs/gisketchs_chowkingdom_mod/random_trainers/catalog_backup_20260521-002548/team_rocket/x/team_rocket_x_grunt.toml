@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "team_rocket_x_grunt"
+name = "Team Rocket Grunt"
+title = "Team Rocket"
+gender = "any"
+archetype = "team_rocket"
+region = "Kanto/Sevii;Johto/Kanto"
+category = "team"
+source = "pret_pokefirered;pret_pokeheartgold;rct_import"
+skinSet = ""
+skinFolder = "team_rocket/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 46
+maxLevel = 47
+team = [
+  { species = "cobblemon:golbat", level = 46, gender = "MALE", nature = "brave", ability = "sniper", moveset = ["leechlife", "dualwingbeat", "haze", "venoshock"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:purugly", level = 46, gender = "MALE", nature = "naughty", ability = "owntempo", moveset = ["assist", "captivate", "bodyslam", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lunatone", level = 46, gender = "GENDERLESS", nature = "hasty", ability = "levitate", moveset = ["futuresight", "stoneedge", "photongeyser", "explosion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:stonjourner", level = 46, gender = "MALE", nature = "docile", ability = "powerspot", moveset = ["stomp", "stealthrock", "rockslide", "bodyslam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bruxish", level = 47, gender = "MALE", nature = "rash", ability = "strongjaw", moveset = ["crunch", "aquatail", "screech", "psychicfangs"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Team Rocket Grunt is ready for a battle.", "Quit taking SlowpokeTails? If we listened to you, Team Rocket’s rep would be ruined!", "We need the money, but selling SlowpokeTails? It’s tough being a Team Rocket Grunt!", "Humph! I was standing guard up top when some old coot yelled at me. He startled me so much that I fell down here. How about I vent my anger and take it out on you!", "Sure, we’ve been hacking the tails off SLOWPOKE and selling them. Team Rocket will do anything for money!", "Three years ago, Team Rocket was forced to disband. But we’re making a comeback here!", "We won’t let you ruin our plans for our comeback!", "We’re Team Rocket! We like to cause trouble! Ooh! Are you scared?", "We’re not always evil. We just do whatever we like.", "Hey, hey! Keep out of our way!", "Our Executives are trying to take this place over. They have some big plan. I wonder what it is.", "I’ve been given strict orders. I’m to crush anyone who challenges Team Rocket!"]

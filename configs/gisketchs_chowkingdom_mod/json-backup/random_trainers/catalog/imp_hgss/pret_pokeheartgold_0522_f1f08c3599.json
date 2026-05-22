@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeheartgold_0522_picnicker_tiffany",
+  "name": "Picnicker Tiffany",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 61,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "cobblemon:clefable",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gravity",
+        "metronome",
+        "blizzard",
+        "thunder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Picnicker Tiffany is ready for a battle."
+  ]
+}

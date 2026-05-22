@@ -1,0 +1,33 @@
+{
+  "id": "rct_cyclist_kayla_04f7",
+  "name": "Cyclist Kayla",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "tailwhip",
+        "nuzzle",
+        "spark",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

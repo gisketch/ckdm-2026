@@ -1,0 +1,133 @@
+{
+  "id": "rct_title_defense_jax_05ee",
+  "name": "Title Defense Jax",
+  "title": "Title Defense",
+  "gender": "any",
+  "archetype": "title_defense",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "title_defense/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 78,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "cobblemon:naganadel",
+      "level": 79,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "beastboost",
+      "moveset": [
+        "dragonpulse",
+        "sludgebomb",
+        "heatwave",
+        "tailwind"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmontop",
+      "level": 78,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "intimidate",
+      "moveset": [
+        "closecombat",
+        "suckerpunch",
+        "fakeout",
+        "helpinghand"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnezone",
+      "level": 78,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "hiddenpower",
+        "bodypress"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 78,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "earthpower",
+        "icebeam",
+        "recover",
+        "protect"
+      ],
+      "heldItem": [
+        "aguav_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:salamence",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "aerilate",
+      "moveset": [
+        "doubleedge",
+        "brickbreak",
+        "rockslide",
+        "flamethrower"
+      ],
+      "heldItem": [
+        "mega_showdown:salamencite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:moltres",
+      "level": 79,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "berserk",
+      "moveset": [
+        "heatwave",
+        "aeroblast",
+        "scorchingsands",
+        "tailwind"
+      ],
+      "heldItem": [
+        "charti_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

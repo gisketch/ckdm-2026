@@ -1,0 +1,67 @@
+{
+  "id": "pret_pokeheartgold_0122_fisherman_marvin",
+  "name": "Fisherman Marvin",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 10,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:magikarp",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "splash",
+        "tackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thrash",
+        "surf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magikarp",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "splash",
+        "tackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m in a slump. Maybe it\u2019s the gear I\u2019m using. Let\u2019s battle for a change of pace!",
+    "Kurt\u2019s Lure Ball is the best for catching hooked Pok\u00e9mon. It\u2019s much more effective than an Ultra Ball."
+  ]
+}

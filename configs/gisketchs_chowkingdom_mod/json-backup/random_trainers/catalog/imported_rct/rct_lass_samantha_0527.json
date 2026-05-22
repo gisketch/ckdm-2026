@@ -1,0 +1,33 @@
+{
+  "id": "rct_lass_samantha_0527",
+  "name": "Lass Samantha",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "budew",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

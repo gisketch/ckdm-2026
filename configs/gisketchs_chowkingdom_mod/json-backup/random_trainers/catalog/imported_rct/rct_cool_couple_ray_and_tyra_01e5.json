@@ -1,0 +1,49 @@
+{
+  "id": "rct_cool_couple_ray_and_tyra_01e5",
+  "name": "Cool Couple Ray & Tyra",
+  "title": "Cool Couple Ray And",
+  "gender": "any",
+  "archetype": "cool_couple_ray_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "nidoqueen",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sheerforce",
+      "moveset": [
+        "icebeam",
+        "earthpower",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoking",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "icebeam",
+        "earthpower",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

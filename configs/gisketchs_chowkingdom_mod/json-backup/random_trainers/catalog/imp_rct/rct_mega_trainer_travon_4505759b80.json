@@ -1,0 +1,115 @@
+{
+  "id": "rct_mega_trainer_travon_05ce",
+  "name": "Mega Trainer Travon",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "mega_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:claydol",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "multiscale",
+      "moveset": [
+        "psychic",
+        "reflect",
+        "lightscreen",
+        "shoreup"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:excadrill",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "rockslide",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cradily",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "stormdrain",
+      "moveset": [
+        "gigadrain",
+        "toxic",
+        "recover",
+        "protect"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hippowdon",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandforce",
+      "moveset": [
+        "earthquake",
+        "thunderfang",
+        "icefang",
+        "yawn"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:scizor",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "xscissor",
+        "bulletpunch",
+        "brickbreak",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "mega_showdown:scizorite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

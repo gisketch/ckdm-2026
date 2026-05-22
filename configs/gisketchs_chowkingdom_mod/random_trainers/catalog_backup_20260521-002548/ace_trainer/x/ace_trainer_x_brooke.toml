@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_brooke"
+name = "Ace Trainer Brooke"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:tangela", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["slam", "bind", "megadrain", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gloom", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["acid", "moonlight", "sleeppowder", "stunspore"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vileplume", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["megadrain", "acid", "stunspore", "aromatherapy"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ivysaur", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["razorleaf", "sweetscent", "growl", "leechseed"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venusaur", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["razorleaf", "growth", "sleeppowder", "poisonpowder"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Brooke is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

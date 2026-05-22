@@ -1,0 +1,47 @@
+{
+  "id": "rct_youngster_michael_02ea",
+  "name": "Youngster Michael",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "bidoof",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "unaware",
+      "moveset": [
+        "tackle",
+        "growl",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zubat",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "astonish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

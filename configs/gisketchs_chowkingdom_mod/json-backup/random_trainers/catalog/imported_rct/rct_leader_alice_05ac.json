@@ -1,0 +1,97 @@
+{
+  "id": "rct_leader_alice_05ac",
+  "name": "Leader Alice",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "minior",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "shieldsdown",
+      "moveset": [
+        "ancientpower",
+        "acrobatics",
+        "stealthrock",
+        "confuseray"
+      ],
+      "heldItem": "muscle_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gliscor",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "hypercutter",
+      "moveset": [
+        "bulldoze",
+        "acrobatics",
+        "knockoff",
+        "firefang"
+      ],
+      "heldItem": "flying_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dodrio",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "earlybird",
+      "moveset": [
+        "aerialace",
+        "quickattack",
+        "steelwing",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pinsir",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "aerilate",
+      "moveset": [
+        "xscissor",
+        "doublehit",
+        "brickbreak",
+        "rocktomb"
+      ],
+      "heldItem": "mega_showdown:pinsirite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crobat",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "infiltrator",
+      "moveset": [
+        "venoshock",
+        "aircutter",
+        "acrobatics",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_mickey"
+name = "Super Nerd Mickey"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:porygon", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["conversion", "conversion2", "recover", "triattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Mickey is ready for a battle."]

@@ -1,0 +1,65 @@
+{
+  "id": "rct_veteran_brian_056e",
+  "name": "Veteran Brian",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "buizel",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "tailwhip",
+        "bite",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "girafarig",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "innerfocus",
+      "moveset": [
+        "astonish",
+        "stomp",
+        "psybeam",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "focusenergy",
+        "lowsweep",
+        "knockoff",
+        "dualchop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

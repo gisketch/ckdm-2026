@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rocket_admins_archer_x_ariana"
+name = "Rocket Admins Archer Ariana"
+title = "Rocket Admins Archer"
+gender = "any"
+archetype = "rocket_admins_archer"
+region = ""
+category = "team"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rocket_admins_archer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 54
+maxLevel = 55
+team = [
+  { species = "cobblemon:incineroar", level = 54, gender = "FEMALE", nature = "adamant", ability = "intimidate", moveset = ["fakeout", "partingshot", "darkestlariat", "firepunch"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:gothitelle", level = 54, gender = "MALE", nature = "modest", ability = "competitive", moveset = ["psychic", "shadowball", "hiddenpower", "thunderwave"], heldItem = "['colbur_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:primarina", level = 55, gender = "FEMALE", nature = "modest", ability = "liquidvoice", moveset = ["hypervoice", "scald", "psychic", "dazzlinggleam"], heldItem = "['throat_spray']", shiny = false, aspects = [] },
+  { species = "cobblemon:aegislash", level = 55, gender = "FEMALE", nature = "adamant", ability = "stancechange", moveset = ["ironhead", "shadowclaw", "shadowsneak", "kingsshield"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:mawile", level = 55, gender = "MALE", nature = "adamant", ability = "intimidate", moveset = ["playrough", "suckerpunch", "ironhead", "thunderpunch"], heldItem = "['mega_showdown:mawilite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:houndoom", level = 55, gender = "MALE", nature = "timid", ability = "unnerve", moveset = ["heatwave", "darkpulse", "scorchingsands", "suckerpunch"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

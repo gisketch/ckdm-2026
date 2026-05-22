@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_colton"
+name = "Bug Catcher Colton"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 51
+maxLevel = 54
+team = [
+  { species = "cobblemon:butterfree", level = 51, gender = "FEMALE", nature = "lonely", ability = "compoundeyes", moveset = ["ragepowder", "captivate", "tailwind", "airslash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 54, gender = "FEMALE", nature = "careful", ability = "swarm", moveset = ["poisonjab", "agility", "endeavor", "fellstinger"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:butterfree", level = 51, gender = "MALE", nature = "mild", ability = "compoundeyes", moveset = ["ragepowder", "captivate", "tailwind", "airslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Colton is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

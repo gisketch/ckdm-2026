@@ -1,0 +1,49 @@
+{
+  "id": "rct_sailor_marc_054d",
+  "name": "Sailor Marc",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "mantine",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "roost",
+        "airslash",
+        "aquaring",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pelipper",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "waterpulse",
+        "stockpile",
+        "roost",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

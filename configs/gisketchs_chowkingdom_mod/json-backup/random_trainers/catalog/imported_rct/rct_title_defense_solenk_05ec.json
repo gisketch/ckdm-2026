@@ -1,0 +1,113 @@
+{
+  "id": "rct_title_defense_solenk_05ec",
+  "name": "Title Defense Solenk",
+  "title": "Title Defense",
+  "gender": "any",
+  "archetype": "title_defense",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 77,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "claydol",
+      "level": 77,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "multiscale",
+      "moveset": [
+        "icebeam",
+        "toxic",
+        "stealthrock",
+        "shoreup"
+      ],
+      "heldItem": "mental_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "talonflame",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "galewings",
+      "moveset": [
+        "bravebird",
+        "flareblitz",
+        "uturn",
+        "defog"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "serperior",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "contrary",
+      "moveset": [
+        "leafstorm",
+        "hiddenpower",
+        "gigadrain",
+        "glare"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primarina",
+      "level": 79,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "torrent",
+      "moveset": [
+        "scald",
+        "moonblast",
+        "icebeam",
+        "hiddenpower"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "multiscale",
+      "moveset": [
+        "dualwingbeat",
+        "earthquake",
+        "dragondance",
+        "roost"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 80,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "bulletpunch",
+        "knockoff",
+        "swordsdance",
+        "roost"
+      ],
+      "heldItem": "mega_showdown:scizorite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

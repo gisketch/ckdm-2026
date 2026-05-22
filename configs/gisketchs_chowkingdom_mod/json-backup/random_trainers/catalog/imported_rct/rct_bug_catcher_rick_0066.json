@@ -1,0 +1,46 @@
+{
+  "id": "rct_bug_catcher_rick_0066",
+  "name": "Bug Catcher Rick",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 6,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "caterpie",
+      "level": 6,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wurmple",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

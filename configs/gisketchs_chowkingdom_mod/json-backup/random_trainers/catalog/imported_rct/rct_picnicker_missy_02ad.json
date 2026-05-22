@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_missy_02ad",
+  "name": "Picnicker Missy",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "seaking",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "agility",
+        "waterfall",
+        "soak",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "waterveil",
+      "moveset": [
+        "agility",
+        "waterfall",
+        "soak",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

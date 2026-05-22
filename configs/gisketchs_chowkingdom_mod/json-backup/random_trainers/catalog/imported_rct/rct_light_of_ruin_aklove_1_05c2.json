@@ -1,0 +1,115 @@
+{
+  "id": "rct_light_of_ruin_aklove_1_05c2",
+  "name": "Ruin Leader Aklove",
+  "title": "Light Of Ruin Aklove",
+  "gender": "any",
+  "archetype": "light_of_ruin_aklove",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "klefki",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "prankster",
+      "moveset": [
+        "playrough",
+        "reflect",
+        "lightscreen",
+        "thunderwave"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "technician",
+      "moveset": [
+        "gigadrain",
+        "hiddenpower",
+        "leechseed",
+        "protect"
+      ],
+      "heldItem": "big_root",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primarina",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "surf",
+        "moonblast",
+        "icebeam",
+        "aquajet"
+      ],
+      "heldItem": "kebia_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "togekiss",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "serenegrace",
+      "moveset": [
+        "airslash",
+        "dazzlinggleam",
+        "aurasphere",
+        "flamethrower"
+      ],
+      "heldItem": "babiri_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hoopa",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "magician",
+      "moveset": [
+        "zenheadbutt",
+        "hyperspacefury",
+        "dualchop",
+        "drainpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "unbound"
+      ]
+    },
+    {
+      "species": "gardevoir",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "pixilate",
+      "moveset": [
+        "psyshock",
+        "dazzlinggleam",
+        "mysticalfire",
+        "shadowsneak"
+      ],
+      "heldItem": "mega_showdown:gardevoirite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

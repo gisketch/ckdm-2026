@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_gs_m_hank"
+name = "Bird Keeper Gs Hank"
+title = "Bird Keeper Gs"
+gender = "male"
+archetype = "bird_keeper_gs"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bird_keeper_gs/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 13
+maxLevel = 44
+team = [
+  { species = "cobblemon:pidgey", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeot", level = 44, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m raising my Pokémon. Want to battle with me?", "If you have a specific Pokémon that you want to raise, put it out first, then switch it right away. That’s how to do it."]

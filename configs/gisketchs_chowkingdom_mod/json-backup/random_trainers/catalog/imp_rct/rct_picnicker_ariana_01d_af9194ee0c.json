@@ -1,0 +1,88 @@
+{
+  "id": "rct_picnicker_ariana_01db",
+  "name": "Picnicker Ariana",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 31,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:gloom",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "megadrain",
+        "sludge",
+        "moonlight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:chatot",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "frisk",
+      "moveset": [
+        "round",
+        "taunt",
+        "chatter",
+        "mimic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:luxio",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "rivalry",
+      "moveset": [
+        "bite",
+        "spark",
+        "roar",
+        "swagger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:roselia",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "naturalcure",
+      "moveset": [
+        "gigadrain",
+        "toxicspikes",
+        "sleeppowder",
+        "ingrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

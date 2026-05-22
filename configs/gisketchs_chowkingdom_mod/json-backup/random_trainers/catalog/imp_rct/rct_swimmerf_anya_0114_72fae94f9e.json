@@ -1,0 +1,106 @@
+{
+  "id": "rct_swimmerf_anya_0114",
+  "name": "Swimmer\u2640 Anya",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "cobblemon:quagsire",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "damp",
+      "moveset": [
+        "raindance",
+        "mist",
+        "haze",
+        "muddywater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "lightningrod",
+      "moveset": [
+        "waterfall",
+        "soak",
+        "megahorn",
+        "fishiousrend"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alomomola",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "healer",
+      "moveset": [
+        "safeguard",
+        "whirlpool",
+        "helpinghand",
+        "healingwish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:jellicent",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "hex",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:basculin",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "finalgambit",
+        "liquidation",
+        "headsmash",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "blue_striped"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

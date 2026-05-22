@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_jasmin",
+  "name": "Ace Trainer Female Jasmin",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 61,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "cobblemon:drapion",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "crosspoison",
+        "crunch",
+        "xscissor",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Can you answer this for me? What is space?",
+    "For me, space is where memories are made..."
+  ]
+}

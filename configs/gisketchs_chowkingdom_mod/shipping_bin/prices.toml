@@ -18,12 +18,112 @@ entries = [
   { item = "beachparty:cooked_mussel_meat", price_amount = 34 }, # Cooked Mussel Meat
   { item = "beachparty:honey_cocktail", price_amount = 34 }, # Honey Cocktail — decorative block
   { item = "beachparty:melon_cocktail", price_amount = 24 }, # Melon Cocktail — decorative block
-  { item = "beachparty:pumpkin_cocktail", price_amount = 24 }, # Pumpkin Cocktail — decorative block
-  { item = "beachparty:raw_mussel_meat", price_amount = 26 }, # Raw Mussel Meat
-  { item = "beachparty:sweetberries_cocktail", price_amount = 24 }, # Sweetberry Cocktail — decorative block
-  #
-  # Cobblemon (cobblemon)
-  # T0
+ { item = "beachparty:pumpkin_cocktail", price_amount = 24 }, # Pumpkin Cocktail — decorative block
+ { item = "beachparty:raw_mussel_meat", price_amount = 26 }, # Raw Mussel Meat
+ { item = "beachparty:sweetberries_cocktail", price_amount = 24 }, # Sweetberry Cocktail — decorative block
+ #
+ # Ars Delight (arsdelight)
+ # T0
+ { item = "arsdelight:blazing_bark", price_amount = 1 }, # Blazing Bark - log cutting byproduct
+ { item = "arsdelight:cascading_bark", price_amount = 1 }, # Cascading Bark - log cutting byproduct
+ { item = "arsdelight:flourishing_bark", price_amount = 1 }, # Flourishing Bark - log cutting byproduct
+ { item = "arsdelight:vexing_bark", price_amount = 1 }, # Vexing Bark - log cutting byproduct
+ # T1
+ { item = "arsdelight:chimera_horn", price_amount = 18 }, # Chimera Horn
+ { item = "arsdelight:chimera_meat_slice", price_amount = 13 }, # Chimera Meat Slice - cut from chimera meat
+ { item = "arsdelight:source_berry_cookie", price_amount = 3 }, # Source Berry Cookie - 8 per craft
+ { item = "arsdelight:source_berry_jam", price_amount = 12 }, # Source Berry Jam - farmable berry preserve
+ { item = "arsdelight:wilden_horn_powder", price_amount = 18 }, # Wilden Horn Powder
+ { item = "arsdelight:wilden_meat_slice", price_amount = 9 }, # Wilden Meat Slice - cut from wilden meat
+ { item = "arsdelight:wilden_spike_powder", price_amount = 18 }, # Wilden Spike Powder
+ # T2
+ { item = "arsdelight:activated_bastion_jam", price_amount = 24 }, # Activated Bastion Jam
+ { item = "arsdelight:activated_mendosteen_jam", price_amount = 24 }, # Activated Mendosteen Jam
+ { item = "arsdelight:arch_soup", price_amount = 24 }, # Arch Soup - bark broth
+ { item = "arsdelight:bastion_hornbeer", price_amount = 38 }, # Bastion Hornbeer
+ { item = "arsdelight:bastion_jelly", price_amount = 34 }, # Bastion Jelly
+ { item = "arsdelight:bastion_tea", price_amount = 24 }, # Bastion Tea
+ { item = "arsdelight:bombegrante_hornbeer", price_amount = 38 }, # Bombegranate Hornbeer
+ { item = "arsdelight:bombegrante_jelly", price_amount = 34 }, # Bombegranate Jelly
+ { item = "arsdelight:bombegrante_tea", price_amount = 24 }, # Bombegranate Tea
+ { item = "arsdelight:chimera_meat", price_amount = 38 }, # Chimera Meat
+ { item = "arsdelight:chimera_skewer", price_amount = 6 }, # Chimera Skewer - 8 per craft
+ { item = "arsdelight:frostaya_hornbeer", price_amount = 38 }, # Frostaya Hornbeer
+ { item = "arsdelight:frostaya_jelly", price_amount = 34 }, # Frostaya Jelly
+ { item = "arsdelight:frostaya_tea", price_amount = 24 }, # Frostaya Tea
+ { item = "arsdelight:grilled_chimera_meat", price_amount = 45 }, # Grilled Chimera Meat
+ { item = "arsdelight:grilled_chimera_meat_slice", price_amount = 15 }, # Grilled Chimera Meat Slice
+ { item = "arsdelight:grilled_chimera_skewer", price_amount = 10 }, # Grilled Chimera Skewer
+ { item = "arsdelight:grilled_wilden_meat", price_amount = 34 }, # Grilled Wilden Meat
+ { item = "arsdelight:grilled_wilden_meat_slice", price_amount = 12 }, # Grilled Wilden Meat Slice
+ { item = "arsdelight:grilled_wilden_skewer", price_amount = 10 }, # Grilled Wilden Skewer
+ { item = "arsdelight:horn_roll", price_amount = 24 }, # Horn Roll
+ { item = "arsdelight:mendosteen_hornbeer", price_amount = 38 }, # Mendosteen Hornbeer
+ { item = "arsdelight:mendosteen_jelly", price_amount = 34 }, # Mendosteen Jelly
+ { item = "arsdelight:mendosteen_tea", price_amount = 24 }, # Mendosteen Tea
+ { item = "arsdelight:neutralized_bombegrante_jam", price_amount = 24 }, # Neutralized Bombegranate Jam
+ { item = "arsdelight:neutralized_frostaya_jam", price_amount = 24 }, # Neutralized Frostaya Jam
+ { item = "arsdelight:source_berry_cupcake", price_amount = 24 }, # Source Berry Cupcake
+ { item = "arsdelight:source_berry_hornbeer", price_amount = 38 }, # Source Berry Hornbeer
+ { item = "arsdelight:source_berry_jelly", price_amount = 24 }, # Source Berry Jelly
+ { item = "arsdelight:source_berry_pie_slice", price_amount = 10 }, # Source Berry Pie Slice - cut from cheap source berry pie
+ { item = "arsdelight:source_berry_tea", price_amount = 24 }, # Source Berry Tea
+ { item = "arsdelight:wilden_meat", price_amount = 26 }, # Wilden Meat
+ { item = "arsdelight:wilden_sauce", price_amount = 34 }, # Wilden Sauce
+ { item = "arsdelight:wilden_skewer", price_amount = 6 }, # Wilden Skewer - 8 per craft
+ # T3
+ { item = "arsdelight:arch_sauce", price_amount = 45 }, # Arch Sauce - multi-jam ingredient
+ { item = "arsdelight:bastion_pie_slice", price_amount = 30 }, # Bastion Pie Slice
+ { item = "arsdelight:bastion_pork", price_amount = 95 }, # Bastion Pork
+ { item = "arsdelight:bombegrante_pie_slice", price_amount = 30 }, # Bombegranate Pie Slice
+ { item = "arsdelight:bombegrante_steak", price_amount = 95 }, # Bombegranate Steak
+ { item = "arsdelight:bowl_of_wilden_salad", price_amount = 80 }, # Bowl of Wilden Salad
+ { item = "arsdelight:frostaya_mutton", price_amount = 95 }, # Frostaya Mutton
+ { item = "arsdelight:frostaya_pie_slice", price_amount = 30 }, # Frostaya Pie Slice
+ { item = "arsdelight:mendosteen_chicken", price_amount = 95 }, # Mendosteen Chicken
+ { item = "arsdelight:mendosteen_pie_slice", price_amount = 30 }, # Mendosteen Pie Slice
+ { item = "arsdelight:unstable_cocktail", price_amount = 80 }, # Unstable Cocktail
+ { item = "arsdelight:wilden_stew", price_amount = 95 }, # Wilden Stew
+ # T4
+ { item = "arsdelight:bastion_crate", price_amount = 90 }, # Bastion Crate - 9 fruit
+ { item = "arsdelight:bastion_pie", price_amount = 120 }, # Bastion Pie
+ { item = "arsdelight:bombegrante_crate", price_amount = 90 }, # Bombegranate Crate - 9 fruit
+ { item = "arsdelight:bombegrante_pie", price_amount = 120 }, # Bombegranate Pie
+ { item = "arsdelight:frostaya_crate", price_amount = 90 }, # Frostaya Crate - 9 fruit
+ { item = "arsdelight:frostaya_pie", price_amount = 120 }, # Frostaya Pie
+ { item = "arsdelight:mendosteen_crate", price_amount = 90 }, # Mendosteen Crate - 9 fruit
+ { item = "arsdelight:mendosteen_pie", price_amount = 120 }, # Mendosteen Pie
+ { item = "arsdelight:source_berry_crate", price_amount = 63 }, # Source Berry Crate - 9 sourceberries
+ # T5
+ { item = "arsdelight:bowl_of_honey_glazed_chimera", price_amount = 120 }, # Bowl of Honey Glazed Chimera
+ { item = "arsdelight:honey_glazed_chimera", price_amount = 240 }, # Honey Glazed Chimera feast
+ { item = "arsdelight:wilden_salad", price_amount = 180 }, # Wilden Salad feast
+ #
+ # Ars Nouveau (ars_nouveau)
+ # T0
+ { item = "ars_nouveau:magebloom_fiber", price_amount = 2 }, # Magebloom Fiber - 4 per magebloom
+ # T1
+ { item = "ars_nouveau:bastion_pod", price_amount = 10 }, # Bastion Fruit
+ { item = "ars_nouveau:bombegranate_pod", price_amount = 10 }, # Bombegranate
+ { item = "ars_nouveau:frostaya_pod", price_amount = 10 }, # Frostaya
+ { item = "ars_nouveau:magebloom", price_amount = 10 }, # Magebloom
+ { item = "ars_nouveau:mendosteen_pod", price_amount = 10 }, # Mendosteen
+ { item = "ars_nouveau:sourceberry_bush", price_amount = 7 }, # Sourceberry
+ # T2
+ { item = "ars_nouveau:source_berry_roll", price_amount = 24 }, # Source Berry Roll
+ { item = "ars_nouveau:source_gem", price_amount = 20 }, # Source Gem - low shipping payout vs tech value
+ { item = "ars_nouveau:wilden_horn", price_amount = 18 }, # Wilden Horn
+ { item = "ars_nouveau:wilden_spike", price_amount = 18 }, # Wilden Spike
+ { item = "ars_nouveau:wilden_wing", price_amount = 18 }, # Wilden Wing
+ # T3
+ { item = "ars_nouveau:source_berry_pie", price_amount = 45 }, # Source Berry Pie
+ # T4
+ { item = "ars_nouveau:magebloom_block", price_amount = 90 }, # Magebloom Block
+ { item = "ars_nouveau:source_gem_block", price_amount = 180 }, # Source Gem Block
+ { item = "ars_nouveau:sourceberry_sack", price_amount = 63 }, # Sourceberry Sack - 9 sourceberries
+ #
+ # Cobblemon (cobblemon)
+ # T0
   { item = "cobblemon:black_apricorn_seed", price_amount = 1 }, # Black Apricorn Seed
   { item = "cobblemon:blue_apricorn_seed", price_amount = 1 }, # Blue Apricorn Seed
   { item = "cobblemon:green_apricorn_seed", price_amount = 1 }, # Green Apricorn Seed

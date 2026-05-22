@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_tristan"
+name = "Youngster Tristan"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:staravia", level = 40, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["quickattack", "doubleteam", "aerialace", "takedown"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Tristan is ready for a battle.", "You’re a Pokémon Trainer, and so am I! Our eyes met, so battle we must!", "Don’t be shy about talking to Trainers you’d like to battle. Pokémon grow stronger and stronger from battling.", "I have trained this team for the road. Challenge me if you are ready."]

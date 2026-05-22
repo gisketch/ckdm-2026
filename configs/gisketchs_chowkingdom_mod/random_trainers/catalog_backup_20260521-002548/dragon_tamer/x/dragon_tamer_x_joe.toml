@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_x_joe"
+name = "Dragon Tamer Joe"
+title = "Dragon Tamer"
+gender = "any"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/any"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:gabite", level = 56, gender = "MALE", nature = "relaxed", ability = "sandveil", moveset = ["sandtomb", "bite", "dragonclaw", "dig"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 56, gender = "FEMALE", nature = "sassy", ability = "intimidate", moveset = ["icefang", "waterfall", "crunch", "dragondance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Learning how to manage tough Pokémon is the shortcut to getting tough.", "Getting the best out of any Pokémon... That’s what makes a good Trainer...", "I have trained this team for the road. Challenge me if you are ready."]

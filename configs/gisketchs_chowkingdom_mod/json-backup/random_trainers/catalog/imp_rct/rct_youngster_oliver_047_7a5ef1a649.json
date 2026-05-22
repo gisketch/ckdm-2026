@@ -1,0 +1,72 @@
+{
+  "id": "rct_youngster_oliver_047b",
+  "name": "Youngster Oliver",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:stunky",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "acidspray",
+        "furyswipes",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kricketune",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "furycutter",
+        "growl",
+        "pound",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

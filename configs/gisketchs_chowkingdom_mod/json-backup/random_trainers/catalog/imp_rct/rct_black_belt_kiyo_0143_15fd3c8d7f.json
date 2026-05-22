@@ -1,0 +1,42 @@
+{
+  "id": "rct_black_belt_kiyo_0143",
+  "name": "Black Belt Kiyo",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "wakeupslap",
+        "dualchop",
+        "submission",
+        "bulkup"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

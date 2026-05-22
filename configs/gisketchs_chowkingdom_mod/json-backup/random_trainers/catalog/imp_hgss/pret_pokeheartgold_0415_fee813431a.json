@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0415_psychic_male_jared",
+  "name": "Psychic Male Jared",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:mr_mime",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "skillswap",
+        "psychic",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "skillswap",
+        "psychic",
+        "sleeppowder",
+        "leechseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:exeggcute",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "skillswap",
+        "psychic",
+        "hypnosis",
+        "grassknot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "The Fighting Dojo next door was once this city\u2019s Gym.",
+    "Karate King, the master of the Fighting Dojo, was just destroyed by Sabrina."
+  ]
+}

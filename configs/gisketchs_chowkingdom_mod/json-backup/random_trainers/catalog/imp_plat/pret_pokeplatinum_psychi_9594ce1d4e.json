@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_psychic_maxwell",
+  "name": "Psychic Male Maxwell",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:misdreavus",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "For some reason I was drawn here, and it is here that I met you... I want to know what all this means!",
+    "I feel... I feel some sort of a mystic presence emanating from here..."
+  ]
+}

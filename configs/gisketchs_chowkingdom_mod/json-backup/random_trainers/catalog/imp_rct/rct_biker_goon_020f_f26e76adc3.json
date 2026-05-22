@@ -1,0 +1,60 @@
+{
+  "id": "rct_biker_goon_020f",
+  "name": "Biker Goon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 90,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "cobblemon:overqwil",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "knockoff",
+        "gunkshot",
+        "waterfall",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "dark_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dusknoir",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "pressure",
+      "moveset": [
+        "shadowpunch",
+        "dynamicpunch",
+        "shadowsneak",
+        "icepunch"
+      ],
+      "heldItem": [
+        "reaper_cloth"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

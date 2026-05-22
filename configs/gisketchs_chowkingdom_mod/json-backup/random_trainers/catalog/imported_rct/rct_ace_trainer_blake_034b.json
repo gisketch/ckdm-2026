@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_blake_034b",
+  "name": "Ace Trainer Blake",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "ambipom",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "pickup",
+      "moveset": [
+        "dualchop",
+        "batonpass",
+        "tickle",
+        "doublehit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kadabra",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "kinesis",
+        "recover",
+        "psyshock",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

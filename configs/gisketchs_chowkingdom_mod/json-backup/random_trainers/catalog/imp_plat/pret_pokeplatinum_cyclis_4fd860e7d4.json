@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_cyclist_rachel",
+  "name": "Cyclist Female Rachel",
+  "title": "Cyclist Female",
+  "gender": "female",
+  "archetype": "cyclist_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cyclist_female/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shinx",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Some people compete over speed, and some compete over technique. Which kind are you?",
+    "I enjoy the scenery. Don\u2019t you think the area below Cycling Road looks nice?"
+  ]
+}

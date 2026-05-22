@@ -1,0 +1,113 @@
+{
+  "id": "rct_rocket_admin_archer_ariana_m000",
+  "name": "Rocket Admins Archer & Ariana",
+  "title": "Rocket Admin Archer",
+  "gender": "any",
+  "archetype": "rocket_admin_archer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "incineroar",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "fakeout",
+        "partingshot",
+        "darkestlariat",
+        "firepunch"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gothitelle",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "hiddenpower",
+        "thunderwave"
+      ],
+      "heldItem": "colbur_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primarina",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "liquidvoice",
+      "moveset": [
+        "hypervoice",
+        "scald",
+        "psychic",
+        "dazzlinggleam"
+      ],
+      "heldItem": "throat_spray",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aegislash",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "stancechange",
+      "moveset": [
+        "ironhead",
+        "shadowclaw",
+        "shadowsneak",
+        "kingsshield"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mawile",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "playrough",
+        "suckerpunch",
+        "ironhead",
+        "thunderpunch"
+      ],
+      "heldItem": "mega_showdown:mawilite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "houndoom",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "unnerve",
+      "moveset": [
+        "heatwave",
+        "darkpulse",
+        "scorchingsands",
+        "suckerpunch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "silly_x_creator"
+name = "Silly Creator"
+title = "Silly"
+gender = "any"
+archetype = "silly"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "silly/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 100
+maxLevel = 100
+team = [
+  { species = "cobblemon:gigalith", level = 100, gender = "FEMALE", nature = "jolly", ability = "sandstream", moveset = ["explosion"], heldItem = "['smooth_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:shedinja", level = 100, gender = "GENDERLESS", nature = "jolly", ability = "wonderguard", moveset = ["phantomforce"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:shedinja", level = 100, gender = "GENDERLESS", nature = "jolly", ability = "wonderguard", moveset = ["phantomforce"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:shedinja", level = 100, gender = "GENDERLESS", nature = "jolly", ability = "wonderguard", moveset = ["phantomforce"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:shedinja", level = 100, gender = "GENDERLESS", nature = "jolly", ability = "wonderguard", moveset = ["phantomforce"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:shedinja", level = 100, gender = "GENDERLESS", nature = "jolly", ability = "wonderguard", moveset = ["phantomforce"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

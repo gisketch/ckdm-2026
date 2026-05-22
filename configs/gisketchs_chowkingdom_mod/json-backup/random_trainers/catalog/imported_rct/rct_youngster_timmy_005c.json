@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_timmy_005c",
+  "name": "Youngster Timmy",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "ponyta",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "tailwhip",
+        "flamewheel",
+        "lowkick",
+        "willowisp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mawile",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "faketears",
+        "bite",
+        "covet",
+        "metalclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_expert_ryuzoji_mimikyu_2_05e3",
+  "name": "Expert Ryuzoji",
+  "title": "Expert Ryuzoji Mimikyu",
+  "gender": "any",
+  "archetype": "expert_ryuzoji_mimikyu",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 82,
+  "maxLevel": 82,
+  "team": [
+    {
+      "species": "mimikyu",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "bulkup",
+        "thunderwave",
+        "protect"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

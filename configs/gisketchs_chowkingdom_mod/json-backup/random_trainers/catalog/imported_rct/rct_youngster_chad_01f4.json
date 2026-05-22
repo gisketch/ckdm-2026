@@ -1,0 +1,49 @@
+{
+  "id": "rct_youngster_chad_01f4",
+  "name": "Youngster Chad",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "glare",
+        "poisontail",
+        "screech",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandshrew",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sandveil",
+      "moveset": [
+        "magnitude",
+        "bulldoze",
+        "swift",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

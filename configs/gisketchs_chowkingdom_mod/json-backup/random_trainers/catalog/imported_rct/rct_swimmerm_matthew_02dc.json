@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerm_matthew_02dc",
+  "name": "Swimmer♂ Matthew",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "damp",
+      "moveset": [
+        "mudshot",
+        "bellydrum",
+        "wakeupslap",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "poliwrath",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "damp",
+      "moveset": [
+        "bubblebeam",
+        "hypnosis",
+        "doubleslap",
+        "dynamicpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

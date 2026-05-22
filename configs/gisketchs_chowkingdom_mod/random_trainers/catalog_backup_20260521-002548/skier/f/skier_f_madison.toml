@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_f_madison"
+name = "Skier Madison"
+title = "Skier"
+gender = "female"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "skier/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:froslass", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rainy days make me feel blue... But the instant it starts to snow, I’m as happy as can be!", "Can any of your Pokémon use that hidden move to climb cliffs?", "Skier Female Madison is ready for a battle."]

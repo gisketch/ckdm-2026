@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_devon"
+name = "Beauty Devon"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:wormadam", level = 25, gender = "FEMALE", nature = "calm", ability = "anticipation", moveset = ["quiverdance", "suckerpunch", "bugbite", "confusion"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Oh? A little kid like you is going to teach me about Pokémon?", "There are so many kinds of Pokémon. I can’t decide which one to pamper.", "I have trained this team for the road. Challenge me if you are ready."]

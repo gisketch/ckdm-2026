@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_isaiah",
+  "name": "Ace Trainer Snow Male Isaiah",
+  "title": "Ace Trainer Snow Male",
+  "gender": "male",
+  "archetype": "ace_trainer_snow_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:piloswine",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthquake",
+        "furyattack",
+        "icefang",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My willpower was shaped and tempered by howling blizzards. I\u2019ll bring it to bear on you!",
+    "I\u2019ve battled countless Trainers and many more Pok\u00e9mon still. My spirit has been hardened from all the battles I have fought."
+  ]
+}

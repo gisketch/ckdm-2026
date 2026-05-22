@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_lucian_03a2",
+  "name": "Elite Four Lucian",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "filter",
+      "moveset": [
+        "lightscreen",
+        "reflect",
+        "psychic",
+        "dazzlinggleam"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "girafarig",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "sapsipper",
+      "moveset": [
+        "lightscreen",
+        "psychic",
+        "thunderbolt",
+        "trickroom"
+      ],
+      "heldItem": "mental_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "medicham",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "highjumpkick",
+        "thunderpunch",
+        "icepunch"
+      ],
+      "heldItem": "muscle_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alakazam",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "magicguard",
+      "moveset": [
+        "nastyplot",
+        "psychic",
+        "futuresight",
+        "shockwave"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bronzong",
+      "level": 63,
+      "gender": "GENDERLESS",
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "gyroball",
+        "earthquake",
+        "payback",
+        "trickroom"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

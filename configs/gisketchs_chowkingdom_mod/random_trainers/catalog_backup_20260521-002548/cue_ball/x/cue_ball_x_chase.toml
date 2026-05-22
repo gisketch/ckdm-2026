@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cue_ball_x_chase"
+name = "Cue Ball Chase"
+title = "Cue Ball"
+gender = "any"
+archetype = "cue_ball"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "cue_ball/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:tentacool", level = 31, gender = "MALE", nature = "quiet", ability = "liquidooze", moveset = ["sludge", "bubblebeam", "barrier", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacool", level = 31, gender = "MALE", nature = "lax", ability = "liquidooze", moveset = ["sludge", "bubblebeam", "barrier", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 31, gender = "FEMALE", nature = "careful", ability = "liquidooze", moveset = ["acidspray", "sludge", "bubblebeam", "barrier"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cue Ball Chase is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerm_tony_00f0",
+  "name": "Swimmer♂ Tony",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "seadra",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisontouch",
+      "moveset": [
+        "agility",
+        "dragonpulse",
+        "dragondance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "samurott",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "torrent",
+      "moveset": [
+        "swordsdance",
+        "hydropump",
+        "sacredsword",
+        "razorshell"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

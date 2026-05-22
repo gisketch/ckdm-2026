@@ -1,0 +1,106 @@
+{
+  "id": "rct_elite_four_bruno_02e0",
+  "name": "Bruno",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 65,
+  "maxLevel": 68,
+  "team": [
+    {
+      "species": "cobblemon:steelix",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "irontail",
+        "crunch",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmonchan",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "ironfist",
+      "moveset": [
+        "skyuppercut",
+        "machpunch",
+        "rockslide",
+        "counter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmonlee",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "reckless",
+      "moveset": [
+        "megakick",
+        "foresight",
+        "earthquake",
+        "rockslide"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 66,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "irontail",
+        "crunch",
+        "dragonbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "noguard",
+      "moveset": [
+        "crosschop",
+        "earthquake",
+        "brickbreak",
+        "rockslide"
+      ],
+      "heldItem": [
+        "persim_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

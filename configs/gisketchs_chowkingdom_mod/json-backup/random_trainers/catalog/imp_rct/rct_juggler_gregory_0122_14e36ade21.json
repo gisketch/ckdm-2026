@@ -1,0 +1,39 @@
+{
+  "id": "rct_juggler_gregory_0122",
+  "name": "Juggler Gregory",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 83,
+  "maxLevel": 83,
+  "team": [
+    {
+      "species": "cobblemon:mrmime",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "solidrock",
+      "moveset": [
+        "psychic",
+        "dazzlinggleam",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

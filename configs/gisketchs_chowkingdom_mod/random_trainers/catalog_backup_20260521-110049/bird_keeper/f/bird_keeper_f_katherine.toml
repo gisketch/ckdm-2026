@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_f_katherine"
+name = "Bird Keeper Katherine"
+title = "Bird Keeper"
+gender = "female"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = "standard"
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:noctowl", level = 31, gender = "FEMALE", nature = "calm", ability = "keeneye", moveset = ["skyattack", "reflect", "psychoshift", "extrasensory"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I go everywhere with my NOCTOWL. We’re gonna show you owl best! Ha!", "Even on cold days, just being with my NOCTOWL keeps me warm!", "I have trained this team for the road. Challenge me if you are ready."]

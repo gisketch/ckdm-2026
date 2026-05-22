@@ -1,0 +1,49 @@
+{
+  "id": "rct_beauty_grace_029a",
+  "name": "Beauty Grace",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "pidgeot",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "tangledfeet",
+      "moveset": [
+        "roost",
+        "agility",
+        "airslash",
+        "mirrormove"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wigglytuff",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "competitive",
+      "moveset": [
+        "playrough",
+        "sing",
+        "disable",
+        "covet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_johnson_0216",
+  "name": "Youngster Johnson",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 71,
+  "maxLevel": 71,
+  "team": [
+    {
+      "species": "arbok",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "shedskin",
+      "moveset": [
+        "jawlock",
+        "belch",
+        "haze",
+        "gunkshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grimmsnarl",
+      "level": 71,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "frisk",
+      "moveset": [
+        "nastyplot",
+        "playrough",
+        "foulplay",
+        "hammerarm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "krookodile",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "moxie",
+      "moveset": [
+        "foulplay",
+        "sandstorm",
+        "earthquake",
+        "wickedblow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

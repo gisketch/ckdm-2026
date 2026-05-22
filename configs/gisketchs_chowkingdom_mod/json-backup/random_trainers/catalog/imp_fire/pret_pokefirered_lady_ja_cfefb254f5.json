@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokefirered_lady_jacki",
+  "name": "Lady Jacki",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 48,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:hoppip",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lady Jacki is ready for a battle."
+  ]
+}

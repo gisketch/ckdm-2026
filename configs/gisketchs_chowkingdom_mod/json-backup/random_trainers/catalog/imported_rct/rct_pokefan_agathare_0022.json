@@ -1,0 +1,32 @@
+{
+  "id": "rct_pokefan_agathare_0022",
+  "name": "Pokéfan AgathaRe",
+  "title": "Pokefan",
+  "gender": "any",
+  "archetype": "pokefan",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "intimidate",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

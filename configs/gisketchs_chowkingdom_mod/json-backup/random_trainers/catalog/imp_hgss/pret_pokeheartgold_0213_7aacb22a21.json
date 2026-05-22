@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0213_sailor_kent",
+  "name": "Sailor Kent",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:krabby",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubblebeam",
+        "leer",
+        "vicegrip",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:krabby",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bubblebeam",
+        "mudshot",
+        "vicegrip",
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Jasmine must be worried sick about the Pok\u00e9mon here. She won\u2019t even smile these days.",
+    "Speaking of being sick, I\u2019ve heard there\u2019s a good Pharmacy in Cianwood."
+  ]
+}

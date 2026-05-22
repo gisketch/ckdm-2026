@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmer_gabrielle_0379",
+  "name": "Swimmer Gabrielle",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "golduck",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "cloudnine",
+      "moveset": [
+        "aquajet",
+        "zenheadbutt",
+        "screech",
+        "aquatail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

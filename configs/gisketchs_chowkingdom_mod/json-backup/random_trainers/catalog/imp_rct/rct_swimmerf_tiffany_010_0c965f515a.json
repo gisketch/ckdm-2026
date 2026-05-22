@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmerf_tiffany_010e",
+  "name": "Swimmer\u2640 Tiffany",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 65,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:lapras",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "hydration",
+      "moveset": [
+        "hydropump",
+        "dragonpulse",
+        "wish",
+        "boomburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

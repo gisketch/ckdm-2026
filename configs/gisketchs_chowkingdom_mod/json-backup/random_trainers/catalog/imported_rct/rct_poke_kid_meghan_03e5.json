@@ -1,0 +1,81 @@
+{
+  "id": "rct_poke_kid_meghan_03e5",
+  "name": "Poké Kid Meghan",
+  "title": "Poke Kid",
+  "gender": "any",
+  "archetype": "poke_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "charm",
+        "spark",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "doubleteam",
+        "spark",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "electroball",
+        "agility",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "charm",
+        "nastyplot",
+        "thunderbolt",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

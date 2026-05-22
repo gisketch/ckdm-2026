@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_gentleman_jeremy",
+  "name": "Gentleman Jeremy",
+  "title": "Gentleman",
+  "gender": "male",
+  "archetype": "gentleman",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "gentleman/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:chatot",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If it pleases you, may I challenge you to a battle?",
+    "Hahaha! I was invited by the master of the Pok\u00e9mon Mansion. He\u2019s promised to show me through his prized garden of Pok\u00e9mon."
+  ]
+}

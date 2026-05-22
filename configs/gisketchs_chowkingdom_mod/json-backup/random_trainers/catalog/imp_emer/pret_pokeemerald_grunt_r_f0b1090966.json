@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_grunt_rusturf_tunnel",
+  "name": "Team Aqua Grunt",
+  "title": "Team Aqua",
+  "gender": "any",
+  "archetype": "team_aqua",
+  "region": "Hoenn",
+  "category": "team",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "team_aqua/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:poochyena",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Team Aqua Grunt is ready for a battle."
+  ]
+}

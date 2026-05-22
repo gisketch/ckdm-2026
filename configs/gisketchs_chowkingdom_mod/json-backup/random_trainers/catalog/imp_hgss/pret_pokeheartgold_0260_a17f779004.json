@@ -1,0 +1,120 @@
+{
+  "id": "pret_pokeheartgold_0260_pokemon_trainer_red_red",
+  "name": "Pokemon Trainer Red Red",
+  "title": "Pokemon Trainer Red",
+  "gender": "any",
+  "archetype": "pokemon_trainer_red",
+  "region": "Johto/Kanto",
+  "category": "unique",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "pokemon_trainer_red/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 80,
+  "maxLevel": 88,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 88,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "volttackle",
+        "irontail",
+        "quickattack",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lapras",
+      "level": 80,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "blizzard",
+        "brine",
+        "psychic",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:snorlax",
+      "level": 82,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "shadowball",
+        "crunch",
+        "blizzard",
+        "gigaimpact"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:venusaur",
+      "level": 84,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sludgebomb",
+        "gigadrain",
+        "sleeppowder",
+        "frenzyplant"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:charizard",
+      "level": 84,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "flareblitz",
+        "airslash",
+        "blastburn",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:blastoise",
+      "level": 84,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "focusblast",
+        "hydrocannon",
+        "blizzard",
+        "flashcannon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Trainer Red Red is ready for a battle."
+  ]
+}

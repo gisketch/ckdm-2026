@@ -1,0 +1,115 @@
+{
+  "id": "rct_channeler_rachel_0093",
+  "name": "Channeler Rachel",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "grimmsnarl",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "prankster",
+      "moveset": [
+        "fakeout",
+        "reflect",
+        "lightscreen",
+        "toxic"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "moltres",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "berserk",
+      "moveset": [
+        "darkpulse",
+        "agility",
+        "hurricane",
+        "roost"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "zoroark",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "illusion",
+      "moveset": [
+        "uturn",
+        "focusblast",
+        "darkpulse",
+        "flamethrower"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sneasler",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonjab",
+        "closecombat",
+        "icepunch",
+        "earthquake"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "absol",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "nightslash",
+        "swordsdance",
+        "psychocut",
+        "playrough"
+      ],
+      "heldItem": "mega_showdown:absolite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bisharp",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "defiant",
+      "moveset": [
+        "knockoff",
+        "ironhead",
+        "suckerpunch",
+        "stoneedge"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_missy_02ac",
+  "name": "Picnicker Missy",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:seaking",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

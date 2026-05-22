@@ -1,0 +1,33 @@
+{
+  "id": "rct_beauty_cyndy_03f2",
+  "name": "Beauty Cyndy",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "glameow",
+      "level": 23,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "owntempo",
+      "moveset": [
+        "scratch",
+        "growl",
+        "aerialace",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

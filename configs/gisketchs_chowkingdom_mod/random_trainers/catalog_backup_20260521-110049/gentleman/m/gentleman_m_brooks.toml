@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_brooks"
+name = "Gentleman Brooks"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "very_high"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 90
+maxLevel = 92
+team = [
+  { species = "cobblemon:dartrix", level = 90, gender = "FEMALE", nature = "modest", ability = "tintedlens", moveset = ["shadowsneak", "grasspledge", "airslash", "hiddenpower"], heldItem = "['miracle_seed']", shiny = false, aspects = [] },
+  { species = "cobblemon:simisage", level = 92, gender = "FEMALE", nature = "timid", ability = "gluttony", moveset = ["grasspledge", "focusblast", "hiddenpower", "powergem"], heldItem = "['miracle_seed']", shiny = false, aspects = [] },
+  { species = "cobblemon:wigglytuff", level = 90, gender = "MALE", nature = "modest", ability = "sheerforce", moveset = ["drainingkiss", "shockwave", "round", "incinerate"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Brooks is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

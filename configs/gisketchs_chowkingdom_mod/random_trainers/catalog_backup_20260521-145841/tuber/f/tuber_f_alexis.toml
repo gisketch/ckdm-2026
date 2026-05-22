@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_f_alexis"
+name = "Tuber Alexis"
+title = "Tuber"
+gender = "female"
+archetype = "tuber"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "tuber/female"
+tier = "very_high"
+spawnable = true
+height = 0.89
+weight = 0.91
+bustStyle = "standard"
+minLevel = 91
+maxLevel = 93
+team = [
+  { species = "cobblemon:carracosta", level = 93, gender = "FEMALE", nature = "timid", ability = "sturdy", moveset = ["shellsmash", "aquajet", "waterfall", "stoneedge"], heldItem = "['salac_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:kingler", level = 93, gender = "FEMALE", nature = "jolly", ability = "sheerforce", moveset = ["liquidation", "swordsdance", "closecombat", "aquajet"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:slowbro", level = 93, gender = "MALE", nature = "bold", ability = "regenerator", moveset = ["irondefense", "calmmind", "bodypress", "shadowball"], heldItem = "['mega_showdown:slowbronite', 'leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 92, gender = "MALE", nature = "modest", ability = "illuminate", moveset = ["hydropump", "blizzard", "thunder", "voltswitch"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:hydreigon", level = 91, gender = "FEMALE", nature = "timid", ability = "levitate", moveset = ["fireblast", "surf", "darkpulse", "nastyplot"], heldItem = "['mega_showdown:waterium_z', 'water_gem']", shiny = false, aspects = [] },
+]
+dialogue = ["Tuber Alexis is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

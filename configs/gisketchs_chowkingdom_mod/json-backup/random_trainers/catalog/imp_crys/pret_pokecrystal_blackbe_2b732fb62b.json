@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokecrystal_blackbelt_004_lao",
+  "name": "Blackbelt Lao",
+  "title": "Blackbelt",
+  "gender": "any",
+  "archetype": "blackbelt",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "blackbelt/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:hitmonchan",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "cometpunch",
+        "thunderpunch",
+        "icepunch",
+        "firepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Blackbelt Lao is ready for a battle."
+  ]
+}

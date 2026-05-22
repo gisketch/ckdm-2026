@@ -1,0 +1,53 @@
+{
+  "id": "rct_bug_catcher_brandon_0531",
+  "name": "Bug Catcher Brandon",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:kricketune",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "swarm",
+      "moveset": [
+        "strugglebug",
+        "absorb",
+        "sing",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:silcoon",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_alexis"
+name = "Psychic Alexis"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = "standard"
+minLevel = 41
+maxLevel = 41
+team = [
+  { species = "cobblemon:kirlia", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:xatu", level = 41, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Alexis is ready for a battle."]

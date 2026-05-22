@@ -1,0 +1,40 @@
+{
+  "id": "rct_channeler_hope_01bb",
+  "name": "Channeler Hope",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "cobblemon:banette",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "insomnia",
+      "moveset": [
+        "hex",
+        "curse",
+        "shadowball",
+        "embargo"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

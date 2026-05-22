@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_mickey"
+name = "Youngster Mickey"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "mid"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 37
+maxLevel = 37
+team = [
+  { species = "cobblemon:raticate", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hyperbeam", "quickattack", "hyperfang", "pursuit"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Mickey is ready for a battle."]

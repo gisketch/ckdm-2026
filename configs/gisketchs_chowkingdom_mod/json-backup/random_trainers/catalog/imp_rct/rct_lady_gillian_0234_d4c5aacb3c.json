@@ -1,0 +1,74 @@
+{
+  "id": "rct_lady_gillian_0234",
+  "name": "Lady Gillian",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:mareep",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "signalbeam",
+        "lightscreen",
+        "thunder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mareep",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "signalbeam",
+        "lightscreen",
+        "thunder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flaaffy",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "static",
+      "moveset": [
+        "confuseray",
+        "powergem",
+        "discharge",
+        "signalbeam"
+      ],
+      "heldItem": [
+        "minecraft:gold_nugget"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

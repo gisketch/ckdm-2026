@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_youngster_logan",
+  "name": "Youngster Logan",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:burmy",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Let\u2019s have a Pok\u00e9mon battle! Humph! But I\u2019m gonna win!",
+    "It was fun battling! Yup! I\u2019m going to battle everyone!"
+  ]
+}

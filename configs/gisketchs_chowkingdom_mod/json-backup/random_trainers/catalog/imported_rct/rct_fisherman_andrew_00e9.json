@@ -1,0 +1,65 @@
+{
+  "id": "rct_fisherman_andrew_00e9",
+  "name": "Fisherman Andrew",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 91,
+  "team": [
+    {
+      "species": "froslass",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "snowcloak",
+      "moveset": [
+        "auroraveil",
+        "blizzard",
+        "shadowball",
+        "freezedry"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "barbaracle",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "shellsmash",
+        "liquidation",
+        "closecombat",
+        "stoneedge"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arctozolt",
+      "level": 89,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "slushrush",
+      "moveset": [
+        "boltbeak",
+        "blizzard",
+        "lowkick",
+        "stoneedge"
+      ],
+      "heldItem": "magnet",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

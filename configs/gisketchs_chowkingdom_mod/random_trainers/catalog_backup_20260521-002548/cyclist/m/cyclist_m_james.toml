@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_m_james"
+name = "Cyclist James"
+title = "Cyclist"
+gender = "male"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "cyclist/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:ponyta", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ding-ding! Watch out, you! Or, did you want to battle?", "I might try racing through Cycling Road in one long shot."]

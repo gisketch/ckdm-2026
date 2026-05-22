@@ -1,0 +1,81 @@
+{
+  "id": "rct_biker_lukas_0295",
+  "name": "Biker Lukas",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "koffing",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "explosion",
+        "destinybond",
+        "belch",
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "koffing",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "explosion",
+        "destinybond",
+        "belch",
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "muk",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "stickyhold",
+      "moveset": [
+        "poisonfang",
+        "screech",
+        "gunkshot",
+        "acidarmor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weezing",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "gyroball",
+        "sludgebomb",
+        "explosion",
+        "destinybond"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

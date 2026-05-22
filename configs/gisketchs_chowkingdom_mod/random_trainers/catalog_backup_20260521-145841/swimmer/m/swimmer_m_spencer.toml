@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_spencer"
+name = "Swimmer Spencer"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 63
+maxLevel = 64
+team = [
+  { species = "cobblemon:inteleon", level = 63, gender = "FEMALE", nature = "naive", ability = "torrent", moveset = ["liquidation", "soak", "raindance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tentacruel", level = 64, gender = "FEMALE", nature = "calm", ability = "liquidooze", moveset = ["hex", "sludgewave", "hydropump", "wringout"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Spencer is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_brandi"
+name = "Ace Trainer Brandi"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 54
+maxLevel = 57
+team = [
+  { species = "cobblemon:marowak", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bonerush", "stoneedge", "swordsdance", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kangaskhan", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dizzypunch", "crunch", "outrage", "earthquake"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I will win. I am sure of it. Therefore, you will lose!", "It’s not that you’ve won. It’s just that I lost! ...It’s all the same. Go, me."]

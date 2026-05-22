@@ -1,0 +1,90 @@
+{
+  "id": "rct_camper_drew_0095",
+  "name": "Camper Drew",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "furcoat",
+      "moveset": [
+        "furyswipes",
+        "screech",
+        "feintattack",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cobblemon:palpitoad",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "swiftswim",
+      "moveset": [
+        "bubblebeam",
+        "mudshot",
+        "aquaring",
+        "uproar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:stunky",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "stench",
+      "moveset": [
+        "acidspray",
+        "bite",
+        "slash",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:spinda",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "owntempo",
+      "moveset": [
+        "psybeam",
+        "hypnosis",
+        "dizzypunch",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

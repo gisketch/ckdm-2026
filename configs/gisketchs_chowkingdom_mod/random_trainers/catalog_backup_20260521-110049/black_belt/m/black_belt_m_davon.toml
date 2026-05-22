@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_davon"
+name = "Black Belt Davon"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 58
+maxLevel = 60
+team = [
+  { species = "cobblemon:primeape", level = 58, gender = "MALE", nature = "adamant", ability = "vitalspirit", moveset = ["finalgambit", "closecombat", "thrash", "crosschop"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hariyama", level = 59, gender = "FEMALE", nature = "adamant", ability = "thickfat", moveset = ["fakeout", "endure", "reversal", "heavyslam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hariyama", level = 60, gender = "FEMALE", nature = "adamant", ability = "guts", moveset = ["fakeout", "endure", "reversal", "heavyslam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Black Belt Davon is ready for a battle.", "My quest for power brought me here. It was beneath the desert sand that I toughened my body and soul. Accept my challenge! Uraah!", "I thought I couldn’t win before it became a fact... I’ve let down my Pokémon... They go to battle with faith in their Trainer...", "I have trained this team for the road. Challenge me if you are ready."]

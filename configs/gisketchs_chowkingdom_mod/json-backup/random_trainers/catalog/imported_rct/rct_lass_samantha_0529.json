@@ -1,0 +1,32 @@
+{
+  "id": "rct_lass_samantha_0529",
+  "name": "Lass Samantha",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "roselia",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "poisonpoint",
+      "moveset": [
+        "gigadrain",
+        "toxic",
+        "petalblizzard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

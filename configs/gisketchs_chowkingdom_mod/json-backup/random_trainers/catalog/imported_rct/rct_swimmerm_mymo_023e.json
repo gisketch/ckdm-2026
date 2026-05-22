@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerm_mymo_023e",
+  "name": "Swimmer♂ Mymo",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "kingler",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "hypercutter",
+      "moveset": [
+        "metalclaw",
+        "stomp",
+        "slash",
+        "slam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wartortle",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "torrent",
+      "moveset": [
+        "skullbash",
+        "irondefense",
+        "raindance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

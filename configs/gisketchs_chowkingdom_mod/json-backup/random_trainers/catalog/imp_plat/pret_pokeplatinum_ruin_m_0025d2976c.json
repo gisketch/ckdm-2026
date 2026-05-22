@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_ruin_maniac_karl",
+  "name": "Ruin Maniac Karl",
+  "title": "Ruin Maniac",
+  "gender": "any",
+  "archetype": "ruin_maniac",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ruin_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:geodude",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bronzor",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ancient ruins rife with the UNOWN... There has to be a meaning! But its significance eludes me, and that\u2019s gotten me cranky!",
+    "The significance of the ancient ruins... Only Pok\u00e9mon that look like the letters of some strange language... Can they be trying to convey a message to us?"
+  ]
+}

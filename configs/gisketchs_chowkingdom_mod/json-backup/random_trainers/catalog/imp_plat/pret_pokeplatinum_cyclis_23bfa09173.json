@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_cyclist_kayla",
+  "name": "Cyclist Female Kayla",
+  "title": "Cyclist Female",
+  "gender": "female",
+  "archetype": "cyclist_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cyclist_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 21,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If you beat me, you can count on something rotten coming your way!",
+    "Aww! Why did you beat me?! I hope you get so lost in Wayward Cave you cry! Boo-hoo-hoo!"
+  ]
+}

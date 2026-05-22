@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_reena"
+name = "Ace Trainer Reena"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 53
+maxLevel = 56
+team = [
+  { species = "cobblemon:arcanine", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flareblitz", "extremespeed", "crunch", "roar"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidoqueen", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["captivate", "poisonfang", "earthpower", "bodyslam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["surf", "minimize", "cosmicpower", "psychic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerf Reena is ready for a battle.", "You came from New Bark Town? You must be exhausted.", "If you’re that energetic, you can definitely make it to the Pokémon League!", "Ace Trainer Female Reena is ready for a battle."]

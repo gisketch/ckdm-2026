@@ -1,0 +1,49 @@
+{
+  "id": "rct_super_nerd_jovan_00a9",
+  "name": "Super Nerd Jovan",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "magnemite",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "sturdy",
+      "moveset": [
+        "shockwave",
+        "thunderwave",
+        "magnetbomb",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxel",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "acid",
+        "growl",
+        "tearfullook",
+        "nuzzle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

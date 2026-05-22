@@ -1,0 +1,33 @@
+{
+  "id": "rct_bird_keeper_donald_012f",
+  "name": "Bird Keeper Donald",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "farfetchd",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "frisk",
+      "moveset": [
+        "acrobatics",
+        "feint",
+        "falseswipe",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

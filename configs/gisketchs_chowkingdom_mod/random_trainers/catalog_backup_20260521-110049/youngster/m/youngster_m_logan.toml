@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_logan"
+name = "Youngster Logan"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:shinx", level = 5, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["tackle", "leer", "thundershock"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let’s have a Pokémon battle! Humph! But I’m gonna win!", "It was fun battling! Yup! I’m going to battle everyone!", "I have trained this team for the road. Challenge me if you are ready."]

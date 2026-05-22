@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_socialite_rebecca",
+  "name": "Socialite Rebecca",
+  "title": "Socialite",
+  "gender": "any",
+  "archetype": "socialite",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "socialite/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:purugly",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Socialite Rebecca is ready for a battle."
+  ]
+}

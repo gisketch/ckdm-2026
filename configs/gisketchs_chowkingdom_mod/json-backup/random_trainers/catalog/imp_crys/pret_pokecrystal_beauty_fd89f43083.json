@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokecrystal_beauty_016_valerie",
+  "name": "Beauty Valerie",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:hoppip",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "synthesis",
+        "tailwhip",
+        "tackle",
+        "poisonpowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "synthesis",
+        "tailwhip",
+        "tackle",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Beauty Valerie is ready for a battle."
+  ]
+}

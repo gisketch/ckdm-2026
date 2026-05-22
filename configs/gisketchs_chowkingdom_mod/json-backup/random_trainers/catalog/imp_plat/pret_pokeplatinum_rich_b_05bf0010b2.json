@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_rich_boy_trey_rematch_2",
+  "name": "Rich Boy Trey",
+  "title": "Rich Boy",
+  "gender": "male",
+  "archetype": "rich_boy",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "rich_boy/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 61,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "cobblemon:luxray",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Rich Boy Trey is ready for a battle."
+  ]
+}

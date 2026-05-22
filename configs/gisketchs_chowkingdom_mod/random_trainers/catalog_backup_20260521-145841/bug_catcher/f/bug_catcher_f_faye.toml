@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_f_faye"
+name = "Bug Catcher Faye"
+title = "Bug Catcher"
+gender = "female"
+archetype = "bug_catcher"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "bug_catcher/female"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = "standard"
+minLevel = 9
+maxLevel = 9
+team = [
+  { species = "cobblemon:weedle", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bugcatcher from Viridian Forest is ready for a battle."]

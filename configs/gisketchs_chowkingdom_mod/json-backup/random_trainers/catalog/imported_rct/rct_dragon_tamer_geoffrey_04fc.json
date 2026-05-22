@@ -1,0 +1,49 @@
+{
+  "id": "rct_dragon_tamer_geoffrey_04fc",
+  "name": "Dragon Tamer Geoffrey",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "dragonair",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "shedskin",
+      "moveset": [
+        "dragonrush",
+        "dragondance",
+        "outrage",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonair",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "dragonrush",
+        "dragondance",
+        "aquatail",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

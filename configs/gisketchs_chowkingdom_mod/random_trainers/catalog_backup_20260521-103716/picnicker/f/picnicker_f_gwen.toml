@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_gwen"
+name = "Picnicker Gwen"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "high"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:nidorina", level = 57, gender = "FEMALE", nature = "modest", ability = "poisontouch", moveset = ["toxicspikes", "flatter", "crunch", "captivate"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:eevee", level = 57, gender = "FEMALE", nature = "sassy", ability = "runaway", moveset = ["charm", "doubleedge", "lastresort", "trumpcard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:prinplup", level = 57, gender = "FEMALE", nature = "lax", ability = "torrent", moveset = ["whirlpool", "mist", "drillpeck", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:riolu", level = 57, gender = "FEMALE", nature = "bold", ability = "steadfast", moveset = ["screech", "reversal", "nastyplot", "finalgambit"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Gwen is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

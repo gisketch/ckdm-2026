@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0222_team_rocket_grunt",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hyuck-hyuck-hyuck! You\u2019re challenging me to a battle? Hah! You\u2019re nuts, but you have guts! I like that! If you can beat me, I\u2019ll tell you a password to the boss\u2019s room!",
+    "The password for the boss\u2019s door-- RATICATETAIL. But if you don\u2019t have both passwords... Ha ha ha!"
+  ]
+}

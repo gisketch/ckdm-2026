@@ -1,0 +1,129 @@
+{
+  "id": "rct_pokemon_trainer_dawn_059d",
+  "name": "Pok\u00e9mon Trainer Dawn",
+  "title": "Pok\u00e9mon Trainer",
+  "gender": "any",
+  "archetype": "pok_mon_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "cobblemon:togekiss",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "serenegrace",
+      "moveset": [
+        "dazzlinggleam",
+        "airslash",
+        "aurasphere",
+        "thunderwave"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellossom",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "moonblast",
+        "petaldance",
+        "toxic",
+        "quiverdance"
+      ],
+      "heldItem": [
+        "persim_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mamoswine",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "iceshard",
+        "earthquake",
+        "stoneedge",
+        "avalanche"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:typhlosion",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "eruption"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lopunny",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "klutz",
+      "moveset": [
+        "highjumpkick",
+        "thunderwave",
+        "sweetkiss",
+        "switcheroo"
+      ],
+      "heldItem": [
+        "iron_ball"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "flashcannon",
+        "icebeam",
+        "grassknot"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0319_firebreather_bill",
+  "name": "Firebreather Bill",
+  "title": "Firebreather",
+  "gender": "any",
+  "archetype": "firebreather",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "firebreather/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "ZUBAT\u2019s Supersonic keeps confusing my Pok\u00e9mon. I\u2019m seriously upset about that!",
+    "I\u2019ve practiced training my Pok\u00e9mon, but I\u2019ve practiced breathing fire many more times than that. Don\u2019t try this at home, OK?"
+  ]
+}

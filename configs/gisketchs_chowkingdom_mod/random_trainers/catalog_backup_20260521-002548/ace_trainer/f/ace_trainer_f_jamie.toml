@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_jamie"
+name = "Ace Trainer Jamie"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 56
+maxLevel = 59
+team = [
+  { species = "cobblemon:rapidash", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bounce", "firespin", "flareblitz", "ember"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ampharos", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["powergem", "thunder", "signalbeam", "charge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I lost to a redheaded Trainer. He was really strong, but...it was as if he absolutely had to win at any cost. I felt sorry for his Pokémon.", "Pokémon are invaluable, lifelong partners.", "Ace Trainer Female Jamie is ready for a battle.", "I constantly analyze Pokémon and various battles on my laptop.", "I had a lot of fun battling with you, though. I wonder if I can analyze the battle data properly? I could use a rematch to get some additional data."]

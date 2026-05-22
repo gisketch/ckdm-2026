@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerf_alice_02aa",
+  "name": "Swimmer\u2640 Alice",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:seaking",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

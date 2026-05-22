@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_ashlee_054b",
+  "name": "Pokémon Ranger Ashlee",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "linoone",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "slash",
+        "rest",
+        "bellydrum",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skarmory",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "steelwing",
+        "bravebird",
+        "slash",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

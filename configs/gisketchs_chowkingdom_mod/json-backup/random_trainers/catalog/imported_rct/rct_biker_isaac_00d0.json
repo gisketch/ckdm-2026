@@ -1,0 +1,65 @@
+{
+  "id": "rct_biker_isaac_00d0",
+  "name": "Biker Isaac",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "garbodor",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "weakarmor",
+      "moveset": [
+        "screech",
+        "toxicspikes",
+        "sludgebomb",
+        "spikes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crobat",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "sniper",
+      "moveset": [
+        "screech",
+        "bravebird",
+        "sludgebomb",
+        "heatwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rhydon",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "smokescreen",
+        "earthquake",
+        "rockblast",
+        "megahorn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

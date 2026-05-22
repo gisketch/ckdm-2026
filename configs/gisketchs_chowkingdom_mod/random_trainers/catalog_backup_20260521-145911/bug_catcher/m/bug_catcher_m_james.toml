@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_james"
+name = "Bug Catcher James"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 13
+maxLevel = 13
+team = [
+  { species = "cobblemon:ledyba", level = 13, gender = "MALE", nature = "serious", ability = "earlybird", moveset = ["swift", "lightscreen", "reflect", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:surskit", level = 13, gender = "MALE", nature = "naughty", ability = "swiftswim", moveset = ["bubble", "signalbeam", "quickattack", "sweetscent"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher James is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_desiree"
+name = "Psychic Desiree"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:mr_mime", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "reflect", "lightscreen", "drainpunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mismagius", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shadowball", "magicalleaf", "aerialace", "shockwave"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Allow me to demonstrate how a true Psychic conducts a battle!", "What can psychic power be used for? Well, one mustn’t use it for committing crimes. But, I don’t use it for doing good, either. Using psychic power leaves me too worn out!"]

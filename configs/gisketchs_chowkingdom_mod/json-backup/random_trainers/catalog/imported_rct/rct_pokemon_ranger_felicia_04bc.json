@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_felicia_04bc",
+  "name": "Pokémon Ranger Felicia",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "lickitung",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "stomp",
+        "knockoff",
+        "powerwhip",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vigoroth",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "vitalspirit",
+      "moveset": [
+        "reversal",
+        "counter",
+        "uproar",
+        "encore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

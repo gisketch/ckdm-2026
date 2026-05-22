@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeheartgold_0340_beauty_mickey",
+  "name": "Beauty Mickey",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "cobblemon:sentret",
+      "level": 15,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Beauty Mickey is ready for a battle."
+  ]
+}

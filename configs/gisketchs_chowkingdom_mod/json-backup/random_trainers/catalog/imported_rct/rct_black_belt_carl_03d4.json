@@ -1,0 +1,49 @@
+{
+  "id": "rct_black_belt_carl_03d4",
+  "name": "Black Belt Carl",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "croagunk",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "dryskin",
+      "moveset": [
+        "poisonjab",
+        "suckerpunch",
+        "revenge",
+        "flatter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machamp",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "noguard",
+      "moveset": [
+        "knockoff",
+        "dynamicpunch",
+        "seismictoss",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

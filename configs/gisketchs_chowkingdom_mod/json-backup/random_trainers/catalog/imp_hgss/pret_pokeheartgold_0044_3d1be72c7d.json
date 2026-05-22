@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0044_pokefan_male_derek",
+  "name": "Pokefan Male Derek",
+  "title": "Pokefan Male",
+  "gender": "male",
+  "archetype": "pokefan_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "pokefan_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doubleteam",
+        "quickattack",
+        "tailwhip",
+        "thundershock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Is it OK to brag about my Pok\u00e9mon?",
+    "I\u2019m not listening to your bragging! We Pok\u00e9fans have a policy of not listening to other people brag!"
+  ]
+}

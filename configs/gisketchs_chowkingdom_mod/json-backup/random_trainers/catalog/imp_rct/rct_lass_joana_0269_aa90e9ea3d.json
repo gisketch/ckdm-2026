@@ -1,0 +1,40 @@
+{
+  "id": "rct_lass_joana_0269",
+  "name": "Lass Joana",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:snubbull",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "strongjaw",
+      "moveset": [
+        "rage",
+        "playrough",
+        "payback",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "rct_gym_leader_byron_0399",
+  "name": "Gym Leader Byron",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 36,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "bronzor",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "relaxed",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "sandstorm",
+        "trickroom",
+        "flashcannon"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "steelix",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "thunderfang",
+        "earthquake",
+        "sandstorm",
+        "gyroball"
+      ],
+      "heldItem": "soft_sand",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bastiodon",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "irondefense",
+        "thunderbolt",
+        "stoneedge",
+        "flashcannon"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

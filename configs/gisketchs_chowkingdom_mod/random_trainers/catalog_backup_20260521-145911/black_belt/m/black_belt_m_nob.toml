@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_nob"
+name = "Black Belt Nob"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Hoenn;Johto/Kanto"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokeheartgold;pret_pokecrystal"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:machop", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = ["vitalthrow", "focusenergy", "karatechop", "seismictoss"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leer", "karatechop", "seismictoss", "rockslide"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Black Belt Nob is ready for a battle.", "Words are useless. Let your fists do the talking!", "I lost! I’m speechless!", "Blackbelt Nob is ready for a battle."]

@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_chuck"
+name = "Rct Trainer Chuck"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 93
+maxLevel = 97
+team = [
+  { species = "cobblemon:hitmontop", level = 93, gender = "MALE", nature = "jolly", ability = "technician", moveset = ["triplekick", "tripleaxel", "fakeout", "brutalswing"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:sneasler", level = 94, gender = "MALE", nature = "jolly", ability = "poisontouch", moveset = ["closecombat", "poisonjab", "knockoff", "stoneedge"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:breloom", level = 97, gender = "MALE", nature = "jolly", ability = "poisonheal", moveset = ["spore", "substitute", "focuspunch", "rockslide"], heldItem = "['toxic_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwrath", level = 94, gender = "FEMALE", nature = "jolly", ability = "waterabsorb", moveset = ["surgingstrikes", "drainpunch", "icepunch", "earthquake"], heldItem = "['mystic_water']", shiny = false, aspects = [] },
+  { species = "cobblemon:lucario", level = 93, gender = "FEMALE", nature = "jolly", ability = "innerfocus", moveset = ["bulkup", "closecombat", "extremespeed", "meteormash"], heldItem = "['shuca_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:gallade", level = 95, gender = "MALE", nature = "jolly", ability = "justified", moveset = ["bulkup", "drainpunch", "psychocut", "nightslash"], heldItem = "['mega_showdown:galladite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

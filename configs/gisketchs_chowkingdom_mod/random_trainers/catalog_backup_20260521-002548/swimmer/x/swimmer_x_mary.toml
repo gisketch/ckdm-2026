@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_mary"
+name = "Swimmer Mary"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 30
+maxLevel = 32
+team = [
+  { species = "cobblemon:marill", level = 32, gender = "FEMALE", nature = "bashful", ability = "thickfat", moveset = ["tailwhip", "bubblebeam", "playrough", "raindance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 30, gender = "FEMALE", nature = "bold", ability = "drizzle", moveset = ["airslash", "growl", "wingattack", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_hannah"
+name = "Picnicker Hannah"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 24
+maxLevel = 24
+team = [
+  { species = "cobblemon:pidgey", level = 24, gender = "FEMALE", nature = "mild", ability = "frisk", moveset = ["takedown", "whirlwind", "return", "roost"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:meowth", level = 24, gender = "FEMALE", nature = "careful", ability = "pickup", moveset = ["bulletseed", "furyswipes", "screech", "headbutt"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rattata", level = 24, gender = "MALE", nature = "bashful", ability = "runaway", moveset = ["hyperfang", "pursuit", "assurance", "crunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 24, gender = "FEMALE", nature = "careful", ability = "static", moveset = ["quickattack", "electroball", "thunderwave", "feint"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:meowth", level = 24, gender = "FEMALE", nature = "bold", ability = "pickup", moveset = ["bulletseed", "furyswipes", "screech", "headbutt"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Hannah is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

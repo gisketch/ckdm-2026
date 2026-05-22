@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_gordon"
+name = "Youngster Gordon"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 10
+maxLevel = 10
+team = [
+  { species = "cobblemon:wooper", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Gordon is ready for a battle.", "I found some good Pokémon in the grass! I think they’ll do it for me!", "Each Pokémon has its own nature. They seem different every time I catch one. So there must be many natures!"]

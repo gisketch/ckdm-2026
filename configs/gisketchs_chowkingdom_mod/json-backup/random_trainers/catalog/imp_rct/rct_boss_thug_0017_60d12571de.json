@@ -1,0 +1,100 @@
+{
+  "id": "rct_boss_thug_0017",
+  "name": "Boss Thug",
+  "title": "Boss",
+  "gender": "any",
+  "archetype": "boss",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "cobblemon:abomasnow",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "snowwarning",
+      "moveset": [
+        "icehammer",
+        "woodhammer",
+        "iceshard",
+        "earthquake"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:landorus",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "earthquake",
+        "uturn",
+        "stoneedge",
+        "explosion"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": [
+        "therian"
+      ]
+    },
+    {
+      "species": "cobblemon:porygonz",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "celebrate",
+        "triattack",
+        "thunderbolt",
+        "icebeam"
+      ],
+      "heldItem": [
+        "mega_showdown:normalium_z",
+        "normal_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:medicham",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "hugepower",
+      "moveset": [
+        "fakeout",
+        "closecombat",
+        "icepunch",
+        "bulletpunch"
+      ],
+      "heldItem": [
+        "mega_showdown:medichamite",
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

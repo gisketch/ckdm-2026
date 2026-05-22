@@ -1,0 +1,49 @@
+{
+  "id": "rct_gentleman_clifford_025d",
+  "name": "Gentleman Clifford",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "marowak",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "rockhead",
+      "moveset": [
+        "thrash",
+        "fling",
+        "stompingtantrum",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "swiftswim",
+      "moveset": [
+        "psychic",
+        "psychup",
+        "nastyplot",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

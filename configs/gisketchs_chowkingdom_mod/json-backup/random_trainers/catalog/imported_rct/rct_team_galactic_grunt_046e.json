@@ -1,0 +1,33 @@
+{
+  "id": "rct_team_galactic_grunt_046e",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "golbat",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

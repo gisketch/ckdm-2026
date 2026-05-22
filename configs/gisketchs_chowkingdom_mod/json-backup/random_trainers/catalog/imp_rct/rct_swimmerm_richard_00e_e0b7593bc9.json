@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_richard_00eb",
+  "name": "Swimmer\u2642 Richard",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:toxapex",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "limber",
+      "moveset": [
+        "spikecannon",
+        "poisonjab",
+        "venomdrench",
+        "pinmissile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "skilllink",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

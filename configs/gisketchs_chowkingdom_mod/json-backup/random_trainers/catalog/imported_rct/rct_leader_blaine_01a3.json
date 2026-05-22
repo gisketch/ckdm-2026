@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_blaine_01a3",
+  "name": "Leader Blaine",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 75,
+  "maxLevel": 76,
+  "team": [
+    {
+      "species": "torkoal",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "drought",
+      "moveset": [
+        "stealthrock",
+        "explosion",
+        "lavaplume",
+        "earthpower"
+      ],
+      "heldItem": "heat_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cinderace",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "protean",
+      "moveset": [
+        "pyroball",
+        "suckerpunch",
+        "highjumpkick",
+        "zenheadbutt"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "exeggutor",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "harvest",
+      "moveset": [
+        "growth",
+        "gigadrain",
+        "psyshock",
+        "weatherball"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "typhlosion",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "eruption",
+        "flamethrower",
+        "hiddenpower",
+        "focusblast"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sunflora",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "seedflare",
+        "flamethrower",
+        "earthpower",
+        "sunnyday"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charizard",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "airslash",
+        "solarbeam",
+        "dragonpulse"
+      ],
+      "heldItem": "mega_showdown:charizardite_y expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

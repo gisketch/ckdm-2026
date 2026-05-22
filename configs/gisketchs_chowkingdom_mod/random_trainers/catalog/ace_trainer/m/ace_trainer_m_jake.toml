@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_jake"
+name = "Ace Trainer Jake"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 33
+maxLevel = 35
+team = [
+  { species = "cobblemon:parasect", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leechlife", "spore", "slash", "swordsdance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "screech", "waterpulse", "furyswipes"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vaporeon", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bite", "quickattack", "sandattack", "surf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Jake is ready for a battle.", "I’m making my final preparations for the Pokémon League.", "It’s going to be tough to win at the League. I need to do some more training. I hear that the League’s Elite Four are tougher than Gym Leaders.", "They call me an Ace Trainer. Allow me to demonstrate the talent that makes me so!", "I think keeping up the effort to better yourself is a talent in itself.", "Ace Trainer Male Jake is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

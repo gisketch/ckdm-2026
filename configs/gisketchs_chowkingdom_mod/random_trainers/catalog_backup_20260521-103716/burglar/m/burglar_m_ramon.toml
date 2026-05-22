@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_m_ramon"
+name = "Burglar Ramon"
+title = "Burglar"
+gender = "male"
+archetype = "burglar"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "burglar/male"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 74
+maxLevel = 74
+team = [
+  { species = "cobblemon:salazzle", level = 74, gender = "FEMALE", nature = "brave", ability = "corrosion", moveset = ["venoshock", "flamethrower", "venomdrench", "dragonpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Burglar Ramon is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

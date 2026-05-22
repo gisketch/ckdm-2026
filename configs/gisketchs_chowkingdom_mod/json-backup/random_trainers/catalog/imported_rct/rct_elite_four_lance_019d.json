@@ -1,0 +1,97 @@
+{
+  "id": "rct_elite_four_lance_019d",
+  "name": "Lance",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "gyarados",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "dragonrage",
+        "twister",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonair",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "dragonrage",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonair",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "thunderwave",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aerodactyl",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "pressure",
+      "moveset": [
+        "hyperbeam",
+        "ancientpower",
+        "wingattack",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "innerfocus",
+      "moveset": [
+        "hyperbeam",
+        "safeguard",
+        "outrage",
+        "wingattack"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

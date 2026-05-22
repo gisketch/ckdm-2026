@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "guitarist_x_clyde"
+name = "Guitarist Clyde"
+title = "Guitarist"
+gender = "any"
+archetype = "guitarist"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "guitarist/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:electabuzz", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Guitarist Clyde is ready for a battle.", "I’m going to audition my songs at Goldenrod’s Radio Tower.", "Speaking of the Radio Tower, what is Buena’s password for today?"]

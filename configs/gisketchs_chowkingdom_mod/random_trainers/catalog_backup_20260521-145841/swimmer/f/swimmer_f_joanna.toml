@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_joanna"
+name = "Swimmer Joanna"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 56
+maxLevel = 60
+team = [
+  { species = "cobblemon:luvdisc", level = 56, gender = "MALE", nature = "calm", ability = "swiftswim", moveset = ["aquaring", "flail", "brine", "attract"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lapras", level = 60, gender = "FEMALE", nature = "modest", ability = "waterabsorb", moveset = ["icebeam", "hydropump", "confuseray", "iceshard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Female Joanna is ready for a battle.", "People keep coming to us for battles. I really don’t know why! Teehee!", "I wanted to be alone, but swatting away immature boys on the prowl... Well, my Pokémon grew tough without me really even trying.", "I have trained this team for the road. Challenge me if you are ready."]

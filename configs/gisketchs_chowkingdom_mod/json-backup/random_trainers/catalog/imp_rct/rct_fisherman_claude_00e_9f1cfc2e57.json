@@ -1,0 +1,56 @@
+{
+  "id": "rct_fisherman_claude_00e6",
+  "name": "Fisherman Claude",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "fisherman/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 64,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:basculin",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "reckless",
+      "moveset": [
+        "finalgambit",
+        "liquidation",
+        "headsmash",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dhelmise",
+      "level": 65,
+      "gender": "GENDERLESS",
+      "nature": "sassy",
+      "ability": "steelworker",
+      "moveset": [
+        "heavyslam",
+        "phantomforce",
+        "powerwhip",
+        "spiritshackle"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

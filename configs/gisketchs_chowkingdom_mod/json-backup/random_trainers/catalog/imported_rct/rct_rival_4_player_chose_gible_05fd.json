@@ -1,0 +1,97 @@
+{
+  "id": "rct_rival_4_player_chose_gible_05fd",
+  "name": "Rival Wayne",
+  "title": "Rival 4 Player Chose",
+  "gender": "any",
+  "archetype": "rival_4_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "mamoswine",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "icefang",
+        "bulldoze",
+        "iceshard",
+        "stealthrock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toucannon",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "pluck",
+        "furyattack",
+        "rockblast",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vaporeon",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "waterpulse",
+        "aurorabeam",
+        "quickattack",
+        "aquaring"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fraxure",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "dualchop",
+        "crunch",
+        "rocktomb",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pupitar",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "shedskin",
+      "moveset": [
+        "stoneedge",
+        "crunch",
+        "earthquake",
+        "icepunch"
+      ],
+      "heldItem": "mega_showdown:tyranitarite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

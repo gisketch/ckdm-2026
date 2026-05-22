@@ -1,0 +1,53 @@
+{
+  "id": "pret_pokeplatinum_bug_catcher_brandon",
+  "name": "Bug Catcher Brandon",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 10,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "cobblemon:wurmple",
+      "level": 10,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kricketot",
+      "level": 11,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bide"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey, hey, let me show off my bug Pok\u00e9mon!",
+    "Bug Pok\u00e9mon grow quickly, and they do stuff like poison and paralyze, and they\u2019re cute and yet cool. You gotta believe me. They\u2019re good!"
+  ]
+}

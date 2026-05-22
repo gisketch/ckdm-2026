@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_breeder_m_kahlil"
+name = "Pok Mon Breeder Kahlil"
+title = "Pok Mon Breeder"
+gender = "male"
+archetype = "pok_mon_breeder"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_breeder/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 17
+maxLevel = 19
+team = [
+  { species = "cobblemon:pichu", level = 18, gender = "FEMALE", nature = "sassy", ability = "static", moveset = ["thundershock", "tailwhip", "playnice", "nuzzle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 19, gender = "MALE", nature = "sassy", ability = "static", moveset = ["nuzzle", "quickattack", "doubleteam", "electroball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:happiny", level = 17, gender = "FEMALE", nature = "sassy", ability = "serenegrace", moveset = ["minimize", "sweetkiss", "disarmingvoice", "covet"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

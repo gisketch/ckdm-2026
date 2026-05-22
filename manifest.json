@@ -3,7 +3,7 @@
   "pack": {
     "name": "Chowkingdom v2026",
     "icon": "https://github.com/gisketch/ckdm-mods/blob/main/config/fancymenu/assets/icon32x32.png?raw=true",
-    "version": "v2026.05.19b",
+    "version": "v2026.05.22a",
     "mcVersion": "1.21.1",
     "loader": "neoforge",
     "loaderVersion": "21.1.228"
@@ -1228,6 +1228,34 @@
       "side": "both"
     },
     {
+      "id": "ars-nouveau",
+      "source": "modrinth",
+      "projectId": "TKB6INcv",
+      "versionId": "8VP4YHYr",
+      "repoPath": null,
+      "filename": "ars_nouveau-1.21.1-5.11.5.jar",
+      "sha1": "202512e3a48c169ea4c68c85c2208f1813a92f26",
+      "sha512": null,
+      "size": 20693739,
+      "url": "https://cdn.modrinth.com/data/TKB6INcv/versions/8VP4YHYr/ars_nouveau-1.21.1-5.11.5.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
+      "id": "arsdelight",
+      "source": "modrinth",
+      "projectId": "BwbT0OZE",
+      "versionId": "y49FaxA3",
+      "repoPath": null,
+      "filename": "arsdelight-2.2.1.jar",
+      "sha1": "7de84ff1eadf804ec209650008ce4a77a71e8541",
+      "sha512": null,
+      "size": 1044054,
+      "url": "https://cdn.modrinth.com/data/BwbT0OZE/versions/y49FaxA3/arsdelight-2.2.1.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "arsenal-rpg-series",
       "source": "modrinth",
       "projectId": "LiP9Q3KV",
@@ -2012,6 +2040,20 @@
       "side": "both"
     },
     {
+      "id": "emotecraft",
+      "source": "modrinth",
+      "projectId": "pZ2wrerK",
+      "versionId": "fu6N0NgM",
+      "repoPath": null,
+      "filename": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "sha1": "1228c7597c4b6cbaec10a090f9b5b471ca9042d4",
+      "sha512": null,
+      "size": 861829,
+      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/fu6N0NgM/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+      "optional": false,
+      "side": "both"
+    },
+    {
       "id": "entity-model-features",
       "source": "modrinth",
       "projectId": "4I1XuqiY",
@@ -2326,9 +2368,9 @@
       "versionId": null,
       "repoPath": "mods/gisketchs_chowkingdom_mod-1.0.7.jar",
       "filename": "gisketchs_chowkingdom_mod-1.0.7.jar",
-      "sha1": "787b8b9fb575e04cba1edfbab9e3eb41c88b67da",
+      "sha1": "bc08e44291d4ca724cb19628b8676c4a31735546",
       "sha512": null,
-      "size": 17171737,
+      "size": 18541067,
       "url": "",
       "optional": false,
       "side": "client"
@@ -3506,20 +3548,6 @@
       "sha512": null,
       "size": 1162994,
       "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-      "optional": true,
-      "side": "client"
-    },
-    {
-      "id": "sodium-dynamic-lights",
-      "source": "modrinth",
-      "projectId": "PxQSWIcD",
-      "versionId": "XI0WLXdn",
-      "repoPath": null,
-      "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
-      "sha512": null,
-      "size": 299353,
-      "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "optional": true,
       "side": "client"
     },

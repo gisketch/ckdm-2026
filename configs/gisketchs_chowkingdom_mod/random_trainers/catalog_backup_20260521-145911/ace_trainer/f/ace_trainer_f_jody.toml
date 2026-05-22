@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_jody"
+name = "Ace Trainer Jody"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = "standard"
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:zangoose", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swordsdance", "slash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Jody is ready for a battle."]

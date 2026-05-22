@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_phillip"
+name = "Bug Catcher Phillip"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 11
+maxLevel = 15
+team = [
+  { species = "cobblemon:wurmple", level = 11, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "stringshot", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cascoon", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "stringshot", "poisonsting", "harden"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "poisonsting", "confusion", "gust"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Here comes the swarm!", "There’s a Pokémon ability named Swarm.", "I have trained this team for the road. Challenge me if you are ready."]

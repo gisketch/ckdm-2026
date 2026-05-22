@@ -1,0 +1,85 @@
+{
+  "id": "rct_biker_lukas_00cf",
+  "name": "Biker Lukas",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:toxicroak",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "dryskin",
+      "moveset": [
+        "smokescreen",
+        "drainpunch",
+        "poisonjab",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragalge",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "poisontouch",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swalot",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "stickyhold",
+      "moveset": [
+        "screech",
+        "sludgebomb",
+        "gigadrain",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "smokescreen",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

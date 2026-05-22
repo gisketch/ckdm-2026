@@ -1,0 +1,49 @@
+{
+  "id": "rct_crush_girl_tanya_02b5",
+  "name": "Crush Girl Tanya",
+  "title": "Crush Girl",
+  "gender": "any",
+  "archetype": "crush_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "hitmonlee",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "reckless",
+      "moveset": [
+        "foresight",
+        "wideguard",
+        "blazekick",
+        "endure"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmonchan",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "ironfist",
+      "moveset": [
+        "firepunch",
+        "skyuppercut",
+        "megapunch",
+        "suckerpunch"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

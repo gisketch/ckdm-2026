@@ -18,4 +18,10 @@ known_players = ["380df991-f603-344c-a090-369bad2a924a", "8623c364-8a64-3173-831
   { icon_kind = "npc", icon = "chowfan", title = "CHOWFAN DIED", content = "Killed by ghegi", type = "error", sound = "minecraft:block.note_block.bass" },
   { icon_kind = "npc", icon = "trainer_blue", title = "BLUE DIED", content = "Killed by ghegi", type = "error", sound = "minecraft:block.note_block.bass" },
   { icon_kind = "npc", icon = "trainer_blue", title = "BLUE DIED", content = "Killed by ghegi", type = "error", sound = "minecraft:block.note_block.bass" },
+  { icon_kind = "npc", icon = "finn", title = "FINN DIED", content = "Killed by ghegi", type = "error", sound = "minecraft:block.note_block.bass" },
+  { icon_kind = "npc", icon = "state", title = "NEW CAMPER AT THE CAMPING BLOCK", content = "State is looking for a place to stay. Talk to them to welcome them and offer a rent contract.", type = "success", sound = "minecraft:entity.player.levelup" },
+  { icon_kind = "npc", icon = "howl", title = "NEW CAMPER AT THE CAMPING BLOCK", content = "Howl is looking for a place to stay. Talk to them to welcome them and offer a rent contract.", type = "success", sound = "minecraft:entity.player.levelup" },
+  { icon_kind = "npc", icon = "bulma", title = "NEW CAMPER AT THE CAMPING BLOCK", content = "Bulma is looking for a place to stay. Talk to them to welcome them and offer a rent contract.", type = "success", sound = "minecraft:entity.player.levelup" },
+  { icon_kind = "npc", icon = "prof_chowfan", title = "NEW CAMPER AT THE CAMPING BLOCK", content = "Chowfan is looking for a place to stay. Talk to them to welcome them and offer a rent contract.", type = "success", sound = "minecraft:entity.player.levelup" },
+  { icon_kind = "npc", icon = "rick_sanchez", title = "NEW CAMPER AT THE CAMPING BLOCK", content = "Rick Sanchez is looking for a place to stay. Talk to them to welcome them and offer a rent contract.", type = "success", sound = "minecraft:entity.player.levelup" },
 ]

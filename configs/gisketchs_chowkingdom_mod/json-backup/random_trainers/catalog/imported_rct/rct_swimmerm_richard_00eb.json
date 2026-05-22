@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerm_richard_00eb",
+  "name": "Swimmer♂ Richard",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "toxapex",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "limber",
+      "moveset": [
+        "spikecannon",
+        "poisonjab",
+        "venomdrench",
+        "pinmissile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cloyster",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "skilllink",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

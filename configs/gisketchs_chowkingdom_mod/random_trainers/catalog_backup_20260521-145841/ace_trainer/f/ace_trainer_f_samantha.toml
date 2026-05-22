@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_samantha"
+name = "Ace Trainer Samantha"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "very_high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = "standard"
+minLevel = 93
+maxLevel = 94
+team = [
+  { species = "cobblemon:torkoal", level = 93, gender = "FEMALE", nature = "relaxed", ability = "drought", moveset = ["stealthrock", "lavaplume", "bodypress", "earthpower"], heldItem = "['heat_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:charizard", level = 93, gender = "FEMALE", nature = "timid", ability = "solarpower", moveset = ["solarbeam", "weatherball", "airslash", "flamethrower"], heldItem = "['choice_specs']", shiny = false, aspects = [] },
+  { species = "cobblemon:milotic", level = 93, gender = "MALE", nature = "modest", ability = "competitive", moveset = ["weatherball", "icebeam", "bouncybubble", "flipturn"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:dodrio", level = 94, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["headlongrush", "flareblitz", "headsmash", "doubleedge"], heldItem = "['focus_sash']", shiny = false, aspects = ["sevii"] },
+  { species = "cobblemon:tyranitar", level = 93, gender = "FEMALE", nature = "brave", ability = "unnerve", moveset = ["fireblast", "solarbeam", "stoneedge", "earthquake"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:garchomp", level = 94, gender = "FEMALE", nature = "jolly", ability = "roughskin", moveset = ["swordsdance", "scaleshot", "earthquake", "firefang"], heldItem = "['mega_showdown:garchompite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

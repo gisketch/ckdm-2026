@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tamer_x_phil"
+name = "Tamer Phil"
+title = "Tamer"
+gender = "any"
+archetype = "tamer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "tamer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1
+bustStyle = ""
+minLevel = 62
+maxLevel = 63
+team = [
+  { species = "cobblemon:copperajah", level = 62, gender = "FEMALE", nature = "naive", ability = "heavymetal", moveset = ["strength", "ironhead", "playrough", "highhorsepower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seviper", level = 63, gender = "FEMALE", nature = "adamant", ability = "merciless", moveset = ["belch", "coil", "wringout", "gunkshot"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Tamer Phil is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

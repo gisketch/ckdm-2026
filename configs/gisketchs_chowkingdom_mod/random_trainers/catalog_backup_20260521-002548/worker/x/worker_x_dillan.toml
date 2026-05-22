@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_x_dillan"
+name = "Worker Dillan"
+title = "Worker"
+gender = "any"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:machop", level = 31, gender = "FEMALE", nature = "relaxed", ability = "noguard", moveset = ["leer", "lowsweep", "knockoff", "strength"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 31, gender = "MALE", nature = "relaxed", ability = "noguard", moveset = ["lowkick", "knockoff", "scaryface", "strength"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I work in the fiery foundry. You bet I’m hot and sweaty!", "I toughened up my muscles from honest work. Pokémon have nothing on me!", "I have trained this team for the road. Challenge me if you are ready."]

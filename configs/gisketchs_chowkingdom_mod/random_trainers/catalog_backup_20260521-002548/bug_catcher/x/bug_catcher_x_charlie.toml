@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_charlie"
+name = "Bug Catcher Charlie"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 6
+maxLevel = 9
+team = [
+  { species = "cobblemon:nincada", level = 6, gender = "FEMALE", nature = "timid", ability = "compoundeyes", moveset = ["scratch", "harden", "absorb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:spewpa", level = 9, gender = "FEMALE", nature = "hardy", ability = "shedskin", moveset = ["detect", "harden"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:metapod", level = 8, gender = "FEMALE", nature = "quiet", ability = "shedskin", moveset = ["harden", "bugbite"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Charlie is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

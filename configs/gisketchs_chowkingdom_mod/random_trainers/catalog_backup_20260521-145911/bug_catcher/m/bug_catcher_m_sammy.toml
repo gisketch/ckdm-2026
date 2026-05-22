@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_sammy"
+name = "Bug Catcher Sammy"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 9
+maxLevel = 9
+team = [
+  { species = "cobblemon:grubbin", level = 9, gender = "MALE", nature = "mild", ability = "swarm", moveset = ["visegrip", "stringshot", "mudslap"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Sammy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

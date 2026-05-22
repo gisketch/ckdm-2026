@@ -1,0 +1,33 @@
+{
+  "id": "rct_battle_girl_kelsey_02f6",
+  "name": "Battle Girl Kelsey",
+  "title": "Battle Girl",
+  "gender": "any",
+  "archetype": "battle_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "machop",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "noguard",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy",
+        "lowsweep"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

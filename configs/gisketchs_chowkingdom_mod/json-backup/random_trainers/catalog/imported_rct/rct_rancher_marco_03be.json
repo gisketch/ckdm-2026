@@ -1,0 +1,65 @@
+{
+  "id": "rct_rancher_marco_03be",
+  "name": "Rancher Marco",
+  "title": "Rancher",
+  "gender": "any",
+  "archetype": "rancher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "aipom",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "sandattack",
+        "astonish",
+        "tickle",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "psyduck",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "cloudnine",
+      "moveset": [
+        "scratch",
+        "tailwhip",
+        "confusion",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "girafarig",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "innerfocus",
+      "moveset": [
+        "growl",
+        "confusion",
+        "assurance",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

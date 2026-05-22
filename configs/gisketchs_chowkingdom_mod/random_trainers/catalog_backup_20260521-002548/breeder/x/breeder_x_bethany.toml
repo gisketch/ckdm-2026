@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "breeder_x_bethany"
+name = "Breeder Bethany"
+title = "Breeder"
+gender = "any"
+archetype = "breeder"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "breeder/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:chansey", level = 50, gender = "FEMALE", nature = "careful", ability = "serenegrace", moveset = ["fling", "healpulse", "eggbomb", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

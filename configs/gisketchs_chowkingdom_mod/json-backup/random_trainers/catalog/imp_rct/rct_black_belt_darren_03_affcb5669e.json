@@ -1,0 +1,72 @@
+{
+  "id": "rct_black_belt_darren_03d1",
+  "name": "Black Belt Darren",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "leer",
+        "scaryface",
+        "vitalthrow",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "vitalthrow",
+        "thief",
+        "fling"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "vitalthrow",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

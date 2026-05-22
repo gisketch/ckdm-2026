@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_kay"
+name = "Lass Kay"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:nuzleaf", level = 38, gender = "MALE", nature = "jolly", ability = "earlybird", moveset = ["nightslash", "leafblade", "swagger", "extrasensory"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pumpkaboo", level = 38, gender = "MALE", nature = "sassy", ability = "frisk", moveset = ["trickortreat", "magicalleaf", "shadowball", "hex"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Kay is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

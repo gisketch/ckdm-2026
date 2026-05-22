@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "officer_x_dirk"
+name = "Officer Dirk"
+title = "Officer"
+gender = "any"
+archetype = "officer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "officer/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 0.98
+bustStyle = ""
+minLevel = 14
+maxLevel = 14
+team = [
+  { species = "cobblemon:growlithe", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:growlithe", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Officer Dirk is ready for a battle."]

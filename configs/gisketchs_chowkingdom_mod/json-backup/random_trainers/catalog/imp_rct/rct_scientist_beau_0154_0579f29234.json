@@ -1,0 +1,87 @@
+{
+  "id": "rct_scientist_beau_0154",
+  "name": "Scientist Beau",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 41,
+  "team": [
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "thunderbolt",
+        "voltswitch",
+        "icepunch",
+        "firepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kecleon",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "colorchange",
+      "moveset": [
+        "drainpunch",
+        "suckerpunch",
+        "rockslide"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gardevoir",
+      "level": 41,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "synchronize",
+      "moveset": [
+        "dazzlinggleam",
+        "psychic",
+        "signalbeam",
+        "destinybond"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arcanine",
+      "level": 41,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "flamethrower",
+        "wildcharge",
+        "extremespeed",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

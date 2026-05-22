@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_mallory_04c4",
+  "name": "Swimmer Mallory",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:seel",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "takedown",
+        "dive",
+        "aquatail",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dewgong",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "aquajet",
+        "dive",
+        "aquatail",
+        "aurorabeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

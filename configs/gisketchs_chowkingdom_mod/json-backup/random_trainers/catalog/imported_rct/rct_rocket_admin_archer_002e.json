@@ -1,0 +1,65 @@
+{
+  "id": "rct_rocket_admin_archer_002e",
+  "name": "Rocket Admin Archer",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "impidimp",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "prankster",
+      "moveset": [
+        "fakeout",
+        "bite",
+        "thunderwave",
+        "drainingkiss"
+      ],
+      "heldItem": "oran_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "houndour",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "earlybird",
+      "moveset": [
+        "snarl",
+        "incinerate",
+        "hiddenpower",
+        "thunderfang"
+      ],
+      "heldItem": "wise_glasses",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mightyena",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "strongjaw",
+      "moveset": [
+        "bite",
+        "icefang",
+        "howl",
+        "poisonfang"
+      ],
+      "heldItem": "berry_juice",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

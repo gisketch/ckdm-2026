@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_olivia",
+  "name": "Ace Trainer Snow Female Olivia",
+  "title": "Ace Trainer Snow Female",
+  "gender": "female",
+  "archetype": "ace_trainer_snow_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "standard",
+  "minLevel": 38,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:kirlia",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "futuresight",
+        "psychic",
+        "magicalleaf",
+        "luckychant"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterfall",
+        "poisonjab",
+        "supersonic",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:buneary",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "dizzypunch",
+        "quickattack",
+        "jumpkick",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Wh-what is it? P-Pok\u00e9mon battle?!",
+    "Around these parts, perhaps because of all the snow, there are many folktales of hauntings..."
+  ]
+}

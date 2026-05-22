@@ -1,0 +1,65 @@
+{
+  "id": "rct_psychic_rodette_02ce",
+  "name": "Psychic Rodette",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "natu",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "earlybird",
+      "moveset": [
+        "psychic",
+        "confuseray",
+        "wish",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hypno",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "forewarn",
+      "moveset": [
+        "psychic",
+        "disable",
+        "psychup",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hypno",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "forewarn",
+      "moveset": [
+        "psychic",
+        "hypnosis",
+        "psychup",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

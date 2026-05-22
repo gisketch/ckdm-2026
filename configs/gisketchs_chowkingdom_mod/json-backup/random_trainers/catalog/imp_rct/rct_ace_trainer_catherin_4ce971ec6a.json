@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_catherine_03b6",
+  "name": "Ace Trainer Catherine",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:misdreavus",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "growl",
+        "confuseray",
+        "hex",
+        "trickroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drifblim",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "flareboost",
+      "moveset": [
+        "phantomforce",
+        "strengthsap",
+        "minimize",
+        "fly"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

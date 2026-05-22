@@ -1,0 +1,56 @@
+{
+  "id": "rct_camper_chris_0094",
+  "name": "Camper Chris",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "willowisp",
+        "flamecharge",
+        "firespin",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pignite",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "blaze",
+      "moveset": [
+        "suckerpunch",
+        "rollout",
+        "takedown",
+        "heatcrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

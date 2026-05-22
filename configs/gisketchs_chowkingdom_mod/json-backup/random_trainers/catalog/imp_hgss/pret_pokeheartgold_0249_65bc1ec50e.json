@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0249_bug_catcher_don",
+  "name": "Bug Catcher Don",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bug_catcher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 3,
+  "maxLevel": 3,
+  "team": [
+    {
+      "species": "cobblemon:caterpie",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:caterpie",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Instead of a bug Pok\u00e9mon, I found a Trainer!",
+    "I ran out of Pok\u00e9 Balls while I was catching Pok\u00e9mon. I should\u2019ve bought some more..."
+  ]
+}

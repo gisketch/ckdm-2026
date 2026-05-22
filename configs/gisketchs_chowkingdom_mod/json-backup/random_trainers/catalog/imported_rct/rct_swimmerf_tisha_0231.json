@@ -1,0 +1,97 @@
+{
+  "id": "rct_swimmerf_tisha_0231",
+  "name": "Swimmer♀ Tisha",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "pelipper",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "scald",
+        "hurricane",
+        "icebeam",
+        "uturn"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "swiftswim",
+      "moveset": [
+        "hydropump",
+        "nastyplot",
+        "synchronoise",
+        "icebeam"
+      ],
+      "heldItem": "mega_showdown:psychium_z psychic_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vaporeon",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "hydration",
+      "moveset": [
+        "acidarmor",
+        "icebeam",
+        "rest",
+        "scald"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jolteon",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunder",
+        "weatherball",
+        "hiddenpower",
+        "shadowball"
+      ],
+      "heldItem": "ice_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "noivern",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": [
+        "hurricane",
+        "boomburst",
+        "focusblast",
+        "dragonpulse"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

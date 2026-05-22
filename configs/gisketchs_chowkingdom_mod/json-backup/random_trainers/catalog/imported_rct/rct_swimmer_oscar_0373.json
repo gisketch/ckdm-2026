@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmer_oscar_0373",
+  "name": "Swimmer Oscar",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "mantyke",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "supersonic",
+        "bubblebeam",
+        "airslash",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "remoraid",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hustle",
+      "moveset": [
+        "lockon",
+        "bulletseed",
+        "icebeam",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mantine",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "bulletseed",
+        "bubblebeam",
+        "aquaring",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

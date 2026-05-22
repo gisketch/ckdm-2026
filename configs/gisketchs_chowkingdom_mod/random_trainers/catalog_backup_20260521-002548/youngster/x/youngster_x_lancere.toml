@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_lancere"
+name = "Youngster Lancere"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:ekans", level = 5, gender = "FEMALE", nature = "gentle", ability = "shedskin", moveset = ["wrap", "leer", "poisonsting"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

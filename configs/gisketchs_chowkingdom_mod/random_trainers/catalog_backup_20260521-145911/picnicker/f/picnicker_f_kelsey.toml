@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_kelsey"
+name = "Picnicker Kelsey"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "mid"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:nidorino", level = 29, gender = "MALE", nature = "jolly", ability = "poisontouch", moveset = ["poisonsting", "furyattack", "hornattack", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:nidorina", level = 29, gender = "FEMALE", nature = "hardy", ability = "poisontouch", moveset = ["poisonsting", "furyswipes", "bite", "sludgebomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Picnicker Kelsey is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

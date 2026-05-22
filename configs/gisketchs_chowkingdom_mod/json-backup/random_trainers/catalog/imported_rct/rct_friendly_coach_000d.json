@@ -1,0 +1,95 @@
+{
+  "id": "rct_friendly_coach_000d",
+  "name": "Friendly Coach (Spd)",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 1,
+  "maxLevel": 1,
+  "team": [
+    {
+      "species": "dustox",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "shielddust",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

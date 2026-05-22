@@ -5,6 +5,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["geralt", "witcher"]
 line = "Got a contract near old ruins. Track smells like rotfiend."
 response = "Steel sword. Igni ready. You take flank if it multiplies."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["ciri", "witcher"]
 line = "Portal residue south of skyland shrine. Unstable conflux."
 response = "Smells like wild hunt drowner magic. I will chart it."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["geralt", "witcher"]
 line = "My silver edge chipped on a gargoyle spine. Any tips?"
 response = "Grind with powdered dimeritium paste. Three passes only."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["bubblegum", "researcher"]
 line = "Larval cobblemon near portal stone had extra elemental glands."
 response = "Fascinating. I will send a sample kit to your camp."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["ciri", "witcher"]
 line = "Trail mix tastes like sawdust and regret. Pack extra honey."
 response = "Survived worse in Skellige. Add dried mutton next time."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["zalda", "light_magic"]
 line = "My Quen flickers under wyvern screech. Need focus drills."
 response = "Triforce meditation helps stabilize shields. Meet me at dusk."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -59,17 +71,21 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["shoumai", "store_cosmetics"]
 line = "Need charcoal salve and linen wraps. Monster slaying runs."
 response = "Third shelf. New aloe wraps just arrived. Coin only."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_25_008"
 topic = "brood_nest_warning"
 source_tags = ["ciri", "witcher"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["finn", "warrior"]
 line = "Endrega brood under skyland root bridge. Stay steel-braced."
 response = "Mathematical! I will alert Huntress Wizard for backup."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_25_009"
 topic = "patrol_route_friction"
@@ -77,6 +93,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["vi", "forcemaster"]
 line = "Your earth spike traps overlap witcher patrol path. Shift them."
 response = "Glad you told me. I will angle them west by morning."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["huntress_wizard", "archer"]
 line = "Water hag likes sunken doll lure. Got old poppet scraps?"
 response = "Archery dummy stuffing works better. I will drop a bundle."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["ciri", "witcher"]
 line = "Your medallion vibrating against market square. Spectral remnants?"
 response = "Old elven echo. No threat. I already cleared the cellar."
+source_emote = "head_scratches"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["bubblegum", "researcher"]
 line = "Running low on cave sulfur. Trade for enhanced cat potion?"
 response = "Deal. I need the potion for nocturnal cobblemon observation."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Foglets spawn thicker near moon zenith. Watch the graveyard."
 response = "Good. I was bored hunting bats. Foglet bass riff later."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["aang", "wind_wizard"]
 line = "Eastern skyland charged with thunder magic. Safe to ascend?"
 response = "Wait three hours. I will bend the pressure front away."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["link", "tears_of_the_kingdom"]
 line = "Chitin plate from armored nekkers. Useful for shield fusion?"
 response = "High durability. Show me after patrol. Might reinforce Hylian gear."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["toph", "earth_wizard"]
 line = "Need metalbending to temper blade spine. Can you spot me?"
 response = "Sure. Hold it still. I will align the grain perfectly."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["legolas", "war_archer"]
 line = "Leshen totems marked the birch grove. Use fire arrows only."
 response = "Understood. I will circle from the canopy and signal you."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["bubblegum", "store_pokemon"]
 line = "Drowner brains for your research. Fair price is twelve emeralds."
 response = "Ten and a free heal ball. Brains degrade fast anyway."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["gandalf", "wizard"]
 line = "Glowing blue fungus near crypt entrance. Harmless or wraith lure?"
 response = "Morgul-hollow-caps. They attract lesser specters. Burn them at once."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["katara", "water_wizard"]
 line = "Drowners thick at river ford. Can you freeze a bridge?"
 response = "Give me five minutes. Solid ice won't crack under armor."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["zalda", "light_magic"]
 line = "Basilisk venom sac crystalized. Need purification spell assistance."
 response = "Light magic separates toxins gently. Bring it to my study."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["ezio", "rogue"]
 line = "Skyland rope bridge frayed at midspan. Leak your path update."
 response = "Already mapped an alternative ledge route. Follow my chalk marks."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["vi", "forcemaster"]
 line = "Banshee wail shatters potions. Have any sonic dampening trick?"
 response = "Force barrier bends sound. I can guard your flask belt."
+source_emote = "head_scratches"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["shoumai", "store_seed"]
 line = "Celandine and wolfsbane seeds. Best coin for monster hunter kit."
 response = "Wolfsbane sells fast. I will hold three packets for you."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["invoker", "arcane_wizard"]
 line = "Wyvern patrol ceiling over skyland? I need vertical threat data."
 response = "Magical sonar says one hundred twenty blocks. Stay below cloud layer."
+source_emote = "threaten"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["zuko", "fire_wizard"]
 line = "Specter oil needs flame-blessed resin. Your firebending can singe it."
 response = "Bring the raw sap. I will breathe a controlled flame."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["tarnished", "paladin"]
 line = "You also hunt undying lords. How do you break their cycle?"
 response = "Destined death incantation. It echoes my shattered elden ring."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["bubblegum", "researcher"]
 line = "Wild cobblemon raiding your garden. Build thorn fence and silver dust."
 response = "Silver dust repels them? Excellent. I will test tonight."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["marceline", "nocturnal"]
 line = "Church bell rings midnight. Vampires stir but witchers patrol first."
 response = "Relax, I stick to rooftop routes. I will howl if trouble."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["zagreus", "berserker"]
 line = "No monster blood talk at tavern. Just mead and silence."
 response = "Fair. One drink for fallen beast and mortal luck. Clink."
+source_emote = "speaking"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["link", "tears_of_the_kingdom"]
 line = "If portal pulls you to wrong timeline, recall anchor point."
 response = "Purah pad tracks last recall anchor. I will teach you."
+source_emote = "facepalm"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["legolas", "war_archer"]
 line = "Griffin nest on north skyland spire. Join for dawn takedown?"
 response = "I will bring wind-piercing arrows. Wait for my signal."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["toph", "earth_wizard"]
 line = "Underground tunnel fog disorients. Can you map solid footings?"
 response = "I sense every pebble. Walk where I stomp. No echoes."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["finn", "warrior"]
 line = "Never loot witcher vials. Cat potion blinds non-mutants."
 response = "Whoa, okay! I will keep my hands in my pockets."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["elsa", "frost_wizard"]
 line = "Ice elemental near old well. Your frost magic won't hurt it."
 response = "Then I will freeze the ground to slow it. Ward ready."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["pope_leo", "priest"]
 line = "Silver sword lost its blessed edge. Can chapel water restore?"
 response = "Kneel at dawn with blade bare. I will recite sanctification."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["aloy", "bounty_hunter"]
 line = "Combine tripwire with Yrden trap to capture fleeing griffin."
 response = "Smart. My shock wire links to your slowdown glyph. Let's rig it."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["venti", "bard"]
 line = "Play something grim but short. No ballads about destiny."
 response = "One verse about silver and steel. My lyre won't break."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["traxex", "tundra_archer"]
 line = "Dryad sentries near old pine circle. Respect their arrow range."
 response = "I know their patterns. I will mark safe trail with feathers."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["bubblegum", "researcher"]
 line = "Nekker population tripled after rain. Log it for town warning."
 response = "Updating the ledger now. Thanks for the field report."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["gandalf", "wizard"]
 line = "Restless spirit in clocktower answers no witcher signs. Suggestions?"
 response = "Speak its true name thrice at midnight. Bring salt ash."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["aang", "wind_wizard"]
 line = "Carrying corpse samples across skylands. Can your glider escort?"
 response = "Hop on a wind sphere saddle. I will push behind you."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["ezio", "rogue"]
 line = "Your wrist-blade flourish resembles my pirouette strike. Trade forms?"
 response = "Hidden blade needs tighter motion. Watch my shoulder angle precisely."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["tarnished", "paladin"]
 line = "Meteorite ore under skyland savanna. Good for monster-grade smithing."
 response = "I will ride Torrent there at dawn. Share the claim."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["huntress_wizard", "archer"]
 line = "Full moon patrol overlaps your usual dusk hunt. Coordinate flares."
 response = "Green arrow flare means clear. Red means regroup at tower."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["invoker", "arcane_wizard"]
 line = "Swallow potion needs five vitriol drops, not seven. Book error."
 response = "My arcane tome says seven. Let's test both on dummies."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["katara", "water_wizard"]
 line = "Quenching trough is stagnant. Can you freshen with bending flow?"
 response = "Easy. I will cycle clean stream water through your smithy."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["zalda", "light_magic"]
 line = "Town council wants manticore head tax. Tell them it's folly."
 response = "I will draft a safer monster bounty bylaw. Give me quill."
+source_emote = "speaking"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["ciri", "witcher"]
 target_tags = ["zuko", "fire_wizard"]
 line = "Noonwraith dust must ignite midair. Can you flame circle accurately?"
 response = "I do precision firebending drills daily. Show me the field."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["geralt", "witcher"]
 target_tags = ["elza", "frost_wizard"]
 line = "Wyvern carapace plus ice crystal could make freezing buckler."
 response = "Let me sculpt the crystal into shield form. Frost gem core."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0

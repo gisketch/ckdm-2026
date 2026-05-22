@@ -1,0 +1,49 @@
+{
+  "id": "rct_hiker_earl_0245",
+  "name": "Hiker Earl",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "onix",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "irontail",
+        "dig",
+        "stoneedge",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "guts",
+      "moveset": [
+        "dualchop",
+        "submission",
+        "bulkup",
+        "crosschop"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

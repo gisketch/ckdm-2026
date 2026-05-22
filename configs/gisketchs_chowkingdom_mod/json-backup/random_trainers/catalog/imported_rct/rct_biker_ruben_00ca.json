@@ -1,0 +1,97 @@
+{
+  "id": "rct_biker_ruben_00ca",
+  "name": "Biker Ruben",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 92,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "accelgor",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "uturn",
+        "bugbuzz",
+        "focusblast",
+        "sludgebomb"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "excadrill",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "stoneedge",
+        "swordsdance"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gigalith",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "sandforce",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "explosion",
+        "bodypress"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "technician",
+      "moveset": [
+        "gigadrain",
+        "weatherball",
+        "hiddenpower",
+        "sleeppowder"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lopunny",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "limber",
+      "moveset": [
+        "fakeout",
+        "return",
+        "closecombat",
+        "tripleaxel"
+      ],
+      "heldItem": "mega_showdown:lopunnite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

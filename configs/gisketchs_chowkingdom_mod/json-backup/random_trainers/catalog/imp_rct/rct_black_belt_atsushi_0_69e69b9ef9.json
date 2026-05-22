@@ -1,0 +1,60 @@
+{
+  "id": "rct_black_belt_atsushi_0142",
+  "name": "Black Belt Atsushi",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "noguard",
+      "moveset": [
+        "vitalthrow",
+        "wakeupslap",
+        "dualchop",
+        "submission"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:crabrawler",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "ironfist",
+      "moveset": [
+        "dizzypunch",
+        "payback",
+        "reversal",
+        "crabhammer"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

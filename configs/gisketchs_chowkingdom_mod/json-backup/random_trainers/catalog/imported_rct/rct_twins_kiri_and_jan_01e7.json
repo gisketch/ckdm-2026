@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_kiri_and_jan_01e7",
+  "name": "Twins Kiri & Jan",
+  "title": "Twins Kiri And",
+  "gender": "any",
+  "archetype": "twins_kiri_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cinderace",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "headbutt",
+        "counter",
+        "bounce",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "inteleon",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "torrent",
+      "moveset": [
+        "uturn",
+        "liquidation",
+        "soak",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemaniac_herman_0285",
+  "name": "Pok\u00e9maniac Herman",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:marowak",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "rockhead",
+      "moveset": [
+        "focusenergy",
+        "bonemerang",
+        "rage",
+        "falseswipe"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "oblivious",
+      "moveset": [
+        "disable",
+        "headbutt",
+        "icywind",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

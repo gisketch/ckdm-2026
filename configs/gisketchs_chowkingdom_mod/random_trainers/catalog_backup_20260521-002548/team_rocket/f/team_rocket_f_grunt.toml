@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "team_rocket_f_grunt"
+name = "Team Rocket Grunt"
+title = "Team Rocket"
+gender = "female"
+archetype = "team_rocket"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "team_rocket/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:ekans", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = ["wrap", "leer", "poisonsting", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gloom", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = ["absorb", "sweetscent", "stunspore", "sleeppowder"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Stop taking SlowpokeTails? What?! You want us to disobey a direct order from Executive Proton? If you want to stop us, you’ll have to defeat us all! Go ahead and try!", "SlowpokeTails grow back fast! Besides, it was an order from Proton, so I’m more concerned about that!", "Ha ha ha! How boring. It was far too easy to take over this place! Come on, keep me amused!", "You beat me, and I won’t forget it!", "Are you lost? No, you can’t be. You don’t have that scared look. I’ll give you something to be scared about!", "Go wherever you like! Get lost! See if I care!", "Team Rocket Female Grunt is ready for a battle.", "Do I know the password? Maybe. But no weakling’s going to get it!", "The password to the boss’s room is SLOWPOKETAIL. But it’s useless unless you have two passwords."]

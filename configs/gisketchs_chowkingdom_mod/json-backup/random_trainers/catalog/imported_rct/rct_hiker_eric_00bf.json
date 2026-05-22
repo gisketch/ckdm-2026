@@ -1,0 +1,49 @@
+{
+  "id": "rct_hiker_eric_00bf",
+  "name": "Hiker Eric",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "hariyama",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "knockoff",
+        "vitalthrow",
+        "bellydrum",
+        "smellingsalts"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gligar",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hypercutter",
+      "moveset": [
+        "feintattack",
+        "acrobatics",
+        "slash",
+        "uturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

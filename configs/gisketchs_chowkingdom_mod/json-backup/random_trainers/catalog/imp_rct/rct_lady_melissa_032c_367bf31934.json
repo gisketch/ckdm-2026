@@ -1,0 +1,40 @@
+{
+  "id": "rct_lady_melissa_032c",
+  "name": "Lady Melissa",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:buneary",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "klutz",
+      "moveset": [
+        "pound",
+        "defensecurl",
+        "babydolleyes",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

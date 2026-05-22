@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokefirered_pkmn_ranger_katelyn_2",
+  "name": "Pokemon Ranger Katelyn",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "Kanto/Sevii",
+  "category": "route_trainer",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "pokemon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.15,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:chansey",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "eggbomb",
+        "defensecurl",
+        "minimize",
+        "softboiled"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Ranger Katelyn is ready for a battle."
+  ]
+}

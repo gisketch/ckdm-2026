@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rich_boy_m_trey"
+name = "Rich Boy Trey"
+title = "Rich Boy"
+gender = "male"
+archetype = "rich_boy"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "rich_boy/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.03
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:luxio", level = 60, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["leer", "spark", "thunderwave", "crunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rich Boy Trey is ready for a battle.", "I need to escape these doldrums... You can keep me company.", "I’m going back to the hotel to rest! I find you exceedingly tiresome!", "I have trained this team for the road. Challenge me if you are ready."]

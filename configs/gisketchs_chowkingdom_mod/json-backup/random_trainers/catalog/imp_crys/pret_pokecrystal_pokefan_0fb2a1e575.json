@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_pokefanm_013_rex",
+  "name": "Pokefanm Rex",
+  "title": "Pokefanm",
+  "gender": "any",
+  "archetype": "pokefanm",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "pokefanm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:phanpy",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokefanm Rex is ready for a battle."
+  ]
+}

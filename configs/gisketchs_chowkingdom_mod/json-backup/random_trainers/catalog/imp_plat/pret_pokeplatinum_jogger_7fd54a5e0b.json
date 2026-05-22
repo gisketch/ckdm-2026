@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_jogger_wyatt",
+  "name": "Jogger Wyatt",
+  "title": "Jogger",
+  "gender": "any",
+  "archetype": "jogger",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "jogger/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m warmed up and limber. I\u2019m OK to battle!",
+    "I wish I could just run from all this... Just joking."
+  ]
+}

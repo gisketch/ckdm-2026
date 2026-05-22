@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeplatinum_youngster_sebastian",
+  "name": "Youngster Sebastian",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 8,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "cobblemon:machop",
+      "level": 8,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "lowkick",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Before I challenge the Pok\u00e9mon Gym Leader, I\u2019ll test my strength on you!",
+    "I guess if you don\u2019t have a single Gym Badge, you\u2019re a total nobody..."
+  ]
+}

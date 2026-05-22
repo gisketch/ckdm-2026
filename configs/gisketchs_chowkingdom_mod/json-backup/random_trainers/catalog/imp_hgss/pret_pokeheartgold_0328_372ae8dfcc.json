@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0328_school_kid_male_tommy",
+  "name": "School Kid Male Tommy",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:xatu",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "confuseray",
+        "nightshade",
+        "fly",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "calmmind",
+        "reflect",
+        "focusblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Let\u2019s battle. I won\u2019t lose!",
+    "Sayonara! I just learned that in my foreign-language class."
+  ]
+}

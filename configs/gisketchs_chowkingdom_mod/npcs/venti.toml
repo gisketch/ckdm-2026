@@ -17,10 +17,10 @@ wake_messages = ["Mmm... five more centuries...", "Oh! Is it time for a song alr
 npc_interaction_messages = ["Teaching {other} a ballad about a blocky dragon.", "Asking {other} if they have heard the wind hum today.", "Tuning a lyre while {other} hums along."]
 work_blocks = [
   { id = "minecraft:jukebox", count = 1, display_name = "jukebox" },
-  { id = "minecraft:note_block", count = 3, display_name = "note blocks" },
-  { id = "minecraft:barrel", count = 2, display_name = "wine barrels" },
-  { id = "minecraft:flower_pot", count = 2, display_name = "cecilia pots" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "minecraft:note_block", count = 1, display_name = "lyre note block" },
+  { id = "supplementaries:speaker_block", count = 1, display_name = "street speaker" },
+  { id = "another_furniture:service_bell", count = 1, display_name = "tavern service bell" },
+  { id = "minecraft:flower_pot", count = 1, display_name = "cecilia pot" },
 ]
 
 [boss]
@@ -168,4 +168,6 @@ pool = [
   { id = "venti_food_fruit_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Fruit Salad And Bring It Back", quest_text = "Prepare fruit salad after I ask; audiences forgive more with snacks.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:fruit_salad", fetch_count = 1, filters = { item = "farmersdelight:fruit_salad" }, weight = 10 },
   { id = "venti_meal_eaten", category = "task", event = "farmersdelight:meal_eaten", event_desc = "Eat {goal} Farmer's Delight Meals", quest_text = "Eat proper meals before calling it artistic suffering.", pass_id = "cozy", xp = 45, chowcoins = 25, goal = 2, weight = 8 },
   { id = "venti_quiz_bard_songs_wind_and_tavern_trouble", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Venti's bard quiz before he turns it into a song.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "bard songs wind and tavern trouble", weight = 10 },
+  { id = "venti_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Venti", quest_text = "Venti has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "venti_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Venti", quest_text = "Venti wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

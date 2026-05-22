@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0041_guitarist_clyde",
+  "name": "Guitarist Clyde",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "guitarist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:electabuzz",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m going to audition my songs at Goldenrod\u2019s Radio Tower.",
+    "Speaking of the Radio Tower, what is Buena\u2019s password for today?"
+  ]
+}

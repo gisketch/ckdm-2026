@@ -1,0 +1,76 @@
+{
+  "id": "rct_bug_catcher_greg_006a",
+  "name": "Bug Catcher Greg",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 10,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "nincada",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "compoundeyes",
+      "moveset": [
+        "scratch",
+        "harden",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sizzlipede",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "flashfire",
+      "moveset": [
+        "ember",
+        "wrap",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 10,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "shielddust",
+      "moveset": [
+        "gust"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "joltik",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "compoundeyes",
+      "moveset": [
+        "megadrain",
+        "spiderweb",
+        "thunderwave",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

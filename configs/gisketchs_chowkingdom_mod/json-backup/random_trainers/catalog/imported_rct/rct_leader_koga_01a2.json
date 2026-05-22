@@ -1,0 +1,109 @@
+{
+  "id": "rct_leader_koga_01a2",
+  "name": "Leader Koga",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 67,
+  "maxLevel": 68,
+  "team": [
+    {
+      "species": "swellow",
+      "level": 67,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "aerilate",
+      "moveset": [
+        "boomburst",
+        "uturn"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "accelgor",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "bugbuzz",
+        "uturn",
+        "focusblast",
+        "sludgebomb"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "greninja",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "battlebond",
+      "moveset": [
+        "surf",
+        "watershuriken",
+        "darkpulse",
+        "icebeam"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drapion",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sniper",
+      "moveset": [
+        "wickedblow",
+        "crosspoison"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragapult",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "infiltrator",
+      "moveset": [
+        "shadowball",
+        "flamethrower",
+        "dragonpulse",
+        "uturn"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxtricity",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "plus",
+      "moveset": [
+        "voltswitch",
+        "boomburst",
+        "sludgebomb",
+        "overdrive"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_f_krista"
+name = "Ranger Krista"
+title = "Ranger"
+gender = "female"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/female"
+tier = "high"
+spawnable = true
+height = 1.06
+weight = 1.07
+bustStyle = "standard"
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:lairon", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:marowak", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Are you getting worn out from all the running you’ve done?", "The world is full of Pokémon and all sorts of Trainers."]

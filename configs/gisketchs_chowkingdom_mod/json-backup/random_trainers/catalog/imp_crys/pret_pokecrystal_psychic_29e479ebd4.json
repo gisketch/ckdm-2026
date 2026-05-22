@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokecrystal_psychic_005_greg",
+  "name": "Psychic Greg",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:drowzee",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "hypnosis",
+        "disable",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Greg is ready for a battle."
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_sydney",
+  "name": "Ace Trainer Female Sydney",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 47,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:clefable",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "meteormash",
+        "reflect",
+        "lightscreen",
+        "gravity"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:torterra",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthquake",
+        "crunch",
+        "leechseed",
+        "synthesis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "This total stranger\u2019ll be a good way to see if I have what it takes to own the Pok\u00e9mon League\u2019s Elite Four!",
+    "It doesn\u2019t appear as if anyone could even try to stand against your might. The Elite Four should just surrender."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_preston"
+name = "Psychic Preston"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:bronzong", level = 54, gender = "GENDERLESS", nature = "adamant", ability = "heatproof", moveset = ["gyroball", "extrasensory", "payback", "healblock"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Preston is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

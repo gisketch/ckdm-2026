@@ -1,0 +1,97 @@
+{
+  "id": "rct_rival_4_player_chose_larvitar_05ff",
+  "name": "Rival Wayne",
+  "title": "Rival 4 Player Chose",
+  "gender": "any",
+  "archetype": "rival_4_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "mamoswine",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "icefang",
+        "bulldoze",
+        "iceshard",
+        "stealthrock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toucannon",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "pluck",
+        "furyattack",
+        "rockblast",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vaporeon",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "waterpulse",
+        "aurorabeam",
+        "quickattack",
+        "aquaring"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fraxure",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "dualchop",
+        "crunch",
+        "rocktomb",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "metagross",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "ironhead",
+        "psychic",
+        "hammerarm",
+        "magnetrise"
+      ],
+      "heldItem": "mega_showdown:metagrossite assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

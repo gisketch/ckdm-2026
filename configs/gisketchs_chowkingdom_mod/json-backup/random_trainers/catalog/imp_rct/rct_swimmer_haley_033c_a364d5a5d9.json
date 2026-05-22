@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_haley_033c",
+  "name": "Swimmer Haley",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:marill",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "playrough",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:azumarill",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tackle",
+        "bubblebeam",
+        "bounce",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

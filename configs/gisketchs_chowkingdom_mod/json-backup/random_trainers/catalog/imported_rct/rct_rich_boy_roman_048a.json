@@ -1,0 +1,33 @@
+{
+  "id": "rct_rich_boy_roman_048a",
+  "name": "Rich Boy Roman",
+  "title": "Rich Boy",
+  "gender": "any",
+  "archetype": "rich_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "sudowoodo",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "stoneedge",
+        "hammerarm",
+        "woodhammer",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

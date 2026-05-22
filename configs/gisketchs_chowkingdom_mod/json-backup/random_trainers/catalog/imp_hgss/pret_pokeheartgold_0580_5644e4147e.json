@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0580_camper_pedro",
+  "name": "Camper Pedro",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:linoone",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bellydrum",
+        "slash",
+        "dig",
+        "surf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Have you ever gone camping with Pok\u00e9mon?",
+    "If you forget your blanket when you go camping, you can snuggle up to a Pok\u00e9mon and it\u2019ll be just as warm!"
+  ]
+}

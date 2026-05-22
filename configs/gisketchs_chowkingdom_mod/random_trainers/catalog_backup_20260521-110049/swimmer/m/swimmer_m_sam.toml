@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_sam"
+name = "Swimmer Sam"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 51
+maxLevel = 51
+team = [
+  { species = "cobblemon:chinchou", level = 51, gender = "MALE", nature = "sassy", ability = "voltabsorb", moveset = ["discharge", "aquaring", "hydropump", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 51, gender = "FEMALE", nature = "sassy", ability = "voltabsorb", moveset = ["discharge", "aquaring", "bubblebeam", "stockpile"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Check out my dynamic form! Victory is assured!", "Being a good swimmer doesn’t make me any better as a Trainer...", "I have trained this team for the road. Challenge me if you are ready."]

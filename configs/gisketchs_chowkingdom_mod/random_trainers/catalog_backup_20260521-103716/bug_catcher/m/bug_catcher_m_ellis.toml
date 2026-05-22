@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_ellis"
+name = "Bug Catcher Ellis"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "mid"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 28
+maxLevel = 46
+team = [
+  { species = "cobblemon:weedle", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kakuna", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m sure that there’s nothing more efficient and beautiful in this world than a Bug-type Pokémon.", "If this is it, then I don’t mind losing!"]

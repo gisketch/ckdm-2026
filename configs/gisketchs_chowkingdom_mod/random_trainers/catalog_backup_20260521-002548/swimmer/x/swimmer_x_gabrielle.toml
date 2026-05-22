@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_gabrielle"
+name = "Swimmer Gabrielle"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.99
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:golduck", level = 43, gender = "MALE", nature = "calm", ability = "cloudnine", moveset = ["aquajet", "zenheadbutt", "screech", "aquatail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

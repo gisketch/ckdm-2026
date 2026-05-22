@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ranger_felicia",
+  "name": "Ranger Female Felicia",
+  "title": "Ranger Female",
+  "gender": "female",
+  "archetype": "ranger_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:skiploom",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lopunny",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We\u2019ve grown strong together in nature and in the concrete jungle. We make everywhere we go our playground!",
+    "Look around you at this wildly contorted terrain. It\u2019s no wonder that Pok\u00e9mon would grow tough in a place like this."
+  ]
+}

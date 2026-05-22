@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_mamoac_m_benjamin"
+name = "Ruin Mamoac Benjamin"
+title = "Ruin Mamoac"
+gender = "male"
+archetype = "ruin_mamoac"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ruin_mamoac/male"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:geodude", level = 48, gender = "FEMALE", nature = "calm", ability = "rockhead", moveset = ["earthquake", "rockblast", "rollout", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 48, gender = "FEMALE", nature = "gentle", ability = "rockhead", moveset = ["earthquake", "rockblast", "rockthrow", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:graveler", level = 48, gender = "MALE", nature = "docile", ability = "rockhead", moveset = ["earthquake", "rockblast", "rockthrow", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

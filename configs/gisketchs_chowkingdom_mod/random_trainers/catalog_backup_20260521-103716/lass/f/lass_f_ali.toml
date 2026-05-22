@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_ali"
+name = "Lass Ali"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 16
+maxLevel = 18
+team = [
+  { species = "cobblemon:snubbull", level = 16, gender = "MALE", nature = "adamant", ability = "strongjaw", moveset = ["thunderfang", "charm", "bite", "covet"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:teddiursa", level = 17, gender = "MALE", nature = "bashful", ability = "quickfeet", moveset = ["lick", "faketears", "furyswipes", "feintattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:smoochum", level = 18, gender = "FEMALE", nature = "jolly", ability = "forewarn", moveset = ["sweetkiss", "icywind", "confusion", "sing"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Ali is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

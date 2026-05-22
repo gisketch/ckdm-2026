@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "friendly_x_thug"
+name = "Friendly Thug"
+title = "Friendly"
+gender = "any"
+archetype = "friendly"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "friendly/any"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 85
+maxLevel = 85
+team = [
+  { species = "cobblemon:lopunny", level = 85, gender = "FEMALE", nature = "jolly", ability = "cutecharm", moveset = ["fakeout", "frustration", "closecombat", "uturn"], heldItem = "['mega_showdown:lopunnite', 'life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:toxtricity", level = 85, gender = "FEMALE", nature = "timid", ability = "punkrock", moveset = ["boomburst", "overdrive", "sludgewave", "thunderbolt"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

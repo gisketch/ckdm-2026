@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "supernerd_x_gina"
+name = "Supernerd Gina"
+title = "Supernerd"
+gender = "any"
+archetype = "supernerd"
+region = "Kanto"
+category = "route_trainer"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "supernerd/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 37
+maxLevel = 37
+team = [
+  { species = "cobblemon:growlithe", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vulpix", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Supernerd from Cinnabar Gym is ready for a battle."]

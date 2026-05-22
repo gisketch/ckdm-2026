@@ -1,0 +1,81 @@
+{
+  "id": "rct_lass_dalia_0268",
+  "name": "Lass Dalia",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 46,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "hoppip",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "leafguard",
+      "moveset": [
+        "uturn",
+        "worryseed",
+        "gigadrain",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hoppip",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "leafguard",
+      "moveset": [
+        "uturn",
+        "worryseed",
+        "gigadrain",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skiploom",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "leafguard",
+      "moveset": [
+        "acrobatics",
+        "ragepowder",
+        "cottonspore",
+        "uturn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skiploom",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "leafguard",
+      "moveset": [
+        "ragepowder",
+        "cottonspore",
+        "uturn",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

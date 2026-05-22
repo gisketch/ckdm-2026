@@ -1,0 +1,33 @@
+{
+  "id": "rct_scientist_travon_0577",
+  "name": "Scientist Travon",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 15,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "kadabra",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "kinesis",
+        "disable",
+        "psybeam",
+        "reflect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

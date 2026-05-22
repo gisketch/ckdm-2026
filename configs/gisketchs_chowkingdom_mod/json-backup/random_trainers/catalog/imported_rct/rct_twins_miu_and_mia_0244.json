@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_miu_and_mia_0244",
+  "name": "Twins Miu & Mia",
+  "title": "Twins Miu And",
+  "gender": "any",
+  "archetype": "twins_miu_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "pikachu",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "extremespeed",
+        "thunderbolt",
+        "agility",
+        "wildcharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pikachu",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "static",
+      "moveset": [
+        "extremespeed",
+        "thunderbolt",
+        "agility",
+        "wildcharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

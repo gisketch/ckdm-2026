@@ -1,0 +1,67 @@
+{
+  "id": "rct_swimmerf_amara_0222",
+  "name": "Swimmer♀ Amara",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 92,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "milotic",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "competitive",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "hiddenpower",
+        "haze"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "milotic",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "serenegrace",
+      "moveset": [
+        "scorchingsands",
+        "moonblast",
+        "scald",
+        "recover"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "dewgong",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "icescales",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

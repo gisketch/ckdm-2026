@@ -1,0 +1,33 @@
+{
+  "id": "rct_twins_teri_0517",
+  "name": "Twin Teri",
+  "title": "Twins",
+  "gender": "any",
+  "archetype": "twins",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "raichu",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "thunderbolt",
+        "lightscreen",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

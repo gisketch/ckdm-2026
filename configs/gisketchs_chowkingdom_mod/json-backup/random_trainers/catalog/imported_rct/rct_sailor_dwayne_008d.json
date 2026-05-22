@@ -1,0 +1,49 @@
+{
+  "id": "rct_sailor_dwayne_008d",
+  "name": "Sailor Dwayne",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "plusle",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "plus",
+      "moveset": [
+        "electroball",
+        "copycat",
+        "charm",
+        "charge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "minun",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "minus",
+      "moveset": [
+        "electroball",
+        "copycat",
+        "faketears",
+        "charge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_worker_colin_037a",
+  "name": "Worker Colin",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "sandstorm",
+        "rockpolish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

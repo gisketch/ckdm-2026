@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "twin_x_emma"
+name = "Twin Emma"
+title = "Twin"
+gender = "any"
+archetype = "twin"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "twin/any"
+tier = "low"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:bonsly", level = 19, gender = "MALE", nature = "jolly", ability = "rockhead", moveset = ["faketears", "copycat", "flail", "rockthrow"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,115 @@
+{
+  "id": "rct_aroma_lady_violet_022e",
+  "name": "Aroma Lady Violet",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:flapple",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "gluttony",
+      "moveset": [
+        "dracometeor",
+        "gravapple",
+        "suckerpunch"
+      ],
+      "heldItem": [
+        "eject_pack"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arcanine",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash",
+        "flareblitz",
+        "accelerock",
+        "closecombat"
+      ],
+      "heldItem": [
+        "rock_gem"
+      ],
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "cobblemon:excadrill",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "ironhead",
+        "swordsdance"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:chandelure",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shadowtag",
+      "moveset": [
+        "flamethrower",
+        "shadowball",
+        "energyball",
+        "scorchingsands"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:primarina",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "liquidvoice",
+      "moveset": [
+        "calmmind",
+        "substitute",
+        "drainingkiss",
+        "hypervoice"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

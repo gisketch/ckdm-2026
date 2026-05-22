@@ -1,0 +1,97 @@
+{
+  "id": "rct_cue_ball_camron_00fb",
+  "name": "Cue Ball Camron",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "swampert",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "damp",
+      "moveset": [
+        "stealthrock",
+        "flipturn",
+        "earthquake",
+        "yawn"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aerodactyl",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "dualwingbeat",
+        "stoneedge",
+        "earthquake",
+        "uturn"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swarm",
+      "moveset": [
+        "uturn",
+        "bulletpunch",
+        "rocksmash",
+        "knockoff"
+      ],
+      "heldItem": "mega_showdown:scizorite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "garchomp",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandveil",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "stoneedge",
+        "scaleshot"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cacturne",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandrush",
+      "moveset": [
+        "needlearm",
+        "suckerpunch",
+        "knockoff",
+        "swordsdance"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

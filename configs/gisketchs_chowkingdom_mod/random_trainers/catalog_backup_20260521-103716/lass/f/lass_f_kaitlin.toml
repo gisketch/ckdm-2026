@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_kaitlin"
+name = "Lass Kaitlin"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 4
+maxLevel = 4
+team = [
+  { species = "cobblemon:bidoof", level = 4, gender = "FEMALE", nature = "jolly", ability = "unaware", moveset = ["tackle", "growl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:budew", level = 4, gender = "MALE", nature = "timid", ability = "naturalcure", moveset = ["absorb", "growth", "stunspore", "worryseed"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starly", level = 4, gender = "MALE", nature = "jolly", ability = "keeneye", moveset = ["tackle", "growl"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I found a Trainer while looking for some Pokémon!", "I walk through tall grass until I find the Pokémon I want.", "I have trained this team for the road. Challenge me if you are ready."]

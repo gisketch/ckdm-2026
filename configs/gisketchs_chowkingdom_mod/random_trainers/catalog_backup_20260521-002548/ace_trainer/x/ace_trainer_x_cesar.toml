@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_cesar"
+name = "Ace Trainer Cesar"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 30
+maxLevel = 32
+team = [
+  { species = "cobblemon:skorupi", level = 30, gender = "MALE", nature = "relaxed", ability = "battlearmor", moveset = ["bite", "pinmissile", "toxic", "irontail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:steelix", level = 32, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["thunderfang", "icefang", "curse", "irontail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

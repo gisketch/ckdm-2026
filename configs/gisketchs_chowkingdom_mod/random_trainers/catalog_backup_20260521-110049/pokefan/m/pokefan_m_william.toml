@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_william"
+name = "Pokefan William"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "low"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 16
+maxLevel = 16
+team = [
+  { species = "cobblemon:raichu", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We adore our Pokémon, even if they dislike us. That’s what being a Pokéfan is all about.", "I lost the battle, but my Pokémon win the prize for being the most lovely."]

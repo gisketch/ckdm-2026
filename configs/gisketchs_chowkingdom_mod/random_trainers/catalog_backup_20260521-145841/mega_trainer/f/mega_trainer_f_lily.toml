@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_f_lily"
+name = "Mega Trainer Lily"
+title = "Mega Trainer"
+gender = "female"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = "standard"
+minLevel = 57
+maxLevel = 60
+team = [
+  { species = "cobblemon:abomasnow", level = 57, gender = "MALE", nature = "modest", ability = "snowwarning", moveset = ["blizzard", "gigadrain", "earthquake", "iceshard"], heldItem = "['ice_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:ninetales", level = 59, gender = "FEMALE", nature = "timid", ability = "snowcloak", moveset = ["blizzard", "dazzlinggleam", "iceshard", "auroraveil"], heldItem = "['focus_sash']", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:glalie", level = 60, gender = "FEMALE", nature = "timid", ability = "refrigerate", moveset = ["blizzard", "waterpulse", "shadowball", "signalbeam"], heldItem = "['mega_showdown:glalitite', 'leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

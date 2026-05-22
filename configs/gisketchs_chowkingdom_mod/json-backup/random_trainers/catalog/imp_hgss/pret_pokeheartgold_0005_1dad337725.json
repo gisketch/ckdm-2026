@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0005_beauty_victoria",
+  "name": "Beauty Victoria",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 9,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:sentret",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sentret",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sentret",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Oh, you are a cute little Trainer! I like you, but I won\u2019t hold back!",
+    "Wow, you must be good to beat me! Keep it up!"
+  ]
+}

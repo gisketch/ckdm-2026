@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_spencer_00f5",
+  "name": "Swimmer\u2642 Spencer",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:inteleon",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "torrent",
+      "moveset": [
+        "liquidation",
+        "soak",
+        "raindance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tentacruel",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

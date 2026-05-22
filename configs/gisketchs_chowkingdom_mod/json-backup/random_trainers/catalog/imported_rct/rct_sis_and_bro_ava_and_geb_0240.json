@@ -1,0 +1,49 @@
+{
+  "id": "rct_sis_and_bro_ava_and_geb_0240",
+  "name": "Sis And Bro Ava & Geb",
+  "title": "Sis And Bro Ava And",
+  "gender": "any",
+  "archetype": "sis_and_bro_ava_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "damp",
+      "moveset": [
+        "mudshot",
+        "bellydrum",
+        "wakeupslap",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "docile",
+      "ability": "illuminate",
+      "moveset": [
+        "rapidspin",
+        "recover",
+        "psybeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

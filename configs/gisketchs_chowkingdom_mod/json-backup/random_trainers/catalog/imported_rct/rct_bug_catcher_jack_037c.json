@@ -1,0 +1,59 @@
+{
+  "id": "rct_bug_catcher_jack_037c",
+  "name": "Bug Catcher Jack",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 9,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "wurmple",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "silcoon",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beautifly",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "gust",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

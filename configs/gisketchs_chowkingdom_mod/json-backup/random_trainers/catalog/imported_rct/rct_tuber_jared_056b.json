@@ -1,0 +1,69 @@
+{
+  "id": "rct_tuber_jared_056b",
+  "name": "Tuber Jared",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "shellos",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "recover",
+        "waterpulse",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "shellos",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "shellos",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "recover",
+        "waterpulse",
+        "ancientpower",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

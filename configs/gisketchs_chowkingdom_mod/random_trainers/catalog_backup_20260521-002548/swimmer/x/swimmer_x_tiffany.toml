@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_tiffany"
+name = "Swimmer Tiffany"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 65
+maxLevel = 65
+team = [
+  { species = "cobblemon:lapras", level = 65, gender = "FEMALE", nature = "naive", ability = "hydration", moveset = ["hydropump", "dragonpulse", "wish", "boomburst"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

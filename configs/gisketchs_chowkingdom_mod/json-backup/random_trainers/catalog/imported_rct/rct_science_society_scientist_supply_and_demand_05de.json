@@ -1,0 +1,56 @@
+{
+  "id": "rct_science_society_scientist_supply_and_demand_05de",
+  "name": "Science Society Scientist",
+  "title": "Science Society Scientist Supply And",
+  "gender": "any",
+  "archetype": "science_society_scientist_supply_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "electrode",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "aftermath",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": "normal_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrode",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "aftermath",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": "normal_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrode",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "aftermath",
+      "moveset": [
+        "explosion"
+      ],
+      "heldItem": "normal_gem",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

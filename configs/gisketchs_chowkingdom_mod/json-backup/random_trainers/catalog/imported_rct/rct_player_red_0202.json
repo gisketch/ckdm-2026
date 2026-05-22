@@ -1,0 +1,32 @@
+{
+  "id": "rct_player_red_0202",
+  "name": "Player Red",
+  "title": "Player",
+  "gender": "any",
+  "archetype": "player",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "ekans",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "shedskin",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

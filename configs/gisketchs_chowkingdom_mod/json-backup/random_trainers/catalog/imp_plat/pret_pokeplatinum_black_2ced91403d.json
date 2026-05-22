@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_black_belt_jeffery",
+  "name": "Black Belt Jeffery",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:heracross",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "brickbreak",
+        "aerialace",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We\u2019re the Karate Quads! I will strike a blow for tears with my fist! Hiyah, teeeeeeaaaaaaaaars!",
+    "I lost because I didn\u2019t eat enough pizza. ...No. Anything I say will sound like I\u2019m making excuses."
+  ]
+}

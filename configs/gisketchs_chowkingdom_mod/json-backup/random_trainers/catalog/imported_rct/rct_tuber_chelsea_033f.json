@@ -1,0 +1,33 @@
+{
+  "id": "rct_tuber_chelsea_033f",
+  "name": "Tuber Chelsea",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "bibarel",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unaware",
+      "moveset": [
+        "watergun",
+        "aquajet",
+        "tackle",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

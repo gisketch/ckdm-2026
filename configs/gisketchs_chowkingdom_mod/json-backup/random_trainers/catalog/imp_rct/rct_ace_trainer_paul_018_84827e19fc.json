@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_paul_018b",
+  "name": "Ace Trainer Paul",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:slowpoke",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "oblivious",
+      "moveset": [
+        "headbutt",
+        "confusion",
+        "watergun",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:shellder",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "battlearmor",
+      "moveset": [
+        "aurorabeam",
+        "clamp",
+        "supersonic",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "hypercutter",
+      "moveset": [
+        "guillotine",
+        "stomp",
+        "mudshot",
+        "bubble"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:starmie",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "naturalcure",
+      "moveset": [
+        "bubblebeam",
+        "swift",
+        "recover",
+        "rapidspin"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "confusion",
+        "scratch",
+        "screech",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

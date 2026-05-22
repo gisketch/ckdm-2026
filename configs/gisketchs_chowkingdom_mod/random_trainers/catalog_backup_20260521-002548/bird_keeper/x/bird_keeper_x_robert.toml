@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_robert"
+name = "Bird Keeper Robert"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "very_high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 88
+maxLevel = 93
+team = [
+  { species = "cobblemon:exeggutor", level = 88, gender = "MALE", nature = "timid", ability = "chlorophyll", moveset = ["sleeppowder", "solarbeam", "psyshock", "weatherball"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:archeops", level = 91, gender = "FEMALE", nature = "jolly", ability = "defeatist", moveset = ["bravebird", "headsmash", "earthquake", "uturn"], heldItem = "['sharp_beak']", shiny = false, aspects = [] },
+  { species = "cobblemon:emboar", level = 89, gender = "MALE", nature = "naive", ability = "reckless", moveset = ["flareblitz", "closecombat", "wildcharge", "solarbeam"], heldItem = "['charcoal_stick']", shiny = false, aspects = [] },
+  { species = "cobblemon:jolteon", level = 89, gender = "FEMALE", nature = "timid", ability = "voltabsorb", moveset = ["voltswitch", "thunderbolt", "weatherball", "hiddenpower"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:druddigon", level = 93, gender = "FEMALE", nature = "careful", ability = "roughskin", moveset = ["glare", "dragonhammer", "gunkshot", "firepunch"], heldItem = "['rocky_helmet']", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Robert is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

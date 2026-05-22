@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_samuel_0188",
+  "name": "Ace Trainer Samuel",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "sandslash",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "swift",
+        "sandattack",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sandslash",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "swift",
+        "sandattack",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rhyhorn",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "furyattack",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorino",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "poisontouch",
+      "moveset": [
+        "furyattack",
+        "hornattack",
+        "poisonsting",
+        "doublekick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoking",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "poisontouch",
+      "moveset": [
+        "thrash",
+        "doublekick",
+        "poisonsting",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_sterling_04b1",
+  "name": "Psychic Sterling",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "baltoy",
+      "level": 54,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "earthpower",
+        "extrasensory",
+        "rocktomb",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grumpig",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "psychic",
+        "powergem",
+        "magiccoat",
+        "payback"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

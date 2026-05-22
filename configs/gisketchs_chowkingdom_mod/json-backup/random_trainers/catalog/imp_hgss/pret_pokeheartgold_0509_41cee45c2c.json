@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeheartgold_0509_sailor_huey",
+  "name": "Sailor Huey",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "cobblemon:politoed",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "whirlpool",
+        "raindance",
+        "bodyslam",
+        "perishsong"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:poliwrath",
+      "level": 52,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "surf",
+        "strength",
+        "icepunch",
+        "submission"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Sailor Huey is ready for a battle."
+  ]
+}

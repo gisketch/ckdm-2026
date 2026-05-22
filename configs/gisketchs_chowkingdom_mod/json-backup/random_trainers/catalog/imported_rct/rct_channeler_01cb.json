@@ -1,0 +1,65 @@
+{
+  "id": "rct_channeler_01cb",
+  "name": "Channeler",
+  "title": "Channeler 01cb",
+  "gender": "any",
+  "archetype": "channeler_01cb",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "gastly",
+      "level": 22,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "sludge",
+        "confuseray",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastly",
+      "level": 22,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "sludge",
+        "confuseray",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastly",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "sludge",
+        "confuseray",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

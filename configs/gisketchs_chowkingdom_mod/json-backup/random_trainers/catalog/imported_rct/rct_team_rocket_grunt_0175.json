@@ -1,0 +1,49 @@
+{
+  "id": "rct_team_rocket_grunt_0175",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 46,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "marowak",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "battlearmor",
+      "moveset": [
+        "falseswipe",
+        "thrash",
+        "fling",
+        "stompingtantrum"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "grapploct",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "limber",
+      "moveset": [
+        "submission",
+        "taunt",
+        "reversal",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_crush_kin_ron_and_mya_01e8",
+  "name": "Crush Kin Ron & Mya",
+  "title": "Crush Kin Ron And",
+  "gender": "any",
+  "archetype": "crush_kin_ron_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "grapploct",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "limber",
+      "moveset": [
+        "reversal",
+        "superpower",
+        "topsyturvy",
+        "brutalswing"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sirfetchd",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "sharpness",
+      "moveset": [
+        "brickbreak",
+        "swordsdance",
+        "slam",
+        "leafblade"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

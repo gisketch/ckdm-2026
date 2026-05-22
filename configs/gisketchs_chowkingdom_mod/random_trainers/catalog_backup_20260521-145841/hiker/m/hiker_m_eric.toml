@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_eric"
+name = "Hiker Eric"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 33
+maxLevel = 34
+team = [
+  { species = "cobblemon:hariyama", level = 33, gender = "FEMALE", nature = "impish", ability = "thickfat", moveset = ["knockoff", "vitalthrow", "bellydrum", "smellingsalts"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gligar", level = 34, gender = "FEMALE", nature = "hardy", ability = "hypercutter", moveset = ["feintattack", "acrobatics", "slash", "uturn"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Eric is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

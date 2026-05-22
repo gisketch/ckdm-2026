@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_dawn_059a",
+  "name": "Pokémon Trainer Dawn",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "wormadam",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "overcoat",
+      "moveset": [
+        "leafstorm",
+        "bugbuzz",
+        "psychic",
+        "quiverdance"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tangrowth",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "energyball",
+        "sludgebomb",
+        "focusblast",
+        "hyperbeam"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "hex",
+        "frostbreath",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magmortar",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "vitalspirit",
+      "moveset": [
+        "fireblast",
+        "focusblast",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefable",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "unaware",
+      "moveset": [
+        "moonblast",
+        "calmmind",
+        "moonlight",
+        "minimize"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "empoleon",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "flashcannon",
+        "icebeam",
+        "grassknot"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_m_dudley"
+name = "School Kid Dudley"
+title = "School Kid"
+gender = "male"
+archetype = "school_kid"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "school_kid/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.93
+bustStyle = ""
+minLevel = 45
+maxLevel = 45
+team = [
+  { species = "cobblemon:oddish", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beat the six of us Trainers to win a fabulous prize! Think you’ve got what it takes?", "I did my best. I have no regrets."]

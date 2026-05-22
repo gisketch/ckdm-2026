@@ -1,0 +1,65 @@
+{
+  "id": "rct_sailor_duncan_0089",
+  "name": "Sailor Duncan",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "lombre",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "swiftswim",
+      "moveset": [
+        "aurorabeam",
+        "fakeout",
+        "watersport",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "simipour",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "gluttony",
+      "moveset": [
+        "scald",
+        "leer",
+        "lick",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "carvanha",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "roughskin",
+      "moveset": [
+        "assurance",
+        "screech",
+        "swagger",
+        "icefang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

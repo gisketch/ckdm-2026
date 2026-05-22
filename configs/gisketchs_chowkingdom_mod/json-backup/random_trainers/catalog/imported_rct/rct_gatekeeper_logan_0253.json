@@ -1,0 +1,83 @@
+{
+  "id": "rct_gatekeeper_logan_0253",
+  "name": "Gatekeeper Logan",
+  "title": "Gatekeeper",
+  "gender": "any",
+  "archetype": "gatekeeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 92,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "yanmega",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "tintedlens",
+      "moveset": [
+        "bugbuzz",
+        "airslash",
+        "uturn",
+        "gigadrain"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arcanine",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash",
+        "flareblitz",
+        "accelerock",
+        "closecombat"
+      ],
+      "heldItem": "hard_stone",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "altaria",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "naturalcure",
+      "moveset": [
+        "dragondance",
+        "return",
+        "earthquake",
+        "roost"
+      ],
+      "heldItem": "mega_showdown:altarianite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "feraligatr",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "liquidation",
+        "aquajet",
+        "crunch",
+        "icepunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

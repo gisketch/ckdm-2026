@@ -1,0 +1,359 @@
+[[solo_moments]]
+id = "ambient_05_001"
+topic = "shop_counter"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "The counter stays calmer when every coin has its place."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_002"
+topic = "stock_shelves"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "Front shelf for daily needs, back shelf for careful choices."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_003"
+topic = "shop_signage"
+source_tags = ["shopkeeper", "town"]
+activities = ["work", "meetup"]
+line = "A clear sign saves three repeated questions."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_004"
+topic = "receipt_stack"
+source_tags = ["shopkeeper"]
+activities = ["work"]
+line = "Receipts tell a quiet story about what the town needs."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_005"
+topic = "display_light"
+source_tags = ["store_cosmetics", "shopkeeper"]
+activities = ["work"]
+line = "Soft light makes colors easier to trust."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_006"
+topic = "sample_jars"
+source_tags = ["researcher"]
+activities = ["work"]
+line = "A clean label is half the experiment."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_007"
+topic = "field_notes"
+source_tags = ["researcher"]
+activities = ["work", "pokemon_roam"]
+line = "Fresh notes lose value if the ink waits too long."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_008"
+topic = "measuring_tools"
+source_tags = ["researcher", "mentor"]
+activities = ["work"]
+line = "Measure twice, then wonder why the first reading changed."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_009"
+topic = "research_table"
+source_tags = ["researcher"]
+activities = ["work"]
+line = "A crowded table hides the best question."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_010"
+topic = "observation_lens"
+source_tags = ["researcher"]
+activities = ["work", "pokemon_roam"]
+line = "The smallest movement is usually the clue."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_011"
+topic = "seed_packets"
+source_tags = ["store_seed", "shopkeeper"]
+activities = ["work"]
+line = "Dry packets, neat labels, no guesswork at planting time."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_012"
+topic = "crop_rows"
+source_tags = ["store_seed", "town"]
+activities = ["work"]
+line = "Straight rows make weeds easier to spot."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_013"
+topic = "watering_can"
+source_tags = ["store_seed", "town"]
+activities = ["work", "home"]
+line = "A steady pour beats a heavy one."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_014"
+topic = "soil_bags"
+source_tags = ["store_seed", "shopkeeper"]
+activities = ["work"]
+line = "Good soil feels plain until the roots prove it."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_015"
+topic = "harvest_crates"
+source_tags = ["store_seed", "town"]
+activities = ["work", "meetup"]
+line = "Empty crates are just tomorrow making room."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_016"
+topic = "pokemon_feed"
+source_tags = ["store_pokemon", "shopkeeper"]
+activities = ["work", "pokemon_roam"]
+line = "The feed bins need checking before the paws find them."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_017"
+topic = "pokeball_case"
+source_tags = ["store_pokemon"]
+activities = ["work"]
+line = "Every case should close cleanly before it leaves the shelf."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_018"
+topic = "roam_tracks"
+source_tags = ["store_pokemon", "researcher"]
+activities = ["pokemon_roam"]
+line = "Tracks near the stockroom mean the scent carried well."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_019"
+topic = "care_brushes"
+source_tags = ["store_pokemon", "mentor"]
+activities = ["work", "pokemon_roam"]
+line = "Clean brushes keep trust in the hand."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_020"
+topic = "berry_bowls"
+source_tags = ["store_pokemon", "store_seed"]
+activities = ["work", "pokemon_roam"]
+line = "Berry bowls draw attention faster than any bell."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_021"
+topic = "cosmetic_ribbons"
+source_tags = ["store_cosmetics", "shopkeeper"]
+activities = ["work"]
+line = "Ribbons tangle less when sorted by touch, not only color."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_022"
+topic = "mirror_spots"
+source_tags = ["store_cosmetics", "town"]
+activities = ["work"]
+line = "A mirror near the window tells the truth about shade."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_023"
+topic = "dye_swatches"
+source_tags = ["store_cosmetics", "researcher"]
+activities = ["work"]
+line = "Swatches behave better when the order stays the same."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_024"
+topic = "display_hooks"
+source_tags = ["store_cosmetics", "shopkeeper"]
+activities = ["work"]
+line = "The right hook height changes what people notice first."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_025"
+topic = "polish_cloths"
+source_tags = ["store_cosmetics", "town"]
+activities = ["work", "home"]
+line = "A clean cloth makes old trim look cared for again."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_026"
+topic = "crafting_bench"
+source_tags = ["town", "mentor"]
+activities = ["work", "home"]
+line = "A nicked bench remembers every rushed decision."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_027"
+topic = "tool_rack"
+source_tags = ["town", "shopkeeper"]
+activities = ["work"]
+line = "Tools last longer when the rack has a habit."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_028"
+topic = "thread_spools"
+source_tags = ["store_cosmetics", "town"]
+activities = ["work", "home"]
+line = "Loose thread always finds the busiest floorboard."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_029"
+topic = "work_gloves"
+source_tags = ["store_seed", "town"]
+activities = ["work"]
+line = "Good gloves show their value after the first blister."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_030"
+topic = "storage_bins"
+source_tags = ["shopkeeper", "town"]
+activities = ["work"]
+line = "Bins with clear fronts settle arguments before they start."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_031"
+topic = "market_baskets"
+source_tags = ["shopkeeper", "town"]
+activities = ["work", "meetup"]
+line = "A basket by the door turns one errand into three."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_032"
+topic = "town_bulletin"
+source_tags = ["town", "mentor"]
+activities = ["meetup"]
+line = "The bulletin board fills up when people trust it."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_033"
+topic = "workplace_lantern"
+source_tags = ["town", "shopkeeper"]
+activities = ["work"]
+line = "A lantern hung too low turns every task into a squint."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_034"
+topic = "supply_ledger"
+source_tags = ["shopkeeper", "researcher"]
+activities = ["work"]
+line = "The ledger is dull until it prevents a shortage."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_035"
+topic = "sorting_trays"
+source_tags = ["researcher", "store_seed"]
+activities = ["work"]
+line = "Sorting trays make small mistakes loud enough to catch."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_036"
+topic = "drying_rack"
+source_tags = ["store_seed", "researcher"]
+activities = ["work", "home"]
+line = "Patience is easier when the drying rack is full."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_037"
+topic = "mortar_bowl"
+source_tags = ["researcher", "mentor"]
+activities = ["work"]
+line = "A smooth bowl teaches a steady hand."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_038"
+topic = "parcel_twine"
+source_tags = ["shopkeeper", "town"]
+activities = ["work"]
+line = "Twine saves more time than it gets credit for."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_039"
+topic = "window_boxes"
+source_tags = ["store_seed", "store_cosmetics"]
+activities = ["work", "home"]
+line = "Window boxes make the street look tended."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_040"
+topic = "restock_cart"
+source_tags = ["shopkeeper", "store_pokemon"]
+activities = ["work"]
+line = "A quiet cart is a well-packed cart."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_041"
+topic = "mentor_diagram"
+source_tags = ["mentor", "researcher"]
+activities = ["work", "meetup"]
+line = "A simple diagram leaves room for the lesson to breathe."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_042"
+topic = "practice_dummy"
+source_tags = ["mentor", "town"]
+activities = ["work"]
+line = "The practice dummy shows where impatience lands."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_05_043"
+topic = "shared_table"
+source_tags = ["town", "shopkeeper"]
+activities = ["meetup", "work"]
+line = "A shared table needs clear corners and no mystery stains."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_044"
+topic = "workroom_floor"
+source_tags = ["town", "researcher"]
+activities = ["work"]
+line = "The floor finds every dropped pin by morning."
+weight = 1.5
+
+[[solo_moments]]
+id = "ambient_05_045"
+topic = "closing_checks"
+source_tags = ["shopkeeper", "mentor", "town"]
+activities = ["work", "home"]
+line = "Locks, lamps, labels, then the day can end."
+weight = 2.0

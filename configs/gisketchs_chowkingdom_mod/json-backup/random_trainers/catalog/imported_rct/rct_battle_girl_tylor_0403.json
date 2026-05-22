@@ -1,0 +1,33 @@
+{
+  "id": "rct_battle_girl_tylor_0403",
+  "name": "Battle Girl Tylor",
+  "title": "Battle Girl",
+  "gender": "any",
+  "archetype": "battle_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "medicham",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "purepower",
+      "moveset": [
+        "thunderpunch",
+        "icepunch",
+        "psybeam",
+        "acupressure"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

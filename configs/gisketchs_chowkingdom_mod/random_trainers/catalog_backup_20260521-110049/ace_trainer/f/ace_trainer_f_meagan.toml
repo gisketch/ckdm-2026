@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_meagan"
+name = "Ace Trainer Meagan"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 57
+maxLevel = 58
+team = [
+  { species = "cobblemon:delcatty", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["fakeout", "captivate", "feintattack", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:abomasnow", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["iceshard", "avalanche", "razorleaf", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What sort of moves have you taught? That tells me how good you are!", "I heard that somewhere there’s someone who teaches Pokémon moves.", "I have trained this team for the road. Challenge me if you are ready."]

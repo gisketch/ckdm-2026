@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rich_boy_m_dawson"
+name = "Rich Boy Dawson"
+title = "Rich Boy"
+gender = "male"
+archetype = "rich_boy"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "rich_boy/male"
+tier = "low"
+spawnable = true
+height = 1
+weight = 1.03
+bustStyle = ""
+minLevel = 8
+maxLevel = 8
+team = [
+  { species = "cobblemon:zigzagoon", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poochyena", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Rich Boy Dawson is ready for a battle."]

@@ -1,0 +1,33 @@
+{
+  "id": "rct_biker_billy_00cb",
+  "name": "Biker Billy",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "gumshoos",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "strongjaw",
+      "moveset": [
+        "hyperfang",
+        "yawn",
+        "thrash",
+        "rest"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

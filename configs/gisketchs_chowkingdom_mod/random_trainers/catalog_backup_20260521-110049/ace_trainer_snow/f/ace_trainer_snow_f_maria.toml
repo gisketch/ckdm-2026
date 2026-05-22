@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_snow_f_maria"
+name = "Ace Trainer Snow Maria"
+title = "Ace Trainer Snow"
+gender = "female"
+archetype = "ace_trainer_snow"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer_snow/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 39
+team = [
+  { species = "cobblemon:golduck", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "confusion", "disable", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["fireblast", "takedown", "furyattack", "willowisp"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rockslide", "lowkick", "flail", "endure"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["To be ready to answer any call! To be ready to accept any challenge! That is the way of a Trainer!", "You can make all the preparations in the world, but if it doesn’t work, it doesn’t work."]

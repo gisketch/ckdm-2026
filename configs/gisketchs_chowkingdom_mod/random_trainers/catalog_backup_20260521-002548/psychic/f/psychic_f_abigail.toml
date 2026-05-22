@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_abigail"
+name = "Psychic Abigail"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 57
+maxLevel = 61
+team = [
+  { species = "cobblemon:chimecho", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drifblim", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gardevoir", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Female Abigail is ready for a battle.", "There! Behind you!", "You might be tough, but let down your guard at your own risk!"]

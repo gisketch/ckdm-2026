@@ -1,0 +1,46 @@
+{
+  "id": "rct_bug_catcher_brandon_0530",
+  "name": "Bug Catcher Brandon",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "kricketot",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "growl",
+        "pound",
+        "strugglebug",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "silcoon",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

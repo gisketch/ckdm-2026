@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_don"
+name = "Bug Catcher Don"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 3
+maxLevel = 3
+team = [
+  { species = "cobblemon:caterpie", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:caterpie", level = 3, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Don is ready for a battle.", "Instead of a bug Pokémon, I found a Trainer!", "I ran out of Poké Balls while I was catching Pokémon. I should’ve bought some more..."]

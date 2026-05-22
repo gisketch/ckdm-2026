@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeplatinum_worker_gary",
+  "name": "Worker Gary",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:magnemite",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spark",
+        "magnetbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "A Pok\u00e9mon Gym isn\u2019t only about seeing how tough your Pok\u00e9mon happen to be. It\u2019s so much deeper than just that. It\u2019s a test of you as a person.",
+    "I get to work all day with my Pok\u00e9mon, and even battle sometimes. I get all the fun I need every day!"
+  ]
+}

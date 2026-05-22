@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_clarice"
+name = "Ace Trainer Clarice"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 53
+maxLevel = 56
+team = [
+  { species = "cobblemon:swalot", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gunkshot", "yawn", "bodyslam", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ninetales", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["willowisp", "flamethrower", "darkpulse", "extrasensory"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnezone", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flashcannon", "mirrorcoat", "discharge", "hyperbeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let me see what you got there, kid. I could give you some advice.", "Well, I don’t have any advice for someone as tough as you!"]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerf_melissa_0110",
+  "name": "Swimmer♀ Melissa",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "slowking",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "owntempo",
+      "moveset": [
+        "psychic",
+        "trumpcard",
+        "psychup",
+        "healpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gorebyss",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "dazzling",
+      "moveset": [
+        "coil",
+        "moonblast",
+        "hydropump",
+        "shellsmash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

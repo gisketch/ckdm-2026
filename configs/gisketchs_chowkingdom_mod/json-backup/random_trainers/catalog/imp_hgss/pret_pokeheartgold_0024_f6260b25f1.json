@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0024_school_kid_male_alan",
+  "name": "School Kid Male Alan",
+  "title": "School Kid Male",
+  "gender": "male",
+  "archetype": "school_kid_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "school_kid_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:tangela",
+      "level": 17,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I can properly prepare for any Pok\u00e9mon adversary!",
+    "Sniffle... I study for five hours straight every day... If you only read the textbook, I guess you miss out on a lot."
+  ]
+}

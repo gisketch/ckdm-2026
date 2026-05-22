@@ -1,0 +1,99 @@
+{
+  "id": "rct_ace_trainer_george_0189",
+  "name": "Ace Trainer George",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 83,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "exeggutor",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "gigadrain",
+        "dragonpulse",
+        "flamethrower"
+      ],
+      "heldItem": "miracle_seed",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "donphan",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bonemerang",
+        "iceshard",
+        "rockblast",
+        "knockoff"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cloyster",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "skilllink",
+      "moveset": [
+        "rockblast",
+        "iciclespear",
+        "liquidation",
+        "shellsmash"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mienshao",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "regenerator",
+      "moveset": [
+        "fakeout",
+        "closecombat",
+        "uturn",
+        "knockoff"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pinsir",
+      "level": 84,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "quickattack",
+        "xscissor",
+        "doubleedge",
+        "closecombat"
+      ],
+      "heldItem": "mega_showdown:pinsirite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_psychic_chelsey",
+  "name": "Psychic Female Chelsey",
+  "title": "Psychic Female",
+  "gender": "female",
+  "archetype": "psychic_female",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "psychic_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:lunatone",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gardevoir",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ll use my mystifying psychic power to pulverize you!",
+    "Psychic power is a mystery that defies explanation. But if everything could be explained, it would be a boring world."
+  ]
+}

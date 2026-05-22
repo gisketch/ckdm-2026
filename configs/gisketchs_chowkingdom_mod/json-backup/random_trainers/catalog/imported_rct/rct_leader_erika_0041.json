@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_erika_0041",
+  "name": "Erika",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "tsareena",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": [
+        "tripleaxel",
+        "tropkick",
+        "highjumpkick",
+        "rapidspin"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bellossom",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "quiverdance",
+        "gigadrain",
+        "fierydance"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hawlucha",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "unburden",
+      "moveset": [
+        "swordsdance",
+        "acrobatics",
+        "closecombat",
+        "roost"
+      ],
+      "heldItem": "grassy_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rillaboom",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "grassysurge",
+      "moveset": [
+        "swordsdance",
+        "grassyglide",
+        "acrobatics",
+        "highhorsepower"
+      ],
+      "heldItem": "grassy_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "serperior",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "contrary",
+      "moveset": [
+        "leafstorm",
+        "gigadrain",
+        "dragonpulse",
+        "leechseed"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "gigadrain",
+        "sludgebomb",
+        "earthpower",
+        "synthesis"
+      ],
+      "heldItem": "mega_showdown:venusaurite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

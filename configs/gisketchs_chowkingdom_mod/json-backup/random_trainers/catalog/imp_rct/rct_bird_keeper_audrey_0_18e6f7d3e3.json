@@ -1,0 +1,56 @@
+{
+  "id": "rct_bird_keeper_audrey_0493",
+  "name": "Bird Keeper Audrey",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:farfetchd",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "slash",
+        "falseswipe",
+        "knockoff",
+        "aerialace"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swellow",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "guts",
+      "moveset": [
+        "quickattack",
+        "endeavor",
+        "bravebird",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "rct_camper_flint_01d7",
+  "name": "Camper Flint",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "farfetchd",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "steadfast",
+      "moveset": [
+        "peck",
+        "leer",
+        "furycutter",
+        "rocksmash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "skwovet",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "cheekpouch",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "tailslap",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

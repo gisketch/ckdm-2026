@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_jamie",
+  "name": "Ace Trainer Female Jamie",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:metagross",
+      "level": 60,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "meteormash",
+        "hammerarm",
+        "psychic",
+        "magnetrise"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I constantly analyze Pok\u00e9mon and various battles on my laptop.",
+    "I had a lot of fun battling with you, though. I wonder if I can analyze the battle data properly? I could use a rematch to get some additional data."
+  ]
+}

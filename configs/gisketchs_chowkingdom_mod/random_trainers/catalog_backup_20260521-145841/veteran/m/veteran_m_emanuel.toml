@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "veteran_m_emanuel"
+name = "Veteran Emanuel"
+title = "Veteran"
+gender = "male"
+archetype = "veteran"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "veteran/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:machop", level = 23, gender = "MALE", nature = "relaxed", ability = "noguard", moveset = ["leer", "revenge", "lowsweep", "knockoff"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bronzor", level = 23, gender = "GENDERLESS", nature = "hardy", ability = "levitate", moveset = ["tackle", "confuseray", "payback", "gyroball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Veteran Emanuel is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

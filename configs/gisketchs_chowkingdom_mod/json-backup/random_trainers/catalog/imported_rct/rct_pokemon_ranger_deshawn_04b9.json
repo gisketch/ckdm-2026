@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_deshawn_04b9",
+  "name": "Pokémon Ranger Deshawn",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "spinda",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "owntempo",
+      "moveset": [
+        "psychup",
+        "doubleedge",
+        "flail",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kecleon",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "colorchange",
+      "moveset": [
+        "screech",
+        "substitute",
+        "suckerpunch",
+        "shadowclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

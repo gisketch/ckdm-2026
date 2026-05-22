@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_luis"
+name = "Swimmer Luis"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 19
+maxLevel = 20
+team = [
+  { species = "cobblemon:shellder", level = 19, gender = "FEMALE", nature = "docile", ability = "battlearmor", moveset = ["withdraw", "supersonic", "iciclespear", "protect"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tirtouga", level = 20, gender = "FEMALE", nature = "modest", ability = "solidrock", moveset = ["bite", "detect", "aquajet", "ancientpower"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

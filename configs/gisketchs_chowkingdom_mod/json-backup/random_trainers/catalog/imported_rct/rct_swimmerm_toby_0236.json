@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmerm_toby_0236",
+  "name": "Swimmer♂ Toby",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "mudshot",
+        "bellydrum",
+        "wakeupslap",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacool",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "clearbody",
+      "moveset": [
+        "screech",
+        "hex",
+        "sludgewave",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "clearbody",
+      "moveset": [
+        "scald",
+        "screech",
+        "hex",
+        "sludgewave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

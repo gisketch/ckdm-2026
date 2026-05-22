@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "parasol_lady_f_alexa"
+name = "Parasol Lady Alexa"
+title = "Parasol Lady"
+gender = "female"
+archetype = "parasol_lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "parasol_lady/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.9
+bustStyle = "standard"
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:seaking", level = 53, gender = "MALE", nature = "jolly", ability = "waterveil", moveset = ["peck", "supersonic", "hornattack", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:floatzel", level = 53, gender = "MALE", nature = "jolly", ability = "swiftswim", moveset = ["icefang", "crunch", "tailwhip", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["There are Pokémon that grow stronger when it’s raining.", "I want to show off my pretty parasol, but it will get dirty in the rain. Oh, such a big dilemma!", "Parasol Lady Alexa is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

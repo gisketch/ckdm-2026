@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_maya"
+name = "Ace Trainer Maya"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 59
+maxLevel = 61
+team = [
+  { species = "cobblemon:roserade", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["toxicspikes", "gigadrain", "leechseed", "toxic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gardevoir", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "magicalleaf", "calmmind", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lickilicky", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = ["supersonic", "stomp", "screech", "powerwhip"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m taking the Veilstone Gym challenge. But first...", "I think about Pokémon all day long. I was confident, you know.", "Ace Trainer Female Maya is ready for a battle."]

@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_irene_01d9",
+  "name": "Picnicker Irene",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "tentacruel",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "liquidooze",
+      "moveset": [
+        "hex",
+        "sludgewave",
+        "hydropump",
+        "wringout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swanna",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "frisk",
+      "moveset": [
+        "raindance",
+        "tailwind",
+        "hydropump",
+        "hurricane"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dewgong",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "icescales",
+      "moveset": [
+        "takedown",
+        "dive",
+        "aquatail",
+        "safeguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

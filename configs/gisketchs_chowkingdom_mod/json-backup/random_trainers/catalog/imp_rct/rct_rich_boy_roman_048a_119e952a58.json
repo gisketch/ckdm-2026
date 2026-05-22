@@ -1,0 +1,40 @@
+{
+  "id": "rct_rich_boy_roman_048a",
+  "name": "Rich Boy Roman",
+  "title": "Rich Boy",
+  "gender": "male",
+  "archetype": "rich_boy",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rich_boy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:sudowoodo",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "stoneedge",
+        "hammerarm",
+        "woodhammer",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

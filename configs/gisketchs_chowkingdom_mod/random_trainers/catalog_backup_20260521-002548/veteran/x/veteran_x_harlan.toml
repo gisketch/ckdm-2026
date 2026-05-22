@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "veteran_x_harlan"
+name = "Veteran Harlan"
+title = "Veteran"
+gender = "any"
+archetype = "veteran"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "veteran/any"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:raticate", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["endeavor", "superfang", "crunch", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drifblim", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["explosion", "shadowball", "toxic", "fly"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shiftry", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leafstorm", "feintattack", "extrasensory", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What do you expect to achieve here? I’ll be the one to make that call!", "You may find it odd, but the stink of sulfur from the volcanic gas is what draws me here.", "I have trained this team for the road. Challenge me if you are ready."]

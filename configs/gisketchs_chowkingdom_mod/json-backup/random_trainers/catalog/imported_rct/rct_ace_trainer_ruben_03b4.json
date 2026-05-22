@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_ruben_03b4",
+  "name": "Ace Trainer Ruben",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "damp",
+      "moveset": [
+        "hydropump",
+        "hypnosis",
+        "earthpower",
+        "bodyslam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "icefang",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -5,6 +5,8 @@ source_tags = ["bard"]
 target_tags = ["town"]
 line = "Keep the beat steady tonight. The patrol needs strong morale."
 response = "For the march? I will play the old skyland road song."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["bard"]
 target_tags = ["mentor"]
 line = "Your lute sounds sharp. Planning a new piece for the hall?"
 response = "Yes. I want a melody that lifts the young warriors sparring nearby."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["musician"]
 target_tags = ["mentor"]
 line = "Play something low and warm. The class needs calm after drills."
 response = "I know a hearth-strum that eases tired sword arms."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["town"]
 line = "Rain on the cobbles. Can you hum a tune for the shopkeepers?"
 response = "A misty skyland lullaby. It makes rain sound like harp strings."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["bard"]
 target_tags = ["town"]
 line = "The wind is restless tonight. Let it join your flute."
 response = "Then I shall whistle the gale-song of the upper isles."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["bard"]
 target_tags = ["link"]
 line = "Your shield arm is in my rhythm. A new cadence for patrol?"
 response = "Tap it twice. I will match my steps to your song."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["musician"]
 target_tags = ["wizard"]
 line = "Can a lute weave a spell of silence as well as sound?"
 response = "Silence is just the rest note between thunderclaps."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["bard"]
 target_tags = ["bubblegum"]
 line = "I heard some Cobblemon croon. Want me to transcribe it?"
 response = "Please. Their calls might be a new musical language."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["marceline", "nocturnal"]
 line = "Moon is high. Duet with me under the old clocktower?"
 response = "I will play the dark bassline. You take the high melody."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["bard"]
 target_tags = ["zelda", "light_magic"]
 line = "I composed a hymn about returning from darkness to dawn."
 response = "Please play it. Light reclaimed is worth a thousand verses."
+source_emote = "shrug"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["bard"]
 target_tags = ["geralt", "class_witcher"]
 line = "A ballad for the Path. Heroes who ask for no applause."
 response = "Hm. Make it short. A witcher ballad needs sharp endings."
+source_emote = "speaking"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["musician"]
 target_tags = ["water_wizard"]
 line = "I made a water drum from enchanted tidewood. Hear the pulse?"
 response = "It echoes the deep current below the skylands."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["paladin"]
 line = "A hallowed chant for your dawn vigil. May I accompany you?"
 response = "Yes. The light rises mightier when voices join as one."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["musician"]
 target_tags = ["warrior"]
 line = "Bard, hit a war-drum for the obstacle course today."
 response = "I will set a tempo that makes logs and walls feel like a dance."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["bard"]
 target_tags = ["wizard"]
 line = "Your fireworks have rhythm. Let me match them with my lute."
 response = "A pyrotechnic symphony? Splendid. Mind the embers."
+source_emote = "lookout"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["musician"]
 target_tags = ["fire_wizard"]
 line = "Your fire-bending breath syncs with a drummer. May I try?"
 response = "Do it. Fire dances best when music gives it shape."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["bard"]
 target_tags = ["earth_wizard"]
 line = "I felt your stomp shake through my lute. A new tempo?"
 response = "I call it the bedrock reel. Good luck keeping up."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["musician"]
 target_tags = ["frost_wizard"]
 line = "The ice pillars sing when wind passes them. I wrote a lullaby."
 response = "Sing it softly. Ice remembers every tender note."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["bard"]
 target_tags = ["ciri", "class_witcher"]
 line = "You leap like a melody. Need a blade-dance accompaniment?"
 response = "A fast reel. I want my footwork to match the beat."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["war_archer"]
 line = "An elven marching song for the dawn arrow volley?"
 response = "Yes. We fire on the drumbeat of the ancient woods."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["bard"]
 target_tags = ["tundra_archer"]
 line = "Your arrows freeze the air. I composed a frostwind dirge."
 response = "Play it quietly. The tundra is our only audience."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["musician"]
 target_tags = ["archer"]
 line = "A shadowy riff for your midnight forest hunts?"
 response = "Use low strings. Light must not betray the path."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["bard"]
 target_tags = ["forcemaster"]
 line = "I amplified my lute with a force-pulse charm. Too loud?"
 response = "Perfect! Play the chord again and shake the training dummies."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["musician"]
 target_tags = ["bounty_hunter"]
 line = "Old-world machines had steady hum frequencies. I replicated one."
 response = "Early warning drone. Useful near the skyland ruins."
+source_emote = "hi"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["bard"]
 target_tags = ["rogue"]
 line = "A short flute melody for leaping across the alley roofs."
 response = "Brief and sharp. Villains hear only a ghost note."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["musician"]
 target_tags = ["priest"]
 line = "The chapel echo is divine. Shall we practice the dawn choir?"
 response = "Blessed be the voice that calls the faithful to stand."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["berserker"]
 line = "An anthem for breaking chains and dashing uphill."
 response = "Wild and fierce. I will shout the chorus mid-charge."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["bard"]
 target_tags = ["arcane_wizard"]
 line = "Discordant notes align with arcane flux. A study duet?"
 response = "Fascinating. Let us map dissonance onto mana wave peaks."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["store_cosmetics"]
 line = "A light jingle for your shop front. Attracts cheerful customers."
 response = "Splendid. Keep it bright and no longer than a bow."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["musician"]
 target_tags = ["wind_wizard"]
 line = "I carved a sky-flute. It plays only when the breeze is kind."
 response = "Then we must coax the wind with laughter and a spin."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["bard"]
 target_tags = ["skyland_survival"]
 line = "A whistle code for skyland scouts: danger, food, shelter."
 response = "Teach me. I will spread it to every cliff outpost."
+source_emote = "threaten"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["bard", "musician"]
 target_tags = ["town"]
 line = "Last call. A closing hymn for the weary and the hopeful."
 response = "Together then. Let the tavern beams carry the harmony."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["bard"]
 target_tags = ["link"]
 line = "Is that an ocarina from a bygone sky era? Duet?"
 response = "This melody opens rifts in the rain. Ready?"
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["musician"]
 target_tags = ["zelda", "dragon_memory"]
 line = "I set dragon memory fragments to harp. Very delicate."
 response = "Play them and I will translate the ancient words."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -311,17 +379,21 @@ source_tags = ["musician"]
 target_tags = ["bubblegum", "researcher", "pokemon"]
 line = "Ambient tones for your lab. Helps Cobblemon stay calm."
 response = "Calibrated at 432 hertz? That aids the growth serum."
+source_emote = "proud"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_13_036"
 topic = "bard_finn_grass_sword_song"
 source_tags = ["bard"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["warrior"]
 line = "Your grass sword hums. I wrote a song to match its pitch."
 response = "Whoa. Play it when I spar with Huntress Wizard."
+source_emote = "clap"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_13_037"
 topic = "bard_marceline_axe_amp_test"
@@ -329,6 +401,8 @@ source_tags = ["musician"]
 target_tags = ["marceline", "nocturnal", "musician"]
 line = "Your axe-bass shakes my ribs. Try this amp crystal?"
 response = "Crank it. The bats outside will form a choir."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["bard"]
 target_tags = ["ciri"]
 line = "I hear your medallion hum near ley lines. A song in that."
 response = "It vibrates stronger when magic is pure. Record it."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["musician"]
 target_tags = ["geralt"]
 line = "A gwent victory jig. For when you beat someone soundly."
 response = "Play it after the cards fall. Quick and smug."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["bard"]
 target_tags = ["paladin"]
 line = "I composed Golden Grace for your shield wall drills."
 response = "We shall march to it until the walls shine brighter."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["musician"]
 target_tags = ["priest"]
 line = "A psalm for sunrise over the skyland chapel dome."
 response = "Let every verse ascend like incense from this town."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["musician"]
 target_tags = ["berserker"]
 line = "I built a second drum for when your fury peaks."
 response = "Hit it hard. I will break the target dummy in half."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["bard"]
 target_tags = ["adventure_time"]
 line = "All voices for a chorus about the ancient mushroom war?"
 response = "We sing it proud. A ballad of candy and sword alike."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["bard"]
 target_tags = ["invoker", "arcane_wizard"]
 line = "Your three orbs orbit in harmonic thirds. I tested it."
 response = "Cosmic geometry is the oldest music. You hear it."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["musician"]
 target_tags = ["water_wizard"]
 line = "A tide waltz. Step with me as the fountain arcs."
 response = "I will bend the water to match your tempo."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["bard"]
 target_tags = ["wind_wizard"]
 line = "Strum with me to calm the storm. It listens to harmony."
 response = "Slow and steady. The clouds will unclench."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["musician"]
 target_tags = ["earth_wizard"]
 line = "Boulder roll cadence. Each thump a bass drum beat."
 response = "Flawless. Now I can train my badgermoles with it."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["bard"]
 target_tags = ["fire_wizard"]
 line = "A serenade by the fire pit. Your flames are the footlights."
 response = "Keep it gentle. Fire responds better to soft strings."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["musician"]
 target_tags = ["frost_wizard"]
 line = "I forged chime wands that ring when frost magic flows."
 response = "Lovely. We can build an ice xylophone with them."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["musician"]
 target_tags = ["bounty_hunter"]
 line = "I recorded a machine core pulse. It has a heartbeat rhythm."
 response = "Strange lullaby. Play it low near ruins to soothe watchers."
+source_emote = "wave"
+target_emote = "head_scratches"
 weight = 1.0

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_arthur"
+name = "Ace Trainer Arthur"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 54
+maxLevel = 55
+team = [
+  { species = "cobblemon:gastrodon", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["muddywater", "recover", "toxic", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 54, gender = "GENDERLESS", nature = "", ability = "", moveset = ["poisonjab", "uturn", "aerialace", "swordsdance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "hyperbeam", "endure", "explosion"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I want my Pokémon to get a taste of the sweetness that is victory. I can’t afford to lose this one!", "I’m sorry, my Pokémon team... I promise, I’ll get better at this so you can get a taste of victory!", "I have trained this team for the road. Challenge me if you are ready."]

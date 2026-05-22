@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_yuji_0190",
+  "name": "Ace Trainer Yuji",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:sandslash",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "swift",
+        "sandattack",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "rockhead",
+      "moveset": [
+        "rockblast",
+        "magnitude",
+        "mudsport",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "dragonbreath",
+        "sandstorm",
+        "rockthrow",
+        "bind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:graveler",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "rockhead",
+      "moveset": [
+        "rockblast",
+        "magnitude",
+        "rollout",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marowak",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "rockhead",
+      "moveset": [
+        "bonemerang",
+        "headbutt",
+        "leer",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

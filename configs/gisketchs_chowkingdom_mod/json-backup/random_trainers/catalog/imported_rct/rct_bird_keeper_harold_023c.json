@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_harold_023c",
+  "name": "Bird Keeper Harold",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "tintedlens",
+      "moveset": [
+        "roost",
+        "moonblast",
+        "synchronoise",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "noctowl",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "tintedlens",
+      "moveset": [
+        "reflect",
+        "uproar",
+        "roost",
+        "moonblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

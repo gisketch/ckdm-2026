@@ -1,0 +1,65 @@
+{
+  "id": "rct_aroma_lady_jenna_039d",
+  "name": "Aroma Lady Jenna",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 13,
+  "maxLevel": 15,
+  "team": [
+    {
+      "species": "budew",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "budew",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "budew",
+      "level": 15,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "stunspore",
+        "rest",
+        "sleeptalk"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

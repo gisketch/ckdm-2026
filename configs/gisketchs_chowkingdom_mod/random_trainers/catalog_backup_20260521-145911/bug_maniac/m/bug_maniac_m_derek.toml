@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_maniac_m_derek"
+name = "Bug Maniac Derek"
+title = "Bug Maniac"
+gender = "male"
+archetype = "bug_maniac"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "bug_maniac/male"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 16
+maxLevel = 16
+team = [
+  { species = "cobblemon:dustox", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beautifly", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Maniac Derek is ready for a battle."]

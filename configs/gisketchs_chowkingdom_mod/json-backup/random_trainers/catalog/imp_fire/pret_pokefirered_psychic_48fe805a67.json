@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokefirered_psychic_dario_2",
+  "name": "Psychic Dario",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "Kanto/Sevii",
+  "category": "specialist",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:girafarig",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "crunch",
+        "psybeam",
+        "odorsleuth",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic Dario is ready for a battle."
+  ]
+}

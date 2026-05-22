@@ -1,0 +1,81 @@
+{
+  "id": "rct_picnicker_alicia_009a",
+  "name": "Picnicker Alicia",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "oddish",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "chlorophyll",
+      "moveset": [
+        "sleeppowder",
+        "megadrain",
+        "sludge",
+        "moonlight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bellsprout",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "chlorophyll",
+      "moveset": [
+        "poisonpowder",
+        "stunspore",
+        "sludge",
+        "megadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sewaddle",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "swarm",
+      "moveset": [
+        "stringshot",
+        "bugbite",
+        "razorleaf",
+        "strugglebug"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "morelull",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "effectspore",
+      "moveset": [
+        "megadrain",
+        "sleeppowder",
+        "ingrain",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

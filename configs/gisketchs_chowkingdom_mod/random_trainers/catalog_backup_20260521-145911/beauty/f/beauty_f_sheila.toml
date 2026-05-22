@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_sheila"
+name = "Beauty Sheila"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 88
+maxLevel = 92
+team = [
+  { species = "cobblemon:goodra", level = 90, gender = "FEMALE", nature = "adamant", ability = "sapsipper", moveset = ["dragonhammer", "firepunch", "drainpunch", "powerwhip"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:bouffalant", level = 92, gender = "FEMALE", nature = "adamant", ability = "sapsipper", moveset = ["headcharge", "highhorsepower", "zenheadbutt", "closecombat"], heldItem = "['normal_gem']", shiny = false, aspects = [] },
+  { species = "cobblemon:zebstrika", level = 88, gender = "FEMALE", nature = "jolly", ability = "sapsipper", moveset = ["boltstrike", "flareblitz", "lowkick", "return"], heldItem = "['magnet']", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Sheila is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,33 @@
+{
+  "id": "rct_sailor_leonard_0088",
+  "name": "Sailor Leonard",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "corsola",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "regenerator",
+      "moveset": [
+        "ancientpower",
+        "spikecannon",
+        "luckychant",
+        "brine"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

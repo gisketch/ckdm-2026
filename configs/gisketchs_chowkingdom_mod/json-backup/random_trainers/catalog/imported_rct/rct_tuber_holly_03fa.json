@@ -1,0 +1,33 @@
+{
+  "id": "rct_tuber_holly_03fa",
+  "name": "Tuber Holly",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "remoraid",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "hustle",
+      "moveset": [
+        "lockon",
+        "bulletseed",
+        "icebeam",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

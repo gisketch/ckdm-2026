@@ -1,0 +1,80 @@
+{
+  "id": "rct_biker_lao_00c7",
+  "name": "Biker Lao",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:mienshao",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "fakeout",
+        "closecombat",
+        "knockoff",
+        "uturn"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:heliolisk",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "sandveil",
+      "moveset": [
+        "voltswitch",
+        "boomburst",
+        "weatherball",
+        "surf"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "sandforce",
+      "moveset": [
+        "earthquake",
+        "ironhead",
+        "suckerpunch",
+        "stoneedge"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

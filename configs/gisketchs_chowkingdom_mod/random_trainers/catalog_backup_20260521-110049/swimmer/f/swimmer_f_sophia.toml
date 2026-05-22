@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_sophia"
+name = "Swimmer Sophia"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 50
+maxLevel = 52
+team = [
+  { species = "cobblemon:mantyke", level = 50, gender = "FEMALE", nature = "calm", ability = "waterabsorb", moveset = ["hydropump", "aquaring", "supersonic", "airslash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mantine", level = 52, gender = "FEMALE", nature = "calm", ability = "waterabsorb", moveset = ["hydropump", "bounce", "aquaring", "airslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Are your Pokémon growing properly?", "I’ve grown with my Pokémon, too. My swimsuit’s getting a little tight...", "I have trained this team for the road. Challenge me if you are ready."]

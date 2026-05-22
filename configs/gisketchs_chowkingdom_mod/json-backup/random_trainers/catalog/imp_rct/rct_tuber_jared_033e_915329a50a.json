@@ -1,0 +1,76 @@
+{
+  "id": "rct_tuber_jared_033e",
+  "name": "Tuber Jared",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tuber/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:shellos",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "harden",
+        "recover",
+        "waterpulse",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    },
+    {
+      "species": "cobblemon:shellos",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "stormdrain",
+      "moveset": [
+        "harden",
+        "recover",
+        "waterpulse",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

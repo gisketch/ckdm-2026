@@ -1,0 +1,49 @@
+{
+  "id": "rct_camper_liam_008e",
+  "name": "Camper Liam",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 11,
+  "maxLevel": 11,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 11,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "rockthrow",
+        "bite",
+        "ember"
+      ],
+      "heldItem": "oran_berry",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "drilbur",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "moldbreaker",
+      "moveset": [
+        "rapidspin",
+        "mudslap",
+        "metalclaw"
+      ],
+      "heldItem": "soft_sand",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

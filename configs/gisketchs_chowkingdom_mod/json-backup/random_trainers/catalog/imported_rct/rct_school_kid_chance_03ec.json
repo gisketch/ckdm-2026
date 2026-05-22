@@ -1,0 +1,33 @@
+{
+  "id": "rct_school_kid_chance_03ec",
+  "name": "School Kid Chance",
+  "title": "School Kid",
+  "gender": "any",
+  "archetype": "school_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "haunter",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "suckerpunch",
+        "shadowball",
+        "darkpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

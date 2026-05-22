@@ -1,0 +1,81 @@
+{
+  "id": "rct_bird_keeper_robert_0290",
+  "name": "Bird Keeper Robert",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "pidgeotto",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "frisk",
+      "moveset": [
+        "takedown",
+        "whirlwind",
+        "return",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "frisk",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "frisk",
+      "moveset": [
+        "pluck",
+        "mirrormove",
+        "assurance",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

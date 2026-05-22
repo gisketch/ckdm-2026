@@ -1,0 +1,72 @@
+{
+  "id": "rct_team_galactic_grunt_057c",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_galactic/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:glameow",
+      "level": 32,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "limber",
+      "moveset": [
+        "growl",
+        "aerialace",
+        "furyswipes",
+        "retaliate"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:stunky",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "aftermath",
+      "moveset": [
+        "poisongas",
+        "bite",
+        "venoshock",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:croagunk",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "anticipation",
+      "moveset": [
+        "taunt",
+        "venoshock",
+        "suckerpunch",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

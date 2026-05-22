@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_deanna_0505",
+  "name": "Ace Trainer Deanna",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "ampharos",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "static",
+      "moveset": [
+        "discharge",
+        "powergem",
+        "thunderwave",
+        "firepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tropius",
+      "level": 60,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "leafstorm",
+        "airslash",
+        "sunnyday",
+        "growth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

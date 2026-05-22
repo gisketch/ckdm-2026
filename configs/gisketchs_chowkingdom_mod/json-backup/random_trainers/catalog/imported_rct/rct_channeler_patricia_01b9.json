@@ -1,0 +1,33 @@
+{
+  "id": "rct_channeler_patricia_01b9",
+  "name": "Channeler Patricia",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "haunter",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

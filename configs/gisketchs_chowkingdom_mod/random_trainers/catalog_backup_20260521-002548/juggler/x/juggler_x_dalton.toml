@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_x_dalton"
+name = "Juggler Dalton"
+title = "Juggler"
+gender = "any"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 44
+maxLevel = 45
+team = [
+  { species = "cobblemon:kadabra", level = 45, gender = "FEMALE", nature = "modest", ability = "synchronize", moveset = ["recover", "psychic", "roleplay", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mrmime", level = 44, gender = "FEMALE", nature = "gentle", ability = "soundproof", moveset = ["recycle", "taunt", "psychic", "roleplay"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Dalton is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

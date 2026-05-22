@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0406_poke_maniac_zach",
+  "name": "Poke Maniac Zach",
+  "title": "Poke Maniac",
+  "gender": "any",
+  "archetype": "poke_maniac",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "poke_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ll do anything to get my hands on rare Pok\u00e9mon!",
+    "If a Pok\u00e9mon has different colors than usual, it\u2019s more valuable. What? You mean that\u2019s not true?"
+  ]
+}

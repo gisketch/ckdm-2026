@@ -1,0 +1,55 @@
+{
+  "id": "pret_pokeplatinum_sailor_damian",
+  "name": "Sailor Damian",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:wingull",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "wingattack",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pelipper",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "waterpulse",
+        "wingattack",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ve been around the world, going from place to place training Pok\u00e9mon. It\u2019s this Gym I\u2019ve chosen to make my home! You can bet it\u2019s tough!",
+    "If you were to go around the world, I\u2019m sure you\u2019d meet tougher Pok\u00e9mon."
+  ]
+}

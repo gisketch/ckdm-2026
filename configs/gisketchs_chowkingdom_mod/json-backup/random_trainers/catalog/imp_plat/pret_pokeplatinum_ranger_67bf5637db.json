@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ranger_allison",
+  "name": "Ranger Female Allison",
+  "title": "Ranger Female",
+  "gender": "female",
+  "archetype": "ranger_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:marill",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:leafeon",
+      "level": 29,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Protect the natural environment. That\u2019s what we Rangers do!",
+    "I love how natural it is here. I wish I could live out here."
+  ]
+}

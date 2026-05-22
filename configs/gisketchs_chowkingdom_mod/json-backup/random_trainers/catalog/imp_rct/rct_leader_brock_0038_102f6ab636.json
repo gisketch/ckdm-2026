@@ -1,0 +1,133 @@
+{
+  "id": "rct_leader_brock_0038",
+  "name": "Brock",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:gigalith",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sandstream",
+      "moveset": [
+        "stealthrock",
+        "stoneedge",
+        "earthquake",
+        "explosion"
+      ],
+      "heldItem": [
+        "smooth_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:omastar",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "shellsmash",
+        "meteorbeam",
+        "icebeam",
+        "surf"
+      ],
+      "heldItem": [
+        "power_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandslash",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sandrush",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "stoneedge",
+        "xscissor"
+      ],
+      "heldItem": [
+        "soft_sand"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lycanroc",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "toughclaws",
+      "moveset": [
+        "accelerock",
+        "stoneedge",
+        "closecombat",
+        "crunch"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tyranitar",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandstream",
+      "moveset": [
+        "stoneedge",
+        "firepunch",
+        "crunch",
+        "dragondance"
+      ],
+      "heldItem": [
+        "weakness_policy"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aerodactyl",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "unnerve",
+      "moveset": [
+        "stoneedge",
+        "earthquake",
+        "dualwingbeat",
+        "dragondance"
+      ],
+      "heldItem": [
+        "mega_showdown:aerodactylite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

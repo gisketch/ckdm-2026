@@ -1,0 +1,49 @@
+{
+  "id": "rct_poke_fan_meredith_0485",
+  "name": "Poké Fan Meredith",
+  "title": "Poke Fan",
+  "gender": "any",
+  "archetype": "poke_fan",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "marill",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "thickfat",
+      "moveset": [
+        "tailwhip",
+        "helpinghand",
+        "aquatail",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aipom",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "pickup",
+      "moveset": [
+        "tailwhip",
+        "sandattack",
+        "tickle",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

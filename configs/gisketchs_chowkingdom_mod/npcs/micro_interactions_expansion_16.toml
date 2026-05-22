@@ -5,6 +5,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "I need a fresh bolt of glimmerweave delivered to Shoumai before the midday bell."
 response = "I can carry it. She mentioned her current stock is running threadbare."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["mentor"]
 line = "Shoumai requests five jars of frostglass pigment from the apothecary shelf."
 response = "Tell her I will set them aside. She still owes me a sample of the new rouge."
+source_emote = "clap"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["store_explorer"]
 target_tags = ["mentor"]
 line = "My grappling hook's catch has worn smooth. Can you forge a replacement?"
 response = "Drop it by the smithy anvil at dusk. I will have it biting again by dawn."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "Maps of the southern skyland shoals need to reach the patrol board."
 response = "I can pin them up. We spotted new rift-blooms there this morning."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["store_seed"]
 target_tags = ["mentor"]
 line = "These dried duskberries should go to the wizard mentors for the night watch."
 response = "Good. I will split the bundle between the fire and frost towers."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "A shipment of luminous dye is waiting at the dock lift. Claim it for me."
 response = "I will haul it up. The lift operator said the crate is heavier than usual."
+source_emote = "hi"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -59,17 +71,21 @@ source_tags = ["store_explorer"]
 target_tags = ["mentor"]
 line = "My climbing claws are bent from the obsidian crag. Can you straighten them?"
 response = "Bring them to me. I will need a full day and a dragonforge ember."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_008"
 topic = "courier_bundles"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["bubblegum"]
 target_tags = ["town"]
 line = "A satchel of labeled skyland soil samples must go to Princess Bubblegum."
 response = "I pass her pokemon shop on my rounds. Consider it delivered."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_009"
 topic = "trail_food"
@@ -77,17 +93,21 @@ source_tags = ["store_seed"]
 target_tags = ["mentor"]
 line = "I baked too many rockroot biscuits. Share them with the training courtyard."
 response = "The warrior class will thank you. Their afternoon drills run long."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_010"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["katara"]
 target_tags = ["mentor"]
 line = "Shoumai asks if Katara can spare a vial of enchanted water for silk curing."
 response = "I will ask her. She is class-scheduled in the aqueduct hall today."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_011"
 topic = "repair_orders"
@@ -95,26 +115,32 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "My paraglider fabric is fraying. Is there a seamster with skysilk thread?"
 response = "Shoumai stocks it at the cosmetics stall. Ask for the stormproof variety."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_012"
 topic = "courier_bundles"
 source_tags = ["store_seed"]
+required_spawned_ids = ["toph"]
 target_tags = ["town"]
 line = "Seed packets marked for Toph's meditation cave need a runner."
 response = "I can take the path by the stonefalls. She prefers deliveries left quietly."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_013"
 topic = "trail_food"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["finn"]
 target_tags = ["mentor"]
 line = "Smoked gloomfin strips need to go to the night patrol officers."
 response = "I will drop them at the watchtower. Finn was asking for extra rations."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_014"
 topic = "market_errands"
@@ -122,44 +148,54 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "Shoumai needs empty cloudglass vials. Check the recycling bin behind the inn."
 response = "I saw a crate of them this morning. I will rinse and deliver twelve."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_015"
 topic = "repair_orders"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["invoker"]
 target_tags = ["mentor"]
 line = "My compass glass cracked. Can Invoker realign the needle with arcane flux?"
 response = "He is in the library today. He enjoys small calibrations like that."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_016"
 topic = "courier_bundles"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["zuko"]
 target_tags = ["town"]
 line = "A field report on mawing cobblemon is due at Zuko's academy pigeonhole."
 response = "I am headed there now for a fire resistance lecture. Hand it over."
+source_emote = "hands_in_back"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_017"
 topic = "trail_food"
 source_tags = ["store_seed"]
+required_spawned_ids = ["pope_leo"]
 target_tags = ["mentor"]
 line = "Fresh yams and hearth herbs for the priest's communal soup pot."
 response = "Pope Leo always says a well-fed town is a well-defended town."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_018"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor"]
 line = "Shoumai promised Elsa a comb carved from nevermelt ice. The carving is ready."
 response = "Beautiful. I will deliver it to her frost chamber personally."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_019"
 topic = "repair_orders"
@@ -167,6 +203,8 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "My shoulder guard's buckle snapped during a skyland traverse. Fix it?"
 response = "I know a leatherworker near the fountain. She can match the patina."
+source_emote = "threaten"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -176,62 +214,76 @@ source_tags = ["store_seed"]
 target_tags = ["town"]
 line = "Cobblemon berry cuttings for Bubblegum's testing plot. Fragile. Keep level."
 response = "I will cradle it across town. She promised results by next full moon."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_021"
 topic = "trail_food"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["mentor"]
 line = "High-nutrient paste and dried crickets for the ranger class overnight hike."
 response = "Traxex is leading that hike. She said trail weight must remain under three stone."
+source_emote = "proud"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_022"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["venti"]
 target_tags = ["town"]
 line = "Shoumai needs a delivery of singing crystals to the bard quarter."
 response = "Venti will be pleased. He has been humming about them all week."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_023"
 topic = "repair_orders"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["mentor"]
 line = "My spyglass lens is scratched. Can Gandalf polish it with light magic?"
 response = "He can, but he will lecture you on instrument care first."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_024"
 topic = "courier_bundles"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["ezio"]
 target_tags = ["town"]
 line = "A bundle of patrol route updates needs to reach the garrison board."
 response = "I will pin them up. Ezio was asking for the revised edge sectors."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_025"
 topic = "trail_food"
 source_tags = ["store_seed"]
+required_spawned_ids = ["ciri", "geralt"]
 target_tags = ["mentor"]
 line = "Steeped stamina tea packets for the witcher mentors at Kaer Morhen hall."
 response = "Ciri and Geralt go through these faster than any other mentors here."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_026"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["link", "zelda"]
 target_tags = ["mentor"]
 line = "Shoumai made a hairpin for Zelda. Silver with a silent princess motif."
 response = "I will find her. Likely at the skyland survey with Link this morning."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_027"
 topic = "repair_orders"
@@ -239,6 +291,8 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "Two tents from the supply shop need patches before the next expedition."
 response = "Set them by the community bench. I will mend the tears with sailcloth."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -248,35 +302,43 @@ source_tags = ["store_seed"]
 target_tags = ["town"]
 line = "A book on cobblemon breeding traits must go to Bubblegum's lab counter."
 response = "She will devour that book. Mark it 'urgent' and I will run it over."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_029"
 topic = "trail_food"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["huntress_wizard", "legolas"]
 target_tags = ["mentor"]
 line = "Salted sunfish and flatbread for the archery range lunch break."
 response = "Legolas and Huntress Wizard always skip breakfast. They will be grateful."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_030"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town"]
 line = "Shoumai ran out of ghast-tear essence. Ask Marceline if she has a spare vial."
 response = "She keeps a stash in her tower. Her nocturnal errand run might help."
+source_emote = "speaking"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_031"
 topic = "repair_orders"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["vi"]
 target_tags = ["mentor"]
 line = "My chainmail coif has three broken links. Can Vi mend them with forcemaster grip?"
 response = "She can pinch-weld them. Drop it at her training dummy rack."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_032"
 topic = "courier_bundles"
@@ -284,26 +346,32 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "Specimens of skyland lichen in sealed jars for the town apothecary shelf."
 response = "I know the shelf. Keep them away from the frostbite salves to avoid clutter."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_033"
 topic = "trail_food"
 source_tags = ["store_seed"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["mentor"]
 line = "A crate of crisp apples and barley cakes for the paladin morning vigil."
 response = "Tarnished will break his fast after the dawn bell. I will stage it."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_034"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["aang"]
 target_tags = ["mentor"]
 line = "Shoumai requests Aang weave a gentle breeze to dry her latest dye batch."
 response = "He loves doing small favors. Meet him at the wind terrace shortly."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_035"
 topic = "repair_orders"
@@ -311,6 +379,8 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "My waterskin seam split. Any chance the tinker booth has resin glue?"
 response = "Yes, the tinker stocks river-tar. It seals skins in under an hour."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -320,17 +390,21 @@ source_tags = ["store_seed"]
 target_tags = ["town"]
 line = "A pouch of glowcap spores for the cavern outpost needs a swift courier."
 response = "I will take the minecart lift. They need light for the dig rotation."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_037"
 topic = "trail_food"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["marceline", "zagreus"]
 target_tags = ["mentor"]
 line = "Wrapped rations of cured boar for the berserker class mock skirmish."
 response = "Zagreus and Marceline are running the drills. They will eat well today."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_038"
 topic = "market_errands"
@@ -338,44 +412,54 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "Shoumai wants four empty barrels from the seed store for rain collection."
 response = "We can roll them down the cobbled lane together after I sweep."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_039"
 topic = "repair_orders"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["geralt"]
 target_tags = ["mentor"]
 line = "The town bell rope is thinning. Ask Geralt if he has spare monster sinew."
 response = "He has a cured basilisk tendon that matches. I will go ask now."
+source_emote = "speaking"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_040"
 topic = "courier_bundles"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["town"]
 line = "A tally of skyland rift sightings for the town bulletin stone."
 response = "I will etch the tally. Gandalf wanted it updated before the council meets."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_041"
 topic = "trail_food"
 source_tags = ["store_seed"]
+required_spawned_ids = ["toph"]
 target_tags = ["mentor"]
 line = "Jars of pickled carrots for the earth wizard dig site crew."
 response = "Toph's team works through lunch. They can eat right in the trench."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_042"
 topic = "market_errands"
 source_tags = ["store_cosmetics"]
+required_spawned_ids = ["link", "zelda"]
 target_tags = ["mentor"]
 line = "Shoumai crafted a satin eyepatch for Link. His old one is sun-bleached."
 response = "He is at the training post. I wager Zelda will like this one better."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_043"
 topic = "repair_orders"
@@ -383,6 +467,8 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "My quiver's base stitching is loose. Can someone restitch it with thread?"
 response = "Bring it to the cosmetics stall. Shoumai keeps gut-thread for leather."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -392,17 +478,21 @@ source_tags = ["store_seed"]
 target_tags = ["town"]
 line = "Freshly bundled peat moss blocks for the rooftop garden by the inn."
 response = "Good timing. The innkeeper was complaining the herb beds are dry."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_045"
 topic = "trail_food"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["zuko"]
 target_tags = ["mentor"]
 line = "Chilled spring water skins for the fire wizard endurance training."
 response = "Zuko will not admit it, but he appreciates cold water after drills."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_046"
 topic = "market_errands"
@@ -410,17 +500,21 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "Shoumai needs fired clay beads from the kiln behind the pottery stall."
 response = "The potter said the green glaze batch will be ready by noon today."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_047"
 topic = "repair_orders"
 source_tags = ["store_explorer"]
+required_spawned_ids = ["toph"]
 target_tags = ["mentor"]
 line = "My skyland anchor has a hairline fracture. Can Toph sound it for integrity?"
 response = "She can check it by simply touching the alloy. Her sense is that fine."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_048"
 topic = "courier_bundles"
@@ -428,17 +522,21 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "Surveyor notes on floating island drift must reach the town planner."
 response = "I will slide them under the planning office door before midnight."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_16_049"
 topic = "trail_food"
 source_tags = ["store_seed"]
+required_spawned_ids = ["venti"]
 target_tags = ["mentor"]
 line = "A sack of shelled sunbloom seeds for the bard mentor to share with Venti."
 response = "He mixes them with honey. I will leave it by his harp case."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_16_050"
 topic = "courier_bundles"
@@ -446,4 +544,6 @@ source_tags = ["store_cosmetics"]
 target_tags = ["town"]
 line = "A sealed letter from Shoumai to the mayor about the festival banner order."
 response = "Important. I will carry it by hand and wait for a signed acknowledgment."
+source_emote = "hands_in_back"
+target_emote = "hi"
 weight = 1.0

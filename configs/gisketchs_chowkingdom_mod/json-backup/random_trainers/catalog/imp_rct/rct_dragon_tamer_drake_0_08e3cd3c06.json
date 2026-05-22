@@ -1,0 +1,72 @@
+{
+  "id": "rct_dragon_tamer_drake_049a",
+  "name": "Dragon Tamer Drake",
+  "title": "Dragon Tamer",
+  "gender": "any",
+  "archetype": "dragon_tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "dragon_tamer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 1.03,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:vibrava",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "levitate",
+      "moveset": [
+        "dragonrush",
+        "earthquake",
+        "superpower",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisonpoint",
+      "moveset": [
+        "agility",
+        "hydropump",
+        "dragonpulse",
+        "twister"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonair",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "shedskin",
+      "moveset": [
+        "thunderwave",
+        "raindance",
+        "aquatail",
+        "dragonrush"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

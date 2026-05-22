@@ -1,0 +1,56 @@
+{
+  "id": "rct_psychic_chelsey_04b3",
+  "name": "Psychic Chelsey",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:xatu",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "nightshade",
+        "psychic",
+        "wish",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mismagius",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "mysticalfire",
+        "perishsong",
+        "powergem",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

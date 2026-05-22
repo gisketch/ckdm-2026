@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jogger_m_craig"
+name = "Jogger Craig"
+title = "Jogger"
+gender = "male"
+archetype = "jogger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "jogger/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 56
+maxLevel = 58
+team = [
+  { species = "cobblemon:luxio", level = 56, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["leer", "charge", "spark", "crunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:staraptor", level = 57, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["closecombat", "doubleteam", "takedown", "bravebird"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 58, gender = "FEMALE", nature = "jolly", ability = "flashfire", moveset = ["smartstrike", "megahorn", "tailwhip", "flamewheel"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jogger Craig is ready for a battle.", "If I battle now, won’t it mess up my usual pace?", "Sticking to one’s own goal is more important than it seems. If you match your goal with someone else, you’ll lose your identity.", "I have trained this team for the road. Challenge me if you are ready."]

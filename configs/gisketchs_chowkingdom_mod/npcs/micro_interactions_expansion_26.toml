@@ -5,6 +5,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "I found a dusty airbending scroll in the attic. Want to help me decipher the footwork diagram?"
 response = "The pivot notation is reversed. Step with the outside foot first or you will spin into a wall."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "My water whip keeps splashing before it reaches the target dummy."
 response = "Freeze the tip for one heartbeat before release. It holds the shape long enough to sting."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "I can feel footsteps three blocks away now. Want me to map the tunnels under town?"
 response = "Tap your heel twice. The echo will show you the collapsed section near the old well."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I keep scorching my tongue when I try the dragon breath kata. What am I missing?"
 response = "Inhale cool air through your teeth before the exhale. Fire needs an empty lung first."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "The skyland updrafts near the clocktower are perfect for cloud surfing. Race you there?"
 response = "Bank left at the weather vane. The right side drops straight into the sheep pens."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "The glow from my healing water gets brighter when the moon is full. Is that normal?"
 response = "Yes. Ocean spirits amplify your gift after dusk. Store some in a quartz vial tonight."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "I layered a rock shell around my arms, but I can barely lift a pickaxe now."
 response = "Use sandstone, not granite. It is lighter and still stops a stray arrow."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I tried redirecting a small spark through my stomach path. It felt weird but worked."
 response = "Never let it cross the heart. Stomach to arm is risky but safer than the chest route."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "My air scooter wobbles after five seconds. Think the ball needs more spin?"
 response = "Counter-spin with your palms, not your wrists. Steady rotation keeps the sphere tight."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "How far can you stretch an ice bridge over the skyland gap before it cracks?"
 response = "Twelve paces with still water. Bubbling water snaps at eight. Aim for the narrow pass."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "I sensed a buried geode near the Cobblemon lab. Should we dig it up together?"
 response = "Bring a silk-touch pick. Bubblegum will want the unbroken crystals for her pokemon study."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -104,17 +126,21 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I heated tea with my breath in front of a cadet. Now they all want firebending lessons."
 response = "Teach them patience first. A flame made for show burns a sleeve faster than a monster."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_013"
 topic = "monsoon_forecast"
 source_tags = ["wind_wizard"]
+required_spawned_ids = ["katara"]
 target_tags = ["mentor"]
 line = "The wind carries a wet iron smell from the eastern ocean. Big storm coming?"
 response = "Three days out. Tell Katara to reinforce the canal levees before the surge hits."
+source_emote = "lookout"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_014"
 topic = "river_bend_defense"
@@ -122,6 +148,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "The river patrol route has a blind bend. I want to hide a water trap there."
 response = "Sink fog into the reeds instead. A trap can snag a friendly courier at dusk."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "The quarry slope is loose after the rain. I can brace it, but I need a second bender."
 response = "I will hold the base ledge. Pack the scree from the top and work downhill slow."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -140,17 +170,21 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I sent smoke puffs to the skyland watchtower. The pattern spelled danger twice."
 response = "Next time add a blue puff at the end. That means false alarm, do not ring the bell."
+source_emote = "threaten"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_017"
 topic = "glider_wing_patch"
 source_tags = ["wind_wizard"]
+required_spawned_ids = ["ezio"]
 target_tags = ["mentor"]
 line = "A phantom snagged my glider wing. Anyone in town sell woven phantom membrane?"
 response = "The rogue Ezio trades them for lapis. His stall opens after the evening bell rings."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_018"
 topic = "kelp_farming_tip"
@@ -158,6 +192,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "The skyland pond kelp tastes bitter. Is the water too cold for edible strands?"
 response = "Stir the water clockwise at noon. Sun-churned kelp sweetens and grows twice as fast."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "I want to learn sandbending for the beach biome. Is it very different from stone?"
 response = "Smaller grains, lighter touch. Start with a bucket of dry sand and draw circles first."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "The blacksmith asked me to keep his forge at a steady orange. Any trick for that?"
 response = "Hum a low note while you breathe. The vibration in your gut keeps the flame level."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "A sudden downdraft nearly pushed me off the skyland bridge. Is that a new pattern?"
 response = "The floating island above shifted last week. Expect gusts from the north ledge now."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "I can make four water arms now. Adding more makes the whole thing wobble and burst."
 response = "Four is plenty for defense. Master the whip transition before you chase showy forms."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "I followed tremor trails to a cave near the ruins. Something big is sleeping down there."
 response = "Mark the entrance with three stacked stones. We will scout it at high noon together."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "Spar me with fire shields only. First one to drop their shield buys cloudberry tarts."
 response = "Deal. But keep your stance wide. A thin shield crumbles when your heel lifts up."
+source_emote = "threaten"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "I hung wind chimes at the town gate to warn of invisible mobs. Good idea or noise?"
 response = "Smart. Tie a red ribbon on the chime that faces the graveyard. That one rings first."
+source_emote = "threaten"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "The clinic needs clean water. I can bend rain into their barrels from the rooftops."
 response = "Bend from the slate roof only. The thatch roof stains water yellow and upsets patients."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "The fortress wall near the sheep pens eroded. Should I raise a new rampart?"
 response = "Raise it in terraces, not a straight wall. Sheep climb steps but pillagers stumble on them."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "The cadets want a campfire story. I promised a tale about the first flame sage."
 response = "Tell them the truth about the sage who lost his fire and found it in a friend. No fables."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "I built a hot air balloon for the skyland survey. Want to test it at sunrise?"
 response = "Only if you let me steer the rudder. Last time you drifted over the creeper crater."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "I want to teach the patrol how to hide in mist. Can you play the enemy scout?"
 response = "I will count to thirty. If I spot a single wet boot print, your mist needs more work."
+source_emote = "threaten"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -275,17 +335,21 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "I dug up copper and iron for the explorer store. Help me sort the quality veins?"
 response = "Copper for the cosmetic stall, iron for the forge. Keep the tuff chunks for my class."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_032"
 topic = "cooking_lesson_flame"
 source_tags = ["fire_wizard"]
+required_spawned_ids = ["finn"]
 target_tags = ["mentor"]
 line = "The warrior Finn asked me to teach him campfire cooking. Firebending is cheating, right?"
 response = "Teach him flint and steel first. A firebender who cannot strike a spark is a poor teacher."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_033"
 topic = "pollen_patrol_alert"
@@ -293,17 +357,21 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "The breeze carries yellow pollen from the dark forest. Should I warn the herbalist?"
 response = "Warn Shoumai too. That pollen ruins cosmetics and makes lip balm taste like dirt."
+source_emote = "threaten"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_034"
 topic = "snowflake_demonstration"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor"]
 line = "Elsa asked if I can shape individual snowflakes. I managed three before they melted."
 response = "Three is impressive at room temperature. Try it in the ice cellar next time."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_035"
 topic = "tunnel_expansion_vote"
@@ -311,6 +379,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "The town council wants a new tunnel to the seed store. I need a second earthbending vote."
 response = "I vote yes if we add glowstone nooks every ten paces. No dark corners for creepers."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I bet I can light all the town lanterns faster than you tonight. Loser scrubs the forge."
 response = "You are on. But no bending from the tower. Walk the full route like a real lamplighter."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -329,17 +401,21 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "I am training the rangers to walk silently using air cushions under their boots."
 response = "Good start. Add a leaf on their heads. If the leaf falls, they stepped too hard."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_038"
 topic = "flood_relief_plan"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["zuko"]
 target_tags = ["mentor"]
 line = "The river rose overnight. I can bend the overflow into the old aqueduct channel."
 response = "Do it. I will wake Zuko to dry the granary floor before the grain sacks spoil."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_039"
 topic = "badgermole_sighting"
@@ -347,17 +423,21 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "A badgermole dug near the pokemon shop. Bubblegum thinks it sensed a rare stone."
 response = "Badgermoles love thunder stones. Let us follow its tunnel and leave an offering of quartz."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_040"
 topic = "kite_flying_contest"
 source_tags = ["fire_wizard"]
+required_spawned_ids = ["aang"]
 target_tags = ["mentor"]
 line = "The midsummer fair needs a kite contest judge. I nominated you for the role."
 response = "I accept if Aang does not enter. His wind tricks give him an unfair advantage."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_041"
 topic = "skyland_bridge_inspect"
@@ -365,6 +445,8 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "The rope bridge to the western skyland creaks more than usual. Want to inspect it?"
 response = "Yes. Bring a coil of vine rope. If a plank is rotten, I will hold the anchor while you tie."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["water_wizard"]
 target_tags = ["mentor"]
 line = "I invented a bubble net to catch fish without poles. The chef wants a demonstration."
 response = "Show her at the pond, not the river. A bubble spooks salmon but works fine on carp."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["earth_wizard"]
 target_tags = ["mentor"]
 line = "The town hall ordered a statue of the first mayor. I could use a second pair of eyes."
 response = "Widen the jaw a bit. The old paintings show him with a square chin, not a pointed one."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -392,35 +478,43 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I can shoot a flare high enough to test the skyland beacon. Permission to try?"
 response = "Granted. Aim southwest. If you miss, the flare lands in the quarry pond, not the village."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_045"
 topic = "feather_quill_trade"
 source_tags = ["wind_wizard"]
+required_spawned_ids = ["venti"]
 target_tags = ["mentor"]
 line = "Venti the bard needs a phoenix feather for his quill. Have you seen one lately?"
 response = "I found a shed feather near the fire shrine. Tell him it writes best with flame ink."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_046"
 topic = "frozen_storage_ward"
 source_tags = ["water_wizard"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor"]
 line = "Elsa and I want to build a frozen food storage for the town. Can we use the cellar?"
 response = "Yes. Line it with packed ice and I will carve drain channels for the meltwater."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_047"
 topic = "seismic_map_update"
 source_tags = ["earth_wizard"]
+required_spawned_ids = ["pope_leo"]
 target_tags = ["mentor"]
 line = "I updated the seismic map under the town. There is a new hollow under the library."
 response = "Tell Pope Leo. That hollow might be an old crypt and he will want to bless it first."
+source_emote = "lookout"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_26_048"
 topic = "sunrise_salute_talk"
@@ -428,6 +522,8 @@ source_tags = ["fire_wizard"]
 target_tags = ["mentor"]
 line = "I do thirty fire salutes at sunrise. The cadets think I am showing off."
 response = "Invite them. A shared sunrise salute builds more trust than a hundred speeches."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -437,13 +533,18 @@ source_tags = ["wind_wizard"]
 target_tags = ["mentor"]
 line = "A bee hive the size of a barrel hangs under the eastern skyland. Want to harvest honey?"
 response = "I will bring a smoker. You bend a gentle updraft to keep the bees drowsy and calm."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_26_050"
 topic = "element_synergy_walk"
 source_tags = ["fire_wizard"]
+required_spawned_ids = ["katara", "toph"]
 target_tags = ["mentor"]
 line = "I walked a patrol with Katara today. Steam covers a retreat faster than fire alone."
 response = "Try mud walls with Toph next. Fire hardens the outer shell into a fortress in seconds."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0

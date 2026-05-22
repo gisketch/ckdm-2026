@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tuber_m_jacky"
+name = "Tuber Jacky"
+title = "Tuber"
+gender = "male"
+archetype = "tuber"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "tuber/male"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.93
+bustStyle = ""
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:bibarel", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["watergun", "rollout", "hyperfang", "yawn"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My body isn’t the only thing I work on toughening up here. I also work on my Pokémon and my spirit!", "Maybe I’ll do like Wake, I mean, Crasher Wake, and wear the same kind of mask.", "I have trained this team for the road. Challenge me if you are ready."]

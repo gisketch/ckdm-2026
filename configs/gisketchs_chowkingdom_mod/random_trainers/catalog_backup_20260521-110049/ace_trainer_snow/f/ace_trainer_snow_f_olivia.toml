@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_snow_f_olivia"
+name = "Ace Trainer Snow Olivia"
+title = "Ace Trainer Snow"
+gender = "female"
+archetype = "ace_trainer_snow"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer_snow/female"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = "standard"
+minLevel = 52
+maxLevel = 56
+team = [
+  { species = "cobblemon:gardevoir", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["futuresight", "psychic", "magicalleaf", "calmmind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["megahorn", "horndrill", "waterpulse", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dizzypunch", "quickattack", "drainpunch", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ace Trainer Snow Female Olivia is ready for a battle.", "Wh-what is it? P-Pokémon battle?!", "Around these parts, perhaps because of all the snow, there are many folktales of hauntings..."]

@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "team_rocket_f_grunt"
+name = "Team Rocket Grunt"
+title = "Team Rocket"
+gender = "female"
+archetype = "team_rocket"
+region = "Johto/Kanto;Kanto/Sevii"
+category = "team"
+source = "pret_pokeheartgold;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "team_rocket/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 46
+maxLevel = 47
+team = [
+  { species = "cobblemon:golbat", level = 46, gender = "MALE", nature = "brave", ability = "sniper", moveset = ["leechlife", "dualwingbeat", "haze", "venoshock"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:purugly", level = 46, gender = "MALE", nature = "naughty", ability = "owntempo", moveset = ["assist", "captivate", "bodyslam", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lunatone", level = 46, gender = "GENDERLESS", nature = "hasty", ability = "levitate", moveset = ["futuresight", "stoneedge", "photongeyser", "explosion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:stonjourner", level = 46, gender = "MALE", nature = "docile", ability = "powerspot", moveset = ["stomp", "stealthrock", "rockslide", "bodyslam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bruxish", level = 47, gender = "MALE", nature = "rash", ability = "strongjaw", moveset = ["crunch", "aquatail", "screech", "psychicfangs"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Stop taking SlowpokeTails? What?! You want us to disobey a direct order from Executive Proton? If you want to stop us, you’ll have to defeat us all! Go ahead and try!", "SlowpokeTails grow back fast! Besides, it was an order from Proton, so I’m more concerned about that!", "Ha ha ha! How boring. It was far too easy to take over this place! Come on, keep me amused!", "You beat me, and I won’t forget it!", "Are you lost? No, you can’t be. You don’t have that scared look. I’ll give you something to be scared about!", "Go wherever you like! Get lost! See if I care!", "Team Rocket Female Grunt is ready for a battle.", "Do I know the password? Maybe. But no weakling’s going to get it!", "The password to the boss’s room is SLOWPOKETAIL. But it’s useless unless you have two passwords.", "Team Rocket Grunt is ready for a battle.", "Quit taking SlowpokeTails? If we listened to you, Team Rocket’s rep would be ruined!", "We need the money, but selling SlowpokeTails? It’s tough being a Team Rocket Grunt!"]

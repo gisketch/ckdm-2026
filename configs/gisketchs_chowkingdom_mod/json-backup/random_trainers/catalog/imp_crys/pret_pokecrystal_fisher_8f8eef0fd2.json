@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_fisher_007_tully",
+  "name": "Fisher Tully",
+  "title": "Fisher",
+  "gender": "any",
+  "archetype": "fisher",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "fisher/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:qwilfish",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Fisher Tully is ready for a battle."
+  ]
+}

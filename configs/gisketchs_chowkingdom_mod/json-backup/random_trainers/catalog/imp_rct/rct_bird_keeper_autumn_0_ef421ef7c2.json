@@ -1,0 +1,56 @@
+{
+  "id": "rct_bird_keeper_autumn_0404",
+  "name": "Bird Keeper Autumn",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:murkrow",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "assurance",
+        "taunt",
+        "aircutter",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "insomnia",
+      "moveset": [
+        "astonish",
+        "wingattack",
+        "swagger",
+        "foulplay"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

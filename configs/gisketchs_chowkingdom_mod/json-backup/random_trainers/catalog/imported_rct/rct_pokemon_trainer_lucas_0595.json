@@ -1,0 +1,115 @@
+{
+  "id": "rct_pokemon_trainer_lucas_0595",
+  "name": "Pokémon Trainer Lucas",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "dusknoir",
+      "level": 68,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "pressure",
+      "moveset": [
+        "brickbreak",
+        "earthquake",
+        "trickroom",
+        "willowisp"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flareon",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "flareblitz",
+        "facade",
+        "irontail",
+        "willowisp"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rampardos",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "moldbreaker",
+      "moveset": [
+        "headsmash",
+        "earthquake",
+        "irontail",
+        "zenheadbutt"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 69,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "hydropump",
+        "thunderbolt",
+        "voltswitch",
+        "hex"
+      ],
+      "heldItem": "choice_specs",
+      "shiny": false,
+      "aspects": [
+        "wash-appliance"
+      ]
+    },
+    {
+      "species": "dunsparce",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "serenegrace",
+      "moveset": [
+        "rockslide",
+        "roost",
+        "coil",
+        "glare"
+      ],
+      "heldItem": "kings_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "earthquake",
+        "synthesis",
+        "leechseed",
+        "curse"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

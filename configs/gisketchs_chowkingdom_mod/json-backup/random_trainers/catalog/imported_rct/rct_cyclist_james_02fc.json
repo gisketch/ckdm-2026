@@ -1,0 +1,33 @@
+{
+  "id": "rct_cyclist_james_02fc",
+  "name": "Cyclist James",
+  "title": "Cyclist",
+  "gender": "any",
+  "archetype": "cyclist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "ponyta",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "runaway",
+      "moveset": [
+        "tackle",
+        "growl",
+        "tailwhip",
+        "flamecharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

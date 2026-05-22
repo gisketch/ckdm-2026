@@ -1,0 +1,65 @@
+{
+  "id": "rct_collector_ivan_03ac",
+  "name": "Collector Ivan",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "hippopotas",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sandstream",
+      "moveset": [
+        "yawn",
+        "sandtomb",
+        "crunch",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hippopotas",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandstream",
+      "moveset": [
+        "yawn",
+        "sandtomb",
+        "crunch",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hippopotas",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandstream",
+      "moveset": [
+        "yawn",
+        "sandtomb",
+        "crunch",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

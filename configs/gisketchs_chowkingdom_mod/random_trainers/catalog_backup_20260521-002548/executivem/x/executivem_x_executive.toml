@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "executivem_x_executive"
+name = "Executivem Executive"
+title = "Executivem"
+gender = "any"
+archetype = "executivem"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "executivem/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.01
+bustStyle = ""
+minLevel = 30
+maxLevel = 32
+team = [
+  { species = "cobblemon:koffing", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "selfdestruct", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "selfdestruct", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "selfdestruct", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "explosion", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "selfdestruct", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "smog", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Executivem Executive is ready for a battle."]

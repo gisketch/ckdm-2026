@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_youngster_tristan",
+  "name": "Youngster Tristan",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:starly",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You\u2019re a Pok\u00e9mon Trainer, and so am I! Our eyes met, so battle we must!",
+    "Don\u2019t be shy about talking to Trainers you\u2019d like to battle. Pok\u00e9mon grow stronger and stronger from battling."
+  ]
+}

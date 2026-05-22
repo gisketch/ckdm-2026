@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_x_vivian"
+name = "Mega Trainer Vivian"
+title = "Mega Trainer"
+gender = "any"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 52
+maxLevel = 53
+team = [
+  { species = "cobblemon:hitmonlee", level = 52, gender = "MALE", nature = "jolly", ability = "limber", moveset = ["closecombat", "blazekick", "rockslide", "wideguard"], heldItem = "['black_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 53, gender = "MALE", nature = "adamant", ability = "scrappy", moveset = ["dizzypunch", "jumpkick", "thunderpunch", "fakeout"], heldItem = "['mega_showdown:lopunnite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

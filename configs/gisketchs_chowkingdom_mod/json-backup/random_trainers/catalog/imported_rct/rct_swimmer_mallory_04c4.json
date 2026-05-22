@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_mallory_04c4",
+  "name": "Swimmer Mallory",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "seel",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "takedown",
+        "dive",
+        "aquatail",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dewgong",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "thickfat",
+      "moveset": [
+        "aquajet",
+        "dive",
+        "aquatail",
+        "aurorabeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

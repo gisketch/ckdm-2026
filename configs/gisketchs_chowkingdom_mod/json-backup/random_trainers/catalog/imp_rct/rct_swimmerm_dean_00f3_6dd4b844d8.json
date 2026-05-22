@@ -1,0 +1,40 @@
+{
+  "id": "rct_swimmerm_dean_00f3",
+  "name": "Swimmer\u2642 Dean",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 65,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:swampert",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "torrent",
+      "moveset": [
+        "muddywater",
+        "takedown",
+        "earthquake",
+        "hammerarm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_poke_kid_danielle",
+  "name": "Poke Kid Danielle",
+  "title": "Poke Kid",
+  "gender": "any",
+  "archetype": "poke_kid",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "poke_kid/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.88,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:pichu",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hi, hi! I\u2019m a Pok\u00e9mon!",
+    "I don\u2019t want to be a Trainer. I want to be a Pok\u00e9mon!"
+  ]
+}

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_adam"
+name = "Black Belt Adam"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 29
+maxLevel = 29
+team = [
+  { species = "cobblemon:machoke", level = 29, gender = "FEMALE", nature = "relaxed", ability = "noguard", moveset = ["leer", "focusenergy", "lowsweep", "knockoff"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["This buff physique isn’t just for show!", "Why? Is it because my training isn’t enough?!", "I have trained this team for the road. Challenge me if you are ready."]

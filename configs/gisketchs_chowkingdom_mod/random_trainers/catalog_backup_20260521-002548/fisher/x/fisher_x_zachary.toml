@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisher_x_zachary"
+name = "Fisher Zachary"
+title = "Fisher"
+gender = "any"
+archetype = "fisher"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "fisher/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 10
+maxLevel = 13
+team = [
+  { species = "cobblemon:magikarp", level = 10, gender = "MALE", nature = "relaxed", ability = "swiftswim", moveset = ["splash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 13, gender = "FEMALE", nature = "relaxed", ability = "waterveil", moveset = ["peck", "tailwhip", "supersonic", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 10, gender = "MALE", nature = "relaxed", ability = "swiftswim", moveset = ["splash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

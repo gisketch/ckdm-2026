@@ -17,10 +17,10 @@ wake_messages = ["Even in rest, I hear footsteps.", "Speak softly. Dawn has not 
 npc_interaction_messages = ["Comparing distant ridgelines with {other}.", "Teaching {other} how to hear enemies before seeing them.", "Discussing patrol routes where the wind carries arrows cleanly."]
 work_blocks = [
   { id = "minecraft:fletching_table", count = 1, display_name = "fletching table" },
-  { id = "minecraft:target", count = 2, display_name = "archery targets" },
-  { id = "minecraft:barrel", count = 2, display_name = "arrow barrels" },
-  { id = "minecraft:grindstone", count = 1, display_name = "blade and bow station" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "minecraft:target", count = 1, display_name = "archery target" },
+  { id = "supplementaries:way_sign", count = 1, display_name = "woodland way sign" },
+  { id = "another_furniture:birch_bench", count = 1, display_name = "watch post bench" },
+  { id = "minecraft:barrel", count = 1, display_name = "arrow barrel" },
 ]
 
 [boss]
@@ -167,4 +167,6 @@ pool = [
   { id = "legolas_food_fruit_salad", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Fruit Salad And Bring It Back", quest_text = "Prepare fruit salad after I ask; light provisions suit long watch.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:fruit_salad", fetch_count = 1, filters = { item = "farmersdelight:fruit_salad" }, weight = 10 },
   { id = "legolas_wild_crop_harvest", category = "task", event = "farmersdelight:wild_crop_harvested", event_desc = "Harvest {goal} Wild Crops", quest_text = "Forage the wild edges without dulling your awareness.", pass_id = "cozy", xp = 60, chowcoins = 25, goal = 4, weight = 8 },
   { id = "legolas_quiz_archery_sightlines_and_quiet_roads", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Legolas's archery quiz with clear eyes.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "archery sightlines and quiet roads", weight = 10 },
+  { id = "legolas_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Legolas", quest_text = "Legolas has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "legolas_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Legolas", quest_text = "Legolas wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

@@ -1,0 +1,75 @@
+{
+  "id": "rct_rival_terry_014e",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "kirlia",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "trace",
+      "moveset": [
+        "confusion",
+        "disarmingvoice",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "staravia",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "wingattack",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rockruff",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "frisk",
+      "moveset": [
+        "rocktomb",
+        "bite",
+        "howl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "charmeleon",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "blaze",
+      "moveset": [
+        "scratch",
+        "ember"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

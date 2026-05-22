@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_mickey"
+name = "Ace Trainer Mickey"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeheartgold;pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "low"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 14
+maxLevel = 14
+team = [
+  { species = "cobblemon:bulbasaur", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charmander", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:squirtle", level = 14, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ace Trainer Male Mickey is ready for a battle."]

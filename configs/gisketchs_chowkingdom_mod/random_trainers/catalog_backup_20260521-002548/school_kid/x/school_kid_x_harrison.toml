@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_x_harrison"
+name = "School Kid Harrison"
+title = "School Kid"
+gender = "any"
+archetype = "school_kid"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "school_kid/any"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.92
+bustStyle = ""
+minLevel = 6
+maxLevel = 6
+team = [
+  { species = "cobblemon:abra", level = 6, gender = "MALE", nature = "hasty", ability = "synchronize", moveset = ["chargebeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

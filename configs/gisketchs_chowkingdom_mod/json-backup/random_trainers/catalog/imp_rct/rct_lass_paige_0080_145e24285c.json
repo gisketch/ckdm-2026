@@ -1,0 +1,56 @@
+{
+  "id": "rct_lass_paige_0080",
+  "name": "Lass Paige",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:nidoranf",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "rivalry",
+      "moveset": [
+        "helpinghand",
+        "toxicspikes",
+        "flatter",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lopunny",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "klutz",
+      "moveset": [
+        "jumpkick",
+        "machpunch",
+        "agility",
+        "dizzypunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

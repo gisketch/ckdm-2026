@@ -1,0 +1,33 @@
+{
+  "id": "rct_artist_ismael_0481",
+  "name": "Artist Ismael",
+  "title": "Artist",
+  "gender": "any",
+  "archetype": "artist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "soundproof",
+      "moveset": [
+        "wideguard",
+        "powerswap",
+        "encore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

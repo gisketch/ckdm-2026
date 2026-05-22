@@ -1,0 +1,49 @@
+{
+  "id": "rct_scientist_parkker_0157",
+  "name": "Scientist Parkker",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cloyster",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "skilllink",
+      "moveset": [
+        "aurorabeam",
+        "spikecannon",
+        "iceshard",
+        "spikes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickilicky",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "unaware",
+      "moveset": [
+        "rollout",
+        "chipaway",
+        "mefirst",
+        "refresh"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

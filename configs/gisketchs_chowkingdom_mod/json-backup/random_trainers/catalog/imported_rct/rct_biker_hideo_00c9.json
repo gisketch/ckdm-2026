@@ -1,0 +1,99 @@
+{
+  "id": "rct_biker_hideo_00c9",
+  "name": "Biker Hideo",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "stunfisk",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "sandveil",
+      "moveset": [
+        "stealthrock",
+        "thunderwave",
+        "earthpower",
+        "voltswitch"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dracovish",
+      "level": 88,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "sandrush",
+      "moveset": [
+        "fishiousrend",
+        "dragonclaw",
+        "psychicfangs",
+        "crunch"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beedrill",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "uturn",
+        "drillrun",
+        "poisonjab",
+        "pursuit"
+      ],
+      "heldItem": "mega_showdown:beedrillite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 92,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "flamethrower",
+        "nastyplot",
+        "hiddenpower"
+      ],
+      "heldItem": "charti_berry",
+      "shiny": false,
+      "aspects": [
+        "heat-appliance"
+      ]
+    },
+    {
+      "species": "greninja",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "protean",
+      "moveset": [
+        "uturn",
+        "hydropump",
+        "gunkshot",
+        "icebeam"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

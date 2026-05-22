@@ -1,0 +1,113 @@
+{
+  "id": "rct_elite_four_agatha_0054",
+  "name": "Elite Four Agatha",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 84,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "grimmsnarl",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "prankster",
+      "moveset": [
+        "spiritbreak",
+        "taunt",
+        "lightscreen",
+        "reflect"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragapult",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "dragondance",
+        "dragondarts",
+        "steelwing",
+        "phantomforce"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hydreigon",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "darkpulse",
+        "thunderwave",
+        "dragonpulse",
+        "flamethrower"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "spectrier",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "grimneigh",
+      "moveset": [
+        "shadowball",
+        "darkpulse",
+        "hiddenpower",
+        "sleeptalk"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marshadow",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "drainpunch",
+        "bulkup",
+        "spectralthief",
+        "shadowsneak"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "sludgewave",
+        "shadowball",
+        "nastyplot",
+        "thunderbolt"
+      ],
+      "heldItem": "mega_showdown:gengarite expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

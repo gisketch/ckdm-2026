@@ -1,0 +1,72 @@
+{
+  "id": "rct_pokemon_breeder_jennifer_0311",
+  "name": "Pok\u00e9mon Breeder Jennifer",
+  "title": "Pok\u00e9mon Breeder",
+  "gender": "any",
+  "archetype": "pok_mon_breeder",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_breeder/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 15,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:mimejr",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "pound",
+        "copycat",
+        "encore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:budew",
+      "level": 15,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "poisonpoint",
+      "moveset": [
+        "absorb",
+        "growth",
+        "stunspore",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cleffa",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "cutecharm",
+      "moveset": [
+        "pound",
+        "sing",
+        "sweetkiss",
+        "disarmingvoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

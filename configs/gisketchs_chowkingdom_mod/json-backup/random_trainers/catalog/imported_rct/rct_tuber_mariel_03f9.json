@@ -1,0 +1,49 @@
+{
+  "id": "rct_tuber_mariel_03f9",
+  "name": "Tuber Mariel",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "marill",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "charm",
+        "aquatail",
+        "aquaring",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "marill",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "thickfat",
+      "moveset": [
+        "slam",
+        "bounce",
+        "aquatail",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

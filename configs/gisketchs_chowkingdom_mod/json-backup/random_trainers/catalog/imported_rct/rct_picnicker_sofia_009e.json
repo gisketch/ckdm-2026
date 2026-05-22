@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_sofia_009e",
+  "name": "Picnicker Sofia",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "carbink",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "clearbody",
+      "moveset": [
+        "stealthrock",
+        "guardsplit",
+        "ancientpower",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorunt",
+      "level": 34,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "icebody",
+      "moveset": [
+        "bite",
+        "icefang",
+        "headbutt",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swinub",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "snowcloak",
+      "moveset": [
+        "icywind",
+        "icefang",
+        "takedown",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

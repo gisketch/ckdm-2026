@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_josh"
+name = "Bug Catcher Josh"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 13
+maxLevel = 13
+team = [
+  { species = "cobblemon:paras", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Josh is ready for a battle.", "You saved all the SLOWPOKE? Whew, you’re mighty! But my grown-up Pokémon are pretty tough, too!", "If you move the web with the switch, you’ll be able to figure out where the lift is going."]

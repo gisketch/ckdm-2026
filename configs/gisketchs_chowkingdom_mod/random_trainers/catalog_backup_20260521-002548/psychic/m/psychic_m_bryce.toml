@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_bryce"
+name = "Psychic Bryce"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 43
+maxLevel = 46
+team = [
+  { species = "cobblemon:haunter", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gardevoir", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I am a Psychic! I can see your future!", "I see it now! You will battle the Elite Four of the Pokémon League!"]

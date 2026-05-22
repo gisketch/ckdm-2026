@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_veteran_armando",
+  "name": "Veteran Armando",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:muk",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "acidarmor",
+        "toxic",
+        "sludgebomb",
+        "darkpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mightyena",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "suckerpunch",
+        "taunt",
+        "assurance",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lickitung",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "powerwhip",
+        "gigaimpact",
+        "surf",
+        "fireblast"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ve seen countless Trainers and even more Pok\u00e9mon! So, what kind of a Trainer are you?",
+    "I\u2019ve seen countless Trainers and even more Pok\u00e9mon. You\u2019re a strong Trainer. Moreover, your heart is strong."
+  ]
+}

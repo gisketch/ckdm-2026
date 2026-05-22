@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "policeman_x_thomas"
+name = "Policeman Thomas"
+title = "Policeman"
+gender = "any"
+archetype = "policeman"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "policeman/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:noctowl", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Who’s there?! What do you think you’re doing?!", "I’m easy to scare, and yet here I am on patrol. Funny how things go."]

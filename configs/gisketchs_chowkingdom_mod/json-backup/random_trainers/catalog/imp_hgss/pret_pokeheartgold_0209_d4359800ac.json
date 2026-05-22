@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0209_beauty_cassie",
+  "name": "Beauty Cassie",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:vileplume",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:butterfree",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m trying to forget my woes. Let\u2019s battle!",
+    "A voyage is best for getting over a broken heart. But a Fast Ship trip is too short for grieving."
+  ]
+}

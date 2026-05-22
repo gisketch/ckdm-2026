@@ -1,0 +1,88 @@
+{
+  "id": "rct_swimmer_jessica_0361",
+  "name": "Swimmer Jessica",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:goldeen",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "tailwhip",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:goldeen",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "supersonic",
+        "waterpulse",
+        "hornattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:goldeen",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:goldeen",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

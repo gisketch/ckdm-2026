@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokefirered_pkmn_prof_prof_oak",
+  "name": "Pokemon Prof Prof. Oak",
+  "title": "Pokemon Prof",
+  "gender": "any",
+  "archetype": "pokemon_prof",
+  "region": "Kanto/Sevii",
+  "category": "unique",
+  "source": "pret_pokefirered",
+  "skinSet": "",
+  "skinFolder": "pokemon_prof/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:houndour",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndour",
+      "level": 49,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pokemon Prof Prof. Oak is ready for a battle."
+  ]
+}

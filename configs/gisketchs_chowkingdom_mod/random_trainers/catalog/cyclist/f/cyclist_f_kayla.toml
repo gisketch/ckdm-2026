@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_f_kayla"
+name = "Cyclist Kayla"
+title = "Cyclist"
+gender = "female"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "cyclist/female"
+tier = "high"
+spawnable = true
+height = 0.96
+weight = 0.95
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:raichu", level = 60, gender = "MALE", nature = "jolly", ability = "static", moveset = ["tailwhip", "nuzzle", "slam", "thunderpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cyclist Female Kayla is ready for a battle.", "If you beat me, you can count on something rotten coming your way!", "Aww! Why did you beat me?! I hope you get so lost in Wayward Cave you cry! Boo-hoo-hoo!", "I have trained this team for the road. Challenge me if you are ready."]

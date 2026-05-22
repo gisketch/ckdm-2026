@@ -5,6 +5,8 @@ source_tags = ["rogue"]
 target_tags = ["town"]
 line = "The east chimney route saves two minutes to the market."
 response = "I never noticed that hop. Thanks for the tip."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["rogue"]
 target_tags = ["mentor"]
 line = "Your soft step through the bell tower is unmatched."
 response = "Patience and proper soles, friend."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["rogue"]
 target_tags = ["town"]
 line = "The blue gargoyle marks a hidden ledge above the bakery."
 response = "I will look for it on my next errand."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["rogue"]
 target_tags = ["mentor"]
 line = "A wet cloak darkens fabric faster than dye."
 response = "Practical and resourceful. I approve."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["rogue"]
 target_tags = ["wind_wizard"]
 line = "The north ridge gusts could throw a light frame."
 response = "I will stir a milder breeze for the hour."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["rogue"]
 target_ids = ["toph"]
 line = "Oil your stone pivot without scent. Just a drop."
 response = "Ha, a sneaky trick from a flimsy surface walker."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["rogue"]
 target_tags = ["skyland_survival"]
 line = "The floating island west has a stable lower shelf."
 response = "Good to know. The upper soil is too loose."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["rogue"]
 target_ids = ["link"]
 line = "A wall crack behind the maple leads to the old cistern."
 response = "I have passed that tree a hundred times."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["rogue"]
 target_ids = ["bubblegum"]
 line = "I can move your heat-sensitive samples after midnight."
 response = "Finally a courier who avoids the sun."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["rogue"]
 target_ids = ["marceline"]
 line = "You take the west alleys, I take the east after moonrise."
 response = "Fine. If you hear bass, just keep moving."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["rogue"]
 target_ids = ["venti"]
 line = "Your flute near the fountain masked my ledge climb."
 response = "Ehe, glad my practice helped your sneaky ways."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["rogue"]
 target_ids = ["aloy"]
 line = "A rare target was spotted on the lower aqueduct."
 response = "Thanks. I will check the stonework for tracks."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["rogue"]
 target_ids = ["ciri"]
 line = "You slipped that nest alert without a single scream."
 response = "Feline grace is quieter than any sign."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["rogue"]
 target_tags = ["archer"]
 line = "From the apothecary roof you can cover the whole lane."
 response = "I will keep an arrow ready while you move."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["rogue"]
 target_ids = ["zelda"]
 line = "The overgrown sky ruin has fresh tool marks."
 response = "Then someone else searches its dragon lore."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["rogue"]
 target_tags = ["frost_wizard"]
 line = "Your ice sheet on the east wall melted too smooth."
 response = "I will add grip crystals to the next batch."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["rogue"]
 target_tags = ["store_cosmetics"]
 line = "Do you have a grey hood that stays still in wind?"
 response = "The wool-spider blend holds shape perfectly."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["rogue"]
 target_tags = ["store_seed"]
 line = "I need a silent snack that does not crumble."
 response = "Dried moonberries. Compact and quiet."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["rogue"]
 target_tags = ["store_explorer"]
 line = "Do you stock a grappling head smaller than a fist?"
 response = "The owl talon model just arrived yesterday."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["rogue"]
 target_ids = ["bubblegum"]
 line = "Your Zubat corner could use a dark alcove hide."
 response = "Perfect, I will add a felt canopy this week."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["rogue"]
 target_tags = ["arcane_wizard"]
 line = "The rune plate on the guild roof can be bypassed."
 response = "Only if you read the fifth glyph in reverse."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["rogue"]
 target_tags = ["monster_hunter"]
 line = "A silverfang prowls the old lumber mill at dusk."
 response = "I have been tracking its den for three days."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["rogue"]
 target_ids = ["tarnished"]
 line = "The graveyard route is unwatched between bells."
 response = "Then I will pray faster during my rounds."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["rogue"]
 target_ids = ["pope_leo"]
 line = "The chapel balcony door needs a quieter latch."
 response = "I will ask the smith to forge a brass catch."
+source_emote = "hi"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["rogue"]
 target_tags = ["town"]
 line = "The rope bridge plank near the well is rotten."
 response = "I will warn the carpenter before someone falls."
+source_emote = "hi"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["rogue"]
 target_ids = ["zelda"]
 line = "The light tear shrine echoes footsteps like a bell."
 response = "I will drape felt mats beneath the altar."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["rogue"]
 target_tags = ["skyland_survival"]
 line = "The chain ladder to the lower islet is loose."
 response = "I will secure the anchor pin before nightfall."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["rogue"]
 target_ids = ["huntress_wizard"]
 line = "Your boot wrap technique is better than soft soles."
 response = "Boiled leather cord and a flat weave pattern."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["rogue"]
 target_tags = ["cobblemon_biology"]
 line = "A wild Purrloin uses the bakery roof every dawn."
 response = "Interesting, its route matches the old sewer map."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["rogue"]
 target_ids = ["katara"]
 line = "The moon bridge casts a blind spot near the reeds."
 response = "I will keep my bending low under its arch."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["rogue"]
 target_ids = ["vi"]
 line = "Your gauntlet can slide a window pane without noise."
 response = "Slow force, no wobble. Learned that the hard way."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["rogue"]
 target_ids = ["elsa"]
 line = "A thin mist near the eaves hides movement completely."
 response = "I can shape a cold fog blanket for your route."
+source_emote = "hi"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["rogue"]
 target_ids = ["geralt"]
 line = "You crushed the belladonna just enough to mask scent."
 response = "Trial and error with a White Wolf. Stay sharp."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["rogue"]
 target_ids = ["gandalf"]
 line = "A broken waystone hums on the third floating isle."
 response = "The old inscription speaks of a forgotten fastness."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["rogue"]
 target_ids = ["marceline"]
 line = "Your bass thrum vibrates loose roof tiles nicely."
 response = "Tell me which ones and I will play a softer line."
+source_emote = "lookout"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["rogue"]
 target_ids = ["zuko"]
 line = "A tiny snuff of your flame would kill streetlight glare."
 response = "I can bank the wall torches for a few seconds."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["rogue"]
 target_ids = ["ezio"]
 line = "The west strongbox room has a false back panel."
 response = "Bene, I will test it with a thin blade."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["rogue"]
 target_ids = ["zagreus"]
 line = "Your landing on the granary roof shook the shingles."
 response = "I will aim for the beam, not the clay."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["rogue"]
 target_tags = ["town"]
 line = "A chalk arrow behind the inn points to a safe drop."
 response = "Useful, I will add a second mark for wind days."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["rogue"]
 target_tags = ["mentor"]
 line = "The copper gutter near the forge is faster than rope."
 response = "Mind the rivets. They snag loose cloth."
+source_emote = "clap"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["rogue"]
 target_ids = ["bubblegum"]
 line = "A wild Hoothoot circles the clock tower exactly at two."
 response = "Adding that data to the nocturnal behavior log."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["rogue"]
 target_ids = ["aang"]
 line = "The alley air flows different after the new town hall."
 response = "I can redraw the roof currents if you share data."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["rogue"]
 target_ids = ["finn"]
 line = "We can split the high road and meet at the bell."
 response = "Mathematical! I take the left chimney stack."
+source_emote = "hi"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["rogue"]
 target_tags = ["warrior"]
 line = "A lookout on the guildhall ridge sees everything."
 response = "I will post there on the third watch."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_ids = ["legolas"]
 target_tags = ["rogue"]
 line = "My eyes marked a shadowpath from the mill to the gate."
 response = "Good. I will test its cover before sunrise."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["rogue"]
 target_ids = ["zagreus"]
 line = "A controlled drop from the hayloft saves a full minute."
 response = "I am tough enough to take the fall either way."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["rogue"]
 target_ids = ["aloy"]
 line = "I left a cloth scrap near the smuggler tunnel exit."
 response = "I saw it. The weave matches a known bandit group."
+source_emote = "proud"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_ids = ["traxex"]
 target_tags = ["rogue"]
 line = "The icicle overhang hides my crouch perfectly."
 response = "Stay clear of the thaw drip, it leaves a trail."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["rogue"]
 target_ids = ["link"]
 line = "A rooftop parry needs less wrist, more elbow pivot."
 response = "I will practice on the stable ridge tonight."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["rogue"]
 target_tags = ["town"]
 line = "A child left a honey cake on the orphanage sill."
 response = "I saw the little one wave from the attic."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0

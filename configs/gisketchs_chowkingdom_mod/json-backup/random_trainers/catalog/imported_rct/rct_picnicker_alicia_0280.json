@@ -1,0 +1,33 @@
+{
+  "id": "rct_picnicker_alicia_0280",
+  "name": "Picnicker Alicia",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "meowth",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "pickup",
+      "moveset": [
+        "furyswipes",
+        "screech",
+        "headbutt",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

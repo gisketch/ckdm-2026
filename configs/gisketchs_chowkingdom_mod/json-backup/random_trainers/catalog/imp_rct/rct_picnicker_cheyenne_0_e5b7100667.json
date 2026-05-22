@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_cheyenne_03e4",
+  "name": "Picnicker Cheyenne",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:drifloon",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "aftermath",
+      "moveset": [
+        "gust",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:misdreavus",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "meanlook",
+        "hex",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

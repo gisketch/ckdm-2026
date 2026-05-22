@@ -1,0 +1,65 @@
+{
+  "id": "rct_veteran_terrell_045d",
+  "name": "Veteran Terrell",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "kricketune",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "swarm",
+      "moveset": [
+        "sing",
+        "nightslash",
+        "stickyweb",
+        "bugbuzz"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "quagsire",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "yawn",
+        "muddywater",
+        "toxic",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "cursedbody",
+      "moveset": [
+        "confuseray",
+        "curse",
+        "darkpulse",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

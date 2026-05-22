@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_anne"
+name = "Lass Anne"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "very_high"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 89
+maxLevel = 93
+team = [
+  { species = "cobblemon:togepi", level = 89, gender = "FEMALE", nature = "bashful", ability = "serenegrace", moveset = ["metronome"], heldItem = "['eviolite']", shiny = false, aspects = [] },
+  { species = "cobblemon:clefairy", level = 93, gender = "MALE", nature = "bashful", ability = "magicguard", moveset = ["metronome"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:audino", level = 93, gender = "FEMALE", nature = "bashful", ability = "klutz", moveset = ["swagger", "protect", "wish", "yawn"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

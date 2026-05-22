@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_natalie"
+name = "Lass Natalie"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 3
+maxLevel = 3
+team = [
+  { species = "cobblemon:bidoof", level = 3, gender = "MALE", nature = "jolly", ability = "unaware", moveset = ["tackle", "growl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bidoof", level = 3, gender = "MALE", nature = "jolly", ability = "unaware", moveset = ["tackle", "growl"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I spy, with my little eye... A Trainer! A battle, please!", "My Pokémon are all tuckered out! I need to go to a Pokémon Center!", "I have trained this team for the road. Challenge me if you are ready."]

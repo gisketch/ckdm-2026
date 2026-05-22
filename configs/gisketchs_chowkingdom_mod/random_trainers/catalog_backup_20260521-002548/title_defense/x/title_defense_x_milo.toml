@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "title_defense_x_milo"
+name = "Title Defense Milo"
+title = "Title Defense"
+gender = "any"
+archetype = "title_defense"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "title_defense/any"
+tier = "very_high"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 78
+maxLevel = 80
+team = [
+  { species = "cobblemon:mrmime", level = 78, gender = "MALE", nature = "timid", ability = "soundproof", moveset = ["psyshock", "dazzlinggleam", "reflect", "lightscreen"], heldItem = "['light_clay']", shiny = false, aspects = [] },
+  { species = "cobblemon:emolga", level = 78, gender = "MALE", nature = "timid", ability = "electricsurge", moveset = ["risingvoltage", "energyball", "hiddenpower", "electroweb"], heldItem = "['terrain_extender']", shiny = false, aspects = [] },
+  { species = "cobblemon:gallade", level = 79, gender = "MALE", nature = "jolly", ability = "justified", moveset = ["closecombat", "rockslide", "knockoff", "bulkup"], heldItem = "['coba_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:clefable", level = 78, gender = "FEMALE", nature = "calm", ability = "magicguard", moveset = ["dazzlinggleam", "icywind", "lifedew", "followme"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 80, gender = "FEMALE", nature = "bold", ability = "surgesurfer", moveset = ["risingvoltage", "psyshock", "grassknot", "electricterrain"], heldItem = "['focus_sash']", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:audino", level = 79, gender = "FEMALE", nature = "bold", ability = "regenerator", moveset = ["drainingkiss", "flamethrower", "calmmind", "lifedew"], heldItem = "['mega_showdown:audinite', 'leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

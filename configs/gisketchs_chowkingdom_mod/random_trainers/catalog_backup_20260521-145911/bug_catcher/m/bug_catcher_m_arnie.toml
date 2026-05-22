@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_arnie"
+name = "Bug Catcher Arnie"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 45
+maxLevel = 56
+team = [
+  { species = "cobblemon:nincada", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dig", "metalclaw", "mudslap", "leechlife"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venomoth", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gust", "psychic", "poisonfang", "signalbeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Arnie is ready for a battle.", "I’ll go anywhere if bug Pokémon appear there.", "My VENONAT won me the Bug-Catching Contest at the National Park."]

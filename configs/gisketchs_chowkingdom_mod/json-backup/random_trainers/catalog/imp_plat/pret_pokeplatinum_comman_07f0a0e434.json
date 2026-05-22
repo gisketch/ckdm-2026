@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeplatinum_commander_mars_spear_pillar",
+  "name": "Commander Mars Mars",
+  "title": "Commander Mars",
+  "gender": "any",
+  "archetype": "commander_mars",
+  "region": "Sinnoh",
+  "category": "unique",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "commander_mars/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:bronzor",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "gyroball",
+        "extrasensory",
+        "lightscreen",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "aircutter",
+        "bite",
+        "poisonfang",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:purugly",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "slash",
+        "shadowclaw",
+        "aerialace",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Commander Mars Mars is ready for a battle."
+  ]
+}

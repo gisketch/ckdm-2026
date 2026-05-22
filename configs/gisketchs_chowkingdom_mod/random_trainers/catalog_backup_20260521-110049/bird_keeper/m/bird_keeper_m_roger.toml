@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_m_roger"
+name = "Bird Keeper Roger"
+title = "Bird Keeper"
+gender = "male"
+archetype = "bird_keeper"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 63
+maxLevel = 64
+team = [
+  { species = "cobblemon:pelipper", level = 63, gender = "MALE", nature = "lax", ability = "raindish", moveset = ["roost", "tailwind", "hydropump", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:corviknight", level = 63, gender = "MALE", nature = "quiet", ability = "unnerve", moveset = ["drillpeck", "swagger", "bravebird", "irondefense"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:unfezant", level = 64, gender = "FEMALE", nature = "brave", ability = "superluck", moveset = ["nightslash", "swagger", "facade", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Roger is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

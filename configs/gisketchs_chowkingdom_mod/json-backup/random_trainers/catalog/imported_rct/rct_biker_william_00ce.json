@@ -1,0 +1,97 @@
+{
+  "id": "rct_biker_william_00ce",
+  "name": "Biker William",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "magnezone",
+      "level": 89,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "sturdy",
+      "moveset": [
+        "thunder",
+        "voltswitch",
+        "explosion",
+        "bodypress"
+      ],
+      "heldItem": "custap_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bisharp",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "defiant",
+      "moveset": [
+        "swordsdance",
+        "knockoff",
+        "suckerpunch",
+        "ironhead"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "whiscash",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterbubble",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "earthquake",
+        "bounce"
+      ],
+      "heldItem": "rindo_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "salamence",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "intimidate",
+      "moveset": [
+        "hurricane",
+        "dragonpulse",
+        "hydropump",
+        "earthquake"
+      ],
+      "heldItem": "yache_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "analytic",
+      "moveset": [
+        "flipturn",
+        "hydropump",
+        "thunder",
+        "psychic"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

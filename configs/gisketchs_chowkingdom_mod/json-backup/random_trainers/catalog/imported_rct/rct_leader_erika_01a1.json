@@ -1,0 +1,99 @@
+{
+  "id": "rct_leader_erika_01a1",
+  "name": "Leader Erika",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "rillaboom",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "grassysurge",
+      "moveset": [
+        "grassyglide",
+        "uturn",
+        "highhorsepower",
+        "drainpunch"
+      ],
+      "heldItem": "terrain_extender",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "serperior",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "contrary",
+      "moveset": [
+        "leafstorm",
+        "gigadrain",
+        "hiddenpower",
+        "dragonpulse"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "gigadrain",
+        "sludgebomb",
+        "sleeppowder",
+        "earthpower"
+      ],
+      "heldItem": "mega_showdown:venusaurite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meganium",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "triage",
+      "moveset": [
+        "ancientpower",
+        "gigadrain",
+        "dazzlinggleam",
+        "hiddenpower"
+      ],
+      "heldItem": "grassy_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electrode",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "reckless",
+      "moveset": [
+        "thunderbolt",
+        "chloroblast",
+        "hiddenpower",
+        "explosion"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_chelsey_04b3",
+  "name": "Psychic Chelsey",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "xatu",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "nightshade",
+        "psychic",
+        "wish",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mismagius",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "levitate",
+      "moveset": [
+        "mysticalfire",
+        "perishsong",
+        "powergem",
+        "magicalleaf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

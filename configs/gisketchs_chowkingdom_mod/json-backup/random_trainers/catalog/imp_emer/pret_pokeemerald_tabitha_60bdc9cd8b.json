@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeemerald_tabitha_mossdeep",
+  "name": "Magma Admin Tabitha",
+  "title": "Magma Admin",
+  "gender": "any",
+  "archetype": "magma_admin",
+  "region": "Hoenn",
+  "category": "unique",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "magma_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.04,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 36,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:camerupt",
+      "level": 36,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mightyena",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golbat",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Magma Admin Tabitha is ready for a battle."
+  ]
+}

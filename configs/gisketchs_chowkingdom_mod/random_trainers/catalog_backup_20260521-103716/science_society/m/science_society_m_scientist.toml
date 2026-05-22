@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "science_society_m_scientist"
+name = "Science Society Scientist"
+title = "Science Society"
+gender = "male"
+archetype = "science_society"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "science_society/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:rotom", level = 57, gender = "GENDERLESS", nature = "modest", ability = "levitate", moveset = ["thunderbolt", "leafstorm", "shadowball", "thunderwave"], heldItem = "", shiny = false, aspects = ["mow-appliance"] },
+  { species = "cobblemon:manectric", level = 59, gender = "MALE", nature = "timid", ability = "flareboost", moveset = ["discharge", "flamethrower", "hiddenpower", "protect"], heldItem = "['flame_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:magnezone", level = 58, gender = "GENDERLESS", nature = "modest", ability = "sturdy", moveset = ["thunderbolt", "flashcannon", "hiddenpower", "magnetrise"], heldItem = "['weakness_policy']", shiny = false, aspects = [] },
+  { species = "cobblemon:vikavolt", level = 59, gender = "MALE", nature = "modest", ability = "levitate", moveset = ["bugbuzz", "thunderbolt", "airslash", "energyball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

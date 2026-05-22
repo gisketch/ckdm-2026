@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmerf_nora_010f",
+  "name": "Swimmer\u2640 Nora",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "cobblemon:kingler",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "hypercutter",
+      "moveset": [
+        "slam",
+        "brine",
+        "crabhammer",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "battlearmor",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 65,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "poisontouch",
+      "moveset": [
+        "agility",
+        "dragonpulse",
+        "dragondance",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

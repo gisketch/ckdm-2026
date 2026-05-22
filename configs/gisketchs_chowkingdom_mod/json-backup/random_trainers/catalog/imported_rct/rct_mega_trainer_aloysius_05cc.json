@@ -1,0 +1,97 @@
+{
+  "id": "rct_mega_trainer_aloysius_05cc",
+  "name": "Mega Trainer Aloysius",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 61,
+  "team": [
+    {
+      "species": "politoed",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "drizzle",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "perishsong",
+        "hypnosis"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blissey",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "mudbomb",
+        "toxic",
+        "minimize",
+        "softboiled"
+      ],
+      "heldItem": "chople_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "braviary",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "bravebird",
+        "crushclaw",
+        "superpower",
+        "uturn"
+      ],
+      "heldItem": "wacan_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "reuniclus",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "psychic",
+        "thunder",
+        "shadowball",
+        "trickroom"
+      ],
+      "heldItem": "colbur_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ampharos",
+      "level": 59,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "moldbreaker",
+      "moveset": [
+        "thunder",
+        "dragonpulse",
+        "hiddenpower",
+        "thunderwave"
+      ],
+      "heldItem": "mega_showdown:ampharosite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

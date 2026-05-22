@@ -1,0 +1,49 @@
+{
+  "id": "rct_young_couple_sue_ty_m002",
+  "name": "Young Couple Sue & Ty",
+  "title": "Young Couple Sue",
+  "gender": "any",
+  "archetype": "young_couple_sue",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "meditite",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "lowkick",
+        "detect",
+        "forcepalm",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machop",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "focusenergy",
+        "lowsweep",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

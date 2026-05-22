@@ -1,0 +1,49 @@
+{
+  "id": "rct_psychic_maxwell_03ba",
+  "name": "Psychic Maxwell",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "misdreavus",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "levitate",
+      "moveset": [
+        "meanlook",
+        "perishsong",
+        "shadowball",
+        "painsplit"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "haunter",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "darkpulse",
+        "destinybond",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

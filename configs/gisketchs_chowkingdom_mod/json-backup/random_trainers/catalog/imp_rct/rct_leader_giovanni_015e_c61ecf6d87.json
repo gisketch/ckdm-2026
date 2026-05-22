@@ -1,0 +1,104 @@
+{
+  "id": "rct_leader_giovanni_015e",
+  "name": "Giovanni",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "scaryface",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dugtrio",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "sandveil",
+      "moveset": [
+        "slash",
+        "sandtomb",
+        "mudslap",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoqueen",
+      "level": 44,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "bodyslam",
+        "doublekick",
+        "poisonsting",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoking",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "thrash",
+        "doublekick",
+        "poisonsting",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "lightningrod",
+      "moveset": [
+        "takedown",
+        "rockblast",
+        "scaryface",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

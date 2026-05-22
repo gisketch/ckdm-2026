@@ -1,0 +1,38 @@
+{
+  "id": "pret_pokeplatinum_pi_carlos_rematch_2",
+  "name": "Pi Carlos",
+  "title": "Pi",
+  "gender": "any",
+  "archetype": "pi",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "pi/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 64,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:seaking",
+      "level": 64,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "horndrill",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Pi Carlos is ready for a battle."
+  ]
+}

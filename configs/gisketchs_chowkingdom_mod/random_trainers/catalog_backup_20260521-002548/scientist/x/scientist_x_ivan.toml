@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_ivan"
+name = "Scientist Ivan"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 70
+maxLevel = 71
+team = [
+  { species = "cobblemon:castform", level = 71, gender = "FEMALE", nature = "jolly", ability = "forecast", moveset = ["hydropump", "fireblast", "blizzard", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bronzong", level = 70, gender = "GENDERLESS", nature = "relaxed", ability = "levitate", moveset = ["extrasensory", "payback", "healblock", "heavyslam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Ivan is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

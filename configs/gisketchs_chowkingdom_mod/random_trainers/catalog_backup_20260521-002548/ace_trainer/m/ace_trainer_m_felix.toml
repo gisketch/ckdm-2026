@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_felix"
+name = "Ace Trainer Felix"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 55
+maxLevel = 56
+team = [
+  { species = "cobblemon:dusclops", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shadowsneak", "payback", "curse", "willowisp"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:salamence", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["dragonclaw", "aerialace", "zenheadbutt", "crunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Welcome to my Pokémon show!", "I’ll be happy to battle you again! Let’s battle again sometime, yeah?"]

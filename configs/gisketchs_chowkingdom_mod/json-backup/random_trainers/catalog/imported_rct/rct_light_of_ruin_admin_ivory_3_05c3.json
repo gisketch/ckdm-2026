@@ -1,0 +1,113 @@
+{
+  "id": "rct_light_of_ruin_admin_ivory_3_05c3",
+  "name": "Ruin Admin Ivory",
+  "title": "Light Of Ruin Admin Ivory",
+  "gender": "any",
+  "archetype": "light_of_ruin_admin_ivory",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "toxicroak",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonjab",
+        "drainpunch",
+        "icepunch",
+        "suckerpunch"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mismagius",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "moongeistbeam",
+        "mysticalfire",
+        "dazzlinggleam",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "incineroar",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "darkestlariat",
+        "drainpunch",
+        "thunderpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alakazam",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "trace",
+      "moveset": [
+        "psyshock",
+        "shadowball",
+        "energyball",
+        "nastyplot"
+      ],
+      "heldItem": "mega_showdown:alakazite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mandibuzz",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "overcoat",
+      "moveset": [
+        "foulplay",
+        "attract",
+        "toxic",
+        "roost"
+      ],
+      "heldItem": "rocky_helmet",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "eelektross",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "voltswitch",
+        "gigadrain",
+        "flamethrower",
+        "acidspray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

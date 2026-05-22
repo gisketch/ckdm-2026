@@ -1,0 +1,72 @@
+{
+  "id": "rct_ruin_mamoac_layton_026c",
+  "name": "Ruin Mamoac Layton",
+  "title": "Ruin Mamoac",
+  "gender": "any",
+  "archetype": "ruin_mamoac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ruin_mamoac/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:sandslash",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "sandveil",
+      "moveset": [
+        "dig",
+        "gyroball",
+        "swordsdance",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "rockhead",
+      "moveset": [
+        "sandtomb",
+        "irontail",
+        "dig",
+        "stoneedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sandslash",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "sandveil",
+      "moveset": [
+        "dig",
+        "gyroball",
+        "swordsdance",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

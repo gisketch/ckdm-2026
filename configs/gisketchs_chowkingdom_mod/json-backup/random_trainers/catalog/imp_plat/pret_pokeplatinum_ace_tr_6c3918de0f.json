@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_dennis",
+  "name": "Ace Trainer Male Dennis",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 24,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:gligar",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "screech",
+        "feintattack",
+        "quickattack",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:buizel",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "aquajet",
+        "swift",
+        "pursuit",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drifblim",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "swallow",
+        "gust",
+        "stockpile",
+        "ominouswind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ll take on anyone! It can only make me stronger!",
+    "In a Pok\u00e9mon battle, it doesn\u2019t matter how old or young you are. Your gender doesn\u2019t matter, either. Nothing like that means anything!"
+  ]
+}

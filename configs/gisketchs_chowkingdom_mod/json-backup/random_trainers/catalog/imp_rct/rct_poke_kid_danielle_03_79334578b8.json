@@ -1,0 +1,40 @@
+{
+  "id": "rct_poke_kid_danielle_0314",
+  "name": "Pok\u00e9 Kid Danielle",
+  "title": "Pok\u00e9 Kid",
+  "gender": "any",
+  "archetype": "pok_kid",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_kid/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:pikachu",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "sweetkiss",
+        "charm",
+        "quickattack",
+        "electroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rct_burglar_ramon_00d6",
+  "name": "Burglar Ramon",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 74,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "cobblemon:salazzle",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "corrosion",
+      "moveset": [
+        "venoshock",
+        "flamethrower",
+        "venomdrench",
+        "dragonpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

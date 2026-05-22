@@ -1,0 +1,40 @@
+{
+  "id": "rct_camper_ethan_0090",
+  "name": "Camper Ethan",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:loudred",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "scrappy",
+      "moveset": [
+        "astonish",
+        "howl",
+        "screech",
+        "supersonic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

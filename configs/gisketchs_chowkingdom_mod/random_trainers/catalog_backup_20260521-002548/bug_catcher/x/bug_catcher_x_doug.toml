@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_doug"
+name = "Bug Catcher Doug"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Johto/Kanto;Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeemerald;pret_pokefirered;pret_pokeheartgold;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 7
+maxLevel = 7
+team = [
+  { species = "cobblemon:kakuna", level = 7, gender = "FEMALE", nature = "lax", ability = "shedskin", moveset = ["harden", "bugbite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:spinarak", level = 7, gender = "FEMALE", nature = "brave", ability = "swarm", moveset = ["poisonsting", "stringshot", "constrict", "absorb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ledyba", level = 7, gender = "MALE", nature = "calm", ability = "swarm", moveset = ["tackle", "supersonic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Doug is ready for a battle.", "Why do girls dislike bug Pokémon so much?", "Bug Pokémon squish like soft, toy Pokémon when you squeeze their bellies. I love how they feel!", "I have trained this team for the road. Challenge me if you are ready."]

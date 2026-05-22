@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_dalton_04f0",
+  "name": "Ace Trainer Dalton",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "raichu",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "static",
+      "moveset": [
+        "nuzzle",
+        "electroball",
+        "agility",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pelipper",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "keeneye",
+      "moveset": [
+        "airslash",
+        "tailwind",
+        "waterpulse",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hippopotas",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sandstream",
+      "moveset": [
+        "yawn",
+        "crunch",
+        "earthquake",
+        "slackoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

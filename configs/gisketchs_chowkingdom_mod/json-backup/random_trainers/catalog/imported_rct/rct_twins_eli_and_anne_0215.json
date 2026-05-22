@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_eli_and_anne_0215",
+  "name": "Twins Eli & Anne",
+  "title": "Twins Eli And",
+  "gender": "any",
+  "archetype": "twins_eli_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "cutecharm",
+      "moveset": [
+        "followme",
+        "thunderwave",
+        "wish",
+        "storedpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jigglypuff",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "cutecharm",
+      "moveset": [
+        "stockpile",
+        "swallow",
+        "spitup",
+        "wakeupslap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

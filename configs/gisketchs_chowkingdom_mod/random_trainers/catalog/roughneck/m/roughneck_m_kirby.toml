@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "roughneck_m_kirby"
+name = "Roughneck Kirby"
+title = "Roughneck"
+gender = "male"
+archetype = "roughneck"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "roughneck/male"
+tier = "low"
+spawnable = true
+height = 1.07
+weight = 1.16
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:cleffa", level = 19, gender = "MALE", nature = "sassy", ability = "cutecharm", moveset = ["sing", "sweetkiss", "disarmingvoice", "encore"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Pokémon were taken from me... Team Galactic did it... Ever since, I’ve never forgiven their faces...", "I’m not doing my Pokémon any favors by ruining its memory like this... I can’t be wallowing around forever. I gotta move on and turn the page.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_galactic_grunt_lake_valor_1",
+  "name": "Galactic Grunt Male Grunt",
+  "title": "Galactic Grunt Male",
+  "gender": "male",
+  "archetype": "galactic_grunt_male",
+  "region": "Sinnoh",
+  "category": "team",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "galactic_grunt_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We set off the Galactic Bomb! Its blast force was phenomenal!",
+    "But so what? You aim to take us all on? Dream on! Team Galactic is huge in number. Even as we speak, other members should be near Twinleaf Town. That\u2019s right, they\u2019re on the way to Lake Verity!"
+  ]
+}

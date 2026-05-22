@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_mariah",
+  "name": "Ace Trainer Female Mariah",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 45,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:blissey",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doubleedge",
+        "sing",
+        "softboiled",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:glalie",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "icebeam",
+        "crunch",
+        "headbutt",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnezone",
+      "level": 48,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "flashcannon",
+        "thunderwave",
+        "barrier"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Show me how you\u2019ve battled to get here! Let\u2019s do this!",
+    "Once you emerge from Victory Road, the Pok\u00e9mon League lies directly ahead... But many Trainers fail to ever find their way on Victory Road..."
+  ]
+}

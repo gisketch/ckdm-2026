@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_m_dusty"
+name = "Burglar Dusty"
+title = "Burglar"
+gender = "male"
+archetype = "burglar"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "burglar/male"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 73
+maxLevel = 74
+team = [
+  { species = "cobblemon:ninetales", level = 73, gender = "MALE", nature = "quirky", ability = "flashfire", moveset = ["flamethrower", "quickattack", "confuseray", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pyroar", level = 74, gender = "MALE", nature = "gentle", ability = "unnerve", moveset = ["crunch", "hypervoice", "incinerate", "overheat"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Burglar Dusty is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

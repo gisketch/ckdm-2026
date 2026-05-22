@@ -1,0 +1,78 @@
+{
+  "id": "rct_champion_lance_0027",
+  "name": "Lance",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 82,
+  "maxLevel": 83,
+  "team": [
+    {
+      "species": "cobblemon:dragapult",
+      "level": 82,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "clearbody",
+      "moveset": [
+        "dragondarts",
+        "phantomforce",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dialga",
+      "level": 83,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "pressure",
+      "moveset": [
+        "dragonpulse",
+        "flashcannon",
+        "thunderbolt",
+        "flamethrower"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:salamence",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "earthquake",
+        "roost"
+      ],
+      "heldItem": [
+        "mega_showdown:salamencite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

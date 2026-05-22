@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_alice"
+name = "Swimmer Alice"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 64
+team = [
+  { species = "cobblemon:gyarados", level = 64, gender = "MALE", nature = "rash", ability = "intimidate", moveset = ["dragondance", "hurricane", "raindance", "hyperbeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wishiwashi", level = 60, gender = "MALE", nature = "timid", ability = "schooling", moveset = ["aquatail", "doubleedge", "endeavor", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Female Alice is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

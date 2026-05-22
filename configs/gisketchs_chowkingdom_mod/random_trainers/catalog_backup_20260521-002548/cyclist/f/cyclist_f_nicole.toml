@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "cyclist_f_nicole"
+name = "Cyclist Nicole"
+title = "Cyclist"
+gender = "female"
+archetype = "cyclist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "cyclist/female"
+tier = "low"
+spawnable = true
+height = 0.96
+weight = 0.95
+bustStyle = "standard"
+minLevel = 17
+maxLevel = 19
+team = [
+  { species = "cobblemon:starly", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starly", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starly", level = 19, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The both of us are on Bikes, and we both have Pokémon! I can’t let you get the better of me!", "I should have challenged you to a race, not a battle!"]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_tamer_cole_0129",
+  "name": "Tamer Cole",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "arbok",
+      "level": 39,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "intimidate",
+      "moveset": [
+        "swallow",
+        "spitup",
+        "poisonfang",
+        "coil"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tauros",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "rest",
+        "payback",
+        "workup",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

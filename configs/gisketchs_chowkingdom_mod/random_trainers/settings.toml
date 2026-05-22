@@ -1,0 +1,48 @@
+# Chow Kingdom config: settings.toml. Edit while the game is stopped, then run reload commands or restart.
+
+# Config value: enabled.
+enabled = true
+# Config value: naturalSpawning.
+naturalSpawning = true
+# Config value: generatedPrefillSize.
+generatedPrefillSize = 0
+# Config value: globalSpawnChance.
+globalSpawnChance = 0.85
+# Config value: spawnIntervalTicks.
+spawnIntervalTicks = 100
+# Config value: spawnIntervalTicksMaximum.
+spawnIntervalTicksMaximum = 1200
+# Config value: debugNaturalSpawning.
+debugNaturalSpawning = false
+# Config value: debugStatusIntervalTicks.
+debugStatusIntervalTicks = 200
+# Config value: despawnTicksIfUnseen.
+despawnTicksIfUnseen = 6000
+# Config value: minHorizontalDistanceToPlayers.
+minHorizontalDistanceToPlayers = 12
+# Config value: maxHorizontalDistanceToPlayers.
+maxHorizontalDistanceToPlayers = 36
+# Config value: maxVerticalDistanceToPlayers.
+maxVerticalDistanceToPlayers = 16
+# Config value: uniqueTrainerRadius.
+uniqueTrainerRadius = 500
+# Config value: maxTrainersPerPlayer.
+maxTrainersPerPlayer = 12
+# Config value: maxTrainersTotal.
+maxTrainersTotal = 60
+# Config value: maxLevelDiff.
+maxLevelDiff = 25
+# Config value: tierWeightSkew.
+tierWeightSkew = 0.45
+# Config value: allowedDimensions.
+allowedDimensions = ["minecraft:overworld"]
+# Config value: blockedDimensions.
+blockedDimensions = []
+# Config value: battleFormat.
+battleFormat = "GEN_9_SINGLES"
+# Config value: maxItemUses.
+maxItemUses = 0
+# Config value: healPlayers.
+healPlayers = false
+# Config value: llmDialogue.
+llmDialogue = true

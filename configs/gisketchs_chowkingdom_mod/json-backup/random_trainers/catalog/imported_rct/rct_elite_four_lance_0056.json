@@ -1,0 +1,113 @@
+{
+  "id": "rct_elite_four_lance_0056",
+  "name": "Elite Four Lance",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "garchomp",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "roughskin",
+      "moveset": [
+        "stealthrock",
+        "earthquake",
+        "stoneedge",
+        "roar"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "multiscale",
+      "moveset": [
+        "dragondance",
+        "extremespeed",
+        "earthquake",
+        "dualwingbeat"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dracozolt",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": [
+        "boltbeak",
+        "dragonclaw",
+        "earthquake",
+        "flamethrower"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "melmetal",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "doubleironbash",
+        "earthquake",
+        "thunderpunch",
+        "icepunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dialga",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "pressure",
+      "moveset": [
+        "roaroftime",
+        "rest",
+        "sleeptalk",
+        "flamethrower"
+      ],
+      "heldItem": "mega_showdown:adamant_orb life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "salamence",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "doubleedge",
+        "firefang",
+        "earthquake"
+      ],
+      "heldItem": "mega_showdown:salamencite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

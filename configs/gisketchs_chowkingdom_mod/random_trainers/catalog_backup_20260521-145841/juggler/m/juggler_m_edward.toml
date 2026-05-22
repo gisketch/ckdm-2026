@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_edward"
+name = "Juggler Edward"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 46
+maxLevel = 48
+team = [
+  { species = "cobblemon:voltorb", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "lightscreen", "spark", "sonicboom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:voltorb", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "lightscreen", "spark", "sonicboom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "spark", "selfdestruct", "sonicboom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mr_mime", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "roleplay", "reflect", "encore"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Edward is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

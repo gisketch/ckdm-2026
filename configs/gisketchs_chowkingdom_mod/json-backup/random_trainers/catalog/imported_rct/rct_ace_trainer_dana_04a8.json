@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_dana_04a8",
+  "name": "Ace Trainer Dana",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "mightyena",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "suckerpunch",
+        "thunderfang",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kirlia",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "synchronize",
+      "moveset": [
+        "hypnosis",
+        "psychic",
+        "calmmind",
+        "dreameater"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

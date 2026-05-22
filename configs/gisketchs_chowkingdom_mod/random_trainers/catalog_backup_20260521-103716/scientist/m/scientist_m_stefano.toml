@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_m_stefano"
+name = "Scientist Stefano"
+title = "Scientist"
+gender = "male"
+archetype = "scientist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "scientist/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:kadabra", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psybeam", "disable", "kinesis", "icepunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I find it reassuring to be on this damp soil...", "It feels good to mope here after a loss... Ufufufufu...", "I have trained this team for the road. Challenge me if you are ready."]

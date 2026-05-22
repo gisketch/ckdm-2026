@@ -1,0 +1,33 @@
+{
+  "id": "rct_picnicker_karina_0537",
+  "name": "Picnicker Karina",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "prinplup",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "torrent",
+      "moveset": [
+        "peck",
+        "metalclaw",
+        "bubblebeam",
+        "furyattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

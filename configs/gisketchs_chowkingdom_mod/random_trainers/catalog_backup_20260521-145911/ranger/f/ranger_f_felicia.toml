@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_f_felicia"
+name = "Ranger Felicia"
+title = "Ranger"
+gender = "female"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/female"
+tier = "high"
+spawnable = true
+height = 1.06
+weight = 1.07
+bustStyle = "standard"
+minLevel = 59
+maxLevel = 59
+team = [
+  { species = "cobblemon:skiploom", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lopunny", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We’ve grown strong together in nature and in the concrete jungle. We make everywhere we go our playground!", "Look around you at this wildly contorted terrain. It’s no wonder that Pokémon would grow tough in a place like this."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_lady_jacki_020d",
+  "name": "Lady Jacki",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 48,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "cobblemon:hoppip",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "leafguard",
+      "moveset": [
+        "uturn",
+        "worryseed",
+        "gigadrain",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skiploom",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "leafguard",
+      "moveset": [
+        "ragepowder",
+        "cottonspore",
+        "uturn",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

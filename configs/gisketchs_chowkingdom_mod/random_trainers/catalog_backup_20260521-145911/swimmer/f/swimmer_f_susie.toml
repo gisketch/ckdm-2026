@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_susie"
+name = "Swimmer Susie"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto;Hoenn"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeemerald;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 20
+maxLevel = 22
+team = [
+  { species = "cobblemon:psyduck", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = ["scratch", "tailwhip", "disable", "confusion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 22, gender = "GENDERLESS", nature = "", ability = "", moveset = ["peck", "tailwhip", "supersonic", "hornattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Susie is ready for a battle.", "Swimmer Female Susie is ready for a battle.", "You look so elegant riding your Pokémon.", "Wasn’t there a hit song about a boy riding a LAPRAS?"]

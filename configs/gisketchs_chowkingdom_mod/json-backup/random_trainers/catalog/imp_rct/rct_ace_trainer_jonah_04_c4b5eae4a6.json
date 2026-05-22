@@ -1,0 +1,72 @@
+{
+  "id": "rct_ace_trainer_jonah_040d",
+  "name": "Ace Trainer Jonah",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 34,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "tailwhip",
+        "agility",
+        "flamewheel",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:haunter",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "meanlook",
+        "payback"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:floatzel",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rct_picnicker_alma_01d2",
+  "name": "Picnicker Alma",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "krookodile",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "stealthrock",
+        "wickedblow",
+        "earthquake",
+        "rockslide"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tangrowth",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "solarbeam",
+        "hiddenpower",
+        "sludgebomb",
+        "knockoff"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chansey",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "thunderwave",
+        "seismictoss",
+        "teleport",
+        "softboiled"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chandelure",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "shadowtag",
+      "moveset": [
+        "fireblast",
+        "solarbeam",
+        "shadowball",
+        "trick"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "altaria",
+      "level": 89,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "fireblast",
+        "hypervoice",
+        "roost",
+        "earthquake"
+      ],
+      "heldItem": "mega_showdown:altarianite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

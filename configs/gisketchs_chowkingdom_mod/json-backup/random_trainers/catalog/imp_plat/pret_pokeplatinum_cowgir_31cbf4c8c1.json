@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_cowgirl_shelley",
+  "name": "Cowgirl Shelley",
+  "title": "Cowgirl",
+  "gender": "female",
+  "archetype": "cowgirl",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "cowgirl/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.97,
+  "weight": 0.94,
+  "bustStyle": "standard",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:ponyta",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Say, honey, where\u2019d you come from? What kinds of Pok\u00e9mon are you with?",
+    "While working the ranch, I get to raise my Pok\u00e9mon, too. I\u2019d say it\u2019s the best of both worlds!"
+  ]
+}

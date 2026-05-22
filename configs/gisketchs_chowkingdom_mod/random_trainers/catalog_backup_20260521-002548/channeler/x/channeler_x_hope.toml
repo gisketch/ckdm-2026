@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_x_hope"
+name = "Channeler Hope"
+title = "Channeler"
+gender = "any"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:banette", level = 36, gender = "FEMALE", nature = "hasty", ability = "insomnia", moveset = ["hex", "curse", "shadowball", "embargo"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Hope is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -5,6 +5,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Morning already. The bedroll here is better than my old tower."
 response = "Wait until you try the wool from the high pasture sheep."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I saw your lantern still burning past midnight."
 response = "Could not put down the patrol report. Quiet night at least."
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I tried to latch the door without a sound. Did it wake you?"
 response = "No, I was already up reading about Cobblemon sleep cycles."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Any advice on where to place a bed for good luck?"
 response = "Keep the headboard away from the west window. Old builders rule."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Nothing beats stretching on the porch at first light."
 response = "Agreed. Then a quick lap around the market before the crowd."
+source_emote = "hi"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Last night was freezing. I layered every blanket I own."
 response = "Next time drop by. I have extra dyed wool from the seamstress."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Do you hear that creak above the rafters every dawn?"
 response = "Yes, its just the old beam warming up. Harmless."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I leave my shutters open to watch the skylands drift at night."
 response = "Same. The floating islands glow faintly after moonrise."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "You are always up before the bell. What is your secret?"
 response = "Cold water from the well and a short meditation on the hill."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Someone said I talk in my sleep. Did you ever hear?"
 response = "Only once. You were mumbling about a missing parsnip."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The innkeepers hinges never squeak. Must be secret grease."
 response = "Actually its just rendered fat mixed with crushed glowstone."
+source_emote = "clap"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I started brewing chamomile before bed. Game changer."
 response = "Try adding a single mint leaf. Sweetens the night air too."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "A dim lantern by the door makes returning home feel safer."
 response = "Especially after a dusk patrol. I keep mine on the lowest wick."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I memorized every squeaky floorboard between our rooms."
 response = "Impressive. I still hit the third plank every single night."
+source_emote = "hi"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "First task after waking is always checking the water buckets."
 response = "Wise. Mine is feeding the small creatures in the research pen."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Do you prefer a firm pillow or a soft one?"
 response = "Firm. Stuffed with dried ferns. What about you?"
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -149,6 +181,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Taking the late watch means getting home when the moon is highest."
 response = "Worth it. The town is peaceful under that silver glow."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -158,6 +192,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I found a candle stub still warm by your door this morning."
 response = "Midnight reading about skyland mineral veins. Lost track of time."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -167,6 +203,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Your home always smells like pine and old books."
 response = "A trick from an elven friend. Hang a small sachet by the door."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Some mornings I just sit on the bed and listen to the town wake."
 response = "The baker's oven lid is the first sound. Then the well pulley."
+source_emote = "hi"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Nothing beats taking off boots after a long patrol shift."
 response = "I keep a second pair by the hearth just for indoors."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The north wind finds every gap in my doorframe."
 response = "Stuff it with dried moss. Works until the carpenter arrives."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I need exactly seven bells of sleep to function."
 response = "Six for me, but I nap for twenty minutes after lunch."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Good morning. Your window box flowers are thriving."
 response = "Thanks. They catch the sunrise before the rooftop shadow moves."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I carved a small hook by the door for my house key."
 response = "Smart. I keep losing mine inside my own boot."
+source_emote = "shrug"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The town needs a rooster. I might just crow at dawn myself."
 response = "Please dont. The bats would riot."
+source_emote = "clap"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "How is your floor warm before the sun is even up?"
 response = "Small thermal stone beneath the floorboards. Gift from a wizard."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Teach me how you leave your house without a single sound."
 response = "Lift the latch, push slow, step with your heel first."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I raided my own pantry at midnight. Berry pie was worth it."
 response = "Guilty too. Cold mushroom stew tastes better under starlight."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I always glance at your chimney before turning in."
 response = "And I check your window. Good neighbors look out for each other."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "A real bed beats any bedroll on the road."
 response = "True, but I still miss the sound of crickets through canvas."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Morning light through my window shows every dust mote dancing."
 response = "Means its time to sweep. Or admire it for five more minutes."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I oiled the gate latch so late returns disturb no one."
 response = "Thank you. I did the same for the well crank last week."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Dawn patrol is easier when you live right by the east gate."
 response = "Agreed. Walk out the door and you are already on duty."
+source_emote = "lookout"
+target_emote = "hands_in_back"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I have too many blankets. Take one for the cold snap."
 response = "Appreciated. I will return it washed before the next full moon."
+source_emote = "wave"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "These timber homes settle so much quieter than stone keeps."
 response = "Yes, but listen during a windstorm. The beams sing."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -329,6 +401,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "The mist off the river creeps right up to my door at dawn."
 response = "Makes the whole street look like a skyland island floating low."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -338,6 +412,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I wove a door mat from old rope. Keeps the mud outside."
 response = "Looks sturdy. I use a flat stone I found near the quarry."
+source_emote = "proud"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -347,6 +423,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I crack my window at night for the breeze. Ever risky?"
 response = "Safe in this quarter. Patrols pass every half bell."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "First thing I say every morning is thank the sun."
 response = "I say good morning to the cobblestone. Silly, I know."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "My bed catches a moonbeam around the second bell past dusk."
 response = "Lucky. Mine only gets it during the solstice."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I clean out the hearth ash every morning before breakfast."
 response = "Same. Good ash for the garden soil too."
+source_emote = "wave"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "A sturdy peg by the door holds my patrol cloak perfectly."
 response = "Mine too. Wet wool dries faster near the chimney corner."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I dreamed I was walking on the rooftops last night."
 response = "I have done it awake. The view of the skylands is unmatched."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Your east window must get the best sunrise colors."
 response = "Orange and pink today. Looked like candy."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Do snoring neighbors ever keep you awake?"
 response = "Only when it echoes off the shared chimney. Otherwise no."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -419,6 +511,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I painted a small welcome rune on my doorstep."
 response = "Saw it. Subtle. I just use a chalked smiley moon."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -428,6 +522,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Returning home after a double patrol shift feels divine."
 response = "The creak of your own door is the sweetest music."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -437,6 +533,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "First cup of water at dawn tastes better than any potion."
 response = "Ha. Dont let the alchemist hear you say that."
+source_emote = "wave"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "Every time I close my door at night I feel the town breathe easy."
 response = "That is home. Four walls, a roof, and a quiet latch."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0

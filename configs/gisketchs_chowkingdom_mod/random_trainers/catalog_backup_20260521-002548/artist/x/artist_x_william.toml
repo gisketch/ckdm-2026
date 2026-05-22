@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "artist_x_william"
+name = "Artist William"
+title = "Artist"
+gender = "any"
+archetype = "artist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "artist/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 57
+maxLevel = 60
+team = [
+  { species = "cobblemon:smeargle", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = ["ominouswind", "ancientpower", "silverwind", "batonpass"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mr_mime", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "lightscreen", "reflect", "mimic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rockthrow", "flail", "suckerpunch", "mimic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Artist William is ready for a battle.", "You and I! Let us create a scene! A fantastic tableau of battle!", "That battle will surely become a stupendous masterpiece painting! I shall title it... “My Pokémon Is Fight”!", "I have trained this team for the road. Challenge me if you are ready."]

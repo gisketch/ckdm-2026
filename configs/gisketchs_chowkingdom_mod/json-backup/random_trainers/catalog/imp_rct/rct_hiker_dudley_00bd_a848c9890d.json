@@ -1,0 +1,71 @@
+{
+  "id": "rct_hiker_dudley_00bd",
+  "name": "Hiker Dudley",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:lairon",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "magnitude",
+        "metalclaw",
+        "irondefense",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ferroseed",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "ironbarbs",
+      "moveset": [
+        "magnitude",
+        "spikes",
+        "bulletseed",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dwebble",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "sturdy",
+      "moveset": [
+        "magnitude",
+        "rockslide",
+        "bugbite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

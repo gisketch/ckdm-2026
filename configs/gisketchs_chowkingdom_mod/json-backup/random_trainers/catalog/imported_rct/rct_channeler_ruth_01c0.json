@@ -1,0 +1,33 @@
+{
+  "id": "rct_channeler_ruth_01c0",
+  "name": "Channeler Ruth",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "doublade",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sharpness",
+      "moveset": [
+        "retaliate",
+        "slash",
+        "irondefense",
+        "nightslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

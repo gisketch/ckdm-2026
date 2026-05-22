@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lady_f_melissa"
+name = "Lady Melissa"
+title = "Lady"
+gender = "female"
+archetype = "lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lady/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:hoppip", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["stunspore", "sunnyday", "gigadrain", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cherrim", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["solarbeam", "sunnyday", "leechseed", "magicalleaf"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellossom", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["petaldance", "attract", "stunspore", "magicalleaf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’d like to begin now. Are you quite prepared?", "You... You must have one fantastic teacher to be so good.", "Lady Melissa is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

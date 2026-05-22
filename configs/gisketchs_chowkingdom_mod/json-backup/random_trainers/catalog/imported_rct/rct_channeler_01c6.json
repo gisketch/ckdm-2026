@@ -1,0 +1,33 @@
+{
+  "id": "rct_channeler_01c6",
+  "name": "Channeler",
+  "title": "Channeler 01c6",
+  "gender": "any",
+  "archetype": "channeler_01c6",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "haunter",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "curse",
+        "nightshade",
+        "confuseray",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

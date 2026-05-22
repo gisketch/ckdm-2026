@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0390_firebreather_ray",
+  "name": "Firebreather Ray",
+  "title": "Firebreather",
+  "gender": "any",
+  "archetype": "firebreather",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "firebreather/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:vulpix",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If there\u2019s light, a cave isn\u2019t scary. If you\u2019re strong, Pok\u00e9mon aren\u2019t scary.",
+    "It\u2019s my Pok\u00e9mon\u2019s fire that lights up this cave."
+  ]
+}

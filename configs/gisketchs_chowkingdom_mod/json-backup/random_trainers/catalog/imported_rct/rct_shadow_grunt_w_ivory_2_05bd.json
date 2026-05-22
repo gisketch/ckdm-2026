@@ -1,0 +1,49 @@
+{
+  "id": "rct_shadow_grunt_w_ivory_2_05bd",
+  "name": "Shadow Grunt",
+  "title": "Shadow Grunt W Ivory",
+  "gender": "any",
+  "archetype": "shadow_grunt_w_ivory",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "meowstic",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "prankster",
+      "moveset": [
+        "psyshock",
+        "helpinghand",
+        "reflect",
+        "psychicterrain"
+      ],
+      "heldItem": "terrain_extender",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "oranguru",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "innerfocus",
+      "moveset": [
+        "zenheadbutt",
+        "instruct",
+        "lightscreen",
+        "psychicterrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

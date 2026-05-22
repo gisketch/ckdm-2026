@@ -1,0 +1,49 @@
+{
+  "id": "rct_biker_malik_00c4",
+  "name": "Biker Malik",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "seviper",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "shedskin",
+      "moveset": [
+        "smokescreen",
+        "sludgebomb",
+        "flamethrower",
+        "gigadrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "poisontouch",
+      "moveset": [
+        "screech",
+        "gigadrain",
+        "sludgebomb",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

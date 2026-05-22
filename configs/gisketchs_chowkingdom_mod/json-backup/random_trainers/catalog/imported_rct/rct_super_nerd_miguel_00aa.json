@@ -1,0 +1,83 @@
+{
+  "id": "rct_super_nerd_miguel_00aa",
+  "name": "Super Nerd Miguel",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 90,
+  "team": [
+    {
+      "species": "thwackey",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "grassysurge",
+      "moveset": [
+        "fakeout",
+        "razorleaf",
+        "knockoff",
+        "uturn"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "voltorb",
+      "level": 88,
+      "gender": "GENDERLESS",
+      "nature": "naive",
+      "ability": "reckless",
+      "moveset": [
+        "magicalleaf",
+        "selfdestruct",
+        "voltswitch",
+        "hiddenpower"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "bibarel",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "simple",
+      "moveset": [
+        "headbutt",
+        "aquajet",
+        "curse",
+        "rocksmash"
+      ],
+      "heldItem": "grassy_seed",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sableye",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "prankster",
+      "moveset": [
+        "willowisp",
+        "recover",
+        "protect",
+        "foulplay"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

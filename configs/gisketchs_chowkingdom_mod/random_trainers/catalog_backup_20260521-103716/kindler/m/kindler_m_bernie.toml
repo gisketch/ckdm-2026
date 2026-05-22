@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "kindler_m_bernie"
+name = "Kindler Bernie"
+title = "Kindler"
+gender = "male"
+archetype = "kindler"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "kindler/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:magcargo", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Kindler Bernie is ready for a battle."]

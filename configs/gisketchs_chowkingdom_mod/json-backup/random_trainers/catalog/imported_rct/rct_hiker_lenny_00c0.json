@@ -1,0 +1,81 @@
+{
+  "id": "rct_hiker_lenny_00c0",
+  "name": "Hiker Lenny",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "anorith",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "battlearmor",
+      "moveset": [
+        "metalclaw",
+        "ancientpower",
+        "bugbite",
+        "brine"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lileep",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "suctioncups",
+      "moveset": [
+        "ancientpower",
+        "brine",
+        "gigadrain",
+        "gastroacid"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cranidos",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "moldbreaker",
+      "moveset": [
+        "takedown",
+        "scaryface",
+        "assurance",
+        "chipaway"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shieldon",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "takedown",
+        "irondefense",
+        "swagger",
+        "ancientpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

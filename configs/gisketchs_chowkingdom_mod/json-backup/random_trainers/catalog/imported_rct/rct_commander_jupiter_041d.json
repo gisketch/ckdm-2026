@@ -1,0 +1,49 @@
+{
+  "id": "rct_commander_jupiter_041d",
+  "name": "Commander Jupiter",
+  "title": "Commander",
+  "gender": "any",
+  "archetype": "commander",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "supersonic",
+        "meanlook",
+        "poisonfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skuntank",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "aftermath",
+      "moveset": [
+        "flamethrower",
+        "poisongas",
+        "acidspray",
+        "snarl"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

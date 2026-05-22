@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "dragon_tamer_m_darien"
+name = "Dragon Tamer Darien"
+title = "Dragon Tamer"
+gender = "male"
+archetype = "dragon_tamer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "dragon_tamer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:gyarados", level = 60, gender = "FEMALE", nature = "impish", ability = "intimidate", moveset = ["dragondance", "waterfall", "icefang", "crunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Pokémon and I seek only victory!", "I failed my Pokémon! I wasn’t prepared enough to lead it! I don’t ever want my precious Pokémon to be humiliated again!", "I have trained this team for the road. Challenge me if you are ready."]

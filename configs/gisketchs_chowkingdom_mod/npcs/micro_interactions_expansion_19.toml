@@ -5,6 +5,8 @@ source_tags = ["store_explorer"]
 target_tags = ["mentor"]
 line = "I charted the upper skyland paths yesterday. Fewer phantoms than last moon cycle."
 response = "Good. I will tell the aspiring rangers to follow your marked trails."
+source_emote = "wave"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["mentor"]
 line = "My lodestone compass cracked near the floating basalt pillars."
 response = "Bring it to the explorer shop. They can realign the needle."
+source_emote = "proud"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["store_explorer"]
 target_tags = ["wizard"]
 line = "This map fragment shows a ruin above the cloud layer. Any arcane readings?"
 response = "Faint warding magic still lingers. Proceed with feather-touch caution."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["warrior"]
 line = "We run the eastern floating islets at dawn. Want to join the sweep?"
 response = "I will sharpen my blade tonight. Meet at the rope bridge."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["store_explorer"]
 target_tags = ["bard"]
 line = "Our squid-ink stock for mapmaking ran low. Any portside contacts?"
 response = "Minstrels trade ink for tall tales. I will sing for a fresh vial."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["wind_wizard"]
 line = "A vortex spins near the shattered mesa. Can you calm the currents?"
 response = "I will weave a gentle spiral. Keep your gliders grounded until noon."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["store_explorer"]
 target_tags = ["archer"]
 line = "My compass wobbles above the magnetic peak. Do your arrows stay true?"
 response = "Fletched with sky-feathers, they ignore the flux. I will scout ahead."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["town"]
 line = "I need marker stakes to flag safe bivouacs across the skylands."
 response = "The store has a new bundle. Luminous stakes for nighttime return treks."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["store_explorer"]
 target_tags = ["frost_wizard"]
 line = "A fog pocket froze solid over the tundra shelf. Hidden path or trap?"
 response = "I sense old ice magic there. Walk only where the snow sparkles."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["rogue"]
 line = "My grapple slipped on the smooth obelisk stones. Any grip tricks?"
 response = "Chalk your palm hooks with crushed nether quartz. I have a spare pouch."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["store_explorer"]
 target_tags = ["researcher"]
 line = "Traders whisper of a floating garden with glowing fruit. Have you heard?"
 response = "Bubblegum mentioned phosphor-lichen symbiosis. I want samples to study."
+source_emote = "head_scratches"
+target_emote = "head_scratches"
 weight = 1.0
 
 [[exchanges]]
@@ -104,6 +126,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["nocturnal"]
 line = "We need a moon-sighted scout for the dusk patrol. Interested?"
 response = "I see every ledge in the dark. Count me in after the last song."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -113,6 +137,8 @@ source_tags = ["store_explorer"]
 target_tags = ["forcemaster"]
 line = "Found an old spyglass in the gully. The lens resists all polish."
 response = "Let me press it with focused force. The grime might be cursed residue."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -122,6 +148,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["town"]
 line = "The last supply drop missed the west cairn. Rations are running thin."
 response = "I will send a bird to the outpost. Expect a bundle by next bell."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -131,6 +159,8 @@ source_tags = ["store_explorer"]
 target_tags = ["water_wizard"]
 line = "I found a spring seeping through floating rock. Can you confirm purity?"
 response = "Clear and sweet, fed by sky-rain alone. I marked it with a blue rune."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -140,6 +170,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["war_archer"]
 line = "We need strong silk for emergency chutes. Spider cavern nearby?"
 response = "The phantom weavers' nest is just east. I will cover your silk run."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -149,17 +181,21 @@ source_tags = ["store_explorer"]
 target_tags = ["earth_wizard"]
 line = "Our outpost wall needs earthen buttresses. Can you raise a rampart?"
 response = "Stone bends to my stance. Give me an hour and the wall will be whole."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_19_018"
 topic = "cave_map_scribble"
 source_tags = ["skyland_survival"]
+required_spawned_ids = ["finn"]
 target_tags = ["adventure_time"]
 line = "I sketched a dripping cave mouth on my map. Finn, does it look solid?"
 response = "Looks like a dungeon entrance! Let me punch the wall to check."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_19_019"
 topic = "signal_flare_cost"
@@ -167,6 +203,8 @@ source_tags = ["store_explorer"]
 target_tags = ["fire_wizard"]
 line = "Can you craft a bright flare that burns without driftwood?"
 response = "A fist-sized fire bead will do. I will shape one at your forge."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -176,6 +214,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["tundra_archer"]
 line = "These sky-vines snap under full pack weight. Any hardier strand you know?"
 response = "Frost-vine from the tundra edge holds fast. I will braid a coil for you."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -185,6 +225,8 @@ source_tags = ["store_explorer"]
 target_tags = ["store_cosmetics"]
 line = "Our new bandanas need the outpost compass stamp. Can you press a batch?"
 response = "Bring the bolt. I will emboss each one with the needle-point rose."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -194,6 +236,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["arcane_wizard"]
 line = "A keystone on the high bridge cracked. The glyph pattern is chaos."
 response = "Ancient script inversion. I will recarve the ward before the arch falls."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -203,6 +247,8 @@ source_tags = ["store_explorer"]
 target_tags = ["town"]
 line = "Weather glass shipment arrived. Predicts squalls over the skylands."
 response = "Mount one by the fountain. The whole town can glance before travel."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -212,6 +258,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["bounty_hunter"]
 line = "My med wrap is spent. Do you have spider-silk thread in your kit?"
 response = "Always. Silk beats linen. Hold still and I will stitch that cut."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -221,6 +269,8 @@ source_tags = ["store_explorer"]
 target_tags = ["wizard"]
 line = "An echo stone hums where no creature lives. Want to map the sound?"
 response = "Resonance magic left by sky-folk. I will track its faint pulse."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -230,6 +280,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["huntress_wizard"]
 line = "Griffins nest on the southern spire. Do you know a safe bypass route?"
 response = "Climb the mossy gulch instead. They ignore that side unless provoked."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -239,6 +291,8 @@ source_tags = ["store_explorer"]
 target_tags = ["rogue"]
 line = "Our trail torches gutter in damp air. Any sticky resin from your stash?"
 response = "Tree-gum amber from the canopy. Soak the rags and they will burn long."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -248,6 +302,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["witcher"]
 line = "We need iron pitons to anchor a rope ladder. Got any monster-grade steel?"
 response = "Drowner brain on the blade, but the steel is clean. Take six spikes."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -257,6 +313,8 @@ source_tags = ["store_explorer"]
 target_tags = ["store_pokemon"]
 line = "Can we place a map restock chest near your pokemon shop?"
 response = "Yes, near the berry crates. Trainers will see the sky routes too."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -266,6 +324,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["priest"]
 line = "Gale-feathers for scribe quills. Will you bless them for steady hand?"
 response = "Light upon the vane. May every map draw mercy for the lost traveler."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -275,6 +335,8 @@ source_tags = ["store_explorer"]
 target_tags = ["monster_hunter"]
 line = "Stalkers ambush near the crystal arch. Interested in a contract?"
 response = "I will set bait at twilight. Mark it on the public threat board."
+source_emote = "head_scratches"
+target_emote = "threaten"
 weight = 1.0
 
 [[exchanges]]
@@ -284,6 +346,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["town"]
 line = "Our hemp cordage is frayed. Send word to the seed shop for fresh stock."
 response = "The seed merchant has mountain flax. I will carry a bundle over."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -293,6 +357,8 @@ source_tags = ["store_explorer"]
 target_tags = ["zelda"]
 line = "Our beacon atop the outpost needs a light-magic charge. Can you help?"
 response = "I still recall the sacred pulse. Let my hand renew its shine."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -302,6 +368,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["forcemaster"]
 line = "Supply crates are too heavy for the rope bridge. Can you lift them?"
 response = "I will glide them across with focused force. Clear the landing zone."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -311,6 +379,8 @@ source_tags = ["store_explorer"]
 target_tags = ["nocturnal"]
 line = "Our chart-reading lamps flicker. Could you sing a steady glow back?"
 response = "Crystal resonance in B flat. Hum with me and the glass will hold."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -320,6 +390,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["bard"]
 line = "A silent ruin door only opens for a song. Will you try a melody?"
 response = "I know four ancient chords. Let the wind carry the trial."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -329,17 +401,21 @@ source_tags = ["store_explorer"]
 target_tags = ["link"]
 line = "Our highest tower needs a lightning rod. Can you climb the spire?"
 response = "My climbing gear is ready. Hand me the rod and I will secure it."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_19_038"
 topic = "hailstorm_shelter_plea"
 source_tags = ["skyland_survival"]
+required_spawned_ids = ["elsa"]
 target_tags = ["elsa"]
 line = "Hail is shredding our canvas tents. Elsa, can you freeze a windbreak?"
 response = "A curved ice shield will hold. Keep everyone behind it until it passes."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_19_039"
 topic = "compass_rose_gift"
@@ -347,6 +423,8 @@ source_tags = ["store_explorer"]
 target_tags = ["shoumai"]
 line = "Engraved compass rose for your shop. Clients asked for a trail trinket."
 response = "Beautiful on the accessory shelf. I will polish each one by hand."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -356,6 +434,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["link"]
 line = "A glider snagged on the bridge cable. Can you cut it without fraying?"
 response = "One clean slice with my broadsword. The cable will hold fine."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -365,6 +445,8 @@ source_tags = ["store_explorer"]
 target_tags = ["mentor"]
 line = "New amber fog-lanterns cut through mist. Take a dozen for class hikes."
 response = "Perfect for the novices. I will drill them on fog-safety protocols."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -374,6 +456,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["dragon_memory"]
 line = "A sky drake circled the peak twice. Do you recognize its crest shape?"
 response = "That crest belonged to the ancients. An old soul watching the realm."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["store_explorer"]
 target_tags = ["water_wizard"]
 line = "We need a clean water refill station by the map stall. Can you bless it?"
 response = "A gentle current will flow. Every canteen will fill cool and pure."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["witcher"]
 line = "New scouts get dizzy on the high trails. Do you know a remedy herb?"
 response = "White myrtle steeped in hot water. Chew the leaf if breathing tightens."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["store_explorer"]
 target_tags = ["paladin"]
 line = "A sunstone compass works even in the deep shadows. Would you test it?"
 response = "Sacred light endures. I will carry it through the catacombs and report."
+source_emote = "head_scratches"
+target_emote = "hands_in_back"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["skyland_survival"]
 target_tags = ["earth_wizard"]
 line = "Floating debris broke off the old sky-mine. Dangerous rocks drift east."
 response = "I will ground the shards slowly. Do not climb until the dust settles."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -419,17 +511,21 @@ source_tags = ["store_explorer"]
 target_tags = ["cobblemon_biology"]
 line = "Can we waterproof map canisters with shed scales from your research?"
 response = "Scales from the water-types seal best. I will donate a jar of samples."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_19_048"
 topic = "high_path_snare_removal"
 source_tags = ["skyland_survival"]
+required_spawned_ids = ["aloy"]
 target_tags = ["bounty_hunter"]
 line = "Old wire snares litter the high path. Aloy, can you disarm them?"
 response = "Tripwire awareness lesson for free. Watch my blade and remember."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_19_049"
 topic = "star_chart_calibration"
@@ -437,13 +533,18 @@ source_tags = ["store_explorer"]
 target_tags = ["arcane_wizard"]
 line = "Our star charts drift out of true north. Can you recalibrate the dial?"
 response = "By the nine fixed stars, I will reset the bronze meridian ring."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_19_050"
 topic = "trail_head_banner_raise"
 source_tags = ["skyland_survival"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["tarnished"]
 line = "We need someone to raise the new trail-head banner. Tarnished, will you?"
 response = "A furl of hope. I will plant the pole deep so it greets every dawn."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0

@@ -1,0 +1,81 @@
+{
+  "id": "rct_leader_mirskle_05aa",
+  "name": "Leader Mirskle",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "floette",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "flowerveil",
+      "moveset": [
+        "fairywind",
+        "razorleaf",
+        "wish",
+        "grassyterrain"
+      ],
+      "heldItem": "grass_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gloom",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "chlorophyll",
+      "moveset": [
+        "acid",
+        "megadrain",
+        "ingrain",
+        "sleeppowder"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weedle",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bugbite",
+        "electroweb",
+        "poisonsting",
+        "stringshot"
+      ],
+      "heldItem": "silver_powder",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "comfey",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "flowerveil",
+      "moveset": [
+        "magicalleaf",
+        "helpinghand",
+        "flowershield",
+        "floralhealing"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_tessy_05b1",
+  "name": "Leader Tessy",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "toxapex",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "toxicspikes",
+        "knockoff",
+        "haze",
+        "recover"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "armaldo",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "aquatail",
+        "xscissor",
+        "stompingtantrum",
+        "accelerock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kingdra",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "snipeshot",
+        "dragonpulse",
+        "icebeam",
+        "flashcannon"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seismitoad",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "liquidation",
+        "earthquake",
+        "drainpunch",
+        "icepunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gyarados",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "waterfall",
+        "dragondance",
+        "earthquake",
+        "icefang"
+      ],
+      "heldItem": "mega_showdown:gyaradosite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "waterfall",
+        "smartstrike",
+        "poisonjab",
+        "drillrun"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

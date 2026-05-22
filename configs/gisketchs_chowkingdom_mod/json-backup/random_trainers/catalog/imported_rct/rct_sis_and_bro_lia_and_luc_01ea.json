@@ -1,0 +1,49 @@
+{
+  "id": "rct_sis_and_bro_lia_and_luc_01ea",
+  "name": "Sis And Bro Lia & Luc",
+  "title": "Sis And Bro Lia And",
+  "gender": "any",
+  "archetype": "sis_and_bro_lia_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "vaporeon",
+      "level": 64,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "waterabsorb",
+      "moveset": [
+        "haze",
+        "muddywater",
+        "lastresort",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mantine",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "airslash",
+        "aquaring",
+        "bounce",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

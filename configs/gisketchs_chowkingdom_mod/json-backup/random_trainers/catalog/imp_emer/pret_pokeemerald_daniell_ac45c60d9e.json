@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeemerald_danielle",
+  "name": "Battle Girl Danielle",
+  "title": "Battle Girl",
+  "gender": "female",
+  "archetype": "battle_girl",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "battle_girl/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.95,
+  "bustStyle": "standard",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:meditite",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "bide",
+        "detect",
+        "confusion",
+        "firepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Battle Girl Danielle is ready for a battle."
+  ]
+}

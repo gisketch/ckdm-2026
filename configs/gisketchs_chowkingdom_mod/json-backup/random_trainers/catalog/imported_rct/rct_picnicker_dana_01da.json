@@ -1,0 +1,65 @@
+{
+  "id": "rct_picnicker_dana_01da",
+  "name": "Picnicker Dana",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "zorua",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "illusion",
+      "moveset": [
+        "scaryface",
+        "taunt",
+        "foulplay",
+        "torment"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clobbopus",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "limber",
+      "moveset": [
+        "lowsweep",
+        "bulkup",
+        "submission",
+        "taunt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "zenheadbutt",
+        "aquatail",
+        "soak",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

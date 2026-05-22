@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "picnicker_f_siena"
+name = "Picnicker Siena"
+title = "Picnicker"
+gender = "female"
+archetype = "picnicker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "picnicker/female"
+tier = "low"
+spawnable = true
+height = 0.95
+weight = 0.88
+bustStyle = "standard"
+minLevel = 12
+maxLevel = 12
+team = [
+  { species = "cobblemon:shinx", level = 12, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["tackle", "leer", "thundershock", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pachirisu", level = 12, gender = "FEMALE", nature = "quirky", ability = "pickup", moveset = ["growl", "babydolleyes", "quickattack", "charm"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What kinds of Pokémon live around here, I wonder?", "I know all sorts of things about Pokémon! Let’s see... There are males and females, and some aren’t either!", "I have trained this team for the road. Challenge me if you are ready."]

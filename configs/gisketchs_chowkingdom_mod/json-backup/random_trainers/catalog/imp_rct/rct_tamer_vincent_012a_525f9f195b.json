@@ -1,0 +1,56 @@
+{
+  "id": "rct_tamer_vincent_012a",
+  "name": "Tamer Vincent",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tamer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "technician",
+      "moveset": [
+        "assurance",
+        "captivate",
+        "nightslash",
+        "feint"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "cloudnine",
+      "moveset": [
+        "psychup",
+        "nastyplot",
+        "hydropump",
+        "wonderroom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

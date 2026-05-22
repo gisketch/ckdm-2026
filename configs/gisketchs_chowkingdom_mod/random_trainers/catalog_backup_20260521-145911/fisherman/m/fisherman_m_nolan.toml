@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_nolan"
+name = "Fisherman Nolan"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 63
+maxLevel = 64
+team = [
+  { species = "cobblemon:cramorant", level = 64, gender = "MALE", nature = "hardy", ability = "gulpmissile", moveset = ["drillpeck", "amnesia", "surf", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kingler", level = 63, gender = "MALE", nature = "rash", ability = "battlearmor", moveset = ["slam", "brine", "crabhammer", "flail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Nolan is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

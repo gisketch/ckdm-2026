@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_mitch"
+name = "Bird Keeper Mitch"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 55
+maxLevel = 56
+team = [
+  { species = "cobblemon:blaziken", level = 56, gender = "FEMALE", nature = "sassy", ability = "reckless", moveset = ["triplearrows", "bravebird", "skyuppercut", "flareblitz"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:braviary", level = 56, gender = "MALE", nature = "modest", ability = "sheerforce", moveset = ["crushclaw", "skydrop", "whirlwind", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:altaria", level = 55, gender = "FEMALE", nature = "careful", ability = "naturalcure", moveset = ["cottonguard", "dragonclaw", "perishsong", "moonblast"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dartrix", level = 55, gender = "FEMALE", nature = "mild", ability = "overgrow", moveset = ["leafblade", "featherdance", "bravebird", "nastyplot"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Mitch is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

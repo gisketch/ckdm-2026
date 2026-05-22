@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_skier_andrea",
+  "name": "Skier Female Andrea",
+  "title": "Skier Female",
+  "gender": "female",
+  "archetype": "skier_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "skier_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:snover",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "How do you expect to battle in this heavy snow?",
+    "It\u2019s so cold here, but here you are, so full of energy. I guess you kids are made tougher than people my age."
+  ]
+}

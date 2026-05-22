@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "waitress_f_kati"
+name = "Waitress Kati"
+title = "Waitress"
+gender = "female"
+archetype = "waitress"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "waitress/female"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 0.93
+bustStyle = "standard"
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:clefairy", level = 22, gender = "FEMALE", nature = "calm", ability = "cutecharm", moveset = ["sweetkiss", "charm", "growl", "metronome"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Welcome! This place is my pride and joy!", "After a match, you should have some Moomoo Milk to quench your thirst! Just chug it right down! Glug glug!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "guitarist_m_lonnie"
+name = "Guitarist Lonnie"
+title = "Guitarist"
+gender = "male"
+archetype = "guitarist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "guitarist/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 47
+maxLevel = 47
+team = [
+  { species = "cobblemon:raichu", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "slam", "thunderwave", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Whether you’re a Trainer or a Guitarist, it takes dedication to improve your mad skills!", "The way you battle, I can feel the very heart of rock and roll. Tell me, are you maybe a fan of rocking out?", "I have trained this team for the road. Challenge me if you are ready."]

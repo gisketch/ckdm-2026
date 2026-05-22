@@ -16,11 +16,11 @@ hurt_messages = ["Careful, amico. My patience has limits.", "That was not a wise
 wake_messages = ["I was resting, not unaware.", "Speak softly. Night keeps many ears.", "You wake me for a reason, yes?"]
 npc_interaction_messages = ["Asking {other} which rooftops overlook the square.", "Trading quiet rumors with {other}.", "Teaching {other} how to listen before moving."]
 work_blocks = [
+  { id = "minecraft:cartography_table", count = 1, display_name = "route planning table" },
   { id = "minecraft:fletching_table", count = 1, display_name = "fletching table" },
   { id = "minecraft:grindstone", count = 1, display_name = "grindstone" },
-  { id = "minecraft:barrel", count = 2, display_name = "hidden supply barrels" },
-  { id = "minecraft:target", count = 1, display_name = "training target" },
-  { id = "#minecraft:beds", count = 1, display_name = "bed" },
+  { id = "cluttered:antique_map", count = 1, display_name = "antique city map" },
+  { id = "supplementaries:rope", count = 1, display_name = "escape rope" },
 ]
 
 [boss]
@@ -166,4 +166,6 @@ pool = [
   { id = "ezio_fetch_string", category = "fetch", event_desc = "Bring {goal} String", quest_text = "Bring string for lines, bindings, and better plans.", pass_id = "cozy", xp = 50, chowcoins = 25, fetch_item = "minecraft:string", fetch_count = 12, weight = 12 },
   { id = "ezio_food_bacon_sandwich", category = "food_chain", event = "farmersdelight:food_created", event_desc = "Prepare {goal} Bacon Sandwich And Bring It Back", quest_text = "Prepare a bacon sandwich after I ask; a long watch needs real food.", pass_id = "cozy", xp = 70, chowcoins = 45, goal = 1, fetch_item = "farmersdelight:bacon_sandwich", fetch_count = 1, filters = { item = "farmersdelight:bacon_sandwich" }, weight = 10 },
   { id = "ezio_quiz_creed_discipline_and_stealth_judgment", category = "quiz", event_desc = "Answer NPC Quiz", quest_text = "Answer Ezio's question about patience, rooftops, and restraint.", pass_id = "cozy", xp = 45, chowcoins = 25, quiz_topic = "creed discipline and stealth judgment", weight = 10 },
+  { id = "ezio_pokemon_battle", category = "pokemon_battle", event_desc = "Win A Pokemon Battle Against Ezio", quest_text = "Ezio has been training a personal Pokemon team and wants you to test it at the stadium.", pass_id = "combat", xp = 100, chowcoins = 60, goal = 1, weight = 8, offer_messages = ["I have been training my own Pokemon team, {player}. Meet me at the stadium and help me test them."], accepted_messages = ["Good. We will battle clean at level 50 and see what my team has learned."] },
+  { id = "ezio_sparring", category = "sparring", event_desc = "Win Controlled Sparring Against Ezio", quest_text = "Ezio wants controlled class sparring with a heavily restrained moveset.", pass_id = "combat", xp = 90, chowcoins = 50, goal = 1, weight = 7, offer_messages = ["I can hold back and spar properly, {player}. This is practice, not the class unlock duel."], accepted_messages = ["Controlled sparring only. I will keep the pressure low and watch your form."] },
 ]

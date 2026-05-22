@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_dummy_790",
+  "name": "Idol Angelica",
+  "title": "Idol",
+  "gender": "any",
+  "archetype": "idol",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "idol/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.96,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Idol Angelica is ready for a battle."
+  ]
+}

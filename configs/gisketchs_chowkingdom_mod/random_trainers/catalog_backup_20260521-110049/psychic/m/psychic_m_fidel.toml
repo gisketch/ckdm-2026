@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_fidel"
+name = "Psychic Fidel"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold;pret_pokecrystal"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:xatu", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["futuresight", "psychoshift", "confuseray", "mefirst"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I can see it... Everything there is to see about you...", "Strength in conviction... You’re strong because you believe in your Pokémon.", "Psychic Fidel is ready for a battle."]

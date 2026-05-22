@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_cyndy"
+name = "Beauty Cyndy"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:purugly", level = 60, gender = "MALE", nature = "jolly", ability = "owntempo", moveset = ["aerialace", "bodyslam", "attract", "honeclaws"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let me demonstrate my technique. It’s how this grown-up battles.", "You’re so much more of a Trainer than you look!", "Beauty Cyndy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,33 @@
+{
+  "id": "rct_lady_melissa_0543",
+  "name": "Lady Melissa",
+  "title": "Lady",
+  "gender": "any",
+  "archetype": "lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 60,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "lopunny",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "klutz",
+      "moveset": [
+        "headbutt",
+        "entrainment",
+        "bounce",
+        "highjumpkick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

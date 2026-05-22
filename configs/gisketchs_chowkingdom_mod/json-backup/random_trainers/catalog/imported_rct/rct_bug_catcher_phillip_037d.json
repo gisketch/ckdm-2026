@@ -1,0 +1,59 @@
+{
+  "id": "rct_bug_catcher_phillip_037d",
+  "name": "Bug Catcher Phillip",
+  "title": "Bug Catcher",
+  "gender": "any",
+  "archetype": "bug_catcher",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 9,
+  "maxLevel": 13,
+  "team": [
+    {
+      "species": "wurmple",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "shielddust",
+      "moveset": [
+        "tackle",
+        "stringshot",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cascoon",
+      "level": 11,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "shedskin",
+      "moveset": [
+        "harden"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dustox",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "shielddust",
+      "moveset": [
+        "gust",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "rct_black_belt_gregory_0347",
+  "name": "Black Belt Gregory",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 21,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:meditite",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "detect",
+        "feint",
+        "forcepalm",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machop",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "noguard",
+      "moveset": [
+        "leer",
+        "lowsweep",
+        "knockoff",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meditite",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "detect",
+        "feint",
+        "forcepalm",
+        "psybeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

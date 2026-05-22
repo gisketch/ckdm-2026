@@ -1,0 +1,113 @@
+{
+  "id": "rct_rocket_admin_ariana_0029",
+  "name": "Rocket Admin Ariana",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "ambipom",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "fakeout",
+        "armthrust",
+        "uturn",
+        "beatup"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weavile",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pressure",
+      "moveset": [
+        "tripleaxel",
+        "iceshard",
+        "lowkick",
+        "nightslash"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "victini",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "victorystar",
+      "moveset": [
+        "celebrate",
+        "searingshot",
+        "storedpower",
+        "energyball"
+      ],
+      "heldItem": "mega_showdown:normalium_z normal_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxapex",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "haze",
+        "scald",
+        "toxic",
+        "knockoff"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mawile",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hypercutter",
+      "moveset": [
+        "ironhead",
+        "playrough",
+        "suckerpunch",
+        "thunderpunch"
+      ],
+      "heldItem": "mega_showdown:mawilite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "xerneas",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "modest",
+      "ability": "fairyaura",
+      "moveset": [
+        "geomancy",
+        "drainingkiss",
+        "thunderbolt",
+        "moonblast"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

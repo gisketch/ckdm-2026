@@ -1,0 +1,49 @@
+{
+  "id": "rct_young_couple_gia_and_jes_02c2",
+  "name": "Young Couple Gia & Jes",
+  "title": "Young Couple Gia And",
+  "gender": "any",
+  "archetype": "young_couple_gia_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "nidorina",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonsting",
+        "furyswipes",
+        "bite",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorino",
+      "level": 30,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonsting",
+        "furyattack",
+        "hornattack",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

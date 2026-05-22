@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_sage_007_edmond",
+  "name": "Sage Edmond",
+  "title": "Sage",
+  "gender": "any",
+  "archetype": "sage",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "sage/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 3,
+  "maxLevel": 3,
+  "team": [
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellsprout",
+      "level": 3,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Sage Edmond is ready for a battle."
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "rct_black_belt_daisuke_0145",
+  "name": "Black Belt Daisuke",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "cobblemon:machoke",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "noguard",
+      "moveset": [
+        "bulkup",
+        "crosschop",
+        "scaryface",
+        "dynamicpunch"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:conkeldurr",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "sheerforce",
+      "moveset": [
+        "hammerarm",
+        "stoneedge",
+        "focuspunch",
+        "superpower"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:passimian",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "receiver",
+      "moveset": [
+        "closecombat",
+        "reversal",
+        "suckerpunch",
+        "courtchange"
+      ],
+      "heldItem": [
+        "black_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

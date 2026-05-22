@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_miles"
+name = "Black Belt Miles"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:machamp", level = 49, gender = "FEMALE", nature = "relaxed", ability = "noguard", moveset = ["lowsweep", "knockoff", "dualchop", "bulkup"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["My Pokémon knows karate! I’m warning you, it’s a tough one!", "I’ve made it this far in life using the karate I learned on the Internet!", "I have trained this team for the road. Challenge me if you are ready."]

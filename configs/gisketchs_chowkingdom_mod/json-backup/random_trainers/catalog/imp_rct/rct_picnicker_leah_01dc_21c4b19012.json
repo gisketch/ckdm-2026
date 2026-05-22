@@ -1,0 +1,56 @@
+{
+  "id": "rct_picnicker_leah_01dc",
+  "name": "Picnicker Leah",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:doduo",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "runaway",
+      "moveset": [
+        "pluck",
+        "doublehit",
+        "agility",
+        "uproar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "bubblebeam",
+        "mudshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

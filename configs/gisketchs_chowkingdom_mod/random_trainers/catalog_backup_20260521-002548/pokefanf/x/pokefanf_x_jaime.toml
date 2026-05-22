@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefanf_x_jaime"
+name = "Pokefanf Jaime"
+title = "Pokefanf"
+gender = "any"
+archetype = "pokefanf"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "pokefanf/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 16
+maxLevel = 16
+team = [
+  { species = "cobblemon:meowth", level = 16, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokefanf Jaime is ready for a battle."]

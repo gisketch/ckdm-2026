@@ -1,0 +1,72 @@
+{
+  "id": "rct_collector_eugene_0484",
+  "name": "Collector Eugene",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "collector/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "encore",
+        "growl",
+        "minimize"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clefairy",
+      "level": 20,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "growl",
+        "minimize",
+        "lifedew"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:clefairy",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "disarmingvoice",
+        "growl",
+        "minimize",
+        "lifedew"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

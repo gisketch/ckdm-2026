@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_x_wade"
+name = "Bug Catcher Wade"
+title = "Bug Catcher"
+gender = "any"
+archetype = "bug_catcher"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "bug_catcher/any"
+tier = "mid"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 36
+maxLevel = 52
+team = [
+  { species = "cobblemon:butterfree", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bugbite", "gust", "supersonic", "whirlwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:butterfree", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bugbuzz", "stunspore", "captivate", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:beedrill", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["endeavor", "focusenergy", "pinmissile", "bugbite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:butterfree", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["stunspore", "sleeppowder", "captivate", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Wade is ready for a battle.", "I caught a bunch of Pokémon. Let me battle with you!", "You can catch Pokémon even if you have six with you. If you catch one, it’ll go to your Box automatically."]

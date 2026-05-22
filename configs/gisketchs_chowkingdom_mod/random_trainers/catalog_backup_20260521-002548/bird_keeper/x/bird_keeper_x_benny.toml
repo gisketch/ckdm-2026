@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_benny"
+name = "Bird Keeper Benny"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 57
+maxLevel = 57
+team = [
+  { species = "cobblemon:empoleon", level = 57, gender = "FEMALE", nature = "naughty", ability = "torrent", moveset = ["whirlpool", "flashcannon", "mist", "drillpeck"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:fearow", level = 57, gender = "MALE", nature = "brave", ability = "technician", moveset = ["roost", "drillpeck", "drillrun", "bravebird"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Benny is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

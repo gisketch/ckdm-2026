@@ -1,0 +1,33 @@
+{
+  "id": "rct_skier_madison_055e",
+  "name": "Skier Madison",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "snover",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "ingrain",
+        "woodhammer",
+        "blizzard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

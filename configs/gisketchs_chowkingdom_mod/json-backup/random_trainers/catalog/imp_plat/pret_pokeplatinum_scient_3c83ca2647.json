@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_scientist_fredrick",
+  "name": "Scientist Fredrick",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:kirlia",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "magicalleaf",
+        "hypnosis",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psychic",
+        "psychocut",
+        "thunderwave",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey, now! Our HQ is a state-of-the- art facility! A snot-nosed kid like you ought to keep your dirty hands to yourself!",
+    "Our boss is trying to create an entirely new world. A world only for us! For Team Galactic!"
+  ]
+}

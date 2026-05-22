@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_maniac_x_bryan"
+name = "Ruin Maniac Bryan"
+title = "Ruin Maniac"
+gender = "any"
+archetype = "ruin_maniac"
+region = "Hoenn;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ruin_maniac/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 22
+maxLevel = 24
+team = [
+  { species = "cobblemon:cranidos", level = 24, gender = "MALE", nature = "relaxed", ability = "moldbreaker", moveset = ["headbutt", "leer", "scaryface", "assurance"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:geodude", level = 22, gender = "MALE", nature = "relaxed", ability = "sturdy", moveset = ["sandstorm", "harden", "smackdown", "bulldoze"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bronzor", level = 23, gender = "GENDERLESS", nature = "hardy", ability = "levitate", moveset = ["confusion", "confuseray", "payback", "gyroball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ruin Maniac Bryan is ready for a battle.", "Ah-ha! I found me a Trainer! I challenge you to battle with the Pokémon I’ve found!", "Discovery is the treasure I seek. Collecting a lot is my life!", "I have trained this team for the road. Challenge me if you are ready."]

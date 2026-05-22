@@ -1,0 +1,39 @@
+{
+  "id": "rct_player_red_0202",
+  "name": "Player Red",
+  "title": "Player",
+  "gender": "any",
+  "archetype": "player",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "player/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:ekans",
+      "level": 5,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "shedskin",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

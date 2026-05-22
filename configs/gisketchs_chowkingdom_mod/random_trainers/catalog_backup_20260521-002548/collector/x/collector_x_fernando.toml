@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_x_fernando"
+name = "Collector Fernando"
+title = "Collector"
+gender = "any"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/any"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 17
+maxLevel = 20
+team = [
+  { species = "cobblemon:mrmime", level = 17, gender = "MALE", nature = "sassy", ability = "filter", moveset = ["powerswap", "copycat", "batonpass", "encore"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mrmime", level = 20, gender = "MALE", nature = "sassy", ability = "soundproof", moveset = ["copycat", "encore", "confusion", "roleplay"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mrmime", level = 20, gender = "FEMALE", nature = "sassy", ability = "soundproof", moveset = ["copycat", "encore", "confusion", "roleplay"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We were having a heated discussion over Pokémon the way Collectors do.", "I’m more knowledgeable than anyone else! I have a rare Pokémon! But, I’m weak at battling... That’s a Pokémon Collector for you...", "I have trained this team for the road. Challenge me if you are ready."]

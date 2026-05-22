@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_breeder_kaylee_0482",
+  "name": "Pokémon Breeder Kaylee",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "stunky",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "acidspray",
+        "furyswipes",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "buizel",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "swiftswim",
+      "moveset": [
+        "growl",
+        "watergun",
+        "bite",
+        "swift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

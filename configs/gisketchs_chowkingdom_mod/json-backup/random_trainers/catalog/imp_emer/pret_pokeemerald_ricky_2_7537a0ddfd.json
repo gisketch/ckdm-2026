@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeemerald_ricky_2",
+  "name": "Tuber Male Ricky",
+  "title": "Tuber Male",
+  "gender": "male",
+  "archetype": "tuber_male",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "tuber_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.93,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "cobblemon:linoone",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "sandattack",
+        "pinmissile",
+        "tailwhip",
+        "surf"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Tuber Male Ricky is ready for a battle."
+  ]
+}

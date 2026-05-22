@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "firebreather_x_ray"
+name = "Firebreather Ray"
+title = "Firebreather"
+gender = "any"
+archetype = "firebreather"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "firebreather/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = ""
+minLevel = 9
+maxLevel = 9
+team = [
+  { species = "cobblemon:vulpix", level = 9, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Firebreather Ray is ready for a battle.", "If there’s light, a cave isn’t scary. If you’re strong, Pokémon aren’t scary.", "It’s my Pokémon’s fire that lights up this cave."]

@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokecrystal_schoolboy_002_kipp",
+  "name": "Schoolboy Kipp",
+  "title": "Schoolboy",
+  "gender": "male",
+  "archetype": "schoolboy",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "schoolboy/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.93,
+  "weight": 0.96,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:voltorb",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magneton",
+      "level": 31,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Schoolboy Kipp is ready for a battle."
+  ]
+}

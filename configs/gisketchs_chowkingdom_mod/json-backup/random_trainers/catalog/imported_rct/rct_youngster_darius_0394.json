@@ -1,0 +1,47 @@
+{
+  "id": "rct_youngster_darius_0394",
+  "name": "Youngster Darius",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 8,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 8,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 8,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "smackdown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

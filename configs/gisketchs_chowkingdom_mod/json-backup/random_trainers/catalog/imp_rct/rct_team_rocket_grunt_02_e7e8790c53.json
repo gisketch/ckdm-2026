@@ -1,0 +1,72 @@
+{
+  "id": "rct_team_rocket_grunt_0237",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:grimer",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "stickyhold",
+      "moveset": [
+        "gunkshot",
+        "acidarmor",
+        "belch",
+        "memento"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:muk",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "stickyhold",
+      "moveset": [
+        "poisonfang",
+        "screech",
+        "gunkshot",
+        "acidarmor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

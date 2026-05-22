@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_monique"
+name = "Ace Trainer Monique"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 58
+maxLevel = 59
+team = [
+  { species = "cobblemon:luxray", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["discharge", "crunch", "thunderwave", "facade"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ursaring", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hammerarm", "stoneedge", "swordsdance", "gigaimpact"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gliscor", level = 58, gender = "GENDERLESS", nature = "", ability = "", moveset = ["aerialace", "xscissor", "earthquake", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We’re all good to go! We just have to battle now!", "We came completely unprepared for this little adventure..."]

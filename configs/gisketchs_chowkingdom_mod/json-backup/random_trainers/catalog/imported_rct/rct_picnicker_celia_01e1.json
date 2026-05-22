@@ -1,0 +1,33 @@
+{
+  "id": "rct_picnicker_celia_01e1",
+  "name": "Picnicker Celia",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 58,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "delcatty",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "wonderskin",
+      "moveset": [
+        "sing",
+        "attract",
+        "round",
+        "hypervoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_ace_trainer_andrew_0002",
+  "name": "Ace Trainer Andrew",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 93,
+  "maxLevel": 95,
+  "team": [
+    {
+      "species": "infernape",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "pyroball",
+        "closecombat",
+        "thunderpunch",
+        "stealthrock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sceptile",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "overgrow",
+      "moveset": [
+        "swordsdance",
+        "bulletseed",
+        "scaleshot",
+        "rocktomb"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 94,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "shellsmash",
+        "woodhammer",
+        "headlongrush",
+        "headsmash"
+      ],
+      "heldItem": "yache_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blaziken",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "reckless",
+      "moveset": [
+        "closecombat",
+        "flareblitz",
+        "knockoff",
+        "uturn"
+      ],
+      "heldItem": "mega_showdown:blazikenite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "greninja",
+      "level": 95,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "battlebond",
+      "moveset": [
+        "hydrocannon",
+        "darkpulse",
+        "icebeam",
+        "uturn"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "inteleon",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sniper",
+      "moveset": [
+        "snipeshot",
+        "icebeam",
+        "hiddenpower",
+        "uturn"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

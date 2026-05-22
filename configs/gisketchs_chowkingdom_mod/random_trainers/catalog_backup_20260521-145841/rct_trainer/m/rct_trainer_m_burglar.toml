@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_m_burglar"
+name = "Rct Trainer Burglar"
+title = "Rct Trainer"
+gender = "male"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/male"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:vulpix", level = 28, gender = "MALE", nature = "hasty", ability = "flashfire", moveset = ["willowisp", "feintattack", "hex", "flameburst"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charmander", level = 28, gender = "FEMALE", nature = "timid", ability = "blaze", moveset = ["firefang", "scaryface", "thunderpunch", "flameburst"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ponyta", level = 28, gender = "MALE", nature = "mild", ability = "runaway", moveset = ["lowkick", "willowisp", "flamecharge", "firespin"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

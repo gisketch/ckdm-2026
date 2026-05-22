@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_kendra"
+name = "Psychic Kendra"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 52
+maxLevel = 55
+team = [
+  { species = "cobblemon:chimecho", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["extrasensory", "shadowball", "energyball", "chargebeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:haunter", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shadowpunch", "darkpulse", "confuseray", "toxic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shadowball", "darkpulse", "frustration", "sludgebomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I see it! I see a victory for me!", "Your efforts have altered the very path of the future!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_liv_liz_m001",
+  "name": "Twins Liv & Liz",
+  "title": "Twins Liv",
+  "gender": "any",
+  "archetype": "twins_liv",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 9,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "pachirisu",
+      "level": 9,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pachirisu",
+      "level": 9,
+      "gender": "FEMALE",
+      "nature": "quirky",
+      "ability": "pickup",
+      "moveset": [
+        "growl",
+        "babydolleyes",
+        "quickattack",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

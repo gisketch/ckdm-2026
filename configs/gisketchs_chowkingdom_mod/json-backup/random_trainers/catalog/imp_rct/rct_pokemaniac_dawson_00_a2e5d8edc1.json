@@ -1,0 +1,72 @@
+{
+  "id": "rct_pokemaniac_dawson_00a7",
+  "name": "Pok\u00e9maniac Dawson",
+  "title": "Pok\u00e9maniac",
+  "gender": "any",
+  "archetype": "pok_maniac",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_maniac/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "cobblemon:lapras",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "waterabsorb",
+      "moveset": [
+        "dragonpulse",
+        "wish",
+        "boomburst",
+        "dragonhammer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lickilicky",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "owntempo",
+      "moveset": [
+        "screech",
+        "powerwhip",
+        "wringout",
+        "gyroball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:flareon",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "serious",
+      "ability": "flashfire",
+      "moveset": [
+        "lavaplume",
+        "lastresort",
+        "flareblitz",
+        "sacredfire"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

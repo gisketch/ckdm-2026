@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "veteran_x_brian"
+name = "Veteran Brian"
+title = "Veteran"
+gender = "any"
+archetype = "veteran"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "veteran/any"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:floatzel", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterfall", "icefang", "quickattack", "crunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rapidash", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = ["quickattack", "stomp", "flareblitz", "bounce"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tangrowth", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = ["ingrain", "sleeppowder", "ancientpower", "powerwhip"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Very well. I’ve decided. I’ll battle one last time, with you, then I’m retiring as a Trainer.", "Yes! This is fun! Pokémon are fun! Retire? Perish that thought! I’ll become a lot tougher. Next time, victory is mine!", "Veteran Brian is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "parasol_lady_f_madeline"
+name = "Parasol Lady Madeline"
+title = "Parasol Lady"
+gender = "female"
+archetype = "parasol_lady"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "parasol_lady/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.9
+bustStyle = "standard"
+minLevel = 37
+maxLevel = 37
+team = [
+  { species = "cobblemon:roselia", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leechseed", "gigadrain", "solarbeam", "sunnyday"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:camerupt", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["flamethrower", "takedown", "earthquake", "sunnyday"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Parasol Lady Madeline is ready for a battle."]

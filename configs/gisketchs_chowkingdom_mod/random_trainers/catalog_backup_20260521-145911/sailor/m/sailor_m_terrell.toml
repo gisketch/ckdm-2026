@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_terrell"
+name = "Sailor Terrell"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:poliwhirl", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sailor Terrell is ready for a battle.", "Sailors are both kind and strong. How about you?", "Every time I come back to Olivine, I visit the Gym. The Gym Leader’s Pokémon type changed without my noticing."]

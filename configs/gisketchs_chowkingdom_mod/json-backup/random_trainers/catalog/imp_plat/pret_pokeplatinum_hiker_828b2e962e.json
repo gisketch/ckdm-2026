@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_hiker_alexander",
+  "name": "Hiker Alexander",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "cobblemon:graveler",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:probopass",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "They call me the Echo Man! Battle with me! Yahoo!",
+    "Here\u2019s good advice from the Echo Man! If you\u2019re at a loss as to where you should be going, check the Town Map!"
+  ]
+}

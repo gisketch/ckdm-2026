@@ -1,0 +1,49 @@
+{
+  "id": "rct_crush_kin_ron_and_mya_02a0",
+  "name": "Crush Kin Ron & Mya",
+  "title": "Crush Kin Ron And",
+  "gender": "any",
+  "archetype": "crush_kin_ron_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "hitmonchan",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "bulletpunch",
+        "feint",
+        "brickbreak",
+        "quickguard"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hitmonlee",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "reckless",
+      "moveset": [
+        "focusenergy",
+        "feint",
+        "suckerpunch",
+        "mindreader"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

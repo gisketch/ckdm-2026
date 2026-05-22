@@ -1,0 +1,49 @@
+{
+  "id": "rct_crush_kin_mik_and_kia_02bc",
+  "name": "Crush Kin Mik & Kia",
+  "title": "Crush Kin Mik And",
+  "gender": "any",
+  "archetype": "crush_kin_mik_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "machamp",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "noguard",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primeape",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "serious",
+      "ability": "angerpoint",
+      "moveset": [
+        "screech",
+        "stompingtantrum",
+        "outrage",
+        "crosschop"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

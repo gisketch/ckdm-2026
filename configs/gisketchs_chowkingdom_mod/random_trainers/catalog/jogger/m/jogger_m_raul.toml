@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jogger_m_raul"
+name = "Jogger Raul"
+title = "Jogger"
+gender = "male"
+archetype = "jogger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "jogger/male"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:staravia", level = 19, gender = "MALE", nature = "relaxed", ability = "intimidate", moveset = ["quickattack", "wingattack", "doubleteam", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jogging is about rhythm. Battling is about rhythm, too!", "If I get out of rhythm, I can’t get my act together.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0029_bird_keeper_gs_rod",
+  "name": "Bird Keeper Gs Rod",
+  "title": "Bird Keeper Gs",
+  "gender": "any",
+  "archetype": "bird_keeper_gs",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bird_keeper_gs/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:pidgey",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgey",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Ho ho! You some kind of big shot? We\u2019ll see what happens if you get pushed around up here. Think you\u2019ll stagger and fall? People here are training night and day to become bird Pok\u00e9mon masters. Bring it on!",
+    "Falkner\u2019s skills are for real! Don\u2019t get cocky!"
+  ]
+}

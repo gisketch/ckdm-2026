@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0299_bird_keeper_gs_hank",
+  "name": "Bird Keeper Gs Hank",
+  "title": "Bird Keeper Gs",
+  "gender": "any",
+  "archetype": "bird_keeper_gs",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "bird_keeper_gs/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 13,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:pidgey",
+      "level": 13,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m raising my Pok\u00e9mon. Want to battle with me?",
+    "If you have a specific Pok\u00e9mon that you want to raise, put it out first, then switch it right away. That\u2019s how to do it."
+  ]
+}

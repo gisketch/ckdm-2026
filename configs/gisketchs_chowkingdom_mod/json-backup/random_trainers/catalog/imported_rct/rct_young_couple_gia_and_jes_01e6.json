@@ -1,0 +1,51 @@
+{
+  "id": "rct_young_couple_gia_and_jes_01e6",
+  "name": "Young Couple Gia & Jes",
+  "title": "Young Couple Gia And",
+  "gender": "any",
+  "archetype": "young_couple_gia_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "toxtricity",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "lonely",
+      "ability": "plus",
+      "moveset": [
+        "screech",
+        "swagger",
+        "toxic",
+        "discharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxtricity",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "minus",
+      "moveset": [
+        "screech",
+        "swagger",
+        "toxic",
+        "discharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "low_key"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_jose"
+name = "Ace Trainer Jose"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 56
+maxLevel = 57
+team = [
+  { species = "cobblemon:golduck", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hydropump", "brickbreak", "zenheadbutt", "screech"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sandslash", level = 56, gender = "GENDERLESS", nature = "", ability = "", moveset = ["earthquake", "crushclaw", "poisonjab", "sandtomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:manectric", level = 57, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderfang", "firefang", "quickattack", "gigaimpact"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Have you any knowledge of levels or the stats of Pokémon? Well, I do!", "Pokémon and numbers... Who cares about that stuff? Winning is what’s important. Numbers aren’t everything.", "I have trained this team for the road. Challenge me if you are ready."]

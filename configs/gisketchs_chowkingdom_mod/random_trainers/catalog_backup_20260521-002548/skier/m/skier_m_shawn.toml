@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_m_shawn"
+name = "Skier Shawn"
+title = "Skier"
+gender = "male"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "skier/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 35
+maxLevel = 37
+team = [
+  { species = "cobblemon:snover", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll show you the techniques I had drummed into me at ski school!", "Maybe I should’ve studied at the Trainers’ school instead..."]

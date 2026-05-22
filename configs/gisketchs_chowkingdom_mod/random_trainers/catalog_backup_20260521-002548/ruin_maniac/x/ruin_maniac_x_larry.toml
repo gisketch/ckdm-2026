@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ruin_maniac_x_larry"
+name = "Ruin Maniac Larry"
+title = "Ruin Maniac"
+gender = "any"
+archetype = "ruin_maniac"
+region = "Kanto/Sevii;Sinnoh"
+category = "route_trainer"
+source = "pret_pokefirered;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ruin_maniac/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.02
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:steelix", level = 54, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["curse", "crunch", "doubleedge", "stoneedge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ruin Maniac Larry is ready for a battle.", "I don’t care who you are--no one interferes with my treasure hunting!", "I heard there’s an intriguing stone monument around, so I came running.", "I have trained this team for the road. Challenge me if you are ready."]

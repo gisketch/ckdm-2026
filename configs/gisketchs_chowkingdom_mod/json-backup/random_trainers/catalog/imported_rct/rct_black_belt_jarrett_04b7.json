@@ -1,0 +1,33 @@
+{
+  "id": "rct_black_belt_jarrett_04b7",
+  "name": "Black Belt Jarrett",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 59,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "machamp",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "noguard",
+      "moveset": [
+        "dynamicpunch",
+        "bulkup",
+        "knockoff",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

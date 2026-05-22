@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_gs_m_lowell"
+name = "Scientist Gs Lowell"
+title = "Scientist Gs"
+gender = "male"
+archetype = "scientist_gs"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "scientist_gs/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = ""
+minLevel = 50
+maxLevel = 50
+team = [
+  { species = "cobblemon:arcanine", level = 50, gender = "GENDERLESS", nature = "", ability = "", moveset = ["overheat", "extremespeed", "firefang", "thunderfang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Gs Lowell is ready for a battle."]

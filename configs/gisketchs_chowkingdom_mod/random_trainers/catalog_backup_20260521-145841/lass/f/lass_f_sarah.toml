@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_sarah"
+name = "Lass Sarah"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "low"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 7
+maxLevel = 7
+team = [
+  { species = "cobblemon:bidoof", level = 7, gender = "MALE", nature = "jolly", ability = "unaware", moveset = ["tackle", "growl", "defensecurl"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Oh, a weak-looking Trainer... Do you want to have a go?", "Oh, you’re so mean! I just started training Pokémon!", "I have trained this team for the road. Challenge me if you are ready."]

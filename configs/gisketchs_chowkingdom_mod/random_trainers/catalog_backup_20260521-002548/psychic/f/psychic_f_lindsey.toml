@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_lindsey"
+name = "Psychic Lindsey"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:abra", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hiddenpower"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I see it... I see it... I see you going down in defeat...", "The Old Chateau... There should be none alive in it... And yet there is a pervasive sense of a presence..."]

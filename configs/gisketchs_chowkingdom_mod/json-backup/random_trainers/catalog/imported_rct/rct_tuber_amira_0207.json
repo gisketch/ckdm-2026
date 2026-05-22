@@ -1,0 +1,99 @@
+{
+  "id": "rct_tuber_amira_0207",
+  "name": "Tuber Amira",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "palossand",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "watercompaction",
+      "moveset": [
+        "scorchingsands",
+        "shadowball",
+        "shoreup",
+        "stealthrock"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "crawdaunt",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "dragondance",
+        "crabhammer",
+        "knockoff",
+        "closecombat"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mantine",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "hydration",
+      "moveset": [
+        "thunderbolt",
+        "sludgewave",
+        "icebeam",
+        "scald"
+      ],
+      "heldItem": "mega_showdown:poisonium_z poison_gem",
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "swanna",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "noguard",
+      "moveset": [
+        "hydropump",
+        "hurricane",
+        "blizzard",
+        "aquajet"
+      ],
+      "heldItem": "flying_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "whiscash",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "waterbubble",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "earthquake",
+        "zenheadbutt"
+      ],
+      "heldItem": "rindo_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

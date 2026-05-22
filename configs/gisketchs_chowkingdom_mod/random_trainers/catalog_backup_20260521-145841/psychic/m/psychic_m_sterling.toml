@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_sterling"
+name = "Psychic Sterling"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "high"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 54
+maxLevel = 58
+team = [
+  { species = "cobblemon:baltoy", level = 54, gender = "GENDERLESS", nature = "calm", ability = "levitate", moveset = ["earthpower", "extrasensory", "rocktomb", "ancientpower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:grumpig", level = 58, gender = "MALE", nature = "bold", ability = "thickfat", moveset = ["psychic", "powergem", "magiccoat", "payback"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I had a revelation this morning. I knew that I would have a wonderful encounter here today.", "Is my sense of premonition nothing to write home about?", "I have trained this team for the road. Challenge me if you are ready."]

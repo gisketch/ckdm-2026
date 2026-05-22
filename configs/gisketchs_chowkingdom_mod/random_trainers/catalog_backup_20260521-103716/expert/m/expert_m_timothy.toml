@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "expert_m_timothy"
+name = "Expert Timothy"
+title = "Expert"
+gender = "male"
+archetype = "expert"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "expert/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:hariyama", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["armthrust", "bellydrum", "sandattack", "dig"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Expert Timothy is ready for a battle."]

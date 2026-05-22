@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_julie_0199",
+  "name": "Ace Trainer Julie",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:persian",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "technician",
+      "moveset": [
+        "furyswipes",
+        "bite",
+        "screech",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ninetales",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "flashfire",
+      "moveset": [
+        "flamethrower",
+        "willowisp",
+        "confuseray",
+        "grudge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "flashfire",
+      "moveset": [
+        "furyattack",
+        "firespin",
+        "takedown",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "thunderbolt",
+        "thunderwave",
+        "doubleteam",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:raichu",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "static",
+      "moveset": [
+        "thunder",
+        "thunderwave",
+        "slam",
+        "doubleteam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

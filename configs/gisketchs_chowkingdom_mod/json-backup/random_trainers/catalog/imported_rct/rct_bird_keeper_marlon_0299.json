@@ -1,0 +1,65 @@
+{
+  "id": "rct_bird_keeper_marlon_0299",
+  "name": "Bird Keeper Marlon",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "fearow",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dodrio",
+      "level": 48,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "rockhead",
+      "moveset": [
+        "uproar",
+        "swordsdance",
+        "jumpkick",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "frisk",
+      "moveset": [
+        "roost",
+        "drillpeck",
+        "drillrun",
+        "bravebird"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

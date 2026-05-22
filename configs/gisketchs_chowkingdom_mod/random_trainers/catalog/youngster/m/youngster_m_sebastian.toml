@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_sebastian"
+name = "Youngster Sebastian"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 7
+maxLevel = 7
+team = [
+  { species = "cobblemon:machop", level = 7, gender = "MALE", nature = "naive", ability = "guts", moveset = ["lowkick", "leer", "focusenergy"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Before I challenge the Pokémon Gym Leader, I’ll test my strength on you!", "I guess if you don’t have a single Gym Badge, you’re a total nobody...", "I have trained this team for the road. Challenge me if you are ready."]

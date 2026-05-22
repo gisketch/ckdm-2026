@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_cale"
+name = "Bug Catcher Cale"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 15
+maxLevel = 17
+team = [
+  { species = "cobblemon:karrablast", level = 16, gender = "FEMALE", nature = "bold", ability = "swarm", moveset = ["leer", "endure", "furycutter", "bugbite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:joltik", level = 17, gender = "FEMALE", nature = "lonely", ability = "compoundeyes", moveset = ["thunderwave", "screech", "strugglebug", "electroweb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kricketune", level = 15, gender = "MALE", nature = "lax", ability = "technician", moveset = ["growl", "bide", "rocktomb", "megadrain"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ledyba", level = 17, gender = "FEMALE", nature = "adamant", ability = "swarm", moveset = ["lightscreen", "reflect", "safeguard", "machpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Cale is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

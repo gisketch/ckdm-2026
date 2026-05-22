@@ -1,0 +1,49 @@
+{
+  "id": "rct_hiker_theodore_052d",
+  "name": "Hiker Theodore",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "onix",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "tackle",
+        "smackdown",
+        "curse",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "smackdown",
+        "curse",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

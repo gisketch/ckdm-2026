@@ -1,0 +1,33 @@
+{
+  "id": "rct_rich_boy_trey_03e8",
+  "name": "Rich Boy Trey",
+  "title": "Rich Boy",
+  "gender": "any",
+  "archetype": "rich_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "luxio",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "bite",
+        "spark",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_veteran_clayton_0387",
+  "name": "Veteran Clayton",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "endeavor",
+        "aerialace",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hippowdon",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sandstream",
+      "moveset": [
+        "earthquake",
+        "crunch",
+        "icefang",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "rct_gym_leader_volkner_0591",
+  "name": "Volkner",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 66,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "pelipper",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "hydropump",
+        "hurricane",
+        "icebeam",
+        "uturn"
+      ],
+      "heldItem": "damp_rock",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raichu",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "lightningrod",
+      "moveset": [
+        "thunder",
+        "surf",
+        "focusblast",
+        "voltswitch"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "luxray",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "icefang",
+        "playrough",
+        "voltswitch",
+        "electricterrain"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lanturn",
+      "level": 66,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "voltabsorb",
+      "moveset": [
+        "thunder",
+        "surf",
+        "icebeam",
+        "voltswitch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jolteon",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "quickfeet",
+      "moveset": [
+        "thunder",
+        "reflect",
+        "shadowball",
+        "voltswitch"
+      ],
+      "heldItem": "toxic_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electivire",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "motordrive",
+      "moveset": [
+        "thunder",
+        "flamethrower",
+        "crosschop",
+        "earthquake"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

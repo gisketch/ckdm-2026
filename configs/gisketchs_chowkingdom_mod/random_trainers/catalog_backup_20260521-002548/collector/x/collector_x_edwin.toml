@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_x_edwin"
+name = "Collector Edwin"
+title = "Collector"
+gender = "any"
+archetype = "collector"
+region = "Hoenn;Sinnoh"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/any"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:sudowoodo", level = 19, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["block", "stoneedge", "hammerarm", "woodhammer"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 19, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["stoneedge", "hammerarm", "woodhammer", "flail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 19, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["slam", "stoneedge", "hammerarm", "woodhammer"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Collector Edwin is ready for a battle.", "I’m a Collector, and I love Honey!", "I went through a lot of bother to catch my Pokémon. But since I’ve not raised it, it’s as weak as when I caught it.", "I have trained this team for the road. Challenge me if you are ready."]

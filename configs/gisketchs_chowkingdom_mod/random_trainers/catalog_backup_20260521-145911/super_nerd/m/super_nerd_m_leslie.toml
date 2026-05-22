@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_leslie"
+name = "Super Nerd Leslie"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:koffing", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["sludge", "smokescreen", "smog", "selfdestruct"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Leslie is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,88 @@
+{
+  "id": "rct_swimmerm_darrin_02ab",
+  "name": "Swimmer\u2642 Darrin",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "cobblemon:seadra",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "brine",
+        "agility",
+        "dragonpulse",
+        "dragondance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

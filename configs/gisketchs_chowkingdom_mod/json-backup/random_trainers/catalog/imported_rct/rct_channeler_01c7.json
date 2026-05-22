@@ -1,0 +1,33 @@
+{
+  "id": "rct_channeler_01c7",
+  "name": "Channeler",
+  "title": "Channeler 01c7",
+  "gender": "any",
+  "archetype": "channeler_01c7",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "gastly",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "sludge",
+        "confuseray",
+        "suckerpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

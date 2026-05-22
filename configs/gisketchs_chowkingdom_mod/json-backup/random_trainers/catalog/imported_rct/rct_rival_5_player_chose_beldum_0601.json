@@ -1,0 +1,115 @@
+{
+  "id": "rct_rival_5_player_chose_beldum_0601",
+  "name": "Rival Wayne",
+  "title": "Rival 5 Player Chose",
+  "gender": "any",
+  "archetype": "rival_5_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 65,
+  "team": [
+    {
+      "species": "mamoswine",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "icefang",
+        "bulldoze",
+        "iceshard",
+        "stealthrock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 61,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "motordrive",
+      "moveset": [
+        "discharge",
+        "airslash",
+        "hex",
+        "thunderwave"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": [
+        "fan-appliance"
+      ]
+    },
+    {
+      "species": "vaporeon",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "acidarmor",
+        "aquaring"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "ironhead",
+        "rockslide",
+        "earthquake",
+        "metalburst"
+      ],
+      "heldItem": "shuca_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "chandelure",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "shadowtag",
+      "moveset": [
+        "flamethrower",
+        "shadowball",
+        "energyball",
+        "minimize"
+      ],
+      "heldItem": "bright_powder",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "garchomp",
+      "level": 65,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sandforce",
+      "moveset": [
+        "dragonrush",
+        "stompingtantrum",
+        "crunch",
+        "sandstorm"
+      ],
+      "heldItem": "mega_showdown:garchompite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

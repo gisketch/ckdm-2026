@@ -1,0 +1,72 @@
+{
+  "id": "pret_pokeheartgold_0485_executive_archer_archer",
+  "name": "Executive Archer Archer",
+  "title": "Executive Archer",
+  "gender": "any",
+  "archetype": "executive_archer",
+  "region": "Johto/Kanto",
+  "category": "unique",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "executive_archer/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:houndour",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "firefang",
+        "roar",
+        "bite",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:koffing",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "tackle",
+        "sludge",
+        "smokescreen",
+        "haze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "firefang",
+        "smog",
+        "bite",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We can\u2019t have you getting in the way before news of our resurgence reaches Giovanni!"
+  ]
+}

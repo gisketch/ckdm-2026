@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_dawn_059b",
+  "name": "Pokémon Trainer Dawn",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "crobat",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "innerfocus",
+      "moveset": [
+        "crosspoison",
+        "uturn",
+        "superfang",
+        "tailwind"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "arcanine",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "playrough",
+        "extremespeed",
+        "reversal"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mrmime",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "psychic",
+        "powerwhip",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blastoise",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "focusblast",
+        "shellsmash"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lickilicky",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "owntempo",
+      "moveset": [
+        "focusblast",
+        "icebeam",
+        "fireblast",
+        "shadowball"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "overgrow",
+      "moveset": [
+        "woodhammer",
+        "earthquake",
+        "stoneedge",
+        "curse"
+      ],
+      "heldItem": "yache_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "rct_ace_trainer_wilton_0133",
+  "name": "Ace Trainer Wilton",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 95,
+  "team": [
+    {
+      "species": "dragapult",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowball",
+        "thunder",
+        "dracometeor",
+        "uturn"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kabutops",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "swiftswim",
+      "moveset": [
+        "waterfall",
+        "stoneaxe",
+        "sacredsword",
+        "aquajet"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pinsir",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "hypercutter",
+      "moveset": [
+        "xscissor",
+        "doubleedge",
+        "quickattack",
+        "closecombat"
+      ],
+      "heldItem": "mega_showdown:pinsirite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "omastar",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "shellsmash",
+        "hydropump",
+        "icebeam",
+        "powergem"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

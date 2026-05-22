@@ -1,0 +1,65 @@
+{
+  "id": "rct_gym_leader_maylene_03d8",
+  "name": "Gym Leader Maylene",
+  "title": "Gym Leader",
+  "gender": "any",
+  "archetype": "gym_leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 27,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "meditite",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "purepower",
+      "moveset": [
+        "drainpunch",
+        "lightscreen",
+        "flash",
+        "bulkup"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machoke",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "lowsweep",
+        "knockoff",
+        "rocktomb",
+        "bulldoze"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lucario",
+      "level": 30,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "steadfast",
+      "moveset": [
+        "drainpunch",
+        "screech",
+        "metalclaw",
+        "bulkup"
+      ],
+      "heldItem": "big_root",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

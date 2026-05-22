@@ -1,0 +1,81 @@
+{
+  "id": "rct_cue_ball_jamal_00ff",
+  "name": "Cue Ball Jamal",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "feraligatr",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "sheerforce",
+      "moveset": [
+        "crunch",
+        "chipaway",
+        "slash",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "fireblast",
+        "bounce",
+        "flareblitz",
+        "jumpkick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "obstagoon",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "guts",
+      "moveset": [
+        "scaryface",
+        "counter",
+        "taunt",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dodrio",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

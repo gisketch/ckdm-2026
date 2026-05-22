@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_glenn"
+name = "Super Nerd Glenn"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 34
+maxLevel = 36
+team = [
+  { species = "cobblemon:grimer", level = 35, gender = "MALE", nature = "serious", ability = "stickyhold", moveset = ["mudbomb", "poisonfang", "fling", "sludgebomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:grimer", level = 36, gender = "MALE", nature = "quirky", ability = "gluttony", moveset = ["poisonfang", "fling", "knockoff", "crunch"], heldItem = "", shiny = false, aspects = ["alolan"] },
+  { species = "cobblemon:muk", level = 34, gender = "FEMALE", nature = "hasty", ability = "gluttony", moveset = ["poisonfang", "fling", "knockoff", "crunch"], heldItem = "", shiny = false, aspects = ["alolan"] },
+]
+dialogue = ["Super Nerd Glenn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

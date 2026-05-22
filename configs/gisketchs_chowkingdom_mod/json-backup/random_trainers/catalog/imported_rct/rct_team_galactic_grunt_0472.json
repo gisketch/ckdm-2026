@@ -1,0 +1,33 @@
+{
+  "id": "rct_team_galactic_grunt_0472",
+  "name": "Team Galactic Grunt",
+  "title": "Team Galactic",
+  "gender": "any",
+  "archetype": "team_galactic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "beautifly",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "stunspore",
+        "leechlife",
+        "gigadrain",
+        "quiverdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

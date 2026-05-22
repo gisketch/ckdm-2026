@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeplatinum_beauty_lindsay",
+  "name": "Beauty Lindsay",
+  "title": "Beauty",
+  "gender": "female",
+  "archetype": "beauty",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "beauty/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:roselia",
+      "level": 19,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "megadrain",
+        "poisonsting",
+        "stunspore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Giggle! You found me! Of course, let\u2019s battle!",
+    "Giggle! There\u2019s only our Gym Leader left. Go on, don\u2019t be afraid!"
+  ]
+}

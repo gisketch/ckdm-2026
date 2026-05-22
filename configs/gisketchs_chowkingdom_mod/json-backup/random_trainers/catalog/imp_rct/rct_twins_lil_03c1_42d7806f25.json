@@ -1,0 +1,40 @@
+{
+  "id": "rct_twins_lil_03c1",
+  "name": "Twin Lil",
+  "title": "Twin",
+  "gender": "any",
+  "archetype": "twin",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "twin/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cobblemon:mimejr",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "pound",
+        "copycat",
+        "encore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

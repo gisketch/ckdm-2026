@@ -1,0 +1,113 @@
+{
+  "id": "rct_title_defense_marlon_05eb",
+  "name": "Title Defense Marlon",
+  "title": "Title Defense",
+  "gender": "any",
+  "archetype": "title_defense",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 78,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "dusknoir",
+      "level": 78,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "poltergeist",
+        "poweruppunch",
+        "icepunch",
+        "thunderpunch"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "machamp",
+      "level": 78,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "dynamicpunch",
+        "knockoff",
+        "stoneedge",
+        "bulletpunch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "krookodile",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "highhorsepower",
+        "darkestlariat",
+        "rockslide",
+        "closecombat"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beedrill",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "uturn",
+        "poisonjab",
+        "drillrun",
+        "protect"
+      ],
+      "heldItem": "mega_showdown:beedrillite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nihilego",
+      "level": 79,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "beastboost",
+      "moveset": [
+        "meteorbeam",
+        "sludgewave",
+        "thunderbolt",
+        "hiddenpower"
+      ],
+      "heldItem": "power_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zapdos",
+      "level": 80,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "pressure",
+      "moveset": [
+        "heatwave",
+        "thunderbolt",
+        "extrasensory",
+        "roost"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

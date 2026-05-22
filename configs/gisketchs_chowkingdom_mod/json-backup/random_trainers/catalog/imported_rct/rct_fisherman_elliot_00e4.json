@@ -1,0 +1,81 @@
+{
+  "id": "rct_fisherman_elliot_00e4",
+  "name": "Fisherman Elliot",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "whiscash",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "hydration",
+      "moveset": [
+        "rest",
+        "snore",
+        "waterpulse",
+        "earthquake"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "luvdisc",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "swiftswim",
+      "moveset": [
+        "heartstamp",
+        "flail",
+        "sweetkiss",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "goldeen",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "lightningrod",
+      "moveset": [
+        "aquajet",
+        "aquaring",
+        "agility",
+        "waterfall"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seadra",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "poisontouch",
+      "moveset": [
+        "twister",
+        "bubblebeam",
+        "focusenergy",
+        "brine"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

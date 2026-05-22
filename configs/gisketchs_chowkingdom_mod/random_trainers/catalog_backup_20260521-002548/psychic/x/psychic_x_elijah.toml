@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_elijah"
+name = "Psychic Elijah"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "low"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:abra", level = 15, gender = "MALE", nature = "sassy", ability = "synchronize", moveset = ["energyball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

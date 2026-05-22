@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_ernest_031b",
+  "name": "Ace Trainer Ernest",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "mothim",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "swarm",
+      "moveset": [
+        "quiverdance",
+        "bugbite",
+        "stringshot",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "rockhead",
+      "moveset": [
+        "harden",
+        "smackdown",
+        "curse",
+        "rockslide"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "luxio",
+      "level": 27,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "bite",
+        "spark",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_conner"
+name = "Bug Catcher Conner"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "mid"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 28
+maxLevel = 29
+team = [
+  { species = "cobblemon:heracross", level = 28, gender = "FEMALE", nature = "timid", ability = "swarm", moveset = ["chipaway", "counter", "furyattack", "brickbreak"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:vibrava", level = 28, gender = "FEMALE", nature = "careful", ability = "levitate", moveset = ["rockslide", "supersonic", "screech", "earthpower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venonat", level = 29, gender = "MALE", nature = "mild", ability = "compoundeyes", moveset = ["psybeam", "stunspore", "signalbeam", "sleeppowder"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Conner is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

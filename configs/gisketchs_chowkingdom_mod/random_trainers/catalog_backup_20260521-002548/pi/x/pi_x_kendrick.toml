@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pi_x_kendrick"
+name = "Pi Kendrick"
+title = "Pi"
+gender = "any"
+archetype = "pi"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "pi/any"
+tier = "mid"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 22
+maxLevel = 22
+team = [
+  { species = "cobblemon:goldeen", level = 22, gender = "FEMALE", nature = "relaxed", ability = "swiftswim", moveset = ["peck", "tailwhip", "waterpulse", "hornattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:goldeen", level = 22, gender = "FEMALE", nature = "relaxed", ability = "swiftswim", moveset = ["peck", "tailwhip", "waterpulse", "hornattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pi Kendrick is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

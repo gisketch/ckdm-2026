@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokecrystal_gruntm_002_grunt",
+  "name": "Gruntm Grunt",
+  "title": "Gruntm",
+  "gender": "any",
+  "archetype": "gruntm",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "gruntm/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 9,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 7,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 9,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Gruntm Grunt is ready for a battle."
+  ]
+}

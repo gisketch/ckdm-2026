@@ -1,0 +1,90 @@
+{
+  "id": "rct_bird_keeper_edwin_0131",
+  "name": "Bird Keeper Edwin",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:pidgeotto",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "tangledfeet",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:farfetchd",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "steadfast",
+      "moveset": [
+        "brickbreak",
+        "swordsdance",
+        "slam",
+        "leafblade"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "cobblemon:swoobat",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "klutz",
+      "moveset": [
+        "futuresight",
+        "psychic",
+        "endeavor",
+        "heatwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pidgeot",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "tangledfeet",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

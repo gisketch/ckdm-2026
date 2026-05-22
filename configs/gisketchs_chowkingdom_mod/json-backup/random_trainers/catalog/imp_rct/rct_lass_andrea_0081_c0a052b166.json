@@ -1,0 +1,74 @@
+{
+  "id": "rct_lass_andrea_0081",
+  "name": "Lass Andrea",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 36,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:meowth",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "pickup",
+      "moveset": [
+        "taunt",
+        "shockwave",
+        "payday",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meowth",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "pickup",
+      "moveset": [
+        "feintattack",
+        "taunt",
+        "payday",
+        "slash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "cobblemon:cutiefly",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "swarm",
+      "moveset": [
+        "sweetscent",
+        "bugbuzz",
+        "dazzlinggleam",
+        "aromatherapy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

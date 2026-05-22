@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_roland"
+name = "Swimmer Roland"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 63
+maxLevel = 64
+team = [
+  { species = "cobblemon:poliwhirl", level = 63, gender = "FEMALE", nature = "lonely", ability = "waterabsorb", moveset = ["bellydrum", "wakeupslap", "hydropump", "mudbomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ludicolo", level = 64, gender = "FEMALE", nature = "brave", ability = "swiftswim", moveset = ["astonish", "growl", "megadrain", "naturepower"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seismitoad", level = 64, gender = "MALE", nature = "rash", ability = "swiftswim", moveset = ["drainpunch", "echoedvoice", "hydropump", "hypervoice"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Roland is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

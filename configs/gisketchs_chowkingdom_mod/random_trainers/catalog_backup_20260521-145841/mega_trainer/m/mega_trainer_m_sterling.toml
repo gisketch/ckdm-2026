@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_m_sterling"
+name = "Mega Trainer Sterling"
+title = "Mega Trainer"
+gender = "male"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/male"
+tier = "very_high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 75
+maxLevel = 77
+team = [
+  { species = "cobblemon:meganium", level = 76, gender = "MALE", nature = "calm", ability = "grassysurge", moveset = ["solarbeam", "earthpower", "gigadrain", "naturepower"], heldItem = "['quick_claw']", shiny = false, aspects = [] },
+  { species = "cobblemon:venusaur", level = 77, gender = "FEMALE", nature = "modest", ability = "thickfat", moveset = ["solarbeam", "earthpower", "naturepower", "weatherball"], heldItem = "['mega_showdown:venusaurite', 'leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:shiftry", level = 75, gender = "FEMALE", nature = "mild", ability = "chlorophyll", moveset = ["solarbeam", "darkpulse", "heatwave", "brickbreak"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

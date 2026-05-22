@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_abel"
+name = "Ace Trainer Abel"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "high"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 59
+maxLevel = 60
+team = [
+  { species = "cobblemon:glalie", level = 59, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hail", "icebeam", "sheercold", "crunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:crobat", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = ["airslash", "poisonfang", "confuseray", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["The Trainers and Pokémon that gather here aren’t pushovers. They all have tricks up their sleeves!", "The Pokémon you’ll meet here won’t make it easy for you to move onward.", "I have trained this team for the road. Challenge me if you are ready."]

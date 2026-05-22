@@ -1,0 +1,71 @@
+{
+  "id": "rct_team_rocket_grunt_0168",
+  "name": "Team Rocket Grunt",
+  "title": "Team Rocket",
+  "gender": "any",
+  "archetype": "team_rocket",
+  "region": "",
+  "category": "team",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "team_rocket/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:ariados",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "noguard",
+      "moveset": [
+        "poisonjab",
+        "nightshade",
+        "leechlife",
+        "furyswipes"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "selfdestruct",
+        "sludge",
+        "smokescreen",
+        "haze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:centiskorch",
+      "level": 40,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "clearbody",
+      "moveset": [
+        "firelash",
+        "lunge",
+        "flamecharge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

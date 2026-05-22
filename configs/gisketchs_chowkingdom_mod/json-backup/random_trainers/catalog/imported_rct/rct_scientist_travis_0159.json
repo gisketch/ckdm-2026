@@ -1,0 +1,49 @@
+{
+  "id": "rct_scientist_travis_0159",
+  "name": "Scientist Travis",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "kabutops",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "sharpness",
+      "moveset": [
+        "endure",
+        "aquajet",
+        "megadrain",
+        "metalsound"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "omastar",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "brine",
+        "detect",
+        "ancientpower",
+        "meteorbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_alexa_0603",
+  "name": "Ace Trainer Alexa",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 36,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "breloom",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "effectspore",
+      "moveset": [
+        "bulletseed",
+        "machpunch",
+        "rocktomb",
+        "spore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "magmar",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "flamebody",
+      "moveset": [
+        "firepunch",
+        "thunderpunch",
+        "machpunch",
+        "confuseray"
+      ],
+      "heldItem": "fire_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sealeo",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "aurorabeam",
+        "waterpulse",
+        "protect",
+        "yawn"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "florges",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "flowerveil",
+      "moveset": [
+        "moonblast",
+        "wish",
+        "toxic",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gardevoir",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "synchronize",
+      "moveset": [
+        "psybeam",
+        "drainingkiss",
+        "wish",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

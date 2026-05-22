@@ -1,0 +1,113 @@
+{
+  "id": "rct_aroma_lady_nikki_020b",
+  "name": "Aroma Lady Nikki",
+  "title": "Aroma Lady",
+  "gender": "any",
+  "archetype": "aroma_lady",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "sableye",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "prankster",
+      "moveset": [
+        "recover",
+        "toxic",
+        "foulplay",
+        "willowisp"
+      ],
+      "heldItem": "mega_showdown:sablenite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tangrowth",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "regenerator",
+      "moveset": [
+        "gigadrain",
+        "earthquake",
+        "knockoff",
+        "focusblast"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "blissey",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "naturalcure",
+      "moveset": [
+        "teleport",
+        "softboiled",
+        "seismictoss",
+        "thunderwave"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "toxapex",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "regenerator",
+      "moveset": [
+        "toxicspikes",
+        "scald",
+        "knockoff",
+        "recover"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "reuniclus",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "futuresight",
+        "psyshock",
+        "focusblast",
+        "teleport"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drapion",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sniper",
+      "moveset": [
+        "wickedblow",
+        "poisonjab",
+        "earthquake",
+        "leechlife"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_picnicker_missy_01d8",
+  "name": "Picnicker Missy",
+  "title": "Picnicker",
+  "gender": "any",
+  "archetype": "picnicker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 64,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "palpitoad",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "hydration",
+      "moveset": [
+        "flail",
+        "echoedvoice",
+        "hydropump",
+        "hypervoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gastrodon",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "stormdrain",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "muddywater",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

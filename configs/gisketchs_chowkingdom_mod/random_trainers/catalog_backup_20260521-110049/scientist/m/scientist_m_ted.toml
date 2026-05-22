@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_m_ted"
+name = "Scientist Ted"
+title = "Scientist"
+gender = "male"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 67
+maxLevel = 69
+team = [
+  { species = "cobblemon:electrode", level = 67, gender = "GENDERLESS", nature = "gentle", ability = "static", moveset = ["explosion", "gyroball", "mirrorcoat", "courtchange"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:porygon2", level = 69, gender = "GENDERLESS", nature = "mild", ability = "download", moveset = ["triattack", "magiccoat", "zapcannon", "hyperbeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Ted is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

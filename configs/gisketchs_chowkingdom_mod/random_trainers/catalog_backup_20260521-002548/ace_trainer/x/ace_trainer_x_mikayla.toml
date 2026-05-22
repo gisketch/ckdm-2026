@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_mikayla"
+name = "Ace Trainer Mikayla"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 56
+maxLevel = 56
+team = [
+  { species = "cobblemon:meowth", level = 56, gender = "FEMALE", nature = "careful", ability = "technician", moveset = ["taunt", "playrough", "feint", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:persian", level = 56, gender = "FEMALE", nature = "careful", ability = "technician", moveset = ["fakeout", "slash", "taunt", "payday"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:hypno", level = 56, gender = "MALE", nature = "calm", ability = "insomnia", moveset = ["futuresight", "psychic", "hypnosis", "disable"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

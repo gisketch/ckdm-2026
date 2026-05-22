@@ -1,0 +1,116 @@
+{
+  "id": "rct_tuber_alexis_022f",
+  "name": "Tuber Alexis",
+  "title": "Tuber",
+  "gender": "any",
+  "archetype": "tuber",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "tuber/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.89,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:carracosta",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sturdy",
+      "moveset": [
+        "shellsmash",
+        "aquajet",
+        "waterfall",
+        "stoneedge"
+      ],
+      "heldItem": [
+        "salac_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingler",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "liquidation",
+        "swordsdance",
+        "closecombat",
+        "aquajet"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:slowbro",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "regenerator",
+      "moveset": [
+        "irondefense",
+        "calmmind",
+        "bodypress",
+        "shadowball"
+      ],
+      "heldItem": [
+        "mega_showdown:slowbronite",
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lanturn",
+      "level": 92,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "illuminate",
+      "moveset": [
+        "hydropump",
+        "blizzard",
+        "thunder",
+        "voltswitch"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hydreigon",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "fireblast",
+        "surf",
+        "darkpulse",
+        "nastyplot"
+      ],
+      "heldItem": [
+        "mega_showdown:waterium_z",
+        "water_gem"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

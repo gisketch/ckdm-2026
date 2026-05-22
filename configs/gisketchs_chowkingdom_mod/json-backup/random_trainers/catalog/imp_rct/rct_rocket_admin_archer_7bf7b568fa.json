@@ -1,0 +1,97 @@
+{
+  "id": "rct_rocket_admin_archer_0043",
+  "name": "Rocket Admin Archer",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rocket_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 77,
+  "maxLevel": 79,
+  "team": [
+    {
+      "species": "cobblemon:mamoswine",
+      "level": 77,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "thickfat",
+      "moveset": [
+        "earthquake",
+        "iceshard",
+        "endeavor",
+        "iciclecrash"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:durant",
+      "level": 78,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "hustle",
+      "moveset": [
+        "honeclaws",
+        "ironhead",
+        "xscissor",
+        "superpower"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mimikyu",
+      "level": 79,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "swordsdance",
+        "shadowclaw",
+        "shadowsneak"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:houndoom",
+      "level": 79,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "unnerve",
+      "moveset": [
+        "fierywrath",
+        "flamethrower",
+        "suckerpunch",
+        "sludgebomb"
+      ],
+      "heldItem": [
+        "mega_showdown:houndoominite",
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

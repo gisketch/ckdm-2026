@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_oliver_047b",
+  "name": "Youngster Oliver",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "stunky",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "stench",
+      "moveset": [
+        "poisongas",
+        "acidspray",
+        "furyswipes",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kricketune",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "swarm",
+      "moveset": [
+        "furycutter",
+        "growl",
+        "pound",
+        "absorb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shellos",
+      "level": 16,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

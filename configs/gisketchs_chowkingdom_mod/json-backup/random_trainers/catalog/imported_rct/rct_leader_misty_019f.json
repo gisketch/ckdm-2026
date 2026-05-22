@@ -1,0 +1,81 @@
+{
+  "id": "rct_leader_misty_019f",
+  "name": "Leader Misty",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 27,
+  "team": [
+    {
+      "species": "frogadier",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "protean",
+      "moveset": [
+        "icepunch",
+        "rocktomb",
+        "flipturn",
+        "grassknot"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "floatzel",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "technician",
+      "moveset": [
+        "waterpulse",
+        "flipturn",
+        "icywind",
+        "hiddenpower"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "starmie",
+      "level": 27,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "analytic",
+      "moveset": [
+        "psyshock",
+        "scald",
+        "recover",
+        "aurorabeam"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lanturn",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "voltabsorb",
+      "moveset": [
+        "scald",
+        "paraboliccharge",
+        "icywind",
+        "hiddenpower"
+      ],
+      "heldItem": "iapapa_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

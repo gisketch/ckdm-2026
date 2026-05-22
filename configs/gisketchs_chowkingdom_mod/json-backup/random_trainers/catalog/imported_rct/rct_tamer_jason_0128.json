@@ -1,0 +1,33 @@
+{
+  "id": "rct_tamer_jason_0128",
+  "name": "Tamer Jason",
+  "title": "Tamer",
+  "gender": "any",
+  "archetype": "tamer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "rhyhorn",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "rockblast",
+        "drillrun",
+        "takedown",
+        "stoneedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "rct_sailor_samson_0452",
+  "name": "Sailor Samson",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 24,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "shellos",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "recover",
+        "waterpulse",
+        "raindance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wingull",
+      "level": 24,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hydration",
+      "moveset": [
+        "waterpulse",
+        "raindance",
+        "uturn",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "shellos",
+      "level": 24,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "stormdrain",
+      "moveset": [
+        "mudslap",
+        "harden",
+        "recover",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "east_sea"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

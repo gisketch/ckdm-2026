@@ -1,0 +1,53 @@
+{
+  "id": "rct_pokemaniac_ashton_00a8",
+  "name": "Pokémaniac Ashton",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "mrmime",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "screencleaner",
+      "moveset": [
+        "icywind",
+        "doublekick",
+        "psybeam",
+        "hypnosis"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    },
+    {
+      "species": "farfetchd",
+      "level": 32,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "steadfast",
+      "moveset": [
+        "rocksmash",
+        "brutalswing",
+        "detect",
+        "knockoff"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "galarian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

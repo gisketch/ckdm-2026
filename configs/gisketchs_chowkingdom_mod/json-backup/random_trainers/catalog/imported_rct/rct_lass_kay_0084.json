@@ -1,0 +1,49 @@
+{
+  "id": "rct_lass_kay_0084",
+  "name": "Lass Kay",
+  "title": "Lass",
+  "gender": "any",
+  "archetype": "lass",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "nuzleaf",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "earlybird",
+      "moveset": [
+        "nightslash",
+        "leafblade",
+        "swagger",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pumpkaboo",
+      "level": 38,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "frisk",
+      "moveset": [
+        "trickortreat",
+        "magicalleaf",
+        "shadowball",
+        "hex"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

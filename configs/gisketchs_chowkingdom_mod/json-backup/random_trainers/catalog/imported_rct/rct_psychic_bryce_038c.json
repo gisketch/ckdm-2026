@@ -1,0 +1,65 @@
+{
+  "id": "rct_psychic_bryce_038c",
+  "name": "Psychic Bryce",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "haunter",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "levitate",
+      "moveset": [
+        "confuseray",
+        "curse",
+        "hex",
+        "darkpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "alakazam",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "innerfocus",
+      "moveset": [
+        "recover",
+        "psyshock",
+        "roleplay",
+        "futuresight"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gengar",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "cursedbody",
+      "moveset": [
+        "shadowpunch",
+        "confuseray",
+        "hex",
+        "darkpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

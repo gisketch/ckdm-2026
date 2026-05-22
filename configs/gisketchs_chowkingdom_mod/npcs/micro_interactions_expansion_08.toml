@@ -2,90 +2,110 @@
 id = "expansion_08_001"
 topic = "ridge_patrol_shift"
 source_tags = ["war_archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["tundra_archer"]
 line = "The south ridge is quiet. I watched your snow trails."
-response = "Traxex nods."
+response = "Quiet means listen harder. Snow hides what grass would betray."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_002"
 topic = "bowstring_wax_swap"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "My bowstring wax is running out. Do you carry the Skylands blend?"
-response = "Huntress Wizard tosses a small pot."
+response = "Take this pot. Warm it in your hand before you dress the string."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_003"
 topic = "seed_path_marking"
 source_tags = ["archer"]
+required_spawned_ids = ["legolas"]
 target_tags = ["war_archer"]
 line = "I left glowseed paste on the cliff path for night patrols."
-response = "Legolas nods."
+response = "Good mark. Keep it low so raiders miss it and patrols see it."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_004"
 topic = "snow_trail_noise"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["geralt"]
 target_tags = ["mentor"]
 line = "My footsteps on fresh snow still sound too loud. Any advice?"
-response = "Geralt mutters."
+response = "Roll your foot from edge to heel. Snow punishes heavy steps."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_005"
 topic = "ridge_sun_dazzle"
 source_tags = ["war_archer"]
+required_spawned_ids = ["toph"]
 target_tags = ["mentor"]
 line = "Morning sun on the east ridge blinds archers. Can we rig a shade?"
-response = "Toph grinds her heel."
+response = "I can raise a stone lip. It will shade eyes without blocking shots."
+source_emote = "wave"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_006"
 topic = "arrowhead_stockpile"
 source_tags = ["archer"]
+required_spawned_ids = ["link"]
 target_tags = ["town"]
 line = "We need more broadheads. The smithy stopped mid batch."
-response = "Link taps his slate."
+response = "I can mark the shortage and haul iron before the next watch."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_007"
 topic = "tundra_ambush_memory"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "Last winter, a pack circled me from the frozen ledge."
-response = "Huntress draws her bow."
+response = "Then never trust one ledge. Hunt the circle before it closes."
+source_emote = "hi"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_008"
 topic = "cobble_spoor_spotting"
 source_tags = ["war_archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["archer"]
 line = "Three claw marks on the ridge stone. Something climbed up."
-response = "Traxex kneels."
+response = "Claws that deep mean weight. Track from the high side."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_009"
 topic = "bowstring_cold_failure"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["mentor"]
 line = "My string snapped during that frost watch. Happens too often."
-response = "Gandalf rubs his staff."
+response = "Wax the string with pine and ash. Frost hates a stubborn seal."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_010"
 topic = "seed_path_growth"
 source_tags = ["archer"]
 target_tags = ["researcher"]
 line = "The glowseed markers are spreading into the crop rows."
-response = "Bubblegum examines a leaf."
+response = "Trim the glowseed roots before they claim the whole bed."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -94,356 +114,437 @@ topic = "ridge_signal_flare"
 source_tags = ["war_archer"]
 target_tags = ["town"]
 line = "We need three flare arrows ready. One for each watch shift."
-response = "Ezrio passes a pouch."
+response = "I packed flare powder already. Keep it dry until the horn sounds."
+source_emote = "proud"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_08_012"
 topic = "frozen_fletching_trade"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "My fletching feathers freeze solid. Do you store them warm?"
-response = "Huntress shows a pouch."
+response = "Keep feathers near your chest. Body heat saves the fletching."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_013"
 topic = "night_scope_request"
 source_tags = ["war_archer"]
+required_spawned_ids = ["invoker"]
 target_tags = ["mentor"]
 line = "Moonless nights I lose the trail. Is there a vision charm?"
-response = "Invoker chants softly."
+response = "A minor sight charm will do. Do not stare through it too long."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_014"
 topic = "ridge_wind_reading"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["aang"]
 target_tags = ["wind_wizard"]
 line = "The wind shifts quickly here. Can you scent any trouble?"
-response = "Aang closes his eyes."
+response = "The wind smells clean for now, but the north gust feels nervous."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_015"
 topic = "arrow_retrieval_run"
 source_tags = ["archer"]
+required_spawned_ids = ["legolas"]
 target_tags = ["war_archer"]
 line = "Lost six arrows in the thorn gully. Can Legolas help retrieve?"
-response = "Legolas vaults down."
+response = "Tie a cord first. Thorn gullies steal more than arrows."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_016"
 topic = "snow_camouflage_test"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "My white cloak blends well. But my breath still shows."
-response = "Huntress taps her chin."
+response = "Chew mint before patrol. Warm breath shows less through the leaves."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_017"
 topic = "watch_lantern_fuel"
 source_tags = ["war_archer"]
+required_spawned_ids = ["zuko"]
 target_tags = ["town"]
 line = "The watch lantern needs more glow oil. Zuko has a batch?"
-response = "Zuko ignites a small flask."
+response = "He has glow oil curing by the forge. I will bring a sealed flask."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_018"
 topic = "seed_path_erosion"
 source_tags = ["archer"]
+required_spawned_ids = ["toph"]
 target_tags = ["earth_wizard"]
 line = "Rain washed the lower seed marks away. Can Toph recarve them?"
-response = "Toph stomps. Small pillars rise."
+response = "She can cut deeper marks. Rain cannot wash stone memory away."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_019"
 topic = "tundra_bow_preservation"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["geralt"]
 target_tags = ["mentor"]
 line = "My bow warps between cold nights and warm fires. Any fix?"
-response = "Geralt grunts."
+response = "Store it cold, warm it slow. Sudden heat twists good wood."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_020"
 topic = "ridge_nesting_season"
 source_tags = ["war_archer"]
 target_tags = ["researcher"]
 line = "Cobble crows are nesting on the north ledge. Aggressive now."
-response = "Bubblegum nods."
+response = "Then rope off the ledge. Nesting birds defend harder than guards."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_08_021"
 topic = "arrow_poison_hunt"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "I need fresh venom for the big quarry. Know a good source?"
-response = "Huntress points."
+response = "Check the blue thorn vines below the ridge. Wear thick gloves."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_022"
 topic = "watch_drum_signal"
 source_tags = ["war_archer"]
+required_spawned_ids = ["venti"]
 target_tags = ["town"]
 line = "We need a drum code for north ridge sightings. Can Venti help?"
-response = "Venti plucks his lyre."
+response = "Three beats for sighting, five for danger. Simple carries far."
+source_emote = "head_scratches"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_023"
 topic = "frozen_quiver_melt"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["zuko"]
 target_tags = ["fire_wizard"]
 line = "My quiver iced shut during the blizzard watch. Can Zuko thaw it?"
-response = "Zuko breathes gently. A warm glow spreads."
+response = "Thaw it slow. Quick flame ruins leather faster than frost."
+source_emote = "lookout"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_024"
 topic = "seed_bag_share"
 source_tags = ["archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["tundra_archer"]
 line = "I have extra glowseeds. Want some for your tundra trails?"
-response = "Traxex accepts them."
+response = "Useful. Tundra trails need marks that survive moonless snow."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_025"
 topic = "ridge_shadow_motion"
 source_tags = ["war_archer"]
+required_spawned_ids = ["ezio"]
 target_tags = ["mentor"]
 line = "Something moves in the deep shade. Arrow or wait for light?"
-response = "Ezio murmurs."
+response = "Wait for light. Shadows want you to waste the first arrow."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_026"
 topic = "string_silencing_technique"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["legolas"]
 target_tags = ["war_archer"]
 line = "My bowstring thrums too much. Prey hears it on the snow."
-response = "Legolas whispers."
+response = "Beeswax, then loose fingers. Let the string leave without a snap."
+source_emote = "facepalm"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_027"
 topic = "patrol_shift_handoff"
 source_tags = ["war_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "My watch ends. The west ridge has fresh tracks. Human-sized."
-response = "Huntress nods."
+response = "I will take west ridge. Human tracks at dusk rarely mean friends."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_028"
 topic = "snowdrift_hazard_map"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["katara"]
 target_tags = ["town"]
 line = "Three snowdrifts are unstable near the pass. Mark it for town?"
-response = "Katara gestures."
+response = "Mark it before noon. Meltwater makes liars of safe paths."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_029"
 topic = "feather_collection_day"
 source_tags = ["archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["tundra_archer"]
 line = "Cobble jays dropped many wing feathers. Good for fletching."
-response = "Traxex gathers them."
+response = "Sort the stiff ones for distance shots and soft ones for silence."
+source_emote = "wave"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_030"
 topic = "night_eye_diet"
 source_tags = ["war_archer"]
+required_spawned_ids = ["ciri"]
 target_tags = ["mentor"]
 line = "My night vision dims. Any food that sharpens sight?"
-response = "Ciri grins."
+response = "Carrots help less than rest. Tired eyes miss moving shadows."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_031"
 topic = "frozen_target_practice"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["elsa"]
 target_tags = ["frost_wizard"]
 line = "Can you freeze practice dummies at different distances?"
-response = "Elsa waves her hand. Ice figures rise."
+response = "I can set five ranges. Do not shoot until the ice fully hardens."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_032"
 topic = "ridge_echo_location"
 source_tags = ["war_archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["archer"]
 line = "That echo came from the eastern gulch. Something heavy moved."
-response = "Traxex listens."
+response = "Heavy steps echo twice in that gulch. It is still nearby."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_033"
 topic = "compound_bow_debate"
 source_tags = ["archer"]
+required_spawned_ids = ["legolas"]
 target_tags = ["war_archer"]
 line = "The smith built a compound bow prototype. Worth trying?"
-response = "Legolas frowns."
+response = "Try it, but trust balance over gears. A bow must answer fast."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_034"
 topic = "seed_path_brightness"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "Your glowseeds are too bright. They scare off night prey."
-response = "Huntress nods."
+response = "Dim them with moss ash. Prey should see a path, not a beacon."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_035"
 topic = "watch_post_firewood"
 source_tags = ["war_archer"]
+required_spawned_ids = ["finn"]
 target_tags = ["town"]
 line = "The ridge post needs dry firewood. Rain soaked the pile."
-response = "Finn chops neatly."
+response = "I will split a dry stack and cover it before the clouds return."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_036"
 topic = "blizzard_visibility_tip"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["mentor"]
 line = "Whiteout blinded me halfway through my trail check. Help."
-response = "Gandalf murmurs."
+response = "Count steps between cairns. In whiteout, memory sees for you."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_037"
 topic = "ridge_crystal_shine"
 source_tags = ["archer"]
+required_spawned_ids = ["legolas"]
 target_tags = ["war_archer"]
 line = "There's a crystal vein on the cliff. It shines at sunset."
-response = "Legolas nods."
+response = "Mark it on the watch map. Sunset shine can guide lost patrols."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_038"
 topic = "arrow_shaft_straightness"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "My new shafts are slightly curved. They wobble in flight."
-response = "Huntress inspects them."
+response = "Steam them straight, then bind them overnight. Do not rush wood."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_039"
 topic = "morning_mist_muffle"
 source_tags = ["war_archer"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["mentor"]
 line = "Morning mist dampens bowstring twang. Good for ambush watch."
-response = "Zagreus laughs."
+response = "Good. Let the mist hide you, but do not let it hide them."
+source_emote = "wave"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_040"
 topic = "snow_bridge_caution"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["vi"]
 target_tags = ["town"]
 line = "That snow bridge over the ravine will collapse soon. Warn folk."
-response = "Vi punches a signpost into the ground."
+response = "Put a warning at both ends. One sign never stops rushing feet."
+source_emote = "threaten"
+target_emote = "threaten"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_041"
 topic = "quiver_weight_reduction"
 source_tags = ["archer"]
+required_spawned_ids = ["vi"]
 target_tags = ["forcemaster"]
 line = "My patrol quiver is heavy. Any trick to lighten the load?"
-response = "Vi flexes her gauntlet."
+response = "Carry fewer arrows and better shots. Weight is also a lesson."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_042"
 topic = "ridge_bird_alarm"
 source_tags = ["war_archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["tundra_archer"]
 line = "The ridge birds suddenly quiet. Did you see anything?"
-response = "Traxex draws and aims."
+response = "Bird silence means a predator or storm. Either way, take cover."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_043"
 topic = "string_storage_advice"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["geralt"]
 target_tags = ["mentor"]
 line = "Should I unstring my bow during long cold watches?"
-response = "Geralt nods."
+response = "Yes. Ease the limbs when the watch is long. Cold holds grudges."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_044"
 topic = "glowcap_arrow_marker"
 source_tags = ["archer"]
+required_spawned_ids = ["legolas"]
 target_tags = ["war_archer"]
 line = "I used glowcap arrows to mark the crossroads. Easy to spot."
-response = "Legolas glances."
+response = "Good. Use two markers at crossroads, or tired scouts turn wrong."
+source_emote = "shrug"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_045"
 topic = "frostbite_check_buddy"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "Check my ears. They went numb after that wind shift."
-response = "Huntress looks closely."
+response = "They are pale, not bitten yet. Warm them now and end your shift."
+source_emote = "lookout"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_046"
 topic = "ridge_perch_repair"
 source_tags = ["war_archer"]
+required_spawned_ids = ["link"]
 target_tags = ["town"]
 line = "The archer perch on peak three is cracked. Needs new timber."
-response = "Link hoists a log."
+response = "New timber, rope lashings, and wedges. I can repair it before dusk."
+source_emote = "shrug"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_047"
 topic = "trail_blaze_pattern"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["archer"]
 line = "I blaze trees with a white streak. Can you follow that?"
-response = "Huntress traces it."
+response = "Yes, but add a notch below. Snow can hide paint by morning."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_048"
 topic = "dusk_watch_rotation"
 source_tags = ["war_archer"]
+required_spawned_ids = ["ciri"]
 target_tags = ["town"]
 line = "We need four archers for dusk. The shadow beasts are active."
-response = "Ciri emerges."
+response = "Then set the rotation now. Dusk gives shadow beasts courage."
+source_emote = "clap"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_049"
 topic = "tundra_quiver_insulation"
 source_tags = ["tundra_archer"]
+required_spawned_ids = ["traxex"]
 target_tags = ["tundra_archer"]
 line = "Traxex, have you tested fur quiver lining for deep cold?"
-response = "Traxex holds one up."
+response = "Fur lining works if it stays dry. Wet fur freezes into a trap."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_08_050"
 topic = "watch_log_record"
 source_tags = ["war_archer"]
+required_spawned_ids = ["pope_leo"]
 target_tags = ["mentor"]
 line = "I record every shift in a log. Who keeps the town archive?"
-response = "Pope Leo raises a quill."
+response = "Bring the logs to the chapel archive. I will bind them by season."
+source_emote = "proud"
+target_emote = "wave"
 weight = 1.0

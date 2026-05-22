@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_rolando"
+name = "Ace Trainer Rolando"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "very_high"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 82
+maxLevel = 84
+team = [
+  { species = "cobblemon:ferrothorn", level = 82, gender = "FEMALE", nature = "careful", ability = "ironbarbs", moveset = ["stealthrock", "powerwhip", "thunderwave", "ironhead"], heldItem = "['rocky_helmet']", shiny = false, aspects = [] },
+  { species = "cobblemon:leavanny", level = 82, gender = "FEMALE", nature = "jolly", ability = "sharpness", moveset = ["fellstinger", "leafblade", "knockoff", "xscissor"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:mudsdale", level = 82, gender = "FEMALE", nature = "impish", ability = "stamina", moveset = ["earthquake", "slackoff", "toxic", "protect"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:clawitzer", level = 82, gender = "FEMALE", nature = "timid", ability = "megalauncher", moveset = ["waterpulse", "icebeam", "darkpulse", "aurasphere"], heldItem = "['choice_scarf']", shiny = false, aspects = [] },
+  { species = "cobblemon:ampharos", level = 84, gender = "FEMALE", nature = "modest", ability = "static", moveset = ["dragonpulse", "discharge", "voltswitch", "focusblast"], heldItem = "['mega_showdown:ampharosite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Rolando is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

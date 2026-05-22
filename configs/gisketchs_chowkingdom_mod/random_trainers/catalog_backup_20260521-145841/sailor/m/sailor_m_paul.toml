@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_paul"
+name = "Sailor Paul"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:gyarados", level = 31, gender = "FEMALE", nature = "sassy", ability = "intimidate", moveset = ["leer", "twister", "waterfall", "crunch"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machop", level = 31, gender = "FEMALE", nature = "relaxed", ability = "noguard", moveset = ["leer", "lowsweep", "knockoff", "strength"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Traveling alone, are you? That’s impressive! How about we battle?", "Maybe I’ll go work out down at the restaurant again. That place gets different people in every day, and they all like battles.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_alan"
+name = "Hiker Alan"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "mid"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:geodude", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["magnitude", "rockthrow", "mudsport", "defensecurl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = ["harden", "rockthrow", "bind", "screech"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Alan is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

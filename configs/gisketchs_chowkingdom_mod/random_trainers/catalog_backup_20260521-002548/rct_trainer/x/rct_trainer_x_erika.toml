@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_erika"
+name = "Rct Trainer Erika"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 60
+maxLevel = 62
+team = [
+  { species = "cobblemon:tsareena", level = 60, gender = "FEMALE", nature = "adamant", ability = "reckless", moveset = ["tripleaxel", "tropkick", "highjumpkick", "rapidspin"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:bellossom", level = 62, gender = "MALE", nature = "timid", ability = "chlorophyll", moveset = ["sleeppowder", "quiverdance", "gigadrain", "fierydance"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:hawlucha", level = 60, gender = "FEMALE", nature = "adamant", ability = "unburden", moveset = ["swordsdance", "acrobatics", "closecombat", "roost"], heldItem = "['grassy_seed']", shiny = false, aspects = [] },
+  { species = "cobblemon:rillaboom", level = 60, gender = "FEMALE", nature = "timid", ability = "grassysurge", moveset = ["swordsdance", "grassyglide", "acrobatics", "highhorsepower"], heldItem = "['grassy_seed']", shiny = false, aspects = [] },
+  { species = "cobblemon:serperior", level = 60, gender = "FEMALE", nature = "timid", ability = "contrary", moveset = ["leafstorm", "gigadrain", "dragonpulse", "leechseed"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:venusaur", level = 62, gender = "FEMALE", nature = "modest", ability = "overgrow", moveset = ["gigadrain", "sludgebomb", "earthpower", "synthesis"], heldItem = "['mega_showdown:venusaurite', 'leftovers']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

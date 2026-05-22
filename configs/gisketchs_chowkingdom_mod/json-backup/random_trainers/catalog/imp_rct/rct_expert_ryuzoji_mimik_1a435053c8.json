@@ -1,0 +1,42 @@
+{
+  "id": "rct_expert_ryuzoji_mimikyu_1_05e2",
+  "name": "Expert Ryuzoji",
+  "title": "Expert",
+  "gender": "any",
+  "archetype": "expert",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "expert/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 80,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "cobblemon:mimikyu",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "willowisp",
+        "safeguard",
+        "protect"
+      ],
+      "heldItem": [
+        "quick_claw"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

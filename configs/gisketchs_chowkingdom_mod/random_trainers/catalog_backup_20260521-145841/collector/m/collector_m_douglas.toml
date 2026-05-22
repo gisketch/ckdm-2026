@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "collector_m_douglas"
+name = "Collector Douglas"
+title = "Collector"
+gender = "male"
+archetype = "collector"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "collector/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 20
+maxLevel = 24
+team = [
+  { species = "cobblemon:roselia", level = 20, gender = "MALE", nature = "calm", ability = "poisonpoint", moveset = ["megadrain", "leechseed", "magicalleaf", "toxicspikes"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:roselia", level = 22, gender = "FEMALE", nature = "calm", ability = "poisonpoint", moveset = ["poisonsting", "megadrain", "leechseed", "magicalleaf"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:roselia", level = 24, gender = "MALE", nature = "calm", ability = "poisonpoint", moveset = ["poisonsting", "megadrain", "leechseed", "magicalleaf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["For the sake of my collection, I take on people I know I can’t beat. That’s what a Collector does.", "I take pride in having Pokémon that others don’t. Oh, I’m also proud about winning second prize in one of Jubilife TV’s drawings.", "I have trained this team for the road. Challenge me if you are ready."]

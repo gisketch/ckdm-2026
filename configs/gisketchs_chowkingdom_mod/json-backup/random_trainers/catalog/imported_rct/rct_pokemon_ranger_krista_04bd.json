@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_krista_04bd",
+  "name": "Pokémon Ranger Krista",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "trapinch",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "hypercutter",
+      "moveset": [
+        "crunch",
+        "sandtomb",
+        "dig",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "vibrava",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "levitate",
+      "moveset": [
+        "supersonic",
+        "bugbuzz",
+        "earthpower",
+        "dragonbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

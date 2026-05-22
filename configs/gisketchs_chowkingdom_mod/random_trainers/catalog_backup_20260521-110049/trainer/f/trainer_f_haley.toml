@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_f_haley"
+name = "Trainer Haley"
+title = "Trainer"
+gender = "female"
+archetype = "trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "trainer/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:magnezone", level = 44, gender = "GENDERLESS", nature = "timid", ability = "sturdy", moveset = ["voltswitch", "flashcannon", "hiddenpower", "thunderbolt"], heldItem = "['air_balloon']", shiny = false, aspects = [] },
+  { species = "cobblemon:hawlucha", level = 44, gender = "MALE", nature = "jolly", ability = "unburden", moveset = ["skyattack", "acrobatics", "closecombat", "swordsdance"], heldItem = "['power_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:magmortar", level = 44, gender = "FEMALE", nature = "timid", ability = "flamebody", moveset = ["meteorbeam", "flamethrower", "steameruption", "thunderbolt"], heldItem = "['power_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:cursola", level = 44, gender = "MALE", nature = "timid", ability = "unburden", moveset = ["meteorbeam", "shadowball", "icebeam", "mysticalfire"], heldItem = "['power_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 44, gender = "GENDERLESS", nature = "timid", ability = "analytic", moveset = ["meteorbeam", "surf", "icebeam", "psyshock"], heldItem = "['power_herb']", shiny = false, aspects = [] },
+  { species = "cobblemon:sandaconda", level = 44, gender = "FEMALE", nature = "careful", ability = "shedskin", moveset = ["bodyslam", "rest", "sleeptalk", "coil"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

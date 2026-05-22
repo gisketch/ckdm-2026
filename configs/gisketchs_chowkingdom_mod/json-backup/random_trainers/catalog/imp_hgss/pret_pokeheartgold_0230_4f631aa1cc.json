@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeheartgold_0230_psychic_male_franklin",
+  "name": "Psychic Male Franklin",
+  "title": "Psychic Male",
+  "gender": "male",
+  "archetype": "psychic_male",
+  "region": "Johto/Kanto",
+  "category": "specialist",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "psychic_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.03,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 44,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:kadabra",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "headbutt",
+        "skillswap",
+        "psychic",
+        "disable"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:girafarig",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "crunch",
+        "skillswap",
+        "doublehit",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Psychic power is the power of your mind.",
+    "You made your mind stronger, not just your abilities."
+  ]
+}

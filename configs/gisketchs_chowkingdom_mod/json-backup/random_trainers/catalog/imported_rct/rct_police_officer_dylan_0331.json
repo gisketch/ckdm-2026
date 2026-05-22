@@ -1,0 +1,49 @@
+{
+  "id": "rct_police_officer_dylan_0331",
+  "name": "Police Officer Dylan",
+  "title": "Police Officer",
+  "gender": "any",
+  "archetype": "police_officer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "keeneye",
+      "moveset": [
+        "growl",
+        "echoedvoice",
+        "reflect",
+        "psychoshift"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "meditite",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "purepower",
+      "moveset": [
+        "confusion",
+        "detect",
+        "feint",
+        "forcepalm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

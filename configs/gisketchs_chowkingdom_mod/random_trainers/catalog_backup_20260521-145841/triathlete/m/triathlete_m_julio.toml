@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "triathlete_m_julio"
+name = "Triathlete Julio"
+title = "Triathlete"
+gender = "male"
+archetype = "triathlete"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "triathlete/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.02
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:magnemite", level = 21, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Triathlete Julio is ready for a battle."]

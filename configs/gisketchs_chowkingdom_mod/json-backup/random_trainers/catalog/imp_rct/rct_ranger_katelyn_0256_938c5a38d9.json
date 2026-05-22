@@ -1,0 +1,40 @@
+{
+  "id": "rct_ranger_katelyn_0256",
+  "name": "Ranger Katelyn",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.07,
+  "weight": 1.12,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "cobblemon:chansey",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "serenegrace",
+      "moveset": [
+        "eggbomb",
+        "defensecurl",
+        "minimize",
+        "softboiled"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

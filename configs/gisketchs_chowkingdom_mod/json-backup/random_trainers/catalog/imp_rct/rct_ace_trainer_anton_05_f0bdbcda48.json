@@ -1,0 +1,40 @@
+{
+  "id": "rct_ace_trainer_anton_0573",
+  "name": "Ace Trainer Anton",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:snover",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "razorleaf",
+        "waterpulse",
+        "blizzard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

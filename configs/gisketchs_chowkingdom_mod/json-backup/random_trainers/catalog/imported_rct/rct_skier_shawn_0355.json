@@ -1,0 +1,81 @@
+{
+  "id": "rct_skier_shawn_0355",
+  "name": "Skier Shawn",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "snover",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "leer",
+        "iceshard",
+        "razorleaf",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snover",
+      "level": 33,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "mist",
+        "iceshard",
+        "razorleaf",
+        "icywind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golduck",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "waterpulse",
+        "zenheadbutt",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snover",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "snowwarning",
+      "moveset": [
+        "iceshard",
+        "razorleaf",
+        "icywind",
+        "ingrain"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

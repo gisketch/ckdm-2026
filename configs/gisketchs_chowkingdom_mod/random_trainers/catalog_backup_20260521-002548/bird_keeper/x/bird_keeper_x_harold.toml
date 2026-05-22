@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_harold"
+name = "Bird Keeper Harold"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 53
+maxLevel = 55
+team = [
+  { species = "cobblemon:noctowl", level = 53, gender = "FEMALE", nature = "lonely", ability = "tintedlens", moveset = ["uproar", "roost", "moonblast", "synchronoise"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:noctowl", level = 55, gender = "FEMALE", nature = "timid", ability = "tintedlens", moveset = ["uproar", "roost", "moonblast", "synchronoise"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Harold is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

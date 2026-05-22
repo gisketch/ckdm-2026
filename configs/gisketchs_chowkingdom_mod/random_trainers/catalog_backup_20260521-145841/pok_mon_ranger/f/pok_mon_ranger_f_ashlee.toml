@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_ranger_f_ashlee"
+name = "Pok Mon Ranger Ashlee"
+title = "Pok Mon Ranger"
+gender = "female"
+archetype = "pok_mon_ranger"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_ranger/female"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.14
+bustStyle = "standard"
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:linoone", level = 60, gender = "MALE", nature = "jolly", ability = "pickup", moveset = ["slash", "rest", "bellydrum", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:skarmory", level = 60, gender = "MALE", nature = "impish", ability = "keeneye", moveset = ["steelwing", "bravebird", "slash", "irondefense"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

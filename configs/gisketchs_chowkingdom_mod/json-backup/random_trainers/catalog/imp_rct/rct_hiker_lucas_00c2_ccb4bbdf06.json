@@ -1,0 +1,55 @@
+{
+  "id": "rct_hiker_lucas_00c2",
+  "name": "Hiker Lucas",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "cobblemon:honedge",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "sharpness",
+      "moveset": [
+        "magnitude",
+        "gyroball",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:teddiursa",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "quickfeet",
+      "moveset": [
+        "magnitude",
+        "furyswipes",
+        "faketears",
+        "feintattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

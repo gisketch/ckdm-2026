@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_mon_trainer_f_dawn"
+name = "Pok Mon Trainer Dawn"
+title = "Pok Mon Trainer"
+gender = "female"
+archetype = "pok_mon_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_mon_trainer/female"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 68
+maxLevel = 74
+team = [
+  { species = "cobblemon:crobat", level = 68, gender = "MALE", nature = "jolly", ability = "innerfocus", moveset = ["crosspoison", "uturn", "superfang", "tailwind"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:arcanine", level = 69, gender = "MALE", nature = "adamant", ability = "intimidate", moveset = ["flareblitz", "playrough", "extremespeed", "reversal"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:mrmime", level = 70, gender = "MALE", nature = "timid", ability = "filter", moveset = ["psychic", "powerwhip", "reflect", "lightscreen"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:blastoise", level = 69, gender = "MALE", nature = "modest", ability = "torrent", moveset = ["hydropump", "icebeam", "focusblast", "shellsmash"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:lickilicky", level = 70, gender = "FEMALE", nature = "modest", ability = "owntempo", moveset = ["focusblast", "icebeam", "fireblast", "shadowball"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:torterra", level = 74, gender = "MALE", nature = "brave", ability = "overgrow", moveset = ["woodhammer", "earthquake", "stoneedge", "curse"], heldItem = "['yache_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

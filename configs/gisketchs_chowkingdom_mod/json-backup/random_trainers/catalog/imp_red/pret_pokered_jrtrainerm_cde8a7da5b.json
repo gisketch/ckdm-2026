@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_jrtrainerm_003",
+  "name": "Jrtrainerm Sera",
+  "title": "Jrtrainerm",
+  "gender": "any",
+  "archetype": "jrtrainerm",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "jrtrainerm/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 18,
+  "team": [
+    {
+      "species": "cobblemon:mankey",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Jrtrainerm from Route 24 is ready for a battle."
+  ]
+}

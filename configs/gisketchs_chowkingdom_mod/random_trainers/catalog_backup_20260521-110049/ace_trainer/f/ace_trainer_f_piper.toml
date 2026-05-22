@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_piper"
+name = "Ace Trainer Piper"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 33
+maxLevel = 35
+team = [
+  { species = "cobblemon:horsea", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "leer", "brine", "twister"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:horsea", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smokescreen", "leer", "brine", "twister"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seadra", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["agility", "leer", "waterfall", "twister"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You shouldn’t be in here!", "Soon I’m going to get permission from our Master to use dragons. When I do, I’m going to become an admirable Dragon Tamer and gain our Master’s approval."]

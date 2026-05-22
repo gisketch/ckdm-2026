@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_youngster_dallas",
+  "name": "Youngster Dallas",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 8,
+  "maxLevel": 8,
+  "team": [
+    {
+      "species": "cobblemon:shinx",
+      "level": 8,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m never apart from my SHINX. Our bond is strong!",
+    "I don\u2019t bear grudges over losing. But I promise I\u2019ll get tougher!"
+  ]
+}

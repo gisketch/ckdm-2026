@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_x_horton"
+name = "Juggler Horton"
+title = "Juggler"
+gender = "any"
+archetype = "juggler"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "juggler/any"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:electrode", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "shockwave", "screech", "explosion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "shockwave", "doubleteam", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["swift", "shockwave", "screech", "rollout"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Horton is ready for a battle.", "I’m going to take you down! Prepare to be shocked!", "Lt. Surge hid the electric fences’ switches at the bottom of something... There are two switches. Once you’ve found the first, the second switch should be right next to it."]

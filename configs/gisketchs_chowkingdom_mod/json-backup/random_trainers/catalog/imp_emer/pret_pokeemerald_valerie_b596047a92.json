@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeemerald_valerie_1",
+  "name": "Hex Maniac Valerie",
+  "title": "Hex Maniac",
+  "gender": "any",
+  "archetype": "hex_maniac",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "hex_maniac/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:sableye",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hex Maniac Valerie is ready for a battle."
+  ]
+}

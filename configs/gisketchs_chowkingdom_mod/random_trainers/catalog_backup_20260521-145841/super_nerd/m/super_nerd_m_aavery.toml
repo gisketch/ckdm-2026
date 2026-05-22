@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_aavery"
+name = "Super Nerd Aavery"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 71
+maxLevel = 73
+team = [
+  { species = "cobblemon:heatmor", level = 72, gender = "FEMALE", nature = "adamant", ability = "gluttony", moveset = ["spitup", "swallow", "flareblitz", "inferno"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:charizard", level = 71, gender = "FEMALE", nature = "docile", ability = "blaze", moveset = ["flamethrower", "firespin", "inferno", "heatwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:talonflame", level = 73, gender = "MALE", nature = "docile", ability = "flamebody", moveset = ["mefirst", "tailwind", "steelwing", "bravebird"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:oricorio", level = 72, gender = "MALE", nature = "serious", ability = "dancer", moveset = ["mirrormove", "agility", "hurricane", "quiverdance"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

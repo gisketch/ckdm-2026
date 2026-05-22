@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_black_belt_carl",
+  "name": "Black Belt Carl",
+  "title": "Black Belt",
+  "gender": "male",
+  "archetype": "black_belt",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "black_belt/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.17,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:tyrogue",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:hitmonlee",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "All right, my Pok\u00e9mon squad! Get out there and kick up a storm!",
+    "Hmm... Gazing out over the sea doesn\u2019t do a thing for toughening up my Pok\u00e9mon!"
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_earl"
+name = "Hiker Earl"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "high"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 54
+maxLevel = 54
+team = [
+  { species = "cobblemon:onix", level = 54, gender = "FEMALE", nature = "quiet", ability = "rockhead", moveset = ["dig", "stoneedge", "doubleedge", "sandstorm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 54, gender = "FEMALE", nature = "bashful", ability = "guts", moveset = ["submission", "bulkup", "crosschop", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hiker Earl is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

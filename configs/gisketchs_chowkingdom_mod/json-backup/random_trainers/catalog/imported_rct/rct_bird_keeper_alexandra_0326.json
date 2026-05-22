@@ -1,0 +1,33 @@
+{
+  "id": "rct_bird_keeper_alexandra_0326",
+  "name": "Bird Keeper Alexandra",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "hoothoot",
+      "level": 19,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "peck",
+        "echoedvoice",
+        "confusion",
+        "airslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

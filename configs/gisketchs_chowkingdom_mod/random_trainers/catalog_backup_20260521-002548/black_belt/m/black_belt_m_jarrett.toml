@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_jarrett"
+name = "Black Belt Jarrett"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "high"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 60
+maxLevel = 60
+team = [
+  { species = "cobblemon:machamp", level = 60, gender = "GENDERLESS", nature = "", ability = "", moveset = ["crosschop", "firepunch", "icepunch", "thunderpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hear the howl of my iron fists! Howdy! I’m crazy for karate!", "I love seeing people who love Pokémon more than anything!", "I have trained this team for the road. Challenge me if you are ready."]

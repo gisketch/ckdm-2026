@@ -1,0 +1,133 @@
+{
+  "id": "rct_leader_misty_0030",
+  "name": "Misty",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:politoed",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "drizzle",
+      "moveset": [
+        "scald",
+        "icebeam",
+        "hypnosis",
+        "flipturn"
+      ],
+      "heldItem": [
+        "damp_rock"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:greninja",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "protean",
+      "moveset": [
+        "darkpulse",
+        "watershuriken",
+        "icebeam",
+        "grassknot"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gorebyss",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "shellsmash",
+        "surf",
+        "moonblast",
+        "icebeam"
+      ],
+      "heldItem": [
+        "white_herb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kingdra",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "dragonpulse",
+        "surf",
+        "hurricane",
+        "icebeam"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:inteleon",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sniper",
+      "moveset": [
+        "snipeshot",
+        "darkpulse",
+        "icebeam",
+        "airslash"
+      ],
+      "heldItem": [
+        "scope_lens"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "dragondance",
+        "waterfall",
+        "crunch",
+        "earthquake"
+      ],
+      "heldItem": [
+        "mega_showdown:gyaradosite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

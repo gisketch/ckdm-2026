@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_f_tiera"
+name = "School Kid Tiera"
+title = "School Kid"
+gender = "female"
+archetype = "school_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "school_kid/female"
+tier = "high"
+spawnable = true
+height = 0.86
+weight = 0.87
+bustStyle = "standard"
+minLevel = 47
+maxLevel = 47
+team = [
+  { species = "cobblemon:pachirisu", level = 47, gender = "GENDERLESS", nature = "", ability = "", moveset = ["lastresort", "superfang", "discharge", "sweetkiss"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Can you make it to the Gym Leader? You sure now?", "Our Gym’s trick walkways are sure to make your head spin!", "I have trained this team for the road. Challenge me if you are ready."]

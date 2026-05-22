@@ -1,0 +1,48 @@
+{
+  "id": "rct_biker_jaxon_00cd",
+  "name": "Biker Jaxon",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "swalot",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "stickyhold",
+      "moveset": [
+        "sludge",
+        "sludgebomb",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "qwilfish",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "swiftswim",
+      "moveset": [
+        "screech",
+        "waterfall",
+        "poisonjab",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

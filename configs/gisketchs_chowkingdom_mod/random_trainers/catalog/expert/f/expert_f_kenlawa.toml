@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "expert_f_kenlawa"
+name = "Expert Kenlawa"
+title = "Expert"
+gender = "female"
+archetype = "expert"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "expert/female"
+tier = "very_high"
+spawnable = true
+height = 1
+weight = 0.98
+bustStyle = "standard"
+minLevel = 82
+maxLevel = 82
+team = [
+  { species = "cobblemon:mimikyu", level = 82, gender = "MALE", nature = "adamant", ability = "disguise", moveset = ["playrough", "drainpunch", "thunderwave", "protect"], heldItem = "['mega_showdown:mimikium_z', 'fairy_gem']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

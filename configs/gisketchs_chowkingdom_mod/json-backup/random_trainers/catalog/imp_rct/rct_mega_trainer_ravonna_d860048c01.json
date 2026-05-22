@@ -1,0 +1,43 @@
+{
+  "id": "rct_mega_trainer_ravonna_kangaskhan_3_05d5",
+  "name": "Mega Trainer Ravonna",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "mega_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 75,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 75,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "parentalbond",
+      "moveset": [
+        "doubleedge",
+        "retaliate",
+        "drainpunch",
+        "sleeptalk"
+      ],
+      "heldItem": [
+        "mega_showdown:kangaskhanite",
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

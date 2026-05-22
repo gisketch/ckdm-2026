@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_m_edwin"
+name = "Bird Keeper Edwin"
+title = "Bird Keeper"
+gender = "male"
+archetype = "bird_keeper"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/male"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:pidgeotto", level = 57, gender = "MALE", nature = "quiet", ability = "tangledfeet", moveset = ["agility", "airslash", "mirrormove", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:farfetchd", level = 59, gender = "MALE", nature = "quirky", ability = "steadfast", moveset = ["brickbreak", "swordsdance", "slam", "leafblade"], heldItem = "", shiny = false, aspects = ["galarian"] },
+  { species = "cobblemon:swoobat", level = 58, gender = "FEMALE", nature = "quiet", ability = "klutz", moveset = ["futuresight", "psychic", "endeavor", "heatwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pidgeot", level = 57, gender = "MALE", nature = "naive", ability = "tangledfeet", moveset = ["agility", "airslash", "mirrormove", "tailwind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bird Keeper Edwin is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

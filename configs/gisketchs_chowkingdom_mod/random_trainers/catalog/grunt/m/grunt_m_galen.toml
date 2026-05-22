@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "grunt_m_galen"
+name = "Grunt Galen"
+title = "Grunt"
+gender = "male"
+archetype = "grunt"
+region = "Johto/Kanto"
+category = "team"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "grunt/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1
+bustStyle = ""
+minLevel = 27
+maxLevel = 27
+team = [
+  { species = "cobblemon:rattata", level = 27, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gruntm Grunt is ready for a battle."]

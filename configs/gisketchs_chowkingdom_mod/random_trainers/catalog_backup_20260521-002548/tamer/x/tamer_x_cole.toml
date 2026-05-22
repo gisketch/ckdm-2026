@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "tamer_x_cole"
+name = "Tamer Cole"
+title = "Tamer"
+gender = "any"
+archetype = "tamer"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "tamer/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1
+bustStyle = ""
+minLevel = 39
+maxLevel = 39
+team = [
+  { species = "cobblemon:arbok", level = 39, gender = "FEMALE", nature = "bashful", ability = "intimidate", moveset = ["swallow", "spitup", "poisonfang", "coil"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:tauros", level = 39, gender = "MALE", nature = "hardy", ability = "intimidate", moveset = ["rest", "payback", "workup", "takedown"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Tamer Cole is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,97 @@
+{
+  "id": "rct_leader_mel_05ad",
+  "name": "Leader Mel",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "bewear",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "fluffy",
+      "moveset": [
+        "facade",
+        "hammerarm",
+        "payback",
+        "icepunch"
+      ],
+      "heldItem": "normal_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "porygonz",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "adaptability",
+      "moveset": [
+        "round",
+        "signalbeam",
+        "psybeam",
+        "recover"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "miltank",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "scrappy",
+      "moveset": [
+        "bodyslam",
+        "icepunch",
+        "poweruppunch",
+        "milkdrink"
+      ],
+      "heldItem": "sitrus_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lopunny",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "scrappy",
+      "moveset": [
+        "facade",
+        "brickbreak",
+        "poweruppunch",
+        "fakeout"
+      ],
+      "heldItem": "mega_showdown:lopunnite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heliolisk",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "sandveil",
+      "moveset": [
+        "swift",
+        "paraboliccharge",
+        "grassknot",
+        "thunderwave"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerm_barry_00f2",
+  "name": "Swimmer\u2642 Barry",
+  "title": "Swimmer\u2642",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 63,
+  "maxLevel": 64,
+  "team": [
+    {
+      "species": "cobblemon:shellder",
+      "level": 63,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "skilllink",
+      "moveset": [
+        "irondefense",
+        "icebeam",
+        "shellsmash",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cloyster",
+      "level": 64,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "skilllink",
+      "moveset": [
+        "spikecannon",
+        "iceshard",
+        "spikes",
+        "iciclecrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

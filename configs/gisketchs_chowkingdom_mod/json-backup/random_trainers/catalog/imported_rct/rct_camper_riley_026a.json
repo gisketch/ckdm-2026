@@ -1,0 +1,49 @@
+{
+  "id": "rct_camper_riley_026a",
+  "name": "Camper Riley",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "pinsir",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "naughty",
+      "ability": "moldbreaker",
+      "moveset": [
+        "stormthrow",
+        "swordsdance",
+        "thrash",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heracross",
+      "level": 50,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "guts",
+      "moveset": [
+        "takedown",
+        "megahorn",
+        "closecombat",
+        "reversal"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

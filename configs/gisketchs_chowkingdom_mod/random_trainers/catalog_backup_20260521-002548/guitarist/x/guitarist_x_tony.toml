@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "guitarist_x_tony"
+name = "Guitarist Tony"
+title = "Guitarist"
+gender = "any"
+archetype = "guitarist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "guitarist/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:luxio", level = 55, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["leer", "spark", "thunderwave", "crunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Let it rock! It’s the rhythm of battle!", "I’m too torn up to sing anymore... I am so cool that way...", "Guitarist Tony is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

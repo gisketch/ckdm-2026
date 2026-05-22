@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_rich"
+name = "Scientist Rich"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:porygon", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["conversion", "conversion2", "recover", "triattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Rich is ready for a battle."]

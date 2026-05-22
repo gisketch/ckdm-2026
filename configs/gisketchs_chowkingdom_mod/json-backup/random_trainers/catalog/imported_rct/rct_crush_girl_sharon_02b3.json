@@ -1,0 +1,49 @@
+{
+  "id": "rct_crush_girl_sharon_02b3",
+  "name": "Crush Girl Sharon",
+  "title": "Crush Girl",
+  "gender": "any",
+  "archetype": "crush_girl",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "mankey",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "vitalspirit",
+      "moveset": [
+        "stompingtantrum",
+        "outrage",
+        "crosschop",
+        "finalgambit"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primeape",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "vitalspirit",
+      "moveset": [
+        "thrash",
+        "screech",
+        "stompingtantrum",
+        "outrage"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

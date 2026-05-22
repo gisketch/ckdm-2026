@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_gregory"
+name = "Black Belt Gregory"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 21
+maxLevel = 23
+team = [
+  { species = "cobblemon:meditite", level = 23, gender = "FEMALE", nature = "hardy", ability = "purepower", moveset = ["detect", "feint", "forcepalm", "psybeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machop", level = 22, gender = "MALE", nature = "relaxed", ability = "noguard", moveset = ["leer", "lowsweep", "knockoff", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:meditite", level = 21, gender = "FEMALE", nature = "hardy", ability = "purepower", moveset = ["detect", "feint", "forcepalm", "psybeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You come along with your heart pounding! You think you can win like that?! Hiyah!", "If I lose here, I wouldn’t stand a chance at the Battle Frontier. Not against those hard-core pros, I wouldn’t!", "I have trained this team for the road. Challenge me if you are ready."]

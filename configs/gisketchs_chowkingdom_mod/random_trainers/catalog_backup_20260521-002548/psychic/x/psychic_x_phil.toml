@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_phil"
+name = "Psychic Phil"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 24
+maxLevel = 26
+team = [
+  { species = "cobblemon:natu", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leer", "nightshade", "futuresight", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["disable", "psybeam", "recover", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic Phil is ready for a battle."]

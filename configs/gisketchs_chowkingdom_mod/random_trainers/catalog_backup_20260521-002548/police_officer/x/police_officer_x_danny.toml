@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "police_officer_x_danny"
+name = "Police Officer Danny"
+title = "Police Officer"
+gender = "any"
+archetype = "police_officer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "police_officer/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 1.01
+bustStyle = ""
+minLevel = 53
+maxLevel = 55
+team = [
+  { species = "cobblemon:noctowl", level = 53, gender = "FEMALE", nature = "timid", ability = "keeneye", moveset = ["psychoshift", "moonblast", "hypnosis", "dreameater"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machamp", level = 55, gender = "MALE", nature = "jolly", ability = "noguard", moveset = ["leer", "knockoff", "dualchop", "dynamicpunch"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

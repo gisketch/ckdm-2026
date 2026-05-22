@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmerm_finn_02b2",
+  "name": "Swimmer♂ Finn",
+  "title": "Swimmerm",
+  "gender": "any",
+  "archetype": "swimmerm",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 50,
+  "team": [
+    {
+      "species": "starmie",
+      "level": 50,
+      "gender": "GENDERLESS",
+      "nature": "jolly",
+      "ability": "naturalcure",
+      "moveset": [
+        "rapidspin",
+        "recover",
+        "psybeam",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

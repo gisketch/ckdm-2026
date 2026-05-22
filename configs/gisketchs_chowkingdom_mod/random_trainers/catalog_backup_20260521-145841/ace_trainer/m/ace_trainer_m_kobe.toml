@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_kobe"
+name = "Ace Trainer Kobe"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 37
+maxLevel = 37
+team = [
+  { species = "cobblemon:dragonair", level = 37, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunder", "surf", "dragonrage", "irontail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["You! How dare you enter uninvited!", "The Shrine ahead is home to the Master of our Dragon Tamer clan. You’re not allowed to just go in!"]

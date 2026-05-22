@@ -1,0 +1,113 @@
+{
+  "id": "rct_battleground_benjamin_05f9",
+  "name": "Battleground Benjamin",
+  "title": "Battleground",
+  "gender": "any",
+  "archetype": "battleground",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 84,
+  "team": [
+    {
+      "species": "scolipede",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "speedboost",
+      "moveset": [
+        "pinmissile",
+        "poisonjab",
+        "spikes",
+        "protect"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drapion",
+      "level": 83,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "crosspoison",
+        "nightslash",
+        "pinmissile",
+        "earthquake"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "volcarona",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "flamebody",
+      "moveset": [
+        "overheat",
+        "bugbuzz",
+        "flareblitz",
+        "wildcharge"
+      ],
+      "heldItem": "mega_showdown:firium_z fire_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flygon",
+      "level": 83,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "punkrock",
+      "moveset": [
+        "earthquake",
+        "clangingscales",
+        "heatwave",
+        "crunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 84,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bugbite",
+        "bulletpunch",
+        "dualwingbeat",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:scizorite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rhyperior",
+      "level": 82,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "solidrock",
+      "moveset": [
+        "rockblast",
+        "earthquake",
+        "thunderfang",
+        "counter"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

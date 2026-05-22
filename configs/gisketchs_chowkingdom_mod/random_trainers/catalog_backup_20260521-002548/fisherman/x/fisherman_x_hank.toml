@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_x_hank"
+name = "Fisherman Hank"
+title = "Fisherman"
+gender = "any"
+archetype = "fisherman"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 36
+maxLevel = 36
+team = [
+  { species = "cobblemon:octillery", level = 36, gender = "FEMALE", nature = "relaxed", ability = "megalauncher", moveset = ["bubblebeam", "focusenergy", "wringout", "signalbeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Hank is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_josh"
+name = "Youngster Josh"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 13
+maxLevel = 16
+team = [
+  { species = "cobblemon:wooloo", level = 13, gender = "FEMALE", nature = "bold", ability = "fluffy", moveset = ["tackle", "defensecurl", "copycat", "guardsplit"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:rockruff", level = 15, gender = "FEMALE", nature = "relaxed", ability = "frisk", moveset = ["leer", "bite", "howl", "rockthrow"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:noibat", level = 16, gender = "MALE", nature = "brave", ability = "frisk", moveset = ["megadrain", "leechlife", "dragonbreath", "airslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Josh is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

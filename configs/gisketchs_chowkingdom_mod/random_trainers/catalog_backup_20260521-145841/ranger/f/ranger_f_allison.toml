@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ranger_f_allison"
+name = "Ranger Allison"
+title = "Ranger"
+gender = "female"
+archetype = "ranger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ranger/female"
+tier = "high"
+spawnable = true
+height = 1.06
+weight = 1.07
+bustStyle = "standard"
+minLevel = 61
+maxLevel = 61
+team = [
+  { species = "cobblemon:azumarill", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:leafeon", level = 61, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Ranger Female Allison is ready for a battle.", "Protect the natural environment. That’s what we Rangers do!", "I love how natural it is here. I wish I could live out here."]

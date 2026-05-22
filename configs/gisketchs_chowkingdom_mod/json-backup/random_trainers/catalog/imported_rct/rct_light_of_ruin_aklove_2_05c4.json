@@ -1,0 +1,113 @@
+{
+  "id": "rct_light_of_ruin_aklove_2_05c4",
+  "name": "Ruin Leader Aklove",
+  "title": "Light Of Ruin Aklove",
+  "gender": "any",
+  "archetype": "light_of_ruin_aklove",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "togedemaru",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "zingzap",
+        "ironhead",
+        "nuzzle",
+        "fakeout"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gardevoir",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "pixilate",
+      "moveset": [
+        "psychic",
+        "moonblast",
+        "mysticalfire",
+        "dazzlinggleam"
+      ],
+      "heldItem": "mega_showdown:gardevoirite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "comfey",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "triage",
+      "moveset": [
+        "drainingkiss",
+        "gigadrain",
+        "floralhealing",
+        "helpinghand"
+      ],
+      "heldItem": "babiri_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "roserade",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "naturalcure",
+      "moveset": [
+        "leafstorm",
+        "dazzlinggleam",
+        "shadowball",
+        "sleeppowder"
+      ],
+      "heldItem": "wide_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dragonite",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "multiscale",
+      "moveset": [
+        "dragonclaw",
+        "dualwingbeat",
+        "firepunch",
+        "extremespeed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "primarina",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "liquidvoice",
+      "moveset": [
+        "hypervoice",
+        "moonblast",
+        "energyball",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

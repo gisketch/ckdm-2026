@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeplatinum_tuber_chelsea_rematch_2",
+  "name": "Tuber Female Chelsea",
+  "title": "Tuber Female",
+  "gender": "female",
+  "archetype": "tuber_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "tuber_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.86,
+  "weight": 0.84,
+  "bustStyle": "standard",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:azumarill",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Tuber Female Chelsea is ready for a battle."
+  ]
+}

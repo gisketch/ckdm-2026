@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lass_f_blythe"
+name = "Lass Blythe"
+title = "Lass"
+gender = "female"
+archetype = "lass"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "lass/female"
+tier = "mid"
+spawnable = true
+height = 0.92
+weight = 0.91
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:bidoof", level = 21, gender = "FEMALE", nature = "jolly", ability = "unaware", moveset = ["growl", "headbutt", "taunt", "yawn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bidoof", level = 21, gender = "MALE", nature = "jolly", ability = "unaware", moveset = ["growl", "headbutt", "taunt", "yawn"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lass Blythe is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

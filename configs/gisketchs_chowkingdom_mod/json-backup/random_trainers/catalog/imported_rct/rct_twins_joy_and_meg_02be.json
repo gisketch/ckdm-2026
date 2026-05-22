@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_joy_and_meg_02be",
+  "name": "Twins Joy & Meg",
+  "title": "Twins Joy And",
+  "gender": "any",
+  "archetype": "twins_joy_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "clefairy",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "magicguard",
+      "moveset": [
+        "bodyslam",
+        "softboiled",
+        "moonblast",
+        "gravity"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "magicguard",
+      "moveset": [
+        "bodyslam",
+        "softboiled",
+        "moonblast",
+        "gravity"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

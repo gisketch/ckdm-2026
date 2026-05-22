@@ -1,0 +1,115 @@
+{
+  "id": "rct_title_defense_rival_player_chose_beldum_05f0",
+  "name": "Title Defense Rival Wayne",
+  "title": "Title Defense Rival Player Chose",
+  "gender": "any",
+  "archetype": "title_defense_rival_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 78,
+  "maxLevel": 80,
+  "team": [
+    {
+      "species": "mamoswine",
+      "level": 78,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "iciclecrash",
+        "earthquake",
+        "iceshard",
+        "stealthrock"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rotom",
+      "level": 78,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "motordrive",
+      "moveset": [
+        "thunderbolt",
+        "airslash",
+        "darkpulse",
+        "nastyplot"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": [
+        "fan-appliance"
+      ]
+    },
+    {
+      "species": "vaporeon",
+      "level": 78,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "waterabsorb",
+      "moveset": [
+        "scald",
+        "haze",
+        "wish",
+        "protect"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "aggron",
+      "level": 79,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "stoneedge",
+        "ironhead",
+        "bodypress",
+        "metalburst"
+      ],
+      "heldItem": "shuca_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "garchomp",
+      "level": 80,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sandforce",
+      "moveset": [
+        "scaleshot",
+        "earthquake",
+        "fireblast",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:garchompite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "volcanion",
+      "level": 79,
+      "gender": "GENDERLESS",
+      "nature": "calm",
+      "ability": "steamengine",
+      "moveset": [
+        "steameruption",
+        "flamethrower",
+        "earthpower",
+        "substitute"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

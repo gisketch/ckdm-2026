@@ -1,0 +1,65 @@
+{
+  "id": "rct_pokemon_breeder_amber_0318",
+  "name": "Pokémon Breeder Amber",
+  "title": "Pokemon Breeder",
+  "gender": "any",
+  "archetype": "pokemon_breeder",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "cleffa",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "copycat",
+        "sing",
+        "sweetkiss",
+        "disarmingvoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "clefairy",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "cutecharm",
+      "moveset": [
+        "sweetkiss",
+        "disarmingvoice",
+        "encore",
+        "copycat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "happiny",
+      "level": 18,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "copycat",
+        "sweetkiss",
+        "disarmingvoice",
+        "covet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

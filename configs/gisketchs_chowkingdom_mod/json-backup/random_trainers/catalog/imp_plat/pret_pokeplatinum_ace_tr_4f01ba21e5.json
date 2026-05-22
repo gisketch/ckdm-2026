@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_kassandra",
+  "name": "Ace Trainer Female Kassandra",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 58,
+  "maxLevel": 59,
+  "team": [
+    {
+      "species": "cobblemon:jumpluff",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "memento",
+        "gigadrain",
+        "toxic",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 58,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "stoneedge",
+        "earthquake",
+        "irontail",
+        "dragonbreath"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ampharos",
+      "level": 59,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunderpunch",
+        "powergem",
+        "signalbeam",
+        "firepunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You\u2019ve come all this way for Pok\u00e9mon? You must be dedicated.",
+    "The Pok\u00e9mon here must battle each other all the time. That must be why they are so strong in this area."
+  ]
+}

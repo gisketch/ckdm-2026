@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_m_shawn"
+name = "Skier Shawn"
+title = "Skier"
+gender = "male"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "skier/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 33
+maxLevel = 35
+team = [
+  { species = "cobblemon:snover", level = 34, gender = "FEMALE", nature = "hasty", ability = "snowwarning", moveset = ["leer", "iceshard", "razorleaf", "icywind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 33, gender = "MALE", nature = "hasty", ability = "snowwarning", moveset = ["mist", "iceshard", "razorleaf", "icywind"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:golduck", level = 34, gender = "FEMALE", nature = "hasty", ability = "damp", moveset = ["aquajet", "waterpulse", "zenheadbutt", "soak"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:snover", level = 35, gender = "MALE", nature = "hasty", ability = "snowwarning", moveset = ["iceshard", "razorleaf", "icywind", "ingrain"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll show you the techniques I had drummed into me at ski school!", "Maybe I should’ve studied at the Trainers’ school instead...", "I have trained this team for the road. Challenge me if you are ready."]

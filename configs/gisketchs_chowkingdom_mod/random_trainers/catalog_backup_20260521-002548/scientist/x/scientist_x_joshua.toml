@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_x_joshua"
+name = "Scientist Joshua"
+title = "Scientist"
+gender = "any"
+archetype = "scientist"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "scientist/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 45
+maxLevel = 46
+team = [
+  { species = "cobblemon:electrode", level = 45, gender = "GENDERLESS", nature = "lonely", ability = "soundproof", moveset = ["lightscreen", "magnetrise", "discharge", "explosion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:muk", level = 46, gender = "FEMALE", nature = "lonely", ability = "regenerator", moveset = ["poisonfang", "screech", "gunkshot", "acidarmor"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Scientist Joshua is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

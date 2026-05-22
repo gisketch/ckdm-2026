@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "mega_trainer_m_aloysius"
+name = "Mega Trainer Aloysius"
+title = "Mega Trainer"
+gender = "male"
+archetype = "mega_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "mega_trainer/male"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 57
+maxLevel = 61
+team = [
+  { species = "cobblemon:politoed", level = 58, gender = "FEMALE", nature = "bold", ability = "drizzle", moveset = ["scald", "icebeam", "perishsong", "hypnosis"], heldItem = "['damp_rock']", shiny = false, aspects = [] },
+  { species = "cobblemon:blissey", level = 57, gender = "FEMALE", nature = "bold", ability = "naturalcure", moveset = ["mudbomb", "toxic", "minimize", "softboiled"], heldItem = "['chople_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:braviary", level = 61, gender = "MALE", nature = "jolly", ability = "sheerforce", moveset = ["bravebird", "crushclaw", "superpower", "uturn"], heldItem = "['wacan_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:reuniclus", level = 58, gender = "FEMALE", nature = "modest", ability = "regenerator", moveset = ["psychic", "thunder", "shadowball", "trickroom"], heldItem = "['colbur_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:ampharos", level = 59, gender = "FEMALE", nature = "modest", ability = "moldbreaker", moveset = ["thunder", "dragonpulse", "hiddenpower", "thunderwave"], heldItem = "['mega_showdown:ampharosite', 'life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

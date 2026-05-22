@@ -1,0 +1,56 @@
+{
+  "id": "rct_hiker_earl_02ca",
+  "name": "Hiker Earl",
+  "title": "Hiker",
+  "gender": "male",
+  "archetype": "hiker",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "hiker/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.18,
+  "bustStyle": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:onix",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "rockhead",
+      "moveset": [
+        "dig",
+        "stoneedge",
+        "doubleedge",
+        "sandstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machamp",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "guts",
+      "moveset": [
+        "submission",
+        "bulkup",
+        "crosschop",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_rival_1_player_chose_gible_0606",
+  "name": "Rival Wayne",
+  "title": "Rival 1 Player Chose",
+  "gender": "any",
+  "archetype": "rival_1_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "larvitar",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "bite",
+        "scaryface",
+        "rocktomb",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

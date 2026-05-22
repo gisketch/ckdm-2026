@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_omar_0382",
+  "name": "Ace Trainer Omar",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "rapidash",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "smartstrike",
+        "poisonjab",
+        "tailwhip",
+        "flamewheel"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "carnivine",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "levitate",
+      "moveset": [
+        "bind",
+        "growth",
+        "leaftornado",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rampardos",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "moldbreaker",
+      "moveset": [
+        "headbutt",
+        "zenheadbutt",
+        "assurance",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

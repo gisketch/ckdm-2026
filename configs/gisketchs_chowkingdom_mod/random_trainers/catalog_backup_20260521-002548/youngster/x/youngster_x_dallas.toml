@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_dallas"
+name = "Youngster Dallas"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:kricketune", level = 55, gender = "MALE", nature = "jolly", ability = "swarm", moveset = ["xscissor", "screech", "fellstinger", "nightslash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Dallas is ready for a battle.", "I’m never apart from my SHINX. Our bond is strong!", "I don’t bear grudges over losing. But I promise I’ll get tougher!", "I have trained this team for the road. Challenge me if you are ready."]

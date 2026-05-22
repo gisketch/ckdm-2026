@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_kara"
+name = "Swimmer Kara"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto;Hoenn"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeemerald;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = "standard"
+minLevel = 20
+maxLevel = 20
+team = [
+  { species = "cobblemon:staryu", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Kara is ready for a battle.", "Swimmer Female Kara is ready for a battle.", "If you need to rest, just tread water. You’ll get your breath back so you can keep on going strong.", "I heard roars from deep inside the islands."]

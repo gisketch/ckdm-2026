@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_jared"
+name = "Biker Jared"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "very_high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 88
+maxLevel = 93
+team = [
+  { species = "cobblemon:crustle", level = 88, gender = "FEMALE", nature = "adamant", ability = "sturdy", moveset = ["stealthrock", "spikes", "stoneedge", "earthquake"], heldItem = "['custap_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:leavanny", level = 92, gender = "FEMALE", nature = "adamant", ability = "chlorophyll", moveset = ["solarblade", "swordsdance", "xscissor", "sacredsword"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:camerupt", level = 88, gender = "MALE", nature = "modest", ability = "solidrock", moveset = ["fireblast", "earthpower", "solarbeam", "ancientpower"], heldItem = "['mega_showdown:cameruptite', 'assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:eelektross", level = 93, gender = "FEMALE", nature = "calm", ability = "levitate", moveset = ["thunderbolt", "fireblast", "gigadrain", "voltswitch"], heldItem = "['assault_vest']", shiny = false, aspects = [] },
+  { species = "cobblemon:mamoswine", level = 90, gender = "MALE", nature = "jolly", ability = "thickfat", moveset = ["headlongrush", "iciclecrash", "iceshard", "rocktomb"], heldItem = "['soft_sand']", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Jared is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

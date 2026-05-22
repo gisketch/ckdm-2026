@@ -1,0 +1,49 @@
+{
+  "id": "rct_channeler_amanda_01ce",
+  "name": "Channeler Amanda",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "dusclops",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "pressure",
+      "moveset": [
+        "curse",
+        "hex",
+        "shadowball",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cofagrigus",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "mummy",
+      "moveset": [
+        "guardsplit",
+        "shadowball",
+        "grudge",
+        "meanlook"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

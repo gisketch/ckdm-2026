@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0181_pokefan_male_william",
+  "name": "Pokefan Male William",
+  "title": "Pokefan Male",
+  "gender": "male",
+  "archetype": "pokefan_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "pokefan_male/male",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 16,
+  "maxLevel": 16,
+  "team": [
+    {
+      "species": "cobblemon:raichu",
+      "level": 16,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "We adore our Pok\u00e9mon, even if they dislike us. That\u2019s what being a Pok\u00e9fan is all about.",
+    "I lost the battle, but my Pok\u00e9mon win the prize for being the most lovely."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "rct_psychic_johan_0118",
+  "name": "Psychic Johan",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "psychic/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "cobblemon:grumpig",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "owntempo",
+      "moveset": [
+        "snore",
+        "psyshock",
+        "payback",
+        "psychic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:meowstic",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "cursedbody",
+      "moveset": [
+        "imprison",
+        "suckerpunch",
+        "mistyterrain",
+        "quickguard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gallade",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "steadfast",
+      "moveset": [
+        "feint",
+        "falseswipe",
+        "protect",
+        "closecombat"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:espeon",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "synchronize",
+      "moveset": [
+        "morningsun",
+        "psychic",
+        "lastresort",
+        "powerswap"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

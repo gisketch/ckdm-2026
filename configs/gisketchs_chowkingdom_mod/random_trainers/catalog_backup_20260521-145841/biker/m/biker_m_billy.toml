@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "biker_m_billy"
+name = "Biker Billy"
+title = "Biker"
+gender = "male"
+archetype = "biker"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "biker/male"
+tier = "high"
+spawnable = true
+height = 1.08
+weight = 1.13
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:gumshoos", level = 55, gender = "MALE", nature = "hasty", ability = "strongjaw", moveset = ["hyperfang", "yawn", "thrash", "rest"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Biker Billy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

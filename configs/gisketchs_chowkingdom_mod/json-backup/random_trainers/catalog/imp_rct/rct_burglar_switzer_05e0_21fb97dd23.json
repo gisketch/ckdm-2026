@@ -1,0 +1,79 @@
+{
+  "id": "rct_burglar_switzer_05e0",
+  "name": "Burglar Switzer",
+  "title": "Burglar",
+  "gender": "any",
+  "archetype": "burglar",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "burglar/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "cobblemon:blaziken",
+      "level": 58,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "speedboost",
+      "moveset": [
+        "blazekick",
+        "skyuppercut",
+        "poisonjab",
+        "protect"
+      ],
+      "heldItem": [
+        "mega_showdown:blazikenite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:garbodor",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "weakarmor",
+      "moveset": [
+        "gunkshot",
+        "drainpunch",
+        "stompingtantrum",
+        "rockblast"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:salazzle",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "corrosion",
+      "moveset": [
+        "flamethrower",
+        "venoshock",
+        "dragonrage",
+        "nastyplot"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "rct_lass_cassidy_0439",
+  "name": "Lass Cassidy",
+  "title": "Lass",
+  "gender": "female",
+  "archetype": "lass",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lass/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.92,
+  "weight": 0.91,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:buneary",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "runaway",
+      "moveset": [
+        "pound",
+        "defensecurl",
+        "babydolleyes",
+        "quickattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

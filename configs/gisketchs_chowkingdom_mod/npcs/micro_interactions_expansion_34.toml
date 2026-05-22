@@ -5,6 +5,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "I can tie the banners along the clocktower if you gather the extra rope."
 response = "Deal. I'll check the supply chest by the fountain and meet you there."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -14,6 +16,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "fire_wizard"]
 line = "Could you inspect these sparkpowder shells before we pack the launch tubes?"
 response = "Set them on my workbench. No open flames until I finish the scan."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -23,6 +27,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "bard"]
 line = "The chorus feels flat. Would you lead the second verse at rehearsal?"
 response = "Bring your lyre early. I'll walk us through the bridge twice."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -32,6 +38,8 @@ source_tags = ["town"]
 target_tags = ["town"]
 line = "My stall frame is leaning. Can you brace it while I hammer the pegs?"
 response = "Hold steady. Once it's square we can drape the awning."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -41,6 +49,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "frost_wizard"]
 line = "The flower garlands are wilting. Can you chill the archway until sunset?"
 response = "I'll weave a gentle frost around the petals. They'll last the evening."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -50,6 +60,8 @@ source_tags = ["town"]
 target_tags = ["town", "store_cosmetics"]
 line = "We need brighter gold. Did Shoumai restock the marigold pigment yet?"
 response = "She just received a fresh batch. I'll pick up six jars."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
 
 [[exchanges]]
@@ -59,6 +71,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "wind_wizard"]
 line = "Will the wind currents over the skylands remain calm tonight?"
 response = "I've mapped the gusts. The eastern drift is safe for the finale."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -68,6 +82,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "bard"]
 line = "The square echoes badly. Should we move rehearsal to the old gazebo?"
 response = "Good ear. The gazebo's wood warms the sound. Let's shift at dusk."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -77,6 +93,8 @@ source_tags = ["town"]
 target_tags = ["town", "store_cosmetics"]
 line = "My lettering is shaky. Could you outline the 'Festival Bites' sign?"
 response = "Hand me the stencil. I'll trace it cleanly before the paint dries."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -86,6 +104,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "earth_wizard"]
 line = "The performance stage has a dip near the left corner."
 response = "I'll press the soil flat. Stand back a moment."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -95,6 +115,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "researcher"]
 line = "Can the floating Joltik lanterns scare the wild Cobblemon nearby?"
 response = "They're passive to soft light. I'll double-check the spectral range."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
@@ -104,26 +126,32 @@ source_tags = ["town"]
 target_tags = ["mentor", "water_wizard"]
 line = "Could you shape the fountain into a cascading ribbon for the fair?"
 response = "I'll raise a gentle spiral. The children will love splashing through it."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_34_013"
 topic = "nocturnal_light_strings"
 source_tags = ["town"]
+required_spawned_ids = ["marceline"]
 target_tags = ["town", "nocturnal", "musician"]
 line = "Marceline, will you help hang the glowstone strings after midnight?"
 response = "Sure. I'll float the high spots while you feed the cable up."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_014"
 topic = "sword_ribbon_display"
 source_tags = ["town"]
+required_spawned_ids = ["finn"]
 target_tags = ["mentor", "warrior"]
 line = "Finn, the ceremonial ribbon swords need a wall mount by the gate."
 response = "I'll bolt the brackets. Those blades are too pretty to lean."
+source_emote = "shrug"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_015"
 topic = "archery_target_tent"
@@ -131,134 +159,164 @@ source_tags = ["town"]
 target_tags = ["mentor", "archer"]
 line = "Can the straw targets be moved behind the refreshment tent?"
 response = "Yes, I'll bundle them now. A stray arrow near cider is trouble."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_34_016"
 topic = "link_banner_tribute"
 source_tags = ["town"]
+required_spawned_ids = ["link"]
 target_tags = ["town", "link"]
 line = "Link, the royal crest banner is frayed. Can you mend it with care?"
 response = "I've stitched older sails. Hand me the blue thread and a steady light."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_017"
 topic = "zelda_light_blessing"
 source_tags = ["town"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town", "zelda"]
 line = "Zelda, will you bless the festival hearth with a gentle light flame?"
 response = "Gladly. A small sacred fire will ward off any lingering gloom."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_018"
 topic = "ciri_swallow_pennant"
 source_tags = ["town"]
+required_spawned_ids = ["ciri"]
 target_tags = ["town", "ciri"]
 line = "Ciri, the swallow pennant needs a tall post. Can you leap to the top?"
 response = "Easy. Toss it up and I'll catch the ring on the hook."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_019"
 topic = "geralt_monster_repellent"
 source_tags = ["town"]
+required_spawned_ids = ["geralt"]
 target_tags = ["class_witcher", "witcher"]
 line = "Geralt, can you coat the perimeter stakes with a mild beast oil?"
 response = "Just a light layer. We don't want the festival smelling like a hunt."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_020"
 topic = "gandalf_powder_detonation"
 source_tags = ["town"]
+required_spawned_ids = ["gandalf"]
 target_tags = ["mentor", "wizard"]
 line = "Gandalf, the grand firework needs a delayed powder wheel. Can you charge it?"
 response = "A simple flash charm, nothing extravagant. I'll keep the radius tight."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_021"
 topic = "invoker_arcane_stage"
 source_tags = ["town"]
+required_spawned_ids = ["invoker"]
 target_tags = ["mentor", "arcane_wizard"]
 line = "Invoker, can you cast a silent prism dome over the stage for acoustics?"
 response = "Three orbs of resonance. The silence will focus every note inward."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_022"
 topic = "elsa_ice_sculpture"
 source_tags = ["town"]
+required_spawned_ids = ["elsa"]
 target_tags = ["mentor", "frost_wizard"]
 line = "Elsa, the centerpiece ice sculpture cracked in the sun. Can you mend it?"
 response = "I'll re-freeze the seam and add a shimmering snowflake crest."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_023"
 topic = "ezio_rooftop_rope"
 source_tags = ["town"]
+required_spawned_ids = ["ezio"]
 target_tags = ["town", "rogue"]
 line = "Ezio, the banner rope snagged on the chimney. Can you free it silently?"
 response = "No one will see me. I'll drop the loose end by the blacksmith's awning."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_024"
 topic = "aloy_trap_disarm"
 source_tags = ["town"]
+required_spawned_ids = ["aloy"]
 target_tags = ["town", "bounty_hunter"]
 line = "Aloy, an old snare wire was found near the cider press. Can you clear it?"
 response = "Got it. It's just leftover hunter cord. I'll coil it and mark the spot."
+source_emote = "lookout"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_025"
 topic = "legolas_fletched_race"
 source_tags = ["town"]
+required_spawned_ids = ["legolas"]
 target_tags = ["mentor", "war_archer"]
 line = "Legolas, the youth archery contest needs fletched arrows without tips."
 response = "I'll wrap two dozen. Bright feathers so they can't lose them."
+source_emote = "proud"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_026"
 topic = "traxex_chill_wind"
 source_tags = ["town"]
+required_spawned_ids = ["traxex"]
 target_tags = ["mentor", "tundra_archer"]
 line = "Traxex, the eastern breeze is too warm for the ice cream cart."
 response = "I'll carry a northern draft down from the ridge. It'll hold for hours."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_027"
 topic = "venti_street_ballad"
 source_tags = ["town"]
+required_spawned_ids = ["venti"]
 target_tags = ["mentor", "bard"]
 line = "Venti, will you wander the market lanes with a short ballad set?"
 response = "Only if someone follows me with a basket for tips. I like apples."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_028"
 topic = "vi_brawler_booth"
 source_tags = ["town"]
+required_spawned_ids = ["vi"]
 target_tags = ["town", "forcemaster"]
 line = "Vi, the strength-test bell needs a heavy gauntlet. Can you bring yours?"
 response = "I'll bring my backup pair. No punching through the tent canvas, promise."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_029"
 topic = "tarnished_oath_guard"
 source_tags = ["town"]
+required_spawned_ids = ["tarnished"]
 target_tags = ["mentor", "paladin"]
 line = "Tarnished, will you stand watch at the south gate during the fireworks?"
 response = "I'll keep my vigil silent. The light show belongs to the people."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_030"
 topic = "pope_leo_festival_prayer"
@@ -266,26 +324,32 @@ source_tags = ["town"]
 target_tags = ["mentor", "priest"]
 line = "Leo, will you offer a short harvest prayer before the market opens?"
 response = "Two minutes only. I'll bless the bread and the first candle lit."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_34_031"
 topic = "zagreus_ember_run"
 source_tags = ["town"]
+required_spawned_ids = ["zagreus"]
 target_tags = ["town", "berserker"]
 line = "Zagreus, the charcoal kiln needs a quick stoking before the grill fires."
 response = "Leave it to me. I'll have the coals glowing red in no time."
+source_emote = "clap"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_032"
 topic = "bubblegum_pokemon_float"
 source_tags = ["town"]
+required_spawned_ids = ["bubblegum"]
 target_tags = ["town", "bubblegum", "store_pokemon"]
 line = "Princess, can your shop lend a small Cobblemon for the parade float?"
 response = "A gentle Spheal will ride the cart. Keep the music soft around it."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_033"
 topic = "marceline_bass_soundcheck"
@@ -293,80 +357,98 @@ source_tags = ["town"]
 target_tags = ["town", "marceline", "musician"]
 line = "We need a deep tone for the firework countdown. Can you test a note?"
 response = "One note, low enough to rattle the flagstones. That should signal it."
+source_emote = "head_scratches"
+target_emote = "lookout"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_34_034"
 topic = "finn_sack_race_fix"
 source_tags = ["town"]
+required_spawned_ids = ["finn"]
 target_tags = ["mentor", "warrior"]
 line = "Finn, the burlap sacks are splitting. Can you stitch them with heavy thread?"
 response = "A quick loop stitch will hold. I'll reinforce the bottoms too."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_035"
 topic = "huntress_wizard_horn"
 source_tags = ["town"]
+required_spawned_ids = ["huntress_wizard"]
 target_tags = ["mentor", "archer"]
 line = "Huntress, your signal horn could start the junior archery round."
 response = "Two short blasts. I'll stand near the east hay bales."
+source_emote = "proud"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_036"
 topic = "link_zelda_flower_arch"
 source_tags = ["town", "link"]
+required_spawned_ids = ["zelda"]
 target_tags = ["town", "zelda"]
 line = "Zelda, I gathered silent princess blooms for the entrance arch."
 response = "They're lovely. Let's weave them with golden ribbon from the tower."
+source_emote = "lookout"
+target_emote = "hi"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_037"
 topic = "ciri_geralt_riddle_game"
 source_tags = ["town", "ciri"]
+required_spawned_ids = ["geralt"]
 target_tags = ["class_witcher", "witcher"]
 line = "Geralt, the children want a riddle game. Can you stump them gently?"
 response = "I know a few beast riddles. No mention of fangs or claws, I swear."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_038"
 topic = "aang_kite_dance"
 source_tags = ["town"]
+required_spawned_ids = ["aang"]
 target_tags = ["mentor", "wind_wizard"]
 line = "Aang, can you guide the painted kites in a loop above the bell tower?"
 response = "I'll spiral them up and let the kids pull the strings after."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_039"
 topic = "katara_water_curtain"
 source_tags = ["town"]
+required_spawned_ids = ["katara"]
 target_tags = ["mentor", "water_wizard"]
 line = "Katara, can you make a mist curtain for the fire-breather's booth?"
 response = "A thin veil of water between the act and the crowd. Safety first."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_040"
 topic = "toph_crystal_path"
 source_tags = ["town"]
+required_spawned_ids = ["toph"]
 target_tags = ["mentor", "earth_wizard"]
 line = "Toph, the path to the gazebo is muddy. Can you raise a cobble ramp?"
 response = "I'll press the stones tight. Even a cartwheel won't budge them."
+source_emote = "head_scratches"
+target_emote = "proud"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_041"
 topic = "zuko_lantern_lighting"
 source_tags = ["town"]
+required_spawned_ids = ["zuko"]
 target_tags = ["mentor", "fire_wizard"]
 line = "Zuko, can you light all the lanterns along the bridge in one motion?"
 response = "A precise arc. Tell everyone to stand clear for a heartbeat."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_042"
 topic = "shoumai_ribbon_stock"
@@ -374,6 +456,8 @@ source_tags = ["town"]
 target_tags = ["town", "store_cosmetics"]
 line = "Shoumai, do you have enough satin ribbon for the final banner run?"
 response = "Twelve spools of festival gold. I set them aside this morning."
+source_emote = "head_scratches"
+target_emote = "wave"
 weight = 1.0
 
 [[exchanges]]
@@ -383,6 +467,8 @@ source_tags = ["town"]
 target_tags = ["town", "skyland_survival"]
 line = "The floating isle trade post sent extra sparkler rods. Where do they go?"
 response = "Inside the locked shed, behind the fireworks crate. I'll show you."
+source_emote = "head_scratches"
+target_emote = "shrug"
 weight = 1.0
 
 [[exchanges]]
@@ -392,6 +478,8 @@ source_tags = ["town", "researcher"]
 target_tags = ["town", "bubblegum"]
 line = "Bubblegum, is the Spheal float safe in open air for two hours?"
 response = "Yes, its blubber keeps it cool. Just avoid the noon sun directly."
+source_emote = "head_scratches"
+target_emote = "hi"
 weight = 1.0
 
 [[exchanges]]
@@ -401,6 +489,8 @@ source_tags = ["adventure_time", "marceline"]
 target_tags = ["adventure_time", "bubblegum"]
 line = "PB, I'll watch your Pokeball display if you need a break."
 response = "Thanks. I'll grab a cider. Don't let anyone poke the Pokeballs hard."
+source_emote = "lookout"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -410,6 +500,8 @@ source_tags = ["town"]
 target_tags = ["mentor", "bard"]
 line = "Will you share the old skyland fable tonight between the contests?"
 response = "The one about the star whale. I'll tell it when the first torch dims."
+source_emote = "head_scratches"
+target_emote = "speaking"
 weight = 1.0
 
 [[exchanges]]
@@ -419,17 +511,21 @@ source_tags = ["town"]
 target_tags = ["town", "monster_hunter"]
 line = "A stray Snorunt was spotted near the west crop. Can you lead it away?"
 response = "I'll scatter some frost berries. It just wants a cool patch of soil."
+source_emote = "head_scratches"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
 id = "expansion_34_048"
 topic = "dragon_memory_bonfire"
 source_tags = ["town", "zelda"]
+required_spawned_ids = ["link"]
 target_tags = ["town", "link"]
 line = "Link, the bonfire wood is from the old Light Dragon nesting peak."
 response = "Memories burn warm. It'll make a fine center flame for the dance."
+source_emote = "lookout"
+target_emote = "wave"
 weight = 1.0
-
 [[exchanges]]
 id = "expansion_34_049"
 topic = "finn_jake_flag_race"
@@ -437,6 +533,8 @@ source_tags = ["town", "warrior"]
 target_tags = ["town", "warrior"]
 line = "Jake isn't here, but I'll stretch twice as far to plant the flags."
 response = "We'll split the course. You take the rooftops, I'll sprint the lanes."
+source_emote = "wave"
+target_emote = "clap"
 weight = 1.0
 
 [[exchanges]]
@@ -446,4 +544,6 @@ source_tags = ["town"]
 target_tags = ["town", "nocturnal"]
 line = "The night crew needs help folding the giant canvas canopy by dawn."
 response = "I'll rally the nocturnal team. We'll have it stored before sunrise."
+source_emote = "clap"
+target_emote = "proud"
 weight = 1.0

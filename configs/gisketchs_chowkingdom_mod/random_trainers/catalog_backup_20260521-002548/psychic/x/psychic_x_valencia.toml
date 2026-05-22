@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_x_valencia"
+name = "Psychic Valencia"
+title = "Psychic"
+gender = "any"
+archetype = "psychic"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "psychic/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 44
+maxLevel = 48
+team = [
+  { species = "cobblemon:chingling", level = 44, gender = "FEMALE", nature = "bashful", ability = "levitate", moveset = ["wrap", "astonish", "confusion", "yawn"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:chimecho", level = 48, gender = "MALE", nature = "calm", ability = "levitate", moveset = ["wrap", "yawn", "extrasensory", "healpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,33 @@
+{
+  "id": "rct_school_kid_esteban_048d",
+  "name": "School Kid Esteban",
+  "title": "School Kid",
+  "gender": "any",
+  "archetype": "school_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 23,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "wooper",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "damp",
+      "moveset": [
+        "tailwhip",
+        "mudshot",
+        "slam",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

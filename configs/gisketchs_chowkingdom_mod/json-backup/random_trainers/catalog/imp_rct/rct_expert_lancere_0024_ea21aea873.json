@@ -1,0 +1,39 @@
+{
+  "id": "rct_expert_lancere_0024",
+  "name": "Expert LanceRe",
+  "title": "Expert",
+  "gender": "any",
+  "archetype": "expert",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "expert/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:ekans",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "shedskin",
+      "moveset": [
+        "wrap",
+        "leer",
+        "poisonsting"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

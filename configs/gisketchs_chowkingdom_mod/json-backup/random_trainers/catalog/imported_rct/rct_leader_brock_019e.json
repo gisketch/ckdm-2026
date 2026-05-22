@@ -1,0 +1,82 @@
+{
+  "id": "rct_leader_brock_019e",
+  "name": "Leader Brock",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 12,
+  "maxLevel": 14,
+  "team": [
+    {
+      "species": "geodude",
+      "level": 13,
+      "gender": "MALE",
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "spark",
+        "rocktomb",
+        "selfdestruct",
+        "bulldoze"
+      ],
+      "heldItem": "custap_berry",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "vulpix",
+      "level": 14,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "incinerate",
+        "ominouswind",
+        "hiddenpower",
+        "sleeptalk"
+      ],
+      "heldItem": "oran_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "onix",
+      "level": 14,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "sturdy",
+      "moveset": [
+        "rocktomb",
+        "bulldoze",
+        "sleeptalk"
+      ],
+      "heldItem": "berry_juice",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "archen",
+      "level": 12,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "defeatist",
+      "moveset": [
+        "pluck",
+        "rocktomb",
+        "bulldoze",
+        "roost"
+      ],
+      "heldItem": "oran_berry",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

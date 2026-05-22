@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_luis"
+name = "Swimmer Luis"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii;Johto/Kanto"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 42
+maxLevel = 46
+team = [
+  { species = "cobblemon:seadra", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:quagsire", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Luis is ready for a battle.", "Phew! I’ve worn my best swim trunks today!", "All right! Next time I’ll wear party swim trunks!"]

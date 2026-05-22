@@ -1,0 +1,113 @@
+{
+  "id": "rct_elite_four_penny_05b6",
+  "name": "Elite Four Penny",
+  "title": "Elite Four",
+  "gender": "any",
+  "archetype": "elite_four",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 74,
+  "maxLevel": 76,
+  "team": [
+    {
+      "species": "goodra",
+      "level": 74,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "gooey",
+      "moveset": [
+        "flamethrower",
+        "muddywater",
+        "thunderbolt",
+        "sludgebomb"
+      ],
+      "heldItem": "wide_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tyrantrum",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "dragonclaw",
+        "headsmash",
+        "highhorsepower",
+        "ironhead"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kommoo",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "overcoat",
+      "moveset": [
+        "clangingscales",
+        "aurasphere",
+        "flashcannon",
+        "protect"
+      ],
+      "heldItem": "dragon_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hydreigon",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "dragonbreath",
+        "darkpulse",
+        "chargebeam",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sceptile",
+      "level": 76,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "technician",
+      "moveset": [
+        "dragonpulse",
+        "gigadrain",
+        "rockslide",
+        "protect"
+      ],
+      "heldItem": "mega_showdown:sceptilite expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "latias",
+      "level": 76,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "dragonbreath",
+        "mistball",
+        "airslash",
+        "roost"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

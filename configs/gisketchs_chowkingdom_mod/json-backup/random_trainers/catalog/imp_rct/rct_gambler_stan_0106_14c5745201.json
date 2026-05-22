@@ -1,0 +1,72 @@
+{
+  "id": "rct_gambler_stan_0106",
+  "name": "Gambler Stan",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "gambler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "raindance",
+        "bodyslam",
+        "bubblebeam",
+        "mudshot"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ponyta",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "runaway",
+      "moveset": [
+        "flamecharge",
+        "firespin",
+        "takedown",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:numel",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "earthpower",
+        "curse",
+        "takedown",
+        "yawn"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

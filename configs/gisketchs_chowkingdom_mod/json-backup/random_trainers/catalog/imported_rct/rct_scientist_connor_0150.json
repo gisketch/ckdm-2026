@@ -1,0 +1,77 @@
+{
+  "id": "rct_scientist_connor_0150",
+  "name": "Scientist Connor",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "muk",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "poisontouch",
+      "moveset": [
+        "crunch",
+        "poisonjab",
+        "shadowsneak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    },
+    {
+      "species": "weezing",
+      "level": 45,
+      "gender": "FEMALE",
+      "nature": "naughty",
+      "ability": "levitate",
+      "moveset": [
+        "explosion",
+        "sludgebomb",
+        "flamethrower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "klinklang",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "lonely",
+      "ability": "clearbody",
+      "moveset": [
+        "shiftgear",
+        "geargrind"
+      ],
+      "heldItem": "metal_coat",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beheeyem",
+      "level": 46,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "analytic",
+      "moveset": [
+        "psychic",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

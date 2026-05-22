@@ -1,0 +1,40 @@
+{
+  "id": "rct_channeler_ruth_01c0",
+  "name": "Channeler Ruth",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:doublade",
+      "level": 38,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sharpness",
+      "moveset": [
+        "retaliate",
+        "slash",
+        "irondefense",
+        "nightslash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

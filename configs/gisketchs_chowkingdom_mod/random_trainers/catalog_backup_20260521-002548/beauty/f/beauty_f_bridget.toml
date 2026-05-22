@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "beauty_f_bridget"
+name = "Beauty Bridget"
+title = "Beauty"
+gender = "female"
+archetype = "beauty"
+region = "Hoenn;Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "beauty/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 37
+maxLevel = 38
+team = [
+  { species = "cobblemon:oddish", level = 37, gender = "FEMALE", nature = "calm", ability = "chlorophyll", moveset = ["sludge", "moonlight", "gigadrain", "toxic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bellsprout", level = 37, gender = "FEMALE", nature = "serious", ability = "chlorophyll", moveset = ["sludge", "megadrain", "knockoff", "gastroacid"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cherubi", level = 37, gender = "FEMALE", nature = "timid", ability = "chlorophyll", moveset = ["sunnyday", "worryseed", "takedown", "solarbeam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:roselia", level = 38, gender = "FEMALE", nature = "naughty", ability = "poisontouch", moveset = ["toxicspikes", "sleeppowder", "ingrain", "petalblizzard"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Beauty Bridget is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

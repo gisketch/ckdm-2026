@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_denise"
+name = "Swimmer Denise"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:chinchou", level = 49, gender = "FEMALE", nature = "timid", ability = "voltabsorb", moveset = ["paraboliccharge", "aquaring", "hydropump", "iondeluge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 49, gender = "FEMALE", nature = "calm", ability = "voltabsorb", moveset = ["signalbeam", "scald", "discharge", "aquaring"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

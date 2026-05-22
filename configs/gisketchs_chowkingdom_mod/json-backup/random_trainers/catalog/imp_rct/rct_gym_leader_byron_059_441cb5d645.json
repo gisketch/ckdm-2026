@@ -1,0 +1,129 @@
+{
+  "id": "rct_gym_leader_byron_0590",
+  "name": "Byron",
+  "title": "RCT Trainer",
+  "gender": "any",
+  "archetype": "rct_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "rct_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 69,
+  "maxLevel": 72,
+  "team": [
+    {
+      "species": "cobblemon:skarmory",
+      "level": 69,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "sturdy",
+      "moveset": [
+        "steelwing",
+        "stealthrock",
+        "irondefense",
+        "taunt"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "moveset": [
+        "irontail",
+        "earthquake",
+        "icefang",
+        "crunch"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnezone",
+      "level": 70,
+      "gender": "GENDERLESS",
+      "nature": "quiet",
+      "ability": "analytic",
+      "moveset": [
+        "thunderbolt",
+        "flashcannon",
+        "lightscreen",
+        "magnetrise"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:empoleon",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "flashcannon",
+        "icebeam",
+        "roar"
+      ],
+      "heldItem": [
+        "expert_belt"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:aggron",
+      "level": 71,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "headsmash"
+      ],
+      "heldItem": [
+        "choice_scarf"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bastiodon",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "sturdy",
+      "moveset": [
+        "heavyslam",
+        "metalburst",
+        "roar",
+        "stealthrock"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

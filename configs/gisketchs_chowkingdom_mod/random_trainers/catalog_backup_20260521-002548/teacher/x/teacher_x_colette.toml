@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "teacher_x_colette"
+name = "Teacher Colette"
+title = "Teacher"
+gender = "any"
+archetype = "teacher"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "teacher/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 45
+maxLevel = 45
+team = [
+  { species = "cobblemon:clefairy", level = 45, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Teacher Colette is ready for a battle.", "Have you forgotten anything?", "Before I became a teacher, I used to forget a lot of things."]

@@ -1,0 +1,80 @@
+{
+  "id": "rct_super_nerd_aidan_00ab",
+  "name": "Super Nerd Aidan",
+  "title": "Super Nerd",
+  "gender": "any",
+  "archetype": "super_nerd",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "voltorb",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "static",
+      "moveset": [
+        "sonicboom",
+        "screech",
+        "sonicboom",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "koffing",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "neutralizinggas",
+      "moveset": [
+        "sludge",
+        "smog",
+        "selfdestruct",
+        "sludge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "eelektrik",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "gentle",
+      "ability": "levitate",
+      "moveset": [
+        "sonicboom",
+        "discharge",
+        "crunch",
+        "charge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "elgyem",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "synchronize",
+      "moveset": [
+        "sonicboom",
+        "psybeam",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

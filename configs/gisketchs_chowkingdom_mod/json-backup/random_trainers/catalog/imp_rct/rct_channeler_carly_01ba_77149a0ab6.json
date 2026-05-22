@@ -1,0 +1,40 @@
+{
+  "id": "rct_channeler_carly_01ba",
+  "name": "Channeler Carly",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "channeler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:lampent",
+      "level": 39,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "flamebody",
+      "moveset": [
+        "imprison",
+        "hex",
+        "memento",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rct_aroma_lady_angela_039e",
+  "name": "Aroma Lady Angela",
+  "title": "Aroma Lady",
+  "gender": "female",
+  "archetype": "aroma_lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "aroma_lady/female",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.96,
+  "weight": 0.86,
+  "bustStyle": "standard",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "cobblemon:turtwig",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "overgrow",
+      "moveset": [
+        "tackle",
+        "irontail",
+        "bulletseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

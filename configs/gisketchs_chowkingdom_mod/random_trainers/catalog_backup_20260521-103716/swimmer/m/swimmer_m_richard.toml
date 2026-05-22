@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_richard"
+name = "Swimmer Richard"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:toxapex", level = 57, gender = "FEMALE", nature = "rash", ability = "limber", moveset = ["spikecannon", "poisonjab", "venomdrench", "pinmissile"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cloyster", level = 59, gender = "FEMALE", nature = "bold", ability = "skilllink", moveset = ["spikecannon", "iceshard", "spikes", "iciclecrash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Richard is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

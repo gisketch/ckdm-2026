@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmer_lydia_04c5",
+  "name": "Swimmer Lydia",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 52,
+  "maxLevel": 52,
+  "team": [
+    {
+      "species": "cobblemon:bibarel",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "simple",
+      "moveset": [
+        "superfang",
+        "takedown",
+        "amnesia",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:azumarill",
+      "level": 52,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "thickfat",
+      "moveset": [
+        "superpower",
+        "aquatail",
+        "doubleedge",
+        "playrough"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:sealeo",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "thickfat",
+      "moveset": [
+        "surf",
+        "blizzard",
+        "rest",
+        "snore"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

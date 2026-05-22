@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "parasol_lady_f_sabrina"
+name = "Parasol Lady Sabrina"
+title = "Parasol Lady"
+gender = "female"
+archetype = "parasol_lady"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "parasol_lady/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.9
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:psyduck", level = 21, gender = "MALE", nature = "calm", ability = "damp", moveset = ["tailwhip", "furyswipes", "waterpulse", "zenheadbutt"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["When it rains, I get more tense!", "If it rained every day, I could have my umbrella open all the time.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemon_ranger_ashlee_04bb",
+  "name": "Pokémon Ranger Ashlee",
+  "title": "Pokemon Ranger",
+  "gender": "any",
+  "archetype": "pokemon_ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 50,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "zigzagoon",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "flail",
+        "rest",
+        "bellydrum",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "skarmory",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "steelwing",
+        "bravebird",
+        "slash",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

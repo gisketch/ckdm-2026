@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_reginald"
+name = "Hiker Reginald"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 15
+maxLevel = 15
+team = [
+  { species = "cobblemon:geodude", level = 15, gender = "MALE", nature = "relaxed", ability = "rockhead", moveset = ["defensecurl", "sandstorm", "rockpolish", "rollout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machop", level = 15, gender = "FEMALE", nature = "relaxed", ability = "noguard", moveset = ["lowkick", "leer", "revenge", "lowsweep"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Look! A Trainer lost in Wayward Cave!", "Me? No, I’m not lost. I live here!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,56 @@
+{
+  "id": "rct_lady_kylie_048b",
+  "name": "Lady Kylie",
+  "title": "Lady",
+  "gender": "female",
+  "archetype": "lady",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "lady/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.92,
+  "bustStyle": "standard",
+  "minLevel": 21,
+  "maxLevel": 21,
+  "team": [
+    {
+      "species": "cobblemon:bonsly",
+      "level": 21,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sturdy",
+      "moveset": [
+        "copycat",
+        "flail",
+        "rockthrow",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pichu",
+      "level": 21,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "static",
+      "moveset": [
+        "thundershock",
+        "tailwhip",
+        "nuzzle",
+        "charm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

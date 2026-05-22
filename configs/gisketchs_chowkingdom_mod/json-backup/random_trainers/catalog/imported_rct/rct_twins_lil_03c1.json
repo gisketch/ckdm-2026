@@ -1,0 +1,33 @@
+{
+  "id": "rct_twins_lil_03c1",
+  "name": "Twin Lil",
+  "title": "Twins",
+  "gender": "any",
+  "archetype": "twins",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 19,
+  "maxLevel": 19,
+  "team": [
+    {
+      "species": "mimejr",
+      "level": 19,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "filter",
+      "moveset": [
+        "pound",
+        "copycat",
+        "encore",
+        "confusion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

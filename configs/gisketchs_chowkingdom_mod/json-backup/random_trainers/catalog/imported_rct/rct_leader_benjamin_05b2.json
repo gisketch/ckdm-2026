@@ -1,0 +1,113 @@
+{
+  "id": "rct_leader_benjamin_05b2",
+  "name": "Leader Benjamin",
+  "title": "Leader",
+  "gender": "any",
+  "archetype": "leader",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "araquanid",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "waterbubble",
+      "moveset": [
+        "liquidation",
+        "leechlife",
+        "mirrorcoat",
+        "stickyweb"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "forretress",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "sturdy",
+      "moveset": [
+        "gyroball",
+        "counter",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drapion",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "superluck",
+      "moveset": [
+        "crosspoison",
+        "nightslash",
+        "pinmissile",
+        "earthquake"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "volcarona",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "bugbuzz",
+        "heatwave",
+        "wildcharge",
+        "quiverdance"
+      ],
+      "heldItem": "bug_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "scizor",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "bugbite",
+        "bulletpunch",
+        "dualwingbeat",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:scizorite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "flygon",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "levitate",
+      "moveset": [
+        "earthquake",
+        "dragonclaw",
+        "rockslide",
+        "crunch"
+      ],
+      "heldItem": "eviolite",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rct_expert_kenlawa_mimikyu_1_05e5",
+  "name": "Expert Kenlawa",
+  "title": "Expert Kenlawa Mimikyu",
+  "gender": "any",
+  "archetype": "expert_kenlawa_mimikyu",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 81,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "mimikyu",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "disguise",
+      "moveset": [
+        "playrough",
+        "taunt",
+        "lightscreen",
+        "protect"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

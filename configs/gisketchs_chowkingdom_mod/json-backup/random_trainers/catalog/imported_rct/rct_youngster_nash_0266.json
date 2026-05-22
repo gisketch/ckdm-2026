@@ -1,0 +1,65 @@
+{
+  "id": "rct_youngster_nash_0266",
+  "name": "Youngster Nash",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "weepinbell",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "chlorophyll",
+      "moveset": [
+        "knockoff",
+        "gastroacid",
+        "razorleaf",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "weepinbell",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "chlorophyll",
+      "moveset": [
+        "knockoff",
+        "gastroacid",
+        "razorleaf",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "victreebel",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "chlorophyll",
+      "moveset": [
+        "poisonjab",
+        "leafstorm",
+        "leafblade",
+        "sludgebomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

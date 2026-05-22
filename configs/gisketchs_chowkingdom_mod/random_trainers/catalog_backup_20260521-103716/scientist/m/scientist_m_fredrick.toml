@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "scientist_m_fredrick"
+name = "Scientist Fredrick"
+title = "Scientist"
+gender = "male"
+archetype = "scientist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "scientist/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = ""
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:kirlia", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "magicalleaf", "hypnosis", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kadabra", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["psychic", "psychocut", "thunderwave", "recover"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hey, now! Our HQ is a state-of-the- art facility! A snot-nosed kid like you ought to keep your dirty hands to yourself!", "Our boss is trying to create an entirely new world. A world only for us! For Team Galactic!", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0688_skier_cady",
+  "name": "Skier Cady",
+  "title": "Skier",
+  "gender": "any",
+  "archetype": "skier",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "skier/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:delibird",
+      "level": 53,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "To beat the cold, try warm clothes and a hot drink!",
+    "That was a hot battle!"
+  ]
+}

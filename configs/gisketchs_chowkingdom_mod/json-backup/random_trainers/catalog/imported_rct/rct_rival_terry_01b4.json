@@ -1,0 +1,113 @@
+{
+  "id": "rct_rival_terry_01b4",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 80,
+  "maxLevel": 81,
+  "team": [
+    {
+      "species": "staraptor",
+      "level": 80,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "bravebird",
+        "doubleedge",
+        "uturn",
+        "closecombat"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "electivire",
+      "level": 80,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "ironfist",
+      "moveset": [
+        "plasmafists",
+        "closecombat",
+        "icepunch",
+        "machpunch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "azumarill",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "hugepower",
+      "moveset": [
+        "aquajet",
+        "icepunch",
+        "playrough",
+        "liquidation"
+      ],
+      "heldItem": "mystic_water",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "darmanitan",
+      "level": 81,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "flareblitz",
+        "earthquake",
+        "uturn",
+        "rockslide"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "kartana",
+      "level": 81,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "beastboost",
+      "moveset": [
+        "leafblade",
+        "smartstrike",
+        "sacredsword",
+        "xscissor"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "venusaur",
+      "level": 81,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "overgrow",
+      "moveset": [
+        "gigadrain",
+        "sludgebomb",
+        "sleeppowder",
+        "earthpower"
+      ],
+      "heldItem": "mega_showdown:venusaurite leftovers",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

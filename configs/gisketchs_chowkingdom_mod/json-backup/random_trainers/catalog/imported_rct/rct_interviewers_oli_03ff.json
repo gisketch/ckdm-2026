@@ -1,0 +1,33 @@
+{
+  "id": "rct_interviewers_oli_03ff",
+  "name": "Interviewers Oli",
+  "title": "Interviewers",
+  "gender": "any",
+  "archetype": "interviewers",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "marill",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "thickfat",
+      "moveset": [
+        "bubblebeam",
+        "charm",
+        "slam",
+        "bounce"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

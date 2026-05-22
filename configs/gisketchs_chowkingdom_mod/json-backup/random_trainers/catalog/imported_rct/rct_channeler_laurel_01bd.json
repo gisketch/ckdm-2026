@@ -1,0 +1,49 @@
+{
+  "id": "rct_channeler_laurel_01bd",
+  "name": "Channeler Laurel",
+  "title": "Channeler",
+  "gender": "any",
+  "archetype": "channeler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 36,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "haunter",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "levitate",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "misdreavus",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "levitate",
+      "moveset": [
+        "hex",
+        "psybeam",
+        "painsplit",
+        "payback"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

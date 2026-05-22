@@ -1,0 +1,81 @@
+{
+  "id": "rct_ninja_boy_antonio_0359",
+  "name": "Ninja Boy Antonio",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 33,
+  "maxLevel": 36,
+  "team": [
+    {
+      "species": "zubat",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 33,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "astonish",
+        "poisonfang",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zubat",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "supersonic",
+        "poisonfang",
+        "aircutter",
+        "bite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "croagunk",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "anticipation",
+      "moveset": [
+        "revenge",
+        "venoshock",
+        "suckerpunch",
+        "toxic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

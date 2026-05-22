@@ -1,0 +1,56 @@
+{
+  "id": "pret_pokeplatinum_youngster_donny",
+  "name": "Youngster Donny",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 20,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:gastly",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "suckerpunch",
+        "nightshade",
+        "confuseray",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:drifloon",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spitup",
+        "swallow",
+        "stockpile"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hey, now! You\u2019re not even close to the door yet. You have to beat me before you can go, you know?",
+    "Just walk around and look for the blue marks on the tiles."
+  ]
+}

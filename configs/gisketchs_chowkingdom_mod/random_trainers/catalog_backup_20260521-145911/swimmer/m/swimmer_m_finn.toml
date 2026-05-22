@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_finn"
+name = "Swimmer Finn"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "very_high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 91
+maxLevel = 92
+team = [
+  { species = "cobblemon:overqwil", level = 92, gender = "FEMALE", nature = "jolly", ability = "intimidate", moveset = ["poisonjab", "throatchop", "toxicspikes", "destinybond"], heldItem = "['custap_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:barraskewda", level = 91, gender = "MALE", nature = "jolly", ability = "swiftswim", moveset = ["waterfall", "flipturn", "closecombat", "psychicfangs"], heldItem = "['mystic_water']", shiny = false, aspects = [] },
+  { species = "cobblemon:cloyster", level = 91, gender = "FEMALE", nature = "jolly", ability = "skilllink", moveset = ["shellsmash", "waterfall", "iciclespear", "rockblast"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:drednaw", level = 92, gender = "FEMALE", nature = "adamant", ability = "strongjaw", moveset = ["liquidation", "jawlock", "icefang", "rockpolish"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmer Male Finn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

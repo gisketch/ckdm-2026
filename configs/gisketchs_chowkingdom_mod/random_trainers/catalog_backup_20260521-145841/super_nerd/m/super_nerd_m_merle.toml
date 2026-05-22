@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "super_nerd_m_merle"
+name = "Super Nerd Merle"
+title = "Super Nerd"
+gender = "male"
+archetype = "super_nerd"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "super_nerd/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 53
+maxLevel = 53
+team = [
+  { species = "cobblemon:magcargo", level = 53, gender = "GENDERLESS", nature = "", ability = "", moveset = ["overheat", "rockslide", "yawn", "recover"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Super Nerd Merle is ready for a battle."]

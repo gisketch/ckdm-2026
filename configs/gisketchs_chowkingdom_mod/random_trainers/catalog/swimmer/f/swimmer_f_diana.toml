@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_diana"
+name = "Swimmer Diana"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:golduck", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "zenheadbutt", "psychup", "disable"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerf Diana is ready for a battle.", "Sorry about being away. Let’s get on with it!", "I’ll be swimming quietly."]

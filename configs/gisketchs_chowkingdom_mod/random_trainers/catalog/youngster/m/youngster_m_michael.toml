@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_michael"
+name = "Youngster Michael"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:bidoof", level = 5, gender = "MALE", nature = "docile", ability = "unaware", moveset = ["tackle", "growl", "defensecurl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:zubat", level = 5, gender = "MALE", nature = "hasty", ability = "innerfocus", moveset = ["absorb", "supersonic", "astonish"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I get my get-up-and-go from my Pokémon! Here we go! KRICKETOT! ZUBAT!", "Keep out of the grass or dodge the eyes of Trainers...? I always have a tough time choosing.", "I have trained this team for the road. Challenge me if you are ready."]

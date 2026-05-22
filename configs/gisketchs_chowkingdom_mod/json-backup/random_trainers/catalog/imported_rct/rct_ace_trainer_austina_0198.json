@@ -1,0 +1,97 @@
+{
+  "id": "rct_ace_trainer_austina_0198",
+  "name": "Ace Trainer Austina",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "rhyhorn",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "rockhead",
+      "moveset": [
+        "horndrill",
+        "rockblast",
+        "scaryface",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorina",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "rivalry",
+      "moveset": [
+        "doublekick",
+        "furyswipes",
+        "bite",
+        "flatter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoqueen",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "rivalry",
+      "moveset": [
+        "bodyslam",
+        "doublekick",
+        "bite",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidorino",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "rivalry",
+      "moveset": [
+        "hornattack",
+        "poisonsting",
+        "focusenergy",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoking",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "rivalry",
+      "moveset": [
+        "thrash",
+        "doublekick",
+        "poisonsting",
+        "peck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

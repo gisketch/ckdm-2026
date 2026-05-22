@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_braxton"
+name = "Ace Trainer Braxton"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:swellow", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["focusenergy", "quickattack", "wingattack", "endeavor"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:trapinch", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bite", "dig", "feintattack", "sandtomb"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wailmer", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rollout", "whirlpool", "astonish", "waterpulse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magneton", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "supersonic", "thunderwave", "sonicboom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shiftry", level = 28, gender = "GENDERLESS", nature = "", ability = "", moveset = ["gigadrain", "feintattack", "doubleteam", "swagger"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Braxton is ready for a battle."]

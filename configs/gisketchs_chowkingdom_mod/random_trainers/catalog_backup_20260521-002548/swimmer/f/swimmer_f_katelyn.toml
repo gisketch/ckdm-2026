@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_f_katelyn"
+name = "Swimmer Katelyn"
+title = "Swimmer"
+gender = "female"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "swimmer/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.92
+bustStyle = "standard"
+minLevel = 32
+maxLevel = 32
+team = [
+  { species = "cobblemon:buizel", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["aquajet", "sonicboom", "quickattack", "attract"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:medicham", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["confusion", "brickbreak", "meditate", "lightscreen"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seaking", level = 32, gender = "GENDERLESS", nature = "", ability = "", moveset = ["waterpulse", "hornattack", "aquaring", "captivate"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I may not look it now, but I’m a star. I’m always with my Pokémon.", "If it were an underwater Pokémon show, I would have shined."]

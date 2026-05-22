@@ -1,0 +1,359 @@
+[[solo_moments]]
+id = "ambient_03_001"
+topic = "mentor_training"
+source_tags = ["mentor"]
+activities = ["work", "meetup"]
+line = "A lesson starts with the stance, not the strike."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_002"
+topic = "mentor_duty"
+source_tags = ["mentor", "paladin"]
+activities = ["work"]
+line = "Duty is easier to carry when the path is clear."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_003"
+topic = "combat_training"
+source_tags = ["warrior"]
+activities = ["work", "meetup"]
+line = "Shield high, feet steady, breath even."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_004"
+topic = "patrol"
+source_tags = ["warrior", "paladin"]
+activities = ["work", "pokemon_roam"]
+line = "A calm patrol still needs sharp eyes."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_005"
+topic = "combat_training"
+source_tags = ["berserker"]
+activities = ["meetup"]
+line = "Power without control wastes the first opening."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_006"
+topic = "duty"
+source_tags = ["paladin"]
+activities = ["work", "home"]
+line = "Armor feels lighter after a clear promise."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_007"
+topic = "stealth_training"
+source_tags = ["rogue"]
+activities = ["work", "pokemon_roam"]
+line = "Loose gravel gives away more than loud boots."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_008"
+topic = "patrol"
+source_tags = ["rogue", "warrior"]
+activities = ["pokemon_roam"]
+line = "The quiet route always shows the newest tracks."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_009"
+topic = "archery_training"
+source_tags = ["archer"]
+activities = ["work", "meetup"]
+line = "The bow follows the breath before it follows the hand."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_010"
+topic = "archery_training"
+source_tags = ["war_archer"]
+activities = ["work"]
+line = "A clean volley begins with spacing."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_011"
+topic = "patrol"
+source_tags = ["tundra_archer"]
+activities = ["pokemon_roam", "work"]
+line = "Cold air carries sound farther than most expect."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_012"
+topic = "mentor_training"
+source_tags = ["mentor", "archer"]
+activities = ["meetup"]
+line = "Correct the aim while the arrow is still resting."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_013"
+topic = "magic_theory"
+source_tags = ["wizard"]
+activities = ["work", "home"]
+line = "Every spell leaves a shape in the air."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_014"
+topic = "fire_magic"
+source_tags = ["fire_wizard"]
+activities = ["work"]
+line = "Flame answers discipline faster than anger."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_015"
+topic = "water_magic"
+source_tags = ["water_wizard"]
+activities = ["work", "pokemon_roam"]
+line = "Water finds the weakness in every hard stance."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_016"
+topic = "earth_magic"
+source_tags = ["earth_wizard"]
+activities = ["work"]
+line = "Stone remembers pressure long after the step is gone."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_017"
+topic = "wind_magic"
+source_tags = ["wind_wizard"]
+activities = ["pokemon_roam", "meetup"]
+line = "Wind changes the lesson before the first word."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_018"
+topic = "frost_magic"
+source_tags = ["frost_wizard"]
+activities = ["work", "home"]
+line = "Frost rewards patience more than force."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_019"
+topic = "arcane_magic"
+source_tags = ["arcane_wizard"]
+activities = ["work"]
+line = "A stable sigil is a promise kept by the hand."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_020"
+topic = "magic_training"
+source_tags = ["mentor", "wizard"]
+activities = ["meetup"]
+line = "Power is easier to teach when the basics are visible."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_021"
+topic = "field_duty"
+source_tags = ["witcher"]
+activities = ["pokemon_roam", "work"]
+line = "Tracks, wind, silence. The field keeps its own ledger."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_022"
+topic = "combat_readiness"
+source_tags = ["witcher", "rogue"]
+activities = ["pokemon_roam"]
+line = "A careful step can save the blade for later."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_023"
+topic = "bardic_mentor"
+source_tags = ["bard", "mentor"]
+activities = ["meetup", "work"]
+line = "A marching rhythm teaches timing without a lecture."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_024"
+topic = "morale"
+source_tags = ["bard"]
+activities = ["meetup", "home"]
+line = "A steady tune keeps tired hands from rushing."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_025"
+topic = "patrol"
+source_tags = ["paladin", "warrior", "archer"]
+activities = ["pokemon_roam", "work"]
+line = "Good patrols notice what did not move."
+weight = 2.0
+
+[[solo_moments]]
+id = "ambient_03_026"
+topic = "combat_training"
+source_tags = ["warrior", "berserker"]
+activities = ["meetup"]
+line = "The second swing matters only if the first one leaves room."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_027"
+topic = "combat_training"
+source_tags = ["rogue", "archer"]
+activities = ["work"]
+line = "Distance is a tool, not a place to hide."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_028"
+topic = "elemental_balance"
+source_tags = ["fire_wizard", "water_wizard"]
+activities = ["meetup"]
+line = "Opposing elements teach the cleanest control."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_029"
+topic = "elemental_balance"
+source_tags = ["earth_wizard", "wind_wizard"]
+activities = ["meetup"]
+line = "Ground and air argue in every good drill."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_030"
+topic = "field_magic"
+source_tags = ["frost_wizard", "tundra_archer"]
+activities = ["pokemon_roam"]
+line = "Cold sights make small mistakes easy to see."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_031"
+topic = "arcane_patrol"
+source_tags = ["arcane_wizard", "paladin"]
+activities = ["work", "pokemon_roam"]
+line = "Wards hold better when someone walks their edges."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_032"
+topic = "mentor_training"
+source_tags = ["mentor", "rogue"]
+activities = ["work", "meetup"]
+line = "Teach the student to see the exit before the entrance."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_033"
+topic = "mentor_training"
+source_tags = ["mentor", "warrior"]
+activities = ["meetup"]
+line = "A strong guard is a habit, not a reaction."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_034"
+topic = "mentor_training"
+source_tags = ["mentor", "wizard"]
+activities = ["work"]
+line = "The first lesson is where the spell should stop."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_035"
+topic = "field_duty"
+source_tags = ["witcher", "warrior"]
+activities = ["pokemon_roam"]
+line = "A field mark means more after the third pass."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_036"
+topic = "patrol"
+source_tags = ["war_archer", "paladin"]
+activities = ["work", "pokemon_roam"]
+line = "High ground is useful only if the road stays watched."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_037"
+topic = "duty"
+source_tags = ["paladin", "mentor"]
+activities = ["meetup"]
+line = "The oath is quietest when it is being kept."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_038"
+topic = "combat_readiness"
+source_tags = ["berserker", "mentor"]
+activities = ["work"]
+line = "Fury needs a boundary before it becomes useful."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_039"
+topic = "magic_training"
+source_tags = ["water_wizard", "frost_wizard"]
+activities = ["work", "home"]
+line = "Ice is water choosing a stricter lesson."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_040"
+topic = "magic_training"
+source_tags = ["fire_wizard", "wind_wizard"]
+activities = ["meetup"]
+line = "A draft can turn a spark into a drill or a hazard."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_041"
+topic = "magic_training"
+source_tags = ["earth_wizard", "arcane_wizard"]
+activities = ["work"]
+line = "Runes sit cleaner when the ground agrees."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_042"
+topic = "patrol"
+source_tags = ["rogue", "witcher", "archer"]
+activities = ["pokemon_roam"]
+line = "Three signs on one trail means slow down."
+weight = 1.8
+
+[[solo_moments]]
+id = "ambient_03_043"
+topic = "class_mentor"
+source_tags = ["mentor", "bard"]
+activities = ["home", "meetup"]
+line = "Even rest can teach tempo."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_044"
+topic = "class_mentor"
+source_tags = ["mentor", "paladin", "wizard"]
+activities = ["work"]
+line = "A guarded lesson leaves room for mistakes."
+weight = 1.6
+
+[[solo_moments]]
+id = "ambient_03_045"
+topic = "duty"
+source_tags = ["mentor", "warrior", "wizard"]
+activities = ["meetup", "pokemon_roam"]
+line = "The road tests every class in its own language."
+weight = 1.8

@@ -1,0 +1,56 @@
+{
+  "id": "rct_youngster_ben_01f3",
+  "name": "Youngster Ben",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "youngster/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.9,
+  "weight": 0.91,
+  "bustStyle": "",
+  "minLevel": 48,
+  "maxLevel": 48,
+  "team": [
+    {
+      "species": "cobblemon:raticate",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "guts",
+      "moveset": [
+        "return",
+        "superfang",
+        "doubleedge",
+        "endeavor"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arbok",
+      "level": 48,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "shedskin",
+      "moveset": [
+        "poisonfang",
+        "coil",
+        "jawlock",
+        "belch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_tony"
+name = "Swimmer Tony"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 61
+maxLevel = 63
+team = [
+  { species = "cobblemon:seadra", level = 61, gender = "FEMALE", nature = "bold", ability = "poisontouch", moveset = ["agility", "dragonpulse", "dragondance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:samurott", level = 63, gender = "FEMALE", nature = "jolly", ability = "torrent", moveset = ["swordsdance", "hydropump", "sacredsword", "razorshell"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

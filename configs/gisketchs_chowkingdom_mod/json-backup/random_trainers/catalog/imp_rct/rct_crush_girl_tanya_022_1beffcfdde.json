@@ -1,0 +1,98 @@
+{
+  "id": "rct_crush_girl_tanya_0228",
+  "name": "Crush Girl Tanya",
+  "title": "Crush Girl",
+  "gender": "female",
+  "archetype": "crush_girl",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "crush_girl/female",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 91,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:pangoro",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "scrappy",
+      "moveset": [
+        "wickedblow",
+        "closecombat",
+        "partingshot",
+        "suckerpunch"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bewear",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "fluffy",
+      "moveset": [
+        "closecombat",
+        "doubleedge",
+        "darkestlariat",
+        "drainpunch"
+      ],
+      "heldItem": [
+        "sitrus_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:ursaring",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "drainpunch",
+        "shadowpunch",
+        "shadowsneak",
+        "playrough"
+      ],
+      "heldItem": [
+        "flame_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "cobblemon:tauros",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "sheerforce",
+      "moveset": [
+        "headcharge",
+        "ironhead",
+        "closecombat",
+        "throatchop"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmerf_melissa_02de",
+  "name": "Swimmer\u2640 Melissa",
+  "title": "Swimmer\u2640",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "damp",
+      "moveset": [
+        "mudshot",
+        "bellydrum",
+        "wakeupslap",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

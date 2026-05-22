@@ -1,0 +1,56 @@
+{
+  "id": "rct_swimmer_vincent_0360",
+  "name": "Swimmer Vincent",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "cobblemon:pelipper",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "drizzle",
+      "moveset": [
+        "airslash",
+        "waterpulse",
+        "stockpile",
+        "swallow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:whiscash",
+      "level": 29,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "oblivious",
+      "moveset": [
+        "tickle",
+        "rest",
+        "snore",
+        "waterpulse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

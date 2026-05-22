@@ -1,0 +1,49 @@
+{
+  "id": "rct_gentleman_walter_01a9",
+  "name": "Gentleman Walter",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "growlithe",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "odorsleuth",
+        "helpinghand",
+        "flamewheel"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ponyta",
+      "level": 17,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "runaway",
+      "moveset": [
+        "tailwhip",
+        "flamewheel",
+        "lowkick",
+        "willowisp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "rct_bird_keeper_jacob_02a9",
+  "name": "Bird Keeper Jacob",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:fearow",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:fearow",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "gentle",
+      "ability": "technician",
+      "moveset": [
+        "dualwingbeat",
+        "roost",
+        "drillpeck",
+        "drillrun"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

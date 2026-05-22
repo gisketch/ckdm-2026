@@ -1,0 +1,49 @@
+{
+  "id": "rct_school_kid_mackenzie_03ef",
+  "name": "School Kid Mackenzie",
+  "title": "School Kid",
+  "gender": "any",
+  "archetype": "school_kid",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "drifloon",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "aftermath",
+      "moveset": [
+        "gust",
+        "stockpile",
+        "swallow",
+        "spitup"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "drifloon",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flareboost",
+      "moveset": [
+        "minimize",
+        "focusenergy",
+        "payback",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "artist_m_kevin"
+name = "Artist Kevin"
+title = "Artist"
+gender = "male"
+archetype = "artist"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "artist/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:mrmime", level = 57, gender = "MALE", nature = "bold", ability = "filter", moveset = ["mimic", "lightscreen", "dazzlinggleam", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:sudowoodo", level = 59, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["woodhammer", "tearfullook", "doubleedge", "headsmash"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

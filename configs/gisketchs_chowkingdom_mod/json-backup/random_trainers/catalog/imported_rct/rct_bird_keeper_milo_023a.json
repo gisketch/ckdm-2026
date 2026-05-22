@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_milo_023a",
+  "name": "Bird Keeper Milo",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 47,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "pidgey",
+      "level": 47,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "frisk",
+      "moveset": [
+        "agility",
+        "fly",
+        "tailwind",
+        "mirrormove"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pidgeotto",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "frisk",
+      "moveset": [
+        "agility",
+        "airslash",
+        "mirrormove",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

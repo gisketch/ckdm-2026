@@ -1,0 +1,49 @@
+{
+  "id": "rct_fisherman_tylor_023d",
+  "name": "Fisherman Tylor",
+  "title": "Fisherman",
+  "gender": "any",
+  "archetype": "fisherman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "qwilfish",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "pinmissile",
+        "takedown",
+        "aquatail",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "qwilfish",
+      "level": 49,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "swiftswim",
+      "moveset": [
+        "pinmissile",
+        "takedown",
+        "aquatail",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

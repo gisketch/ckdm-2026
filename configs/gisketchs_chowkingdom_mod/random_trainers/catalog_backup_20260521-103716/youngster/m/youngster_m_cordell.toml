@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_cordell"
+name = "Youngster Cordell"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "high"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:farfetchd", level = 48, gender = "FEMALE", nature = "serious", ability = "innerfocus", moveset = ["nightslash", "acrobatics", "feint", "falseswipe"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:farfetchd", level = 48, gender = "FEMALE", nature = "sassy", ability = "innerfocus", moveset = ["nightslash", "acrobatics", "feint", "falseswipe"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Cordell is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

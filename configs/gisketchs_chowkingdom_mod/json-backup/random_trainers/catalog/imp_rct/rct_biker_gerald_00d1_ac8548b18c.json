@@ -1,0 +1,55 @@
+{
+  "id": "rct_biker_gerald_00d1",
+  "name": "Biker Gerald",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "biker/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.08,
+  "weight": 1.13,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:breloom",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "effectspore",
+      "moveset": [
+        "smokescreen",
+        "machpunch",
+        "spore",
+        "drainpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:copperajah",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "heavymetal",
+      "moveset": [
+        "screech",
+        "gyroball",
+        "highhorsepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

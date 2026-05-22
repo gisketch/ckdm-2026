@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pokefan_m_brandon"
+name = "Pokefan Brandon"
+title = "Pokefan"
+gender = "male"
+archetype = "pokefan"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "pokefan/male"
+tier = "low"
+spawnable = true
+height = 1.04
+weight = 1.02
+bustStyle = ""
+minLevel = 13
+maxLevel = 13
+team = [
+  { species = "cobblemon:snubbull", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mareep", level = 13, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I just got my Pokémon back from Day Care. Let’s see how much stronger it got!", "My Pokémon knew moves I didn’t know it had. That confounded me to no end!"]

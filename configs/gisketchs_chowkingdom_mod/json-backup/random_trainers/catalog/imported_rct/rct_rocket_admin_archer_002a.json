@@ -1,0 +1,113 @@
+{
+  "id": "rct_rocket_admin_archer_002a",
+  "name": "Rocket Admin Archer",
+  "title": "Rocket Admin",
+  "gender": "any",
+  "archetype": "rocket_admin",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "aerodactyl",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "rockhead",
+      "moveset": [
+        "bravebird",
+        "stoneedge",
+        "earthquake",
+        "firefang"
+      ],
+      "heldItem": "sharp_beak",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heliolisk",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "solarpower",
+      "moveset": [
+        "hypervoice",
+        "voltswitch",
+        "thunderbolt",
+        "grassknot"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "latias",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "thunderbolt",
+        "icebeam",
+        "calmmind",
+        "psyshock"
+      ],
+      "heldItem": "mega_showdown:latiasite leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "houndoom",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "fierywrath",
+        "flamethrower",
+        "solarbeam",
+        "sludgebomb"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "mismagius",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "moonblast",
+        "mysticalfire",
+        "thunderbolt"
+      ],
+      "heldItem": "mega_showdown:ghostium_z ghost_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "heatran",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "flashfire",
+      "moveset": [
+        "protect",
+        "flamethrower",
+        "flashcannon",
+        "earthquake"
+      ],
+      "heldItem": "air_balloon",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

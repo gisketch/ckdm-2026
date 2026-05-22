@@ -1,0 +1,55 @@
+{
+  "id": "pret_pokeplatinum_scientist_shaun",
+  "name": "Scientist Shaun",
+  "title": "Scientist",
+  "gender": "any",
+  "archetype": "scientist",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "scientist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 26,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:magnemite",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "spark",
+        "magnetbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kadabra",
+      "level": 26,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psybeam",
+        "disable",
+        "kinesis",
+        "thunderpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Oh? Here comes a nice-looking Trainer. This is worth evaluation.",
+    "A huge variety of Pok\u00e9mon live in the Great Marsh. You see, countless years ago, this whole area was under the sea."
+  ]
+}

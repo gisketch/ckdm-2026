@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_m_mason"
+name = "Juggler Mason"
+title = "Juggler"
+gender = "male"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/male"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 52
+maxLevel = 52
+team = [
+  { species = "cobblemon:electrode", level = 52, gender = "GENDERLESS", nature = "modest", ability = "static", moveset = ["magnetrise", "discharge", "explosion", "gyroball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pineco", level = 52, gender = "MALE", nature = "naive", ability = "sturdy", moveset = ["explosion", "irondefense", "gyroball", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrode", level = 52, gender = "GENDERLESS", nature = "calm", ability = "static", moveset = ["magnetrise", "discharge", "explosion", "gyroball"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pineco", level = 52, gender = "MALE", nature = "adamant", ability = "sturdy", moveset = ["explosion", "irondefense", "gyroball", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Mason is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

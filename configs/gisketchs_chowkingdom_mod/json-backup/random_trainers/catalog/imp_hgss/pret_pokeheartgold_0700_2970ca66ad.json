@@ -1,0 +1,88 @@
+{
+  "id": "pret_pokeheartgold_0700_rocket_boss_giovanni",
+  "name": "Rocket Boss Giovanni",
+  "title": "Rocket Boss",
+  "gender": "any",
+  "archetype": "rocket_boss",
+  "region": "Johto/Kanto",
+  "category": "unique",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "rocket_boss/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 40,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "cobblemon:nidoking",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "focusenergy",
+        "furyattack",
+        "doublekick",
+        "shadowclaw"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:kangaskhan",
+      "level": 40,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "dizzypunch",
+        "suckerpunch",
+        "leer",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:honchkrow",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "darkpulse",
+        "nastyplot",
+        "swagger",
+        "shadowball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoqueen",
+      "level": 46,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "earthpower",
+        "superpower",
+        "crunch",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What in the world was that? Don\u2019t tell me some inexperienced kid can possibly be that strong!"
+  ]
+}

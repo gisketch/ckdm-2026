@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_deanna",
+  "name": "Ace Trainer Female Deanna",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 55,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:flaaffy",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "powergem",
+        "signalbeam",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tropius",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "solarbeam",
+        "airslash",
+        "synthesis",
+        "sunnyday"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Worthy opponents... The search for them drives me to travel far.",
+    "How much you believe in your Pok\u00e9mon... That\u2019s a critical factor in how a battle will turn out."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rct_pokemon_ranger_ashlee_04bb",
+  "name": "Pok\u00e9mon Ranger Ashlee",
+  "title": "Pok\u00e9mon Ranger",
+  "gender": "any",
+  "archetype": "pok_mon_ranger",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "pok_mon_ranger/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.1,
+  "weight": 1.14,
+  "bustStyle": "",
+  "minLevel": 50,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:zigzagoon",
+      "level": 50,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "pickup",
+      "moveset": [
+        "flail",
+        "rest",
+        "bellydrum",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:skarmory",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "keeneye",
+      "moveset": [
+        "steelwing",
+        "bravebird",
+        "slash",
+        "irondefense"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

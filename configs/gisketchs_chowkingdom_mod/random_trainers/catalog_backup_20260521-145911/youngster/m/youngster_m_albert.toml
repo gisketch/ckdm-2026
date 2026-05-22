@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_albert"
+name = "Youngster Albert"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 6
+maxLevel = 8
+team = [
+  { species = "cobblemon:rattata", level = 6, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:zubat", level = 8, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Albert is ready for a battle.", "I haven’t seen you around before. So you think you’re pretty tough?", "I’m going to try to be the best with my prized Pokémon. I’m not using the same tough Pokémon as everyone else."]

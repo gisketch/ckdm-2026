@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_f_sue"
+name = "Rct Trainer Sue"
+title = "Rct Trainer"
+gender = "female"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/female"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = "standard"
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:meditite", level = 19, gender = "FEMALE", nature = "bashful", ability = "purepower", moveset = ["lowkick", "detect", "forcepalm", "psybeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

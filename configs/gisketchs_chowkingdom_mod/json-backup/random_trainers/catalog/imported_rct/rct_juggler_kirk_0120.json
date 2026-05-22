@@ -1,0 +1,81 @@
+{
+  "id": "rct_juggler_kirk_0120",
+  "name": "Juggler Kirk",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 62,
+  "maxLevel": 63,
+  "team": [
+    {
+      "species": "electrode",
+      "level": 63,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "soundproof",
+      "moveset": [
+        "explosion",
+        "gyroball",
+        "mirrorcoat",
+        "courtchange"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "incineroar",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "blaze",
+      "moveset": [
+        "flamethrower",
+        "scaryface",
+        "flareblitz",
+        "outrage"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "appletun",
+      "level": 62,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "ripen",
+      "moveset": [
+        "bodyslam",
+        "irondefense",
+        "dragonpulse",
+        "energyball"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ariados",
+      "level": 63,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "swarm",
+      "moveset": [
+        "gunkshot",
+        "megahorn",
+        "stickyweb",
+        "toxicthread"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

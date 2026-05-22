@@ -1,0 +1,81 @@
+{
+  "id": "rct_ranger_beth_0255",
+  "name": "Ranger Beth",
+  "title": "Ranger",
+  "gender": "any",
+  "archetype": "ranger",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 90,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "scizor",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "bulletpunch",
+        "uturn",
+        "rocksmash",
+        "dualwingbeat"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "haxorus",
+      "level": 93,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "moldbreaker",
+      "moveset": [
+        "swordsdance",
+        "scaleshot",
+        "poisonjab",
+        "closecombat"
+      ],
+      "heldItem": "lum_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golem",
+      "level": 90,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "sturdy",
+      "moveset": [
+        "headlongrush",
+        "stoneedge",
+        "suckerpunch",
+        "explosion"
+      ],
+      "heldItem": "custap_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "manectric",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "intimidate",
+      "moveset": [
+        "voltswitch",
+        "hiddenpower",
+        "flamethrower",
+        "thunderbolt"
+      ],
+      "heldItem": "mega_showdown:manectite expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

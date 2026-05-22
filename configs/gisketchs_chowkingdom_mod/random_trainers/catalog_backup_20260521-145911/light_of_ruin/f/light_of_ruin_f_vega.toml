@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "light_of_ruin_f_vega"
+name = "Light Of Ruin Vega"
+title = "Light Of Ruin"
+gender = "female"
+archetype = "light_of_ruin"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "light_of_ruin/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.99
+bustStyle = "standard"
+minLevel = 45
+maxLevel = 47
+team = [
+  { species = "cobblemon:liepard", level = 45, gender = "FEMALE", nature = "modest", ability = "unburden", moveset = ["darkpulse", "grassknot", "burningjealousy", "fakeout"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:honchkrow", level = 47, gender = "FEMALE", nature = "timid", ability = "superluck", moveset = ["darkpulse", "aircutter", "heatwave", "protect"], heldItem = "['scope_lens']", shiny = false, aspects = [] },
+  { species = "cobblemon:absol", level = 47, gender = "FEMALE", nature = "jolly", ability = "magicbounce", moveset = ["nightslash", "psychocut", "xscissor", "irontail"], heldItem = "['mega_showdown:absolite', 'expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:weavile", level = 46, gender = "FEMALE", nature = "adamant", ability = "pressure", moveset = ["knockoff", "icepunch", "brickbreak", "fakeout"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:spiritomb", level = 47, gender = "MALE", nature = "bold", ability = "pressure", moveset = ["hex", "painsplit", "willowisp", "protect"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:bisharp", level = 47, gender = "FEMALE", nature = "adamant", ability = "defiant", moveset = ["ironhead", "suckerpunch", "lowsweep", "protect"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

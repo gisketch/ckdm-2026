@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_ned"
+name = "Fisherman Ned"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Hoenn;Kanto/Sevii"
+category = "specialist"
+source = "pret_pokeemerald;pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 34
+maxLevel = 35
+team = [
+  { species = "cobblemon:seaking", level = 35, gender = "MALE", nature = "modest", ability = "waterveil", moveset = ["aquajet", "aquaring", "agility", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:poliwhirl", level = 34, gender = "MALE", nature = "serious", ability = "damp", moveset = ["raindance", "bodyslam", "bubblebeam", "mudshot"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:clamperl", level = 35, gender = "FEMALE", nature = "lonely", ability = "battlearmor", moveset = ["bubble", "whirlpool", "irondefense", "aurorabeam"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Ned is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

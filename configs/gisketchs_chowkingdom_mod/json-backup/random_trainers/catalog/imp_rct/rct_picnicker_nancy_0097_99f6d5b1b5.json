@@ -1,0 +1,58 @@
+{
+  "id": "rct_picnicker_nancy_0097",
+  "name": "Picnicker Nancy",
+  "title": "Picnicker",
+  "gender": "female",
+  "archetype": "picnicker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "picnicker/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.95,
+  "weight": 0.88,
+  "bustStyle": "standard",
+  "minLevel": 22,
+  "maxLevel": 23,
+  "team": [
+    {
+      "species": "cobblemon:growlithe",
+      "level": 23,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "flashfire",
+      "moveset": [
+        "flamewheel",
+        "reversal",
+        "firefang",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:vulpix",
+      "level": 22,
+      "gender": "MALE",
+      "nature": "hasty",
+      "ability": "serenegrace",
+      "moveset": [
+        "confuseray",
+        "icywind",
+        "dazzlinggleam",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": [
+        "alolan"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

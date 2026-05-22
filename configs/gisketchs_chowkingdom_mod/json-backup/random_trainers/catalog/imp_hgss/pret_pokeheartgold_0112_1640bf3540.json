@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeheartgold_0112_ace_trainer_male_cody",
+  "name": "Ace Trainer Male Cody",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:horsea",
+      "level": 35,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seadra",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "It\u2019s not as if we all use Dragon-type Pok\u00e9mon. It\u2019s about more than that-- We\u2019re interested in strong Pok\u00e9mon. That\u2019s my theme!",
+    "I need to make my Pok\u00e9mon stronger! Pok\u00e9mon and Trainers both need to train!"
+  ]
+}

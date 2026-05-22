@@ -1,0 +1,65 @@
+{
+  "id": "rct_ace_trainer_micah_040e",
+  "name": "Ace Trainer Micah",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 54,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "bibarel",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "simple",
+      "moveset": [
+        "aquajet",
+        "crunch",
+        "swordsdance",
+        "superpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "rapidash",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "runaway",
+      "moveset": [
+        "smartstrike",
+        "flamewheel",
+        "firespin",
+        "inferno"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beautifly",
+      "level": 54,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "swarm",
+      "moveset": [
+        "stunspore",
+        "aircutter",
+        "bugbuzz",
+        "quiverdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

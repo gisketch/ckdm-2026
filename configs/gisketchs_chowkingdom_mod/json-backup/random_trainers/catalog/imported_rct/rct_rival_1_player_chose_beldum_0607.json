@@ -1,0 +1,33 @@
+{
+  "id": "rct_rival_1_player_chose_beldum_0607",
+  "name": "Rival Wayne",
+  "title": "Rival 1 Player Chose",
+  "gender": "any",
+  "archetype": "rival_1_player_chose",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 17,
+  "maxLevel": 17,
+  "team": [
+    {
+      "species": "gible",
+      "level": 17,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "roughskin",
+      "moveset": [
+        "sandattack",
+        "metalclaw",
+        "sandstorm",
+        "firefang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_mega_trainer_vivian_05c7",
+  "name": "Mega Trainer Vivian",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "hitmonlee",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "limber",
+      "moveset": [
+        "closecombat",
+        "blazekick",
+        "rockslide",
+        "wideguard"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lopunny",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "scrappy",
+      "moveset": [
+        "dizzypunch",
+        "jumpkick",
+        "thunderpunch",
+        "fakeout"
+      ],
+      "heldItem": "mega_showdown:lopunnite life_orb",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

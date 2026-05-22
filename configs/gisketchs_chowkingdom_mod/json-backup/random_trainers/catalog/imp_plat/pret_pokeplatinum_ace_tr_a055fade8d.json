@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_catherine",
+  "name": "Ace Trainer Female Catherine",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 23,
+  "maxLevel": 24,
+  "team": [
+    {
+      "species": "cobblemon:haunter",
+      "level": 23,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "nightshade",
+        "confuseray",
+        "suckerpunch",
+        "curse"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:misdreavus",
+      "level": 24,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "psybeam",
+        "painsplit",
+        "confuseray",
+        "spite"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "What does it feel like, taking one step after another into darkness?",
+    "I think, sometimes, one has to make mistakes to learn what is right."
+  ]
+}

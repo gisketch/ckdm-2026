@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_tuber_holly",
+  "name": "Tuber Female Holly",
+  "title": "Tuber Female",
+  "gender": "female",
+  "archetype": "tuber_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "tuber_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.86,
+  "weight": 0.84,
+  "bustStyle": "standard",
+  "minLevel": 44,
+  "maxLevel": 44,
+  "team": [
+    {
+      "species": "cobblemon:remoraid",
+      "level": 44,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Listen, listen! Can you tell me what kind of Pok\u00e9mon you have?",
+    "I want to hang on to a BUIZEL and just bob around."
+  ]
+}

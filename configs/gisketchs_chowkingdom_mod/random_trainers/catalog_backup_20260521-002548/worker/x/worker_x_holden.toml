@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "worker_x_holden"
+name = "Worker Holden"
+title = "Worker"
+gender = "any"
+archetype = "worker"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "worker/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 33
+maxLevel = 33
+team = [
+  { species = "cobblemon:steelix", level = 33, gender = "FEMALE", nature = "relaxed", ability = "sturdy", moveset = ["bind", "smackdown", "curse", "sandtomb"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Well! It’s not often we get a visitor like you to the ironworks! Let’s mark the occasion with a battle!", "The floor panels move automatically. We’re pretty proud of them here!", "I have trained this team for the road. Challenge me if you are ready."]

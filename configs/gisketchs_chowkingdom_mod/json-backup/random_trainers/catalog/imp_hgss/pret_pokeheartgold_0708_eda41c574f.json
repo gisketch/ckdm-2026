@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokeheartgold_0708_hall_matron_argenta",
+  "name": "Hall Matron Argenta",
+  "title": "Hall Matron",
+  "gender": "any",
+  "archetype": "hall_matron",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "hall_matron/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.02,
+  "bustStyle": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "cobblemon:rattata",
+      "level": 5,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Hall Matron Argenta is ready for a battle."
+  ]
+}

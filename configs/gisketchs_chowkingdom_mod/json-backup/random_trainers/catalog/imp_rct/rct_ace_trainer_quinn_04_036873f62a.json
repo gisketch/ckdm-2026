@@ -1,0 +1,56 @@
+{
+  "id": "rct_ace_trainer_quinn_04a0",
+  "name": "Ace Trainer Quinn",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 53,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "cobblemon:pinsir",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "hypercutter",
+      "moveset": [
+        "superpower",
+        "xscissor",
+        "swordsdance",
+        "guillotine"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mightyena",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "crunch",
+        "suckerpunch",
+        "headbutt",
+        "scaryface"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

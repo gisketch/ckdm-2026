@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "school_kid_f_mackenzie"
+name = "School Kid Mackenzie"
+title = "School Kid"
+gender = "female"
+archetype = "school_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "school_kid/female"
+tier = "mid"
+spawnable = true
+height = 0.86
+weight = 0.87
+bustStyle = "standard"
+minLevel = 28
+maxLevel = 28
+team = [
+  { species = "cobblemon:drifloon", level = 28, gender = "MALE", nature = "calm", ability = "aftermath", moveset = ["gust", "stockpile", "swallow", "spitup"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drifloon", level = 28, gender = "FEMALE", nature = "timid", ability = "flareboost", moveset = ["minimize", "focusenergy", "payback", "shadowball"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Eek! That’s so bright! Surprise attack!", "I’m going over the reasons why I lost. That way, I’ll win next time.", "I have trained this team for the road. Challenge me if you are ready."]

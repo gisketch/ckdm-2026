@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "gentleman_m_gregory"
+name = "Gentleman Gregory"
+title = "Gentleman"
+gender = "male"
+archetype = "gentleman"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "gentleman/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.02
+bustStyle = ""
+minLevel = 42
+maxLevel = 46
+team = [
+  { species = "cobblemon:pikachu", level = 46, gender = "GENDERLESS", nature = "", ability = "", moveset = ["discharge", "lightscreen", "thunderwave", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:flaaffy", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shockwave", "signalbeam", "chargebeam", "doubleteam"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:electrike", level = 42, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shockwave", "roar", "thunderwave", "thunderfang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Gentleman Gregory is ready for a battle.", "You’re here to defeat Lt. Surge? Not if I can help it!", "When I was in the military, this is what Lt. Surge taught me... Lock the doors, watch out for fire, and always have two electric fences for safety!"]

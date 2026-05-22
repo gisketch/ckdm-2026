@@ -1,0 +1,97 @@
+{
+  "id": "rct_leader_big_mo_05b0",
+  "name": "Leader Big Mo",
+  "title": "Leader Big",
+  "gender": "any",
+  "archetype": "leader_big",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 52,
+  "maxLevel": 53,
+  "team": [
+    {
+      "species": "mudsdale",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "stamina",
+      "moveset": [
+        "earthquake",
+        "smackdown",
+        "heavyslam",
+        "stealthrock"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "pangoro",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "wickedblow",
+        "drainpunch",
+        "rockslide",
+        "bulletpunch"
+      ],
+      "heldItem": "fighting_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 53,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "bodyslam",
+        "crunch",
+        "highhorsepower",
+        "heavyslam"
+      ],
+      "heldItem": "rawst_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hariyama",
+      "level": 52,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "stormthrow",
+        "knockoff",
+        "heavyslam",
+        "fakeout"
+      ],
+      "heldItem": "flame_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "wailord",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "regenerator",
+      "moveset": [
+        "waterspout",
+        "icebeam",
+        "surf",
+        "clearsmog"
+      ],
+      "heldItem": "heavy_duty_boots",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

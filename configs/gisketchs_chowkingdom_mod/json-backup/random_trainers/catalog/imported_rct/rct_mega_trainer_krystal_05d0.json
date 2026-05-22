@@ -1,0 +1,97 @@
+{
+  "id": "rct_mega_trainer_krystal_05d0",
+  "name": "Mega Trainer Krystal",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 72,
+  "maxLevel": 75,
+  "team": [
+    {
+      "species": "oranguru",
+      "level": 72,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "psychic",
+        "reflect",
+        "lightscreen",
+        "trickroom"
+      ],
+      "heldItem": "light_clay",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "jellicent",
+      "level": 72,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "hex",
+        "willowisp",
+        "strengthsap",
+        "trickroom"
+      ],
+      "heldItem": "leftovers",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "snorlax",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "thickfat",
+      "moveset": [
+        "doubleedge",
+        "darkestlariat",
+        "earthquake",
+        "firepunch"
+      ],
+      "heldItem": "choice_band",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "druddigon",
+      "level": 73,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sheerforce",
+      "moveset": [
+        "outrage",
+        "suckerpunch",
+        "firepunch",
+        "irontail"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "absol",
+      "level": 75,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "magicbounce",
+      "moveset": [
+        "knockoff",
+        "playrough",
+        "suckerpunch",
+        "swordsdance"
+      ],
+      "heldItem": "mega_showdown:absolite expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

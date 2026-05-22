@@ -1,0 +1,113 @@
+{
+  "id": "rct_shadow_admin_marlon_3_05c0",
+  "name": "Ex-Shadow Admin Marlon",
+  "title": "Shadow Admin Marlon",
+  "gender": "any",
+  "archetype": "shadow_admin_marlon",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 61,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "sableye",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "prankster",
+      "moveset": [
+        "nightshade",
+        "willowisp",
+        "quash",
+        "protect"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "tentacruel",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "bold",
+      "ability": "clearbody",
+      "moveset": [
+        "scald",
+        "gigadrain",
+        "haze",
+        "protect"
+      ],
+      "heldItem": "black_sludge",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "krookodile",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "highhorsepower",
+        "crunch",
+        "rockslide",
+        "protect"
+      ],
+      "heldItem": "passho_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "beedrill",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "adaptability",
+      "moveset": [
+        "xscissor",
+        "poisonjab",
+        "brickbreak",
+        "protect"
+      ],
+      "heldItem": "mega_showdown:beedrillite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "dusknoir",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "ironfist",
+      "moveset": [
+        "poltergeist",
+        "poweruppunch",
+        "icepunch",
+        "thunderpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "swoobat",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "unaware",
+      "moveset": [
+        "airslash",
+        "energyball",
+        "thunderwave",
+        "helpinghand"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

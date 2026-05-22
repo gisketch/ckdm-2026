@@ -1,0 +1,27 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "janine_x_galen"
+name = "Janine Galen"
+title = "Janine"
+gender = "any"
+archetype = "janine"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "janine/any"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.99
+bustStyle = ""
+minLevel = 33
+maxLevel = 39
+team = [
+  { species = "cobblemon:crobat", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["screech", "supersonic", "confuseray", "wingattack"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smog", "sludgebomb", "toxic", "explosion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:weezing", level = 36, gender = "GENDERLESS", nature = "", ability = "", moveset = ["smog", "sludgebomb", "toxic", "explosion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:ariados", level = 33, gender = "GENDERLESS", nature = "", ability = "", moveset = ["scaryface", "gigadrain", "stringshot", "nightshade"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venomoth", level = 39, gender = "GENDERLESS", nature = "", ability = "", moveset = ["foresight", "doubleteam", "gust", "psychic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Janine Janine is ready for a battle."]

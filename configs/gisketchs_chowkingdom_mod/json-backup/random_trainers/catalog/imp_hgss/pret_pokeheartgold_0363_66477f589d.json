@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeheartgold_0363_ace_trainer_female_emma",
+  "name": "Ace Trainer Female Emma",
+  "title": "Ace Trainer Female",
+  "gender": "female",
+  "archetype": "ace_trainer_female",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.98,
+  "bustStyle": "standard",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:poliwhirl",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "If the Pok\u00e9mon I liked were there, I\u2019d go anywhere. That\u2019s what a real Trainer does.",
+    "Just once a week, a Pok\u00e9mon comes to the water\u2019s edge. I wanted to see that Pok\u00e9mon..."
+  ]
+}

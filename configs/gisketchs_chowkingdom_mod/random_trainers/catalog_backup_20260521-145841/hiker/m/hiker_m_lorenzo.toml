@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hiker_m_lorenzo"
+name = "Hiker Lorenzo"
+title = "Hiker"
+gender = "male"
+archetype = "hiker"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "hiker/male"
+tier = "low"
+spawnable = true
+height = 1.09
+weight = 1.18
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:onix", level = 17, gender = "FEMALE", nature = "relaxed", ability = "sturdy", moveset = ["bind", "rockthrow", "smackdown", "curse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Wandering around, I got hungry, so I ate some wild mushrooms... They gave me gas, and now I can’t stop burping! Bluurrf!", "I hear there’s a Pokémon that has mushrooms growing on its back. Not around here, somewhere far away. I wonder if they taste any good?", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_collector_edwin",
+  "name": "Collector Edwin",
+  "title": "Collector",
+  "gender": "any",
+  "archetype": "collector",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "collector/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "cobblemon:munchlax",
+      "level": 25,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m a Collector, and I love Honey!",
+    "I went through a lot of bother to catch my Pok\u00e9mon. But since I\u2019ve not raised it, it\u2019s as weak as when I caught it."
+  ]
+}

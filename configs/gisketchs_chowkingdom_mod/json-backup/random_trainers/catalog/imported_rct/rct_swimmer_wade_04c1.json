@@ -1,0 +1,65 @@
+{
+  "id": "rct_swimmer_wade_04c1",
+  "name": "Swimmer Wade",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 51,
+  "maxLevel": 54,
+  "team": [
+    {
+      "species": "carvanha",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "agility",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "carvanha",
+      "level": 51,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "agility",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sharpedo",
+      "level": 54,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "roughskin",
+      "moveset": [
+        "crunch",
+        "aquajet",
+        "agility",
+        "icefang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

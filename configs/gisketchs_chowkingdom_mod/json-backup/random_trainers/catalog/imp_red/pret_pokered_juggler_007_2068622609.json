@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_juggler_007",
+  "name": "Juggler Aya",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 38,
+  "maxLevel": 38,
+  "team": [
+    {
+      "species": "cobblemon:hypno",
+      "level": 38,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Juggler from Fuchsia Gym is ready for a battle."
+  ]
+}

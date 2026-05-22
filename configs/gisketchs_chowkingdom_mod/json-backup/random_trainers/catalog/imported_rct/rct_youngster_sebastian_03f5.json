@@ -1,0 +1,32 @@
+{
+  "id": "rct_youngster_sebastian_03f5",
+  "name": "Youngster Sebastian",
+  "title": "Youngster",
+  "gender": "any",
+  "archetype": "youngster",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "machop",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "guts",
+      "moveset": [
+        "lowkick",
+        "leer",
+        "focusenergy"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

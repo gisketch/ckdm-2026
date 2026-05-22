@@ -1,0 +1,56 @@
+{
+  "id": "rct_sailor_skyler_03ea",
+  "name": "Sailor Skyler",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 27,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:mantyke",
+      "level": 27,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "waterabsorb",
+      "moveset": [
+        "tackle",
+        "supersonic",
+        "wingattack",
+        "bubblebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "intimidate",
+      "moveset": [
+        "leer",
+        "icefang",
+        "waterfall",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_ace_trainer_monique_04af",
+  "name": "Ace Trainer Monique",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "kangaskhan",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "scrappy",
+      "moveset": [
+        "fakeout",
+        "suckerpunch",
+        "outrage",
+        "reversal"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ursaring",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "quickfeet",
+      "moveset": [
+        "rest",
+        "snore",
+        "slash",
+        "payback"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

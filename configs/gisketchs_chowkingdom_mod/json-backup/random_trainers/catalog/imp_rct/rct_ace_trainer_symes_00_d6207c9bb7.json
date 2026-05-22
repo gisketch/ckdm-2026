@@ -1,0 +1,138 @@
+{
+  "id": "rct_ace_trainer_symes_0071",
+  "name": "Ace Trainer Symes",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 93,
+  "maxLevel": 95,
+  "team": [
+    {
+      "species": "cobblemon:rillaboom",
+      "level": 94,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "grassysurge",
+      "moveset": [
+        "grassyglide",
+        "uturn",
+        "knockoff",
+        "woodhammer"
+      ],
+      "heldItem": [
+        "terrain_extender"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dragonite",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "multiscale",
+      "moveset": [
+        "dualwingbeat",
+        "dragondance",
+        "firepunch",
+        "icepunch"
+      ],
+      "heldItem": [
+        "lum_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zebstrika",
+      "level": 93,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "illuminate",
+      "moveset": [
+        "blizzard",
+        "thunder",
+        "freezedry",
+        "voltswitch"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "sevii"
+      ]
+    },
+    {
+      "species": "cobblemon:alcremie",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "sweetveil",
+      "moveset": [
+        "calmmind",
+        "moonblast",
+        "mysticalfire",
+        "acidarmor"
+      ],
+      "heldItem": [
+        "leftovers"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:samurott",
+      "level": 95,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sharpness",
+      "moveset": [
+        "shellsmash",
+        "ceaselessedge",
+        "razorshell",
+        "megahorn"
+      ],
+      "heldItem": [
+        "white_herb"
+      ],
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    },
+    {
+      "species": "cobblemon:decidueye",
+      "level": 94,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "reckless",
+      "moveset": [
+        "highjumpkick",
+        "grassyglide",
+        "swordsdance",
+        "knockoff"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": [
+        "hisuian"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

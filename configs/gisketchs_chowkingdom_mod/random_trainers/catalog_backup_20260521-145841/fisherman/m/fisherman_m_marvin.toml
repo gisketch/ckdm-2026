@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_marvin"
+name = "Fisherman Marvin"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 10
+maxLevel = 20
+team = [
+  { species = "cobblemon:magikarp", level = 10, gender = "GENDERLESS", nature = "", ability = "", moveset = ["splash", "tackle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:gyarados", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thrash", "surf"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magikarp", level = 15, gender = "GENDERLESS", nature = "", ability = "", moveset = ["splash", "tackle"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m in a slump. Maybe it’s the gear I’m using. Let’s battle for a change of pace!", "Kurt’s Lure Ball is the best for catching hooked Pokémon. It’s much more effective than an Ultra Ball."]

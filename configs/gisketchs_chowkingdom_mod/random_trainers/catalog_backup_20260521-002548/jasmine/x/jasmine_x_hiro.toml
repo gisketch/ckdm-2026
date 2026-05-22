@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jasmine_x_hiro"
+name = "Jasmine Hiro"
+title = "Jasmine"
+gender = "any"
+archetype = "jasmine"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "jasmine/any"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1.01
+bustStyle = ""
+minLevel = 30
+maxLevel = 35
+team = [
+  { species = "cobblemon:magnemite", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "supersonic", "sonicboom", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:magnemite", level = 30, gender = "GENDERLESS", nature = "", ability = "", moveset = ["thunderbolt", "supersonic", "sonicboom", "thunderwave"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:steelix", level = 35, gender = "GENDERLESS", nature = "", ability = "", moveset = ["screech", "sunnyday", "rockthrow", "irontail"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Jasmine Jasmine is ready for a battle."]

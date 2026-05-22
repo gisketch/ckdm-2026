@@ -1,0 +1,68 @@
+{
+  "id": "pret_pokeemerald_tabitha_mt_chimney",
+  "name": "Magma Admin Tabitha",
+  "title": "Magma Admin",
+  "gender": "any",
+  "archetype": "magma_admin",
+  "region": "Hoenn",
+  "category": "unique",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "magma_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.04,
+  "weight": 1.06,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:numel",
+      "level": 18,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:poochyena",
+      "level": 20,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:numel",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:zubat",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Magma Admin Tabitha is ready for a battle."
+  ]
+}

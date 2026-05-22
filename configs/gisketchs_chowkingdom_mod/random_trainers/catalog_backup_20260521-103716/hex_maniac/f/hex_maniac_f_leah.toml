@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "hex_maniac_f_leah"
+name = "Hex Maniac Leah"
+title = "Hex Maniac"
+gender = "female"
+archetype = "hex_maniac"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "hex_maniac/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = "standard"
+minLevel = 31
+maxLevel = 31
+team = [
+  { species = "cobblemon:spoink", level = 31, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hex Maniac Leah is ready for a battle."]

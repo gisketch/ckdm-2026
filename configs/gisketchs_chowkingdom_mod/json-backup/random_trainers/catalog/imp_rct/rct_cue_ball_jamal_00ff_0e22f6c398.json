@@ -1,0 +1,88 @@
+{
+  "id": "rct_cue_ball_jamal_00ff",
+  "name": "Cue Ball Jamal",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "cue_ball/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:feraligatr",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "sheerforce",
+      "moveset": [
+        "crunch",
+        "chipaway",
+        "slash",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:rapidash",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "flashfire",
+      "moveset": [
+        "fireblast",
+        "bounce",
+        "flareblitz",
+        "jumpkick"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:obstagoon",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "guts",
+      "moveset": [
+        "scaryface",
+        "counter",
+        "taunt",
+        "doubleedge"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:dodrio",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "earlybird",
+      "moveset": [
+        "jumpkick",
+        "doubleedge",
+        "endeavor",
+        "thrash"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

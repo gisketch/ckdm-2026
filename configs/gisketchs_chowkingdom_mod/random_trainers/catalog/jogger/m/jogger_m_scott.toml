@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jogger_m_scott"
+name = "Jogger Scott"
+title = "Jogger"
+gender = "male"
+archetype = "jogger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "jogger/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 23
+maxLevel = 23
+team = [
+  { species = "cobblemon:staravia", level = 23, gender = "MALE", nature = "sassy", ability = "intimidate", moveset = ["quickattack", "wingattack", "endeavor", "whirlwind"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Hufff-huff, huff-huff. Want-huff a battle-huff?", "Bye-huff now-huff. Huff-huff, huff-huff.", "I have trained this team for the road. Challenge me if you are ready."]

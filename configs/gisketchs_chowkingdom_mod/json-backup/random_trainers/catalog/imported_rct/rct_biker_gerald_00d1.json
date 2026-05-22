@@ -1,0 +1,48 @@
+{
+  "id": "rct_biker_gerald_00d1",
+  "name": "Biker Gerald",
+  "title": "Biker",
+  "gender": "any",
+  "archetype": "biker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "breloom",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "effectspore",
+      "moveset": [
+        "smokescreen",
+        "machpunch",
+        "spore",
+        "drainpunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "copperajah",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "heavymetal",
+      "moveset": [
+        "screech",
+        "gyroball",
+        "highhorsepower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_glenn"
+name = "Swimmer Glenn"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 58
+maxLevel = 58
+team = [
+  { species = "cobblemon:dewgong", level = 58, gender = "FEMALE", nature = "calm", ability = "thickfat", moveset = ["dive", "aquatail", "icebeam", "safeguard"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starmie", level = 58, gender = "GENDERLESS", nature = "timid", ability = "naturalcure", moveset = ["hydropump", "psychic", "swift", "recover"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["A Trainer riding a Pokémon! I like that! Let’s battle it out!", "You ride atop the waves while riding on a Pokémon! And you rode right over me!", "Swimmer Male Glenn is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

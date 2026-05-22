@@ -1,0 +1,32 @@
+{
+  "id": "rct_rival_terry_0148",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 5,
+  "maxLevel": 5,
+  "team": [
+    {
+      "species": "charmander",
+      "level": 5,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "blaze",
+      "moveset": [
+        "scratch",
+        "growl",
+        "falseswipe"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

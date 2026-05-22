@@ -1,0 +1,49 @@
+{
+  "id": "rct_beauty_olivia_0112",
+  "name": "Beauty Olivia",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 57,
+  "maxLevel": 58,
+  "team": [
+    {
+      "species": "venusaur",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "overgrow",
+      "moveset": [
+        "sludgebomb",
+        "synthesis",
+        "petalblizzard",
+        "solarbeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "torterra",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "overgrow",
+      "moveset": [
+        "synthesis",
+        "crunch",
+        "gigadrain",
+        "leafstorm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

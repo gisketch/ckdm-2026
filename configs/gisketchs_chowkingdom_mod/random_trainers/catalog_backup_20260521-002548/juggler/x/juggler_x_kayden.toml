@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "juggler_x_kayden"
+name = "Juggler Kayden"
+title = "Juggler"
+gender = "any"
+archetype = "juggler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "juggler/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.01
+bustStyle = ""
+minLevel = 64
+maxLevel = 64
+team = [
+  { species = "cobblemon:salazzle", level = 64, gender = "FEMALE", nature = "timid", ability = "corrosion", moveset = ["venoshock", "flamethrower", "venomdrench", "dragonpulse"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Juggler Kayden is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

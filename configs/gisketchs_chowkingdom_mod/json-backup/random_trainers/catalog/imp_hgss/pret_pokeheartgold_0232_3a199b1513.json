@@ -1,0 +1,73 @@
+{
+  "id": "pret_pokeheartgold_0232_guitarist_vincent",
+  "name": "Guitarist Vincent",
+  "title": "Guitarist",
+  "gender": "any",
+  "archetype": "guitarist",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "guitarist/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 45,
+  "team": [
+    {
+      "species": "cobblemon:jolteon",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "shockwave",
+        "quickattack",
+        "pinmissile",
+        "helpinghand"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "shockwave",
+        "swift",
+        "gyroball",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:magnemite",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "shockwave",
+        "supersonic",
+        "thunderwave",
+        "magnetbomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Lt. Surge saw my potential with Electric-type Pok\u00e9mon. Think you can beat me?",
+    "The reason that Lt. Surge is protected by electric fences isn\u2019t because he\u2019s a coward! It\u2019s so you won\u2019t underestimate his strength!"
+  ]
+}

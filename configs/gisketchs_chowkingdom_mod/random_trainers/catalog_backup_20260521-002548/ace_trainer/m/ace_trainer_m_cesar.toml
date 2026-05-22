@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_cesar"
+name = "Ace Trainer Cesar"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.05
+weight = 1.07
+bustStyle = ""
+minLevel = 40
+maxLevel = 40
+team = [
+  { species = "cobblemon:scizor", level = 40, gender = "GENDERLESS", nature = "", ability = "", moveset = ["metalclaw", "xscissor", "slash", "pursuit"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["An ace has the knowledge and experience of battling at high levels. I’ll demonstrate what that means to a noob like you!", "Your earnest enthusiasm... I guess that kinda makes you an ace. Maybe you’re a Trainer who has the potential to surpass aces!"]

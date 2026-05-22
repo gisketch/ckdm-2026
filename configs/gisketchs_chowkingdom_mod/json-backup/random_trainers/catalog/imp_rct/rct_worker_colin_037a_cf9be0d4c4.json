@@ -1,0 +1,56 @@
+{
+  "id": "rct_worker_colin_037a",
+  "name": "Worker Colin",
+  "title": "Worker",
+  "gender": "any",
+  "archetype": "worker",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "worker/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 7,
+  "maxLevel": 7,
+  "team": [
+    {
+      "species": "cobblemon:geodude",
+      "level": 7,
+      "gender": "MALE",
+      "nature": "quirky",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "defensecurl",
+        "sandstorm",
+        "rockpolish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:onix",
+      "level": 7,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "rockhead",
+      "moveset": [
+        "tackle",
+        "harden",
+        "bind",
+        "rockthrow"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

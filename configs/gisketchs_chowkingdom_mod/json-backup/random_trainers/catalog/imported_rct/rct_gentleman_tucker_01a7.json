@@ -1,0 +1,33 @@
+{
+  "id": "rct_gentleman_tucker_01a7",
+  "name": "Gentleman Tucker",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 29,
+  "maxLevel": 29,
+  "team": [
+    {
+      "species": "electabuzz",
+      "level": 29,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "static",
+      "moveset": [
+        "shockwave",
+        "thunderwave",
+        "electroball",
+        "lightscreen"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

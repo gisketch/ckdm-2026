@@ -1,0 +1,116 @@
+{
+  "id": "rct_bird_keeper_jacob_0135",
+  "name": "Bird Keeper Jacob",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "very_high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 89,
+  "maxLevel": 93,
+  "team": [
+    {
+      "species": "cobblemon:cramorant",
+      "level": 91,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "gulpmissile",
+      "moveset": [
+        "surf",
+        "hurricane",
+        "icebeam",
+        "roost"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:decidueye",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "tintedlens",
+      "moveset": [
+        "uturn",
+        "hurricane",
+        "spiritshackle",
+        "leafblade"
+      ],
+      "heldItem": [
+        "spell_tag"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:porygon2",
+      "level": 93,
+      "gender": "GENDERLESS",
+      "nature": "bold",
+      "ability": "trace",
+      "moveset": [
+        "thunder",
+        "icebeam",
+        "foulplay",
+        "teleport"
+      ],
+      "heldItem": [
+        "eviolite"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:basculegion",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "adaptability",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "flipturn",
+        "shadowball"
+      ],
+      "heldItem": [
+        "weakness_policy"
+      ],
+      "shiny": false,
+      "aspects": [
+        "f"
+      ]
+    },
+    {
+      "species": "cobblemon:nidoqueen",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "sheerforce",
+      "moveset": [
+        "thunder",
+        "earthpower",
+        "sludgewave",
+        "bubblebeam"
+      ],
+      "heldItem": [
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

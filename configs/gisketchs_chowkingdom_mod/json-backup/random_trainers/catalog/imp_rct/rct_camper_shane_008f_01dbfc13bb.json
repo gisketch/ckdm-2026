@@ -1,0 +1,56 @@
+{
+  "id": "rct_camper_shane_008f",
+  "name": "Camper Shane",
+  "title": "Camper",
+  "gender": "any",
+  "archetype": "camper",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "camper/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 0.91,
+  "weight": 0.94,
+  "bustStyle": "",
+  "minLevel": 18,
+  "maxLevel": 20,
+  "team": [
+    {
+      "species": "cobblemon:skiddo",
+      "level": 18,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "sapsipper",
+      "moveset": [
+        "tailwhip",
+        "leechseed",
+        "razorleaf",
+        "worryseed"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:yamper",
+      "level": 20,
+      "gender": "MALE",
+      "nature": "naive",
+      "ability": "pickup",
+      "moveset": [
+        "nuzzle",
+        "bite",
+        "roar",
+        "spark"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pret_pokeemerald_lola_4",
+  "name": "Tuber Female Lola",
+  "title": "Tuber Female",
+  "gender": "female",
+  "archetype": "tuber_female",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "tuber_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.86,
+  "weight": 0.84,
+  "bustStyle": "standard",
+  "minLevel": 32,
+  "maxLevel": 32,
+  "team": [
+    {
+      "species": "cobblemon:marill",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:marill",
+      "level": 32,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Tuber Female Lola is ready for a battle."
+  ]
+}

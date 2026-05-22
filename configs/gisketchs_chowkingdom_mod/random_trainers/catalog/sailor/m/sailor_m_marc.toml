@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "sailor_m_marc"
+name = "Sailor Marc"
+title = "Sailor"
+gender = "male"
+archetype = "sailor"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "sailor/male"
+tier = "high"
+spawnable = true
+height = 1.09
+weight = 1.16
+bustStyle = ""
+minLevel = 57
+maxLevel = 59
+team = [
+  { species = "cobblemon:mantine", level = 57, gender = "FEMALE", nature = "calm", ability = "waterabsorb", moveset = ["roost", "airslash", "aquaring", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pelipper", level = 59, gender = "FEMALE", nature = "bold", ability = "drizzle", moveset = ["waterpulse", "stockpile", "roost", "hurricane"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Sailor Marc is ready for a battle.", "Oh, we’ll ride upon the sea, in a boat, just you and me! That’s the way of the Sailor! Way of the Sailor. Sing it!", "You ought to think about becoming a Sailor yourself. It’s been great to be able to visit different places around the world.", "I have trained this team for the road. Challenge me if you are ready."]

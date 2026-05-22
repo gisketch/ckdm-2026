@@ -1,0 +1,65 @@
+{
+  "id": "rct_black_belt_hitoshi_0141",
+  "name": "Black Belt Hitoshi",
+  "title": "Black Belt",
+  "gender": "any",
+  "archetype": "black_belt",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 45,
+  "maxLevel": 46,
+  "team": [
+    {
+      "species": "sawk",
+      "level": 45,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "innerfocus",
+      "moveset": [
+        "retaliate",
+        "endure",
+        "quickguard",
+        "reversal"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "throh",
+      "level": 46,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "technician",
+      "moveset": [
+        "assurance",
+        "wideguard",
+        "superpower",
+        "reversal"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "falinks",
+      "level": 45,
+      "gender": "GENDERLESS",
+      "nature": "hardy",
+      "ability": "battlearmor",
+      "moveset": [
+        "reversal",
+        "firstimpression",
+        "noretreat",
+        "irondefense"
+      ],
+      "heldItem": "black_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

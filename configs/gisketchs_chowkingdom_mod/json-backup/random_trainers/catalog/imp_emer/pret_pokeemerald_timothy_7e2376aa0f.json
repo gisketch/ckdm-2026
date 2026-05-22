@@ -1,0 +1,40 @@
+{
+  "id": "pret_pokeemerald_timothy_4",
+  "name": "Expert Timothy",
+  "title": "Expert",
+  "gender": "any",
+  "archetype": "expert",
+  "region": "Hoenn",
+  "category": "route_trainer",
+  "source": "pret_pokeemerald",
+  "skinSet": "",
+  "skinFolder": "expert/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.98,
+  "bustStyle": "",
+  "minLevel": 39,
+  "maxLevel": 39,
+  "team": [
+    {
+      "species": "cobblemon:hariyama",
+      "level": 39,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "armthrust",
+        "bellydrum",
+        "sandattack",
+        "dig"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Expert Timothy is ready for a battle."
+  ]
+}

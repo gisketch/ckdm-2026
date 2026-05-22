@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_abigail"
+name = "Swimmer Abigail"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "very_high"
+spawnable = true
+height = 1.01
+weight = 0.98
+bustStyle = ""
+minLevel = 90
+maxLevel = 93
+team = [
+  { species = "cobblemon:azumarill", level = 92, gender = "MALE", nature = "adamant", ability = "hugepower", moveset = ["waterfall", "playrough", "superpower", "aquajet"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:octillery", level = 90, gender = "FEMALE", nature = "modest", ability = "megalauncher", moveset = ["snipeshot", "aurasphere", "icebeam", "flamethrower"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:golisopod", level = 93, gender = "MALE", nature = "adamant", ability = "emergencyexit", moveset = ["firstimpression", "liquidation", "knockoff", "closecombat"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:wishiwashi", level = 92, gender = "MALE", nature = "modest", ability = "schooling", moveset = ["hydropump", "icebeam", "uturn", "earthquake"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

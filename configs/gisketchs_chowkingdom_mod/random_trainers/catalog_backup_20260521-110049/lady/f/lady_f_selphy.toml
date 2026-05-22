@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "lady_f_selphy"
+name = "Lady Selphy"
+title = "Lady"
+gender = "female"
+archetype = "lady"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "lady/female"
+tier = "high"
+spawnable = true
+height = 1
+weight = 0.92
+bustStyle = "standard"
+minLevel = 49
+maxLevel = 49
+team = [
+  { species = "cobblemon:persian", level = 49, gender = "GENDERLESS", nature = "", ability = "", moveset = ["payday", "bite", "taunt", "torment"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:persian", level = 49, gender = "GENDERLESS", nature = "", ability = "", moveset = ["payday", "scratch", "torment", "taunt"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Lady Selphy is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

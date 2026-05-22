@@ -1,0 +1,36 @@
+{
+  "id": "pret_pokeplatinum_idol_grace_unused",
+  "name": "Idol Grace",
+  "title": "Idol",
+  "gender": "any",
+  "archetype": "idol",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "idol/any",
+  "tier": "low",
+  "spawnable": true,
+  "height": 1.02,
+  "weight": 0.96,
+  "bustStyle": "",
+  "minLevel": 6,
+  "maxLevel": 6,
+  "team": [
+    {
+      "species": "cobblemon:clefairy",
+      "level": 6,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ll let you join my fan club if you can beat me!",
+    "Well, that\u2019s me and my Pok\u00e9mon! Thank you for being such a fan! Just so you know, our latest single is \u201cJigglin\u2019 Pok\u00e9mon Wub\u201d!"
+  ]
+}

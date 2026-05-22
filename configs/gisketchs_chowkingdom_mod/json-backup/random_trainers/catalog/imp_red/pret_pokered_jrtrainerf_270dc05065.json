@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokered_jrtrainerf_004",
+  "name": "Jrtrainerf Arlo",
+  "title": "Jrtrainerf",
+  "gender": "any",
+  "archetype": "jrtrainerf",
+  "region": "Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokered",
+  "skinSet": "",
+  "skinFolder": "jrtrainerf/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 22,
+  "maxLevel": 22,
+  "team": [
+    {
+      "species": "cobblemon:bulbasaur",
+      "level": 22,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Jrtrainerf from Unused is ready for a battle."
+  ]
+}

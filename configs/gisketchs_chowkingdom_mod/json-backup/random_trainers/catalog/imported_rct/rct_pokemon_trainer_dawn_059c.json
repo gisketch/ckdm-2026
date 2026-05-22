@@ -1,0 +1,113 @@
+{
+  "id": "rct_pokemon_trainer_dawn_059c",
+  "name": "Pokémon Trainer Dawn",
+  "title": "Pokemon Trainer",
+  "gender": "any",
+  "archetype": "pokemon_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 68,
+  "maxLevel": 74,
+  "team": [
+    {
+      "species": "honchkrow",
+      "level": 68,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "superluck",
+      "moveset": [
+        "suckerpunch",
+        "nightslash",
+        "taunt",
+        "roost"
+      ],
+      "heldItem": "scope_lens",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "gorebyss",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "swiftswim",
+      "moveset": [
+        "hydropump",
+        "icebeam",
+        "batonpass",
+        "shellsmash"
+      ],
+      "heldItem": "wiki_berry",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "froslass",
+      "level": 70,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "cursedbody",
+      "moveset": [
+        "hex",
+        "frostbreath",
+        "thunderbolt",
+        "willowisp"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "sceptile",
+      "level": 69,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "unburden",
+      "moveset": [
+        "leafblade",
+        "earthquake",
+        "leafstorm",
+        "brickbreak"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ambipom",
+      "level": 70,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "technician",
+      "moveset": [
+        "doublehit",
+        "fakeout",
+        "dualchop",
+        "uturn"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "infernape",
+      "level": 74,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "blaze",
+      "moveset": [
+        "flareblitz",
+        "closecombat",
+        "earthquake",
+        "uturn"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

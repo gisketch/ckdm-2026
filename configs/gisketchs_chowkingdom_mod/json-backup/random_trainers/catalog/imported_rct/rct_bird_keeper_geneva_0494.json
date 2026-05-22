@@ -1,0 +1,49 @@
+{
+  "id": "rct_bird_keeper_geneva_0494",
+  "name": "Bird Keeper Geneva",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 53,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "golbat",
+      "level": 53,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "innerfocus",
+      "moveset": [
+        "poisonfang",
+        "meanlook",
+        "venoshock",
+        "aircutter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "xatu",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "synchronize",
+      "moveset": [
+        "futuresight",
+        "confuseray",
+        "nightshade",
+        "wish"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

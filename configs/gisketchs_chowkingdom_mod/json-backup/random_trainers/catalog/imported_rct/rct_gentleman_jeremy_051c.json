@@ -1,0 +1,33 @@
+{
+  "id": "rct_gentleman_jeremy_051c",
+  "name": "Gentleman Jeremy",
+  "title": "Gentleman",
+  "gender": "any",
+  "archetype": "gentleman",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 40,
+  "maxLevel": 40,
+  "team": [
+    {
+      "species": "chatot",
+      "level": 40,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "tangledfeet",
+      "moveset": [
+        "hypervoice",
+        "chatter",
+        "confide",
+        "mimic"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

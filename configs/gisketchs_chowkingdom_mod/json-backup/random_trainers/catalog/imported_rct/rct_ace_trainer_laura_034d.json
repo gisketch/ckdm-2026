@@ -1,0 +1,33 @@
+{
+  "id": "rct_ace_trainer_laura_034d",
+  "name": "Ace Trainer Laura",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "lopunny",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "cutecharm",
+      "moveset": [
+        "mirrorcoat",
+        "babydolleyes",
+        "doublekick",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

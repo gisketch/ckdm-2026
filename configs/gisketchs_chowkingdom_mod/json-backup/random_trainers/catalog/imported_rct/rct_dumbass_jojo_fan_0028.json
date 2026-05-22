@@ -1,0 +1,117 @@
+{
+  "id": "rct_dumbass_jojo_fan_0028",
+  "name": "Silly Jojo Fan",
+  "title": "Dumbass Jojo",
+  "gender": "any",
+  "archetype": "dumbass_jojo",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 85,
+  "maxLevel": 85,
+  "team": [
+    {
+      "species": "galvantula",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "compoundeyes",
+      "moveset": [
+        "stickyweb",
+        "voltswitch",
+        "thunder",
+        "bugbuzz"
+      ],
+      "heldItem": "focus_sash",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "garchomp",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "roughskin",
+      "moveset": [
+        "swordsdance",
+        "earthquake",
+        "rockslide",
+        "firefang"
+      ],
+      "heldItem": "mega_showdown:garchompite life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "huntail",
+      "level": 85,
+      "gender": "MALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "shellsmash",
+        "liquidation",
+        "crunch",
+        "suckerpunch"
+      ],
+      "heldItem": "white_herb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "necrozma",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "adamant",
+      "ability": "prismarmor",
+      "moveset": [
+        "dragondance",
+        "photongeyser",
+        "earthquake",
+        "heatwave"
+      ],
+      "heldItem": "weakness_policy",
+      "shiny": false,
+      "aspects": [
+        "dusk_mane"
+      ]
+    },
+    {
+      "species": "machamp",
+      "level": 85,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "guts",
+      "moveset": [
+        "poweruppunch",
+        "drainpunch",
+        "icepunch",
+        "bulletpunch"
+      ],
+      "heldItem": "expert_belt",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hoopa",
+      "level": 85,
+      "gender": "GENDERLESS",
+      "nature": "timid",
+      "ability": "magician",
+      "moveset": [
+        "nastyplot",
+        "darkpulse",
+        "psychic",
+        "focusblast"
+      ],
+      "heldItem": "mega_showdown:fightinium_z fighting_gem",
+      "shiny": false,
+      "aspects": [
+        "unbound"
+      ]
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

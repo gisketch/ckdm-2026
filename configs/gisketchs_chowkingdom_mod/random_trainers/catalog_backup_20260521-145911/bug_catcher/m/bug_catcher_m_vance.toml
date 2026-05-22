@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_m_vance"
+name = "Bug Catcher Vance"
+title = "Bug Catcher"
+gender = "male"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "bug_catcher/male"
+tier = "high"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:venonat", level = 48, gender = "MALE", nature = "bashful", ability = "tintedlens", moveset = ["leechlife", "zenheadbutt", "poisonfang", "psychic"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venomoth", level = 48, gender = "MALE", nature = "lax", ability = "tintedlens", moveset = ["sleeppowder", "leechlife", "zenheadbutt", "poisonfang"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher Vance is ready for a battle.", "Bug Catcher 3 is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

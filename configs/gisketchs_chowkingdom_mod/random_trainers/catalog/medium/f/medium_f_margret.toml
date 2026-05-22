@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "medium_f_margret"
+name = "Medium Margret"
+title = "Medium"
+gender = "female"
+archetype = "medium"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal"
+skinSet = ""
+skinFolder = "medium/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.01
+bustStyle = "standard"
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:haunter", level = 25, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Medium Margret is ready for a battle."]

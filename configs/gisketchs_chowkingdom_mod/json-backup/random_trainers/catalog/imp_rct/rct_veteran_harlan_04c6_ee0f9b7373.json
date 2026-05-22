@@ -1,0 +1,72 @@
+{
+  "id": "rct_veteran_harlan_04c6",
+  "name": "Veteran Harlan",
+  "title": "Veteran",
+  "gender": "any",
+  "archetype": "veteran",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "veteran/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:loudred",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "soundproof",
+      "moveset": [
+        "uproar",
+        "supersonic",
+        "roar",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:donphan",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "earthquake",
+        "rocktomb",
+        "knockoff",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:tauros",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "hardy",
+      "ability": "intimidate",
+      "moveset": [
+        "doubleedge",
+        "zenheadbutt",
+        "payback",
+        "swagger"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

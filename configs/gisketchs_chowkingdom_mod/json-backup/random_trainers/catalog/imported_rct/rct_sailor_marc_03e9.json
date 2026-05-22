@@ -1,0 +1,33 @@
+{
+  "id": "rct_sailor_marc_03e9",
+  "name": "Sailor Marc",
+  "title": "Sailor",
+  "gender": "any",
+  "archetype": "sailor",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "mantyke",
+      "level": 43,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "waterabsorb",
+      "moveset": [
+        "supersonic",
+        "bubblebeam",
+        "airslash",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

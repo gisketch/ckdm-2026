@@ -1,0 +1,33 @@
+{
+  "id": "rct_psychic_dario_02cd",
+  "name": "Psychic Dario",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "girafarig",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "earlybird",
+      "moveset": [
+        "crunch",
+        "psybeam",
+        "odorsleuth",
+        "agility"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

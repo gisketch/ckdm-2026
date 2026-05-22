@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_ranger_ashlee",
+  "name": "Ranger Female Ashlee",
+  "title": "Ranger Female",
+  "gender": "female",
+  "archetype": "ranger_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ranger_female/female",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.06,
+  "weight": 1.07,
+  "bustStyle": "standard",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "cobblemon:linoone",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:arbok",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "In the embrace of Mother Nature, people and Pok\u00e9mon grow strong!",
+    "It doesn\u2019t matter where they grow. Pok\u00e9mon can be made tougher anywhere if you set your mind to it."
+  ]
+}

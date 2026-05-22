@@ -1,0 +1,49 @@
+{
+  "id": "rct_young_couple_gia_and_jes_02c3",
+  "name": "Young Couple Gia & Jes",
+  "title": "Young Couple Gia And",
+  "gender": "any",
+  "archetype": "young_couple_gia_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "nidoking",
+      "level": 55,
+      "gender": "MALE",
+      "nature": "brave",
+      "ability": "rivalry",
+      "moveset": [
+        "poisonsting",
+        "chipaway",
+        "thrash",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "nidoqueen",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "naive",
+      "ability": "rivalry",
+      "moveset": [
+        "sludge",
+        "chipaway",
+        "bodyslam",
+        "earthpower"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

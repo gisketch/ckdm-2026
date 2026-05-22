@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_darren"
+name = "Black Belt Darren"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "mid"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 25
+maxLevel = 25
+team = [
+  { species = "cobblemon:machoke", level = 25, gender = "MALE", nature = "jolly", ability = "guts", moveset = ["leer", "scaryface", "vitalthrow", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machop", level = 25, gender = "MALE", nature = "adamant", ability = "guts", moveset = ["lowkick", "vitalthrow", "thief", "fling"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:machoke", level = 25, gender = "MALE", nature = "adamant", ability = "guts", moveset = ["lowkick", "leer", "vitalthrow", "poisonjab"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We’re the Karate Quads! I will strike a blow for courage with my fist! Hiyah, couraaaaaaaaaaage!", "To overwhelm by force... That is my ideal beat-down style. It doesn’t seem to work that way with Pokémon, however.", "I have trained this team for the road. Challenge me if you are ready."]

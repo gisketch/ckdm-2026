@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_laura",
+  "name": "Ace Trainer Snow Female Laura",
+  "title": "Ace Trainer Snow Female",
+  "gender": "female",
+  "archetype": "ace_trainer_snow_female",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_snow_female/female",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 1.0,
+  "bustStyle": "standard",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:tropius",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "airslash",
+        "bodyslam",
+        "magicalleaf",
+        "sweetscent"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019m fully kitted up and equipped! Anytime will be fine!",
+    "Perhaps I should maybe change into a more comfy outfit..."
+  ]
+}

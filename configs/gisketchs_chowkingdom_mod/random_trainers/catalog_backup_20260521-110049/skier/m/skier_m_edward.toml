@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "skier_m_edward"
+name = "Skier Edward"
+title = "Skier"
+gender = "male"
+archetype = "skier"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "skier/male"
+tier = "high"
+spawnable = true
+height = 1.02
+weight = 1.04
+bustStyle = ""
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:sneasel", level = 55, gender = "MALE", nature = "jolly", ability = "innerfocus", moveset = ["icywind", "furyswipes", "honeclaws", "screech"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Skier Male Edward is ready for a battle.", "Are you a novice? Or around midlevel?", "You know how to play your Pokémon with an edge!", "I have trained this team for the road. Challenge me if you are ready."]

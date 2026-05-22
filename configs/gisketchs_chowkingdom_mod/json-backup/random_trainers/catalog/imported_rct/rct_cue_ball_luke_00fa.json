@@ -1,0 +1,49 @@
+{
+  "id": "rct_cue_ball_luke_00fa",
+  "name": "Cue Ball Luke",
+  "title": "Cue Ball",
+  "gender": "any",
+  "archetype": "cue_ball",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 89,
+  "maxLevel": 91,
+  "team": [
+    {
+      "species": "dugtrio",
+      "level": 91,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "arenatrap",
+      "moveset": [
+        "earthquake",
+        "stoneedge",
+        "aerialace",
+        "suckerpunch"
+      ],
+      "heldItem": "life_orb",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "hariyama",
+      "level": 89,
+      "gender": "FEMALE",
+      "nature": "careful",
+      "ability": "thickfat",
+      "moveset": [
+        "fakeout",
+        "knockoff",
+        "drainpunch",
+        "heavyslam"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

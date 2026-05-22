@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeheartgold_0706_executive_proton_proton",
+  "name": "Executive Proton Proton",
+  "title": "Executive Proton",
+  "gender": "any",
+  "archetype": "executive_proton",
+  "region": "Johto/Kanto",
+  "category": "unique",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "executive_proton/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.01,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 33,
+  "team": [
+    {
+      "species": "cobblemon:golbat",
+      "level": 28,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "leechlife",
+        "bite",
+        "confuseray",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:weezing",
+      "level": 33,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "doublehit",
+        "sludge",
+        "smokescreen",
+        "smog"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Proton: Now, wait just one second! Aren\u2019t you the one who got in our way at the SLOWPOKE Well? I see... You\u2019re doing all this because you want to make me angry. Be careful! But since you seem to wish it, I\u2019ll show you the full extent of a Team Rocket Executive\u2019s wrath!",
+    "Seriously, you\u2019d chase me this far?!",
+    "Proton: You may have won this time... But all you did was make Team Rocket\u2019s wrath grow..."
+  ]
+}

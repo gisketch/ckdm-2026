@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_curtis"
+name = "Camper Curtis"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "low"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 7
+maxLevel = 7
+team = [
+  { species = "cobblemon:shinx", level = 7, gender = "FEMALE", nature = "docile", ability = "intimidate", moveset = ["tackle", "leer", "thundershock"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["We Trainers will accept challenges anywhere! It’s what we do.", "Pokémon can appear anywhere in a cave. It’s not like the tall grass by roads.", "I have trained this team for the road. Challenge me if you are ready."]

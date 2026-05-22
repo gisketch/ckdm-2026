@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_tanner"
+name = "Camper Tanner"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "high"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 52
+maxLevel = 52
+team = [
+  { species = "cobblemon:sudowoodo", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:jumpluff", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:lanturn", level = 52, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I can fit in a quick battle while I’m in the midst of preparing a meal!", "I figured it would be easy to knock you out...", "Camper Tanner is ready for a battle."]

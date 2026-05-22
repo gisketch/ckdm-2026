@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "jogger_m_wyatt"
+name = "Jogger Wyatt"
+title = "Jogger"
+gender = "male"
+archetype = "jogger"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "jogger/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:ponyta", level = 21, gender = "MALE", nature = "sassy", ability = "runaway", moveset = ["tackle", "tailwhip", "flamecharge", "agility"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’m warmed up and limber. I’m OK to battle!", "I wish I could just run from all this... Just joking.", "I have trained this team for the road. Challenge me if you are ready."]

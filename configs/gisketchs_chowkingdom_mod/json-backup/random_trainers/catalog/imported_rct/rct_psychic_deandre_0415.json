@@ -1,0 +1,33 @@
+{
+  "id": "rct_psychic_deandre_0415",
+  "name": "Psychic Deandre",
+  "title": "Psychic",
+  "gender": "any",
+  "archetype": "psychic",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "girafarig",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "innerfocus",
+      "moveset": [
+        "stomp",
+        "agility",
+        "zenheadbutt",
+        "crunch"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

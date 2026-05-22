@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "guitarist_m_preston"
+name = "Guitarist Preston"
+title = "Guitarist"
+gender = "male"
+archetype = "guitarist"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "guitarist/male"
+tier = "mid"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 42
+maxLevel = 42
+team = [
+  { species = "cobblemon:luxio", level = 42, gender = "MALE", nature = "jolly", ability = "intimidate", moveset = ["bite", "voltswitch", "thunderwave", "irontail"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bibarel", level = 42, gender = "FEMALE", nature = "jolly", ability = "simple", moveset = ["yawn", "thunderbolt", "bulldoze", "waterfall"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Spark! This is what our Gym Leader did to the Gym out of boredom!", "We were lacking energy... No, we lacked more than that. We didn’t want the win enough.", "I have trained this team for the road. Challenge me if you are ready."]

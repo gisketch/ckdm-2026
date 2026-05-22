@@ -1,0 +1,40 @@
+{
+  "id": "rct_bird_keeper_katherine_032a",
+  "name": "Bird Keeper Katherine",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "cobblemon:noctowl",
+      "level": 31,
+      "gender": "FEMALE",
+      "nature": "calm",
+      "ability": "keeneye",
+      "moveset": [
+        "skyattack",
+        "reflect",
+        "psychoshift",
+        "extrasensory"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

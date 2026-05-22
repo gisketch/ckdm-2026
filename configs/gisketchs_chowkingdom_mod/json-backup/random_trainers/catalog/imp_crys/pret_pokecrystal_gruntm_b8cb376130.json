@@ -1,0 +1,35 @@
+{
+  "id": "pret_pokecrystal_gruntm_023_executive",
+  "name": "Gruntm Executive",
+  "title": "Gruntm",
+  "gender": "any",
+  "archetype": "gruntm",
+  "region": "Johto/Kanto",
+  "category": "team",
+  "source": "pret_pokecrystal",
+  "skinSet": "",
+  "skinFolder": "gruntm/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 1.0,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:koffing",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "Gruntm Executive is ready for a battle."
+  ]
+}

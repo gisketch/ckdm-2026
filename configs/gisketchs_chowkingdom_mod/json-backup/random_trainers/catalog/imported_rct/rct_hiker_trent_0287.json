@@ -1,0 +1,49 @@
+{
+  "id": "rct_hiker_trent_0287",
+  "name": "Hiker Trent",
+  "title": "Hiker",
+  "gender": "any",
+  "archetype": "hiker",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 31,
+  "maxLevel": 31,
+  "team": [
+    {
+      "species": "onix",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "dragonbreath",
+        "slam",
+        "screech"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "graveler",
+      "level": 31,
+      "gender": "MALE",
+      "nature": "lax",
+      "ability": "sturdy",
+      "moveset": [
+        "smackdown",
+        "bulldoze",
+        "selfdestruct",
+        "stealthrock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "burglar_m_orson"
+name = "Burglar Orson"
+title = "Burglar"
+gender = "male"
+archetype = "burglar"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "burglar/male"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.99
+bustStyle = ""
+minLevel = 24
+maxLevel = 26
+team = [
+  { species = "cobblemon:growlithe", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["roar", "flamewheel", "leer", "bite"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:koffing", level = 24, gender = "GENDERLESS", nature = "", ability = "", moveset = ["tackle", "smog", "sludge", "smokescreen"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["They ditched this project before they finished. I’m searching for leftover loot.", "The underground warehouse? What do you want to go there for? There’s nothing down there."]

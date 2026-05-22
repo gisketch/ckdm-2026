@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_x_darrin"
+name = "Swimmer Darrin"
+title = "Swimmer"
+gender = "any"
+archetype = "swimmer"
+region = ""
+category = "specialist"
+source = "rct_import"
+skinSet = ""
+skinFolder = "swimmer/any"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = ""
+minLevel = 62
+maxLevel = 64
+team = [
+  { species = "cobblemon:seadra", level = 62, gender = "FEMALE", nature = "mild", ability = "poisontouch", moveset = ["agility", "dragonpulse", "dragondance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:barraskewda", level = 62, gender = "FEMALE", nature = "hardy", ability = "swiftswim", moveset = ["laserfocus", "crunch", "liquidation", "doubleedge"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:kingdra", level = 63, gender = "MALE", nature = "lonely", ability = "swiftswim", moveset = ["agility", "dragonpulse", "dragondance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:seadra", level = 64, gender = "FEMALE", nature = "mild", ability = "poisontouch", moveset = ["agility", "dragonpulse", "dragondance", "hydropump"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

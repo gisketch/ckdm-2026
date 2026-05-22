@@ -1,0 +1,41 @@
+{
+  "id": "pret_pokeheartgold_0500_ace_trainer_male_kobe",
+  "name": "Ace Trainer Male Kobe",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Johto/Kanto",
+  "category": "route_trainer",
+  "source": "pret_pokeheartgold",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 37,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:dragonair",
+      "level": 37,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "thunder",
+        "surf",
+        "dragonrage",
+        "irontail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "You! How dare you enter uninvited!",
+    "The Shrine ahead is home to the Master of our Dragon Tamer clan. You\u2019re not allowed to just go in!"
+  ]
+}

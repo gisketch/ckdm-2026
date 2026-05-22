@@ -1,0 +1,49 @@
+{
+  "id": "rct_twins_eli_and_anne_01e4",
+  "name": "Twins Eli & Anne",
+  "title": "Twins Eli And",
+  "gender": "any",
+  "archetype": "twins_eli_and",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 36,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "swinub",
+      "level": 36,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "oblivious",
+      "moveset": [
+        "icywind",
+        "icefang",
+        "takedown",
+        "mist"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "espurr",
+      "level": 37,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "frisk",
+      "moveset": [
+        "psybeam",
+        "fakeout",
+        "disarmingvoice",
+        "psyshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

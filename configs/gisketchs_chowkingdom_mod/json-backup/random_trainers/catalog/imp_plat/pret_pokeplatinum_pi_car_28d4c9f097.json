@@ -1,0 +1,39 @@
+{
+  "id": "pret_pokeplatinum_pi_carlos",
+  "name": "Pi Carlos",
+  "title": "Pi",
+  "gender": "any",
+  "archetype": "pi",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "pi/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 30,
+  "maxLevel": 30,
+  "team": [
+    {
+      "species": "cobblemon:goldeen",
+      "level": 30,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "horndrill",
+        "flail"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "When I toss this coin, you call it. Heads, we battle. Tails, we battle! Now, how will this play out, my friend?",
+    "I flipped a coin when I was ten. I decided to live in Sinnoh then."
+  ]
+}

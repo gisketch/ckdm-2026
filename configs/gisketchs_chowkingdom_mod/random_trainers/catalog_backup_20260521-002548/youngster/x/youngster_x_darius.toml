@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_x_darius"
+name = "Youngster Darius"
+title = "Youngster"
+gender = "any"
+archetype = "youngster"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/any"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 8
+maxLevel = 8
+team = [
+  { species = "cobblemon:geodude", level = 8, gender = "MALE", nature = "impish", ability = "rockhead", moveset = ["tackle", "defensecurl"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 8, gender = "FEMALE", nature = "impish", ability = "rockhead", moveset = ["tackle", "harden", "bind", "smackdown"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Only those who want to win can challenge a Pokémon Gym!", "One day, I’m going to become a tough Trainer like you.", "I have trained this team for the road. Challenge me if you are ready."]

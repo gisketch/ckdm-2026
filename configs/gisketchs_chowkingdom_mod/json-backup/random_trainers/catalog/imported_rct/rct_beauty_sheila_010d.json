@@ -1,0 +1,65 @@
+{
+  "id": "rct_beauty_sheila_010d",
+  "name": "Beauty Sheila",
+  "title": "Beauty",
+  "gender": "any",
+  "archetype": "beauty",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 88,
+  "maxLevel": 92,
+  "team": [
+    {
+      "species": "goodra",
+      "level": 90,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sapsipper",
+      "moveset": [
+        "dragonhammer",
+        "firepunch",
+        "drainpunch",
+        "powerwhip"
+      ],
+      "heldItem": "assault_vest",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "bouffalant",
+      "level": 92,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "sapsipper",
+      "moveset": [
+        "headcharge",
+        "highhorsepower",
+        "zenheadbutt",
+        "closecombat"
+      ],
+      "heldItem": "normal_gem",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "zebstrika",
+      "level": 88,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "sapsipper",
+      "moveset": [
+        "boltstrike",
+        "flareblitz",
+        "lowkick",
+        "return"
+      ],
+      "heldItem": "magnet",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

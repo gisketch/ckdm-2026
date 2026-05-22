@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "fisherman_m_chip"
+name = "Fisherman Chip"
+title = "Fisherman"
+gender = "male"
+archetype = "fisherman"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "fisherman/male"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 1
+bustStyle = ""
+minLevel = 35
+maxLevel = 35
+team = [
+  { species = "cobblemon:tentacruel", level = 35, gender = "FEMALE", nature = "mild", ability = "clearbody", moveset = ["bubblebeam", "barrier", "poisonjab", "scald"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:barraskewda", level = 35, gender = "FEMALE", nature = "jolly", ability = "swiftswim", moveset = ["bite", "agility", "dive", "laserfocus"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Fisherman Chip is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

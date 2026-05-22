@@ -1,0 +1,72 @@
+{
+  "id": "rct_bird_keeper_carter_0139",
+  "name": "Bird Keeper Carter",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 56,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:vibrava",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "levitate",
+      "moveset": [
+        "sandstorm",
+        "wingattack",
+        "hyperbeam",
+        "boomburst"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:cramorant",
+      "level": 56,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "gulpmissile",
+      "moveset": [
+        "drillpeck",
+        "amnesia",
+        "surf",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:talonflame",
+      "level": 57,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "flamebody",
+      "moveset": [
+        "acrobatics",
+        "dualwingbeat",
+        "mefirst",
+        "tailwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

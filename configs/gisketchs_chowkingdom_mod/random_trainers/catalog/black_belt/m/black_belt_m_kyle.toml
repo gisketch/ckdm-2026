@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "black_belt_m_kyle"
+name = "Black Belt Kyle"
+title = "Black Belt"
+gender = "male"
+archetype = "black_belt"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "black_belt/male"
+tier = "low"
+spawnable = true
+height = 1.1
+weight = 1.17
+bustStyle = ""
+minLevel = 19
+maxLevel = 19
+team = [
+  { species = "cobblemon:machop", level = 19, gender = "MALE", nature = "relaxed", ability = "noguard", moveset = ["leer", "revenge", "lowsweep", "knockoff"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["This karate man’s going to pulverize you!", "It’s obvious I need to train myself and my Pokémon harder. Hey, if you’ve got a Vs. Seeker, you’d better put it to good use. Nothing beats some repeated battling for toughening up your Pokémon.", "I have trained this team for the road. Challenge me if you are ready."]

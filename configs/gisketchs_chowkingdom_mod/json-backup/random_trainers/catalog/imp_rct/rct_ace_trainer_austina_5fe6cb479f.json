@@ -1,0 +1,104 @@
+{
+  "id": "rct_ace_trainer_austina_0198",
+  "name": "Ace Trainer Austina",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 42,
+  "maxLevel": 42,
+  "team": [
+    {
+      "species": "cobblemon:rhyhorn",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "rockhead",
+      "moveset": [
+        "horndrill",
+        "rockblast",
+        "scaryface",
+        "stomp"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidorina",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "lonely",
+      "ability": "rivalry",
+      "moveset": [
+        "doublekick",
+        "furyswipes",
+        "bite",
+        "flatter"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoqueen",
+      "level": 42,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "rivalry",
+      "moveset": [
+        "bodyslam",
+        "doublekick",
+        "bite",
+        "growl"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidorino",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "mild",
+      "ability": "rivalry",
+      "moveset": [
+        "hornattack",
+        "poisonsting",
+        "focusenergy",
+        "leer"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:nidoking",
+      "level": 42,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "rivalry",
+      "moveset": [
+        "thrash",
+        "doublekick",
+        "poisonsting",
+        "peck"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

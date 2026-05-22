@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_barry"
+name = "Camper Barry"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "high"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 48
+maxLevel = 48
+team = [
+  { species = "cobblemon:nidoking", level = 48, gender = "GENDERLESS", nature = "", ability = "", moveset = ["poisonjab", "focusenergy", "earthpower", "focusblast"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Camper Barry is ready for a battle."]

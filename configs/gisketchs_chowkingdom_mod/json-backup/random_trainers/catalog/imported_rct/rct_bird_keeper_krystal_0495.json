@@ -1,0 +1,65 @@
+{
+  "id": "rct_bird_keeper_krystal_0495",
+  "name": "Bird Keeper Krystal",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 55,
+  "maxLevel": 55,
+  "team": [
+    {
+      "species": "dodrio",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "earlybird",
+      "moveset": [
+        "drillpeck",
+        "lunge",
+        "quickattack",
+        "swordsdance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "fearow",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "keeneye",
+      "moveset": [
+        "drillrun",
+        "drillpeck",
+        "roost",
+        "assurance"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "honchkrow",
+      "level": 55,
+      "gender": "FEMALE",
+      "nature": "docile",
+      "ability": "insomnia",
+      "moveset": [
+        "nightslash",
+        "swagger",
+        "foulplay",
+        "wingattack"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "name": "Huntress Wizard",
+  "ai": {
+    "type": "rct"
+  },
+  "battleFormat": "GEN_9_SINGLES",
+  "battleRules": {
+    "maxItemUses": 0,
+    "healPlayers": true,
+    "adjustPlayerLevels": false,
+    "adjustNPCLevels": false
+  },
+  "team": [
+    {
+      "species": "cobblemon:decidueye",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:leafeon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:trevenant",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:shiftry",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:breloom",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:roserade",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:lurantis",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:whimsicott",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:sawsbuck",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:scyther",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:heracross",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:galvantula",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:vespiquen",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:flygon",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    },
+    {
+      "species": "cobblemon:noivern",
+      "level": 50,
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spa": 4,
+        "spe": 252
+      },
+      "moveset": []
+    }
+  ]
+}

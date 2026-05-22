@@ -1,0 +1,47 @@
+{
+  "id": "pret_pokeplatinum_bird_keeper_geneva",
+  "name": "Bird Keeper Geneva",
+  "title": "Bird Keeper",
+  "gender": "any",
+  "archetype": "bird_keeper",
+  "region": "Sinnoh",
+  "category": "specialist",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "bird_keeper/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.01,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 57,
+  "team": [
+    {
+      "species": "cobblemon:fearow",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:xatu",
+      "level": 57,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My Pok\u00e9mon grew up in the arms of Mother Nature. They\u2019re tough!",
+    "Most of the time, my Pok\u00e9mon return to their Pok\u00e9 Balls right away. But sometimes, they just fall asleep on top of my head. That gets messy."
+  ]
+}

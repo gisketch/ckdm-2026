@@ -1,0 +1,72 @@
+{
+  "id": "rct_swimmer_katelyn_0363",
+  "name": "Swimmer Katelyn",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "category": "specialist",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "swimmer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 0.98,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 28,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "cobblemon:buizel",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "impish",
+      "ability": "swiftswim",
+      "moveset": [
+        "tailwhip",
+        "bite",
+        "swift",
+        "aquajet"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:medicham",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "bashful",
+      "ability": "purepower",
+      "moveset": [
+        "zenheadbutt",
+        "thunderpunch",
+        "icepunch",
+        "forcepalm"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:seaking",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "careful",
+      "ability": "waterveil",
+      "moveset": [
+        "peck",
+        "waterpulse",
+        "hornattack",
+        "aquaring"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_pokemaniac_herman_00a3",
+  "name": "Pokémaniac Herman",
+  "title": "Pokemaniac",
+  "gender": "any",
+  "archetype": "pokemaniac",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 34,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "lickitung",
+      "level": 34,
+      "gender": "FEMALE",
+      "nature": "hardy",
+      "ability": "owntempo",
+      "moveset": [
+        "stomp",
+        "disable",
+        "slam",
+        "rollout"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "raboot",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "relaxed",
+      "ability": "blaze",
+      "moveset": [
+        "suckerpunch",
+        "mudshot",
+        "agility",
+        "headbutt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

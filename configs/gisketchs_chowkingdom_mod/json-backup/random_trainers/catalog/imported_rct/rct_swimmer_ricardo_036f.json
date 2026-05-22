@@ -1,0 +1,33 @@
+{
+  "id": "rct_swimmer_ricardo_036f",
+  "name": "Swimmer Ricardo",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 43,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "tentacruel",
+      "level": 43,
+      "gender": "FEMALE",
+      "nature": "sassy",
+      "ability": "clearbody",
+      "moveset": [
+        "acid",
+        "waterpulse",
+        "acidarmor",
+        "poisonjab"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

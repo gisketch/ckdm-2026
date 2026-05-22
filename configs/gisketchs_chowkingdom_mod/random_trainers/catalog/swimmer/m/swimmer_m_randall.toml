@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "swimmer_m_randall"
+name = "Swimmer Randall"
+title = "Swimmer"
+gender = "male"
+archetype = "swimmer"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "swimmer/male"
+tier = "low"
+spawnable = true
+height = 1.02
+weight = 1.03
+bustStyle = ""
+minLevel = 18
+maxLevel = 20
+team = [
+  { species = "cobblemon:shellder", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = ["supersonic", "iciclespear", "withdraw", "tackle"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:wartortle", level = 20, gender = "GENDERLESS", nature = "", ability = "", moveset = ["rapidspin", "bite", "watergun", "tailwhip"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:shellder", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = ["supersonic", "iciclespear", "withdraw", "tackle"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Swimmerm Randall is ready for a battle.", "Hey, you’re young and fit! Don’t ride your Pokémon! Swim!", "Swimming exercises your entire body. It’s healthy."]

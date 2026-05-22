@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "pok_fan_f_meredith"
+name = "Pok Fan Meredith"
+title = "Pok Fan"
+gender = "female"
+archetype = "pok_fan"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "pok_fan/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 1.02
+bustStyle = "standard"
+minLevel = 21
+maxLevel = 21
+team = [
+  { species = "cobblemon:marill", level = 21, gender = "MALE", nature = "bashful", ability = "thickfat", moveset = ["tailwhip", "helpinghand", "aquatail", "playrough"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:aipom", level = 21, gender = "FEMALE", nature = "bashful", ability = "pickup", moveset = ["tailwhip", "sandattack", "tickle", "furyswipes"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

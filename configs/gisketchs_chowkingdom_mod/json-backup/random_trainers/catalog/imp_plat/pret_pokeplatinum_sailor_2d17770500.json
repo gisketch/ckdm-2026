@@ -1,0 +1,58 @@
+{
+  "id": "pret_pokeplatinum_sailor_luther",
+  "name": "Sailor Luther",
+  "title": "Sailor",
+  "gender": "male",
+  "archetype": "sailor",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "sailor/male",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.09,
+  "weight": 1.16,
+  "bustStyle": "",
+  "minLevel": 41,
+  "maxLevel": 43,
+  "team": [
+    {
+      "species": "cobblemon:wingull",
+      "level": 41,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:machoke",
+      "level": 42,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gastrodon",
+      "level": 43,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "My dream\u2019s a big one! I want to battle every kind of Pok\u00e9mon from around the world!",
+    "Listen, you! Whatever happens, never lose sight of your dream!"
+  ]
+}

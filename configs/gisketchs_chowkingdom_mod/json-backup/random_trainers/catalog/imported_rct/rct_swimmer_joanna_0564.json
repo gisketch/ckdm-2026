@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmer_joanna_0564",
+  "name": "Swimmer Joanna",
+  "title": "Swimmer",
+  "gender": "any",
+  "archetype": "swimmer",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 56,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "luvdisc",
+      "level": 56,
+      "gender": "MALE",
+      "nature": "calm",
+      "ability": "swiftswim",
+      "moveset": [
+        "aquaring",
+        "flail",
+        "brine",
+        "attract"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lapras",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "waterabsorb",
+      "moveset": [
+        "icebeam",
+        "hydropump",
+        "confuseray",
+        "iceshard"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

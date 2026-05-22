@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_ernest"
+name = "Ace Trainer Ernest"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.04
+bustStyle = ""
+minLevel = 25
+maxLevel = 27
+team = [
+  { species = "cobblemon:mothim", level = 25, gender = "MALE", nature = "hardy", ability = "swarm", moveset = ["quiverdance", "bugbite", "stringshot", "confusion"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:onix", level = 26, gender = "FEMALE", nature = "relaxed", ability = "rockhead", moveset = ["harden", "smackdown", "curse", "rockslide"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:luxio", level = 27, gender = "MALE", nature = "hardy", ability = "intimidate", moveset = ["leer", "bite", "spark", "roar"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

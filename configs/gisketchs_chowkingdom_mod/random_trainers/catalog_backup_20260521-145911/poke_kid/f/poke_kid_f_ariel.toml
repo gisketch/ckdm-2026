@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "poke_kid_f_ariel"
+name = "Poke Kid Ariel"
+title = "Poke Kid"
+gender = "female"
+archetype = "poke_kid"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum"
+skinSet = ""
+skinFolder = "poke_kid/female"
+tier = "high"
+spawnable = true
+height = 0.88
+weight = 0.93
+bustStyle = "standard"
+minLevel = 55
+maxLevel = 55
+team = [
+  { species = "cobblemon:pichu", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:pikachu", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:raichu", level = 55, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Poke Kid Ariel is ready for a battle.", "Po-Po-Pokémon! Do you think I’m a real Pokémon?", "I need to find a way to get more into the character of a Pokémon..."]

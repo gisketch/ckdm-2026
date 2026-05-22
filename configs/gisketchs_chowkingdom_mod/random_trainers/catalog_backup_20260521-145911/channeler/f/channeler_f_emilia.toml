@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_f_emilia"
+name = "Channeler Emilia"
+title = "Channeler"
+gender = "female"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = "standard"
+minLevel = 37
+maxLevel = 37
+team = [
+  { species = "cobblemon:xatu", level = 37, gender = "FEMALE", nature = "modest", ability = "synchronize", moveset = ["ominouswind", "confuseray", "wish", "psychic"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Emilia is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "channeler_x_amanda"
+name = "Channeler Amanda"
+title = "Channeler"
+gender = "any"
+archetype = "channeler"
+region = "Kanto/Sevii"
+category = "route_trainer"
+source = "pret_pokefirered;rct_import"
+skinSet = ""
+skinFolder = "channeler/any"
+tier = "high"
+spawnable = true
+height = 1
+weight = 1.02
+bustStyle = ""
+minLevel = 54
+maxLevel = 55
+team = [
+  { species = "cobblemon:dusclops", level = 54, gender = "FEMALE", nature = "gentle", ability = "pressure", moveset = ["curse", "hex", "shadowball", "meanlook"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:cofagrigus", level = 55, gender = "FEMALE", nature = "lonely", ability = "mummy", moveset = ["guardsplit", "shadowball", "grudge", "meanlook"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Channeler Amanda is ready for a battle.", "I have trained this team for the road. Challenge me if you are ready."]

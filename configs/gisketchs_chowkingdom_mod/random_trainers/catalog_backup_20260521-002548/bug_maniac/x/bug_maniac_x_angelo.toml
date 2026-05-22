@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_maniac_x_angelo"
+name = "Bug Maniac Angelo"
+title = "Bug Maniac"
+gender = "any"
+archetype = "bug_maniac"
+region = "Hoenn"
+category = "specialist"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "bug_maniac/any"
+tier = "low"
+spawnable = true
+height = 1.01
+weight = 1
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:illumise", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shockwave", "quickattack", "charm"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:volbeat", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = ["shockwave", "quickattack", "confuseray"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Maniac Angelo is ready for a battle."]

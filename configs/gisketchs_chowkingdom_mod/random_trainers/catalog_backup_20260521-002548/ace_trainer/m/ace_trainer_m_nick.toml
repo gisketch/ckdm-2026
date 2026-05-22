@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_m_nick"
+name = "Ace Trainer Nick"
+title = "Ace Trainer"
+gender = "male"
+archetype = "ace_trainer"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokecrystal;pret_pokeheartgold"
+skinSet = ""
+skinFolder = "ace_trainer/male"
+tier = "mid"
+spawnable = true
+height = 1.04
+weight = 1.03
+bustStyle = ""
+minLevel = 26
+maxLevel = 26
+team = [
+  { species = "cobblemon:charmander", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["ember", "smokescreen", "rage", "scaryface"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:squirtle", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["withdraw", "watergun", "bite", "curse"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:bulbasaur", level = 26, gender = "GENDERLESS", nature = "", ability = "", moveset = ["leechseed", "poisonpowder", "sleeppowder", "razorleaf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainerm Nick is ready for a battle.", "There are two kinds of people: those with style and those without. Which kind of person are you?", "Your Pokémon style is stunning and full of life, I admit. You’ll just keep getting better!"]

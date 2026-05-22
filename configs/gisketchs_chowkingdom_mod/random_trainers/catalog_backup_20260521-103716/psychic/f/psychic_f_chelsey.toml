@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_chelsey"
+name = "Psychic Chelsey"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "high"
+spawnable = true
+height = 0.99
+weight = 0.95
+bustStyle = "standard"
+minLevel = 56
+maxLevel = 58
+team = [
+  { species = "cobblemon:xatu", level = 56, gender = "FEMALE", nature = "calm", ability = "synchronize", moveset = ["nightshade", "psychic", "wish", "futuresight"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:mismagius", level = 58, gender = "FEMALE", nature = "bold", ability = "levitate", moveset = ["mysticalfire", "perishsong", "powergem", "magicalleaf"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I’ll use my mystifying psychic power to pulverize you!", "Psychic power is a mystery that defies explanation. But if everything could be explained, it would be a boring world.", "I have trained this team for the road. Challenge me if you are ready."]

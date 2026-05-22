@@ -1,0 +1,115 @@
+{
+  "id": "rct_mega_trainer_timothy_05cb",
+  "name": "Mega Trainer Timothy",
+  "title": "Mega Trainer",
+  "gender": "any",
+  "archetype": "mega_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "mega_trainer/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 0.99,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 57,
+  "maxLevel": 60,
+  "team": [
+    {
+      "species": "cobblemon:musharna",
+      "level": 58,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "synchronize",
+      "moveset": [
+        "psychic",
+        "hypnosis",
+        "reflect",
+        "lightscreen"
+      ],
+      "heldItem": [
+        "light_clay"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:gengar",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "shadowball",
+        "sludgebomb",
+        "gigadrain",
+        "dazzlinggleam"
+      ],
+      "heldItem": [
+        "kasib_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:bellossom",
+      "level": 57,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "chlorophyll",
+      "moveset": [
+        "appleacid",
+        "moonblast",
+        "quiverdance",
+        "sleeppowder"
+      ],
+      "heldItem": [
+        "coba_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:swampert",
+      "level": 59,
+      "gender": "MALE",
+      "nature": "impish",
+      "ability": "torrent",
+      "moveset": [
+        "flipturn",
+        "earthquake",
+        "counter",
+        "mirrorcoat"
+      ],
+      "heldItem": [
+        "rindo_berry"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 60,
+      "gender": "FEMALE",
+      "nature": "modest",
+      "ability": "trace",
+      "moveset": [
+        "psychic",
+        "shadowball",
+        "dazzlinggleam",
+        "calmmind"
+      ],
+      "heldItem": [
+        "mega_showdown:alakazite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "rct_gambler_rich_0108",
+  "name": "Gambler Rich",
+  "title": "Gambler",
+  "gender": "any",
+  "archetype": "gambler",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 35,
+  "maxLevel": 35,
+  "team": [
+    {
+      "species": "houndour",
+      "level": 35,
+      "gender": "FEMALE",
+      "nature": "mild",
+      "ability": "earlybird",
+      "moveset": [
+        "suckerpunch",
+        "beatup",
+        "darkpulse",
+        "scorchingsands"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "litleo",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "rivalry",
+      "moveset": [
+        "takedown",
+        "firefang",
+        "endeavor",
+        "echoedvoice"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

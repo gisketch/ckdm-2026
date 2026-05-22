@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_f_catherine"
+name = "Ace Trainer Catherine"
+title = "Ace Trainer"
+gender = "female"
+archetype = "ace_trainer"
+region = "Sinnoh"
+category = "route_trainer"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "ace_trainer/female"
+tier = "mid"
+spawnable = true
+height = 1.02
+weight = 0.98
+bustStyle = "standard"
+minLevel = 30
+maxLevel = 30
+team = [
+  { species = "cobblemon:misdreavus", level = 30, gender = "FEMALE", nature = "timid", ability = "levitate", moveset = ["growl", "confuseray", "hex", "trickroom"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:drifblim", level = 30, gender = "FEMALE", nature = "jolly", ability = "flareboost", moveset = ["phantomforce", "strengthsap", "minimize", "fly"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["What does it feel like, taking one step after another into darkness?", "I think, sometimes, one has to make mistakes to learn what is right.", "I have trained this team for the road. Challenge me if you are ready."]

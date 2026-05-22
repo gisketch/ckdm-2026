@@ -1,0 +1,49 @@
+{
+  "id": "rct_ninja_boy_nathan_0320",
+  "name": "Ninja Boy Nathan",
+  "title": "Ninja Boy",
+  "gender": "any",
+  "archetype": "ninja_boy",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 25,
+  "maxLevel": 25,
+  "team": [
+    {
+      "species": "croagunk",
+      "level": 25,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "anticipation",
+      "moveset": [
+        "poisonsting",
+        "mudslap",
+        "astonish",
+        "venoshock"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "golbat",
+      "level": 25,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "innerfocus",
+      "moveset": [
+        "absorb",
+        "astonish",
+        "meanlook",
+        "poisonfang"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

@@ -1,5 +1,13 @@
 # Chow Kingdom config: settings.toml. Edit while the game is stopped, then run reload commands or restart.
 
+# Config value: protect_npcs_during_pokemon_battles.
+# When true, CKDM NPCs locked in RCT Pokemon battles cannot take world damage or die.
+protect_npcs_during_pokemon_battles = true
+
+# Config value: default_speaking_emote.
+# Fallback emote for NPC speech when no explicit emote is requested. Use "none" or blank to disable.
+default_speaking_emote = "speaking"
+
 # Config value: rendering.
 [rendering]
 # Config value: rendering.playerlike_renderer.
@@ -173,15 +181,58 @@ enabled = true
 # Config value: npc_interactions.radius.
 radius = 16.0
 # Config value: npc_interactions.duration_seconds.
-duration_seconds = 12
+duration_seconds = 30
 # Config value: npc_interactions.cooldown_min_hours.
-cooldown_min_hours = 2
+cooldown_min_hours = 1
 # Config value: npc_interactions.cooldown_max_hours.
-cooldown_max_hours = 4
+cooldown_max_hours = 2
+# Config value: npc_interactions.witness_required.
+witness_required = true
+# Config value: npc_interactions.witness_radius.
+witness_radius = 8.0
+# Config value: npc_interactions.first_witness_nudge_min_seconds.
+first_witness_nudge_min_seconds = 5
+# Config value: npc_interactions.first_witness_nudge_max_seconds.
+first_witness_nudge_max_seconds = 15
+# Config value: npc_interactions.area_cooldown_min_seconds.
+area_cooldown_min_seconds = 60
+# Config value: npc_interactions.area_cooldown_max_seconds.
+area_cooldown_max_seconds = 90
+# Config value: npc_interactions.daily_participation_budget.
+daily_participation_budget = 7
+# Config value: npc_interactions.trainer_daily_participation_budget.
+trainer_daily_participation_budget = 7
+# Config value: npc_interactions.pair_cooldown_hours.
+pair_cooldown_hours = 6
 # Config value: npc_interactions.balloon_refresh_seconds.
 balloon_refresh_seconds = 6
 # Config value: npc_interactions.messages.
 messages = ["Talking with {other}...", "Catching up with {other}.", "Comparing notes with {other}.", "Small town meeting with {other}."]
+
+# Config value: pokemon_companions.
+[pokemon_companions]
+# Config value: pokemon_companions.event_windows.
+event_windows = true
+# Config value: pokemon_companions.release_min_seconds.
+release_min_seconds = 180
+# Config value: pokemon_companions.release_max_seconds.
+release_max_seconds = 420
+# Config value: pokemon_companions.recall_min_seconds.
+recall_min_seconds = 120
+# Config value: pokemon_companions.recall_max_seconds.
+recall_max_seconds = 300
+# Config value: pokemon_companions.pokemon_roam_release_chance.
+pokemon_roam_release_chance = 70
+# Config value: pokemon_companions.meetup_release_chance.
+meetup_release_chance = 35
+# Config value: pokemon_companions.ambient_pokemon_release_chance.
+ambient_pokemon_release_chance = 60
+# Config value: pokemon_companions.recall_during_sleep.
+recall_during_sleep = true
+# Config value: pokemon_companions.recall_during_home.
+recall_during_home = true
+# Config value: pokemon_companions.recall_during_work.
+recall_during_work = true
 
 # Config value: interaction_director.
 # Picks a deterministic weighted focus for normal right-click NPC greetings before the LLM writes the line.

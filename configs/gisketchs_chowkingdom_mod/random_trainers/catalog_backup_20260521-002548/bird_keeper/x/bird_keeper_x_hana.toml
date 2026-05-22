@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bird_keeper_x_hana"
+name = "Bird Keeper Hana"
+title = "Bird Keeper"
+gender = "any"
+archetype = "bird_keeper"
+region = "Sinnoh"
+category = "specialist"
+source = "pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "bird_keeper/any"
+tier = "high"
+spawnable = true
+height = 1.01
+weight = 0.99
+bustStyle = ""
+minLevel = 46
+maxLevel = 48
+team = [
+  { species = "cobblemon:noctowl", level = 46, gender = "FEMALE", nature = "calm", ability = "keeneye", moveset = ["skyattack", "takedown", "roost", "moonblast"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:staraptor", level = 48, gender = "MALE", nature = "impish", ability = "intimidate", moveset = ["closecombat", "quickattack", "endeavor", "aerialace"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I keep battling so I can soar ever higher into the skies!", "The wings of freedom... I know I’ll find them if I can win my way through the Pokémon League...", "I have trained this team for the road. Challenge me if you are ready."]

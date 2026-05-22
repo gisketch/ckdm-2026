@@ -1,0 +1,24 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "youngster_m_tyler"
+name = "Youngster Tyler"
+title = "Youngster"
+gender = "male"
+archetype = "youngster"
+region = "Kanto/Sevii;Sinnoh"
+category = "route_trainer"
+source = "pret_pokefirered;pret_pokeplatinum;rct_import"
+skinSet = ""
+skinFolder = "youngster/male"
+tier = "low"
+spawnable = true
+height = 0.9
+weight = 0.91
+bustStyle = ""
+minLevel = 5
+maxLevel = 5
+team = [
+  { species = "cobblemon:magikarp", level = 5, gender = "MALE", nature = "naive", ability = "swiftswim", moveset = ["splash"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:starly", level = 5, gender = "MALE", nature = "docile", ability = "keeneye", moveset = ["tackle", "growl", "quickattack"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Youngster Tyler is ready for a battle.", "I’ll beat you with the MAGIKARP my dad gave me!", "Who gave you your first Pokémon? Your first Pokémon is the one with the most fond memories, I think.", "I have trained this team for the road. Challenge me if you are ready."]

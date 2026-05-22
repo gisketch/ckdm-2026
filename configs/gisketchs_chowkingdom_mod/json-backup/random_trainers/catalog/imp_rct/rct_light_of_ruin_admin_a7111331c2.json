@@ -1,0 +1,129 @@
+{
+  "id": "rct_light_of_ruin_admin_ivory_3_05c3",
+  "name": "Ruin Admin Ivory",
+  "title": "Ruin Admin",
+  "gender": "any",
+  "archetype": "ruin_admin",
+  "region": "",
+  "category": "unique",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ruin_admin/any",
+  "tier": "unique",
+  "spawnable": false,
+  "height": 1.02,
+  "weight": 0.99,
+  "bustStyle": "",
+  "minLevel": 61,
+  "maxLevel": 62,
+  "team": [
+    {
+      "species": "cobblemon:toxicroak",
+      "level": 61,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "poisontouch",
+      "moveset": [
+        "poisonjab",
+        "drainpunch",
+        "icepunch",
+        "suckerpunch"
+      ],
+      "heldItem": [
+        "focus_sash"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mismagius",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "timid",
+      "ability": "levitate",
+      "moveset": [
+        "moongeistbeam",
+        "mysticalfire",
+        "dazzlinggleam",
+        "thunderbolt"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:incineroar",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "adamant",
+      "ability": "intimidate",
+      "moveset": [
+        "flareblitz",
+        "darkestlariat",
+        "drainpunch",
+        "thunderpunch"
+      ],
+      "heldItem": [
+        "assault_vest"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:alakazam",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "timid",
+      "ability": "trace",
+      "moveset": [
+        "psyshock",
+        "shadowball",
+        "energyball",
+        "nastyplot"
+      ],
+      "heldItem": [
+        "mega_showdown:alakazite",
+        "life_orb"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:mandibuzz",
+      "level": 62,
+      "gender": "FEMALE",
+      "nature": "bold",
+      "ability": "overcoat",
+      "moveset": [
+        "foulplay",
+        "attract",
+        "toxic",
+        "roost"
+      ],
+      "heldItem": [
+        "rocky_helmet"
+      ],
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:eelektross",
+      "level": 61,
+      "gender": "MALE",
+      "nature": "modest",
+      "ability": "levitate",
+      "moveset": [
+        "voltswitch",
+        "gigadrain",
+        "flamethrower",
+        "acidspray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

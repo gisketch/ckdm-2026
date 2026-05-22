@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_f_kira"
+name = "Psychic Kira"
+title = "Psychic"
+gender = "female"
+archetype = "psychic"
+region = "Kanto"
+category = "specialist"
+source = "pret_pokered"
+skinSet = ""
+skinFolder = "psychic/female"
+tier = "mid"
+spawnable = true
+height = 0.99
+weight = 0.98
+bustStyle = "standard"
+minLevel = 38
+maxLevel = 38
+team = [
+  { species = "cobblemon:slowbro", level = 38, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Psychic from Saffron Gym is ready for a battle."]

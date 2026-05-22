@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "ace_trainer_x_marley"
+name = "Ace Trainer Marley"
+title = "Ace Trainer"
+gender = "any"
+archetype = "ace_trainer"
+region = "Hoenn"
+category = "route_trainer"
+source = "pret_pokeemerald"
+skinSet = ""
+skinFolder = "ace_trainer/any"
+tier = "mid"
+spawnable = true
+height = 1.03
+weight = 1.04
+bustStyle = ""
+minLevel = 34
+maxLevel = 34
+team = [
+  { species = "cobblemon:manectric", level = 34, gender = "GENDERLESS", nature = "", ability = "", moveset = ["bite", "roar", "thunderwave", "thunderbolt"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Cooltrainer Marley is ready for a battle."]

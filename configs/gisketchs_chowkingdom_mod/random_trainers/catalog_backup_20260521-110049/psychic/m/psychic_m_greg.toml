@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "psychic_m_greg"
+name = "Psychic Greg"
+title = "Psychic"
+gender = "male"
+archetype = "psychic"
+region = "Johto/Kanto"
+category = "specialist"
+source = "pret_pokeheartgold;pret_pokecrystal"
+skinSet = ""
+skinFolder = "psychic/male"
+tier = "low"
+spawnable = true
+height = 1.03
+weight = 1.01
+bustStyle = ""
+minLevel = 17
+maxLevel = 17
+team = [
+  { species = "cobblemon:drowzee", level = 17, gender = "GENDERLESS", nature = "", ability = "", moveset = ["hypnosis", "disable", "dreameater"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Pokémon can’t do a thing if they are asleep. I’ll show you how scary that is!", "Making Pokémon sleep or paralyzing them are good battle techniques.", "Psychic Greg is ready for a battle."]

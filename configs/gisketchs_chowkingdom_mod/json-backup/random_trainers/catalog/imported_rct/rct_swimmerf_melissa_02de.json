@@ -1,0 +1,49 @@
+{
+  "id": "rct_swimmerf_melissa_02de",
+  "name": "Swimmer♀ Melissa",
+  "title": "Swimmerf",
+  "gender": "any",
+  "archetype": "swimmerf",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 49,
+  "maxLevel": 49,
+  "team": [
+    {
+      "species": "poliwhirl",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "quiet",
+      "ability": "damp",
+      "moveset": [
+        "mudshot",
+        "bellydrum",
+        "wakeupslap",
+        "hydropump"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "seaking",
+      "level": 49,
+      "gender": "FEMALE",
+      "nature": "brave",
+      "ability": "waterveil",
+      "moveset": [
+        "aquaring",
+        "agility",
+        "waterfall",
+        "soak"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

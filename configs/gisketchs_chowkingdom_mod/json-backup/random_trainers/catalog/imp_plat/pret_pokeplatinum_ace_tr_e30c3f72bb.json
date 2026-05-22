@@ -1,0 +1,57 @@
+{
+  "id": "pret_pokeplatinum_ace_trainer_quinn",
+  "name": "Ace Trainer Male Quinn",
+  "title": "Ace Trainer Male",
+  "gender": "male",
+  "archetype": "ace_trainer_male",
+  "region": "Sinnoh",
+  "category": "route_trainer",
+  "source": "pret_pokeplatinum",
+  "skinSet": "",
+  "skinFolder": "ace_trainer_male/male",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.05,
+  "weight": 1.07,
+  "bustStyle": "",
+  "minLevel": 55,
+  "maxLevel": 56,
+  "team": [
+    {
+      "species": "cobblemon:pinsir",
+      "level": 55,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "superpower",
+        "xscissor",
+        "swordsdance",
+        "rocktomb"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:lanturn",
+      "level": 56,
+      "gender": "GENDERLESS",
+      "nature": "",
+      "ability": "",
+      "moveset": [
+        "discharge",
+        "signalbeam",
+        "surf",
+        "confuseray"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I\u2019ve pumped up my gang till they can\u2019t get pumped no more. They\u2019re going to school your Pok\u00e9mon!",
+    "I fed my gang Protein, Carbos... You name it, I pumped \u2019em full of it."
+  ]
+}

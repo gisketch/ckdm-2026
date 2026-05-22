@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "friendly_coach_x_spd"
+name = "Friendly Coach Spd"
+title = "Friendly Coach"
+gender = "any"
+archetype = "friendly_coach"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "friendly_coach/any"
+tier = "low"
+spawnable = true
+height = 0.98
+weight = 1.01
+bustStyle = ""
+minLevel = 1
+maxLevel = 1
+team = [
+  { species = "cobblemon:dustox", level = 1, gender = "MALE", nature = "adamant", ability = "shielddust", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 1, gender = "MALE", nature = "docile", ability = "shielddust", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 1, gender = "FEMALE", nature = "hardy", ability = "shielddust", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 1, gender = "MALE", nature = "serious", ability = "shielddust", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 1, gender = "MALE", nature = "modest", ability = "shielddust", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:dustox", level = 1, gender = "FEMALE", nature = "lax", ability = "shielddust", moveset = ["memento"], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

@@ -1,0 +1,72 @@
+{
+  "id": "rct_ace_trainer_savannah_03a8",
+  "name": "Ace Trainer Savannah",
+  "title": "Ace Trainer",
+  "gender": "any",
+  "archetype": "ace_trainer",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "ace_trainer/any",
+  "tier": "mid",
+  "spawnable": true,
+  "height": 1.04,
+  "weight": 1.04,
+  "bustStyle": "",
+  "minLevel": 35,
+  "maxLevel": 37,
+  "team": [
+    {
+      "species": "cobblemon:pelipper",
+      "level": 35,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "drizzle",
+      "moveset": [
+        "tailwind",
+        "wingattack",
+        "waterpulse",
+        "icebeam"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:golduck",
+      "level": 36,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "damp",
+      "moveset": [
+        "aquajet",
+        "zenheadbutt",
+        "icebeam",
+        "dig"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:steelix",
+      "level": 37,
+      "gender": "MALE",
+      "nature": "relaxed",
+      "ability": "sturdy",
+      "moveset": [
+        "icefang",
+        "screech",
+        "irontail",
+        "bulldoze"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

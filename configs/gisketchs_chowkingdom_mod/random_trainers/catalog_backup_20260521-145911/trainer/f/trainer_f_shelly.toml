@@ -1,0 +1,26 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "trainer_f_shelly"
+name = "Trainer Shelly"
+title = "Trainer"
+gender = "female"
+archetype = "trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "trainer/female"
+tier = "mid"
+spawnable = true
+height = 1
+weight = 1
+bustStyle = "standard"
+minLevel = 44
+maxLevel = 44
+team = [
+  { species = "cobblemon:dodrio", level = 44, gender = "FEMALE", nature = "jolly", ability = "rockhead", moveset = ["pursuit", "bravebird", "doubleedge", "jumpkick"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:granbull", level = 44, gender = "MALE", nature = "adamant", ability = "intimidate", moveset = ["closecombat", "playrough", "thunderwave", "firepunch"], heldItem = "['leftovers']", shiny = false, aspects = [] },
+  { species = "cobblemon:appletun", level = 44, gender = "MALE", nature = "modest", ability = "thickfat", moveset = ["dracometeor", "superpower", "leafstorm", "recover"], heldItem = "['eject_pack']", shiny = false, aspects = [] },
+  { species = "cobblemon:cinccino", level = 44, gender = "MALE", nature = "jolly", ability = "skilllink", moveset = ["tailslap", "tripleaxel", "rockblast", "bulletseed"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]

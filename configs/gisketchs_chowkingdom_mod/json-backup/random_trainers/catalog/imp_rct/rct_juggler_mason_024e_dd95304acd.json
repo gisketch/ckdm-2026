@@ -1,0 +1,88 @@
+{
+  "id": "rct_juggler_mason_024e",
+  "name": "Juggler Mason",
+  "title": "Juggler",
+  "gender": "any",
+  "archetype": "juggler",
+  "region": "",
+  "category": "route_trainer",
+  "source": "rct_import",
+  "skinSet": "",
+  "skinFolder": "juggler/any",
+  "tier": "high",
+  "spawnable": true,
+  "height": 1.0,
+  "weight": 1.01,
+  "bustStyle": "",
+  "minLevel": 47,
+  "maxLevel": 47,
+  "team": [
+    {
+      "species": "cobblemon:voltorb",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "careful",
+      "ability": "static",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pineco",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "sassy",
+      "ability": "sturdy",
+      "moveset": [
+        "spikes",
+        "bide",
+        "rapidspin",
+        "takedown"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:voltorb",
+      "level": 47,
+      "gender": "GENDERLESS",
+      "nature": "hasty",
+      "ability": "static",
+      "moveset": [
+        "swift",
+        "lightscreen",
+        "spark",
+        "sonicboom"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "cobblemon:pineco",
+      "level": 47,
+      "gender": "MALE",
+      "nature": "rash",
+      "ability": "sturdy",
+      "moveset": [
+        "spikes",
+        "bide",
+        "rapidspin",
+        "explosion"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

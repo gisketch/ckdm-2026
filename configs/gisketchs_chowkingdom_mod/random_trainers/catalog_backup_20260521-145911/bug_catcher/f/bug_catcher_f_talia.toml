@@ -1,0 +1,25 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "bug_catcher_f_talia"
+name = "Bug Catcher Talia"
+title = "Bug Catcher"
+gender = "female"
+archetype = "bug_catcher"
+region = "Kanto/Sevii"
+category = "specialist"
+source = "pret_pokefirered"
+skinSet = ""
+skinFolder = "bug_catcher/female"
+tier = "low"
+spawnable = true
+height = 0.89
+weight = 0.93
+bustStyle = "standard"
+minLevel = 18
+maxLevel = 18
+team = [
+  { species = "cobblemon:metapod", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:caterpie", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+  { species = "cobblemon:venonat", level = 18, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Bug Catcher 2 is ready for a battle."]

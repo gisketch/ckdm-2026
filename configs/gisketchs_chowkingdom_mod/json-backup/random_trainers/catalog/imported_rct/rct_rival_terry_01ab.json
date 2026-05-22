@@ -1,0 +1,81 @@
+{
+  "id": "rct_rival_terry_01ab",
+  "name": "Rival Terry",
+  "title": "Rival",
+  "gender": "any",
+  "archetype": "rival",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 26,
+  "maxLevel": 28,
+  "team": [
+    {
+      "species": "kirlia",
+      "level": 28,
+      "gender": "MALE",
+      "nature": "docile",
+      "ability": "trace",
+      "moveset": [
+        "magicalleaf",
+        "healpulse",
+        "drainingkiss",
+        "calmmind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "lycanroc",
+      "level": 26,
+      "gender": "MALE",
+      "nature": "quiet",
+      "ability": "toughclaws",
+      "moveset": [
+        "rockthrow",
+        "odorsleuth",
+        "rocktomb",
+        "roar"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "staravia",
+      "level": 26,
+      "gender": "FEMALE",
+      "nature": "rash",
+      "ability": "intimidate",
+      "moveset": [
+        "quickattack",
+        "wingattack",
+        "endeavor",
+        "whirlwind"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "ivysaur",
+      "level": 28,
+      "gender": "FEMALE",
+      "nature": "hasty",
+      "ability": "overgrow",
+      "moveset": [
+        "sludge",
+        "megadrain",
+        "takedown",
+        "growth"
+      ],
+      "heldItem": "",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

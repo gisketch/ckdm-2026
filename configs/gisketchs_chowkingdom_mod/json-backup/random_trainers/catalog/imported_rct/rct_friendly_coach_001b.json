@@ -1,0 +1,95 @@
+{
+  "id": "rct_friendly_coach_001b",
+  "name": "Friendly Coach (Hp)",
+  "title": "Friendly",
+  "gender": "any",
+  "archetype": "friendly",
+  "region": "",
+  "source": "rct_import",
+  "skinSet": "",
+  "minLevel": 1,
+  "maxLevel": 1,
+  "team": [
+    {
+      "species": "audino",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "healer",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "regenerator",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "healer",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "regenerator",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 1,
+      "gender": "MALE",
+      "nature": "jolly",
+      "ability": "healer",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    },
+    {
+      "species": "audino",
+      "level": 1,
+      "gender": "FEMALE",
+      "nature": "jolly",
+      "ability": "healer",
+      "moveset": [
+        "memento"
+      ],
+      "heldItem": "choice_scarf",
+      "shiny": false,
+      "aspects": []
+    }
+  ],
+  "dialogue": [
+    "I have trained this team for the road. Challenge me if you are ready."
+  ]
+}

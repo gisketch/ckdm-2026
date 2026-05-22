@@ -1,0 +1,23 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "camper_x_virgil"
+name = "Camper Virgil"
+title = "Camper"
+gender = "any"
+archetype = "camper"
+region = "Johto/Kanto"
+category = "route_trainer"
+source = "pret_pokeheartgold"
+skinSet = ""
+skinFolder = "camper/any"
+tier = "mid"
+spawnable = true
+height = 0.91
+weight = 0.94
+bustStyle = ""
+minLevel = 43
+maxLevel = 43
+team = [
+  { species = "cobblemon:slakoth", level = 43, gender = "GENDERLESS", nature = "", ability = "", moveset = [], heldItem = "", shiny = false, aspects = [] },
+]
+dialogue = ["Walking along with luggage and your companion Pokémon gives a great feeling of outdoor life!", "Are you also on a solo journey? See you again sometime. Bye for now!"]

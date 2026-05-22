@@ -1,0 +1,28 @@
+# CKDM unified random trainer roster. Managed by tools/unify_random_trainers.py.
+
+id = "rct_trainer_x_fantina"
+name = "Rct Trainer Fantina"
+title = "Rct Trainer"
+gender = "any"
+archetype = "rct_trainer"
+region = ""
+category = "route_trainer"
+source = "rct_import"
+skinSet = ""
+skinFolder = "rct_trainer/any"
+tier = "high"
+spawnable = true
+height = 0.98
+weight = 1
+bustStyle = ""
+minLevel = 65
+maxLevel = 72
+team = [
+  { species = "cobblemon:drifblim", level = 68, gender = "MALE", nature = "modest", ability = "flareboost", moveset = ["shadowball", "thunderbolt", "psychic", "strengthsap"], heldItem = "['flame_orb']", shiny = false, aspects = [] },
+  { species = "cobblemon:banette", level = 65, gender = "MALE", nature = "adamant", ability = "cursedbody", moveset = ["shadowsneak", "suckerpunch", "snatch", "trick"], heldItem = "['iron_ball']", shiny = false, aspects = [] },
+  { species = "cobblemon:dusknoir", level = 70, gender = "FEMALE", nature = "adamant", ability = "pressure", moveset = ["shadowsneak", "earthquake", "willowisp", "confuseray"], heldItem = "['sitrus_berry']", shiny = false, aspects = [] },
+  { species = "cobblemon:mismagius", level = 70, gender = "FEMALE", nature = "timid", ability = "levitate", moveset = ["shadowball", "energyball", "mysticalfire", "dazzlinggleam"], heldItem = "['expert_belt']", shiny = false, aspects = [] },
+  { species = "cobblemon:froslass", level = 72, gender = "FEMALE", nature = "timid", ability = "cursedbody", moveset = ["hex", "frostbreath", "willowisp", "destinybond"], heldItem = "['focus_sash']", shiny = false, aspects = [] },
+  { species = "cobblemon:gengar", level = 72, gender = "FEMALE", nature = "timid", ability = "cursedbody", moveset = ["hex", "sludgebomb", "focusblast", "toxic"], heldItem = "['life_orb']", shiny = false, aspects = [] },
+]
+dialogue = ["I have trained this team for the road. Challenge me if you are ready."]
